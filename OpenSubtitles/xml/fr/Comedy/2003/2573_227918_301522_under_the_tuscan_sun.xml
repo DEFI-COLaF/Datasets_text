@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+  <s id="1">
+    <time id="T1S" value="00:02:05,045" />
+    <w id="1.1">Marcello</w>
+    <w id="1.2">.</w>
+  </s>
+  <s id="2">
+    <w id="2.1">Tu</w>
+    <w id="2.2">es</w>
+    <w id="2.3">fou</w>
+    <w id="2.4">.</w>
+    <time id="T1E" value="00:02:09,038" />
+  </s>
+  <s id="3">
+    <time id="T2S" value="00:02:09,116" />
+    <w id="3.1">Merci</w>
+    <w id="3.2">beaucoup</w>
+    <w id="3.3">.</w>
+    <time id="T2E" value="00:02:11,346" />
+  </s>
+  <s id="4">
+    <time id="T3S" value="00:02:15,689" />
+    <w id="4.1">-</w>
+    <w id="4.2">Tonton</w>
+    <w id="4.3">,</w>
+    <w id="4.4">je</w>
+    <w id="4.5">voudrais</w>
+    <w id="4.6">une</w>
+    <w id="4.7">glace</w>
+    <w id="4.8">.</w>
+  </s>
+  <s id="5">
+    <w id="5.1">-</w>
+    <w id="5.2">Tu</w>
+    <w id="5.3">veux</w>
+    <w id="5.4">une</w>
+    <w id="5.5">glace</w>
+    <w id="5.6">?</w>
+    <time id="T3E" value="00:02:19,090" />
+  </s>
+  <s id="6">
+    <time id="T4S" value="00:02:19,159" />
+    <w id="6.1">-</w>
+    <w id="6.2">Tu</w>
+    <w id="6.3">en</w>
+    <w id="6.4">as</w>
+    <w id="6.5">eu</w>
+    <w id="6.6">combien</w>
+    <w id="6.7">aujourd'</w>
+    <w id="6.8">hui</w>
+    <w id="6.9">?</w>
+  </s>
+  <s id="7">
+    <w id="7.1">-</w>
+    <w id="7.2">Deux</w>
+    <w id="7.3">.</w>
+    <time id="T4E" value="00:02:21,559" />
+  </s>
+  <s id="8">
+    <time id="T5S" value="00:02:21,628" />
+    <w id="8.1">Deux</w>
+    <w id="8.2">seulement</w>
+    <w id="8.3">?</w>
+  </s>
+  <s id="9">
+    <w id="9.1">Alors</w>
+    <w id="9.2">va</w>
+    <w id="9.3">t'</w>
+    <w id="9.4">en</w>
+    <w id="9.5">chercher</w>
+    <w id="9.6">une</w>
+    <w id="9.7">autre</w>
+    <w id="9.8">.</w>
+  </s>
+  <s id="10">
+    <w id="10.1">Mais</w>
+    <w id="10.2">d'</w>
+    <w id="10.3">abord</w>
+    <w id="10.4">,</w>
+    <w id="10.5">un</w>
+    <w id="10.6">bisou</w>
+    <w id="10.7">.</w>
+    <time id="T5E" value="00:02:26,759" />
+  </s>
+  <s id="11">
+    <time id="T6S" value="00:02:29,669" />
+    <w id="11.1">Maria</w>
+    <w id="11.2">,</w>
+    <w id="11.3">donne-</w>
+    <w id="11.4">lui</w>
+    <w id="11.5">une</w>
+    <w id="11.6">glace</w>
+    <w id="11.7">.</w>
+  </s>
+  <s id="12">
+    <w id="12.1">Une</w>
+    <w id="12.2">grosse</w>
+    <w id="12.3">.</w>
+    <time id="T6E" value="00:02:33,036" />
+  </s>
+  <s id="13">
+    <time id="T7S" value="00:03:40,540" />
+    <w id="13.1">Tu</w>
+    <w id="13.2">as</w>
+    <w id="13.3">ta</w>
+    <w id="13.4">glace</w>
+    <w id="13.5">.</w>
+  </s>
+  <s id="14">
+    <w id="14.1">Bravo</w>
+    <w id="14.2">.</w>
+    <time id="T7E" value="00:03:43,634" />
+  </s>
+  <s id="15">
+    <time id="T8S" value="00:28:53,885" />
+    <w id="15.1">RECETTES</w>
+    <w id="15.2">DU</w>
+    <w id="15.3">DÎNER</w>
+    <w id="15.4">DE</w>
+    <w id="15.5">SAN</w>
+    <w id="15.6">FRANCISCO</w>
+    <time id="T8E" value="00:28:55,819" />
+  </s>
+  <s id="16">
+    <time id="T9S" value="00:29:41,099" />
+    <w id="16.1">Excusez-</w>
+    <w id="16.2">moi</w>
+    <w id="16.3">.</w>
+    <time id="T9E" value="00:29:42,691" />
+  </s>
+  <s id="17">
+    <time id="T10S" value="00:29:42,768" />
+    <w id="17.1">-</w>
+    <w id="17.2">Vous</w>
+    <w id="17.3">pourriez</w>
+    <w id="17.4">me</w>
+    <w id="17.5">déposer</w>
+    <w id="17.6">?</w>
+  </s>
+  <s id="18">
+    <w id="18.1">-</w>
+    <w id="18.2">Avec</w>
+    <w id="18.3">plaisir</w>
+    <w id="18.4">.</w>
+    <time id="T10E" value="00:29:46,898" />
+  </s>
+  <s id="19">
+    <time id="T11S" value="00:30:11,429" />
+    <w id="19.1">Je</w>
+    <w id="19.2">pourrais</w>
+    <w id="19.3">vous</w>
+    <w id="19.4">attendre</w>
+    <w id="19.5">là</w>
+    <w id="19.6">et</w>
+    <w id="19.7">vous</w>
+    <w id="19.8">ramener</w>
+    <w id="19.9">.</w>
+    <time id="T11E" value="00:30:15,126" />
+  </s>
+  <s id="20">
+    <time id="T12S" value="00:30:15,200" />
+    <w id="20.1">Merci</w>
+    <w id="20.2">,</w>
+    <w id="20.3">mais</w>
+    <w id="20.4">mon</w>
+    <w id="20.5">petit</w>
+    <w id="20.6">ami</w>
+    <w id="20.7">m'</w>
+    <w id="20.8">attend</w>
+    <w id="20.9">.</w>
+    <time id="T12E" value="00:30:18,431" />
+  </s>
+  <s id="21">
+    <time id="T13S" value="00:31:17,229" />
+    <w id="21.1">On</w>
+    <w id="21.2">va</w>
+    <w id="21.3">être</w>
+    <w id="21.4">en</w>
+    <w id="21.5">retard</w>
+    <w id="21.6">.</w>
+    <time id="T13E" value="00:31:19,163" />
+  </s>
+  <s id="22">
+    <time id="T14S" value="00:31:19,231" />
+    <w id="22.1">Un</w>
+    <w id="22.2">instant</w>
+    <w id="22.3">,</w>
+    <w id="22.4">chérie</w>
+    <w id="22.5">.</w>
+    <time id="T14E" value="00:31:21,028" />
+  </s>
+  <s id="23">
+    <time id="T15S" value="00:31:21,099" />
+    <w id="23.1">J'</w>
+    <w id="23.2">arrive</w>
+    <w id="23.3">tout</w>
+    <w id="23.4">de</w>
+    <w id="23.5">suite</w>
+    <w id="23.6">.</w>
+    <time id="T15E" value="00:31:23,260" />
+  </s>
+  <s id="24">
+    <time id="T16S" value="00:33:41,373" />
+    <w id="24.1">Elle</w>
+    <w id="24.2">est</w>
+    <w id="24.3">dans</w>
+    <w id="24.4">la</w>
+    <w id="24.5">fontaine</w>
+    <w id="24.6">!</w>
+    <time id="T16E" value="00:33:43,933" />
+  </s>
+  <s id="25">
+    <time id="T17S" value="00:33:44,009" />
+    <w id="25.1">-</w>
+    <w id="25.2">Qui</w>
+    <w id="25.3">est</w>
+    <w id="25.4">dans</w>
+    <w id="25.5">la</w>
+    <w id="25.6">fontaine</w>
+    <w id="25.7">?</w>
+  </s>
+  <s id="26">
+    <w id="26.1">-</w>
+    <w id="26.2">La</w>
+    <w id="26.3">folle</w>
+    <w id="26.4">blonde</w>
+    <w id="26.5">!</w>
+    <time id="T17E" value="00:33:46,876" />
+  </s>
+  <s id="27">
+    <time id="T18S" value="00:41:00,611" />
+    <w id="27.1">Si</w>
+    <w id="27.2">,</w>
+    <w id="27.3">moi</w>
+    <w id="27.4">!</w>
+  </s>
+  <s id="28">
+    <w id="28.1">J'</w>
+    <w id="28.2">ai</w>
+    <w id="28.3">connu</w>
+    <w id="28.4">un</w>
+    <w id="28.5">grand</w>
+    <w id="28.6">amour</w>
+    <w id="28.7">.</w>
+    <time id="T18E" value="00:41:03,512" />
+  </s>
+  <s id="29">
+    <time id="T19S" value="00:41:04,649" />
+    <w id="29.1">Ton</w>
+    <w id="29.2">père</w>
+    <w id="29.3">...</w>
+    <w id="29.4">un</w>
+    <w id="29.5">grand</w>
+    <w id="29.6">amour</w>
+    <w id="29.7">.</w>
+    <time id="T19E" value="00:41:07,083" />
+  </s>
+  <s id="30">
+    <time id="T20S" value="00:41:07,151" />
+    <w id="30.1">Et</w>
+    <w id="30.2">je</w>
+    <w id="30.3">ne</w>
+    <w id="30.4">l'</w>
+    <w id="30.5">oublierai</w>
+    <w id="30.6">jamais</w>
+    <w id="30.7">.</w>
+    <time id="T20E" value="00:41:09,051" />
+  </s>
+  <s id="31">
+    <time id="T21S" value="00:41:10,822" />
+    <w id="31.1">C'</w>
+    <w id="31.2">est</w>
+    <w id="31.3">un</w>
+    <w id="31.4">pauvre</w>
+    <w id="31.5">travailleur</w>
+    <w id="31.6">polonais</w>
+    <w id="31.7">.</w>
+    <time id="T21E" value="00:41:13,985" />
+  </s>
+  <s id="32">
+    <time id="T22S" value="00:41:14,058" />
+    <w id="32.1">Il</w>
+    <w id="32.2">n'</w>
+    <w id="32.3">est</w>
+    <w id="32.4">rien</w>
+    <w id="32.5">.</w>
+    <time id="T22E" value="00:41:15,491" />
+  </s>
+</document>
