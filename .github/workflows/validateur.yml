@@ -1,4 +1,4 @@
-name: ArbreSOTA
+name: ValidationXMLTEI
 
 on: [push, pull_request]
 
