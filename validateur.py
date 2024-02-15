@@ -24,6 +24,16 @@ def apply_rng(rng_file):
 			log = rng_schema.error_log
 			print(log.last_error)
 			issue_bool = False
+	for domaines in os.listdir("OpenSubtitles/dataset_colaf/"):
+		for annee in os.listdir("OpenSubtitles/dataset_colaf/"+domaines+"/"):
+			for xml_file in os.listdir(f"OpenSubtitles/dataset_colaf/{domaines}/{annee}/"):
+				xml_doc = ET.parse(f'OpenSubtitles/dataset_colaf/{domaines}/{annee}/{xml_file}')	
+				validate_bool= rng_schema.validate(xml_doc)
+				if not validate_bool:
+					print(f'problème dans le fichier {xml_file}')
+					log = rng_schema.error_log
+					print(log.last_error)
+					issue_bool = False
 	if issue_bool:
 		sys.exit(0)
 	else:
