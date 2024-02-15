@@ -1,0 +1,2263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+            <fileDesc>
+              <titleStmt>
+                <idno>fra-sosweet-0098</idno>
+                <title type="main">2017-04-07T02</title>
+                <title type="collection">So Sweet</title>
+                <respStmt>
+                  <resp>Encoding</resp>
+                  <persName xml:id="JJANES">
+                    <surname>Janès</surname>
+                    <forename>Juliette</forename>
+                    <idno type="orcid">0000-0002-8971-6173</idno>
+                  </persName>
+                </respStmt>
+                <principal>
+                  <persName xml:id="BSAGOT">
+                    <surname>Sagot</surname>
+                    <forename>Benoît</forename>
+                    <idno type="orcid">0000-0001-8957-9503</idno>
+                  </persName>
+                </principal>
+                <funder>Inria</funder>
+              </titleStmt>
+              <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                  France (COLaF)</publisher>
+                <date when="2024-01-30"/>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+              </publicationStmt>
+              <sourceDesc>
+                <bibl type="digitalSource">
+                  <ptr target="https://www.ortolang.fr/market/corpora/sosweet"/>
+                  <title>So Sweet</title>
+                  <author>Jean-Philippe Magué</author>
+                  <author>Marton Karsai</author>
+                  <author>Jean-Pierre Chevrot</author>
+                  <author>Djamé Seddah</author>
+                  <publisher>Ortolang</publisher>
+                  <date when="2024"/>
+                </bibl>
+              </sourceDesc>
+              <extent>
+                <measure unit="token-colaf"/><!--A ajouter plus tard-->
+              </extent>
+            </fileDesc>
+            <profileDesc>
+              <langUsage>
+                <language ident="met-fra-std">
+                  <idno type="langue">met-fra-std</idno>
+                  <idno type="script">latin</idno>
+                  <name>Français</name>
+                  <date from="2009" to="2017"/>
+                  <location/>
+                </language>
+              </langUsage>
+              <textClass>
+                <keywords>
+                  <term type="supergenre" rend="web">Web</term>
+                  <term type="genre" rend="web-social">Social</term>
+                  <term type="motclef" rend="web-social-forum">Tweets</term>
+                </keywords>
+              </textClass>
+              <particDesc>
+                <listPerson><person xml:id="9S1VisSQEj"/><person xml:id="ezQIli8pBY"/><person xml:id="hONcou4S1C"/><person xml:id="gmJc16dDy2"/><person xml:id="fe1fY8se7C"/><person xml:id="NvfbAFDkBc"/><person xml:id="30Ofad204a"/><person xml:id="Y0aEn3r2xp"/><person xml:id="2pAFW8cl7e"/><person xml:id="NdO6rXjkFi"/><person xml:id="Hcb4ulg4bZ"/><person xml:id="QKRISzkElv"/><person xml:id="hVg12uWfQZ"/><person xml:id="HvcI0P8jRj"/><person xml:id="CWSg3OhEhM"/><person xml:id="9E62PQFAL7"/><person xml:id="kinxnTTjeQ"/><person xml:id="gVgASSWpEN"/><person xml:id="GBqce07Vmx"/><person xml:id="P6YgZMZWXP"/><person xml:id="rgvQIS5uZE"/><person xml:id="m5O3L32OA0"/><person xml:id="pc59hSceKm"/><person xml:id="Q2Fk7w5NjM"/><person xml:id="sqvm0XCrOm"/><person xml:id="MQfbrqGlsw"/><person xml:id="dsTTwdqQSZ"/><person xml:id="0zMBcwUTPa"/><person xml:id="EcFFINu6tz"/><person xml:id="owdT0sVvbu"/><person xml:id="7YHH9fZaPK"/><person xml:id="m05F3G7sWZ"/><person xml:id="RuF1BRE69S"/><person xml:id="TYzRQotJKK"/><person xml:id="SdogefoEKH"/><person xml:id="EgfMyOjdMY"/><person xml:id="a13j3gM092"/><person xml:id="lX07ltKK0W"/><person xml:id="4wUNS8HWQe"/><person xml:id="SzVr3Q9yyj"/><person xml:id="OBBzAdwAqs"/><person xml:id="0cVfJ8ssMh"/><person xml:id="4AQQVMl0AS"/><person xml:id="GsMeYipKOe"/><person xml:id="8IyhgjPxI4"/><person xml:id="j7IC0Hdkji"/><person xml:id="yDPU5oQxjo"/><person xml:id="YCJkv3JmN4"/><person xml:id="AvWrAPvktH"/><person xml:id="nF00hEcYFa"/><person xml:id="p1Vo6IOizb"/><person xml:id="HWJssZabP6"/><person xml:id="O1lxjwOZXv"/><person xml:id="uNnTsmifBE"/><person xml:id="PU0HfnAwgr"/><person xml:id="fz6s7gQMzY"/><person xml:id="Cs6rZ7UFqb"/><person xml:id="KPtvtgIKHj"/><person xml:id="FsNoxFFxvI"/><person xml:id="l3N1tZKh82"/><person xml:id="O3n5BpJQ7k"/><person xml:id="w9jWjcDZKM"/><person xml:id="HVYyqWeEem"/><person xml:id="w9zHAG90E2"/><person xml:id="stacZLDduV"/><person xml:id="A04PPJcapr"/><person xml:id="OnoAixQ2N9"/><person xml:id="gxzoqFgTU1"/><person xml:id="gMtG7vNTEI"/><person xml:id="I3h2MmezFN"/><person xml:id="ylbZDkFLVT"/><person xml:id="9Nt3IdcUIR"/><person xml:id="MJnVXibxvF"/><person xml:id="YyQBdICFlg"/><person xml:id="0ysmVDgmmS"/><person xml:id="VCbQdU3ni6"/><person xml:id="BgPev56yB1"/><person xml:id="hoqGzgXyWe"/><person xml:id="X52jUbJ2oy"/><person xml:id="VqIosqjPCL"/><person xml:id="bFUQAnHNJz"/><person xml:id="zuMij5Lb62"/><person xml:id="hVbuYcjhhU"/><person xml:id="4CuAwYdMRB"/><person xml:id="jstchlizNP"/><person xml:id="kIWnjGDKPu"/><person xml:id="bxsTIXmTW3"/><person xml:id="SzsFxhRmJU"/><person xml:id="kIpSYBivlL"/><person xml:id="fgL5Q9qQjQ"/><person xml:id="EBEiLgTRMd"/><person xml:id="HBTvYKoTCD"/><person xml:id="i6m7tuO9lt"/><person xml:id="w1wSbiJb05"/><person xml:id="g8I5oNoDm0"/><person xml:id="fXxzLYnvWJ"/><person xml:id="zK32OAxiQy"/><person xml:id="eYCxeLBt6A"/><person xml:id="ecJNFe6sYP"/><person xml:id="hAFx3P3Yo5"/><person xml:id="L76I43a8uh"/><person xml:id="uDeK6epIov"/><person xml:id="yg6BxHiBSP"/><person xml:id="0q30CwRdvL"/><person xml:id="i6DEZGZL29"/><person xml:id="w40paih37j"/><person xml:id="XTnk24OeG4"/><person xml:id="vAGxklwCbC"/><person xml:id="YVXBFxxiD2"/><person xml:id="79kTf8B6PK"/><person xml:id="yjptU0AmS5"/><person xml:id="enoQws0XjU"/><person xml:id="BIRMOjOmka"/><person xml:id="2PYInCezww"/><person xml:id="KzZ3hhiIXt"/><person xml:id="wYKyANaoW8"/><person xml:id="K131kRval0"/><person xml:id="jJ198dbbK5"/><person xml:id="222HBVEbWq"/><person xml:id="hlhDqJCXz7"/><person xml:id="iwpO3d0YId"/><person xml:id="diobtzsqx6"/><person xml:id="UzOaot4C0u"/><person xml:id="9P2l7Wa3uu"/><person xml:id="5Z6LD1FG5f"/><person xml:id="0J4NKc7Uco"/><person xml:id="uJqdda1L29"/><person xml:id="p1uE1GCSSn"/><person xml:id="RGIqoVdE9M"/><person xml:id="TWdewS3yP7"/><person xml:id="yPjkdU69yA"/><person xml:id="gICSHbgOx4"/><person xml:id="QdTyyiy4qS"/><person xml:id="DjtupY5fMX"/><person xml:id="86UqkWGAVy"/><person xml:id="OFKZAKhUU4"/><person xml:id="Hw8C8jm4Hl"/><person xml:id="CAQ4LOapbP"/><person xml:id="sqPwVgECaD"/><person xml:id="OoR6f22tsG"/><person xml:id="PWjuEXdzuu"/><person xml:id="LdoYlwB2qt"/><person xml:id="ahW2d9SPrV"/><person xml:id="h4uhNrmoL7"/><person xml:id="YJa9pkwRbT"/><person xml:id="n4xQLvcLIJ"/><person xml:id="YCUtnFlvPC"/><person xml:id="r2rvHWRJBr"/><person xml:id="NTMpcWuwNs"/><person xml:id="LeyIIattDi"/><person xml:id="YGe7vWsEbA"/><person xml:id="KBYtikWGa8"/><person xml:id="g3flX0y5Pf"/><person xml:id="Cnp0X4KXvl"/><person xml:id="x8T8EWoHU9"/><person xml:id="SoNTA98gzN"/><person xml:id="QcZVesCQJh"/><person xml:id="CeQDgy2TUV"/><person xml:id="SG0enb0vBK"/><person xml:id="OA1jVm2XN2"/><person xml:id="bbpcJQnNFV"/><person xml:id="R7CLNfy2YI"/><person xml:id="PubsRpRSBH"/><person xml:id="At5ji7K3gv"/><person xml:id="KN9GCoJLHI"/><person xml:id="NGNSO2uHxi"/><person xml:id="dchfq78n8y"/><person xml:id="HBAlZAJqPV"/><person xml:id="AUYY70X65s"/><person xml:id="7LhXdurZbS"/><person xml:id="BR80b3pAb0"/><person xml:id="D6f0IqpNmq"/><person xml:id="N2sDq3F2CR"/><person xml:id="c67qAjBVHa"/><person xml:id="GWbHnLrR0g"/><person xml:id="exiaPx61AW"/><person xml:id="ZRllxONH9v"/><person xml:id="ps772QRE0T"/><person xml:id="7bdKAK0BkJ"/><person xml:id="H0ecuCmlOd"/><person xml:id="jBWeGDAi6D"/><person xml:id="otu4QowdjF"/><person xml:id="5baoFXh0NE"/><person xml:id="wvpC5MZita"/><person xml:id="VAjl3E5ctO"/><person xml:id="LZRUsbadz3"/><person xml:id="HGTyFyhC0v"/><person xml:id="PbcumgcuEH"/><person xml:id="S0JaQBHUZo"/><person xml:id="YOG2bPyWKt"/><person xml:id="9RCHrA3P04"/><person xml:id="DHi8Whqh9y"/><person xml:id="LkCabRm9vf"/><person xml:id="1IgOTE60bC"/><person xml:id="4ipwGB73Pb"/><person xml:id="VYEwyT5AMk"/><person xml:id="g6uXt5nddG"/><person xml:id="ZeGWAUVvfX"/><person xml:id="QrKKSrdltQ"/><person xml:id="iw1vxDVzOQ"/><person xml:id="vIm4hqA5q9"/><person xml:id="5BPpKzGCiX"/><person xml:id="sXjG4Bp8Cc"/><person xml:id="KaqjgCxJV3"/><person xml:id="a8Hn1R4vOF"/><person xml:id="C1acn91PRf"/><person xml:id="gCpdltDwQv"/><person xml:id="8JZfoi6LXe"/><person xml:id="nadRxLqWgZ"/><person xml:id="eI9o6aEqHJ"/><person xml:id="yDlP08Sedb"/><person xml:id="UN4Bmh7NbK"/><person xml:id="ygYLp2FFIE"/><person xml:id="LDwjdEGOMK"/><person xml:id="obtXtrpQXZ"/><person xml:id="VUPxNr65gM"/><person xml:id="KajplOhPNZ"/><person xml:id="5kEhZJriEp"/><person xml:id="cEH3ikWryY"/><person xml:id="Xgtr3gQygE"/><person xml:id="FwtR860O2w"/><person xml:id="zFe0I9Re32"/><person xml:id="j9YZ3ihhnY"/><person xml:id="Jwbcdd9GPS"/><person xml:id="8DI06IIdBC"/><person xml:id="SV1LrbbdqM"/><person xml:id="qf3mURTIyS"/><person xml:id="J51x7zXba4"/><person xml:id="iScijRvyuO"/><person xml:id="ejZIQTh0Kb"/><person xml:id="15VEOMc9mK"/><person xml:id="Bv5ikVp934"/><person xml:id="OEKLvP37FH"/><person xml:id="6x1TnCJuc5"/><person xml:id="w5kcYYsc3X"/><person xml:id="AnP4jKKeDT"/><person xml:id="VNEqkH1HNI"/><person xml:id="nBlhIrpyu3"/><person xml:id="Br5K0OWNXZ"/><person xml:id="ejozUtM1A1"/><person xml:id="GIz1y0B39b"/><person xml:id="w6CcsFncgn"/><person xml:id="cFNASdi2ld"/><person xml:id="QNoZJvVqbj"/><person xml:id="rqSqPOeZMW"/><person xml:id="NWR8zIfrHU"/><person xml:id="G6tzQrJsTg"/><person xml:id="IEhZjN7ovW"/><person xml:id="PLbWo3NSbC"/><person xml:id="OVpBAwnRIP"/><person xml:id="oLqJSDghPA"/><person xml:id="yKliGqxHiB"/><person xml:id="rq0A0xOgpC"/><person xml:id="nXvuDqaOGV"/><person xml:id="ujW0cKhh3w"/><person xml:id="WVf8gZeQqd"/><person xml:id="oUubSeimJJ"/><person xml:id="cky90GTwmn"/><person xml:id="h3861YGIe7"/><person xml:id="6MLcPczuCI"/><person xml:id="UWZwvXFT86"/><person xml:id="4wi6yyzTrt"/><person xml:id="LjU4ubMjJm"/><person xml:id="fhvloUmrPR"/><person xml:id="GdRkE0DQcV"/><person xml:id="tm9rRv1HK1"/><person xml:id="bBCT42489W"/><person xml:id="wEuH0FZL4G"/><person xml:id="8xpkoCth9R"/><person xml:id="PO5tV1uBv4"/><person xml:id="PSWoajyNDW"/><person xml:id="myB4PPuTEH"/><person xml:id="1ivBcKfsCV"/><person xml:id="vuVtA929Um"/><person xml:id="45cenZWKf2"/><person xml:id="Z7zP8Xl9ii"/><person xml:id="cuqL5klcva"/><person xml:id="Xs1RBSWR5m"/><person xml:id="eSs1NoKX3x"/><person xml:id="y50n90a6Hk"/><person xml:id="cwJR57oU2P"/><person xml:id="yoMvJ3M0vs"/><person xml:id="4TOdkI3BlQ"/><person xml:id="uDzG4CXu8z"/><person xml:id="OFczxNMpHc"/><person xml:id="BNvIP6Cpu4"/><person xml:id="9rm9gv3Z9q"/><person xml:id="bMj16MUvla"/><person xml:id="TdQ9Wx5aVk"/><person xml:id="6xXEQXLY7z"/><person xml:id="gZWEIZ6nrr"/><person xml:id="g9FcAu0Ldn"/><person xml:id="zlVvjvQyQ2"/><person xml:id="GsV5kXxwQE"/><person xml:id="fZNCdk0DCT"/><person xml:id="jW8orVVT1U"/><person xml:id="ogvKz2Cvin"/><person xml:id="HSC31vmS0l"/><person xml:id="tEyBGrNhh4"/><person xml:id="S2tyyAvDBu"/><person xml:id="ekNadMHPP5"/><person xml:id="qSb2TW1f0J"/><person xml:id="2KYjwiSiuq"/><person xml:id="pOWqUmn27A"/><person xml:id="zrhwjBBSdk"/><person xml:id="ZdhP827yo5"/><person xml:id="V58ZKhi2VS"/><person xml:id="Ng0Q4OrPio"/><person xml:id="WUwHIjykYg"/><person xml:id="WX87LN7vNo"/><person xml:id="OJs3ANTxsq"/><person xml:id="VTrm03Stxt"/><person xml:id="cpiqHVooWW"/><person xml:id="MWZchmiImC"/><person xml:id="TEAAlJEr5O"/><person xml:id="4bUnZCWmID"/><person xml:id="3RiEEOTQzQ"/><person xml:id="LsNupT9Afw"/><person xml:id="n8JTxowPMS"/><person xml:id="EEyL2m6e8V"/><person xml:id="oByPr7F0xv"/><person xml:id="8g9Ij0HEA8"/><person xml:id="XOnRDIQtip"/><person xml:id="xIbFe7ntT1"/><person xml:id="gCFYWY2mw3"/><person xml:id="7eIxvhWatt"/><person xml:id="5xIRHkLsVn"/><person xml:id="I52z4Xye7P"/><person xml:id="k1FntjxTFP"/><person xml:id="0rH6QpMllW"/><person xml:id="hz3c50q0nS"/><person xml:id="gbHEvyuN2f"/><person xml:id="B1V1ZFlMy3"/><person xml:id="5fg43mdGlg"/><person xml:id="s8gv9NtvXO"/><person xml:id="wHeJXpOxlV"/><person xml:id="fbhtRTAIwD"/><person xml:id="p41mO4YJp3"/><person xml:id="di8PXepNvN"/><person xml:id="FUyuRQxY8t"/><person xml:id="C8nsWub1nx"/><person xml:id="yclOjUaAgg"/><person xml:id="U5XibvP2Qu"/><person xml:id="cYlLnWO0lT"/><person xml:id="gEEFYyzn1M"/><person xml:id="2wwsm5sHVn"/><person xml:id="f66JSwCLD4"/><person xml:id="AvlOIDucUA"/><person xml:id="4zOYLYviHq"/><person xml:id="u3ymQFNVDb"/><person xml:id="Q5K78RaEv9"/><person xml:id="bL5foH3zio"/><person xml:id="MWK7weFsKK"/><person xml:id="kScw3e4ZIo"/><person xml:id="OnHCBYC9qO"/><person xml:id="phve7Z7Tph"/><person xml:id="eFogcePJAv"/><person xml:id="rbn6J4Syzr"/><person xml:id="erFRLOfU0D"/><person xml:id="kVRPjdyAKo"/><person xml:id="FRwirMSVbn"/><person xml:id="PoDYP00gS7"/><person xml:id="R6LsGt5udi"/><person xml:id="7SCATo1Zi5"/><person xml:id="YXnRGbKwee"/><person xml:id="eOQMld8AYC"/><person xml:id="5jmJ1tsGW9"/><person xml:id="VlHAhOEULt"/><person xml:id="5S7CR1Agur"/><person xml:id="lFj2uAnrrg"/><person xml:id="lM4cRvEI13"/><person xml:id="lN2JSNgUqI"/><person xml:id="grmitwmkNi"/><person xml:id="3HQd4J41jT"/><person xml:id="qQPTvah7Zy"/><person xml:id="MZQvrqV6bc"/><person xml:id="VXQuAtudPJ"/><person xml:id="HxT7TFqTLk"/><person xml:id="U7BS9aIa8f"/><person xml:id="R7qTJClKI1"/><person xml:id="kOKcw4RWEj"/><person xml:id="1VXqJw9xnr"/><person xml:id="Tqj69MRRDp"/><person xml:id="C1sXvhe6gM"/><person xml:id="Ebgu7w7Oq7"/><person xml:id="ILlNpLpEev"/><person xml:id="hSe4vmbibC"/><person xml:id="vCoPtNHsYC"/><person xml:id="3qyV57z4zP"/><person xml:id="HnAGDN11TD"/><person xml:id="RrsOJmG8lK"/><person xml:id="w8vShXNejq"/><person xml:id="qbe5hrTVQ0"/><person xml:id="777GB6PfXq"/><person xml:id="I2sBwkoiKP"/><person xml:id="nJrMQoqzv4"/><person xml:id="kfWHTYka7J"/><person xml:id="s8oDyDvyEF"/><person xml:id="HhoU1yPrfs"/><person xml:id="tR1PPYQJ3y"/><person xml:id="TNQLtOcpr5"/><person xml:id="DvaGi1fpZD"/><person xml:id="BLaLsmijB4"/><person xml:id="U74RQfZMpc"/><person xml:id="osFSy3Vptd"/><person xml:id="W00kuffxLg"/><person xml:id="t5T7h2P3Dm"/><person xml:id="xmWmQRh5Jg"/><person xml:id="3GGZCrTDOC"/><person xml:id="h7zCw5pU1O"/><person xml:id="V6Navfj6j7"/><person xml:id="8QJF4dvGmv"/><person xml:id="nh7Y5kFHK1"/><person xml:id="PlD4Vcgo1H"/><person xml:id="I7ceE716wE"/><person xml:id="4tmi5tZOMr"/><person xml:id="RUjVPljFL9"/><person xml:id="ZMUp4MeerV"/><person xml:id="6w0PhMBf9W"/><person xml:id="vKe7u9PLPk"/><person xml:id="HM5OF2j6um"/><person xml:id="bzecNAIMic"/><person xml:id="qYvMGYlLO1"/><person xml:id="vvlXB1cGlc"/><person xml:id="xqO78mHHGm"/><person xml:id="Uph3iS9h1R"/><person xml:id="xDMDe9Kqvu"/><person xml:id="GkyJ8iZaXJ"/><person xml:id="6GqeUktHvL"/><person xml:id="KYJtPh0tFb"/><person xml:id="UOeB37fi81"/><person xml:id="mrVG9Db6UO"/><person xml:id="lQYZyO1FPW"/><person xml:id="TvHIRD5Z1N"/><person xml:id="y8FYUkbV8i"/><person xml:id="pFzuusnp2K"/><person xml:id="iHcqh21fdZ"/><person xml:id="wbIrWekqVV"/><person xml:id="H9B9mQQuHp"/><person xml:id="LEs5UF1GnE"/><person xml:id="QnQTQq9iDQ"/><person xml:id="YQwXXcBdfW"/><person xml:id="94wNxRxj1p"/><person xml:id="IsHELUqLNO"/><person xml:id="4zSYvJiJfh"/><person xml:id="zxwxQCKQFJ"/><person xml:id="UOFlopDWq6"/><person xml:id="L76MUdK2Ax"/><person xml:id="mlbPy0DkRj"/><person xml:id="v0op2sWgAV"/><person xml:id="Q1aoxMFu2j"/><person xml:id="0Nrdajth3s"/><person xml:id="mAsLfDPGx5"/><person xml:id="F4NJXEKkGI"/><person xml:id="AOAIC7ouQB"/><person xml:id="BOivuZKa9i"/><person xml:id="0JpbRGHnL0"/><person xml:id="6IpGYJsVBL"/><person xml:id="T7H7CevgZH"/><person xml:id="cMdqqWyuNP"/><person xml:id="y9Nk62evuA"/><person xml:id="LWHV5k3CNr"/><person xml:id="wvhDsCCxgk"/><person xml:id="Q3Ol0LidKe"/><person xml:id="hUr8EbSYLZ"/><person xml:id="3Fk1oHv6i5"/><person xml:id="Np6H5OaiWJ"/><person xml:id="kzRFUfCBgn"/></listPerson>
+              </particDesc>
+            </profileDesc>
+            <revisionDesc>
+              <change when="2023-11-24" who="#JJANES">Génération du 1er schema ODD COLAF</change>
+            </revisionDesc>
+          </teiHeader>
+  <text xml:lang="met-fra-std">
+    <body>
+      <div>
+        <head>2017-04-07T02</head>
+        <post who="#HM5OF2j6um" when="2017-04-07T02:10:51.000Z" xml:id="HM5OF2j6um-2017-04-07T02:10:51.000Z">
+          <p>@3c5JhwTg3Y @TBirtwjjmJ Chapeau \ud83d\ude4c</p>
+        </post>
+        <post who="#UWZwvXFT86" when="2017-04-07T02:40:24.000Z" xml:id="UWZwvXFT86-2017-04-07T02:40:24.000Z">
+          <p>Le Vainqueur de l'\u00e9dition 2017 du Tremplin Bayonne Live est I SENS &amp;amp; THE DIPLOMATIK'S ! 
+#french\u2026 https://t.co/9SThVMg2Xx</p>
+        </post>
+        <post who="#gZWEIZ6nrr" when="2017-04-07T02:16:06.000Z" xml:id="gZWEIZ6nrr-2017-04-07T02:16:06.000Z">
+          <p>tard dans la nuit quand il n'y a plus un chat qu'il n'y a plus un bruit, alors je pense \u00e0 toi je sais que tu m'oublies</p>
+        </post>
+        <post who="#qQPTvah7Zy" when="2017-04-07T02:17:32.000Z" xml:id="qQPTvah7Zy-2017-04-07T02:17:32.000Z">
+          <p>@gX0AsmqP1b Oui mais fais chier de ce lev\u00e9 pour sa mais heureusement je suis en vac</p>
+        </post>
+        <post who="#s8oDyDvyEF" when="2017-04-07T02:13:06.000Z" xml:id="s8oDyDvyEF-2017-04-07T02:13:06.000Z">
+          <p>alors mtn les @tUTbCL5ZaB vs avez blanchi #fillon? franchement respect au dirigent du #CabinetNoir, il est trop fort #Presidentielle2017 https://t.co/RBTMoT7m6X</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:04:56.000Z" xml:id="XOnRDIQtip-2017-04-07T02:04:56.000Z">
+          <p>Tout \u00e7a pour dire : ceux qui se pr\u00e9sentent aux \u00e9lections sous l'\u00e9tiquette du "pragmatisme" sont souvent sans colonne vert\u00e9brale.</p>
+        </post>
+        <post who="#WX87LN7vNo" when="2017-04-07T02:34:53.000Z" xml:id="WX87LN7vNo-2017-04-07T02:34:53.000Z">
+          <p>@bxTETaiYnG Moi je comprends juste qu'on a \u00e9t\u00e9 trahi  ^^</p>
+        </post>
+        <post who="#nXvuDqaOGV" when="2017-04-07T02:11:59.000Z" xml:id="nXvuDqaOGV-2017-04-07T02:11:59.000Z">
+          <p>C'est parti pour la derni\u00e8re de la semaine ! On se retrouve en direct d\u00e8s 5H sur @nXVYHarAWf \ud83d\ude03\ud83d\ude0d https://t.co/ftWICExTMO</p>
+        </post>
+        <post who="#fgL5Q9qQjQ" when="2017-04-07T02:07:03.000Z" xml:id="fgL5Q9qQjQ-2017-04-07T02:07:03.000Z">
+          <p>Bref au final j'ai ft le choix de manger ac mon gars cdg que j'avais pas vu depuis \ud83d\udc89</p>
+        </post>
+        <post who="#QdTyyiy4qS" when="2017-04-07T02:54:28.000Z" xml:id="QdTyyiy4qS-2017-04-07T02:54:28.000Z">
+          <p>@VCLvuTY8wN puis on est l\u00e0 pr toi, j'm pas les conflits et jveux plus avoir affaire avec eux ms \ud83e\udd1b\ud83d\ude3e</p>
+        </post>
+        <post who="#MJnVXibxvF" when="2017-04-07T02:48:40.000Z" xml:id="MJnVXibxvF-2017-04-07T02:48:40.000Z">
+          <p>@zKjvlfxMCx Mdr j'te jure ma s\u0153ur, il peuvent pas comprendre y reste tr\u00e8s peu de potes aussi proche apr\u00e8s 10 ans d'amiti\u00e9 mais nous depuis toujours \u2728\ud83d\ude18</p>
+        </post>
+        <post who="#ps772QRE0T" when="2017-04-07T02:42:46.000Z" xml:id="ps772QRE0T-2017-04-07T02:42:46.000Z">
+          <p>#LEmissionPolitique Macron s'est \u00e9nerv\u00e9 concernant la colonisation. C'est grave de ne pas savoir garder son calme</p>
+        </post>
+        <post who="#vuVtA929Um" when="2017-04-07T02:19:27.000Z" xml:id="vuVtA929Um-2017-04-07T02:19:27.000Z">
+          <p>Sheeeeeeeet boi</p>
+        </post>
+        <post who="#Q2Fk7w5NjM" when="2017-04-07T02:23:59.000Z" xml:id="Q2Fk7w5NjM-2017-04-07T02:23:59.000Z">
+          <p>Sommeil s'il vous plait</p>
+        </post>
+        <post who="#l3N1tZKh82" when="2017-04-07T02:02:14.000Z" xml:id="l3N1tZKh82-2017-04-07T02:02:14.000Z">
+          <p>\u00abL'attaque que nous venons de mener en #Syrie n'est que le d\u00e9but\u00bb a d\u00e9clar\u00e9 le pr\u00e9sident am\u00e9ricain Donald #Trump. #syria</p>
+        </post>
+        <post who="#fhvloUmrPR" when="2017-04-07T02:08:06.000Z" xml:id="fhvloUmrPR-2017-04-07T02:08:06.000Z">
+          <p>S\u00fbr que c'est pas Thiago silva qui craque et tombe dans ses bras ? https://t.co/cFsEQMzWd6</p>
+        </post>
+        <post who="#LdoYlwB2qt" when="2017-04-07T02:42:21.000Z" xml:id="LdoYlwB2qt-2017-04-07T02:42:21.000Z">
+          <p>@kNiLhbHIpB Peut \u00eatre parce qu'ils ont peur que le @mkz3DCJKIX soit de la partie Et donc Pour encore Nous faire Chier, ils pondent cela..</p>
+        </post>
+        <post who="#gbHEvyuN2f" when="2017-04-07T02:15:15.000Z" xml:id="gbHEvyuN2f-2017-04-07T02:15:15.000Z">
+          <p>Soir\u00e9e @LNUcsg31sU  ce soir : @RE0CyUdKGI, #LonnyMontem, @jgbwn1BdPO, #OnyxAndTheRedLips 
+
+#prixm\u00e9rit\u00e9 !
+
+https://t.co/J8oeOIZmq6</p>
+        </post>
+        <post who="#C1acn91PRf" when="2017-04-07T02:30:59.000Z" xml:id="C1acn91PRf-2017-04-07T02:30:59.000Z">
+          <p>@CIvBAuF5aC @NCraUa68uk Devant des enfants qui souffrent/meurent tu prends pas le temps de mettre des gants.</p>
+        </post>
+        <post who="#fgL5Q9qQjQ" when="2017-04-07T02:19:34.000Z" xml:id="fgL5Q9qQjQ-2017-04-07T02:19:34.000Z">
+          <p>Il a raison il me faut une femme la en vrai</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:01:17.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:01:17.000Z">
+          <p>https://t.co/0tpzvvqItJ
+
+LOL topito connait ma ville xD</p>
+        </post>
+        <post who="#Q1aoxMFu2j" when="2017-04-07T02:25:38.000Z" xml:id="Q1aoxMFu2j-2017-04-07T02:25:38.000Z">
+          <p>on gal\u00e8re \u00e0 l'a\u00e9roport, vivement qu'on parte</p>
+        </post>
+        <post who="#erFRLOfU0D" when="2017-04-07T02:37:21.000Z" xml:id="erFRLOfU0D-2017-04-07T02:37:21.000Z">
+          <p>Ou que</p>
+        </post>
+        <post who="#yKliGqxHiB" when="2017-04-07T02:39:20.000Z" xml:id="yKliGqxHiB-2017-04-07T02:39:20.000Z">
+          <p>Il m'enjaille https://t.co/ZS8vvi3qTT</p>
+        </post>
+        <post who="#5fg43mdGlg" when="2017-04-07T02:13:40.000Z" xml:id="5fg43mdGlg-2017-04-07T02:13:40.000Z">
+          <p>@K0c9Pky5Bs \u00c0 ce rythme l\u00e0 \u00e7a va pas tenir longtemps</p>
+        </post>
+        <post who="#IEhZjN7ovW" when="2017-04-07T02:16:57.000Z" xml:id="IEhZjN7ovW-2017-04-07T02:16:57.000Z">
+          <p>@iyDHKU6LMD On peux pas tout avoir dans la vie , perso j'ai choisi la robe</p>
+        </post>
+        <post who="#PO5tV1uBv4" when="2017-04-07T02:49:34.000Z" xml:id="PO5tV1uBv4-2017-04-07T02:49:34.000Z">
+          <p>les filles qui font des playback sur snap j'aimerais comprendre,,</p>
+        </post>
+        <post who="#CWSg3OhEhM" when="2017-04-07T02:12:13.000Z" xml:id="CWSg3OhEhM-2017-04-07T02:12:13.000Z">
+          <p>Je m'attarde m\u00eame plus... Y'a troooop eut de blabla</p>
+        </post>
+        <post who="#1ivBcKfsCV" when="2017-04-07T02:32:55.000Z" xml:id="1ivBcKfsCV-2017-04-07T02:32:55.000Z">
+          <p>Ras Bath : LE COMPORTEMENT DE ETIENNE FAKABA SISSOKO ET LES MOBILES DES AUTEURS DE LA PUBLICATION 
+
+https://t.co/G4SBaKjPXf</p>
+        </post>
+        <post who="#LDwjdEGOMK" when="2017-04-07T02:13:14.000Z" xml:id="LDwjdEGOMK-2017-04-07T02:13:14.000Z">
+          <p>@97L7fe85qw les conditions d'organisation ne sont pas r\u00e9unies plut\u00f4t !!! Chinese....\ud83d\ude2c</p>
+        </post>
+        <post who="#RUjVPljFL9" when="2017-04-07T02:55:07.000Z" xml:id="RUjVPljFL9-2017-04-07T02:55:07.000Z">
+          <p>\u2b06\ufe0f\ud83d\udc64\ud83d\udc65Via @eTNuNcFn7G |Le revers des "v\u00e9los partag\u00e9s" \u00e0 P\u00e9kin : les "v\u00e9los saccag\u00e9s" |10.000 v\u00e9los s'entassent sur 300m pour \u00eatre r\u00e9par\u00e9s\u203c\ufe0f
+
+\u2b07\ufe0f https://t.co/LiclMYovae</p>
+        </post>
+        <post who="#yjptU0AmS5" when="2017-04-07T02:30:57.000Z" xml:id="yjptU0AmS5-2017-04-07T02:30:57.000Z">
+          <p>ce sale chien j'esp\u00e8re il va souffrir</p>
+        </post>
+        <post who="#CAQ4LOapbP" when="2017-04-07T02:23:32.000Z" xml:id="CAQ4LOapbP-2017-04-07T02:23:32.000Z">
+          <p>@Fwt3owr7IO @oKRIezQWwg J'y songe mais est ce vraiment le meilleur moment pour moi : me restera-t-il du temps pour lire sur l'ann\u00e9e \u00e0 venir ? \ud83d\ude0f</p>
+        </post>
+        <post who="#s8gv9NtvXO" when="2017-04-07T02:30:36.000Z" xml:id="s8gv9NtvXO-2017-04-07T02:30:36.000Z">
+          <p>Le r\u00e9veil de sauvetage ma sauver ce matin</p>
+        </post>
+        <post who="#wbIrWekqVV" when="2017-04-07T02:02:01.000Z" xml:id="wbIrWekqVV-2017-04-07T02:02:01.000Z">
+          <p>Avant d'aller dormir, on re-re-regarde les buts version Titanic avec @6UiYzXGTdx \ud83d\ude0e</p>
+        </post>
+        <post who="#cMdqqWyuNP" when="2017-04-07T02:51:50.000Z" xml:id="cMdqqWyuNP-2017-04-07T02:51:50.000Z">
+          <p>Je signe du nez tlm c'est mimi https://t.co/r4enK5w5Nb</p>
+        </post>
+        <post who="#5fg43mdGlg" when="2017-04-07T02:11:41.000Z" xml:id="5fg43mdGlg-2017-04-07T02:11:41.000Z">
+          <p>@hSMjhen01Q @F18A7obW0R \u00c0 voir... Y a t il une obligation de s\u00e9curit\u00e9 de r\u00e9sultat dans les transports en commun ? Ah wait la prevention \u00e7a co\u00fbte de l'argent...</p>
+        </post>
+        <post who="#kzRFUfCBgn" when="2017-04-07T02:20:08.000Z" xml:id="kzRFUfCBgn-2017-04-07T02:20:08.000Z">
+          <p>Maintenant il faut bien se reposer, et bien pr\u00e9parer le match de dimanche. https://t.co/POEIp5Y4Ih</p>
+        </post>
+        <post who="#DHi8Whqh9y" when="2017-04-07T02:32:14.000Z" xml:id="DHi8Whqh9y-2017-04-07T02:32:14.000Z">
+          <p>@EeVyP09yy6 @jnlEMw2tH5 est une personne que je connaissais mal. Il me fait bcp r\u00e9fl\u00e9chir. Je changerais s\u00fbrement mon vote pour lui. #changeonsdefrance</p>
+        </post>
+        <post who="#LsNupT9Afw" when="2017-04-07T02:16:31.000Z" xml:id="LsNupT9Afw-2017-04-07T02:16:31.000Z">
+          <p>@IoiOUa5Dkb Moi si tu veux ^^</p>
+        </post>
+        <post who="#h3861YGIe7" when="2017-04-07T02:57:39.000Z" xml:id="h3861YGIe7-2017-04-07T02:57:39.000Z">
+          <p>@ystAZg1gSe @ujdv4dQheZ je croyais qu'elle \u00e9tait plus l\u00e0 vu qu'il l'avait vendue pour acheter des paquets hearthstone</p>
+        </post>
+        <post who="#p1Vo6IOizb" when="2017-04-07T02:56:19.000Z" xml:id="p1Vo6IOizb-2017-04-07T02:56:19.000Z">
+          <p>t'es derri\u00e8re un putain d'arbre depuis 15 ans tu te fais HS \u00e0 travers</p>
+        </post>
+        <post who="#QdTyyiy4qS" when="2017-04-07T02:55:48.000Z" xml:id="QdTyyiy4qS-2017-04-07T02:55:48.000Z">
+          <p>@VCLvuTY8wN eh oui tu vas juste avoir droit \u00e0 des tits indirects bitter jusqu'en 2030 uhf Bienvenue ds le club</p>
+        </post>
+        <post who="#2PYInCezww" when="2017-04-07T02:38:31.000Z" xml:id="2PYInCezww-2017-04-07T02:38:31.000Z">
+          <p>Se demande si le nouveau mode d'\u00e9valuation de Netflix n'est pas un moyen d\u00e9tourn\u00e9 de masquer la m\u00e9diocrit\u00e9 de son catalogue (niveau film).</p>
+        </post>
+        <post who="#Q3Ol0LidKe" when="2017-04-07T02:32:56.000Z" xml:id="Q3Ol0LidKe-2017-04-07T02:32:56.000Z">
+          <p>Ras Bath : LE COMPORTEMENT DE ETIENNE FAKABA SISSOKO ET LES MOBILES DES AUTEURS DE LA PUBLICATION 
+
+https://t.co/lqClC61JHK</p>
+        </post>
+        <post who="#0q30CwRdvL" when="2017-04-07T02:28:31.000Z" xml:id="0q30CwRdvL-2017-04-07T02:28:31.000Z">
+          <p>@c5FvVUJaId Ils se sont cru chez leur m\u00e8re c'est des bz la v\u00e9rit\u00e9</p>
+        </post>
+        <post who="#Q5K78RaEv9" when="2017-04-07T02:22:07.000Z" xml:id="Q5K78RaEv9-2017-04-07T02:22:07.000Z">
+          <p>@mqALb5Wjn1 une occas ?</p>
+        </post>
+        <post who="#lN2JSNgUqI" when="2017-04-07T02:19:27.000Z" xml:id="lN2JSNgUqI-2017-04-07T02:19:27.000Z">
+          <p>J'esp\u00e8re mon fr\u00e8re y va pleurer quand je vais me marier que je rigole un peu</p>
+        </post>
+        <post who="#Y0aEn3r2xp" when="2017-04-07T02:49:55.000Z" xml:id="Y0aEn3r2xp-2017-04-07T02:49:55.000Z">
+          <p>Devoir attendre 5h30 le m\u00e9tro \ud83d\ude31</p>
+        </post>
+        <post who="#FwtR860O2w" when="2017-04-07T02:27:16.000Z" xml:id="FwtR860O2w-2017-04-07T02:27:16.000Z">
+          <p>Insomnie comme jamais</p>
+        </post>
+        <post who="#DjtupY5fMX" when="2017-04-07T02:50:36.000Z" xml:id="DjtupY5fMX-2017-04-07T02:50:36.000Z">
+          <p>ce gars il a toujours les bons mots pour motiver et rassurer, il est g\u00e9nial</p>
+        </post>
+        <post who="#FUyuRQxY8t" when="2017-04-07T02:53:28.000Z" xml:id="FUyuRQxY8t-2017-04-07T02:53:28.000Z">
+          <p>Pour un monde num\u00e9rique pr\u00e9servant les libert\u00e9s fondamentales https://t.co/uOy37Fi3p8</p>
+        </post>
+        <post who="#tEyBGrNhh4" when="2017-04-07T02:11:52.000Z" xml:id="tEyBGrNhh4-2017-04-07T02:11:52.000Z">
+          <p>@JqxTTGCjTA C'est pour t'aider \u00e0 dormir \ud83d\ude0e</p>
+        </post>
+        <post who="#uNnTsmifBE" when="2017-04-07T02:34:11.000Z" xml:id="uNnTsmifBE-2017-04-07T02:34:11.000Z">
+          <p>#E1Bonjour @ga9yH8zkXs @j0c5v4oSKk que ce vendredi soit pour vous tous et toutes \u00e0 l'instar de cette belle fin de semaine douce etremplie\u2600\ufe0f</p>
+        </post>
+        <post who="#hoqGzgXyWe" when="2017-04-07T02:00:37.000Z" xml:id="hoqGzgXyWe-2017-04-07T02:00:37.000Z">
+          <p>Je me demande encore comment un mec comme @0xMg78Ii0V a fait pour sortir avec Kim. Quelle horreur\ud83d\ude29</p>
+        </post>
+        <post who="#HnAGDN11TD" when="2017-04-07T02:04:28.000Z" xml:id="HnAGDN11TD-2017-04-07T02:04:28.000Z">
+          <p>Je suis en pr\u00e9sence du pur bg de La res #thibaultle plus beau</p>
+        </post>
+        <post who="#B1V1ZFlMy3" when="2017-04-07T02:14:24.000Z" xml:id="B1V1ZFlMy3-2017-04-07T02:14:24.000Z">
+          <p>Ceux qui comme elle d\u00e9testent l'humanit\u00e9, devraient la quitter, emmener leur haine sous le bras. Car d'humains, ils ne pourraient s'agir https://t.co/xWUdRWPkDF</p>
+        </post>
+        <post who="#kinxnTTjeQ" when="2017-04-07T02:43:12.000Z" xml:id="kinxnTTjeQ-2017-04-07T02:43:12.000Z">
+          <p>O\u00f9 sont ceux \u00e0 l'#UPR qui disaient qu'avec Trump il n'y aurait pas d'intervention US en Syrie ? #syria</p>
+        </post>
+        <post who="#m05F3G7sWZ" when="2017-04-07T02:08:30.000Z" xml:id="m05F3G7sWZ-2017-04-07T02:08:30.000Z">
+          <p>Jviens dme reveiller</p>
+        </post>
+        <post who="#4ipwGB73Pb" when="2017-04-07T02:14:51.000Z" xml:id="4ipwGB73Pb-2017-04-07T02:14:51.000Z">
+          <p>@kEhpFyMmWU Mais cela n'augmentera pas ton pouvoir d'achat, ni ne rendra pas la vie des Fran\u00e7ais plus agr\u00e9able, de la mis\u00e8re il n'y en a pas qu'\u00e0 Calais</p>
+        </post>
+        <post who="#ylbZDkFLVT" when="2017-04-07T02:12:42.000Z" xml:id="ylbZDkFLVT-2017-04-07T02:12:42.000Z">
+          <p>Paris accueille le tournage de #missionimpossible6 avec #TomCruise ; des h\u00e9licopt\u00e8res survoleront la Seine et Bercy aujourd'hui et demain ! https://t.co/OTuDNAEU8M</p>
+        </post>
+        <post who="#p1Vo6IOizb" when="2017-04-07T02:56:06.000Z" xml:id="p1Vo6IOizb-2017-04-07T02:56:06.000Z">
+          <p>gros jeu de fils de pute la hitbox d'une voiture maintenant c'est un humain tu tires au dessus de ta voiture (50cm au dessus) \u00e7a tire dessus</p>
+        </post>
+        <post who="#6IpGYJsVBL" when="2017-04-07T02:12:04.000Z" xml:id="6IpGYJsVBL-2017-04-07T02:12:04.000Z">
+          <p>Mon r\u00e9veil sonne dans moins de 3 heures et je ne peux toujours pas dormir ...</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:04:30.000Z" xml:id="XOnRDIQtip-2017-04-07T02:04:30.000Z">
+          <p>Ce n'est n\u00e9anmoins pas une premi\u00e8re : Bush Junior en 2000 \u00e9tait \u00e9galement plut\u00f4t favorable \u00e0 une restriction des interventions militaires...</p>
+        </post>
+        <post who="#bFUQAnHNJz" when="2017-04-07T02:32:20.000Z" xml:id="bFUQAnHNJz-2017-04-07T02:32:20.000Z">
+          <p>Bordel il est 4h30, jsuis sur les champs \u00e0 me taper des barres. Jvais pas assumer mon r\u00e9veil \u00e0 9h</p>
+        </post>
+        <post who="#l3N1tZKh82" when="2017-04-07T02:00:53.000Z" xml:id="l3N1tZKh82-2017-04-07T02:00:53.000Z">
+          <p>#Trump "Ce soir j'ai ordonn\u00e9 des frappes" en #Syrie, a dit qu'elles \u00e9taient "dans l'int\u00e9r\u00eat vital de la s\u00e9curit\u00e9 nationale" (medias US)</p>
+        </post>
+        <post who="#YOG2bPyWKt" when="2017-04-07T02:45:29.000Z" xml:id="YOG2bPyWKt-2017-04-07T02:45:29.000Z">
+          <p>@Czo9EA5EPA ne soyez pas timide : promouvez un hashtag #hieraujourhuidemain ou #hieraujdem pour r\u00e9agir sur votre excellente \u00e9mission</p>
+        </post>
+        <post who="#vvlXB1cGlc" when="2017-04-07T02:55:04.000Z" xml:id="vvlXB1cGlc-2017-04-07T02:55:04.000Z">
+          <p>@aLC0ixbAQj C'est dur la vie de travailleur oblig\u00e9 de repartir avant \ud83d\ude44</p>
+        </post>
+        <post who="#AOAIC7ouQB" when="2017-04-07T02:59:14.000Z" xml:id="AOAIC7ouQB-2017-04-07T02:59:14.000Z">
+          <p>@VVtnullNyd @B5tCpGFnyk @dBawVkSxCM J'ai vu que des japonaises trouvaient macron sexy surtout quand il s'\u00e9nerve ~ https://t.co/UEAOopJ9Xa</p>
+        </post>
+        <post who="#Bv5ikVp934" when="2017-04-07T02:31:11.000Z" xml:id="Bv5ikVp934-2017-04-07T02:31:11.000Z">
+          <p>@BnU1qn3XPX je pense c'est plus rassurant de lui demander \ud83d\ude30</p>
+        </post>
+        <post who="#I3h2MmezFN" when="2017-04-07T02:38:01.000Z" xml:id="I3h2MmezFN-2017-04-07T02:38:01.000Z">
+          <p>Incroyable comment les \u00c9tats vont'ils se d\u00e9fendre contre ces belliqueux d\u00e9tenteurs de l'arme nucl\u00e9aire qui ne respectent les conventions ONU https://t.co/5VHMJP1pHU</p>
+        </post>
+        <post who="#sXjG4Bp8Cc" when="2017-04-07T02:38:55.000Z" xml:id="sXjG4Bp8Cc-2017-04-07T02:38:55.000Z">
+          <p>J'aime pas quand on me parle de surprise \u00e0 cette heure la</p>
+        </post>
+        <post who="#p1Vo6IOizb" when="2017-04-07T02:03:57.000Z" xml:id="p1Vo6IOizb-2017-04-07T02:03:57.000Z">
+          <p>mdr j'ai rien dit ils ont opti juste une seule ville de genre 20% et les autres villes t'as 30% moins de fps + freeze</p>
+        </post>
+        <post who="#5fg43mdGlg" when="2017-04-07T02:20:02.000Z" xml:id="5fg43mdGlg-2017-04-07T02:20:02.000Z">
+          <p>@K0c9Pky5Bs Oui surtout que \u00e7an'a aucun int\u00e9r\u00eat. Faut il encore avoir 1 couverture d\u00e9cente. C pas joli de fR payer tt lmde pour un r\u00e9seau DISPO aux peu!</p>
+        </post>
+        <post who="#GIz1y0B39b" when="2017-04-07T02:05:43.000Z" xml:id="GIz1y0B39b-2017-04-07T02:05:43.000Z">
+          <p>J'ai la boule au ventre elle veut toujours pas descendre</p>
+        </post>
+        <post who="#g8I5oNoDm0" when="2017-04-07T02:03:41.000Z" xml:id="g8I5oNoDm0-2017-04-07T02:03:41.000Z">
+          <p>Toujours</p>
+        </post>
+        <post who="#7YHH9fZaPK" when="2017-04-07T02:37:39.000Z" xml:id="7YHH9fZaPK-2017-04-07T02:37:39.000Z">
+          <p>\ud83e\udd22\ud83e\udd22\ud83e\udd12mal au bide</p>
+        </post>
+        <post who="#VTrm03Stxt" when="2017-04-07T02:54:06.000Z" xml:id="VTrm03Stxt-2017-04-07T02:54:06.000Z">
+          <p>@0bdBjNP2iW allez @D2z15VI5ce  qd m\u00eame!</p>
+        </post>
+        <post who="#Tqj69MRRDp" when="2017-04-07T02:31:09.000Z" xml:id="Tqj69MRRDp-2017-04-07T02:31:09.000Z">
+          <p>@nDnKZ0uNF3 C'est deja le lever du soleil ? J'ai pas encore fermer l'\u0153il de la nuit \ud83d\ude31</p>
+        </post>
+        <post who="#C8nsWub1nx" when="2017-04-07T02:40:10.000Z" xml:id="C8nsWub1nx-2017-04-07T02:40:10.000Z">
+          <p>R\u00e9veil difficile \ud83d\ude2d\ud83d\ude34</p>
+        </post>
+        <post who="#MZQvrqV6bc" when="2017-04-07T02:59:44.000Z" xml:id="MZQvrqV6bc-2017-04-07T02:59:44.000Z">
+          <p>Trop plaisir de la voir</p>
+        </post>
+        <post who="#BIRMOjOmka" when="2017-04-07T02:33:11.000Z" xml:id="BIRMOjOmka-2017-04-07T02:33:11.000Z">
+          <p>Premi\u00e8res images des bombardements am\u00e9ricains sur des bases militaires pro-#Assad https://t.co/CjcIUKeFpw</p>
+        </post>
+        <post who="#KBYtikWGa8" when="2017-04-07T02:26:47.000Z" xml:id="KBYtikWGa8-2017-04-07T02:26:47.000Z">
+          <p>@OXgXRbTsyd @tOiJP3xO6z Vas te faire enculer toi</p>
+        </post>
+        <post who="#9RCHrA3P04" when="2017-04-07T02:14:22.000Z" xml:id="9RCHrA3P04-2017-04-07T02:14:22.000Z">
+          <p>Pdt que Trump parle en direct sur les TV us la TV d'\u00e9tat syrienne qualifie d'agression l'attaque usa. https://t.co/G2o1YFfRve</p>
+        </post>
+        <post who="#HVYyqWeEem" when="2017-04-07T02:25:34.000Z" xml:id="HVYyqWeEem-2017-04-07T02:25:34.000Z">
+          <p>Sortir du studio si "t\u00f4t" me donne l'impression que je n'en ai pas fait assez</p>
+        </post>
+        <post who="#UWZwvXFT86" when="2017-04-07T02:50:49.000Z" xml:id="UWZwvXFT86-2017-04-07T02:50:49.000Z">
+          <p>Le Vainqueur de l'\u00e9dition 2017 du Tremplin Bayonne Live est I SENS &amp;amp; THE DIPLOMATIK'S ! 
+#french\u2026 https://t.co/LWpsYyYb5P</p>
+        </post>
+        <post who="#TvHIRD5Z1N" when="2017-04-07T02:15:52.000Z" xml:id="TvHIRD5Z1N-2017-04-07T02:15:52.000Z">
+          <p>@4icOUPmyYR @krHUkxcgfw Je te l'avais vu dire Antoine, maintenant que je suis confront\u00e9 au probl\u00e8me pour parler d'un sujet, je vais devoir faire \u00e7a intelligemment.</p>
+        </post>
+        <post who="#X52jUbJ2oy" when="2017-04-07T02:25:06.000Z" xml:id="X52jUbJ2oy-2017-04-07T02:25:06.000Z">
+          <p>\u00c9paves bonjour ! https://t.co/3VTMZ6zqxC</p>
+        </post>
+        <post who="#4zOYLYviHq" when="2017-04-07T02:18:46.000Z" xml:id="4zOYLYviHq-2017-04-07T02:18:46.000Z">
+          <p>Soir\u00e9e infirmi\u00e8re \u00e7a faisait longtemps</p>
+        </post>
+        <post who="#nF00hEcYFa" when="2017-04-07T02:42:52.000Z" xml:id="nF00hEcYFa-2017-04-07T02:42:52.000Z">
+          <p>Je perds tous mes briquets en ce moment, j'en peux plus!</p>
+        </post>
+        <post who="#KPtvtgIKHj" when="2017-04-07T02:55:06.000Z" xml:id="KPtvtgIKHj-2017-04-07T02:55:06.000Z">
+          <p>Ne pense pas comme les autres</p>
+        </post>
+        <post who="#a8Hn1R4vOF" when="2017-04-07T02:28:45.000Z" xml:id="a8Hn1R4vOF-2017-04-07T02:28:45.000Z">
+          <p>@R7RBn1GToM C'est pas fictif \u00e7a au moins.</p>
+        </post>
+        <post who="#dsTTwdqQSZ" when="2017-04-07T02:51:04.000Z" xml:id="dsTTwdqQSZ-2017-04-07T02:51:04.000Z">
+          <p>\u00c7a va \u00eatre fascinant de voir ceux qui ont ch*\u00e9 (\u00e0 juste titre) sur Trump depuis des mois f\u00e9liciter en choeur son action contre Assad.</p>
+        </post>
+        <post who="#DvaGi1fpZD" when="2017-04-07T02:08:24.000Z" xml:id="DvaGi1fpZD-2017-04-07T02:08:24.000Z">
+          <p>@hHj44g9yWE J'ai l'impression de jouer \u00e0 BOTW quand je rentre dans un Liquor Mart</p>
+        </post>
+        <post who="#pFzuusnp2K" when="2017-04-07T02:01:13.000Z" xml:id="pFzuusnp2K-2017-04-07T02:01:13.000Z">
+          <p>Trump ou le plus gros foutage de gueule du monde. Et ils osent l'appeler pr\u00e9sident urgh...</p>
+        </post>
+        <post who="#ejozUtM1A1" when="2017-04-07T02:53:06.000Z" xml:id="ejozUtM1A1-2017-04-07T02:53:06.000Z">
+          <p>B\u00e9b\u00e9 se reveille comme d'hab au milieu de la nuit pour sa t\u00e9t\u00e9e, elle se rendort tout de suite apr\u00e8s mais moi je gal\u00e8re \ud83d\ude29... #dodo</p>
+        </post>
+        <post who="#94wNxRxj1p" when="2017-04-07T02:58:13.000Z" xml:id="94wNxRxj1p-2017-04-07T02:58:13.000Z">
+          <p>@nABd2mU2yj C'est un menteurs comme hollande une fois au pouvoir il s'en fichent compl\u00e8tement (l'exemple hollande)</p>
+        </post>
+        <post who="#5kEhZJriEp" when="2017-04-07T02:23:36.000Z" xml:id="5kEhZJriEp-2017-04-07T02:23:36.000Z">
+          <p>Aller encore 1 jours apr\u00e8s cong\u00e9 1 semaine \ud83d\ude06</p>
+        </post>
+        <post who="#bBCT42489W" when="2017-04-07T02:25:51.000Z" xml:id="bBCT42489W-2017-04-07T02:25:51.000Z">
+          <p>J'ai re\u00e7u plus d'\u00e9loges de mes patrons pour avoir couru 10kms sans eux que pour les avoir accompagn\u00e9s pendant 4 ans...</p>
+        </post>
+        <post who="#xmWmQRh5Jg" when="2017-04-07T02:36:52.000Z" xml:id="xmWmQRh5Jg-2017-04-07T02:36:52.000Z">
+          <p>Rejoignez le #groupe #Facebook r\u00e9serv\u00e9 aux #lecteurs de #Broc\u00e9liandeAcad\u00e9mie ! https://t.co/np5FaiDUWU #apps #freebook #freeapps #ebook</p>
+        </post>
+        <post who="#WUwHIjykYg" when="2017-04-07T02:07:27.000Z" xml:id="WUwHIjykYg-2017-04-07T02:07:27.000Z">
+          <p>@Az1rCcnfV1 @pMuhMgO4V5 @QUUPXth90g @MFHvgmUiVJ @TZFztabhAe Oui effectivement il peignait avant, il a meme voulu rentrer \u00e0 l'\u00e9cole des Beaux Arts de Vienne mais \u00e0 \u00e9t\u00e9 recal\u00e9</p>
+        </post>
+        <post who="#stacZLDduV" when="2017-04-07T02:55:01.000Z" xml:id="stacZLDduV-2017-04-07T02:55:01.000Z">
+          <p>Si votre entreprise se nourrit de discount, elle aura une image discount. https://t.co/hTTuCe82Ij via @fx8so9KdZt</p>
+        </post>
+        <post who="#YyQBdICFlg" when="2017-04-07T02:15:10.000Z" xml:id="YyQBdICFlg-2017-04-07T02:15:10.000Z">
+          <p>@i9K5YuBOBE Et puis d'o\u00f9 tu me tchipes toi ? \ud83e\udd14</p>
+        </post>
+        <post who="#QdTyyiy4qS" when="2017-04-07T02:53:10.000Z" xml:id="QdTyyiy4qS-2017-04-07T02:53:10.000Z">
+          <p>@VCLvuTY8wN oki take care, et si softblock \u00e7a suffit pas pr que tu te sentes safe bloque les 2 k\u00e9k\u00e9s et laisse les rager en pv</p>
+        </post>
+        <post who="#C1sXvhe6gM" when="2017-04-07T02:54:18.000Z" xml:id="C1sXvhe6gM-2017-04-07T02:54:18.000Z">
+          <p>L\u00e0 \u00e7a commence \u00e0 craindre s\u00e9rieusement ! https://t.co/zbnOArzHNZ</p>
+        </post>
+        <post who="#T7H7CevgZH" when="2017-04-07T02:13:48.000Z" xml:id="T7H7CevgZH-2017-04-07T02:13:48.000Z">
+          <p>https://t.co/3LIfgFs45u : Va te faire enculer! Je sais @hGKOK3uinR, \u00e7a manque d'\u00e9l\u00e9gance. Tu crois que les punks vont voter FN \u00e0 cause de moi?</p>
+        </post>
+        <post who="#0ysmVDgmmS" when="2017-04-07T02:00:09.000Z" xml:id="0ysmVDgmmS-2017-04-07T02:00:09.000Z">
+          <p>@0ysmVDgmmS genre le second serait un "X" avec un point dans chaque creux</p>
+        </post>
+        <post who="#5fg43mdGlg" when="2017-04-07T02:12:43.000Z" xml:id="5fg43mdGlg-2017-04-07T02:12:43.000Z">
+          <p>@hSMjhen01Q @F18A7obW0R Du coup on pr\u00e9f\u00e8re payer les D/I, et soyons s\u00e9rieux une main au cul \u00e7a co\u00fbte pas grand chose aujourd'hui...</p>
+        </post>
+        <post who="#UN4Bmh7NbK" when="2017-04-07T02:16:36.000Z" xml:id="UN4Bmh7NbK-2017-04-07T02:16:36.000Z">
+          <p>4H15, je rentre de soir\u00e9e par le campus et je croise un mec qui fait son jogging, il va pas bien</p>
+        </post>
+        <post who="#uDzG4CXu8z" when="2017-04-07T02:20:49.000Z" xml:id="uDzG4CXu8z-2017-04-07T02:20:49.000Z">
+          <p>@XNx3EuyIBt @4KB5uHyQfh C'est le plus genant? Le fait qu'il se fasse cramer ou que sa mere ne sait pas la difference entre c'est et ses?</p>
+        </post>
+        <post who="#lM4cRvEI13" when="2017-04-07T02:32:09.000Z" xml:id="lM4cRvEI13-2017-04-07T02:32:09.000Z">
+          <p>Trump est un bon \ud83d\udd2b https://t.co/o8tK4zvAyq</p>
+        </post>
+        <post who="#YXnRGbKwee" when="2017-04-07T02:51:40.000Z" xml:id="YXnRGbKwee-2017-04-07T02:51:40.000Z">
+          <p>Pourquoi je n'arrive</p>
+        </post>
+        <post who="#zFe0I9Re32" when="2017-04-07T02:24:02.000Z" xml:id="zFe0I9Re32-2017-04-07T02:24:02.000Z">
+          <p>Soir\u00e9e de dingue mais demain on va pas assumer \ud83d\ude05\ud83d\ude34</p>
+        </post>
+        <post who="#g9FcAu0Ldn" when="2017-04-07T02:40:16.000Z" xml:id="g9FcAu0Ldn-2017-04-07T02:40:16.000Z">
+          <p>La beauph\u00e9cie</p>
+        </post>
+        <post who="#PlD4Vcgo1H" when="2017-04-07T02:10:37.000Z" xml:id="PlD4Vcgo1H-2017-04-07T02:10:37.000Z">
+          <p>@UedJZkhHu2 1 leg (celle du pretre super ...) en 58 booster ... 3 \u00e9piques chez le d\u00e9mo (les pires) et j'ai eu 3 fois l\u00e0 m\u00eame en plus ... j'ai connu mieu</p>
+        </post>
+        <post who="#C1sXvhe6gM" when="2017-04-07T02:43:02.000Z" xml:id="C1sXvhe6gM-2017-04-07T02:43:02.000Z">
+          <p>@EvZA0mDU67 @cMNnxBE8hq @26nO53KrWB @X1XyBrfIu3 @jf5JQSp3TI @QMGQTN7TqO @VSTjRLgl14 @ZmSiF6SdDA @jymxoDXJx1 @2HcTIZhCqS Maintenant elle veut attendre des \u00e9lections \u00e9trang\u00e8res, donc bien plus que 6 mois.
+https://t.co/Dd7X0SvQCL</p>
+        </post>
+        <post who="#OFczxNMpHc" when="2017-04-07T02:35:18.000Z" xml:id="OFczxNMpHc-2017-04-07T02:35:18.000Z">
+          <p>Comment j'ai la flemme</p>
+        </post>
+        <post who="#owdT0sVvbu" when="2017-04-07T02:38:57.000Z" xml:id="owdT0sVvbu-2017-04-07T02:38:57.000Z">
+          <p>3 mois \ud83d\udc3b\ud83d\udc39</p>
+        </post>
+        <post who="#1IgOTE60bC" when="2017-04-07T02:41:47.000Z" xml:id="1IgOTE60bC-2017-04-07T02:41:47.000Z">
+          <p>#xboxscorpio  Scorpio vs #PS4Pro  : Le match des configurations https://t.co/wUfIQz0b8K</p>
+        </post>
+        <post who="#U74RQfZMpc" when="2017-04-07T02:27:18.000Z" xml:id="U74RQfZMpc-2017-04-07T02:27:18.000Z">
+          <p>@1kWQXFrr6E J'ai pas grand chose \u00e0 apporter mais j'aimerais mettre en exergue le fait que twitter me signal que ton code Python est en langue tch\u00e8que.</p>
+        </post>
+        <post who="#yoMvJ3M0vs" when="2017-04-07T02:23:47.000Z" xml:id="yoMvJ3M0vs-2017-04-07T02:23:47.000Z">
+          <p>@3ncckHLZi9 Je suis tellement jalouse \ud83d\ude2d\ud83d\ude2d</p>
+        </post>
+        <post who="#BNvIP6Cpu4" when="2017-04-07T02:39:56.000Z" xml:id="BNvIP6Cpu4-2017-04-07T02:39:56.000Z">
+          <p>Ca fait un peu trop.. https://t.co/2baJE8EZFP</p>
+        </post>
+        <post who="#hSe4vmbibC" when="2017-04-07T02:35:21.000Z" xml:id="hSe4vmbibC-2017-04-07T02:35:21.000Z">
+          <p>Marylou a mis moins de story que moi  du concert sur snap pour une fois \ud83d\ude02\ud83d\ude31</p>
+        </post>
+        <post who="#GsV5kXxwQE" when="2017-04-07T02:27:54.000Z" xml:id="GsV5kXxwQE-2017-04-07T02:27:54.000Z">
+          <p>"Si une chose est plus importante que l'attention envers l'autre, c'est le partage"
+Tonton Moufff, 2017</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:10:03.000Z" xml:id="XOnRDIQtip-2017-04-07T02:10:03.000Z">
+          <p>@WLPn94ReGT Personne : je ne suis pas contre des frappes limit\u00e9es \u00e0 des objectifs militaires non conventionnels</p>
+        </post>
+        <post who="#Z7zP8Xl9ii" when="2017-04-07T02:22:08.000Z" xml:id="Z7zP8Xl9ii-2017-04-07T02:22:08.000Z">
+          <p>Dernier gros apero en tant que bizuth \ud83d\udc94\ud83d\udd25</p>
+        </post>
+        <post who="#QdTyyiy4qS" when="2017-04-07T02:45:51.000Z" xml:id="QdTyyiy4qS-2017-04-07T02:45:51.000Z">
+          <p>@VCLvuTY8wN t'as d\u00e9j\u00e0 drop out ou pas l\u00e0???? softblock le</p>
+        </post>
+        <post who="#oUubSeimJJ" when="2017-04-07T02:14:49.000Z" xml:id="oUubSeimJJ-2017-04-07T02:14:49.000Z">
+          <p>paul george est monstrueux\ud83d\ude09 https://t.co/vJAD64xxt3</p>
+        </post>
+        <post who="#PubsRpRSBH" when="2017-04-07T02:18:20.000Z" xml:id="PubsRpRSBH-2017-04-07T02:18:20.000Z">
+          <p>@nJJ5tDo0xz @Da1Nc6J3NH @N4zBdAzTHX @sSofX1MjYC Meilleur,on ne c'est https://t.co/xFzzNxFVUr pr\u00e9sent m\u00e9diatiquement oui,il donne l'impression de faire beaucoup d'ombre \u00e0 MLP</p>
+        </post>
+        <post who="#gxzoqFgTU1" when="2017-04-07T02:43:06.000Z" xml:id="gxzoqFgTU1-2017-04-07T02:43:06.000Z">
+          <p>merci 100x @FqEzMSlCVZ j'ai pass\u00e9 une nuit fantastique a rire https://t.co/OzbYJ7Bcq0</p>
+        </post>
+        <post who="#gMtG7vNTEI" when="2017-04-07T02:04:21.000Z" xml:id="gMtG7vNTEI-2017-04-07T02:04:21.000Z">
+          <p>Bonjour,
+Un ami a pens\u00e9 que cet article du Parisien pouvait vous int\u00e9resser.
+
+https://t.co/uKQW4Mq3ah</p>
+        </post>
+        <post who="#7SCATo1Zi5" when="2017-04-07T02:06:18.000Z" xml:id="7SCATo1Zi5-2017-04-07T02:06:18.000Z">
+          <p>#dgsi #dgse M\u00e8re Grand officiellement remerci\u00e9e par le petit chaperon rouge
+https://t.co/aFCGntbOah</p>
+        </post>
+        <post who="#EgfMyOjdMY" when="2017-04-07T02:13:15.000Z" xml:id="EgfMyOjdMY-2017-04-07T02:13:15.000Z">
+          <p>@KLirvZ8XLS @IUySPKAcL1 Moi m\u00eame je wanda</p>
+        </post>
+        <post who="#w40paih37j" when="2017-04-07T02:39:30.000Z" xml:id="w40paih37j-2017-04-07T02:39:30.000Z">
+          <p>D\u00e9sarmement #ETA pr\u00e9vu le 8 avril prochain: un message de paix pour la jeunesse basque d'aujourd'hui et pour tout le Pays-Basque.</p>
+        </post>
+        <post who="#nh7Y5kFHK1" when="2017-04-07T02:01:10.000Z" xml:id="nh7Y5kFHK1-2017-04-07T02:01:10.000Z">
+          <p>@uipC3NQhEr Ouiiiii ouiiiii depuis le temp que j'attends</p>
+        </post>
+        <post who="#iwpO3d0YId" when="2017-04-07T02:14:42.000Z" xml:id="iwpO3d0YId-2017-04-07T02:14:42.000Z">
+          <p>Retenez bien ce tweet les gens ! \ud83d\ude0f\u270c\ud83c\udffc https://t.co/wNEgZHfvsi</p>
+        </post>
+        <post who="#wHeJXpOxlV" when="2017-04-07T02:28:50.000Z" xml:id="wHeJXpOxlV-2017-04-07T02:28:50.000Z">
+          <p>Nuit pr\u00e9c\u00e9dente : 9h de sommeil 
+Cette nuit : 3h de sommeil</p>
+        </post>
+        <post who="#EcFFINu6tz" when="2017-04-07T02:36:03.000Z" xml:id="EcFFINu6tz-2017-04-07T02:36:03.000Z">
+          <p>60 missiles lanc\u00e9s sur la Syrie. Les R\u00e9publicains jubilent, les D\u00e9mocrates sont perplexes. https://t.co/vxuIFsRHMT</p>
+        </post>
+        <post who="#UzOaot4C0u" when="2017-04-07T02:06:04.000Z" xml:id="UzOaot4C0u-2017-04-07T02:06:04.000Z">
+          <p>@oUDlXcfK7A @gYhaiPULho @a8aejZIZQ8 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 putin mais tu kiff trop ce genre d'humour enculer</p>
+        </post>
+        <post who="#QdTyyiy4qS" when="2017-04-07T02:57:46.000Z" xml:id="QdTyyiy4qS-2017-04-07T02:57:46.000Z">
+          <p>@VCLvuTY8wN \u00e7a m'rassure alors jveux pas que tu sois affect\u00e9 par leurs conneries</p>
+        </post>
+        <post who="#y50n90a6Hk" when="2017-04-07T02:38:35.000Z" xml:id="y50n90a6Hk-2017-04-07T02:38:35.000Z">
+          <p>Mais c'est \u00e7a un pr\u00e9sident, si tu d\u00e9passes les limites, il te r\u00e9primande, et c'est aussi bien comme \u00e7a</p>
+        </post>
+        <post who="#qSb2TW1f0J" when="2017-04-07T02:06:45.000Z" xml:id="qSb2TW1f0J-2017-04-07T02:06:45.000Z">
+          <p>@auvlJyn37L @pfKWJHSbvV Fid\u00e8le au niveau de @auvlJyn37L Bourgeois et sans int\u00e9ret</p>
+        </post>
+        <post who="#UOFlopDWq6" when="2017-04-07T02:56:42.000Z" xml:id="UOFlopDWq6-2017-04-07T02:56:42.000Z">
+          <p>La sieste de cet apr\u00e8s midi ne sera pas de trop, jpp de m'\u00eatre lev\u00e9 \u00e0 4h50 toute la semaine \ud83d\ude34 \ud83d\udca4 \ud83d\udca4</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:39:49.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:39:49.000Z">
+          <p>@jBGZilEQTJ @8JANurhea2 bah tu veux que je dise quoi merci de me troll ????</p>
+        </post>
+        <post who="#kScw3e4ZIo" when="2017-04-07T02:01:04.000Z" xml:id="kScw3e4ZIo-2017-04-07T02:01:04.000Z">
+          <p>@fUhvzNpO6s @Z7rGn4sJd7 @2cSPcTdS7o A quand une autre vid\u00e9o !!</p>
+        </post>
+        <post who="#n4xQLvcLIJ" when="2017-04-07T02:33:13.000Z" xml:id="n4xQLvcLIJ-2017-04-07T02:33:13.000Z">
+          <p>@aXf1LcNSJT @jJA97stEL7 s'est fait avoir comme un bleu. Les internautes l'ont d\u00e9masqu\u00e9e en 5 minutes. #LEmissionPolitique</p>
+        </post>
+        <post who="#exiaPx61AW" when="2017-04-07T02:55:52.000Z" xml:id="exiaPx61AW-2017-04-07T02:55:52.000Z">
+          <p>Je comprend vraiment pas cette homme</p>
+        </post>
+        <post who="#oByPr7F0xv" when="2017-04-07T02:46:39.000Z" xml:id="oByPr7F0xv-2017-04-07T02:46:39.000Z">
+          <p>Les #USA tirent 50 missiles sur #Homs sans aucun accord de l'#ONU #GodBlessSyria #Russia #Poutine #3WW</p>
+        </post>
+        <post who="#RrsOJmG8lK" when="2017-04-07T02:24:12.000Z" xml:id="RrsOJmG8lK-2017-04-07T02:24:12.000Z">
+          <p>@473REXPHOY pas les smartphones mais plut\u00f4t certains usages comme regarder un film ou jouer online au poker</p>
+        </post>
+        <post who="#Ebgu7w7Oq7" when="2017-04-07T02:56:32.000Z" xml:id="Ebgu7w7Oq7-2017-04-07T02:56:32.000Z">
+          <p>J'ai tjr pas trouver de villa pr mai \ud83d\ude29\ud83d\ude29\ud83d\ude29</p>
+        </post>
+        <post who="#Tqj69MRRDp" when="2017-04-07T02:31:39.000Z" xml:id="Tqj69MRRDp-2017-04-07T02:31:39.000Z">
+          <p>@u8V7flSGbt Oui c'est bien la bonne personne</p>
+        </post>
+        <post who="#AUYY70X65s" when="2017-04-07T02:29:20.000Z" xml:id="AUYY70X65s-2017-04-07T02:29:20.000Z">
+          <p>#Trump bombarde un site stockant des armes chimiques, visiblement le voisinage n'aura pas le droit a sa commis\u00e9ration #syria</p>
+        </post>
+        <post who="#tR1PPYQJ3y" when="2017-04-07T02:55:01.000Z" xml:id="tR1PPYQJ3y-2017-04-07T02:55:01.000Z">
+          <p>@wBhCeTWcdn m\u00eame une montre cass\u00e9e a raison deux fois par jour</p>
+        </post>
+        <post who="#xIbFe7ntT1" when="2017-04-07T02:22:36.000Z" xml:id="xIbFe7ntT1-2017-04-07T02:22:36.000Z">
+          <p>Gros duo avec le Pierre</p>
+        </post>
+        <post who="#w6CcsFncgn" when="2017-04-07T02:37:01.000Z" xml:id="w6CcsFncgn-2017-04-07T02:37:01.000Z">
+          <p>@g3ejT7AC4H @VAgoQbRpWi j'ai vue les hits marker, j'ai vomis</p>
+        </post>
+        <post who="#SoNTA98gzN" when="2017-04-07T02:25:33.000Z" xml:id="SoNTA98gzN-2017-04-07T02:25:33.000Z">
+          <p>@tHCm42V89c Trump l'a fait, missiles tir\u00e9s de la flotte US en M\u00e9diterran\u00e9e, sur base syrienne. Il vaut pas mieux qu'Hillary et Hollande...</p>
+        </post>
+        <post who="#bxsTIXmTW3" when="2017-04-07T02:30:04.000Z" xml:id="bxsTIXmTW3-2017-04-07T02:30:04.000Z">
+          <p>Je n'ai absolument rien compris a cette soiree c'etait un WTF complet du debut a la fin</p>
+        </post>
+        <post who="#LsNupT9Afw" when="2017-04-07T02:21:33.000Z" xml:id="LsNupT9Afw-2017-04-07T02:21:33.000Z">
+          <p>@obUCbEo7tn Y pas du tout en Belgique ^^</p>
+        </post>
+        <post who="#LDwjdEGOMK" when="2017-04-07T02:45:25.000Z" xml:id="LDwjdEGOMK-2017-04-07T02:45:25.000Z">
+          <p>@yLIcN3j4bi Sympa l'interview paddock Shanghai. Faut marquer le coup en Super Formula car ce baquet F1 est m\u00e9rit\u00e9 \ud83d\udc4d\ud83c\uddeb\ud83c\uddf7\ud83d\udd1d \ud83d\ude09@97L7fe85qw</p>
+        </post>
+        <post who="#oByPr7F0xv" when="2017-04-07T02:17:18.000Z" xml:id="oByPr7F0xv-2017-04-07T02:17:18.000Z">
+          <p>Le d\u00e9but de la #3WW #Russia #SyriaFree</p>
+        </post>
+        <post who="#uNnTsmifBE" when="2017-04-07T02:40:28.000Z" xml:id="uNnTsmifBE-2017-04-07T02:40:28.000Z">
+          <p>#E1Bonjour @ga9yH8zkXs @HskL260Q4v douceur et d\u00e9tente avec petit \u2615\ufe0favant d'entamer cette derni\u00e8re journ\u00e9e .......</p>
+        </post>
+        <post who="#SzsFxhRmJU" when="2017-04-07T02:03:53.000Z" xml:id="SzsFxhRmJU-2017-04-07T02:03:53.000Z">
+          <p>@uwvDZgaj2x si t'as des "palliers pour les guests fumistes" encore dispo je prends</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:06:37.000Z" xml:id="XOnRDIQtip-2017-04-07T02:06:37.000Z">
+          <p>@MltmfQv7Ay RIP le Donald qui rompait avec les faucons n\u00e9ocons, petit ange parti trop vite</p>
+        </post>
+        <post who="#bbpcJQnNFV" when="2017-04-07T02:16:55.000Z" xml:id="bbpcJQnNFV-2017-04-07T02:16:55.000Z">
+          <p>Je veux pas quitter le Canadaaaa \ud83d\ude29\ud83d\ude2d c'est mon chez moi maintenant</p>
+        </post>
+        <post who="#iw1vxDVzOQ" when="2017-04-07T02:00:55.000Z" xml:id="iw1vxDVzOQ-2017-04-07T02:00:55.000Z">
+          <p>N'oubliez pas le 9 Avril 2017 15H \u00e0 Paris les Noctambules https://t.co/bjDht1nvxN</p>
+        </post>
+        <post who="#RuF1BRE69S" when="2017-04-07T02:39:23.000Z" xml:id="RuF1BRE69S-2017-04-07T02:39:23.000Z">
+          <p>J'ai envie de me rendormir \ud83d\ude34</p>
+        </post>
+        <post who="#eSs1NoKX3x" when="2017-04-07T02:48:40.000Z" xml:id="eSs1NoKX3x-2017-04-07T02:48:40.000Z">
+          <p>BFM ce n est pas un journal? j ai cru M. MACRON que c \u00e9tait votre copain de coeur</p>
+        </post>
+        <post who="#m05F3G7sWZ" when="2017-04-07T02:08:38.000Z" xml:id="m05F3G7sWZ-2017-04-07T02:08:38.000Z">
+          <p>J'ai bu du coca</p>
+        </post>
+        <post who="#dsTTwdqQSZ" when="2017-04-07T02:57:51.000Z" xml:id="dsTTwdqQSZ-2017-04-07T02:57:51.000Z">
+          <p>@yNNJyz64U3 Proverbe \u00e9cossais ? ;)</p>
+        </post>
+        <post who="#obtXtrpQXZ" when="2017-04-07T02:08:29.000Z" xml:id="obtXtrpQXZ-2017-04-07T02:08:29.000Z">
+          <p>Team Insomniaque bonsoir !</p>
+        </post>
+        <post who="#IEhZjN7ovW" when="2017-04-07T02:32:30.000Z" xml:id="IEhZjN7ovW-2017-04-07T02:32:30.000Z">
+          <p>@iyDHKU6LMD Askip c'est se qu'on dit</p>
+        </post>
+        <post who="#B1V1ZFlMy3" when="2017-04-07T02:03:47.000Z" xml:id="B1V1ZFlMy3-2017-04-07T02:03:47.000Z">
+          <p>Comme l'escroquerie est un sport national en France, Fillon et Le Pen caracolent en t\u00eate du Ripoux Parade! Et vive la France ! https://t.co/Vfgfd7RRA4</p>
+        </post>
+        <post who="#qQPTvah7Zy" when="2017-04-07T02:13:19.000Z" xml:id="qQPTvah7Zy-2017-04-07T02:13:19.000Z">
+          <p>@gX0AsmqP1b \u00e7a commence bien avec un bon gros drapeau rouge...</p>
+        </post>
+        <post who="#g3flX0y5Pf" when="2017-04-07T02:31:56.000Z" xml:id="g3flX0y5Pf-2017-04-07T02:31:56.000Z">
+          <p>@ueIVKHI1VE c'est vrai que sa pourrais porter \u00e0 confusion</p>
+        </post>
+        <post who="#sqPwVgECaD" when="2017-04-07T02:05:42.000Z" xml:id="sqPwVgECaD-2017-04-07T02:05:42.000Z">
+          <p>Le Pr\u00e9sident #Trump aurait ordonn\u00e9 l'attaque pendant sa rencontre avec le Pr\u00e9sident chinois https://t.co/Omm7i0UASv</p>
+        </post>
+        <post who="#otu4QowdjF" when="2017-04-07T02:45:00.000Z" xml:id="otu4QowdjF-2017-04-07T02:45:00.000Z">
+          <p>@KMITrBDJni De Gaulle !</p>
+        </post>
+        <post who="#0J4NKc7Uco" when="2017-04-07T02:50:26.000Z" xml:id="0J4NKc7Uco-2017-04-07T02:50:26.000Z">
+          <p>Washington passe \u00e0 l\u2019attaque en Syrie https://t.co/dyIZHzvyDF</p>
+        </post>
+        <post who="#zK32OAxiQy" when="2017-04-07T02:33:12.000Z" xml:id="zK32OAxiQy-2017-04-07T02:33:12.000Z">
+          <p>Si jamais vous entendez du bruit dans le noir c'est moi et ma crise d'insomnie. Pas d'inqui\u00e9tude donc, vous pouvez vous rendormir ! https://t.co/VnDV5p9QeM</p>
+        </post>
+        <post who="#3HQd4J41jT" when="2017-04-07T02:13:54.000Z" xml:id="3HQd4J41jT-2017-04-07T02:13:54.000Z">
+          <p>Jsuis trop fort</p>
+        </post>
+        <post who="#ps772QRE0T" when="2017-04-07T02:12:45.000Z" xml:id="ps772QRE0T-2017-04-07T02:12:45.000Z">
+          <p>Excellent https://t.co/nUtjgaI56Q</p>
+        </post>
+        <post who="#OBBzAdwAqs" when="2017-04-07T02:51:36.000Z" xml:id="OBBzAdwAqs-2017-04-07T02:51:36.000Z">
+          <p>Que Le mec il s'faisait pass\u00e9e pour Totox , Apres 3h jmen suis aper\u00e7ue sm</p>
+        </post>
+        <post who="#HGTyFyhC0v" when="2017-04-07T02:53:03.000Z" xml:id="HGTyFyhC0v-2017-04-07T02:53:03.000Z">
+          <p>Euh twitter, ce matin j'ai un tweet sur deux qui est sponso... Tu me pousses vers la sortie  ?</p>
+        </post>
+        <post who="#gVgASSWpEN" when="2017-04-07T02:44:54.000Z" xml:id="gVgASSWpEN-2017-04-07T02:44:54.000Z">
+          <p>@5YYy2DToNb Merci \u00e0 vous deux et Franck en particulier pour ces 30 minutes juste passionnantes et beaucoup d'infos de @yLIcN3j4bi #F1</p>
+        </post>
+        <post who="#fz6s7gQMzY" when="2017-04-07T02:36:55.000Z" xml:id="fz6s7gQMzY-2017-04-07T02:36:55.000Z">
+          <p>EXCLUSIF : L'enfarineur de Fran\u00e7ois Fillon est fich\u00e9 S et revient d'Afghanistan https://t.co/XocfoCwN2H via @iDvjgiOuBX</p>
+        </post>
+        <post who="#VCbQdU3ni6" when="2017-04-07T02:20:34.000Z" xml:id="VCbQdU3ni6-2017-04-07T02:20:34.000Z">
+          <p>Jme demande comment alain soral va defendre trump maintenant \ud83d\ude02\ud83d\ude02\ud83d\ude02</p>
+        </post>
+        <post who="#3HQd4J41jT" when="2017-04-07T02:10:18.000Z" xml:id="3HQd4J41jT-2017-04-07T02:10:18.000Z">
+          <p>@tX0JJIu88H On lui met 2-0 et il met des proof comme quoi le mec avec moi \u00e0 dit qu'il avait 16ans jduis mort</p>
+        </post>
+        <post who="#zrhwjBBSdk" when="2017-04-07T02:34:28.000Z" xml:id="zrhwjBBSdk-2017-04-07T02:34:28.000Z">
+          <p>\u00e7a passe d'un jtm \u00e0 un ntm a la vitesse de la lumi\u00e8re</p>
+        </post>
+        <post who="#tm9rRv1HK1" when="2017-04-07T02:46:24.000Z" xml:id="tm9rRv1HK1-2017-04-07T02:46:24.000Z">
+          <p>@7QgLfyx6SB Ca assume pas...~~ x3</p>
+        </post>
+        <post who="#lN2JSNgUqI" when="2017-04-07T02:21:02.000Z" xml:id="lN2JSNgUqI-2017-04-07T02:21:02.000Z">
+          <p>Ou gnr je vais le voir avec mon p\u00e8re  faire des recommandations \u00e0 mon mari pouuuahh</p>
+        </post>
+        <post who="#5fg43mdGlg" when="2017-04-07T02:28:48.000Z" xml:id="5fg43mdGlg-2017-04-07T02:28:48.000Z">
+          <p>@WYjiNOp4MC @oKRIezQWwg @5Kcw3Mkxh0 A mais \u00e7a ce n'est pas \u00e9tonnant du tout \u00e0 force de vouloir dire la v\u00e9rit\u00e9... Du coup FF va devoir en bidonner une pour surfer sur le buz?</p>
+        </post>
+        <post who="#y9Nk62evuA" when="2017-04-07T02:18:17.000Z" xml:id="y9Nk62evuA-2017-04-07T02:18:17.000Z">
+          <p>2h16...quelqu'un a dit dans ma t\u00eate "l\u00e8ve toi et essaie de faire du chocolat chaud"...tout le monde a cri\u00e9 "yeaaah"!! Me voil\u00e0 donc\ud83d\ude29\ud83d\ude29</p>
+        </post>
+        <post who="#RuF1BRE69S" when="2017-04-07T02:41:19.000Z" xml:id="RuF1BRE69S-2017-04-07T02:41:19.000Z">
+          <p>Pourquoi y'a fallu que \u00e7a tombe sur moi de commencer \u00e0 6h alors que je devais faire ma petite journ\u00e9e aujourd'hui \ud83d\ude25</p>
+        </post>
+        <post who="#i6m7tuO9lt" when="2017-04-07T02:06:25.000Z" xml:id="i6m7tuO9lt-2017-04-07T02:06:25.000Z">
+          <p>@Ai8pXpKZSo Tu peux pas comprendre, c'est de l'art!!</p>
+        </post>
+        <post who="#WX87LN7vNo" when="2017-04-07T02:39:40.000Z" xml:id="WX87LN7vNo-2017-04-07T02:39:40.000Z">
+          <p>La grenouille de la sagesse ! #Syrie #Syriahoax #Trump https://t.co/pGMtNZ6imf</p>
+        </post>
+        <post who="#SzVr3Q9yyj" when="2017-04-07T02:10:04.000Z" xml:id="SzVr3Q9yyj-2017-04-07T02:10:04.000Z">
+          <p>@bOGea4aRkV @ZdJ6XH2pay Les mignonneries sont appr\u00e9ci\u00e9es x100 ce soir, merci Pierre.</p>
+        </post>
+        <post who="#I3h2MmezFN" when="2017-04-07T02:33:03.000Z" xml:id="I3h2MmezFN-2017-04-07T02:33:03.000Z">
+          <p>C'est le d\u00e9but de la 3eme guerre mondiale dont on a pas besoin et qui augmentera l'afflux des r\u00e9fugi\u00e9s environnementaux Europe https://t.co/HxpRco67Zm</p>
+        </post>
+        <post who="#KajplOhPNZ" when="2017-04-07T02:44:37.000Z" xml:id="KajplOhPNZ-2017-04-07T02:44:37.000Z">
+          <p>Avec eux, je serai tranquille \u00e0 la cour de r\u00e9cr\u00e9 @ Sumida, Tokyo https://t.co/oUmuRzh2Oe</p>
+        </post>
+        <post who="#uJqdda1L29" when="2017-04-07T02:07:09.000Z" xml:id="uJqdda1L29-2017-04-07T02:07:09.000Z">
+          <p>@cLLNcBcaby Rien, j'ai juste post\u00e9 la m\u00eame chose il y a pr\u00e8s d'un an :P</p>
+        </post>
+        <post who="#VlHAhOEULt" when="2017-04-07T02:26:09.000Z" xml:id="VlHAhOEULt-2017-04-07T02:26:09.000Z">
+          <p>\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02
+
+On appelle \u00e7a le manque de respect total ! https://t.co/0tIWfBC9mN</p>
+        </post>
+        <post who="#jJ198dbbK5" when="2017-04-07T02:35:15.000Z" xml:id="jJ198dbbK5-2017-04-07T02:35:15.000Z">
+          <p>Petit probl\u00e8me sur ma derni\u00e8re vid\u00e9o! [lire le suite https://t.co/trEThiFHD7 ]</p>
+        </post>
+        <post who="#xDMDe9Kqvu" when="2017-04-07T02:51:55.000Z" xml:id="xDMDe9Kqvu-2017-04-07T02:51:55.000Z">
+          <p>Merci beaucoup \ud83d\udc8b https://t.co/Jd3H5Bg9ka</p>
+        </post>
+        <post who="#hVbuYcjhhU" when="2017-04-07T02:56:02.000Z" xml:id="hVbuYcjhhU-2017-04-07T02:56:02.000Z">
+          <p>@m1vZ8S4D66 @JhpFOCZsVI Depuis quand on r\u00e9ponds 3ans apr\u00e8s ?</p>
+        </post>
+        <post who="#c67qAjBVHa" when="2017-04-07T02:56:04.000Z" xml:id="c67qAjBVHa-2017-04-07T02:56:04.000Z">
+          <p>Une ancienne carte de #Lyon ramen\u00e9e au #Japon vers 1873. https://t.co/Zseuyt86DP</p>
+        </post>
+        <post who="#LkCabRm9vf" when="2017-04-07T02:55:52.000Z" xml:id="LkCabRm9vf-2017-04-07T02:55:52.000Z">
+          <p>#LFP #FFF #Ligue1 @tZDCp6ys0b @5ummAJ2pPj #LOSCOGCN  
+@mRMOVjpr5s - Les #arbitres de la rencontre \ud83e\udd23\u26bd\ufe0f\ud83d\ude03\ud83d\ude07\ud83d\ude4c https://t.co/M3H3Mxf2G6</p>
+        </post>
+        <post who="#NTMpcWuwNs" when="2017-04-07T02:33:01.000Z" xml:id="NTMpcWuwNs-2017-04-07T02:33:01.000Z">
+          <p>#pxc17 ils sont bien nourris en plus :-) Merci @qo8xFPFDiB pour l'organisation https://t.co/Y55ARz8yIo</p>
+        </post>
+        <post who="#S2tyyAvDBu" when="2017-04-07T02:07:51.000Z" xml:id="S2tyyAvDBu-2017-04-07T02:07:51.000Z">
+          <p>Super bien dit... c'est exactement \u00e7a ! https://t.co/8b2f6Hmim2</p>
+        </post>
+        <post who="#G6tzQrJsTg" when="2017-04-07T02:38:41.000Z" xml:id="G6tzQrJsTg-2017-04-07T02:38:41.000Z">
+          <p>J'ai commenc\u00e9 \u00e0 regarder 13 Reasons Why parce que j'en entend pas mal parler et si j'avais pas vu l'heure, j'aurai facilement continuer.</p>
+        </post>
+        <post who="#DjtupY5fMX" when="2017-04-07T02:48:10.000Z" xml:id="DjtupY5fMX-2017-04-07T02:48:10.000Z">
+          <p>les appels qui durent toute la nuit \ud83d\ude3b</p>
+        </post>
+        <post who="#R7qTJClKI1" when="2017-04-07T02:58:27.000Z" xml:id="R7qTJClKI1-2017-04-07T02:58:27.000Z">
+          <p>l'expression "se tordre de douleur" j'avais jamais vu \u00e7a au sens propre et maintenant la nuit je vis \u00e7a c'est... \u00e9trange</p>
+        </post>
+        <post who="#1IgOTE60bC" when="2017-04-07T02:40:13.000Z" xml:id="1IgOTE60bC-2017-04-07T02:40:13.000Z">
+          <p>#xboxscorpio  Scorpio : sa fiche technique officielle r\u00e9v\u00e8le une console pr\u00eate pour la 4K https://t.co/X1HScoZPDb</p>
+        </post>
+        <post who="#YOG2bPyWKt" when="2017-04-07T02:02:27.000Z" xml:id="YOG2bPyWKt-2017-04-07T02:02:27.000Z">
+          <p>Libert\u00e9, Egalit\u00e9, Inform\u00e9s https://t.co/tJGp4VQEfv via @qXcquoJpDf
+Actions pour une presse libre #NDA2017</p>
+        </post>
+        <post who="#eYCxeLBt6A" when="2017-04-07T02:10:42.000Z" xml:id="eYCxeLBt6A-2017-04-07T02:10:42.000Z">
+          <p>Ca change d'avis comme de chemise, on aime https://t.co/YZd08bxKHU</p>
+        </post>
+        <post who="#yclOjUaAgg" when="2017-04-07T02:36:42.000Z" xml:id="yclOjUaAgg-2017-04-07T02:36:42.000Z">
+          <p>@qEFmcCbIk5 @hGlHmeiVJk @zseh0k4eFa J'ai vraiment envie de dire mouf hein!! \ud83d\ude15\ud83d\ude15</p>
+        </post>
+        <post who="#LEs5UF1GnE" when="2017-04-07T02:44:26.000Z" xml:id="LEs5UF1GnE-2017-04-07T02:44:26.000Z">
+          <p>@O7qA6J7w84 pr\u00e9sente les news du @UK9Q3oZCZB. https://t.co/I7yGsTKkyQ</p>
+        </post>
+        <post who="#Xs1RBSWR5m" when="2017-04-07T02:33:26.000Z" xml:id="Xs1RBSWR5m-2017-04-07T02:33:26.000Z">
+          <p>@FgTLr1spVJ malheureusement non, je n'y vais pas - j'etais juste invite au pti'dej'!</p>
+        </post>
+        <post who="#YJa9pkwRbT" when="2017-04-07T02:26:28.000Z" xml:id="YJa9pkwRbT-2017-04-07T02:26:28.000Z">
+          <p>J'ai dormi 2 heures, deja r\u00e9veill\u00e9, JAI LA MORT</p>
+        </post>
+        <post who="#kIWnjGDKPu" when="2017-04-07T02:51:01.000Z" xml:id="kIWnjGDKPu-2017-04-07T02:51:01.000Z">
+          <p>J'ai l'impression d'avoir ferm\u00e9 les yeux 5min et que mon r\u00e9veil a sonn\u00e9 \ud83d\ude34\ud83d\ude34</p>
+        </post>
+        <post who="#Q2Fk7w5NjM" when="2017-04-07T02:25:47.000Z" xml:id="Q2Fk7w5NjM-2017-04-07T02:25:47.000Z">
+          <p>Je me retrouve \u00e0 faire les devoirs tout est normal</p>
+        </post>
+        <post who="#ejZIQTh0Kb" when="2017-04-07T02:17:13.000Z" xml:id="ejZIQTh0Kb-2017-04-07T02:17:13.000Z">
+          <p>@cky90GTwmn Ca craint un max \u2026 ils auraient pu attendre une enqu\u00eate de l\u2019ONU pour savoir qui dit vrai \u2026</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:29:16.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:29:16.000Z">
+          <p>@jBGZilEQTJ @8JANurhea2 bref cette discussion sert \u00e0 rien et je sais m\u00eame pas pourquoi elle a commenc\u00e9, Q+</p>
+        </post>
+        <post who="#m5O3L32OA0" when="2017-04-07T02:05:47.000Z" xml:id="m5O3L32OA0-2017-04-07T02:05:47.000Z">
+          <p>Ce que pense un ufologue avec Alain Le Kern https://t.co/yJ0SQ2i8Dt via @JFPwGwoBVm</p>
+        </post>
+        <post who="#iwpO3d0YId" when="2017-04-07T02:17:57.000Z" xml:id="iwpO3d0YId-2017-04-07T02:17:57.000Z">
+          <p>@9qPpbWSIgf @GdRkE0DQcV @W6Px2bWk8L Sois pas mauvaise ! Un jour, on ira photographiez toutes les portes d\u00e9labr\u00e9es du monde avec Off oklm ! \u270c\ud83c\udffc</p>
+        </post>
+        <post who="#TWdewS3yP7" when="2017-04-07T02:00:02.000Z" xml:id="TWdewS3yP7-2017-04-07T02:00:02.000Z">
+          <p>@YVXBFxxiD2 Je veux faire mes ongles</p>
+        </post>
+        <post who="#2pAFW8cl7e" when="2017-04-07T02:05:42.000Z" xml:id="2pAFW8cl7e-2017-04-07T02:05:42.000Z">
+          <p>Cabinet Noir: le parquet de Paris ouvre une information judiciaire apr\u00e8s la plainte de Val\u00e9rie P\u00e9cresse https://t.co/KttWZT7BJ5</p>
+        </post>
+        <post who="#1IgOTE60bC" when="2017-04-07T02:40:44.000Z" xml:id="1IgOTE60bC-2017-04-07T02:40:44.000Z">
+          <p>#Apple  va d\u00e9velopper ses propres processeurs https://t.co/z6wJasaKJk</p>
+        </post>
+        <post who="#osFSy3Vptd" when="2017-04-07T02:05:27.000Z" xml:id="osFSy3Vptd-2017-04-07T02:05:27.000Z">
+          <p>@1hZBZBOHS2 Woooow de que va a ser de Rocket League? https://t.co/qI6m4Ipy5h</p>
+        </post>
+        <post who="#777GB6PfXq" when="2017-04-07T02:10:58.000Z" xml:id="777GB6PfXq-2017-04-07T02:10:58.000Z">
+          <p>Moi en pissant 2 https://t.co/iKMMtCnrif</p>
+        </post>
+        <post who="#YXnRGbKwee" when="2017-04-07T02:52:16.000Z" xml:id="YXnRGbKwee-2017-04-07T02:52:16.000Z">
+          <p>Pas \u00e0 mettre mes chaussures!?</p>
+        </post>
+        <post who="#QKRISzkElv" when="2017-04-07T02:50:13.000Z" xml:id="QKRISzkElv-2017-04-07T02:50:13.000Z">
+          <p>c pas moi cest eux qui le disent https://t.co/fM0EtZRIIg</p>
+        </post>
+        <post who="#4zOYLYviHq" when="2017-04-07T02:19:53.000Z" xml:id="4zOYLYviHq-2017-04-07T02:19:53.000Z">
+          <p>"On va juste boire un verre" c'est le genre de phrase qu'on respecte jamais. \ud83d\ude2b</p>
+        </post>
+        <post who="#dsTTwdqQSZ" when="2017-04-07T02:54:23.000Z" xml:id="dsTTwdqQSZ-2017-04-07T02:54:23.000Z">
+          <p>Virage \u00e0 180 degr\u00e9s en quelques jours de Trump sur la Syrie. Cette nuit pour la 1re fois il me fait vraiment flipper https://t.co/0b0JkvNSMF</p>
+        </post>
+        <post who="#OVpBAwnRIP" when="2017-04-07T02:13:03.000Z" xml:id="OVpBAwnRIP-2017-04-07T02:13:03.000Z">
+          <p>@dycv2lxRO6 Pour le reste, tu pourrais me r\u00e9sumer le propos g\u00e9n\u00e9ral de la discussion? J'ai pas regard\u00e9 l'\u00e9mission hier soir...</p>
+        </post>
+        <post who="#OBBzAdwAqs" when="2017-04-07T02:38:44.000Z" xml:id="OBBzAdwAqs-2017-04-07T02:38:44.000Z">
+          <p>Le carnaval cette ann\u00e9e , bien trop lourd \ud83d\ude0e\ud83e\udd43\ud83d\udcaf</p>
+        </post>
+        <post who="#eOQMld8AYC" when="2017-04-07T02:53:44.000Z" xml:id="eOQMld8AYC-2017-04-07T02:53:44.000Z">
+          <p>Aujourd'hui pour moi c'est un jour noir ....triste soir\u00e9e m\u00eame horrible ....:(</p>
+        </post>
+        <post who="#tEyBGrNhh4" when="2017-04-07T02:17:14.000Z" xml:id="tEyBGrNhh4-2017-04-07T02:17:14.000Z">
+          <p>@JqxTTGCjTA Et vu que t'as pas la r\u00e9f\u00e9rence: https://t.co/KNd97eZo7u</p>
+        </post>
+        <post who="#O3n5BpJQ7k" when="2017-04-07T02:07:10.000Z" xml:id="O3n5BpJQ7k-2017-04-07T02:07:10.000Z">
+          <p>Moi mon p'tit il aura son \u00e9ducation \u00e7a poche et \u00e7a villa que je meurt si il a pas ce qu'il faut.</p>
+        </post>
+        <post who="#nBlhIrpyu3" when="2017-04-07T02:46:34.000Z" xml:id="nBlhIrpyu3-2017-04-07T02:46:34.000Z">
+          <p>Le reveil d\u00e9monte ce matin \ud83d\ude28</p>
+        </post>
+        <post who="#4AQQVMl0AS" when="2017-04-07T02:42:02.000Z" xml:id="4AQQVMl0AS-2017-04-07T02:42:02.000Z">
+          <p>@cC5xkN4rKd ca fait plusieurs fois qu'il dort plus \u00e0 partir de 4h j'en peux plus</p>
+        </post>
+        <post who="#BR80b3pAb0" when="2017-04-07T02:42:41.000Z" xml:id="BR80b3pAb0-2017-04-07T02:42:41.000Z">
+          <p>super l'insomnie \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f\ud83d\ude13</p>
+        </post>
+        <post who="#6w0PhMBf9W" when="2017-04-07T02:32:02.000Z" xml:id="6w0PhMBf9W-2017-04-07T02:32:02.000Z">
+          <p>Ptdrr cette vid\u00e9o c'est trop https://t.co/QzNRrpwEox</p>
+        </post>
+        <post who="#IEhZjN7ovW" when="2017-04-07T02:21:40.000Z" xml:id="IEhZjN7ovW-2017-04-07T02:21:40.000Z">
+          <p>@iyDHKU6LMD Pas mon style mais stv rien que pour toi : entre nous tu es la plus belle m\u00eame sans la robe</p>
+        </post>
+        <post who="#QNoZJvVqbj" when="2017-04-07T02:49:13.000Z" xml:id="QNoZJvVqbj-2017-04-07T02:49:13.000Z">
+          <p>@9mdht5q8XV C_NNA_D !! mais Profite bro reviens en forme ;)</p>
+        </post>
+        <post who="#8IyhgjPxI4" when="2017-04-07T02:31:08.000Z" xml:id="8IyhgjPxI4-2017-04-07T02:31:08.000Z">
+          <p>@x3ExC13XK1 UN AMI M'A DIT QU'IL AIMAIT CE GENRE DE VID\u00c9O ! SA REACTION EN UNE IMAGE VA VOUS CHOQUER https://t.co/IeZsK2jQ6u</p>
+        </post>
+        <post who="#g6uXt5nddG" when="2017-04-07T02:56:35.000Z" xml:id="g6uXt5nddG-2017-04-07T02:56:35.000Z">
+          <p>Des enfants syriens gaz\u00e9s \u00e0 mort par des armes chimiques. Rejoignez l'appel urgent pour la justice Signez/RT https://t.co/VaeZH52sbd</p>
+        </post>
+        <post who="#SG0enb0vBK" when="2017-04-07T02:33:37.000Z" xml:id="SG0enb0vBK-2017-04-07T02:33:37.000Z">
+          <p>@eohuw0GYx3 @rznnuI6NJA @sVoPVFgKl7 C'est pas toi qu'a failli mourrir \u00e0 cause d'une mauvaise fourche ?</p>
+        </post>
+        <post who="#QrKKSrdltQ" when="2017-04-07T02:04:58.000Z" xml:id="QrKKSrdltQ-2017-04-07T02:04:58.000Z">
+          <p>@Hgwpw3Ak7F C'est tr\u00e8s aimable Ang\u00e8le \ud83d\ude1a C'est sorti du fin fond de mon intestin \u263a\ufe0f</p>
+        </post>
+        <post who="#bzecNAIMic" when="2017-04-07T02:21:02.000Z" xml:id="bzecNAIMic-2017-04-07T02:21:02.000Z">
+          <p>La r\u00e9action Russe va \u00eatre d\u00e9terminante</p>
+        </post>
+        <post who="#4bUnZCWmID" when="2017-04-07T02:46:03.000Z" xml:id="4bUnZCWmID-2017-04-07T02:46:03.000Z">
+          <p>@47MRruizEG Bonjour</p>
+        </post>
+        <post who="#jBWeGDAi6D" when="2017-04-07T02:32:32.000Z" xml:id="jBWeGDAi6D-2017-04-07T02:32:32.000Z">
+          <p>" et tu t'es pas encore mis une balle ? "</p>
+        </post>
+        <post who="#exiaPx61AW" when="2017-04-07T02:56:14.000Z" xml:id="exiaPx61AW-2017-04-07T02:56:14.000Z">
+          <p>C plus dans mes possibilit\u00e9s il est vraiment incompr\u00e9hensible</p>
+        </post>
+        <post who="#Tqj69MRRDp" when="2017-04-07T02:46:33.000Z" xml:id="Tqj69MRRDp-2017-04-07T02:46:33.000Z">
+          <p>@nDnKZ0uNF3 Ah voil\u00e0 t'as r\u00e9ussi je suis d\u00e9gout\u00e9 \ud83d\ude02 pour la peine je vais me couch\u00e9 \u00e7a passera mieux sur ce bonne journ\u00e9e \u00e0 toi \ud83d\ude09 #Peace\u270c\ud83c\udffb https://t.co/nNKyjAs77p</p>
+        </post>
+        <post who="#OVpBAwnRIP" when="2017-04-07T02:10:35.000Z" xml:id="OVpBAwnRIP-2017-04-07T02:10:35.000Z">
+          <p>@dycv2lxRO6 @D2z15VI5ce @7IG1fnDpRt Madame Lefebvre semble \u00eatre une filloniste donc gu\u00e8re \u00e9tonnant qu'elle pense \u00e7a. Et \u00e7a fait contrepoids avec Fillon/LdC la derni\u00e8re fois</p>
+        </post>
+        <post who="#wvpC5MZita" when="2017-04-07T02:58:01.000Z" xml:id="wvpC5MZita-2017-04-07T02:58:01.000Z">
+          <p>5h du matin et je dors pas, mes nerfs sont vraiment solides</p>
+        </post>
+        <post who="#di8PXepNvN" when="2017-04-07T02:02:08.000Z" xml:id="di8PXepNvN-2017-04-07T02:02:08.000Z">
+          <p>@Tl5OQlZ4je C'est malheureusement ce qu'il a fait...</p>
+        </post>
+        <post who="#CeQDgy2TUV" when="2017-04-07T02:49:02.000Z" xml:id="CeQDgy2TUV-2017-04-07T02:49:02.000Z">
+          <p>#FatouDiome impressionnante cette femme, moderne, occidentale tout en pr\u00e9servant son africanit\u00e9. https://t.co/yx0H9GJWWC</p>
+        </post>
+        <post who="#YQwXXcBdfW" when="2017-04-07T02:08:01.000Z" xml:id="YQwXXcBdfW-2017-04-07T02:08:01.000Z">
+          <p>@myDGOo0xjN @AEV7KQuLhP Comme souvent, et comme apr\u00e8s l'Irak\ud83c\uddee\ud83c\uddf6 en 2003 plusieurs imb\u00e9ciles croiront sans critique aucune; pour s'\u00e9tonner ensuite \ud83d\udc4e\ud83c\udffe #AttaqueChimique</p>
+        </post>
+        <post who="#hSe4vmbibC" when="2017-04-07T02:36:41.000Z" xml:id="hSe4vmbibC-2017-04-07T02:36:41.000Z">
+          <p>Pas mal le concert d'Ed sheeran \u00e0 Bercy \ud83d\udc4c</p>
+        </post>
+        <post who="#mAsLfDPGx5" when="2017-04-07T02:20:33.000Z" xml:id="mAsLfDPGx5-2017-04-07T02:20:33.000Z">
+          <p>Pour l'\u00e9t\u00e9 je dois vraiment avoir les bravas gonfl\u00e9s \ud83d\ude24\ud83d\udcaa\ud83c\udffe</p>
+        </post>
+        <post who="#n4xQLvcLIJ" when="2017-04-07T02:31:16.000Z" xml:id="n4xQLvcLIJ-2017-04-07T02:31:16.000Z">
+          <p>@1ZQv8pFZ0e @N5tvFBkjsU @jJA97stEL7 s'est fait avoir comme un bleu. Les internautes l'ont d\u00e9masqu\u00e9e en 5 minutes..#LEmissionPolitique</p>
+        </post>
+        <post who="#a13j3gM092" when="2017-04-07T02:26:11.000Z" xml:id="a13j3gM092-2017-04-07T02:26:11.000Z">
+          <p>@ozUggqBtw2 C'\u00e9tait bien sympa pour un premier live j'ai bien Nnayimer kappa</p>
+        </post>
+        <post who="#SzVr3Q9yyj" when="2017-04-07T02:13:05.000Z" xml:id="SzVr3Q9yyj-2017-04-07T02:13:05.000Z">
+          <p>600000$ le missile, x60, certains ne doivent pas \u00eatre si moroses ce soir.</p>
+        </post>
+        <post who="#ecJNFe6sYP" when="2017-04-07T02:03:23.000Z" xml:id="ecJNFe6sYP-2017-04-07T02:03:23.000Z">
+          <p>@lyVZrWAhqX @dj3vf9Ho5A @j0v6yw5UoC Mais n'importe quoi, ce type raconte vraiment des absurdit\u00e9s.</p>
+        </post>
+        <post who="#uDzG4CXu8z" when="2017-04-07T02:42:40.000Z" xml:id="uDzG4CXu8z-2017-04-07T02:42:40.000Z">
+          <p>@4KB5uHyQfh @XNx3EuyIBt Les exams ils m'offrent pas une serie Jazz Clippers de batard</p>
+        </post>
+        <post who="#4ipwGB73Pb" when="2017-04-07T02:11:07.000Z" xml:id="4ipwGB73Pb-2017-04-07T02:11:07.000Z">
+          <p>@kEhpFyMmWU Et oui, et comme on peut pas les refoutre \u00e0 la mer, il faut prendre en charge ces gens, le temps qu'ils puissent rentrer chez eux.</p>
+        </post>
+        <post who="#6GqeUktHvL" when="2017-04-07T02:46:21.000Z" xml:id="6GqeUktHvL-2017-04-07T02:46:21.000Z">
+          <p>EL1 : Apr\u00e8s une moiti\u00e9 de s\u00e9ance en drapeau rouge, \u00e7a repart a Shangai ! https://t.co/R01XyjFS86 #ChineseGP #F1</p>
+        </post>
+        <post who="#x8T8EWoHU9" when="2017-04-07T02:28:16.000Z" xml:id="x8T8EWoHU9-2017-04-07T02:28:16.000Z">
+          <p>@s4ti0ZXeBj Peut \u00eatre parce-que je suis pas en Floride :)</p>
+        </post>
+        <post who="#yDPU5oQxjo" when="2017-04-07T02:53:20.000Z" xml:id="yDPU5oQxjo-2017-04-07T02:53:20.000Z">
+          <p>13 reason why c'est bien Mais c'est bof en mm temps Genre c'est trop long et la fille elle soul un peu</p>
+        </post>
+        <post who="#GkyJ8iZaXJ" when="2017-04-07T02:56:19.000Z" xml:id="GkyJ8iZaXJ-2017-04-07T02:56:19.000Z">
+          <p>@F4DzQlx9b6 je sors de Anastasia ... t'imagines mm pas a quel point j'ai envie de chanter ... mais je risque de me faire jeter de l'hotel ^^</p>
+        </post>
+        <post who="#0cVfJ8ssMh" when="2017-04-07T02:27:21.000Z" xml:id="0cVfJ8ssMh-2017-04-07T02:27:21.000Z">
+          <p>Lourde soir\u00e9e</p>
+        </post>
+        <post who="#w9jWjcDZKM" when="2017-04-07T02:16:39.000Z" xml:id="w9jWjcDZKM-2017-04-07T02:16:39.000Z">
+          <p>#NBAEXTRA non... Non... NON! 
+C'est Coup\u00e9-D\u00e9cal\u00e9... Pas "d\u00e9coup\u00e9, d\u00e9cal\u00e9, machin-chose l\u00e0...". \ud83d\ude2c</p>
+        </post>
+        <post who="#3HQd4J41jT" when="2017-04-07T02:06:05.000Z" xml:id="3HQd4J41jT-2017-04-07T02:06:05.000Z">
+          <p>MDDDDR KO Surny fait des fake proof \u00e0 4h du matin pour un gb \ud83d\ude02\ud83d\ude02 tdc</p>
+        </post>
+        <post who="#3HQd4J41jT" when="2017-04-07T02:13:27.000Z" xml:id="3HQd4J41jT-2017-04-07T02:13:27.000Z">
+          <p>@tX0JJIu88H Lstmb sa tryhard pour un gb apr\u00e8s blc mais bon qu'il aille jusqu'\u00e0 faire des fake proof c tr\u00e8s grv</p>
+        </post>
+        <post who="#ILlNpLpEev" when="2017-04-07T02:59:36.000Z" xml:id="ILlNpLpEev-2017-04-07T02:59:36.000Z">
+          <p>Bon vendredi \u00e0 vous tous. Profitez pleinement de cette derni\u00e8re journ\u00e9e de la semaine !!</p>
+        </post>
+        <post who="#ekNadMHPP5" when="2017-04-07T02:00:32.000Z" xml:id="ekNadMHPP5-2017-04-07T02:00:32.000Z">
+          <p>Y a du basket aussi dans rocket league #nbaextra</p>
+        </post>
+        <post who="#CWSg3OhEhM" when="2017-04-07T02:00:42.000Z" xml:id="CWSg3OhEhM-2017-04-07T02:00:42.000Z">
+          <p>La page elle est d\u00e9chir\u00e9, br\u00fbler je pisse dessus m\u00eame...</p>
+        </post>
+        <post who="#4CuAwYdMRB" when="2017-04-07T02:40:56.000Z" xml:id="4CuAwYdMRB-2017-04-07T02:40:56.000Z">
+          <p>@ClSxcfKITr trop tard je dors l\u00e0</p>
+        </post>
+        <post who="#vKe7u9PLPk" when="2017-04-07T02:16:31.000Z" xml:id="vKe7u9PLPk-2017-04-07T02:16:31.000Z">
+          <p>\u00c9clat\u00e9</p>
+        </post>
+        <post who="#ogvKz2Cvin" when="2017-04-07T02:19:13.000Z" xml:id="ogvKz2Cvin-2017-04-07T02:19:13.000Z">
+          <p>\ud83c\udf89\ud83c\udf8a\ud83c\udf81\ud83c\udf8a Joyeux anniversaire @knjpES5SMW</p>
+        </post>
+        <post who="#1VXqJw9xnr" when="2017-04-07T02:52:41.000Z" xml:id="1VXqJw9xnr-2017-04-07T02:52:41.000Z">
+          <p>Une superbe vid\u00e9o : dire aux autres qu\u2019ils sont beaux \u2026 - https://t.co/GKvUrGeZrv</p>
+        </post>
+        <post who="#FsNoxFFxvI" when="2017-04-07T02:17:54.000Z" xml:id="FsNoxFFxvI-2017-04-07T02:17:54.000Z">
+          <p>LAC du jour un Gros GG \u00e0 tous ! https://t.co/mlWYbAYdEi</p>
+        </post>
+        <post who="#B1V1ZFlMy3" when="2017-04-07T02:21:41.000Z" xml:id="B1V1ZFlMy3-2017-04-07T02:21:41.000Z">
+          <p>Le Pen: Quand la haine vous sourit, tente de feindre la douceur, l'anti-syst\u00e8me qui ne joui qui finance Deach contre la France et donne des https://t.co/MXFqr2oiP2</p>
+        </post>
+        <post who="#rgvQIS5uZE" when="2017-04-07T02:24:23.000Z" xml:id="rgvQIS5uZE-2017-04-07T02:24:23.000Z">
+          <p>Le chauffeur de taxi qui nous offre des bonbons, j'crois on pue d'la gueule avec l'alcool \ud83d\ude02\ud83d\ude02</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:10:12.000Z" xml:id="XOnRDIQtip-2017-04-07T02:10:12.000Z">
+          <p>@WLPn94ReGT Je tenais juste \u00e0 souligner le virage \u00e0 180\u00b0 du bonhomme</p>
+        </post>
+        <post who="#n8JTxowPMS" when="2017-04-07T02:31:19.000Z" xml:id="n8JTxowPMS-2017-04-07T02:31:19.000Z">
+          <p>Et voil\u00e0 4h30 et d\u00e9j\u00e0 r\u00e9veill\u00e9 \u00e0 cause de mon nez bouch\u00e9</p>
+        </post>
+        <post who="#fhvloUmrPR" when="2017-04-07T02:08:43.000Z" xml:id="fhvloUmrPR-2017-04-07T02:08:43.000Z">
+          <p>Eh c'est la meilleure vid\u00e9o de cette ann\u00e9e pour l'instant https://t.co/TkM64MCEZ6</p>
+        </post>
+        <post who="#HhoU1yPrfs" when="2017-04-07T02:40:56.000Z" xml:id="HhoU1yPrfs-2017-04-07T02:40:56.000Z">
+          <p>@BraGfIRwzr : Pr\u00e9sente la prochaine fois! ;) ahah \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d
+Lucky you!</p>
+        </post>
+        <post who="#cYlLnWO0lT" when="2017-04-07T02:27:15.000Z" xml:id="cYlLnWO0lT-2017-04-07T02:27:15.000Z">
+          <p>Regardez "[Fil d'Actu sur youtube</p>
+        </post>
+        <post who="#WX87LN7vNo" when="2017-04-07T02:52:35.000Z" xml:id="WX87LN7vNo-2017-04-07T02:52:35.000Z">
+          <p>Ce matin, je partage le m\u00eame sentiment. #Syrie #Syriahoax #Trump https://t.co/6Jg2kSmGPI</p>
+        </post>
+        <post who="#wEuH0FZL4G" when="2017-04-07T02:49:55.000Z" xml:id="wEuH0FZL4G-2017-04-07T02:49:55.000Z">
+          <p>Tousser toute la nuit \ud83d\ude14\ud83d\ude12</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:16:49.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:16:49.000Z">
+          <p>@8JANurhea2 @jBGZilEQTJ scuse le white knight qui a vue ayless mentionner une autre personne et qui a rappliquer instant</p>
+        </post>
+        <post who="#YXnRGbKwee" when="2017-04-07T02:53:21.000Z" xml:id="YXnRGbKwee-2017-04-07T02:53:21.000Z">
+          <p>Comment on \u00e9crit jai le hoquet ?</p>
+        </post>
+        <post who="#NTMpcWuwNs" when="2017-04-07T02:31:19.000Z" xml:id="NTMpcWuwNs-2017-04-07T02:31:19.000Z">
+          <p>#pxc17  c'est parti pour nos \u00e9quipes ! #SNQuebec17 https://t.co/yYI0rloYOA</p>
+        </post>
+        <post who="#qQPTvah7Zy" when="2017-04-07T02:13:53.000Z" xml:id="qQPTvah7Zy-2017-04-07T02:13:53.000Z">
+          <p>@gX0AsmqP1b Que c'est encore une belle organisation et que c'est souvent la m\u00eame chose ici</p>
+        </post>
+        <post who="#LWHV5k3CNr" when="2017-04-07T02:51:57.000Z" xml:id="LWHV5k3CNr-2017-04-07T02:51:57.000Z">
+          <p>Fillon : "un pr\u00e9sident exemplaire, c'est [insert bullshit]"
+Moi : https://t.co/m571KGhQZw</p>
+        </post>
+        <post who="#wHeJXpOxlV" when="2017-04-07T02:29:08.000Z" xml:id="wHeJXpOxlV-2017-04-07T02:29:08.000Z">
+          <p>Je crois qu'il y a un probleme la \ud83e\udd14\ud83d\ude34</p>
+        </post>
+        <post who="#30Ofad204a" when="2017-04-07T02:07:28.000Z" xml:id="30Ofad204a-2017-04-07T02:07:28.000Z">
+          <p>Je parie que dans quelques semaines,il y aura 1 nouvelle attaque chimique.on verra bien comment les criminels occidentaux r\u00e9agiront.</p>
+        </post>
+        <post who="#AvlOIDucUA" when="2017-04-07T02:17:54.000Z" xml:id="AvlOIDucUA-2017-04-07T02:17:54.000Z">
+          <p>Je me suis r\u00e9veill\u00e9 d'un coup et j'ai faim c'est pas normal</p>
+        </post>
+        <post who="#uDzG4CXu8z" when="2017-04-07T02:31:16.000Z" xml:id="uDzG4CXu8z-2017-04-07T02:31:16.000Z">
+          <p>@4KB5uHyQfh @XNx3EuyIBt C'est ouf. T'es debout tard frr aha. T'as regard\u00e9 quel match?</p>
+        </post>
+        <post who="#IEhZjN7ovW" when="2017-04-07T02:15:23.000Z" xml:id="IEhZjN7ovW-2017-04-07T02:15:23.000Z">
+          <p>@iyDHKU6LMD Un jour ton prince viendra (enfin en attendant moi c'est une meuf )</p>
+        </post>
+        <post who="#5jmJ1tsGW9" when="2017-04-07T02:37:54.000Z" xml:id="5jmJ1tsGW9-2017-04-07T02:37:54.000Z">
+          <p>@LGnjgHEW3O @6oTs6bZklJ T'es g\u00eanant arr\u00eate \u00e7a</p>
+        </post>
+        <post who="#6w0PhMBf9W" when="2017-04-07T02:53:18.000Z" xml:id="6w0PhMBf9W-2017-04-07T02:53:18.000Z">
+          <p>@t9Ao4yc6qp Ptdrr</p>
+        </post>
+        <post who="#222HBVEbWq" when="2017-04-07T02:13:20.000Z" xml:id="222HBVEbWq-2017-04-07T02:13:20.000Z">
+          <p>Nuit de Chine, nuit c\u00e2line, nuit d'amour. Gr\u00e2ce \u00e0 ce temps de r\u00eave, et une brume tenace, la FP1 a dur\u00e9 dix mn. L'h\u00e9lico ne peut pas d\u00e9coller https://t.co/RUfcC5iioG</p>
+        </post>
+        <post who="#8g9Ij0HEA8" when="2017-04-07T02:17:39.000Z" xml:id="8g9Ij0HEA8-2017-04-07T02:17:39.000Z">
+          <p>@Sm2cilrORo @hh0VvkRR68 pour info c'est faux c'\u00e9tait un poisson d'avril</p>
+        </post>
+        <post who="#KaqjgCxJV3" when="2017-04-07T02:00:20.000Z" xml:id="KaqjgCxJV3-2017-04-07T02:00:20.000Z">
+          <p>@NwpeOVRGPT @NBYxcO2cvH Un carton ? Capet tu veux que je fasse quoi avec un carton s\u00e9rieux ?...</p>
+        </post>
+        <post who="#TEAAlJEr5O" when="2017-04-07T02:18:24.000Z" xml:id="TEAAlJEr5O-2017-04-07T02:18:24.000Z">
+          <p>@kBDK2ds93s Je look le live aussi sa mere ya 9k de vie morte comme moi</p>
+        </post>
+        <post who="#hz3c50q0nS" when="2017-04-07T02:07:29.000Z" xml:id="hz3c50q0nS-2017-04-07T02:07:29.000Z">
+          <p>@UtY1iBL6CV Naissu!!!</p>
+        </post>
+        <post who="#yjptU0AmS5" when="2017-04-07T02:30:33.000Z" xml:id="yjptU0AmS5-2017-04-07T02:30:33.000Z">
+          <p>comment tu peux bombarder ton propre peuple et les regarder mourir jour apr\u00e8s jour</p>
+        </post>
+        <post who="#ZdhP827yo5" when="2017-04-07T02:49:15.000Z" xml:id="ZdhP827yo5-2017-04-07T02:49:15.000Z">
+          <p>ils le faisaient. Heureusement, apr\u00e8s que mon prof ait parl\u00e9 \u00e0 "mes amis" \u00e7a s'est arr\u00eat\u00e9</p>
+        </post>
+        <post who="#KzZ3hhiIXt" when="2017-04-07T02:43:24.000Z" xml:id="KzZ3hhiIXt-2017-04-07T02:43:24.000Z">
+          <p>@W4rSQITpvl Il a fallu que je me d\u00e9place 4 fois et que j'attende 2 ans pour qu'ils prennent en compte mon changement d'adresse ...</p>
+        </post>
+        <post who="#OoR6f22tsG" when="2017-04-07T02:32:56.000Z" xml:id="OoR6f22tsG-2017-04-07T02:32:56.000Z">
+          <p>Ras Bath : LE COMPORTEMENT DE ETIENNE FAKABA SISSOKO ET LES MOBILES DES AUTEURS DE LA PUBLICATION 
+
+https://t.co/NqNlCPheTd</p>
+        </post>
+        <post who="#w5kcYYsc3X" when="2017-04-07T02:41:02.000Z" xml:id="w5kcYYsc3X-2017-04-07T02:41:02.000Z">
+          <p>Sarah Winchester op\u00e9ra fant\u00f4me @XP3X1siqwe @U3VXRN4WIa @GNVGToyEVV #3esc\u00e8ne\u2763\ufe0f https://t.co/4uzTQKwseF</p>
+        </post>
+        <post who="#gICSHbgOx4" when="2017-04-07T02:12:07.000Z" xml:id="gICSHbgOx4-2017-04-07T02:12:07.000Z">
+          <p>@9usmW4coWg Bordel \u00e7a donne envie de se faire tatouer</p>
+        </post>
+        <post who="#oUubSeimJJ" when="2017-04-07T02:11:08.000Z" xml:id="oUubSeimJJ-2017-04-07T02:11:08.000Z">
+          <p>victoire d'atlanta, ils ont plus a perdre que boston et ils ont pluss les crocs #nbaextra</p>
+        </post>
+        <post who="#L76MUdK2Ax" when="2017-04-07T02:57:46.000Z" xml:id="L76MUdK2Ax-2017-04-07T02:57:46.000Z">
+          <p>Merci @GIFURCA3E3 je n'ai jamais fait un voyage a londres aussi horrible! #chauffeurenbois</p>
+        </post>
+        <post who="#qYvMGYlLO1" when="2017-04-07T02:11:25.000Z" xml:id="qYvMGYlLO1-2017-04-07T02:11:25.000Z">
+          <p>\u201cVers une nouvelle fracture num\u00e9rique ?\u201d by @FDiq9M2r36 https://t.co/J6MkWiwL23</p>
+        </post>
+        <post who="#sqvm0XCrOm" when="2017-04-07T02:20:15.000Z" xml:id="sqvm0XCrOm-2017-04-07T02:20:15.000Z">
+          <p>Ab\u00eem\u00e9e de @shTJXCScOa \ud83d\udde3\ud83c\udf2c
+#InstaSmule #Smule #Chanter #Karaok\u00e9 #leacastel #abimee #voice\u2026 https://t.co/JNpj2yHwNk</p>
+        </post>
+        <post who="#9P2l7Wa3uu" when="2017-04-07T02:18:47.000Z" xml:id="9P2l7Wa3uu-2017-04-07T02:18:47.000Z">
+          <p>Le rappeur Black M de retour \u00e0 @GByGrCjE1s
+
+https://t.co/eJElH8dz59 https://t.co/ddfw46MGVU</p>
+        </post>
+        <post who="#bBCT42489W" when="2017-04-07T02:04:25.000Z" xml:id="bBCT42489W-2017-04-07T02:04:25.000Z">
+          <p>Pour le reste il fera comme il veut mais avec les Mojitos on d\u00e9conne pas, c'est comme \u00e7a et pas autrement! https://t.co/mfdLQg2OVx</p>
+        </post>
+        <post who="#Br5K0OWNXZ" when="2017-04-07T02:17:41.000Z" xml:id="Br5K0OWNXZ-2017-04-07T02:17:41.000Z">
+          <p>Quand je vais aller voter au 1er tour. https://t.co/eOtBsooPMN</p>
+        </post>
+        <post who="#dchfq78n8y" when="2017-04-07T02:57:29.000Z" xml:id="dchfq78n8y-2017-04-07T02:57:29.000Z">
+          <p>Je crois bien que j'ai jamais eu les yeux autant explos\u00e9s \ud83d\ude44</p>
+        </post>
+        <post who="#cky90GTwmn" when="2017-04-07T02:10:45.000Z" xml:id="cky90GTwmn-2017-04-07T02:10:45.000Z">
+          <p>Whoo #trump vient de lancer unilat\u00e9ralement et malgr\u00e9 les warnings de #Poutine 60 missiles sur #Syria ...!!!</p>
+        </post>
+        <post who="#FsNoxFFxvI" when="2017-04-07T02:20:57.000Z" xml:id="FsNoxFFxvI-2017-04-07T02:20:57.000Z">
+          <p>Rendez-vous ce samedi 20h pour un 24h haut en couleur pour f\u00eater dignement les 1k+ follows ! https://t.co/52cjSfa6gl Giv mois d'abo Wow ! https://t.co/NacDHXHIjo</p>
+        </post>
+        <post who="#oLqJSDghPA" when="2017-04-07T02:48:35.000Z" xml:id="oLqJSDghPA-2017-04-07T02:48:35.000Z">
+          <p>Les der de der \u00e0 4h50 du mat pour les 1 an de @vKiBHA0P9u et @D2z15VI5ce on ne lache rien @CyxewpMLas  #chouchoupresident https://t.co/SKeicnQjA6</p>
+        </post>
+        <post who="#VAjl3E5ctO" when="2017-04-07T02:39:31.000Z" xml:id="VAjl3E5ctO-2017-04-07T02:39:31.000Z">
+          <p>@IXIsQd2lb7 C'est vraiment mon moment pr\u00e9f\u00e9r\u00e9 ! Pouvoir discut\u00e9 de nos probl\u00e8mes ensemble \u00e7a m'aide dans ma vie quotidienne</p>
+        </post>
+        <post who="#diobtzsqx6" when="2017-04-07T02:14:57.000Z" xml:id="diobtzsqx6-2017-04-07T02:14:57.000Z">
+          <p>D\u00e9cla de #Trump suite aux frappes sur la #Syrie https://t.co/vvvLSZQeto</p>
+        </post>
+        <post who="#cpiqHVooWW" when="2017-04-07T02:17:46.000Z" xml:id="cpiqHVooWW-2017-04-07T02:17:46.000Z">
+          <p>Description de l'\u00e9pisode 3x19 de #TheFlash r\u00e9alis\u00e9 par Tom Cavanagh et diffus\u00e9 le 25 avril ! "La traque de Killer Frost continue" \u2744\ufe0f https://t.co/U7lx7AaYur</p>
+        </post>
+        <post who="#NdO6rXjkFi" when="2017-04-07T02:44:32.000Z" xml:id="NdO6rXjkFi-2017-04-07T02:44:32.000Z">
+          <p>@59XzqOqMK4 Il y a sans doute une histoire de bon gros spam derri\u00e8re</p>
+        </post>
+        <post who="#jW8orVVT1U" when="2017-04-07T02:10:16.000Z" xml:id="jW8orVVT1U-2017-04-07T02:10:16.000Z">
+          <p>lieux de m\u00e9moire incontournables \u00e0 visiter dans les Hauts-de-France https://t.co/5XOl4xTzkL #PICARDIE #valeurs #LA SOCIETE #HISTOIRE</p>
+        </post>
+        <post who="#7LhXdurZbS" when="2017-04-07T02:43:32.000Z" xml:id="7LhXdurZbS-2017-04-07T02:43:32.000Z">
+          <p>#BarbaraLefebvre tentant de dissimuler son soutien \u00e0 @zcBICCOcoZ, all\u00e9gorie. #LEmissionPolitique #barbaragate https://t.co/cUQr2NhGRo</p>
+        </post>
+        <post who="#C1sXvhe6gM" when="2017-04-07T02:52:47.000Z" xml:id="C1sXvhe6gM-2017-04-07T02:52:47.000Z">
+          <p>Depuis #LeGrandDebat les pro-UE s'acharnent \u00e0 d\u00e9monter @2HcTIZhCqS , est-ce \u00e9tonnant quand on lit ceci ?
+https://t.co/tfF9N7kXJu</p>
+        </post>
+        <post who="#RuF1BRE69S" when="2017-04-07T02:39:01.000Z" xml:id="RuF1BRE69S-2017-04-07T02:39:01.000Z">
+          <p>C'est dur ptn</p>
+        </post>
+        <post who="#YQwXXcBdfW" when="2017-04-07T02:24:06.000Z" xml:id="YQwXXcBdfW-2017-04-07T02:24:06.000Z">
+          <p>@LtzXFacAo5 @U1JhBkgczn @IDFyYDc352 \ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe je d\u00e9clare que n'existe de Dieu que Dieu, et qu'A\u1e25mad est Son messager, en plus je suis fortement allergique..\ud83d\ude21 au Wahhabisme !</p>
+        </post>
+        <post who="#F4NJXEKkGI" when="2017-04-07T02:24:24.000Z" xml:id="F4NJXEKkGI-2017-04-07T02:24:24.000Z">
+          <p>J'ai parl\u00e9 trop vite, ils sonnent tous pour avoir \u00e0 boire maintenant \ud83d\ude34\ud83d\ude02 #lt</p>
+        </post>
+        <post who="#Y0aEn3r2xp" when="2017-04-07T02:49:36.000Z" xml:id="Y0aEn3r2xp-2017-04-07T02:49:36.000Z">
+          <p>L'une des pires soir\u00e9es que j'ai connu s\u00e9rieux</p>
+        </post>
+        <post who="#lQYZyO1FPW" when="2017-04-07T02:13:02.000Z" xml:id="lQYZyO1FPW-2017-04-07T02:13:02.000Z">
+          <p>Se faire r\u00e9veiller par une baston et entendre "h\u00e9 mec rends moi ma carte" fais !</p>
+        </post>
+        <post who="#AvWrAPvktH" when="2017-04-07T02:11:48.000Z" xml:id="AvWrAPvktH-2017-04-07T02:11:48.000Z">
+          <p>Sa fait remonter plein de souvenir d'avoir eu des nouvelles \ud83d\ude31</p>
+        </post>
+        <post who="#2pAFW8cl7e" when="2017-04-07T02:44:48.000Z" xml:id="2pAFW8cl7e-2017-04-07T02:44:48.000Z">
+          <p>Avant ses \u00e9lections, #Merkel voudrait contr\u00f4ler les r\u00e9seaux sociaux https://t.co/hfoa1Yp6nY</p>
+        </post>
+        <post who="#8IyhgjPxI4" when="2017-04-07T02:28:19.000Z" xml:id="8IyhgjPxI4-2017-04-07T02:28:19.000Z">
+          <p>@auUsMoI73H 7 Avril 13h00. Not\u00e9. Comment \u00e7a je stalk ?</p>
+        </post>
+        <post who="#UOeB37fi81" when="2017-04-07T02:26:50.000Z" xml:id="UOeB37fi81-2017-04-07T02:26:50.000Z">
+          <p>cauchemars de merde j'en peux plus\ud83e\udd26\ud83c\udffc\u200d\u2640\ufe0f</p>
+        </post>
+        <post who="#79kTf8B6PK" when="2017-04-07T02:37:45.000Z" xml:id="79kTf8B6PK-2017-04-07T02:37:45.000Z">
+          <p>@kgJbpwn1I9 Mdr moi j'aime on fait comment ? \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02</p>
+        </post>
+        <post who="#w9zHAG90E2" when="2017-04-07T02:46:58.000Z" xml:id="w9zHAG90E2-2017-04-07T02:46:58.000Z">
+          <p>#Asselineau met en #PLS les 10 #candidats au #D\u00e9bat #Pr\u00e9sidentielle2017 (04/04/17) https://t.co/7pesNmmBvU via @JFPwGwoBVm</p>
+        </post>
+        <post who="#OJs3ANTxsq" when="2017-04-07T02:03:06.000Z" xml:id="OJs3ANTxsq-2017-04-07T02:03:06.000Z">
+          <p>#parisroubaix -2D chapo @wioIDIjMmu  c'est magnifique @JW1XmEMJtN bravo  c'etait magnifique #roadtoroubaix #roubaix #allesvoordekoers #PR https://t.co/e75pyeYJmj</p>
+        </post>
+        <post who="#0ysmVDgmmS" when="2017-04-07T02:06:55.000Z" xml:id="0ysmVDgmmS-2017-04-07T02:06:55.000Z">
+          <p>Bonne question mmh. https://t.co/GhP0xrbx7s</p>
+        </post>
+        <post who="#gVgASSWpEN" when="2017-04-07T02:46:04.000Z" xml:id="gVgASSWpEN-2017-04-07T02:46:04.000Z">
+          <p>@5YYy2DToNb Merci \u00e0 vous et @FqGL5m7nvn pour ces 30min passionnantes avec plein d'infos de @yLIcN3j4bi h\u00e9h\u00e9 #F1</p>
+        </post>
+        <post who="#U74RQfZMpc" when="2017-04-07T02:17:11.000Z" xml:id="U74RQfZMpc-2017-04-07T02:17:11.000Z">
+          <p>@nV0fiZSRxU @1kWQXFrr6E Est-ce que \u00e7a veut dire qu'on consid\u00e8re que pi=1 en physique th\u00e9orique ?</p>
+        </post>
+        <post who="#9rm9gv3Z9q" when="2017-04-07T02:27:26.000Z" xml:id="9rm9gv3Z9q-2017-04-07T02:27:26.000Z">
+          <p>"Harrouss, l'immigrant intelligent": Un Tunisien filme ses rencontres \u00e0 travers le monde (VID\u00c9O) https://t.co/iynXIf56xs # via @LvYZS4CwDV</p>
+        </post>
+        <post who="#Np6H5OaiWJ" when="2017-04-07T02:46:20.000Z" xml:id="Np6H5OaiWJ-2017-04-07T02:46:20.000Z">
+          <p>cet \u00e9v\u00e9nement est fort int\u00e9ressant niveau droit international- protection des droits de l'homme- conflit arm\u00e9</p>
+        </post>
+        <post who="#yDlP08Sedb" when="2017-04-07T02:24:12.000Z" xml:id="yDlP08Sedb-2017-04-07T02:24:12.000Z">
+          <p>@MueKiZO6bJ joyeux anniversaire a mon joueur favori</p>
+        </post>
+        <post who="#lN2JSNgUqI" when="2017-04-07T02:38:19.000Z" xml:id="lN2JSNgUqI-2017-04-07T02:38:19.000Z">
+          <p>Alors les cheesy ball de quick c'est douceur vrm</p>
+        </post>
+        <post who="#uDzG4CXu8z" when="2017-04-07T02:37:26.000Z" xml:id="uDzG4CXu8z-2017-04-07T02:37:26.000Z">
+          <p>@4KB5uHyQfh @XNx3EuyIBt Wizards-Knicks.. tu connais le rythme de sommeil totalement d\u00e9cal\u00e9 aha</p>
+        </post>
+        <post who="#wYKyANaoW8" when="2017-04-07T02:56:37.000Z" xml:id="wYKyANaoW8-2017-04-07T02:56:37.000Z">
+          <p>Retrouver son lit apr\u00e8s avoir fait un service pour 800 personnes, \u00e7a, pour le coup c'est la sensation parfaite \ud83c\udf7d\ud83c\udf7e\ud83d\ude34</p>
+        </post>
+        <post who="#nF00hEcYFa" when="2017-04-07T02:40:43.000Z" xml:id="nF00hEcYFa-2017-04-07T02:40:43.000Z">
+          <p>Allez, je vais m'en fumer une dehors et voir si \u00e7a va mieux apr\u00e8s.</p>
+        </post>
+        <post who="#4wUNS8HWQe" when="2017-04-07T02:27:26.000Z" xml:id="4wUNS8HWQe-2017-04-07T02:27:26.000Z">
+          <p>#Penelope se la joue bad boy: le matin elle se l\u00e8ve t\u00f4t pour \u00e9viter l'interpel. \ud83d\ude0e\ud83d\udc6e Bienvenue dans le monde cruel du banditisme ! \ud83d\ude02 https://t.co/gdfDjwoNHZ</p>
+        </post>
+        <post who="#8DI06IIdBC" when="2017-04-07T02:49:27.000Z" xml:id="8DI06IIdBC-2017-04-07T02:49:27.000Z">
+          <p>J'passe grave un bon moment la avec Enzo Pauline et Julien en conf c'est trop coolax</p>
+        </post>
+        <post who="#cFNASdi2ld" when="2017-04-07T02:27:29.000Z" xml:id="cFNASdi2ld-2017-04-07T02:27:29.000Z">
+          <p>je contr\u00f4le</p>
+        </post>
+        <post who="#ZdhP827yo5" when="2017-04-07T02:47:42.000Z" xml:id="ZdhP827yo5-2017-04-07T02:47:42.000Z">
+          <p>Jusqu'au jour o\u00f9 je me suis mise \u00e0 chialer au d\u00e9but d'un cours, parce que j'en pouvais plus</p>
+        </post>
+        <post who="#xDMDe9Kqvu" when="2017-04-07T02:38:29.000Z" xml:id="xDMDe9Kqvu-2017-04-07T02:38:29.000Z">
+          <p>Sinon je vous conseille Rick et Morty en s\u00e9rie ;)</p>
+        </post>
+        <post who="#cFNASdi2ld" when="2017-04-07T02:27:24.000Z" xml:id="cFNASdi2ld-2017-04-07T02:27:24.000Z">
+          <p>tard la nuit je surveille</p>
+        </post>
+        <post who="#lX07ltKK0W" when="2017-04-07T02:32:32.000Z" xml:id="lX07ltKK0W-2017-04-07T02:32:32.000Z">
+          <p>@EBnlVuxA2Q Mdr t'a r\u00f4le pour moi ou bien?</p>
+        </post>
+        <post who="#OnHCBYC9qO" when="2017-04-07T02:02:10.000Z" xml:id="OnHCBYC9qO-2017-04-07T02:02:10.000Z">
+          <p>L'est gonfl\u00e9 quand m\u00eame
+https://t.co/TCTGRL48fn</p>
+        </post>
+        <post who="#4TOdkI3BlQ" when="2017-04-07T02:03:34.000Z" xml:id="4TOdkI3BlQ-2017-04-07T02:03:34.000Z">
+          <p>Normal se lever \u00e0 cette heure ci pour manger des noix de cajou mdr</p>
+        </post>
+        <post who="#B1V1ZFlMy3" when="2017-04-07T02:07:17.000Z" xml:id="B1V1ZFlMy3-2017-04-07T02:07:17.000Z">
+          <p>Comment Lib\u00e9ration fait de l'Argent sur les cadavres encore fumant d'innocents enfants... tout est normal ! https://t.co/4Gse3wmolO</p>
+        </post>
+        <post who="#0JpbRGHnL0" when="2017-04-07T02:36:17.000Z" xml:id="0JpbRGHnL0-2017-04-07T02:36:17.000Z">
+          <p>Go a l'a\u00e9roport pour la derni\u00e8re fois\u2708\ufe0f</p>
+        </post>
+        <post who="#c67qAjBVHa" when="2017-04-07T02:29:31.000Z" xml:id="c67qAjBVHa-2017-04-07T02:29:31.000Z">
+          <p>\u00abMediapart\u00bb, \u00abLe Canard Encha\u00een\u00e9\u00bb et des magistrats vis\u00e9s par des menaces de mort https://t.co/G5wykfMTSZ via @U18SRUELAR</p>
+        </post>
+        <post who="#OVpBAwnRIP" when="2017-04-07T02:11:57.000Z" xml:id="OVpBAwnRIP-2017-04-07T02:11:57.000Z">
+          <p>@dycv2lxRO6 @D2z15VI5ce @7IG1fnDpRt M\u00eame si LdC pas filloniste \u00e9videmment. En passant, ils ont pr\u00e9sent\u00e9 Lefebvre comme filloniste ou pas ?</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:18:23.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:18:23.000Z">
+          <p>@jBGZilEQTJ @8JANurhea2 c'est moi qui abuse alors que vou venez de faire 50 notif pour 3 like ?????</p>
+        </post>
+        <post who="#3Fk1oHv6i5" when="2017-04-07T02:14:48.000Z" xml:id="3Fk1oHv6i5-2017-04-07T02:14:48.000Z">
+          <p>@FKjpVAbfGj ca fait plaisir</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:22:54.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:22:54.000Z">
+          <p>@jBGZilEQTJ @8JANurhea2 bah ouais j'sais pas c'est twitter il est 4h ( donc peu de tweets ) j evois des trucs sur mon tweetdeck je like on me casse les couilles</p>
+        </post>
+        <post who="#v0op2sWgAV" when="2017-04-07T02:31:09.000Z" xml:id="v0op2sWgAV-2017-04-07T02:31:09.000Z">
+          <p>@TamyxsxT0V @TamyxsxT0V @v0op2sWgAV Tu penses alors qu'il m'avait convaincu?</p>
+        </post>
+        <post who="#fZNCdk0DCT" when="2017-04-07T02:11:01.000Z" xml:id="fZNCdk0DCT-2017-04-07T02:11:01.000Z">
+          <p>Tant pis mdr je dormirai demain soir</p>
+        </post>
+        <post who="#L76I43a8uh" when="2017-04-07T02:40:22.000Z" xml:id="L76I43a8uh-2017-04-07T02:40:22.000Z">
+          <p>@BXQe8LEZQ7 deja r\u00e9veill\u00e9 en Ukraine ?</p>
+        </post>
+        <post who="#wvhDsCCxgk" when="2017-04-07T02:29:19.000Z" xml:id="wvhDsCCxgk-2017-04-07T02:29:19.000Z">
+          <p>Apr\u00e8s une soir\u00e9e compliqu\u00e9e il sert temps de se coucher</p>
+        </post>
+        <post who="#WX87LN7vNo" when="2017-04-07T02:10:17.000Z" xml:id="WX87LN7vNo-2017-04-07T02:10:17.000Z">
+          <p>Et c'est l\u00e0 o\u00f9 tu t'imagines un #Macron pr\u00e9sident. Merde. #Syrie #Syriahoax #Trump</p>
+        </post>
+        <post who="#iHcqh21fdZ" when="2017-04-07T02:26:27.000Z" xml:id="iHcqh21fdZ-2017-04-07T02:26:27.000Z">
+          <p>Mets-moi bien mes cookies \u00e0 jour fils de pute. https://t.co/30geMRVLHl</p>
+        </post>
+        <post who="#HBTvYKoTCD" when="2017-04-07T02:06:11.000Z" xml:id="HBTvYKoTCD-2017-04-07T02:06:11.000Z">
+          <p>La @92TA7kLr4C \u00e9lectorale me donne @jnlEMw2tH5 comme r\u00e9sultat. Et vous? Essayez-la pour voir: https://t.co/MpDigrA7sZ @O38r2Yg5Zy</p>
+        </post>
+        <post who="#gZWEIZ6nrr" when="2017-04-07T02:16:22.000Z" xml:id="gZWEIZ6nrr-2017-04-07T02:16:22.000Z">
+          <p>toute une vie sans te voir ce n'est plus une vie</p>
+        </post>
+        <post who="#ezQIli8pBY" when="2017-04-07T02:30:19.000Z" xml:id="ezQIli8pBY-2017-04-07T02:30:19.000Z">
+          <p>@AZS5rtSkj6 J'peux devenir un homme pour toi stuv</p>
+        </post>
+        <post who="#45cenZWKf2" when="2017-04-07T02:10:34.000Z" xml:id="45cenZWKf2-2017-04-07T02:10:34.000Z">
+          <p>D\u00e9but de la guerre internationale ? https://t.co/C7E6DTCdou</p>
+        </post>
+        <post who="#PO5tV1uBv4" when="2017-04-07T02:50:50.000Z" xml:id="PO5tV1uBv4-2017-04-07T02:50:50.000Z">
+          <p>,, articulez non jsais pas, on dirait vous venez d'\u00eatre op\u00e9r\u00e9es</p>
+        </post>
+        <post who="#gZWEIZ6nrr" when="2017-04-07T02:16:58.000Z" xml:id="gZWEIZ6nrr-2017-04-07T02:16:58.000Z">
+          <p>quelle belle heure pour \u00e9couter bb brunes en mangeant du taboul\u00e9 avec pauline</p>
+        </post>
+        <post who="#ZRllxONH9v" when="2017-04-07T02:04:49.000Z" xml:id="ZRllxONH9v-2017-04-07T02:04:49.000Z">
+          <p>@4Fj4t6Bf4B Bravo axelle f\u00e9licitation</p>
+        </post>
+        <post who="#D6f0IqpNmq" when="2017-04-07T02:01:49.000Z" xml:id="D6f0IqpNmq-2017-04-07T02:01:49.000Z">
+          <p>Vendredi tranquille</p>
+        </post>
+        <post who="#bMj16MUvla" when="2017-04-07T02:04:36.000Z" xml:id="bMj16MUvla-2017-04-07T02:04:36.000Z">
+          <p>@yPjkdU69yA Tu d\u00e9fend pas tu fonce, Kappa</p>
+        </post>
+        <post who="#B1V1ZFlMy3" when="2017-04-07T02:27:18.000Z" xml:id="B1V1ZFlMy3-2017-04-07T02:27:18.000Z">
+          <p>Nulle ins\u00e9curit\u00e9 en France ! Mais par Tonne, de la manipulation m\u00e9diatique et politique arm\u00e9e de forces de police d\u00e9tach\u00e9es de l'ordre</p>
+        </post>
+        <post who="#fbhtRTAIwD" when="2017-04-07T02:04:40.000Z" xml:id="fbhtRTAIwD-2017-04-07T02:04:40.000Z">
+          <p>Quand tu finis #DarkSouls3 
+https://t.co/4zeCdAGUrE #LT</p>
+        </post>
+        <post who="#EcFFINu6tz" when="2017-04-07T02:42:14.000Z" xml:id="EcFFINu6tz-2017-04-07T02:42:14.000Z">
+          <p>Le Pentagon n'est pas peu fier : des vid\u00e9os du lancement des missiles ont \u00e9t\u00e9 publi\u00e9es. https://t.co/HcEJWBPoZV</p>
+        </post>
+        <post who="#GWbHnLrR0g" when="2017-04-07T02:16:53.000Z" xml:id="GWbHnLrR0g-2017-04-07T02:16:53.000Z">
+          <p>Puis je suis moche aussi bordel.</p>
+        </post>
+        <post who="#cEH3ikWryY" when="2017-04-07T02:13:58.000Z" xml:id="cEH3ikWryY-2017-04-07T02:13:58.000Z">
+          <p>Nous sommes 23 maires \u00e0 co signer une tribune dans @OIyt87kByO. Apportons toujours plus de fond au d\u00e9bat \u00e9lectoral. https://t.co/cJO6L7JioG</p>
+        </post>
+        <post who="#gCpdltDwQv" when="2017-04-07T02:29:31.000Z" xml:id="gCpdltDwQv-2017-04-07T02:29:31.000Z">
+          <p>@1OiBia4yWy \u00e7a n'a rien \u00e0 voir !</p>
+        </post>
+        <post who="#yPjkdU69yA" when="2017-04-07T02:25:06.000Z" xml:id="yPjkdU69yA-2017-04-07T02:25:06.000Z">
+          <p>@ZuLHjl28fI @ccRNjPYzKV Va dire \u00e7a a mes arri\u00e8res grands-parents qui sont morts dans ces fameuses fournaises... on verra si ils trouvent cela du m\u00eame gout que toi..</p>
+        </post>
+        <post who="#nXvuDqaOGV" when="2017-04-07T02:59:21.000Z" xml:id="nXvuDqaOGV-2017-04-07T02:59:21.000Z">
+          <p>Nous on attends pas 6H pour vous r\u00e9veiller en direct \ud83d\ude1c bon vendredi \u00e0 tous !! https://t.co/T7AONQ5Atu</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:23:33.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:23:33.000Z">
+          <p>@jBGZilEQTJ @8JANurhea2 donc pardon de me servir du r\u00e9seaux de la fa\u00e7on dont il a \u00e9t\u00e9 con\u00e7ue , dsl hein</p>
+        </post>
+        <post who="#yPjkdU69yA" when="2017-04-07T02:04:47.000Z" xml:id="yPjkdU69yA-2017-04-07T02:04:47.000Z">
+          <p>@9GRPIMFhPM Ah ok mdr</p>
+        </post>
+        <post who="#ZdhP827yo5" when="2017-04-07T02:47:07.000Z" xml:id="ZdhP827yo5-2017-04-07T02:47:07.000Z">
+          <p>Je n'avais rien dit \u00e0 personne parce qu'ils \u00e9taient "des amis" pour moi donc c'\u00e9tait... normal ?</p>
+        </post>
+        <post who="#HSC31vmS0l" when="2017-04-07T02:39:14.000Z" xml:id="HSC31vmS0l-2017-04-07T02:39:14.000Z">
+          <p>Jveux juste qu'on rentre dans l'avion pour dormir bordel</p>
+        </post>
+        <post who="#n8JTxowPMS" when="2017-04-07T02:30:54.000Z" xml:id="n8JTxowPMS-2017-04-07T02:30:54.000Z">
+          <p>Et \u00e7a fait du bien ! https://t.co/jlnq9GWv7o</p>
+        </post>
+        <post who="#qf3mURTIyS" when="2017-04-07T02:56:08.000Z" xml:id="qf3mURTIyS-2017-04-07T02:56:08.000Z">
+          <p>Jme r\u00e9veille dans 2h Ca va \u00eatre la mort</p>
+        </post>
+        <post who="#j7IC0Hdkji" when="2017-04-07T02:48:18.000Z" xml:id="j7IC0Hdkji-2017-04-07T02:48:18.000Z">
+          <p>Marine Le Pen TV ad
+
+Vote #LePen #AfD https://t.co/CuOoLvluUT</p>
+        </post>
+        <post who="#7bdKAK0BkJ" when="2017-04-07T02:43:41.000Z" xml:id="7bdKAK0BkJ-2017-04-07T02:43:41.000Z">
+          <p>@swn1TPsHgK \u00c7a pique ces choses l\u00e0 :o</p>
+        </post>
+        <post who="#uDeK6epIov" when="2017-04-07T02:03:31.000Z" xml:id="uDeK6epIov-2017-04-07T02:03:31.000Z">
+          <p>Donc Comme une gamine de 8ans, je suis l\u00e0 \u00e0 raconter mon cauchemar \ud83d\ude25</p>
+        </post>
+        <post who="#jstchlizNP" when="2017-04-07T02:07:56.000Z" xml:id="jstchlizNP-2017-04-07T02:07:56.000Z">
+          <p>@hogIpBtZyj Moi c pareil je vs rejoint bient\u00f4t :)</p>
+        </post>
+        <post who="#PO5tV1uBv4" when="2017-04-07T02:50:04.000Z" xml:id="PO5tV1uBv4-2017-04-07T02:50:04.000Z">
+          <p>,, pq vous tordez votre bouche \u00e0 chaque fois enft? \u00e7a sert \u00e0 quoi?</p>
+        </post>
+        <post who="#0ysmVDgmmS" when="2017-04-07T02:09:41.000Z" xml:id="0ysmVDgmmS-2017-04-07T02:09:41.000Z">
+          <p>Je suis rest\u00e9 coinc\u00e9 dans le mien tellement \u00e7a devient d\u00e9sesp\u00e9rant https://t.co/yKDFWZTVY0</p>
+        </post>
+        <post who="#VXQuAtudPJ" when="2017-04-07T02:43:16.000Z" xml:id="VXQuAtudPJ-2017-04-07T02:43:16.000Z">
+          <p>R\u00e9galade</p>
+        </post>
+        <post who="#xqO78mHHGm" when="2017-04-07T02:29:21.000Z" xml:id="xqO78mHHGm-2017-04-07T02:29:21.000Z">
+          <p>vraiment demain bbq</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:04:43.000Z" xml:id="XOnRDIQtip-2017-04-07T02:04:43.000Z">
+          <p>...avant de changer du tout au tout apr\u00e8s le 9/11.</p>
+        </post>
+        <post who="#iw1vxDVzOQ" when="2017-04-07T02:57:40.000Z" xml:id="iw1vxDVzOQ-2017-04-07T02:57:40.000Z">
+          <p>@kmfOYEqN89 @Xkw9Gg5YsE Le jour ou tu vas tomber Enora Hypocrite \u00e7a va te faire tr\u00e8s Mal.BeauBo \u00e0 ton CulCuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu https://t.co/iVWgRFkJRz</p>
+        </post>
+        <post who="#6w0PhMBf9W" when="2017-04-07T02:37:47.000Z" xml:id="6w0PhMBf9W-2017-04-07T02:37:47.000Z">
+          <p>@t9Ao4yc6qp Tu joue a quoi ?</p>
+        </post>
+        <post who="#0zMBcwUTPa" when="2017-04-07T02:58:24.000Z" xml:id="0zMBcwUTPa-2017-04-07T02:58:24.000Z">
+          <p>Journal de la r\u00e9daction pr\u00e9sent\u00e9 par @v0uhLazTeb  https://t.co/NWGqIYZYnx</p>
+        </post>
+        <post who="#UzOaot4C0u" when="2017-04-07T02:04:37.000Z" xml:id="UzOaot4C0u-2017-04-07T02:04:37.000Z">
+          <p>Moi 20 environ</p>
+        </post>
+        <post who="#nF00hEcYFa" when="2017-04-07T02:18:05.000Z" xml:id="nF00hEcYFa-2017-04-07T02:18:05.000Z">
+          <p>R\u00eaves chelous, speed, j'en peux plus</p>
+        </post>
+        <post who="#7LhXdurZbS" when="2017-04-07T02:25:35.000Z" xml:id="7LhXdurZbS-2017-04-07T02:25:35.000Z">
+          <p>@VRfUeXJ5Ve @OjBTQqtYZz @BQEQhYppqA @7IG1fnDpRt @D2z15VI5ce @jJA97stEL7 @BlCMYwqjNO @BlCMYwqjNOplus @pjXJ8feGWV @3w7blfxn7k @4gDU3H1yjE @8VuEOr4JQT @dSHwsLVv1W @EBjfKvVlCX @8plyo9QRQ8 @VpzeaKSEAt @n927It3AZ6 @jnRbk93zT1 @QaqUhFR1wf @dj3vf9Ho5A @C5dWkAVCVO @XETofWpcV6 @9QZDV6i66m @M1cuuY6WH3 @RYjBoKiefM @KTEvbQqXff Un tract pour une r\u00e9union \u00e0 Angers et au moins 3 interventions t\u00e9l\u00e9vis\u00e9es disponibles sur Youtube, \u00e7a fait d\u00e9j\u00e0 pas mal.</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:23:24.000Z" xml:id="XOnRDIQtip-2017-04-07T02:23:24.000Z">
+          <p>@WLPn94ReGT Quel rapport avec Macron ?</p>
+        </post>
+        <post who="#Tqj69MRRDp" when="2017-04-07T02:33:14.000Z" xml:id="Tqj69MRRDp-2017-04-07T02:33:14.000Z">
+          <p>Je viens de finir \u00e0 l'instant la saison 4 de #OUAT et OMFG !!! \ud83d\ude31\ud83d\ude31\ud83d\ude31 https://t.co/h2SKCh2uxq</p>
+        </post>
+        <post who="#h7zCw5pU1O" when="2017-04-07T02:58:02.000Z" xml:id="h7zCw5pU1O-2017-04-07T02:58:02.000Z">
+          <p>Je vais avoir fini mon projet \u00e0 l'heure o\u00f9 jvais devoir aller me pr\u00e9pare, jpourrai mm pas dormir 30min</p>
+        </post>
+        <post who="#7YHH9fZaPK" when="2017-04-07T02:37:14.000Z" xml:id="7YHH9fZaPK-2017-04-07T02:37:14.000Z">
+          <p>Jai eteins ma play</p>
+        </post>
+        <post who="#wHeJXpOxlV" when="2017-04-07T02:28:17.000Z" xml:id="wHeJXpOxlV-2017-04-07T02:28:17.000Z">
+          <p>C'est fou comme je suis d\u00e9cal\u00e9 au niveau sommeil en ce moment \ud83d\ude34</p>
+        </post>
+        <post who="#GBqce07Vmx" when="2017-04-07T02:00:14.000Z" xml:id="GBqce07Vmx-2017-04-07T02:00:14.000Z">
+          <p>Tous mes codes de reduction sur mon site https://t.co/maXPDQ0v14</p>
+        </post>
+        <post who="#ygYLp2FFIE" when="2017-04-07T02:29:40.000Z" xml:id="ygYLp2FFIE-2017-04-07T02:29:40.000Z">
+          <p>#Vintage Max #Meder #Designer Paris France #Wood Table Fruit #Bowl Signed #Artist https://t.co/7HuKQdpIHy @aYmU4q9Vvo</p>
+        </post>
+        <post who="#ZRllxONH9v" when="2017-04-07T02:32:57.000Z" xml:id="ZRllxONH9v-2017-04-07T02:32:57.000Z">
+          <p>Y'a des pourris partout, j'deviens parano</p>
+        </post>
+        <post who="#Jwbcdd9GPS" when="2017-04-07T02:49:43.000Z" xml:id="Jwbcdd9GPS-2017-04-07T02:49:43.000Z">
+          <p>Allez prochain voyage avec la r\u0153us : Patagonie</p>
+        </post>
+        <post who="#f66JSwCLD4" when="2017-04-07T02:24:09.000Z" xml:id="f66JSwCLD4-2017-04-07T02:24:09.000Z">
+          <p>ok apres le huntard le questard, on prends une uest on bourre de ce u'il faut et gg... serieux blibli?</p>
+        </post>
+        <post who="#hVg12uWfQZ" when="2017-04-07T02:00:53.000Z" xml:id="hVg12uWfQZ-2017-04-07T02:00:53.000Z">
+          <p>@YrU4VmpNjD @KRUgrk7BTh @yCXLb7WG1H @LVd2qvIDd9 GG magnifique!!</p>
+        </post>
+        <post who="#GdRkE0DQcV" when="2017-04-07T02:12:18.000Z" xml:id="GdRkE0DQcV-2017-04-07T02:12:18.000Z">
+          <p>@W6Px2bWk8L le jour o\u00f9 on me paye 1m par post, sur ma vie j'emm\u00e8ne tout mes followers en vacances t ouf ou quoi ! \ud83d\ude02</p>
+        </post>
+        <post who="#YOG2bPyWKt" when="2017-04-07T02:49:35.000Z" xml:id="YOG2bPyWKt-2017-04-07T02:49:35.000Z">
+          <p>@Czo9EA5EPA A quand une \u00e9mission sur la libert\u00e9 d'expression dans le monde et en France? Ne pourrait-on pas dire tout ce qu'on pense?</p>
+        </post>
+        <post who="#IsHELUqLNO" when="2017-04-07T02:52:59.000Z" xml:id="IsHELUqLNO-2017-04-07T02:52:59.000Z">
+          <p>@8JANurhea2 @g3ejT7AC4H @VAgoQbRpWi tu peux les modifier dans les settings</p>
+        </post>
+        <post who="#r2rvHWRJBr" when="2017-04-07T02:14:16.000Z" xml:id="r2rvHWRJBr-2017-04-07T02:14:16.000Z">
+          <p>Toujours au taquet \ud83c\udfce\ud83d\ude0dmais \u00e7a pique quand m\u00eame \ud83d\ude02@5YYy2DToNb @97L7fe85qw https://t.co/gFD02EbiWR</p>
+        </post>
+        <post who="#YGe7vWsEbA" when="2017-04-07T02:06:42.000Z" xml:id="YGe7vWsEbA-2017-04-07T02:06:42.000Z">
+          <p>\u00e7a fait du bien de ce sentir un peu \u00e9couter comme \u00e7a... \ud83d\ude2a</p>
+        </post>
+        <post who="#OnoAixQ2N9" when="2017-04-07T02:32:56.000Z" xml:id="OnoAixQ2N9-2017-04-07T02:32:56.000Z">
+          <p>Ras Bath : LE COMPORTEMENT DE ETIENNE FAKABA SISSOKO ET LES MOBILES DES AUTEURS DE LA PUBLICATION 
+
+https://t.co/t1u0AeqhOE</p>
+        </post>
+        <post who="#OFKZAKhUU4" when="2017-04-07T02:59:41.000Z" xml:id="OFKZAKhUU4-2017-04-07T02:59:41.000Z">
+          <p>Vivement 18h....</p>
+        </post>
+        <post who="#oUubSeimJJ" when="2017-04-07T02:02:52.000Z" xml:id="oUubSeimJJ-2017-04-07T02:02:52.000Z">
+          <p>sefolosha a ete blanchi dans son histoire avec la police de new york, ils doivent lui verser 4millions de dollars
+  #nbaextra</p>
+        </post>
+        <post who="#6IpGYJsVBL" when="2017-04-07T02:11:23.000Z" xml:id="6IpGYJsVBL-2017-04-07T02:11:23.000Z">
+          <p>Maintenence que voisin tapage nocturne est parti, c'est nouvelle voisine qui fume de l'herbe tout le temps qui fait la f\u00eate avec ses potes</p>
+        </post>
+        <post who="#GIz1y0B39b" when="2017-04-07T02:03:46.000Z" xml:id="GIz1y0B39b-2017-04-07T02:03:46.000Z">
+          <p>Jarrive pas a dormir</p>
+        </post>
+        <post who="#uDzG4CXu8z" when="2017-04-07T02:40:43.000Z" xml:id="uDzG4CXu8z-2017-04-07T02:40:43.000Z">
+          <p>@4KB5uHyQfh @XNx3EuyIBt Les playoffs pendant la p\u00e9riode d'exams ca sonne la fin pour moi</p>
+        </post>
+        <post who="#4wi6yyzTrt" when="2017-04-07T02:51:15.000Z" xml:id="4wi6yyzTrt-2017-04-07T02:51:15.000Z">
+          <p>Ch\u00e2teau d'Eau - #orangebeach #alabama #watertower @ Orange Beach, Alabama https://t.co/wPgYe8orCS</p>
+        </post>
+        <post who="#5xIRHkLsVn" when="2017-04-07T02:12:02.000Z" xml:id="5xIRHkLsVn-2017-04-07T02:12:02.000Z">
+          <p>Cherchez l'erreur @DXZBdO6YME @Kdf11ihUUI #responsivedesign https://t.co/a9KDuzUp7r</p>
+        </post>
+        <post who="#di8PXepNvN" when="2017-04-07T02:35:28.000Z" xml:id="di8PXepNvN-2017-04-07T02:35:28.000Z">
+          <p>Les \u00e9lecteurs de droite sont pri\u00e9s de se r\u00e9veiller d'urgence. Si la violence est dans leur camp, ce n'est pas un hasard. https://t.co/00GRihiXHM</p>
+        </post>
+        <post who="#6x1TnCJuc5" when="2017-04-07T02:57:22.000Z" xml:id="6x1TnCJuc5-2017-04-07T02:57:22.000Z">
+          <p>Bonjour @8y0lJ5Rhzh , apr\u00e8s une vingtaine de relance, celle-ci sera (peut-\u00eatre??) la bonne ! Ca fait 7 mois qu'on n'a pas internet. Kiss</p>
+        </post>
+        <post who="#SV1LrbbdqM" when="2017-04-07T02:11:00.000Z" xml:id="SV1LrbbdqM-2017-04-07T02:11:00.000Z">
+          <p>elle \u00e9tait dingue cette journ\u00e9e</p>
+        </post>
+        <post who="#NGNSO2uHxi" when="2017-04-07T02:56:41.000Z" xml:id="NGNSO2uHxi-2017-04-07T02:56:41.000Z">
+          <p>1er Uber \u00e0 Nantes pas mal</p>
+        </post>
+        <post who="#zxwxQCKQFJ" when="2017-04-07T02:48:18.000Z" xml:id="zxwxQCKQFJ-2017-04-07T02:48:18.000Z">
+          <p>Maintenant on va essayer de dormir</p>
+        </post>
+        <post who="#GWbHnLrR0g" when="2017-04-07T02:16:24.000Z" xml:id="GWbHnLrR0g-2017-04-07T02:16:24.000Z">
+          <p>Je suis grosse putain.</p>
+        </post>
+        <post who="#5BPpKzGCiX" when="2017-04-07T02:20:36.000Z" xml:id="5BPpKzGCiX-2017-04-07T02:20:36.000Z">
+          <p>"Oh oh oh oh oh oh oh" il a \u00e9t\u00e9 blanchit! https://t.co/8an1V9qFOi</p>
+        </post>
+        <post who="#gmJc16dDy2" when="2017-04-07T02:24:06.000Z" xml:id="gmJc16dDy2-2017-04-07T02:24:06.000Z">
+          <p>@n8QCBk7ZAf Elle a pas Twitter....</p>
+        </post>
+        <post who="#gMtG7vNTEI" when="2017-04-07T02:03:41.000Z" xml:id="gMtG7vNTEI-2017-04-07T02:03:41.000Z">
+          <p>Mon ambiance v\u00e9g\u00e9tale pr\u00e9f\u00e9r\u00e9e est #PoireV\u00e9g\u00e9talise et vous ? https://t.co/qXVCNkILQn</p>
+        </post>
+        <post who="#phve7Z7Tph" when="2017-04-07T02:05:42.000Z" xml:id="phve7Z7Tph-2017-04-07T02:05:42.000Z">
+          <p>Demen fok ou la, la pisina ch\u00e2telain HBD to Don roromix. https://t.co/10FrNqWDQT</p>
+        </post>
+        <post who="#oUubSeimJJ" when="2017-04-07T02:38:38.000Z" xml:id="oUubSeimJJ-2017-04-07T02:38:38.000Z">
+          <p>c clair atlanta a plus les crocs https://t.co/PHQyHcbggh</p>
+        </post>
+        <post who="#HxT7TFqTLk" when="2017-04-07T02:32:00.000Z" xml:id="HxT7TFqTLk-2017-04-07T02:32:00.000Z">
+          <p>oh bah une tite guerre mondiale..il nous manquait plus que \u00e7a</p>
+        </post>
+        <post who="#WVf8gZeQqd" when="2017-04-07T02:05:27.000Z" xml:id="WVf8gZeQqd-2017-04-07T02:05:27.000Z">
+          <p>Londres 2015 https://t.co/UKPPF2LfEe via @GDNu9IyRXh</p>
+        </post>
+        <post who="#ahW2d9SPrV" when="2017-04-07T02:50:17.000Z" xml:id="ahW2d9SPrV-2017-04-07T02:50:17.000Z">
+          <p>@kcdndxwyer   A DECOUVERT LE PETROLE EN SYRIE MDR TU CHANGER VITE D'AVIS POTO #Syrie</p>
+        </post>
+        <post who="#OA1jVm2XN2" when="2017-04-07T02:58:21.000Z" xml:id="OA1jVm2XN2-2017-04-07T02:58:21.000Z">
+          <p>@NqEkDaoUSH A la pistache c'est un d\u00e9lice \ud83d\ude0d\u2764\ufe0f ! J'ai envie de manger mon gel douche. 
+Bon, j'avoue, j'ai tent\u00e9 (par erreur) et c'est pas bon par contre.</p>
+        </post>
+        <post who="#4ipwGB73Pb" when="2017-04-07T02:23:52.000Z" xml:id="4ipwGB73Pb-2017-04-07T02:23:52.000Z">
+          <p>@um9Dw70SiV @foig08O3kz On attend juste la r\u00e9action des #patriotes mes couilles... Mais on va attendre longtemps</p>
+        </post>
+        <post who="#LjU4ubMjJm" when="2017-04-07T02:15:56.000Z" xml:id="LjU4ubMjJm-2017-04-07T02:15:56.000Z">
+          <p>@hfBIAmWhG7 je te soutiens gros, dit toi qui sont rien contrairement a toi et qui s\u00f4t tr\u00e8s mal \u00e9duqu\u00e9...</p>
+        </post>
+        <post who="#PoDYP00gS7" when="2017-04-07T02:06:22.000Z" xml:id="PoDYP00gS7-2017-04-07T02:06:22.000Z">
+          <p>pk j'arrive pas \u00e0 tweeter un gif</p>
+        </post>
+        <post who="#YCUtnFlvPC" when="2017-04-07T02:34:21.000Z" xml:id="YCUtnFlvPC-2017-04-07T02:34:21.000Z">
+          <p>@zCXhquG12o Mdrrrrrrrr simb gaind\u00e9 khana.pkoi con\ud83d\ude02</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:25:10.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:25:10.000Z">
+          <p>@jBGZilEQTJ @8JANurhea2 voila j'ai rien demander je me fais full spam ed notif en mode c'est la guerre , bah dsl hein</p>
+        </post>
+        <post who="#fgL5Q9qQjQ" when="2017-04-07T02:18:48.000Z" xml:id="fgL5Q9qQjQ-2017-04-07T02:18:48.000Z">
+          <p>Mon daron mas dit il serai temps que j'me trouve une femme mdrrr</p>
+        </post>
+        <post who="#LeyIIattDi" when="2017-04-07T02:48:56.000Z" xml:id="LeyIIattDi-2017-04-07T02:48:56.000Z">
+          <p>#Trump est si instable qu'il est capable de nous d\u00e9clencher une guerre g\u00e9n\u00e9ralis\u00e9e en gardant le sourire.
+#Syrie</p>
+        </post>
+        <post who="#5baoFXh0NE" when="2017-04-07T02:00:53.000Z" xml:id="5baoFXh0NE-2017-04-07T02:00:53.000Z">
+          <p>Termin\u00e9 \u00e0 02h30 au lieu de 01h ... 04h au dodo ! \ud83d\ude34</p>
+        </post>
+        <post who="#IEhZjN7ovW" when="2017-04-07T02:16:01.000Z" xml:id="IEhZjN7ovW-2017-04-07T02:16:01.000Z">
+          <p>@8dEsLyhzyQ Je m'en contenterai</p>
+        </post>
+        <post who="#yclOjUaAgg" when="2017-04-07T02:38:50.000Z" xml:id="yclOjUaAgg-2017-04-07T02:38:50.000Z">
+          <p>La promo c un mois hein \ud83d\ude02\ud83d\ude02 https://t.co/x721F3TKQ6</p>
+        </post>
+        <post who="#KYJtPh0tFb" when="2017-04-07T02:09:24.000Z" xml:id="KYJtPh0tFb-2017-04-07T02:09:24.000Z">
+          <p>C'est juste hallucinant ! Et t'as encore des gens qui osent rattacher ce type \u00e0 la gauche \ud83d\ude43 https://t.co/7FaeL0eyQx</p>
+        </post>
+        <post who="#bzecNAIMic" when="2017-04-07T02:49:19.000Z" xml:id="bzecNAIMic-2017-04-07T02:49:19.000Z">
+          <p>\u00c7a n'es que le d\u00e9but https://t.co/5fLIdW1kFR</p>
+        </post>
+        <post who="#zxwxQCKQFJ" when="2017-04-07T02:38:41.000Z" xml:id="zxwxQCKQFJ-2017-04-07T02:38:41.000Z">
+          <p>Ceci fut une nuit mouvement\u00e9e</p>
+        </post>
+        <post who="#S0JaQBHUZo" when="2017-04-07T02:58:35.000Z" xml:id="S0JaQBHUZo-2017-04-07T02:58:35.000Z">
+          <p>@JJWf88JgEr Voil\u00e0 la r\u00e9ponse du berger \u00e0 la menteuse #HouLaMenteuse ! https://t.co/Zj5KOKFLmz</p>
+        </post>
+        <post who="#VTrm03Stxt" when="2017-04-07T02:23:54.000Z" xml:id="VTrm03Stxt-2017-04-07T02:23:54.000Z">
+          <p>@0M8esGWLtO tant mieux qu'on e n finisse</p>
+        </post>
+        <post who="#P6YgZMZWXP" when="2017-04-07T02:15:56.000Z" xml:id="P6YgZMZWXP-2017-04-07T02:15:56.000Z">
+          <p>IL FAIT BEAU
+JE VEUX SORTIR
+mais flm</p>
+        </post>
+        <post who="#ZdhP827yo5" when="2017-04-07T02:52:01.000Z" xml:id="ZdhP827yo5-2017-04-07T02:52:01.000Z">
+          <p>ct un \u00e9pisode de ma vie que j'avais oubli\u00e9... mais je ne l'oublierais jamais. Il ne s'effacera jamais</p>
+        </post>
+        <post who="#QcZVesCQJh" when="2017-04-07T02:17:14.000Z" xml:id="QcZVesCQJh-2017-04-07T02:17:14.000Z">
+          <p>C'\u00e9tait le d\u00e9luge hier \u2614\u2601 https://t.co/BhgzDnDque</p>
+        </post>
+        <post who="#Hcb4ulg4bZ" when="2017-04-07T02:42:08.000Z" xml:id="Hcb4ulg4bZ-2017-04-07T02:42:08.000Z">
+          <p>Citadelle de Blaye : apr\u00e8s les ch\u00e8vres, les brebis du Quercy et des troupeaux dans les landes contre les incendies ? https://t.co/FpiCRIGDdb</p>
+        </post>
+        <post who="#O3n5BpJQ7k" when="2017-04-07T02:05:52.000Z" xml:id="O3n5BpJQ7k-2017-04-07T02:05:52.000Z">
+          <p>On nous appelle les Rockefeller.</p>
+        </post>
+        <post who="#EcFFINu6tz" when="2017-04-07T02:53:16.000Z" xml:id="EcFFINu6tz-2017-04-07T02:53:16.000Z">
+          <p>En 2013, Obama s'est retrouv\u00e9 dans la m\u00eame situation: il avait choisi - apr\u00e8s une longue r\u00e9flexion - de ne pas intervenir avec des missiles.</p>
+        </post>
+        <post who="#eSs1NoKX3x" when="2017-04-07T02:37:41.000Z" xml:id="eSs1NoKX3x-2017-04-07T02:37:41.000Z">
+          <p>aucun respect pour un costume de cette valeur o\u00f9 va t on?</p>
+        </post>
+        <post who="#kfWHTYka7J" when="2017-04-07T02:42:19.000Z" xml:id="kfWHTYka7J-2017-04-07T02:42:19.000Z">
+          <p>Je veux dormir \ud83d\ude29</p>
+        </post>
+        <post who="#9S1VisSQEj" when="2017-04-07T02:28:44.000Z" xml:id="9S1VisSQEj-2017-04-07T02:28:44.000Z">
+          <p>Mais vu que j'ai 6 semaines de vacances mes larme elle remont\u00e9 aussit\u00f4t</p>
+        </post>
+        <post who="#DHi8Whqh9y" when="2017-04-07T02:25:20.000Z" xml:id="DHi8Whqh9y-2017-04-07T02:25:20.000Z">
+          <p>Mon ambiance v\u00e9g\u00e9tale pr\u00e9f\u00e9r\u00e9e est #PoireV\u00e9g\u00e9talise et vous ?
+https://t.co/ZSkvNdEEwV</p>
+        </post>
+        <post who="#8g9Ij0HEA8" when="2017-04-07T02:19:18.000Z" xml:id="8g9Ij0HEA8-2017-04-07T02:19:18.000Z">
+          <p>@Sm2cilrORo @hh0VvkRR68 la th\u00e9orie de la relativit\u00e9 n'a pas \u00e9t\u00e9 invalid\u00e9e</p>
+        </post>
+        <post who="#grmitwmkNi" when="2017-04-07T02:44:07.000Z" xml:id="grmitwmkNi-2017-04-07T02:44:07.000Z">
+          <p>Putain \ud83d\ude2d\ud83e\udd1a\ud83c\udffe</p>
+        </post>
+        <post who="#XOnRDIQtip" when="2017-04-07T02:04:09.000Z" xml:id="XOnRDIQtip-2017-04-07T02:04:09.000Z">
+          <p>Il aura fallu moins de trois mois \u00e0 DJT pour renier tous ses engagements isolationnistes.</p>
+        </post>
+        <post who="#enoQws0XjU" when="2017-04-07T02:24:12.000Z" xml:id="enoQws0XjU-2017-04-07T02:24:12.000Z">
+          <p>Quand on te dit dans la rue "salut miss ca va ? Eh r\u00e9pond grosse pute" c vrai c pas agresser c des mots doux pardon</p>
+        </post>
+        <post who="#BgPev56yB1" when="2017-04-07T02:11:58.000Z" xml:id="BgPev56yB1-2017-04-07T02:11:58.000Z">
+          <p>Peut etre plus t\u00f4t cette guerre malheureusement</p>
+        </post>
+        <post who="#vIm4hqA5q9" when="2017-04-07T02:47:26.000Z" xml:id="vIm4hqA5q9-2017-04-07T02:47:26.000Z">
+          <p>Meilleur album de tous les temps : https://t.co/4DfOwRfJ71</p>
+        </post>
+        <post who="#HWJssZabP6" when="2017-04-07T02:10:21.000Z" xml:id="HWJssZabP6-2017-04-07T02:10:21.000Z">
+          <p>Suis nous sur notre page Facebook en cliquant ici : 
+https://t.co/yd6CNtLQv1 #TeamNaweuse #BaNawaVe #ChezMoiAuCongo</p>
+        </post>
+        <post who="#V58ZKhi2VS" when="2017-04-07T02:00:22.000Z" xml:id="V58ZKhi2VS-2017-04-07T02:00:22.000Z">
+          <p>@nBKlYaPhtd Il est tellement magnifique. j'ai \u00e9t\u00e9 \u00e9merveill\u00e9e quand je l'avais vu il y a quelques ann\u00e9es. j'en garde un tr\u00e8s beau souvenir ^^</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:20:42.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:20:42.000Z">
+          <p>@8JANurhea2 @jBGZilEQTJ et ?? t'\u00e9tait pas tag \u00e0 la base , alors pourquoi t'as pop dans la conv , oh wait tu stalk sans like pour pas etre grille WP WP t tro for</p>
+        </post>
+        <post who="#k1FntjxTFP" when="2017-04-07T02:32:55.000Z" xml:id="k1FntjxTFP-2017-04-07T02:32:55.000Z">
+          <p>Ras Bath : LE COMPORTEMENT DE ETIENNE FAKABA SISSOKO ET LES MOBILES DES AUTEURS DE LA PUBLICATION 
+
+https://t.co/EowrMXFutw</p>
+        </post>
+        <post who="#MWK7weFsKK" when="2017-04-07T02:53:55.000Z" xml:id="MWK7weFsKK-2017-04-07T02:53:55.000Z">
+          <p>ah broccoli........natures trees</p>
+        </post>
+        <post who="#fbhtRTAIwD" when="2017-04-07T02:03:50.000Z" xml:id="fbhtRTAIwD-2017-04-07T02:03:50.000Z">
+          <p>Quand tu commences #DarkSouls3
+https://t.co/MnagESb28v</p>
+        </post>
+        <post who="#mlbPy0DkRj" when="2017-04-07T02:58:12.000Z" xml:id="mlbPy0DkRj-2017-04-07T02:58:12.000Z">
+          <p>@Qqkg5uHqyT C'est hard notre life de travailleuse hihi \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18</p>
+        </post>
+        <post who="#GsMeYipKOe" when="2017-04-07T02:13:55.000Z" xml:id="GsMeYipKOe-2017-04-07T02:13:55.000Z">
+          <p>Ce qui change en avril\u00a02017 https://t.co/zkFgxVhw9n</p>
+        </post>
+        <post who="#nadRxLqWgZ" when="2017-04-07T02:01:32.000Z" xml:id="nadRxLqWgZ-2017-04-07T02:01:32.000Z">
+          <p>J'en peux plus des acouph\u00e8nes. J'ai hate de voir le medecin. J'ai tellement peur aussi</p>
+        </post>
+        <post who="#yPjkdU69yA" when="2017-04-07T02:03:56.000Z" xml:id="yPjkdU69yA-2017-04-07T02:03:56.000Z">
+          <p>@9GRPIMFhPM Tu m'expliques comment tu defends un golem ou pekka ? ^^</p>
+        </post>
+        <post who="#nadRxLqWgZ" when="2017-04-07T02:05:32.000Z" xml:id="nadRxLqWgZ-2017-04-07T02:05:32.000Z">
+          <p>J'ai hate qu'on en finisse avec les presidentielles.</p>
+        </post>
+        <post who="#rqSqPOeZMW" when="2017-04-07T02:12:49.000Z" xml:id="rqSqPOeZMW-2017-04-07T02:12:49.000Z">
+          <p>Il faut vraiment que je regarde le film 127heures ! #127heures #film \ud83d\ude2e\ud83d\ude30</p>
+        </post>
+        <post who="#HBAlZAJqPV" when="2017-04-07T02:30:20.000Z" xml:id="HBAlZAJqPV-2017-04-07T02:30:20.000Z">
+          <p>#Vintage Max #Meder #Designer Paris France #Wood Table Fruit #Bowl Signed #Artist https://t.co/0KVkCqPFie @aYmU4q9Vvo</p>
+        </post>
+        <post who="#IEhZjN7ovW" when="2017-04-07T02:13:05.000Z" xml:id="IEhZjN7ovW-2017-04-07T02:13:05.000Z">
+          <p>@8dEsLyhzyQ Paix et amour \u2764</p>
+        </post>
+        <post who="#R7CLNfy2YI" when="2017-04-07T02:29:58.000Z" xml:id="R7CLNfy2YI-2017-04-07T02:29:58.000Z">
+          <p>@3p05zfItLg @O8Ibee0AXF @yA13f7sDWy toi t'as rien compris au tweet xD</p>
+        </post>
+        <post who="#U74RQfZMpc" when="2017-04-07T02:21:02.000Z" xml:id="U74RQfZMpc-2017-04-07T02:21:02.000Z">
+          <p>@nV0fiZSRxU @1kWQXFrr6E enfin plut\u00f4t que 2pi = 4pi = 1 ? :o</p>
+        </post>
+        <post who="#15VEOMc9mK" when="2017-04-07T02:39:29.000Z" xml:id="15VEOMc9mK-2017-04-07T02:39:29.000Z">
+          <p>Lecture en cours: un superbe polar \ud83d\udd2bde @QuRiI1Cb6V #justeunregard #VendrediLecture @DVCDasVfSV #pal_avril  #lectures2017 https://t.co/FcVmeQWhVd</p>
+        </post>
+        <post who="#6GqeUktHvL" when="2017-04-07T02:12:07.000Z" xml:id="6GqeUktHvL-2017-04-07T02:12:07.000Z">
+          <p>\ud83c\udfc1\ud83d\udea6 Gp de Chine ce matin, pour les plus courageux, vous pouvez nous suivre sur notre live : https://t.co/R01XyjFS86.\u2026 #ChineseGP #F1</p>
+        </post>
+        <post who="#CAQ4LOapbP" when="2017-04-07T02:28:38.000Z" xml:id="CAQ4LOapbP-2017-04-07T02:28:38.000Z">
+          <p>@Fwt3owr7IO Mensonge ! Calomnie ! J'ai juste des horaires un peu d\u00e9cal\u00e9s \ud83d\ude00</p>
+        </post>
+        <post who="#ujW0cKhh3w" when="2017-04-07T02:17:18.000Z" xml:id="ujW0cKhh3w-2017-04-07T02:17:18.000Z">
+          <p>@Nj4rGvw37t tr\u00e8s mauvais voyage je m'en souviendrais, encore un jour \ud83d\ude07</p>
+        </post>
+        <post who="#ZdhP827yo5" when="2017-04-07T02:50:14.000Z" xml:id="ZdhP827yo5-2017-04-07T02:50:14.000Z">
+          <p>par contre, on \u00e9tait pas encore trop sur les r\u00e9seaux sociaux \u00e0 ce moment-l\u00e0 donc j'ai pas eu \u00e0 subir du cyber harc\u00e8lement</p>
+        </post>
+        <post who="#Tqj69MRRDp" when="2017-04-07T02:34:23.000Z" xml:id="Tqj69MRRDp-2017-04-07T02:34:23.000Z">
+          <p>@nDnKZ0uNF3 Ah Ouais t'es ou sur la plan\u00e8te ? \ud83d\ude04</p>
+        </post>
+        <post who="#QdTyyiy4qS" when="2017-04-07T02:57:04.000Z" xml:id="QdTyyiy4qS-2017-04-07T02:57:04.000Z">
+          <p>@VCLvuTY8wN ns sommes des Serpents et on existe juste pour les emb\u00eater</p>
+        </post>
+        <post who="#PU0HfnAwgr" when="2017-04-07T02:06:17.000Z" xml:id="PU0HfnAwgr-2017-04-07T02:06:17.000Z">
+          <p>C est la guerre dans les ronds points des Champs Elys\u00e9es \ud83d\ude02\ud83d\ude0e</p>
+        </post>
+        <post who="#WX87LN7vNo" when="2017-04-07T02:16:57.000Z" xml:id="WX87LN7vNo-2017-04-07T02:16:57.000Z">
+          <p>#Clinton doit applaudir. #Syrie #Trump #Syriehoax https://t.co/9oVGMmA4uX</p>
+        </post>
+        <post who="#HvcI0P8jRj" when="2017-04-07T02:09:48.000Z" xml:id="HvcI0P8jRj-2017-04-07T02:09:48.000Z">
+          <p>@tyDgmbUFCr C'est pas la peine de se f\u00e2cher pour \u00e7a hein. Bref, passe une bonne journ\u00e9e bisous.</p>
+        </post>
+        <post who="#vAGxklwCbC" when="2017-04-07T02:21:32.000Z" xml:id="vAGxklwCbC-2017-04-07T02:21:32.000Z">
+          <p>@DRCgMA8JCR Et en plus tu as les num\u00e9ros du loto chinois</p>
+        </post>
+        <post who="#PbcumgcuEH" when="2017-04-07T02:25:08.000Z" xml:id="PbcumgcuEH-2017-04-07T02:25:08.000Z">
+          <p>Enfin des nouvelles du mac pro : https://t.co/TUan0gJgHK</p>
+        </post>
+        <post who="#C1sXvhe6gM" when="2017-04-07T02:56:42.000Z" xml:id="C1sXvhe6gM-2017-04-07T02:56:42.000Z">
+          <p>@2DXizLmTL2 Je viens de voir \u00e7a \u00e0 l'instant aussi... \u00c7a commence \u00e0 vraiment sentir mauvais, j'esp\u00e8re me "trumper".</p>
+        </post>
+        <post who="#uNnTsmifBE" when="2017-04-07T02:36:51.000Z" xml:id="uNnTsmifBE-2017-04-07T02:36:51.000Z">
+          <p>#E1Bonjour \ud83c\udf2110\u00b0/19\u00b0 \u00e0 Grasse bon  Vendredi les ami(e)s @ga9yH8zkXs @HskL260Q4v partageons ce d\u00e9but de journ\u00e9e avec bonheur</p>
+        </post>
+        <post who="#cwJR57oU2P" when="2017-04-07T02:06:43.000Z" xml:id="cwJR57oU2P-2017-04-07T02:06:43.000Z">
+          <p>regardez bien mon prochain rt https://t.co/vn19wPYOdy</p>
+        </post>
+        <post who="#gxzoqFgTU1" when="2017-04-07T02:42:00.000Z" xml:id="gxzoqFgTU1-2017-04-07T02:42:00.000Z">
+          <p>Une nuit sur fakkudating voici mon r\u00e9sum\u00e9 : gros d\u00e9lire avec un gars sur Jojo bizarre adventure, autre d\u00e9lire sur Initial D bref j'ai rigol\u00e9</p>
+        </post>
+        <post who="#VqIosqjPCL" when="2017-04-07T02:19:12.000Z" xml:id="VqIosqjPCL-2017-04-07T02:19:12.000Z">
+          <p>Le meilleur animal qui met en principe la r\u00e9appropriation de biens vitaux https://t.co/LPEr7mh6hu</p>
+        </post>
+        <post who="#iwpO3d0YId" when="2017-04-07T02:19:04.000Z" xml:id="iwpO3d0YId-2017-04-07T02:19:04.000Z">
+          <p>@9qPpbWSIgf @GdRkE0DQcV @W6Px2bWk8L Mdr nan c'est peine perdu \u00e7a, tourne la page ! \u270c\ud83c\udffc</p>
+        </post>
+        <post who="#2KYjwiSiuq" when="2017-04-07T02:05:01.000Z" xml:id="2KYjwiSiuq-2017-04-07T02:05:01.000Z">
+          <p>@FKycesQnFT \ud83d\ude02\ud83d\ude02\ud83d\ude02 Tu grandis vite petite s\u0153ur</p>
+        </post>
+        <post who="#myB4PPuTEH" when="2017-04-07T02:56:27.000Z" xml:id="myB4PPuTEH-2017-04-07T02:56:27.000Z">
+          <p>@NqYb0ykCkh Les r\u00e9actions au tweet font plus peur que la phrase.</p>
+        </post>
+        <post who="#cMdqqWyuNP" when="2017-04-07T02:49:50.000Z" xml:id="cMdqqWyuNP-2017-04-07T02:49:50.000Z">
+          <p>@oAPp1sZ4Of J'avoue que sur le coup j'\u00e9tais choquer car j'ai remarqu\u00e9 sue j'en sais + sur des rapports gars/gars que fille/gars</p>
+        </post>
+        <post who="#9E62PQFAL7" when="2017-04-07T02:32:52.000Z" xml:id="9E62PQFAL7-2017-04-07T02:32:52.000Z">
+          <p>" La cr\u00e9ativit\u00e9 , c'est l'intelligence qui s'amuse "
+__ Albert Einstein 
+@9E62PQFAL7 https://t.co/XUTAcwQ1T5</p>
+        </post>
+        <post who="#h4uhNrmoL7" when="2017-04-07T02:00:01.000Z" xml:id="h4uhNrmoL7-2017-04-07T02:00:01.000Z">
+          <p>@Hz5UXC7Xs6 Non 40, car 50 de la pr\u00e9commande, 5 avec les bdf et cadeau, 3 offert pour la nouvelle ann\u00e9e, 2400 gold = 122 paquets</p>
+        </post>
+        <post who="#YOG2bPyWKt" when="2017-04-07T02:10:17.000Z" xml:id="YOG2bPyWKt-2017-04-07T02:10:17.000Z">
+          <p>VHugo : La libert\u00e9 de la presse \u00e0 c\u00f4t\u00e9 du suffrage univ, c'est la pens\u00e9e de tous \u00e9clairant le gvt de tous. Attenter \u00e0 l'une c'est attenter \u00e0 https://t.co/uz57aWKoNQ</p>
+        </post>
+        <post who="#y8FYUkbV8i" when="2017-04-07T02:07:25.000Z" xml:id="y8FYUkbV8i-2017-04-07T02:07:25.000Z">
+          <p>@ixwzqtU6lc Tu mdesespere la hein mdrrrr</p>
+        </post>
+        <post who="#kOKcw4RWEj" when="2017-04-07T02:56:02.000Z" xml:id="kOKcw4RWEj-2017-04-07T02:56:02.000Z">
+          <p>Jamais faire confiance \u00e0 tes potes qui se disent "coiffeur" et tu te retrouve la boule \u00e0 z\u00e9ro sa m\u00e8re</p>
+        </post>
+        <post who="#OEKLvP37FH" when="2017-04-07T02:40:32.000Z" xml:id="OEKLvP37FH-2017-04-07T02:40:32.000Z">
+          <p>Comparatif\u00a0: quel outil de #marketingautomation choisir\u00a0? - https://t.co/0wxzqt8sox</p>
+        </post>
+        <post who="#NvfbAFDkBc" when="2017-04-07T02:51:00.000Z" xml:id="NvfbAFDkBc-2017-04-07T02:51:00.000Z">
+          <p>Les Etats-Unis ont lanc\u00e9 une frappe avec 59 missiles Tomahawk contre une base a\u00e9rienne en Syrie. #Russie #Trump #Syria https://t.co/CHxlTT2jxH</p>
+        </post>
+        <post who="#u3ymQFNVDb" when="2017-04-07T02:23:53.000Z" xml:id="u3ymQFNVDb-2017-04-07T02:23:53.000Z">
+          <p>@c6TS6QIUpA @4JHxbxBP23 @r5eUqadqtM va l'acheter vite</p>
+        </post>
+        <post who="#BOivuZKa9i" when="2017-04-07T02:45:40.000Z" xml:id="BOivuZKa9i-2017-04-07T02:45:40.000Z">
+          <p>@0E0rOQ6pXX Tu y vas quand exactement ?</p>
+        </post>
+        <post who="#LDwjdEGOMK" when="2017-04-07T02:16:34.000Z" xml:id="LDwjdEGOMK-2017-04-07T02:16:34.000Z">
+          <p>@97L7fe85qw Fernando et le engine pawoeur  ! \ud83e\udd23</p>
+        </post>
+        <post who="#I2sBwkoiKP" when="2017-04-07T02:28:31.000Z" xml:id="I2sBwkoiKP-2017-04-07T02:28:31.000Z">
+          <p>de longues nuits \u00e0 m\u00e9diter,\u00e0 marcher,\u00e0 fuir la haine et l'odeur de tabac froid,\u00e0 fuir ma culpabilit\u00e9 et mes frustrations</p>
+        </post>
+        <post who="#hAFx3P3Yo5" when="2017-04-07T02:04:21.000Z" xml:id="hAFx3P3Yo5-2017-04-07T02:04:21.000Z">
+          <p>Pour la pr\u00e9servation de notre #industrie, il est grand temps que @XH5CmzzV5b s'en aille ! https://t.co/UNX9Sv0NtR</p>
+        </post>
+        <post who="#tm9rRv1HK1" when="2017-04-07T02:45:33.000Z" xml:id="tm9rRv1HK1-2017-04-07T02:45:33.000Z">
+          <p>@7QgLfyx6SB Mouais..... Pour que Pepita ai retweet ton autre tweet..... c:</p>
+        </post>
+        <post who="#CWSg3OhEhM" when="2017-04-07T02:24:44.000Z" xml:id="CWSg3OhEhM-2017-04-07T02:24:44.000Z">
+          <p>D'ors et n'avant je taff pour accomplir mon r\u00eave j'ai crue en mon \u00e9toile m\u00eame si la lueur \u00e9tait br\u00e8ve !</p>
+        </post>
+        <post who="#TNQLtOcpr5" when="2017-04-07T02:03:14.000Z" xml:id="TNQLtOcpr5-2017-04-07T02:03:14.000Z">
+          <p>Suivez mon voyage : https://t.co/PpnJNcsHKf \ud83c\uddee\ud83c\uddea</p>
+        </post>
+        <post who="#V6Navfj6j7" when="2017-04-07T02:47:14.000Z" xml:id="V6Navfj6j7-2017-04-07T02:47:14.000Z">
+          <p>@S57CcoeJnD \u00e7a marche bien.</p>
+        </post>
+        <post who="#i6DEZGZL29" when="2017-04-07T02:14:55.000Z" xml:id="i6DEZGZL29-2017-04-07T02:14:55.000Z">
+          <p>Vivement mardi pour la reprise \u00e0 la caisse et l'accueil \ud83e\udd17</p>
+        </post>
+        <post who="#YOG2bPyWKt" when="2017-04-07T02:18:21.000Z" xml:id="YOG2bPyWKt-2017-04-07T02:18:21.000Z">
+          <p>la presse : qui poss\u00e8de quoi ? Elle  nous pousse \u00e0 voter EM (avater de FH) afin d'\u00e9viter Fi!!on #oligarchie #libertedelapresse #nda2017 https://t.co/eAPXxaGuto</p>
+        </post>
+        <post who="#eFogcePJAv" when="2017-04-07T02:50:54.000Z" xml:id="eFogcePJAv-2017-04-07T02:50:54.000Z">
+          <p>J'aurais d\u00fb y \u00eatre. https://t.co/fMpQKiKbaC</p>
+        </post>
+        <post who="#PSWoajyNDW" when="2017-04-07T02:04:38.000Z" xml:id="PSWoajyNDW-2017-04-07T02:04:38.000Z">
+          <p>Des albums \u00e0 1\u20ac !
+https://t.co/hmngzmPnWe https://t.co/xisqH9kfxX</p>
+        </post>
+        <post who="#YVXBFxxiD2" when="2017-04-07T02:01:22.000Z" xml:id="YVXBFxxiD2-2017-04-07T02:01:22.000Z">
+          <p>@TWdewS3yP7 Et donc ?</p>
+        </post>
+        <post who="#0Nrdajth3s" when="2017-04-07T02:11:42.000Z" xml:id="0Nrdajth3s-2017-04-07T02:11:42.000Z">
+          <p>J'ai vraiment confondu la patience et la perte de temps.</p>
+        </post>
+        <post who="#6w0PhMBf9W" when="2017-04-07T02:39:54.000Z" xml:id="6w0PhMBf9W-2017-04-07T02:39:54.000Z">
+          <p>J'aurais du faire sa avec mon chien https://t.co/O5luQrM0oo</p>
+        </post>
+        <post who="#fe1fY8se7C" when="2017-04-07T02:34:15.000Z" xml:id="fe1fY8se7C-2017-04-07T02:34:15.000Z">
+          <p>@DFFNk0ohGb Mais de rien c'est un avis que je partage :)</p>
+        </post>
+        <post who="#8JZfoi6LXe" when="2017-04-07T02:30:27.000Z" xml:id="8JZfoi6LXe-2017-04-07T02:30:27.000Z">
+          <p>Riverdale c'est une vraie s\u00e9rie</p>
+        </post>
+        <post who="#tm9rRv1HK1" when="2017-04-07T02:39:53.000Z" xml:id="tm9rRv1HK1-2017-04-07T02:39:53.000Z">
+          <p>@7QgLfyx6SB Toi t'es mort en run c'est ca ? xD</p>
+        </post>
+        <post who="#At5ji7K3gv" when="2017-04-07T02:15:08.000Z" xml:id="At5ji7K3gv-2017-04-07T02:15:08.000Z">
+          <p>@tOYAWp9LPG j etais pas pret</p>
+        </post>
+        <post who="#vAGxklwCbC" when="2017-04-07T02:19:43.000Z" xml:id="vAGxklwCbC-2017-04-07T02:19:43.000Z">
+          <p>#Fran\u00e7oisFillon et #MarineLePen
+Des amis de #Poutine
+Le complice du #Gazeur #syrien au #Sarin
+@zcBICCOcoZ @yA13f7sDWy</p>
+        </post>
+        <post who="#WX87LN7vNo" when="2017-04-07T02:48:36.000Z" xml:id="WX87LN7vNo-2017-04-07T02:48:36.000Z">
+          <p>@OqkgaAsG8y Je dirais les 2 ^^</p>
+        </post>
+        <post who="#VUPxNr65gM" when="2017-04-07T02:47:04.000Z" xml:id="VUPxNr65gM-2017-04-07T02:47:04.000Z">
+          <p>Comment d\u00e9velopper votre #PersonalBranding ?  https://t.co/YwuchUbbxp</p>
+        </post>
+        <post who="#fz6s7gQMzY" when="2017-04-07T02:39:50.000Z" xml:id="fz6s7gQMzY-2017-04-07T02:39:50.000Z">
+          <p>Fillon poursuivra ceux qui l\u2019ont harcel\u00e9\u00a0: \u201cJ'ai les dates, les jours, les personnes\u201d https://t.co/B7FiBi0qNV via @iDvjgiOuBX</p>
+        </post>
+        <post who="#EcFFINu6tz" when="2017-04-07T02:37:42.000Z" xml:id="EcFFINu6tz-2017-04-07T02:37:42.000Z">
+          <p>L'ancien candidat pr\u00e9sidentiel John McCain satisfait de l'intervention am\u00e9ricaine en Syrie. https://t.co/i9lAB3TGDi</p>
+        </post>
+        <post who="#eI9o6aEqHJ" when="2017-04-07T02:19:15.000Z" xml:id="eI9o6aEqHJ-2017-04-07T02:19:15.000Z">
+          <p>d'ailleurs \u00e0 chaque fois ils sont chaud sur lui il a un taux de m\u00e9lanine sup\u00e9rieur au seuil tol\u00e9r\u00e9</p>
+        </post>
+        <post who="#H0ecuCmlOd" when="2017-04-07T02:04:49.000Z" xml:id="H0ecuCmlOd-2017-04-07T02:04:49.000Z">
+          <p>R\u00e9veil couple \ud83d\udd1d\ud83d\udc8f\u2764</p>
+        </post>
+        <post who="#cwJR57oU2P" when="2017-04-07T02:10:22.000Z" xml:id="cwJR57oU2P-2017-04-07T02:10:22.000Z">
+          <p>@PVdMbjRE9q j'ai mes sources ;)</p>
+        </post>
+        <post who="#3GGZCrTDOC" when="2017-04-07T02:45:49.000Z" xml:id="3GGZCrTDOC-2017-04-07T02:45:49.000Z">
+          <p>Bizarrerie\ud83d\ude29\ud83d\ude02 https://t.co/7dKuiZT4SF</p>
+        </post>
+        <post who="#O1lxjwOZXv" when="2017-04-07T02:19:30.000Z" xml:id="O1lxjwOZXv-2017-04-07T02:19:30.000Z">
+          <p>@VormXYSwWD M\u00eame pas tu captes</p>
+        </post>
+        <post who="#30Ofad204a" when="2017-04-07T02:09:34.000Z" xml:id="30Ofad204a-2017-04-07T02:09:34.000Z">
+          <p>Ah! Les fameuses "Nations civilis\u00e9es"! https://t.co/QJWjfSEP1D</p>
+        </post>
+        <post who="#w1wSbiJb05" when="2017-04-07T02:24:13.000Z" xml:id="w1wSbiJb05-2017-04-07T02:24:13.000Z">
+          <p>@lI1n8gyRjU @RXx9LUAJ50 C'est quel sujet par curiosit\u00e9 ?</p>
+        </post>
+        <post who="#VYEwyT5AMk" when="2017-04-07T02:18:31.000Z" xml:id="VYEwyT5AMk-2017-04-07T02:18:31.000Z">
+          <p>4h17 il fait 2\u00b0, fin du mois je peux ressortir le snow \ud83c\udfc2</p>
+        </post>
+        <post who="#J51x7zXba4" when="2017-04-07T02:51:13.000Z" xml:id="J51x7zXba4-2017-04-07T02:51:13.000Z">
+          <p>Le miens plutard il va tellement devenir fou avec moi qu'il finir comme \u00e7a \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/41eL2gFThq</p>
+        </post>
+        <post who="#P6YgZMZWXP" when="2017-04-07T02:52:06.000Z" xml:id="P6YgZMZWXP-2017-04-07T02:52:06.000Z">
+          <p>A 15 ans, \u00e7a se met des Stabylo dans la teuch en cours.
+A 21 ans, j'ose \u00e0 peine me gratter les couilles en cours.
+Chacun son rythme.</p>
+        </post>
+        <post who="#hONcou4S1C" when="2017-04-07T02:23:44.000Z" xml:id="hONcou4S1C-2017-04-07T02:23:44.000Z">
+          <p>@UeKgM2AxaG Pour 50 missiles ? Pour la Syrie ? Je n\u2019aime pas Poutine, mais il r\u00e9agit avant tout dans l\u2019int\u00e9r\u00eat de son pays. Aucun int\u00e9r\u00eat \u00e0 la guerre.</p>
+        </post>
+        <post who="#zxwxQCKQFJ" when="2017-04-07T02:56:59.000Z" xml:id="zxwxQCKQFJ-2017-04-07T02:56:59.000Z">
+          <p>Putain il est quand m\u00eame 5h</p>
+        </post>
+        <post who="#MQfbrqGlsw" when="2017-04-07T02:14:12.000Z" xml:id="MQfbrqGlsw-2017-04-07T02:14:12.000Z">
+          <p>@jBGZilEQTJ nan mais c'est vrai que c'est le jour pour me casser les couilles, par ce qu j'ai like 3 tweet de kpop.
+Vraiment cool,bon yen a qui bosse q+</p>
+        </post>
+        <post who="#BLaLsmijB4" when="2017-04-07T02:00:09.000Z" xml:id="BLaLsmijB4-2017-04-07T02:00:09.000Z">
+          <p>@nVUTAWU98A Mdrrrrr un jour on ce donnera rdv a un feux rouge jveu voir \u00e7a ptdrrrrrrr</p>
+        </post>
+        <post who="#86UqkWGAVy" when="2017-04-07T02:03:02.000Z" xml:id="86UqkWGAVy-2017-04-07T02:03:02.000Z">
+          <p>@0HPjcBJdvT dsl je r\u00e9pond entre 3 trucs, google juste "NTT docomo 050+ sim", facile \u00e0 trouver. (Oui j'ai m\u00e9lang\u00e9 NTT et Docomo :x)</p>
+        </post>
+        <post who="#gEEFYyzn1M" when="2017-04-07T02:03:02.000Z" xml:id="gEEFYyzn1M-2017-04-07T02:03:02.000Z">
+          <p>Le coup du doux Poutou https://t.co/rACQdfq57Y via @d2iXZYRLWl</p>
+        </post>
+        <post who="#ZdhP827yo5" when="2017-04-07T02:48:35.000Z" xml:id="ZdhP827yo5-2017-04-07T02:48:35.000Z">
+          <p>mon prof d'anglais, qui \u00e9tait aussi mon prof principal, a voulu me parler et il m'a fait comprendre qu'ils avaient pas \u00e0 me traiter comme -</p>
+        </post>
+        <post who="#GsV5kXxwQE" when="2017-04-07T02:41:12.000Z" xml:id="GsV5kXxwQE-2017-04-07T02:41:12.000Z">
+          <p>https://t.co/AluXcozFf1 remettre un peu de s\u00e9rieux dans l'iTunes de mon portable:-) https://t.co/AluXcozFf1</p>
+        </post>
+        <post who="#p41mO4YJp3" when="2017-04-07T02:35:13.000Z" xml:id="p41mO4YJp3-2017-04-07T02:35:13.000Z">
+          <p>Dans 2h30 vacances \ud83d\udc4c\ud83c\udffb</p>
+        </post>
+        <post who="#N2sDq3F2CR" when="2017-04-07T02:03:11.000Z" xml:id="N2sDq3F2CR-2017-04-07T02:03:11.000Z">
+          <p>@SV4jZQ9t6V @JFPwGwoBVm Tune! \ud83d\udc4c</p>
+        </post>
+        <post who="#DvaGi1fpZD" when="2017-04-07T02:07:57.000Z" xml:id="DvaGi1fpZD-2017-04-07T02:07:57.000Z">
+          <p>@hHj44g9yWE D\u00e9j\u00e0 j'ai trouv\u00e9 de la Delirium Tremens, je suis assez content. Faut que je teste la locale, mais y a tellement de choix que je suis perdu</p>
+        </post>
+        <post who="#MWZchmiImC" when="2017-04-07T02:29:50.000Z" xml:id="MWZchmiImC-2017-04-07T02:29:50.000Z">
+          <p>Venez d\u00e9couvrir les casques F1 2017 sur la page Facebook de Photobro #helmet #motorsport #f1test\u2026 https://t.co/DQGWCV4ain</p>
+        </post>
+        <post who="#iScijRvyuO" when="2017-04-07T02:51:40.000Z" xml:id="iScijRvyuO-2017-04-07T02:51:40.000Z">
+          <p>J'\u00e9coute L Amour En Oceanie de Gerard Manset sur fip https://t.co/wCoro9LuKr via @cyTRnVhxa2</p>
+        </post>
+        <post who="#4zSYvJiJfh" when="2017-04-07T02:02:50.000Z" xml:id="4zSYvJiJfh-2017-04-07T02:02:50.000Z">
+          <p>@TudD5cgxoI Oui, du coup elle risque de finir en pyj' au poste..\ud83d\ude02</p>
+        </post>
+        <post who="#NWR8zIfrHU" when="2017-04-07T02:50:33.000Z" xml:id="NWR8zIfrHU-2017-04-07T02:50:33.000Z">
+          <p>Real Madrid: \u00e0 bout, James Rodriguez sort en l\u00e2chant des insultes https://t.co/mx3tid2td9</p>
+        </post>
+        <post who="#4ipwGB73Pb" when="2017-04-07T02:17:24.000Z" xml:id="4ipwGB73Pb-2017-04-07T02:17:24.000Z">
+          <p>@kEhpFyMmWU fermer les fronti\u00e8res ne r\u00e9tablira pas un meilleur partage des richesses. Ds mon foyer 2cdi bac+5 2 enfants, j'arrive m pas \u00e0 partir en vac</p>
+        </post>
+        <post who="#nJrMQoqzv4" when="2017-04-07T02:33:16.000Z" xml:id="nJrMQoqzv4-2017-04-07T02:33:16.000Z">
+          <p>Bonjouuuuur :)</p>
+        </post>
+        <post who="#gCFYWY2mw3" when="2017-04-07T02:02:43.000Z" xml:id="gCFYWY2mw3-2017-04-07T02:02:43.000Z">
+          <p>C'est quand m\u00eame ouf tu passe ta vie \u00e0 pr\u00e9senter t'es amis \u00e0 d'autre amis et de fil en aiguille tu perd tout t'es amis c'est rigolo</p>
+        </post>
+        <post who="#GsV5kXxwQE" when="2017-04-07T02:32:40.000Z" xml:id="GsV5kXxwQE-2017-04-07T02:32:40.000Z">
+          <p>"Bref, au kiosque \u00e0 journaux des nuages du Paradis, on pourra toujours se dire que faute de mieux, aura v\u00e9cu des badass moments!"</p>
+        </post>
+        <post who="#xDMDe9Kqvu" when="2017-04-07T02:43:23.000Z" xml:id="xDMDe9Kqvu-2017-04-07T02:43:23.000Z">
+          <p>Oui ils commencent fort ! \ud83d\ude4c\ud83c\udffc https://t.co/vpk5hAgvxW</p>
+        </post>
+        <post who="#3RiEEOTQzQ" when="2017-04-07T02:49:27.000Z" xml:id="3RiEEOTQzQ-2017-04-07T02:49:27.000Z">
+          <p>@D1YFSRp3GM Regarde qui a daign\u00e9 montrer le bout de son museau aujourd'hui ^^ https://t.co/i1RE15iW6m</p>
+        </post>
+        <post who="#zlVvjvQyQ2" when="2017-04-07T02:02:11.000Z" xml:id="zlVvjvQyQ2-2017-04-07T02:02:11.000Z">
+          <p>En t\u00eate avec l'insomnie... \ud83d\ude20\ud83d\ude20\ud83d\ude20\ud83d\ude20</p>
+        </post>
+        <post who="#Xgtr3gQygE" when="2017-04-07T02:08:07.000Z" xml:id="Xgtr3gQygE-2017-04-07T02:08:07.000Z">
+          <p>Je soutiens le projet de parc du jeu vid\u00e9o https://t.co/G7HdXLmuKJ #pjv2020</p>
+        </post>
+        <post who="#7YHH9fZaPK" when="2017-04-07T02:34:18.000Z" xml:id="7YHH9fZaPK-2017-04-07T02:34:18.000Z">
+          <p>Pas mal \ud83d\udc4d\ud83c\udffe</p>
+        </post>
+        <post who="#I7ceE716wE" when="2017-04-07T02:01:13.000Z" xml:id="I7ceE716wE-2017-04-07T02:01:13.000Z">
+          <p>Tristesse !
+Je n'oublie pas que c'est nous qu'ils d\u00e9fendent ces soldats. https://t.co/DrGhyACFM7</p>
+        </post>
+        <post who="#9S1VisSQEj" when="2017-04-07T02:28:11.000Z" xml:id="9S1VisSQEj-2017-04-07T02:28:11.000Z">
+          <p>Je viens de pensez mon edp , j'pleur</p>
+        </post>
+        <post who="#LZRUsbadz3" when="2017-04-07T02:37:51.000Z" xml:id="LZRUsbadz3-2017-04-07T02:37:51.000Z">
+          <p>@1Sif4XDDGg Bref. J'ai quelques iPhones 7 ici. Just hit me up. \ud83d\udc81\ud83c\udffc\u200d\u2642\ufe0f</p>
+        </post>
+        <post who="#uNnTsmifBE" when="2017-04-07T02:45:56.000Z" xml:id="uNnTsmifBE-2017-04-07T02:45:56.000Z">
+          <p>@tHtuHxY0hE @ga9yH8zkXs houl\u00e0 c'est chaud!  \ud83d\ude0aBon Vendredi Adeline</p>
+        </post>
+        <post who="#8QJF4dvGmv" when="2017-04-07T02:10:19.000Z" xml:id="8QJF4dvGmv-2017-04-07T02:10:19.000Z">
+          <p>@NsbBMUr1Og Hmmm Kombo ya moko na bango kaka po yo oyobi. L'info de la libre belgique ha ha on conna\u00eet sa valeur: tendancieuse.Le cerveau KN est \u00e0 Bxls\ud83d\ude48</p>
+        </post>
+        <post who="#hlhDqJCXz7" when="2017-04-07T02:23:27.000Z" xml:id="hlhDqJCXz7-2017-04-07T02:23:27.000Z">
+          <p>@c1q0EYXHGf Ton regard! Le plus beau \ud83d\ude0d</p>
+        </post>
+        <post who="#Cnp0X4KXvl" when="2017-04-07T02:22:53.000Z" xml:id="Cnp0X4KXvl-2017-04-07T02:22:53.000Z">
+          <p>#valdoise / #Ceevo95 : Rencontre et \u00e9changes avec Michel Piazza, Directeur territorial 78 - 91 - 95 de #GRDF pour des projets en Val-d'Oise https://t.co/gt9GdssAy6</p>
+        </post>
+        <post who="#KN9GCoJLHI" when="2017-04-07T02:15:49.000Z" xml:id="KN9GCoJLHI-2017-04-07T02:15:49.000Z">
+          <p>Pens\u00e9 que era parte del Scandal episode. Oh God U.S militar strike on Syria https://t.co/Rx6QLYeBOT</p>
+        </post>
+        <post who="#kzRFUfCBgn" when="2017-04-07T02:16:07.000Z" xml:id="kzRFUfCBgn-2017-04-07T02:16:07.000Z">
+          <p>La joie d\u2019avoir jou\u00e9 mon premier match avec le Paris Saint-Germain ! https://t.co/9pD4FlTuiR</p>
+        </post>
+        <post who="#Uph3iS9h1R" when="2017-04-07T02:02:19.000Z" xml:id="Uph3iS9h1R-2017-04-07T02:02:19.000Z">
+          <p>Le partiel d'assurance demain ? Finger in the nose</p>
+        </post>
+        <post who="#vCoPtNHsYC" when="2017-04-07T02:55:38.000Z" xml:id="vCoPtNHsYC-2017-04-07T02:55:38.000Z">
+          <p>@BnAGIesucw Il frappe sans attendre les r\u00e9sultats de l\u2019enqu\u00eate qui prouvera que ce sont les rebelles qui avaient les armes chimique la pression de UE</p>
+        </post>
+        <post who="#uNnTsmifBE" when="2017-04-07T02:48:40.000Z" xml:id="uNnTsmifBE-2017-04-07T02:48:40.000Z">
+          <p>@7GpYMQVNZV belle fin de semaine Marie-France\ud83d\ude09</p>
+        </post>
+        <post who="#t5T7h2P3Dm" when="2017-04-07T02:56:05.000Z" xml:id="t5T7h2P3Dm-2017-04-07T02:56:05.000Z">
+          <p>C'est pas des missiles mais du Pepsi que les \u00c9tats-Unis auraient d\u00fb balancer sur la Syrie.</p>
+        </post>
+        <post who="#SV1LrbbdqM" when="2017-04-07T02:15:45.000Z" xml:id="SV1LrbbdqM-2017-04-07T02:15:45.000Z">
+          <p>j'ai tellement pas de mots</p>
+        </post>
+        <post who="#RuF1BRE69S" when="2017-04-07T02:51:49.000Z" xml:id="RuF1BRE69S-2017-04-07T02:51:49.000Z">
+          <p>Quand tu te r\u00e9veille avec #ElleA avant de commencer ta journ\u00e9e de boulot \u00e0 6h c'est d'une douceur \ud83d\ude48\ud83d\ude0d @iKjHQMLbKg https://t.co/a9tDVM7UCf</p>
+        </post>
+        <post who="#6MLcPczuCI" when="2017-04-07T02:28:28.000Z" xml:id="6MLcPczuCI-2017-04-07T02:28:28.000Z">
+          <p>Grandement besoin de vacances \ud83d\ude13</p>
+        </post>
+        <post who="#FRwirMSVbn" when="2017-04-07T02:41:00.000Z" xml:id="FRwirMSVbn-2017-04-07T02:41:00.000Z">
+          <p>@vbfKd2mLZX MDRRRR MAIS QL ENCULE</p>
+        </post>
+        <post who="#TYzRQotJKK" when="2017-04-07T02:51:39.000Z" xml:id="TYzRQotJKK-2017-04-07T02:51:39.000Z">
+          <p>@W3XhgeeCBY Prend ton temps, mais d\u00e9p\u00eache toi ! :p</p>
+        </post>
+        <post who="#IEhZjN7ovW" when="2017-04-07T02:14:32.000Z" xml:id="IEhZjN7ovW-2017-04-07T02:14:32.000Z">
+          <p>@iyDHKU6LMD Paix et amour \u00e9galement \u2764</p>
+        </post>
+        <post who="#RGIqoVdE9M" when="2017-04-07T02:09:34.000Z" xml:id="RGIqoVdE9M-2017-04-07T02:09:34.000Z">
+          <p>Aller ces la derni\u00e8re</p>
+        </post>
+        <post who="#C1sXvhe6gM" when="2017-04-07T02:35:53.000Z" xml:id="C1sXvhe6gM-2017-04-07T02:35:53.000Z">
+          <p>@tHCm42V89c Beaucoup de sons de cloches diff\u00e9rents \u00e0 son sujet. il a plu \u00e0 certains et d\u00e9plu \u00e0 d'autres, c'est la vie.</p>
+        </post>
+        <post who="#yDPU5oQxjo" when="2017-04-07T02:55:06.000Z" xml:id="yDPU5oQxjo-2017-04-07T02:55:06.000Z">
+          <p>@EM4buKEO8O @K41StTnkK5 ptdrrr guette</p>
+        </post>
+        <post who="#Cs6rZ7UFqb" when="2017-04-07T02:09:58.000Z" xml:id="Cs6rZ7UFqb-2017-04-07T02:09:58.000Z">
+          <p>C'est dans ces moments d'insomnie profonde que je regrette de pas avoir Chasse et P\u00eache sur ma TV dans ma chambre</p>
+        </post>
+        <post who="#9Nt3IdcUIR" when="2017-04-07T02:23:07.000Z" xml:id="9Nt3IdcUIR-2017-04-07T02:23:07.000Z">
+          <p>Ca pleut des pesos pour @1fYLrJPey2 !  Qui revait de la Dacia.</p>
+        </post>
+        <post who="#U5XibvP2Qu" when="2017-04-07T02:33:11.000Z" xml:id="U5XibvP2Qu-2017-04-07T02:33:11.000Z">
+          <p>@B7YAp1OHo4 J'esp\u00e8re que les missiles \u00e9taient mieux r\u00e9gl\u00e9s que le micro de Trump lors du discours.</p>
+        </post>
+        <post who="#kinxnTTjeQ" when="2017-04-07T02:45:08.000Z" xml:id="kinxnTTjeQ-2017-04-07T02:45:08.000Z">
+          <p>Voil\u00e0 le genre d'article bullshit que l'UPR publiait \u00e0 propos de la non-intervention US en Syrie : https://t.co/PF8LYFbJjG #FailAgain</p>
+        </post>
+        <post who="#U7BS9aIa8f" when="2017-04-07T02:01:09.000Z" xml:id="U7BS9aIa8f-2017-04-07T02:01:09.000Z">
+          <p>On va maintenant attendre la r\u00e9action de Poutine.
+#50Tomahawk</p>
+        </post>
+        <post who="#kIpSYBivlL" when="2017-04-07T02:51:54.000Z" xml:id="kIpSYBivlL-2017-04-07T02:51:54.000Z">
+          <p>Bouh le vilain #SFR qui soi-disant est de la daube selon le schizo bordelais bovid\u00e9 et ses disciples.. En effet quel mauvais d\u00e9bit\ud83d\ude01Looser \ud83d\ude02! https://t.co/aOhiBwlNf0</p>
+        </post>
+        <post who="#A04PPJcapr" when="2017-04-07T02:54:52.000Z" xml:id="A04PPJcapr-2017-04-07T02:54:52.000Z">
+          <p>@csT3QneP6X T'inqui\u00e8te, je le sais moi...</p>
+        </post>
+        <post who="#I52z4Xye7P" when="2017-04-07T02:45:24.000Z" xml:id="I52z4Xye7P-2017-04-07T02:45:24.000Z">
+          <p>C'EST BON! \ud83d\ude0e #AlloSteam version 2 est pr\u00eat et accessible \u00e0 tous! \ud83d\ude31
+
+Nouveau site,nouveaux modes de paiement et +! 
+\ud83d\udc49 https://t.co/tD9Fmm3u9s https://t.co/skm8oHYEGq</p>
+        </post>
+        <post who="#EEyL2m6e8V" when="2017-04-07T02:33:19.000Z" xml:id="EEyL2m6e8V-2017-04-07T02:33:19.000Z">
+          <p>Tchau .</p>
+        </post>
+        <post who="#cFNASdi2ld" when="2017-04-07T02:20:21.000Z" xml:id="cFNASdi2ld-2017-04-07T02:20:21.000Z">
+          <p>dans mes photos y'a que la  m\u00eame personne qui appara\u00eet</p>
+        </post>
+        <post who="#ZeGWAUVvfX" when="2017-04-07T02:22:32.000Z" xml:id="ZeGWAUVvfX-2017-04-07T02:22:32.000Z">
+          <p>#valdoise / #Ceevo95 : Rencontre et \u00e9changes avec Michel Piazza, Directeur territorial 78 - 91 - 95 de #GRDF pour des projets en Val-d'Oise https://t.co/BI9nFB0BXE</p>
+        </post>
+        <post who="#qbe5hrTVQ0" when="2017-04-07T02:00:58.000Z" xml:id="qbe5hrTVQ0-2017-04-07T02:00:58.000Z">
+          <p>@KNVWbuvwAb @XAiMhCRtpr @cM0272D5X0 grave ptn\ud83d\ude02\ud83d\udc4c\ud83c\udffb</p>
+        </post>
+        <post who="#HVYyqWeEem" when="2017-04-07T02:23:48.000Z" xml:id="HVYyqWeEem-2017-04-07T02:23:48.000Z">
+          <p>@ALDgTGZ7cb Certains le sont \ud83d\ude1c</p>
+        </post>
+        <post who="#rq0A0xOgpC" when="2017-04-07T02:07:45.000Z" xml:id="rq0A0xOgpC-2017-04-07T02:07:45.000Z">
+          <p>Donald Trump appelle "toutes les nations civilis\u00e9es \u00e0 mettre fin au massacre en #Syrie" https://t.co/irVjVoV7l3</p>
+        </post>
+        <post who="#TdQ9Wx5aVk" when="2017-04-07T02:42:36.000Z" xml:id="TdQ9Wx5aVk-2017-04-07T02:42:36.000Z">
+          <p>@3C8B8AGd5Y @nPvVSOGSFm Pas sur qu'il y ait assez de fontes pour @7RCL5sNXNt et Moi \ud83d\ude02 #chaudar</p>
+        </post>
+        <post who="#TNQLtOcpr5" when="2017-04-07T02:02:35.000Z" xml:id="TNQLtOcpr5-2017-04-07T02:02:35.000Z">
+          <p>L'Irlande c'est un level au dessus \ud83c\uddee\ud83c\uddea\ud83c\udf40 https://t.co/H6ZKArCRUt</p>
+        </post>
+        <post who="#fZNCdk0DCT" when="2017-04-07T02:09:22.000Z" xml:id="fZNCdk0DCT-2017-04-07T02:09:22.000Z">
+          <p>Je sais depuis une semaine que j'ai un oral demain en droit administratif, me voil\u00e0 maintenant \u00e0 faire une nuit blanche pour le pr\u00e9parer \ud83d\ude44\ud83d\ude44</p>
+        </post>
+        <post who="#QnQTQq9iDQ" when="2017-04-07T02:55:45.000Z" xml:id="QnQTQq9iDQ-2017-04-07T02:55:45.000Z">
+          <p>@L3J8zztagL @iqboXlwjcM tr\u00e8s bien \u00e9mouvant  \ud83d\ude22\ud83c\udf39\ud83d\ude18</p>
+        </post>
+        <post who="#kIpSYBivlL" when="2017-04-07T02:55:50.000Z" xml:id="kIpSYBivlL-2017-04-07T02:55:50.000Z">
+          <p>#4Gmark aussi confirme les tr\u00e8s bonnes performances de #SFR \u00e0 Bordeaux... Soi-disant mauvais #bovid\u00e9 \ud83d\ude02
+La bonne foi comme meilleur argument! https://t.co/KKf2y8Wp9i</p>
+        </post>
+        <post who="#0rH6QpMllW" when="2017-04-07T02:11:27.000Z" xml:id="0rH6QpMllW-2017-04-07T02:11:27.000Z">
+          <p>Pourquoi le logo de #nutella n'a pas chang\u00e9 depuis 1964 ? #logo #branding #brand #design #GraphicDesign #graphiste #Identity https://t.co/vrX9nAImcm</p>
+        </post>
+        <post who="#5Z6LD1FG5f" when="2017-04-07T02:09:31.000Z" xml:id="5Z6LD1FG5f-2017-04-07T02:09:31.000Z">
+          <p>Je suis en d\u00e9c\u00e8s. Je need le dodo</p>
+        </post>
+        <post who="#xqO78mHHGm" when="2017-04-07T02:46:46.000Z" xml:id="xqO78mHHGm-2017-04-07T02:46:46.000Z">
+          <p>Au calme negro plus malade</p>
+        </post>
+        <post who="#PWjuEXdzuu" when="2017-04-07T02:04:30.000Z" xml:id="PWjuEXdzuu-2017-04-07T02:04:30.000Z">
+          <p>BoP VLN2-Topcars
+BMW M6  1335kg  120l  2x33,4
+Mercedes 1335kg  120l  2x31,8
+Audi R8     1315kg  120l  2x33,7
+Porsche    1280kg  113l  2x36,0</p>
+        </post>
+        <post who="#pOWqUmn27A" when="2017-04-07T02:50:12.000Z" xml:id="pOWqUmn27A-2017-04-07T02:50:12.000Z">
+          <p>@lMDmBuP9jO \u00c7a fait moins de noms \u00e0 retenir, pratique...</p>
+        </post>
+        <post who="#hUr8EbSYLZ" when="2017-04-07T02:38:11.000Z" xml:id="hUr8EbSYLZ-2017-04-07T02:38:11.000Z">
+          <p>@rywBfgBjGF @wRsg0JCJa1 \u00c7a craint....</p>
+        </post>
+        <post who="#C1sXvhe6gM" when="2017-04-07T02:44:50.000Z" xml:id="C1sXvhe6gM-2017-04-07T02:44:50.000Z">
+          <p>@X1XyBrfIu3 @vOnkF9hod1 @cMNnxBE8hq @26nO53KrWB @AgAJ1BuPvp @EvZA0mDU67 @jf5JQSp3TI @QMGQTN7TqO @VSTjRLgl14 @ZmSiF6SdDA @jymxoDXJx1 @2HcTIZhCqS Et qui en vit surtout, ce faux dissident. Que les gens sont na\u00effs...</p>
+        </post>
+        <post who="#4ipwGB73Pb" when="2017-04-07T02:30:03.000Z" xml:id="4ipwGB73Pb-2017-04-07T02:30:03.000Z">
+          <p>@QjEizP0XfC Vous \u00eates plein de ressources, c'est beau !</p>
+        </post>
+        <post who="#eI9o6aEqHJ" when="2017-04-07T02:18:23.000Z" xml:id="eI9o6aEqHJ-2017-04-07T02:18:23.000Z">
+          <p>que des contr\u00f4les par les cond\u00e9s c'est devenu banal surtt qd jss avec monsieur</p>
+        </post>
+        <post who="#EBEiLgTRMd" when="2017-04-07T02:46:48.000Z" xml:id="EBEiLgTRMd-2017-04-07T02:46:48.000Z">
+          <p>@mUQsbLq7Mr C'est d\u00e9j\u00e0 plus facile de venir \ud83d\ude4c</p>
+        </post>
+        <post who="#Ng0Q4OrPio" when="2017-04-07T02:41:26.000Z" xml:id="Ng0Q4OrPio-2017-04-07T02:41:26.000Z">
+          <p>Devant le Kinkakuji le fameux Pavillon d'or ! #kinkakuji #pavillondor #kyoto https://t.co/2bg3FNAJdl</p>
+        </post>
+        <post who="#s8oDyDvyEF" when="2017-04-07T02:18:30.000Z" xml:id="s8oDyDvyEF-2017-04-07T02:18:30.000Z">
+          <p>#FillonStrasbourg alors mtn les @tUTbCL5ZaB vs avez blanchi #fillon? franchement respect au dirigent du #CabinetNoir, il est trop fort https://t.co/G5CELYR6Vl</p>
+        </post>
+        <post who="#DjtupY5fMX" when="2017-04-07T02:48:16.000Z" xml:id="DjtupY5fMX-2017-04-07T02:48:16.000Z">
+          <p>en + il m'a invit\u00e9 \u00e0 une soir\u00e9e m\u00e9decine, j'ai vraiment trop h\u00e2te</p>
+        </post>
+        <post who="#cuqL5klcva" when="2017-04-07T02:00:16.000Z" xml:id="cuqL5klcva-2017-04-07T02:00:16.000Z">
+          <p>Bonjour \u00e0 tous et \u00e0 toutes :)
+
+Programme de ce Vendredi 7 avril: 
+
+- Skyrim d\u00e8s 17h
+- The Witcher 3 - DLC Hearts of Stone d\u00e8s 21h https://t.co/uFegLpvcdW</p>
+        </post>
+        <post who="#exiaPx61AW" when="2017-04-07T02:55:37.000Z" xml:id="exiaPx61AW-2017-04-07T02:55:37.000Z">
+          <p>Sa veux une meuf mais t'en parle 10 \ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14</p>
+        </post>
+        <post who="#YCJkv3JmN4" when="2017-04-07T02:09:59.000Z" xml:id="YCJkv3JmN4-2017-04-07T02:09:59.000Z">
+          <p>"The Meule" bient\u00f4t dans les bacs vous inqui\u00e9tez pas @4lsBK7y4V9 @ifpUG1BKYC</p>
+        </post>
+        <post who="#AnP4jKKeDT" when="2017-04-07T02:18:33.000Z" xml:id="AnP4jKKeDT-2017-04-07T02:18:33.000Z">
+          <p>V\u00e9hicule incendi\u00e9 rue Angela Medici !! @xU4ZfsfHOl @2Pa8ojbn2F</p>
+        </post>
+        <post who="#Tqj69MRRDp" when="2017-04-07T02:39:19.000Z" xml:id="Tqj69MRRDp-2017-04-07T02:39:19.000Z">
+          <p>@nDnKZ0uNF3 Ah ... bon bah je vais me couch\u00e9 avant d'\u00eatre trop d\u00e9gout\u00e9 que tu me dise que t'es \u00e0 Mayotte ou La R\u00e9union \ud83d\ude04</p>
+        </post>
+        <post who="#kOKcw4RWEj" when="2017-04-07T02:36:44.000Z" xml:id="kOKcw4RWEj-2017-04-07T02:36:44.000Z">
+          <p>Je vais me r\u00e9veiller demain je vais pas me reconna\u00eetre</p>
+        </post>
+        <post who="#myB4PPuTEH" when="2017-04-07T02:48:40.000Z" xml:id="myB4PPuTEH-2017-04-07T02:48:40.000Z">
+          <p>@5DaQZcQUgn @WmB0LI5KrZ @Y3QM9b2oyK Perdu! C'est une fiche de renseignement, rien de l\u00e9gal ou judiciaire, sauf pour les apprentis dictateurs.</p>
+        </post>
+        <post who="#PLbWo3NSbC" when="2017-04-07T02:36:00.000Z" xml:id="PLbWo3NSbC-2017-04-07T02:36:00.000Z">
+          <p>@RNzSKH1xna Ah poto t'es dans cet Tom Hardy shit toi aussi  ?</p>
+        </post>
+        <post who="#mrVG9Db6UO" when="2017-04-07T02:27:16.000Z" xml:id="mrVG9Db6UO-2017-04-07T02:27:16.000Z">
+          <p>tu sais pas ce que c'est un scorpion si t'en es pas un.</p>
+        </post>
+        <post who="#tEyBGrNhh4" when="2017-04-07T02:26:22.000Z" xml:id="tEyBGrNhh4-2017-04-07T02:26:22.000Z">
+          <p>@JqxTTGCjTA Je me doute, mais vu l'heure faut dormir \u00e0 ton \u00e2ge avanc\u00e9 \ud83d\ude1c</p>
+        </post>
+        <post who="#zuMij5Lb62" when="2017-04-07T02:48:40.000Z" xml:id="zuMij5Lb62-2017-04-07T02:48:40.000Z">
+          <p>@8TGdWvRXsb va dormir au lieu de rt tes trucs de fragile laaaaaaa</p>
+        </post>
+        <post who="#w8vShXNejq" when="2017-04-07T02:04:42.000Z" xml:id="w8vShXNejq-2017-04-07T02:04:42.000Z">
+          <p>Si notre pr\u00e9nom a une influence sur notre personnalit\u00e9, pourquoi ma m\u00e8re ne m'a pas appel\u00e9 "Anesthasia".</p>
+        </post>
+        <post who="#h7zCw5pU1O" when="2017-04-07T02:18:47.000Z" xml:id="h7zCw5pU1O-2017-04-07T02:18:47.000Z">
+          <p>Alors la si Lele elle dit j'ai pas travaill\u00e9 je la balaye \ud83d\udc4b\ud83c\udffc</p>
+        </post>
+        <post who="#hoqGzgXyWe" when="2017-04-07T02:01:09.000Z" xml:id="hoqGzgXyWe-2017-04-07T02:01:09.000Z">
+          <p>Vaut mieux que j'aille dormir au lieu de r\u00e2ler</p>
+        </post>
+        <post who="#ZMUp4MeerV" when="2017-04-07T02:55:30.000Z" xml:id="ZMUp4MeerV-2017-04-07T02:55:30.000Z">
+          <p>Moin.</p>
+        </post>
+        <post who="#ZdhP827yo5" when="2017-04-07T02:46:32.000Z" xml:id="ZdhP827yo5-2017-04-07T02:46:32.000Z">
+          <p>j'ai v\u00e9cu le harc\u00e8lement quand j'\u00e9tais au coll\u00e8ge, en quatri\u00e8me, c'\u00e9tait y'a 6 ans</p>
+        </post>
+        <post who="#R6LsGt5udi" when="2017-04-07T02:25:18.000Z" xml:id="R6LsGt5udi-2017-04-07T02:25:18.000Z">
+          <p>bonne nuit les khey</p>
+        </post>
+        <post who="#fXxzLYnvWJ" when="2017-04-07T02:39:21.000Z" xml:id="fXxzLYnvWJ-2017-04-07T02:39:21.000Z">
+          <p>le fin bouquet \u2764 @N2PbRxNeyY</p>
+        </post>
+        <post who="#4CuAwYdMRB" when="2017-04-07T02:29:26.000Z" xml:id="4CuAwYdMRB-2017-04-07T02:29:26.000Z">
+          <p>Et voil\u00e0 j'suis sur Moogle
+
+Maintenant j'retourne me coucher</p>
+        </post>
+        <post who="#j9YZ3ihhnY" when="2017-04-07T02:46:50.000Z" xml:id="j9YZ3ihhnY-2017-04-07T02:46:50.000Z">
+          <p>D'aprs #valeursactuelles, l' #enfarineur serait fich\u00e9 S pr des voyages en #Afghanistan, dont 2  o\u00f9 il aurait combattu. Non #sanscommentaire.</p>
+        </post>
+        <post who="#4AQQVMl0AS" when="2017-04-07T02:35:30.000Z" xml:id="4AQQVMl0AS-2017-04-07T02:35:30.000Z">
+          <p>Et il recommence ... je vais jamais tenir le coup \ud83d\ude35</p>
+        </post>
+        <post who="#stacZLDduV" when="2017-04-07T02:50:54.000Z" xml:id="stacZLDduV-2017-04-07T02:50:54.000Z">
+          <p>@fx8so9KdZt Avec plaisir \ud83d\udc4c\ud83c\udffe</p>
+        </post>
+        <post who="#OBBzAdwAqs" when="2017-04-07T02:56:54.000Z" xml:id="OBBzAdwAqs-2017-04-07T02:56:54.000Z">
+          <p>Bon Mario il a int\u00e9r\u00eat \u00e0 me rendre le masque</p>
+        </post>
+        <post who="#8xpkoCth9R" when="2017-04-07T02:38:25.000Z" xml:id="8xpkoCth9R-2017-04-07T02:38:25.000Z">
+          <p>[PODCAST] La Foire aux Navets #1 : Switch &amp;amp; Zelda ! https://t.co/JUFWyvUEKO via @hlt2TE9jDt</p>
+        </post>
+        <post who="#0cVfJ8ssMh" when="2017-04-07T02:32:13.000Z" xml:id="0cVfJ8ssMh-2017-04-07T02:32:13.000Z">
+          <p>Waaaouhh</p>
+        </post>
+        <post who="#uJqdda1L29" when="2017-04-07T02:14:43.000Z" xml:id="uJqdda1L29-2017-04-07T02:14:43.000Z">
+          <p>@cLLNcBcaby Nan, mais j'd\u00e9conne tu sais !
+C'\u00e9tait juste pour dire qu'on a eu la m\u00eame r\u00e9action en voyant ce jeu</p>
+        </post>
+        <post who="#0ysmVDgmmS" when="2017-04-07T02:01:25.000Z" xml:id="0ysmVDgmmS-2017-04-07T02:01:25.000Z">
+          <p>@0ysmVDgmmS je sais pas pourquoi mais depuis cher longtemps je l'\u00e9cris sur les murs, les cahiers, sur mon phone et tout...</p>
+        </post>
+        <post who="#p1uE1GCSSn" when="2017-04-07T02:52:18.000Z" xml:id="p1uE1GCSSn-2017-04-07T02:52:18.000Z">
+          <p>Btf que vou dormir.</p>
+        </post>
+        <post who="#yoMvJ3M0vs" when="2017-04-07T02:25:47.000Z" xml:id="yoMvJ3M0vs-2017-04-07T02:25:47.000Z">
+          <p>Allez essayer de retourner vous coucher apr\u00e8s les nouvelles de cette nuit...</p>
+        </post>
+        <post who="#EcFFINu6tz" when="2017-04-07T02:48:19.000Z" xml:id="EcFFINu6tz-2017-04-07T02:48:19.000Z">
+          <p>On peut montrer des photographies de petits mexicains maltrait\u00e9s au pr\u00e9sident am\u00e9ricain ? Apparemment le pathos marche bien! #decisionmaking</p>
+        </post>
+        <post who="#H9B9mQQuHp" when="2017-04-07T02:56:37.000Z" xml:id="H9B9mQQuHp-2017-04-07T02:56:37.000Z">
+          <p>@WNrsLRT3qH toi qui domine la sneaker une id\u00e9e pour trouver les Adidas Noel Gallagher \u00e0 Tokyo? Harajuku? Merci</p>
+        </post>
+        <post who="#pc59hSceKm" when="2017-04-07T02:21:11.000Z" xml:id="pc59hSceKm-2017-04-07T02:21:11.000Z">
+          <p>@Nj6VAtrqK2 Bonjour :) Pouvez-vous me dire qui contacter pour proposer un deal sur votre site ? Merci \ud83d\ude43</p>
+        </post>
+        <post who="#W00kuffxLg" when="2017-04-07T02:58:15.000Z" xml:id="W00kuffxLg-2017-04-07T02:58:15.000Z">
+          <p>J'ai ENFIN internet chez moi, je REVIS !</p>
+        </post>
+        <post who="#Hw8C8jm4Hl" when="2017-04-07T02:39:46.000Z" xml:id="Hw8C8jm4Hl-2017-04-07T02:39:46.000Z">
+          <p>Futur professionnel des #seniors  https://t.co/Bxa6z2UQB9</p>
+        </post>
+        <post who="#YQwXXcBdfW" when="2017-04-07T02:01:36.000Z" xml:id="YQwXXcBdfW-2017-04-07T02:01:36.000Z">
+          <p>Encore un mouvement d'humeur de la part des \u00ab d\u00e9mocrates \u00bb, apr\u00e8s ces 59 missiles Tomahawk @LtzXFacAo5 @k8Of1UnBan #AttaqueChimique\ud83c\uddf8\ud83c\uddfe https://t.co/uEFxpCxZsx</p>
+        </post>
+        <post who="#VNEqkH1HNI" when="2017-04-07T02:59:38.000Z" xml:id="VNEqkH1HNI-2017-04-07T02:59:38.000Z">
+          <p>c'est impressionant en effet https://t.co/SGz4OqiNEH</p>
+        </post>
+        <post who="#bL5foH3zio" when="2017-04-07T02:22:32.000Z" xml:id="bL5foH3zio-2017-04-07T02:22:32.000Z">
+          <p>soit c'est ma m\u00e8re qui va me tuer, soit Chlo\u00e9 mdrrr</p>
+        </post>
+        <post who="#yg6BxHiBSP" when="2017-04-07T02:00:39.000Z" xml:id="yg6BxHiBSP-2017-04-07T02:00:39.000Z">
+          <p>Pourquoi 13 Reasons Why est une s\u00e9rie \u00e0 binge-watcher, m\u00eame quand est plus ados ?\u00a0 https://t.co/DIVl5SUhCW via @oslqoarNhT</p>
+        </post>
+        <post who="#HVYyqWeEem" when="2017-04-07T02:25:58.000Z" xml:id="HVYyqWeEem-2017-04-07T02:25:58.000Z">
+          <p>Mais il est bon de m\u00e9nager sa monture, n'est ce pas?</p>
+        </post>
+        <post who="#2wwsm5sHVn" when="2017-04-07T02:57:35.000Z" xml:id="2wwsm5sHVn-2017-04-07T02:57:35.000Z">
+          <p>j'ai envie de tout faire avec ma copine vous imaginez m\u00eame pas</p>
+        </post>
+        <post who="#3qyV57z4zP" when="2017-04-07T02:12:06.000Z" xml:id="3qyV57z4zP-2017-04-07T02:12:06.000Z">
+          <p>Dernier poste du matin.. apr\u00e8s une nuit blanche.. \u00c7a s'annonce folklo !</p>
+        </post>
+        <post who="#3HQd4J41jT" when="2017-04-07T02:23:47.000Z" xml:id="3HQd4J41jT-2017-04-07T02:23:47.000Z">
+          <p>@SQXdRSvvgY Hein OK mais t un fdp quand mm</p>
+        </post>
+        <post who="#rbn6J4Syzr" when="2017-04-07T02:32:56.000Z" xml:id="rbn6J4Syzr-2017-04-07T02:32:56.000Z">
+          <p>Ras Bath : LE COMPORTEMENT DE ETIENNE FAKABA SISSOKO ET LES MOBILES DES AUTEURS DE LA PUBLICATION 
+
+https://t.co/03F5pDsw0n</p>
+        </post>
+        <post who="#5S7CR1Agur" when="2017-04-07T02:10:29.000Z" xml:id="5S7CR1Agur-2017-04-07T02:10:29.000Z">
+          <p>Il est tr\u00e8s bon @mkUZGE1Kch dans #JEPRTBF. Une interview argument\u00e9e et sans complaisance et qui met en difficult\u00e9 l'invit\u00e9, \u00e7a nous change !</p>
+        </post>
+        <post who="#4ipwGB73Pb" when="2017-04-07T02:20:22.000Z" xml:id="4ipwGB73Pb-2017-04-07T02:20:22.000Z">
+          <p>@FMiV8odQYu On peut pas l'enfariner mais avec de la merde de chien ?
+#indignezvous #resistance #JLM2017</p>
+        </post>
+        <post who="#K131kRval0" when="2017-04-07T02:06:03.000Z" xml:id="K131kRval0-2017-04-07T02:06:03.000Z">
+          <p>j'arrive pas \u00e0 dormir</p>
+        </post>
+        <post who="#y50n90a6Hk" when="2017-04-07T02:37:00.000Z" xml:id="y50n90a6Hk-2017-04-07T02:37:00.000Z">
+          <p>Trump. En 24h il fait ce que d'autres auraient d\u00fb faire depuis des ann\u00e9es. On peut ne pas l'aimer, et je suis pas sp\u00e9cialement fan perso</p>
+        </post>
+        <post who="#OBBzAdwAqs" when="2017-04-07T02:50:30.000Z" xml:id="OBBzAdwAqs-2017-04-07T02:50:30.000Z">
+          <p>Liberge qui dansai face \u00e0 Moi cetais pas cool \ud83e\udd26\ud83c\udffc\u200d\u2640\ufe0f\ud83e\udd26\ud83c\udffc\u200d\u2640\ufe0f \ud83d\ude02</p>
+        </post>
+        <post who="#XTnk24OeG4" when="2017-04-07T02:50:15.000Z" xml:id="XTnk24OeG4-2017-04-07T02:50:15.000Z">
+          <p>Hypocrite. https://t.co/f1bfH4fsM5</p>
+        </post>
+        <post who="#C1sXvhe6gM" when="2017-04-07T02:48:59.000Z" xml:id="C1sXvhe6gM-2017-04-07T02:48:59.000Z">
+          <p>@vOnkF9hod1 @X1XyBrfIu3 @cMNnxBE8hq @26nO53KrWB @AgAJ1BuPvp @EvZA0mDU67 @jf5JQSp3TI @QMGQTN7TqO @VSTjRLgl14 @ZmSiF6SdDA @jymxoDXJx1 @2HcTIZhCqS \ud83d\ude02 Il a de tr\u00e8s bonnes analyses mais le probl\u00e8me est toujours le m\u00eame, bcp tombent dans le fanatisme, car Soral a raison ! pfff</p>
+        </post>
+        <post who="#myB4PPuTEH" when="2017-04-07T02:58:24.000Z" xml:id="myB4PPuTEH-2017-04-07T02:58:24.000Z">
+          <p>@Y3QM9b2oyK O\u00f9 a-t-il mis sa baguette?</p>
+        </post>
+        <post who="#7eIxvhWatt" when="2017-04-07T02:30:49.000Z" xml:id="7eIxvhWatt-2017-04-07T02:30:49.000Z">
+          <p>Waaaay j'ai trop mang\u00e9 #agoulou #complet #piment #Milkshake #gwadloup</p>
+        </post>
+        <post who="#6xXEQXLY7z" when="2017-04-07T02:33:16.000Z" xml:id="6xXEQXLY7z-2017-04-07T02:33:16.000Z">
+          <p>Soir\u00e9e reggaeton au oooone</p>
+        </post>
+        <post who="#SdogefoEKH" when="2017-04-07T02:19:14.000Z" xml:id="SdogefoEKH-2017-04-07T02:19:14.000Z">
+          <p>\ud83d\ude11salut l'insomnie</p>
+        </post>
+        <post who="#NTMpcWuwNs" when="2017-04-07T02:23:25.000Z" xml:id="NTMpcWuwNs-2017-04-07T02:23:25.000Z">
+          <p>#pxc17  le th\u00e8me est annonc\u00e9 : \u00abLe d\u00e9fi de l'espace limit\u00e9 \u00bb .. Bon courage ! #SNQuebec17</p>
+        </post>
+        <post who="#kVRPjdyAKo" when="2017-04-07T02:04:34.000Z" xml:id="kVRPjdyAKo-2017-04-07T02:04:34.000Z">
+          <p>@lcrbIM2QBI @wuZvPbUT7M jolie score niveau \u00e9pique
+perso 16 epique dont 1 gold et 6 leg dont 2 gold (des doublons de 2 autre l\u00e9gendaire ofc)</p>
+        </post>
+        <post who="#g8I5oNoDm0" when="2017-04-07T02:10:54.000Z" xml:id="g8I5oNoDm0-2017-04-07T02:10:54.000Z">
+          <p>Un jour j'aimerai etre seul, loin de ce monde</p>
+        </post>
+        <post who="#4tmi5tZOMr" when="2017-04-07T02:19:19.000Z" xml:id="4tmi5tZOMr-2017-04-07T02:19:19.000Z">
+          <p>Peter a Las Vegas avec @qlilzGGQWP on est mal \ud83d\ude02\ud83d\ude02\ud83c\udf7e</p>
+        </post>
+        <post who="#lFj2uAnrrg" when="2017-04-07T02:09:09.000Z" xml:id="lFj2uAnrrg-2017-04-07T02:09:09.000Z">
+          <p>@2B1maunvUD Est-ce cette tranche de l'UDI qui soutient l'immoral Fillon qui voudrait donner des le\u00e7ons ? C'edt plut\u00f4t \u00e7a LA HONTE</p>
+        </post>
+        <post who="#fgL5Q9qQjQ" when="2017-04-07T02:03:07.000Z" xml:id="fgL5Q9qQjQ-2017-04-07T02:03:07.000Z">
+          <p>Taleur j'ai mis un snap " qui viens manger avec moi " j'ai re\u00e7u une rafale de snap \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02</p>
+        </post>
+        <post who="#uNnTsmifBE" when="2017-04-07T02:49:39.000Z" xml:id="uNnTsmifBE-2017-04-07T02:49:39.000Z">
+          <p>@7GpYMQVNZV de grosses gratouilles \u00e0 Sweet\ud83d\udc15</p>
+        </post>
+      </div>
+    </body>
+  </text>
+</TEI>
