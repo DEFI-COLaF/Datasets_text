@@ -1,4 +1,4 @@
-# Datasets COLaF
+# Corpus textuels COLaF en XML TEI
 
 Ce dépôt contient des datasets convertis en XML-TEI pour le projet COLaF selon les règles dictées [ici](https://github.com/DEFI-COLaF/metadata).
 
