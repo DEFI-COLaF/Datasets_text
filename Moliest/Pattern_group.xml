@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader><!--Métadonnées du fichier global, à compléter si nécessaire-->
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Mo liest Corpus </title>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="RDENT">
+                        <surname>Dent</surname>
+                        <forename>Rasul</forename>
+                        <idno type="orcid">0000-0002-8971-6175</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de France
+                    (COLaF)</publisher>
+                <date when="2024-03-26"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="CorpusSource">
+                    <ptr target="https://colaf.huma-num.fr/"/>
+                    <title>Mo liest Corpus </title>
+                    <author>Rasul Dent</author>
+                    <publisher>CoLAF</publisher>
+                    <date when="2024"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage><!--Mettre la liste des langues ici si nécessaire-->
+                <language ident="met-fr-std">
+                    <idno type="langue">met-fr-std</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <location/>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="spoken">Fiction</term>
+                    <term type="genre" rend="spoken-script">fiction-drama</term>
+                    <!-- Only these two terms are used here.-->
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-03-24" who="#RDENT">Génération du document</change>
+        </revisionDesc>
+    </teiHeader>
+    <!--Pour chaque pièce, un TEI avec TEIheader simple avec qq métadonnées et text avec le texte sélectionné-->
+    <TEI corresp="ID"><!--ID COLAF-->
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>              
+                    <title>DON JUAN ou LE FESTIN DE PIERRE, COMEDIE</title>
+                    <author>MOLIERE, Jean-Baptiste Posquelin dit (1622-1673)</author>
+                </titleStmt>
+                <publicationStmt>
+                    <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de France
+                        (COLaF)</publisher>
+                    <date when="2024-03-26"/>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <title>DON JUAN ou LE FESTIN DE PIERRE, COMEDIE</title>
+                        <author>MOLIERE, Jean-Baptiste Posquelin dit (1622-1673)</author>
+                        <date>1670</date>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <particDesc><!--Liste des personnages présents dans les textes sélectionnés de la pièce-->
+                    <person xml:id="CHARLOTTE">
+                        <langKnowledge>
+                            <langKnown tag="met-fra"/> <!-- Si nécessaire langues parlées par le personnage-->
+                        </langKnowledge>
+                    </person>
+                    <person xml:id="PIERROT"/>
+                </particDesc>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <group><!--Pour chaque morceau de texte (scène ect...) mettre dans une balise text-->
+                <text>
+                    <body>
+                        <sp who="CHARLOTTE"><speaker>CHARLOTTE.</speaker>
+                            <p n="1">
+                                <s n="1">Nostre-dinse, Piarrot, tu t'es trouvé là bien à point. </s>
+                            </p>
+                        </sp>
+                        <sp who="PIERROT"><speaker>PIERROT.</speaker>
+                            <p n="2">
+                                <s n="1">Parquienne, il ne s'en est pas fallu l'époisseur d'une éplinque qu'ils ne se sayant nayés tous deux. </s>
+                            </p>
+                        </sp>
+                        <sp who="CHARLOTTE"><speaker>CHARLOTTE.</speaker>
+                            <p n="3">
+                                <s n="1">C'est donc le coup de vent da matin qui les avait renvarsés dans la mar ? </s>
+                            </p>
+                        </sp>
+                        <sp who="PIERROT"><speaker>PIERROT.</speaker>
+                            <note type="L">Aga : interjection admirative. Vieux mot et populaire, qui vient d'un autre vieux mot, Agardez, pour dire Regardez, voyez un peu. [F]</note>
+                            <p n="4">
+                                <s n="1">Aga, guien, Charlotte, je m'en vas te conter tout fin drait comme cela est venu ; car, comme dit l'autre, je les ai le premier avisés, avisés le premier je les ai. </s>
+                                <s n="2">Enfin donc, j'estions sur le bord de la mar, moi et le gros Lucas, et je nous amusions à batifoler avec des mottes de tarre que je nous jesquions à la teste : car, comme tu sais bian, le gros Lucas aime à batifoler, et moi par fouas je batifole itou. </s>
+                                <s n="3">En batifolant donc, pisque batifoler y a, j'ai aparçu de tout loin queuque chose qui grouilloit dans gliau, et qui venait comme envars nous par secousse. </s>
+                                <s n="4">Je voyois cela fixiblement, et pis tout d'un coup je voyois que je ne voyois plus rien. </s>
+                                <s n="5">Eh ! </s>
+                                <s n="6">Lucas, ç'ai-je fait, je pense que vlà des hommes qui nageant là-bas. </s>
+                                <s n="7">Voire, ce ma til fait, t'as esté au trépassement d'un chat, t'as la vue trouble. </s>
+                                <s n="8">Palsanquienne, çai-je fait, je n'ai point la vue trouble : ce sont des hommes. </s>
+                                <s n="9">Point du tout, ce m'a-t-il fait, t'as la barlue. </s>
+                                <s n="10">Veux-tu gager, çai-je fait, que je n'ai point la barlue, cai-je fait, et que font deux hommes, çai-je fait, qui nageant droit ici, çai-je fait. </s>
+                                <s n="11">Morquenne, ce ma til fait, je gage que non, o ça, çai-je fait, veux-tu gager dix sols que si ? </s>
+                                <s n="12">Je le veux bian, ce ma til fait ; et pour te montrer, vlà argent su jeu, ce ma til fait. </s>
+                                <s n="13">Moi, je n'ai point esté ni fou, ni estourdi, j'ai bravement bouté à tarre quatre pièces tapées et cinq sols en doubles, jergniguenne aussi hardiment que si j'avais avalé un varre de vin : car je ses hasardeux, moi, et je vas à la débandade. </s>
+                                <s n="14">Je savois bian ce que je faisois pourtant, queuque gniais ! </s>
+                                <s n="15">Enfin donc, je n'avons pas putost eu gagé, que j'avons vu les deux hommes tout à plain qui nous faisiant signe de les aller querir, et moi de tirer auparavant les enjeux. </s>
+                                <s n="16">Allons, Lucas, çai je dit, tu vois bian qu'ils nous appellont : allons viste à leu secours. </s>
+                                <s n="17"> Non, ce ma til dit, ils mont fait pardre. </s>
+                                <s n="18">Ô donc tanquia, qu'à la parfin pour le faire court, je l'ai tant sarmonné, que je nous sommes boutés dans une barque, et pis j'avons tant fait cahin, caha, que je les avons tirés de gliau, et pis je les avons menés cheux nous auprès du feu, et pis ils se sant dépouillés tous nus pour se sécher, et pis il y en est venu encore deux de la mesme bande qui s'equiant sauvés tout seul, et pis Mathurine est arrivée là à qui l'en a fait les doux yeux, vlà justement, Charlotte, comme tout ça s'est fait. </s>
+                            </p>
+                        </sp>
+                        <sp who="CHARLOTTE"><speaker>CHARLOTTE.</speaker>
+                            <p n="5">
+                                <s n="1">Ne m'as-tu pas dit, Piarrot, qu'il y en a un qu'est bien pu mieux fait que les autres ? </s>
+                            </p>
+                        </sp>
+                    </body>
+                </text>
+            </group>
+        </text>
+        </TEI>
+</teiCorpus>
