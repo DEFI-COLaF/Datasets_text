@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:lang="fr">
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'OPÉRA DE PROVINCE, COMÉDIE.</title>
+				<author type="texte" ISNI="0000 0000 8393 8993">Pierre-Yves BARRÉ (1749-1832)</author>
+				<author type="texte" ISNI="0000 0001 2099 8064">Jean-Baptiste-Denis DESPRÈS (1752-1832)</author>
+				<author type="texte" ISNI="0000 0000 8342 4319">Augustin de PIIS (1755-1832)</author>
+				<author type="texte" ISNI="0000 0000 4152 1532">Louis-Pierre-Pantaléon RESNIER (1759-1807). </author>
+			</titleStmt>
+			<publicationStmt>	
+				<editor>Texte établi par Paul FIEVRE octobre 2022</editor>
+				<publisher>Publié par Paul FIEVRE novembre 2022</publisher>
+				<idno>BARRE-DESPRES-PIIS-RESNIER_OPERADEPROVINCE</idno>
+				<rights>Creative Commons BY-NC-SA</rights>
+			</publicationStmt>
+			<SourceDesc>
+				<genre>Parodie</genre>
+				<inspiration>adaptation d'une oeuvre</inspiration>
+				<structure>Deux actes</structure>
+				<type>vers</type>
+				<periode>1771-1780</periode>
+				<taille>1000-1250</taille>
+				<permalien cote="BnF LLA 8-YTH-13078">https://gallica.bnf.fr/ark:/12148/bpt6k9785660m</permalien>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">L'OPÉRA DE PROVINCE</titlePart>
+			<titlePart type="sub">NOUVELLE PARODIE D'ARMIDE EN DEUX ACTES et EN VERS, MELÉS DE VAUDEVILLES.</titlePart>
+			<titlePart type="sub">Représentée pour la première fois, à Paris, le Mercredi 17 Décembre, 1777, et à Versailles, devant LEURS MAJESTÉS le Vendredi suivant, par les Comédiens Italiens Ordinaires du Roi.</titlePart>
+			<titlePart type="sub">Le prix est de 24 sols.</titlePart>
+		</docTitle> 
+		<docDate value='1777'>M. DCC. LXXVII. Avec Permission.</docDate>
+		<docAuthor id='BARRÉ, RADET, DESFONTAINES' bio=''>Par P. Y. BARRÉ, J. B. RADET et F. G. DESFONTAINES. </docAuthor>
+		<docImprint>
+			<printer id="VENTE">À PARIS, Chez VENTE, Libraire des Menus-Plaisirs du Roi et des Spectacles de Sa Majesté, au bas de la Montagne Sainte-Geneviève.</printer>
+			<approbation><head>APPROBATION.</head>
+				<p>J'ai lu par ordre de Monsieur le Lieutenant-Général de Police, l'Opéra de Province, Parodie d'Armide ; et je n'y ai rien trouvé qui m'ait paru devoir en empêcher la représentation et l'impression. A Paris, ce 29 Novembre 1777.</p>
+				<p>Signé, SUAUD,</p>
+				<p>Vu l'Approbation, permis de représenter et d'imprimer, ce 10 Novembre 1777. Signé, LE NOIR.</p>
+			</approbation>
+		</docImprint>
+		<performance>
+			<premiere date='1797-05-08' location='Théâtre du Vaudeville'>Représentée pour la première fois au théâtre du VAUDEVILLE, le 19 floréal, an 5, (8 mai 1797, v. st.) </premiere>
+		</performance>
+
+	<castList><head>PERSONNAGES.</head>
+		<castItem><role id="ADÉLAÏDE" sex="2" type="H" statut="directeur" age="A" stat_amour=''>ADÉLAÏDE</role>, Directrice d'Opéra, Mde Trial.</castItem>
+		<castItem><role id="HIRADOT" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>HIRADOT</role>, oncle d'Adélaïde, M. Suin.</castItem>
+		<castItem><role id="RIGAUT" sex="1" type="H" statut="étudiant" age="J" stat_amour=''>RIGAUT</role>, étudiant en Droit, M. Trial.</castItem>
+		<castItem><role id="ISIDORE" sex="1" type="H" statut="bourgeois" age="J" stat_amour=''>ISIDORE</role>, ami de Rigaut, M. Narbonne.</castItem>
+		<castItem><role id="MONSIEUR JOURDAIN" sex="1" type="H" statut="bourgeois" age="A" stat_amour=''>MONSIEUR JOURDAIN</role>, oncle de Rigaut, M. Nainville.</castItem>
+		<castItem><role id="MONSIEUR MOUTON" sex="1" type="H" statut="professeur" age="A" stat_amour=''>MONSIEUR MOUTON</role>, Maître en Droit, M. la Ruette.</castItem>
+		<castItem><role id="UN SUISSE" sex="1" type="H" statut="suisse" age="A" stat_amour=''>UN SUISSE</role>, M. Gaillard.</castItem>
+		<castItem><role id="CHOEUR" sex="9" type="H" statut="artiste" age="A" stat_amour=''>Choeurs de Chanteurs, Chanteuses, Danseurs et Danseuses</role>.</castItem>
+		<castItem><role id="GARÇONS DE THÉÂTRE" sex="1" type="H" statut="employé" age="A" stat_amour=''>Plusieurs Garçons de Théâtre</role>.</castItem>
+	</castList>
+<set location="Reims" country="France" periode="XVIIIème" gps="49.258329, 4.031696">La Scène est à Reims en Champagne. Pendant les trois premières scènes le Théâtre est
+nue et dans la confusion, d'un spectacle naissant.</set>
+</front>
+<body>
+<div1 type="acte" n="1"><head>ACTE PREMIER.</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Adelaïde, Julie, Clarice.</head>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+<stage type="title">AIR : Madelon, qu'avez-vous donc ? </stage>
+	<l id="1">Votre air nous trouble et nous confond ; </l>
+	<l id="2">Qu'avez-vous ? qu'avez-vous qui vous gêne ? </l>
+	<l id="3">C'est peut-être un ennui profond,</l>
+	<l id="4">Peut-être un accès de migraine.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="5">Ah ! ah !</l>
+	<l id="6">Ce n'est pas cela</l>
+	<l id="7">Qui cause ma peine.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="8">Nous donnons Armide au plutôt :</l>
+	<l id="9">Vous craignez, tant la chance est traîtresse,</l>
+	<l id="10">Qu'on n'ait pas les yeux de Renaud</l>
+	<l id="11">Pour les appas de sa maîtresse.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="12">Ah ! ah !</l>
+	<l id="13">Ce n'est pas cela</l>
+	<l id="14">Qui fait ma détresse. </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="15">Vous n'éprouvez, Madame, aucun de ces obstacles</l>
+	<l id="16">Qu'on éprouve partout à lever des Spectacles ;</l>
+	<l id="17">Et je m'aperçois trop en assiégeant vos pas, </l>
+	<l id="18">Qu'un chagrin sans motif a pour vous des appas. </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="19" syll="2" part="i">Hélas !</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="19" syll="10" part="f">Tous les Rémois, dans leur ville embellie,</l>
+	<l id="20">Semblent nous accueillir avec empressement ;</l>
+	<l id="21">Chacun vous fait sa cour et croit en vous voyant,</l>
+	<l id="22">Voir Vénus, sous vos traits, recruter pour Thalie.</l>
+	<l id="23">De nos jeunes acteurs l'essaim se multiplie ;</l>
+	<l id="24">Chaque jour voit signer un tendre engagement,</l>
+	<l id="25">Et toujours la mélancolie....</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="26">N'en doute point, Clarice ; eh ! Qu'importe à mon coeur,</l>
+	<l id="27">Des amants Champenois le peuple adorateur,</l>
+	<l id="28">Ces conquêtes sans gloire et leur foule importune ?</l>
+	<l id="29">En faire mille est moins flatteur, </l>
+	<l id="30">Qu'il n'est cruel d'en manquer une.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="31">Quel homme impunément a pu voir tant d'attraits ? </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="32">Votre amitié m'oblige à trahir mes secrets.</l>
+<stage type="title">AIR : Nous avons une terrasse ; de la Fête du Château.</stage>
+	<l id="33">Mon coeur s'entend avec le vôtre,</l>
+	<l id="34">Et vous me prouvez,</l>
+	<l id="35">Combien vous l'éprouvez :</l>
+	<l id="36">Or, écoutez l'une et l'autre,</l>
+	<l id="37">Et taisez-vous, si vous pouvez.</l>
+	<l id="38">L'autre jour donc, passez-moi l'heure,</l>
+	<l id="39">Tranquille et seule en ma demeure,</l>
+	<l id="40">Je me parlais confidemment,</l>
+	<l id="41">Pensant à rien profondément ;</l>
+	<l id="42">Lorsqu'une voix qui m'enleva</l>
+	<l id="43">Jusqu'à moi soudain arriva. </l>
+<stage type="bis">Bis.</stage>
+	<l id="44">Le goût dictait ses sons intéressants</l>
+	<l id="45">Je les recueille, et mon âme est saisie ;</l>
+	<l id="46">Vers la maison d'où partaient ces accents,</l>
+	<l id="47">Mon oeil s'échappe entre la jalousie :</l>
+	<l id="48">Je vois sur la terrasse</l>
+	<l id="49">En face,</l>
+	<l id="50">Un jeune homme aimable et touchant :</l>
+	<l id="51">Son air modèle</l>
+	<l id="52">Trahit et de reste</l>
+	<l id="53">Un chagrin funeste :</l>
+	<l id="54">Son maintien l'atteste ;</l>
+	<l id="55">Car d'un beau geste,</l>
+	<l id="56">Qu'il pillait d'Oreste,</l>
+	<l id="57">Ce blondin céleste</l>
+	<l id="58">Accompagnait son chant.</l>
+<stage type="title">AIR : Je suis Lindor.</stage>
+	<l id="59">C'était sur l'air d'une chanson commune :</l>
+	<l id="60">« Oui, disait-il, j'eusse été Bachelier :</l>
+	<l id="61">On me refuse, et je dois l'oublier ; </l>
+	<l id="62">Un autre état convient à ma fortune. »</l>
+	<l id="63">En écoutant sa voix flexible et tendre,</l>
+	<l id="64">Mon coeur bientôt se sentit émouvoir ;</l>
+	<l id="65">Et je trouvai du plaisir à le voir,</l>
+	<l id="66">Quand je croyais n'en trouver qu'à l'entendre.</l>
+	<l id="67">Ah ! disais-je, qu'il a d'appas !</l>
+	<l id="68">Mais, non, peut-être il n'en a pas ;</l>
+	<l id="69">Mon oeil est abusé, j'en veux être certaine :</l>
+	<l id="70">Et j'ouvrais ma fenêtre, hélas !</l>
+	<l id="71">Quand le cruel ferma la sienne.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+<stage type="title">AIR : Tout roule aujourd'hui dans le monde.</stage>
+	<l id="72">Quel est-il ce héros, Madame,</l>
+	<l id="73">Dont les traits ont su vous charmer ?</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="74">J'ai, pour oser nourrir ma flamme,</l>
+	<l id="75">Commencé, par m'en informer.</l>
+	<l id="76">Ce Rigaut qu'un autre accompagne,</l>
+	<l id="77">Et qu'on arrête en son chemin,</l>
+	<l id="78">Depuis huit jours est en Champagne</l>
+	<l id="79">Pour apprendre le Droit Romain.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+<stage type="title">AIR : Non, je ne ferai pas.</stage>
+	<l id="80">Et pourquoi donc gémir ? Souffrez qu'on vous console :</l>
+	<l id="81">L'amour se glissera sur les bancs de l'école ;</l>
+	<l id="82">Paraissez : un regard suffit pour le dompter,</l>
+	<l id="83">Et fût-ce un Procureur, il ne peut résister.</l>
+	<l id="84">Je mets pourtant la chose au pis.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="85">Non. Rigaut est dans l'âge où sans effort on aime,</l>
+	<l id="86">Mais son indifférence extrême</l>
+	<l id="87">Tient encor ses sens assoupis.</l>
+	<l id="88">D'ailleurs, l'amour, dit-on, est pour lui peu de chose.</l>
+	<l id="89">Ce dehors apprêté dont la douceur impose,</l>
+	<l id="90">Cache un mortel fougueux, inquiet, agissant,</l>
+	<l id="91">Et si je suis bien informée</l>
+	<l id="92">C'est par ses soins déjà que la cabale armée</l>
+	<l id="93">Cherche à déconcerter notre Opéra naissant :</l>
+	<l id="94">Je fais pour le haïr un effort impuissant :</l>
+	<l id="95">Oui, soit que je me couche ou soit que je me lève,</l>
+	<l id="96">Je le vois : je le vois jusque dans mon sommeil ;</l>
+	<l id="97">Et, comme bien des gens, toujours heureuse en rêve,</l>
+	<l id="98">Je poursuis un bonheur qui fuit à mon réveil.</l>
+<stage type="title">AIR: J'ai rêvé toute la nuit.</stage>
+	<l id="99">J'ai rêvé toute la nuit</l>
+	<l id="100">Qu'ici par l'amour conduit,</l>
+	<l id="101">Il cherchait à débuter</l>
+	<l id="102">Et je le faisais,</l>
+	<l id="103">Et je le faisais,</l>
+	<l id="104">Il cherchait à débuter</l>
+	<l id="105">Et je le faisais chanter.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="106" syll="3" part="i">Mais, Madame... </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="106" syll="9" part="f">Il suffit, n'en prenez pas la peine,</l>
+	<l id="107">Vous m'allez consoler pour allonger la scène ;</l>
+	<l id="108">M'en croirez-vous ? Abrégeons-la d'un mot.</l>
+	<l id="109">J'aperçois mon oncle Hiradot :</l>
+	<l id="110">Dissimulons mes feux, cachons à sa vieillesse</l>
+	<l id="111">Mon amour naissant pour Rigaut,</l>
+	<l id="112">Et les erreurs de ma jeunesse.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Les précédents, Hiradot, une affiche à la main.</head>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+<stage type="title">AIR : Jardinier, ne vois-tu pas ?</stage>
+	<l id="113">L'annonce que je tiens là</l>
+	<l id="114">Peut-elle être plus riche ?</l>
+	<l id="115">C'est pour dimanche, et déjà</l>
+	<l id="116">Dans tous les coins, l'Opéra</l>
+	<l id="117">S'affiche, s'affiche, s'affiche. </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="118">Le choix d'Armide, enfin, plaît-il en ce moment ?</l>
+	<l id="119" syll="4" part="i">Lit-on l'Annonce ? </l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="119" syll="4" part="f">Assurément.</l>
+	<l id="120">Déjà même on s'échauffe et la dispute est vive ;</l>
+	<l id="121">Chacun disserte : on s'invective,</l>
+	<l id="122">On veut avoir un sentiment.</l>
+<stage type="title">AIR : Tous les Bourgeois de Chartres.</stage>
+	<l id="123">Tous les bourgeois par clique,</l>
+	<l id="124">Raisonneurs, beaux esprits,</l>
+	<l id="125">Chacun à leur musique</l>
+	<l id="126">Ont adjugé le prix.</l>
+	<l id="127">Les vieux pensent qu'Armide était plus redoutable :</l>
+	<l id="128">Les jeunes gens, du neuf épris,</l>
+	<l id="129">Disent que les airs qu'elle a pris</l>
+	<l id="130">La rendent plus aimable.</l>
+	<l id="131">Enfin d'oisifs ici tous les cafés sont pleins ;</l>
+	<l id="132">Le luxe règne à Reims comme à la_Capitale ;</l>
+	<l id="133">À fêter l'Opéra les Rémois sont enclins,</l>
+	<l id="134">C'est le temps d'étaler son chant et sa morale,</l>
+	<l id="135">Vous l'avez bien saisi.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : De tous les Capucins du monde.</stage>
+	<l id="136">Oui ; mais je voudrais de rencontre</l>
+	<l id="137">Enrôler une haute-contre,</l>
+	<l id="138">Qui fit entendre en criant haut,</l>
+	<l id="139">À des Auteurs tels que les nôtres,</l>
+	<l id="140">Les beaux Opéra de Quinault,</l>
+	<l id="141">Plus beaux depuis qu'ils en font d'autres.</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="142">Bon ! Qu'importe cela ?</l>
+	<l id="143">Ne vous chagrinez pas sur cet article-là.</l>
+	<l id="144">Attendu le grand bruit qu'un orchestre doit faire,</l>
+	<l id="145">Le volume des voix n'est pas fort nécessaire.</l>
+	<l id="146">Le Public étourdi par l'accompagnement,</l>
+	<l id="147">Sourd aux cris du chanteur, n'entend que l'instrument :</l>
+	<l id="148">S'agit-il d'un combat ? La timbale bruyante,</l>
+	<l id="149">À frapper un coup sur aide une main tremblante;</l>
+	<l id="150">Le Héros n'est-il plus ? Un lugubre basson</l>
+	<l id="151">Sait faire autour de lui pleurer à l'unisson :</l>
+	<l id="152">Avec une bergère est-ce l'amour qui lutte ?</l>
+	<l id="153">Le plaisir modulé découle de la flûte,</l>
+	<l id="154">Tandis qu'un violon, rival du flageolet, </l>
+	<l id="155">Remonte, à sons aigus, jusques au chevalet.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="156">Allez, quoiqu'il en soit, ces raisons sont frivoles,</l>
+	<l id="157">Il faut que la musique, esclave des paroles,</l>
+	<l id="158">Dans l'oreille attentive entrant avec les vers,</l>
+	<l id="159">Partage ici les droits qu'elle a seule aux Concerts.</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="160">Avons-nous pour guider et le chant et la danse,</l>
+	<l id="161">La main, je dis la main, d'un artiste éminent</l>
+	<l id="162">Qui de droite et de gauche allant et revenant</l>
+	<l id="163">Frappe sur un pupitre et dicte la cadence ?</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : Vaudeville des Chasseurs et de la Laitière.</stage>
+	<l id="164">Non, non,mon oncle, je vous jure,</l>
+	<l id="165">Arrivera</l>
+	<l id="166">Ce qui pourra ;</l>
+	<l id="167">Sans qu'on nous marque la mesure,</l>
+	<l id="168">Nous jouerons ici l'Opéra :</l>
+	<l id="169">Ce moyen n'est rien moins qu'auguste :</l>
+	<l id="170">Faut-il donc pour garder le ton,</l>
+	<l id="171">Que ce soit à coups de bâton</l>
+	<l id="172">Qu'une Déesse chante juste ? </l>
+<stage type="bis">Bis.</stage>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="173">Passe pour le bâton, mais ce n'est pas là tout,</l>
+	<l id="174">Le dessein de la toile est-il fait avec goût ?</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : Olire, Olire.</stage>
+	<l id="175">Lauriers par-ci, par-là ; </l>
+<stage type="bis">Bis.</stage>
+	<l id="176">On y voit une Lyre,</l>
+	<l id="177">Ô Lyre , Ô Lyre !</l>
+	<l id="178">On y voit une Lyre, </l>
+	<l id="179">Ô Lyre !</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="180">Holà.</l>
+	<l id="181">Tout ceci me paraît d'un assez bon augure,</l>
+	<l id="182">Et malgré mon congé signé par la nature,</l>
+	<l id="183">Chez vous, n'étant plus propre à l'emploi des amants,</l>
+	<l id="184">Je ferai les Sorciers ou du moins les tyrans.</l>
+<stage type="title">AIR : Valet chez une Fermière.</stage>
+	<l id="185">J'avais une basse taille</l>
+	<l id="186">Qui faisait beaucoup d'effet,</l>
+	<l id="187">Et, Et, Et, Et, Et ;</l>
+	<l id="188">Mais quand longtemps on criaille,</l>
+	<l id="189">Et qu'à tout moment on braille</l>
+	<l id="190">Pour passer à certain trait ;</l>
+	<l id="191">Il faut que la voix s'en aille</l>
+	<l id="192">Et qu'il reste un jeu muet.</l>
+	<l id="193">Quant à vous qui joignez la voix à la finesse,</l>
+	<l id="194">Spectacle à part, il faut songer à vous,</l>
+	<l id="195">Et franchement, vous auriez tout, ma nièce,</l>
+	<l id="196">S'il ne vous manquait un époux.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : De la double Octave.</stage>
+	<l id="197">Ah ! Du moins faudrait-il, si je donnais ma main,</l>
+	<l id="198">Si quelqu'un forçait cet obstacle</l>
+	<l id="199">Que ce fût un acteur divin,</l>
+	<l id="200">Dont le gosier léger fit briller mon spectacle :</l>
+	<l id="201">Qu'un chanteur mieux que ce Rigaut,</l>
+	<l id="202">Me fasse en plein la double octave,</l>
+	<l id="203">Et dans ses fers chéris, en volontaire esclave,</l>
+	<l id="204">Votre nièce s'engage et l'épouse aussitôt.</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="205">Ce Rigaut pourrait-il ?... Tous nos acteurs s'avancent</l>
+	<l id="206">Ils viennent aujourd'hui s'exercer sous nos yeux,</l>
+	<l id="207">Mais en attendant qu'ils commencent,</l>
+	<l id="208">Je veux par mes avis, en vétéran fameux...</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Les précédents, tous les Acteurs et toutes les Actrices entrent.</head>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="209">Allons, courage, amis. Les Rémois curieux</l>
+	<l id="210">Témoignent aujourd'hui leur juste impatience :</l>
+	<l id="211">Tout nous promet que nos efforts heureux</l>
+	<l id="212">Mériteront leur indulgence.</l>
+	<l id="213">Pour plaire à ce Public prêt à vous couronner,</l>
+	<l id="214">Profitez des conseils que je vais vous donner.</l>
+<stage type="title">AIR : Vaudeville de la Rosière.</stage>
+	<l id="215">Acteurs en chef, sans nul remord</l>
+<note type="L">Polymnie : Muse de la Rhétorique et de l'éloquence.</note>
+	<l id="216">Bravez les lois de Polymnie ;</l>
+	<l id="217">Le goût sans doute a toujours tort,</l>
+	<l id="218">Puisque le goût défend qu'on crie :</l>
+	<l id="219">Voici le mot : songez-y bien ;</l>
+	<l id="220">Crier est tout, chanter n'est rien.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="221">Voici le mot ; songeons-y bien ;</l>
+	<l id="222">Crier est tout, chanter n'est rien.</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="223">Que toujours à ressorts montés,</l>
+	<l id="224">Votre marche soit symétrique ;</l>
+	<l id="225">Votre colère à pas comptés,</l>
+	<l id="226">Votre désespoir méthodique;</l>
+	<l id="227">Gesticulez ou mal, ou bien ;</l>
+	<l id="228">Le geste ici n'entre pour rien.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="229">Gesticulons, ou mal, ou bien,</l>
+	<l id="230">Le geste ici n'entre pour rien.</l>
+</sp>
+<sp stage="toward" who="HIRADOT"><speaker>HIRADOT au Choeur.</speaker>
+	<l id="231">Pour vous, vos rôles sont aisés ;</l>
+	<l id="232">Adossez-vous à la coulisse,</l>
+	<l id="233">Et répétez, les bras croisés,</l>
+	<l id="234">Ce qu'a dit l'acteur ou l'actrice ;</l>
+	<l id="235">Qu'on chante mal, qu'on chante bien,</l>
+	<l id="236">Quand c'est en choeur, on n'entend rien.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="237">Qu'on chante mal, qu'on chante bien,</l>
+	<l id="238">Quand c'est en choeur, on n'entend rien.</l>
+</sp>
+<sp stage="toward" who="HIRADOT"><speaker>HIRADOT, aux Danseuses.</speaker>
+	<l id="239">Et vous, Mesdames, n'allez pas</l>
+<note type="L">Terpsichore : Muse de la Danse.</note>
+	<l id="240">Suivre exactement Terpsichore.</l>
+	<l id="241">Entre nous, croyez qu'un faux pas</l>
+	<l id="242">À vos talents ajoute encore :</l>
+	<l id="243">Que Vénus danse ou mal, ou bien,</l>
+	<l id="244">Vénus est belle, on ne dit rien.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="245">Que Vénus danse ou mal, ou bien,</l>
+	<l id="246">Vénus est belle, on ne dit rien.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : Et ça fait toujours plaisir.</stage>
+	<l id="247">Je compte aussi sur leur zèle, </l>
+	<l id="248">Notre succès est certain ;</l>
+	<l id="249">Quand une troupe est nouvelle,</l>
+	<l id="250">Le Spectateur est en train.</l>
+	<l id="251">Une étoffe est toujours belle </l>
+	<l id="252">Au sortir du magasin.</l>
+	<l id="253">Qu'un spectacle magnifique</l>
+	<l id="254">Charme un public incertain.</l>
+	<l id="255">Nous attirons la pratique</l>
+	<l id="256">Ainsi qu'un marchand malin ;</l>
+	<l id="257">Il faut parer la boutique</l>
+	<l id="258">Pour vider le magasin.</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="259">Amours froids, et pauvres Diables,</l>
+	<l id="260">Zéphir lourd, Triton badin,</l>
+	<l id="261">Plaisirs courts, Heures durables,</l>
+	<l id="262">Très subalterne destin,</l>
+	<l id="263">Et planètes habitables, </l>
+	<l id="264">Tout se trouve au magasin.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="265">Nous avons bien d'autres choses</l>
+	<l id="266">Qu'on fait et défait soudain</l>
+	<l id="267">Autre part les fleurs écloses</l>
+	<l id="268">Meurent du soir au matin ;</l>
+	<l id="269">Mais chez nous on voit les roses</l>
+	<l id="270">Rajeunir au magasin.</l>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Les précédents, Un Suisse, avec un tronçon de hallebarde à la main et dans le désordre d'un homme qui vient d'être, battu.</head>
+<sp who="LE SUISSE"><speaker>LE SUISSE.</speaker>
+<stage type="title">AIR : Du Noël Suisse.</stage>
+	<l id="271">Li Tiaple m'emporte</l>
+	<l id="272">Si reste à ton porte ;</l>
+	<l id="273">Montame, entrera</l>
+	<l id="274">Désormais qui foudra ;</l>
+	<l id="275">Moi n'afoir pu tenir contre in Pourchois mutin</l>
+	<l id="276">Qui repoussir tout seul mon pique avec son main;</l>
+</sp>
+<sp stage="frighten" who="TOUS LES ACTEURS"><speaker>TOUS LES ACTEURS, l'un après l'autre, avec un geste d'effroi.</speaker>
+	<l id="277">Seul, est-il possible !</l>
+</sp>
+<sp who="LE SUISSE"><speaker>LE SUISSE.</speaker>
+	<l id="278">Li être trop terrible.</l>
+	<l id="279">Li Tiaple m'emporte, etc.</l>
+	<l id="280">Or sti champion plus fort que quatre,</l>
+	<l id="281">Quand li m'allongir coup sur coup,</l>
+	<l id="282">Tir « moi fouloir entrer ou moi fouloir te battre,</l>
+	<l id="283">Car de la Tirectrice être foisin beaucoup ». </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="284" syll="4" part="i">Ciel ! C'est Rigaut ! </l>
+<stage type="aparte">À part.</stage>
+	<l id="284" syll="4" part="f">Celui que j'aime !</l>
+</sp>
+<sp who="LE SUISSE"><speaker>LE SUISSE.</speaker>
+	<l id="285">Li être là son nom : c'est lui-même.</l>
+</sp>
+<sp stage="strong" who="HIRADOT"><speaker>HIRADOT, impétueusement.</speaker>
+	<l id="286">Il est ici ? Courez. Avant qu'il soit dehors,</l>
+	<l id="287">Qu'on le cherche à l'instant dans tous les corridors.</l>
+<stage type="title">AIR : Sous le nom de l'Amitié.</stage>
+	<l id="288">Poursuivez ce Monsieur-là,</l>
+	<l id="289">Chers amis, qu'on le prenne, </l>
+<stage type="bis">Bis.</stage>
+	<l id="290">Poursuivez ce Monsieur-là ;</l>
+	<l id="291">Désormais qu'il apprenne</l>
+	<l id="292">Si l'on force à l'Opéra : </l>
+	<l id="293">Poursuivez, poursuivez, poursuivez ce Monsieur-là.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="294">Poursuivons, poursuivons, poursuivons ce Monsieur-là.</l>
+<stage type="exit">Les acteurs sortent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Adelaïde, Hiradot, les actrices précédentes.</head>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="295">Le suivre ! Dans nos jeux, ah ! plutôt l'engager,</l>
+	<l id="296">Le résoudre à les partager </l>
+	<l id="297">Unir à nos talents sa voix enchanteresse !</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="298" syll="6" part="i">Comment ! C'est donc celui...</l>
+</sp>
+<sp stage="enthousiasm" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, avec passion</speaker>
+	<l id="298" syll="6" part="f">Celui qui m'intéresse ;</l>
+	<l id="299" syll="3" part="i">Dont le chant...</l>
+</sp>
+<sp stage="run/location" who="HIRADOT"><speaker>HIRADOT, courant à la coulisse.</speaker>
+	<l id="299" syll="9" part="f">Qu'il soit libre. Arrêtez en ce cas, </l>
+	<l id="300" syll="6" part="i">Arrêtez, chers amis....</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="300" syll="6" part="f">Hé non ! Leur maladresse</l>
+	<l id="301">Propice à nos desseins, va servir ma tendresse ;</l>
+	<l id="302">Car Rigaut dont on suit les pas,</l>
+	<l id="303">Autour d'eux tournera sans cesse,</l>
+	<l id="304">Et leurs yeux complaisants ne l'apercevront pas.</l>
+	<l id="305">Mais un soin différent nous presse :</l>
+	<l id="306">Il faut contre ses sens armer l'illusion,</l>
+	<l id="307">D'un spectacle magique embellir cet asile,</l>
+	<l id="308">Et subjuguer ici son courage indocile,</l>
+	<l id="309">Par les charmes unis de la séduction.</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="310">La chose à l'Opéra paraîtra difficile :</l>
+	<l id="311">Mais le projet pourtant peut être exécuté ;</l>
+	<l id="312">De ces murs dépouillés et tristes,</l>
+	<l id="313">Par un aspect riant masquons la nudité :</l>
+	<l id="314">Cessez, affreux chaos. Paraissez, Machinistes ;</l>
+	<l id="315">Presto, faites éclore un pays enchanté.</l>
+<stage type="title">AIR : Vaudeville du Maréchal.</stage>
+	<l id="316">Allons qu'on décore à rinçant ;</l>
+	<l id="317">C'est le point le plus important.</l>
+	<l id="318">Que l'art du Peintre nous acquitte</l>
+	<l id="319">Au spectateur offrons ses soins ;</l>
+	<l id="320">Satisfaisons les yeux au moins,</l>
+	<l id="321">Et du reste on nous tiendra quitte ;</l>
+	<l id="322">Tôt, tôt, tôt,</l>
+	<l id="323">Courez tôt,</l>
+	<l id="324">Montez, tôt,</l>
+	<l id="325">Bon courage !</l>
+	<l id="326">Nos succès seront votre ouvrage.</l>
+	<l id="327">Arbres, accourez à ma voix,</l>
+	<l id="328">Prendre racine dans du bois ;</l>
+	<l id="329">Et que derrière chaque vase,</l>
+	<l id="330">L'invisible bras d'un Triton,</l>
+	<l id="331">Dans ces grands bassins de carton,</l>
+	<l id="332">Fasse jaillir des flots de gaze ; </l>
+	<l id="333">Tôt, tôt, tôt,</l>
+	<l id="334">Courez tôt,</l>
+	<l id="335">Montez tôt ;</l>
+	<l id="336">Bon courage !</l>
+	<l id="337">Nos succès seront votre ouvrage. </l>
+</sp>
+<sp stage="toward" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, au Décorateur.</speaker>
+	<l id="338">Si le Peintre a fini les cieux,</l>
+	<l id="339">Qu'on les arrange sous nos yeux ; </l>
+	<l id="340">Numérotez tous les nuages, </l>
+	<l id="341">Économisez les éclairs ; </l>
+	<l id="342">Et quand mon char fendra les airs</l>
+	<l id="343">N'allez pas lâcher les cordages : </l>
+	<l id="344">Tôt, tôt, tôt,</l>
+	<l id="345">Courez tôt,</l>
+	<l id="346">Montez tôt,</l>
+	<l id="347">Bon courage !</l>
+	<l id="348">Nos succès feront votre ouvrage. </l>
+<stage type="decor">Le Théâtre change par degrés aux ordres d'Hiradot. La décoration représente des jardins enchantés embellis de statues et de cascades, comme le séjour aérien du troisième acte de la Belle Arsene.</stage>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="349">Ah miracle ! Le fond est d'un goût que j'approuve ;</l>
+	<l id="350">Ce ciel est d'un beau bleu, ces bois sont d'un beau vert ;</l>
+	<l id="351">Surtout préparez le désert : </l>
+	<l id="352">La scène, à l'Opéra de temps en temps s'y trouve. </l>
+</sp>
+<sp stage="toward" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, aux Danseuses.</speaker>
+	<l id="353">Vous, ajoutez encore à ce prestige heureux : </l>
+	<l id="354">Costumez-vous et que l'or brille,</l>
+	<l id="355">Zéphirs, Démons, que tout s'habille ;</l>
+	<l id="356">Enchaînons son esprit en amusant ces yeux.</l>
+<stage type="entrance">Rigaut paraît dans le fond du Théâtre.</stage>
+	<l id="357">Quelqu'un paraît : c'est lui, je gage : </l>
+	<l id="358">C'est lui-même en effet. Dans le piège il s'engage ;</l>
+	<l id="359">Cachons nous. Qu'un moment il soit seul en ces lieux.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Rigaut, Isidore.</head>
+<sp who="ISIDORE"><speaker>ISIDORE.</speaker>
+<stage type="title">AIR : C'est une excuse. </stage>
+	<l id="360">Vous voilà deux torts, Dieu merci,</l>
+	<l id="361">L'un à l'école et l'autre ici,</l>
+	<l id="362">Ce n'est guère être sage:</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="363">Mon ascendant me fait la loi :</l>
+	<l id="364">Ce fut toujours mon faible à moi</l>
+	<l id="365">Que le courage. </l>
+</sp>
+<sp who="ISIDORE"><speaker>ISIDORE.</speaker>
+<stage type="title">AIR : De Monsieur de Catinat.</stage>
+	<l id="366">Oui, tout_à_l_heure encor je m'en suis aperçu.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="367">Dans ce combat enfin mon bras m'a-t-il déçu ? </l>
+</sp>
+<sp who="ISIDORE"><speaker>ISIDORE.</speaker>
+	<l id="368">D'accord : mais chaque fois le Suisse, à votre insu, </l>
+	<l id="369">Me redonnait le coup dès qu'il l'avait reçu.</l>
+	<l id="370">Quoi qu'il en soit, domptez ce fougueux caractère, </l>
+	<l id="371">Trop de vivacité ne vous réussit guère.</l>
+	<l id="372">Moi, je suis pacifique et tant_mieux ; car enfin</l>
+	<l id="373">Vous êtes Maître-ès-Arts, même un peu libertin :</l>
+	<l id="374">Vous savez à ravir, jouer la Comédie, </l>
+	<l id="375">Vous lisez couramment Cicéron en latin,</l>
+	<l id="376">Et pourtant on vous congédie.</l>
+	<l id="377">En Droit comme en amour, moi, je suis écolier ;</l>
+	<l id="378">Je ne saurai jamais jouer dans un Proverbe ;</l>
+	<l id="379">C'est tout au plus, je crois, si je conjugue un verbe...</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="380">Aussi vous voilà bachelier : </l>
+	<l id="381">Mais moi chez l'Agrégé, je fais ce qui m'arrête ;</l>
+	<l id="382">Mon oncle lui promit du muscat de son cru : </l>
+	<l id="383">Ce vin est arrivé. Devinez. Je l'ai bu ; </l>
+	<l id="384">Et ce vin, que j'ai bu, lui fait tourner la tête.</l>
+	<l id="385">Il me poursuit dans Reims, et pour mieux le tromper, </l>
+	<l id="386">Je me mets prudemment à l'ombre des coulisses.</l>
+	<l id="387">Dans cet asile-ci, je suis sûr d'échapper ; </l>
+	<l id="388">Viendra-t-il me chercher au milieu des actrices ? </l>
+</sp>
+<sp who="ISIDORE"><speaker>ISIDORE.</speaker>
+<stage type="title">AIR : Un Chanoine de l'Auxerrois.</stage>
+	<l id="389">Supposé que le Maître</l>
+	<l id="390">En Droit</l>
+	<l id="391">N'osât paraître,</l>
+	<l id="392">En cet endroit,</l>
+	<l id="393">Quel danger est le vôtre ! </l>
+	<l id="394">Craignons qu'un bien plus grand docteur,</l>
+	<l id="395">L'oeil sous son bandeau séducteur,</l>
+	<l id="396">N'en offusque le nôtre :</l>
+	<l id="397">Oui, quoique habile en sa façon,</l>
+	<l id="398">Ce maître en donnant la leçon,</l>
+	<l id="399">Et, zon, zon, zon, </l>
+	<l id="400">Gâte la raison,</l>
+	<l id="401">Tout aussi_bien qu'un autre.</l>
+	<l id="402">Votre démarche enfin me paraît hasardée : </l>
+	<l id="403">Les yeux d'Adélaïde ont un si grand pouvoir !</l>
+	<l id="404" syll="4" part="i">Quand on la voit...</l>
+</sp>
+<sp stage="quiet" who="RIGAUT"><speaker>RIGAUT, avec indifférence.</speaker>
+	<l id="404" syll="4" part="f">J'ai pu la voir ; </l>
+	<l id="405">Mais je ne l'ai pas regardée.</l>
+</sp>
+<sp who="ISIDORE"><speaker>ISIDORE.</speaker>
+<stage type="title">AIR : De la ceinture.</stage>
+	<l id="406">Vous êtes jeune, et vous chantez,</l>
+	<l id="407">Double raison ici pour plaire ; </l>
+	<l id="408">L'une de ces deux qualités,</l>
+	<l id="409">Peut vous y rendre nécessaire.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="410">Non, non, ne craignez rien, je serai spectateur.</l>
+	<l id="411">Dans ces lieux à l'instant, puisqu'on répète Armide,</l>
+	<l id="412">Sur son mérite, il faut que je décide,</l>
+	<l id="413">Et je vais critiquer à titre d'amateur.</l>
+<stage type="low">Avec un air de confidence.</stage>
+	<l id="414">C'est moi qui des Journaux fomentant les querelles,</l>
+	<l id="415">Des musiques du temps juge tort étranger,</l>
+	<l id="416">Dans de petits pamphlets au bon goût infidèles,</l>
+	<l id="417">Donne, injuste Paris, la pomme à l'une d'elles,</l>
+	<l id="418">Tandis qu'en trois peut-être on peut la partager. </l>
+</sp>
+<sp who="ISIDORE"><speaker>ISIDORE.</speaker>
+	<l id="419">Restez-y donc tout seul ; attendez qu'on répète :</l>
+	<l id="420">Mais pour moi que tout inquiète,</l>
+<stage type="title">AIR : Landeriri.</stage>
+	<l id="421">Par cet escalier que voici</l>
+	<l id="422">Conduisez-moi, mon cher ami,</l>
+	<l id="423">Lon lan la derirete ;</l>
+	<l id="424">Car je crains de me perdre ici,</l>
+	<l id="425">Lon lan la deriri.</l>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII.</head>
+<sp stage="alone/watch/decor" who="RIGAUT"><speaker>RIGAUT, seul, considérant la décoration.</speaker>
+<stage type="title">AIR : de la Bequille.</stage>
+	<l id="426">Plus j'observe ces lieux,</l>
+	<l id="427">Et plus je les admire :</l>
+	<l id="428">Quel art ingénieux !</l>
+	<l id="429">La toile ici respire :</l>
+	<l id="430">Tout concourt à séduire</l>
+	<l id="431">Dans cet endroit charmant,</l>
+	<l id="432">Où le jour ne peut luire</l>
+	<l id="433">Que la nuit seulement.</l>
+<stage type="watch">Apercevant un recueil d'Opéra.</stage>
+<stage type="title">AIR : Monsieur le Prévôt des Marchands.</stage>
+	<l id="434">Un recueil d'Opéra ! Lisons :</l>
+	<l id="435">Toujours couchés sur des gazons,</l>
+	<l id="436">Héros, qu'au Théâtre on nous donne</l>
+	<l id="437">Vous reposez à qui mieux mieux :</l>
+	<l id="438">Allez, l'Amour vous le pardonne</l>
+	<l id="439">Et le Public ferme les  yeux.</l>
+	<l id="440">Oui toujours de l'acteur à ce théâtre-ci,</l>
+	<l id="441">Par ses propres chansons la langueur est bercée :</l>
+	<l id="442">C'est Atis... C'est Roland... C'est Titon... C'est Persée,</l>
+	<l id="443">C'est l'aimable Renaud... et c'est moi-même aussi.</l>
+<stage type="sleep/danse">Il s'endort. On danse autour de lui. Plusieurs Danseuses
+le couronnent de fleurs et l'entourent de guirlandes. L'Orchestre joue l'air : Dodo, l'enfant do.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Les mêmes, Adelaïde.</head>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : Ah ! mon cher ami, que j't'aime.</stage>
+	<l id="444">Enfin on le tient,</l>
+	<l id="445">Rigaut m'appartient,</l>
+	<l id="446">Le sommeil l'offre à ma rage. </l>
+	<l id="447">Écoutons-là...</l>
+	<l id="448">Pinçons-le là...</l>
+	<l id="449">Courage !</l>
+	<l id="450">Mais Dieux, quels traits!</l>
+	<l id="451">Qu'il a d'attraits !</l>
+	<l id="452">De grâce...</l>
+	<l id="453">Je m'attendris... Ah ! </l>
+	<l id="454">Ma fureur s'en va, </l>
+	<l id="455">L'amour se glisse à la place.</l>
+	<l id="456">Une Reine autrefois, au milieu de sa Cour,</l>
+	<l id="457">Honora d'un baiser la science endormie :</l>
+	<l id="458">Les palmes : les lauriers sont les prix du génie ; </l>
+	<l id="459">Restituons ce baiser à l'Amour.</l>
+<stage type="title">AIR : Un moment, on m'attend; du Roi et le Fermier.</stage>
+	<l id="460">Un baiser ! Doucement : </l>
+	<l id="461">Agissons décemment : </l>
+	<l id="462">L'usage veut qu'on soit moins tendre</l>
+	<l id="463">Près d'un amant</l>
+	<l id="464">Fait récemment ; </l>
+	<l id="465">N'allons pas trop innocemment,</l>
+	<l id="466">Lui donner ce qu'il doit me prendre.</l>
+<stage type="title">AIR : Que n'aviez-vous, coeur insensibles.</stage>
+	<l id="467">Dors, mort enfant, clos ta paupière,</l>
+	<l id="468">Surtout songe à rêver de moi : </l>
+	<l id="469">Tu le dois à la nuit dernière,</l>
+	<l id="470">Où je revois si bien de toi.</l>
+<stage type="title">AIR : de la Magnotte,</stage>
+	<l id="471">Accourez, messieurs les Zéphirs,</l>
+	<l id="472">Habillés pour Armide ;</l>
+	<l id="473">Volez, secondez les désirs</l>
+	<l id="474">D'une amante timide :</l>
+	<l id="475">Suivez mes lois ;</l>
+<stage type="bis">bis.</stage>
+	<l id="476">Je crains qu'il ne déloge,</l>
+	<l id="477">En tapinois </l>
+<stage type="bis">bis.</stage>
+	<l id="478">Qu'on l'emporte à ma loge.</l>
+<stage type="exit/together">Quatre Danseurs habillés en Zéphirs emportent Rigaut.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX. Les précédentes, Adélaïde.</head>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+<stage type="title">AIR : Comme un oiseau.</stage>
+	<l id="479">Un repos si long, je vous jure</l>
+	<l id="480">Me semble d'un fâcheux, augure, </l>
+	<l id="481">Ah ! Croyez m'en :</l>
+	<l id="482">Souffrez que le Droit se l'adjuge</l>
+	<l id="483">Ce sommeil-là, promet un juge</l>
+	<l id="484">Plus qu'un amant. </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="485">Tout ceci néanmoins nous met dans l'embarras : </l>
+	<l id="486">La répétition trop longtemps se diffère ;</l>
+	<l id="487">Ainsi que vous, Madame, on a plus d'une affaire,</l>
+	<l id="488">Et tout le monde ne dort pas. </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="489">Écoutez-moi : différer de la sorte,</l>
+	<l id="490">Pour notre bien commun, c'est agir à propos : </l>
+	<l id="491">Dans ce rôle éclatant, vous tentez qu'il importe</l>
+	<l id="492">De choisir un acteur taillé pour un héros</l>
+	<l id="493">Nous en avons bien un préparé pour Armide ;</l>
+	<l id="494">Mais on n'ose avec lui compter sur un succès : </l>
+	<l id="495">Lui-même ici, tout l'intimide : </l>
+	<l id="496">Peut-il chanter en France ? Il a le goût Français. </l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="497">Un autre obstacle nous arrête : </l>
+	<l id="498">Nous attendions pour répéter ; </l>
+	<l id="499">Le rôle de Renaud (daignât-il l'accepter)</l>
+	<l id="500">Pourrait-il tout_d_un_coup se loger dans sa tête ? </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="501">Vous raisonnez fort sagement ; </l>
+	<l id="502">Quand on n'a pas d'amour, on a du jugement :</l>
+	<l id="503">Mais moi qui l'aime ... et qui ? Moi, j'aimerais un traître ?</l>
+	<l id="504">Qui fut mon ennemi, qui l'est encor, peut-être ? </l>
+	<l id="505">Non, je dois le haïr : je le hais. Quel tourment !</l>
+	<l id="506">Que ne puis-je appeler la Haine ?</l>
+	<l id="507">La Haine à nos accents ne se fait pas prier ;</l>
+	<l id="508">Mais après tout, est-ce la peine</l>
+	<l id="509">Pour aussitôt la renvoyer ? </l>
+	<l id="510">Du moins en m'en parlant, encouragez la mienne.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+<stage type="title">AIR : Des billets doux.</stage>
+	<l id="511">L'Hymen est si capricieux,</l>
+	<l id="512">Que mon coeur n'est pas curieux</l>
+	<l id="513">De connaître sa chaîne : </l>
+	<l id="514">Car on le voit dans un seul jour,</l>
+	<l id="515">Le matin, frère de l'Amour</l>
+	<l id="516">Et le soir, de la Haine.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="517">Dès qu'on n'a pas de quoi payer,</l>
+	<l id="518">On voudrait fuir un créancier,</l>
+	<l id="519">Quand l'Aurore l'amène :</l>
+	<l id="520">Mais au coup qu'il frappe à moitié,</l>
+	<l id="521">On croit entendre l'Amitié,</l>
+	<l id="522">Et l'on ouvre à la Haine.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="523">Lorsqu'en tête_à_tête on a vu</l>
+	<l id="524">Une belle-mère et sa bru,</l>
+	<l id="525">Que le hasard enchaîne ;</l>
+	<l id="526">Sans calculer avec ses doigts,</l>
+	<l id="527">On peut jurer qu'elles sont trois,</l>
+	<l id="528">En y comptant la Haine.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="529" syll="6" part="i">Hé bien, nos chants, Madame ? </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="529" syll="2" part="f">Au mieux !</l>
+	<l id="530">Mais rien encor n'éteint les feux</l>
+	<l id="531">De mon ardeur jalouse : </l>
+	<l id="532">Oui, l'Amour m'attache à mon choix;</l>
+	<l id="533">Pour cesser de l'aimer, je crois,</l>
+	<l id="534">Il faut que je l'épouse.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="acte" n="2"><head>ACTE II</head>
+<div2 type="scene" n="1"><head>SCÈNE PREMIÈRE. Monsieur Jourdain, Monsieur Mouton, Garçons de Théâtre qui se précipitent au devant d'eux pour les empêcher d'entrer.</head>
+<sp who="UN GARÇON DE THÉÂTRE"><speaker>UN GARÇON DE THÉÂTRE.</speaker>
+	<l id="535" syll="6" part="i">On n'entre pas, Messieurs.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="535" syll="2" part="f">Comment !</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="536">Nous n'y resterons qu'un moment.</l>
+</sp>
+<sp who="UN GARÇON DE THÉÂTRE"><speaker>UN GARÇON DE THÉÂTRE.</speaker>
+<stage type="title">AIR : Des Folies d'Espagne.</stage>
+	<l id="537">Désobéir nous nuit et nous expose ;</l>
+	<l id="538">L'ordre est précis, et Monsieur m'entend bien.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="539">J'entends, je crois : donnons-leur quelque chose ; </l>
+	<l id="540">Car en ces lieux rien ne se voit pour rien.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="541" syll="5" part="i">Tenez, laissez-nous.</l>
+</sp>
+<sp who="UN GARÇON DE THÉÂTRE"><speaker>UN GARÇON DE THÉÂTRE.</speaker>
+	<l id="541" syll="3" part="f">Grand merci.</l>
+</sp>
+</div2>
+<div2 type="scene" n="2"><head>SCÈNE II. Monsieur Jourdain, Monsieur Mouton.</head>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN. </speaker>
+	<l id="542" syll="6" part="i">Vous croyez que Rigaut...</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="542" syll="6" part="f">Je crois qu'il est ici.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="543">Vous m'étonnez, sur ma parole : </l>
+	<l id="544">Il s'est enfui depuis huit jours !</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="545">Il a de sa Licence interrompu le cours ;</l>
+	<l id="546">Je l'ai même obligé de sortir de l'école.</l>
+	<l id="547">Ni jugement, ni facultés ;</l>
+	<l id="548">Querelleur, nonchalant, coeur lâche, esprit timide,</l>
+	<l id="549">Incapable d'un goût solide,</l>
+	<l id="550">Profond dans les futilités,</l>
+	<l id="551" syll="4" part="i">Petit sujet.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="551" syll="8" part="f">Fût-il, cent fois plus imbécile,</l>
+	<l id="552">J'imaginais qu'ici tout était pour le mieux ;</l>
+	<l id="553">Et franchement j'en connais mille,</l>
+	<l id="554">Qui fameux à Paris, et reçus dans ces lieux,</l>
+	<l id="555">Témoignent qu'en Champagne on n'est pas difficile.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="556">Vraiment je le sais bien ; l'abus est déjà vieux.</l>
+<stage type="title">AIR : L'autre jour étant assis..</stage>
+	<l id="557">Depuis qu'un intérêt vil</l>
+	<l id="558">A mis les Arts en régies,</l>
+	<l id="559">Le Droit_Canon et Civil</l>
+	<l id="560">S'achète au poids des bougies.</l>
+	<l id="561">Cet usage est sacré : </l>
+	<l id="562">Tout Récipiendaire</l>
+	<l id="563">Est assez éclairé,</l>
+	<l id="564">Sitôt qu'il nous éclaire.</l>
+<stage type="title">AIR : Non, je ne ferai pas.</stage>
+	<l id="565">Au moins faut-il connaître et suivre cet usage.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="566">Rigaut l'a fait. Madame a dû, par son message,</l>
+	<l id="567">Recevoir un quartaut d'un vin très délicat,</l>
+	<l id="568">Que je vous réservais pour qu'il fût avocat.</l>
+</sp>
+<sp stage="hurry" who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON, avec empressement.</speaker>
+	<l id="569" syll="3" part="i">Heim ? Parlez.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="569" syll="3" part="m">Un quartaut.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="569" syll="6" part="f">Comment ! À mon adresse ?</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="570">Assurément, et du plus fin.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="571">Le méchant ! Me le taire, et garder pour la fin</l>
+	<l id="572">Le point surtout qui m'intéresse !</l>
+	<l id="573">Un quartaut ! Le quartaut est en chemin ;</l>
+	<l id="574">Mais nous l'aurons, et rien ne presse.</l>
+	<l id="575">Ce cher enfant le sait et ne m'a pas instruit.</l>
+	<l id="576">Hé bien ! tenez ; je suis pour ce que j'en ai dit.</l>
+	<l id="577">Ce garçon-la promet. Il faut qu'on le ménage ; </l>
+	<l id="578">Lorsque son feu l'emporte, il s'y livre d'abord ;</l>
+	<l id="579">Mais il retient sans peine, il comprend sans effort,</l>
+	<l id="580">Et pense beaucoup plus qu'on ne pense à son âge.</l>
+	<l id="581" syll="2" part="i">Muscat ?</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="581" syll="4" part="m">Oui. Je le crois.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="581" syll="6" part="f">Tant mieux. Je n'en ai plus.</l>
+	<l id="582">D'ailleurs son caractère est heureux, et paisible ;</l>
+	<l id="583">Il a de l'âme, il est sensible ; </l>
+	<l id="584">Et c'est-là franchement le ressort des vertus.</l>
+</sp>
+<sp stage="stress" who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN, avec humeur.</speaker>
+	<l id="585" syll="4" part="i">Il s'agit bien...</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="585" syll="4" part="f">Mais sans scrupule</l>
+	<l id="586">Je puis en parler sur ce ton.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="587">Permettez-moi, Monsieur Mouton,</l>
+	<l id="588">Son éloge est très ridicule.</l>
+	<l id="589">Deux mots. Vous l'hébergiez. Rigaut est délogé : </l>
+	<l id="590">C'est le fait. Trêve au reste. Où s'est caché l'infâme ?</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="591">Dans ce spectacle-ci je le crois engagé,</l>
+	<l id="592">Pour y chanter on l'a gagé ; </l>
+	<l id="593">Il soupire aux pieds d'une femme.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="594">Suivez-moi donc. Allons. Je prétends l'y chercher,</l>
+	<l id="595">De ces bras séducteurs je prétends l'arracher.</l>
+	<l id="596">Mais qu'est-ce ?</l>
+</sp>
+</div2>
+<div2 type="scene" n="3"><head>SCÈNE III. Les précédents, Julie, Clarice, Danseurs et Danseuses.</head>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+<stage type="title">AIR : Voilà la petite Laitière. </stage>
+	<l id="597">Voici, Voici la charmante retraite</l>
+	<l id="598">Où l'Amour</l>
+	<l id="599">A fixé sa Cour.</l>
+	<l id="600">Voici, voici la charmante retraite</l>
+	<l id="601">Où l'Amour</l>
+	<l id="602">A fixé sa Cour.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="603">Si l'Hymen qui cherche en secret,</l>
+	<l id="604">Et son exil, et sa défaite :</l>
+	<l id="605">Si l'Hymen un jour l'égarait ; </l>
+	<l id="606">Il ne faut pas qu'on le regrette,</l>
+	<l id="607">Chez nous on le retrouverait.</l>
+</sp>
+<sp who="CLARICE, JULIE"><speaker>TOUTES DEUX ENSEMBLE.</speaker>
+	<l id="608">Voici, voici la charmante retraite</l>
+	<l id="609">Où l'Amour</l>
+	<l id="610">A fixé sa Cour. </l>
+<stage type="bis">bis.</stage>
+<stage type="danse/dress">On les entoure de guirlandes et l'on danse d'autour d'eux.</stage>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="611">Mais on se moque, je crois : </l>
+	<l id="612">Quel est cet insolent délire ? </l>
+</sp>
+<sp stage="furious" who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN, furieux.</speaker>
+	<l id="613">Morbleu, Mesdames, laissez-moi;</l>
+	<l id="614">Je ne suis pas ici pour rire.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+<stage type="title">AIR : Laissez paître vos bêtes.</stage>
+	<l id="615">Laissez, laissez-nous faire,</l>
+	<l id="616">Souffrez ces fers galants ; </l>
+	<l id="617">Les noeuds qu'ici l'on serre,</l>
+	<l id="618">Sont tous des noeuds coulants. </l>
+<stage type="wave">Ils s'agitent et secouent leurs guirlandes pour s'en débarrasser. </stage>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="619">Soyez plus doux,</l>
+	<l id="620">Et comme nous, </l>
+	<l id="621">Goûtez le parfum séducteur</l>
+	<l id="622">De ces fleurs, ( qui sont sans odeur. ) </l>
+</sp>
+<sp who="CLARICE, JULIE"><speaker>TOUTES DEUX ENSEMBLE.</speaker>
+	<l id="623">Laissez, laissez-nous faire,</l>
+	<l id="624">Souffrez ces fers galants ; </l>
+	<l id="625">Les noeuds qu'ici l'on ferre,</l>
+	<l id="626">Sont tous des noeuds coulants.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="627">Je ne me trompe point ; sur mon honneur, c'est elle.</l>
+	<l id="628">La rencontre est heureuse, et je veux l'aborder.</l>
+	<l id="629">Ouais ! On dirait qu'elle veut m'éluder : </l>
+	<l id="630">Attendez, s'il vous plaît ; un mot, Mademoiselle :</l>
+	<l id="631" syll="6" part="i">Me reconnaissez-vous ? </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="631" syll="4" part="m">Qui, vous, Monsieur ?</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="631" syll="2" part="f">Oui, moi.</l>
+	<l id="632">De me remettre, à tort votre grandeur dédaigne ;</l>
+	<l id="633" syll="6" part="i">J'ai là certain billet...</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="633" syll="6" part="f">Ah, ah, j'y suis, je crois.</l>
+	<l id="634" syll="6" part="i">Vous logiez à Paris.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="634" syll="1" part="m">Certes. </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="634" syll="5" part="f">À la Bonne-Foi.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="635">Je n'ai jamais eu cette enseigne.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="636">C'est pourtant chez vous que j'ai pris,</l>
+	<l id="637">Si je m'en souviens bien, plusieurs bagues de prix.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="638">Comment ! </l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+<stage type="title">* AIR : Laisses-nous donc dormir.</stage>
+<note type="C">* On passe ce couplet à la représentation.</note>
+	<l id="639">N'en soyez point en peine ;</l>
+	<l id="640">Gardez-vous de crier,</l>
+	<l id="641">Car dès cette semaine</l>
+	<l id="642">Je dois me marier ;</l>
+	<l id="643">Un bel anneau paiera</l>
+	<l id="644">Toutes ces bagues-là.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="645">Je ne suis point un bijoutier, morbleu ;</l>
+	<l id="646">Vous voulez m'abuser ; en feignant de le croire : </l>
+	<l id="647">Mais puisque je vous joins nous allons voir beau jeu :</l>
+	<l id="648">Je suis Marchand d'étoffe, et voilà mon mémoire.</l>
+<stage type="title">AIR : Sans cesse de la Ville, à la Cour ; de la Fête du Château.</stage>
+	<l id="649" syll="6" part="i">Il est signé de vous. </l>
+</sp>
+<sp stage="ironic" who="JULIE"><speaker>JULIE, ironiquement.</speaker>
+	<l id="649" syll="2" part="f">D'accord :</l>
+	<l id="650">Avec un nom l'on est bien fort.</l>
+</sp>
+<sp stage="read" who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN, lisant.</speaker>
+	<l id="651">Or donc, avoir fourni d'abord,</l>
+	<l id="652">En fait d'habits de caractères :</l>
+	<l id="653">« Une robe à grandes fleurs d'or,</l>
+	<l id="654">Pour jouer les bergères.</l>
+	<l id="655">Item, six lés de satin blanc,</l>
+	<l id="656">Pour être Vestale un moment. »</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="657">De l'argent de ce satin-là</l>
+	<l id="658">Vous méritez que je vous frustre ;</l>
+	<l id="659">Car au sortir de l'Opéra,</l>
+	<l id="660">Il n'avait plus son lustre.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="661">« Un juste de Vénus fort cher</l>
+	<l id="662">Vu qu'il était couleur de chair ;</l>
+	<l id="663">De plus, un grand manteau tigré,</l>
+	<l id="664">Pour jouer parfois la Sauvage » .</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="665">Oh, c'en toujours contre mon gré,</l>
+	<l id="666">Que j'en ai fait usage.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="667">Total...</l>
+<stage type="exit">Julie disparaît avec les Choeurs qui si retirent en dansant.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="4"><head>SCÈNE IV. Monsieur Mouton, Monsieur Jourdain.</head>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="668">Quelle vertu dans ce mot tout-puissant !</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="669">Sans l'indigne neveu dont la perte m'occupe,</l>
+	<l id="670">De cette beauté-là je ne serais pas dupe ;</l>
+	<l id="671">Mais je suis agité d'un soin bien plus pressant.</l>
+	<l id="672">Courons, Monsieur Mouton, et cherchons votre élève.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="673">Ainsi que vous, Monsieur, je m'y sens excité.</l>
+	<l id="674">Mais je crains bien qu'ici par l'amour arrêté,</l>
+	<l id="675" syll="6" part="i">Il ne renonce au Droit....</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="675" syll="6" part="f">Il faudra qu'il l'achève.</l>
+<stage type="title">AIR : Des Bossus.</stage>
+	<l id="676">Pour Avocat, sans doute il le sera :</l>
+	<l id="677">Oui, sur les bancs, Rigaut retournera ;</l>
+	<l id="678">Fût-il muet, le Barreau l'entendra:</l>
+	<l id="679">S'il devient sourd tandis qu'il plaidera,</l>
+	<l id="680">J'ai des écus; du moins il jugera.</l>
+<stage type="exit">Ils sortent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="5"><head>SCÈNE V. Rigaut en cuirasse et couronné de fleurs ; Adélaïde, une baguette à la main et dans le costume d'Armide ; actrices et Danseuses.</head>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="681">Mon cher oncle m'attend, et sa fureur s'allume !</l>
+	<l id="682">C'en est fait. Je vais braver tout ;</l>
+	<l id="683">Contre un large Quinault j'ai troqué ma coutume;</l>
+	<l id="684">Me voilà sur la scène en dépit de mon goût ;</l>
+<stage type="title">AIR : Vous voulez me faire chanter.</stage>
+	<l id="685">Vous voulez me faire chanter,</l>
+	<l id="686">Je cède à votre envie :</l>
+	<l id="687">Mais ces habits, lourds à porter,</l>
+	<l id="688">Ne m'iront de la vie.</l>
+	<l id="689">L'étroit maillot où l'on m'a mis,</l>
+	<l id="690">Me serre à perdre haleine :</l>
+	<l id="691">Un parvenu, dans ses habits,</l>
+	<l id="692">Est toujours à la gêne.</l>
+<stage type="title">AIR : Monsieur Charlot.</stage>
+	<l id="693">Ai-je bon air ? </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="694">Non le Dieu de la Thrace</l>
+	<l id="695">N'a pas, sous sa cuirasse,</l>
+	<l id="696">Un regard aussi fier.</l>
+	<l id="697">Qu'il est joli !</l>
+	<l id="698">Qu'il est gentil !</l>
+	<l id="699">Il ressemble à Renaud, l'on dirait que c'est lui.</l>
+</sp>
+<sp who="LE CHOEUR"><speaker>CHOEUR.</speaker>
+	<l id="700">Qu'il est joli !</l>
+	<l id="701">Qu'il est gentil !</l>
+	<l id="702">Il ressemble à Renaud, l'on dirait que c'est lui.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="703">L'éloge est trop flatteur, et je n'osais l'attendre.</l>
+	<l id="704">Lui ressembler m'enorgueillit !</l>
+	<l id="705">Je suis certain d'être aussi tendre,</l>
+	<l id="706">Et je suis aussi beau, si l'amour embellit.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : C'est que je suis aise.</stage>
+	<l id="707">Cet amour qui vient d'éclore,</l>
+	<l id="708" syll="3" part="i">Vivra-t-il ?</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="708" syll="4" part="f">J'en fais le voeu </l>
+	<l id="709">Sur : cette main que j'adore</l>
+	<l id="710">Laissez m'en sceller l'aveu :</l>
+	<l id="711">Ça que je la baise,</l>
+	<l id="712">Que je la rebaise.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="713" syll="1" part="i">Non.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="713" syll="5" part="m">Qui donne un désir</l>
+	<l id="714">Doit un plaisir.</l>
+</sp>
+<sp stage="together" who="ADÉLAÏDE, RIGAUT"><speaker>ADÉLAÏDE, RIGAUT.</speaker>
+<stage type="title">DUO.</stage>
+<stage type="title">AIR : du Duo de Monsieur de la Garde.</stage>
+	<l id="715">Nous nous aimons ; mais c'est peu de s'aimer,</l>
+	<l id="716">Il faut, pour nous accoutumer</l>
+	<l id="717">Au noeud que nous allons former,</l>
+	<l id="718">Voir si nous pouvons à la fois</l>
+	<l id="719">Unir nos goûts comme nos voix : </l>
+	<l id="720">L'hymen est un duo charmant</l>
+	<l id="721">Qu'il faut chanter également ;</l>
+	<l id="722">Car si l'on sort</l>
+	<l id="723">D'un tendre accord,</l>
+	<l id="724">L'humeur s'éveille et l'amour dort ; </l>
+	<l id="725">Mais je vous vois partager ma langueur ;</l>
+	<l id="726">Ah ! si vous aviez la rigueur</l>
+	<l id="727">De m'ôter jamais votre coeur,</l>
+	<l id="728">À la perte de vos appas</l>
+	<l id="729">Hélas ! </l>
+	<l id="730">Je ne survivrais pas.</l>
+</sp>
+<sp stage="offended" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, choquée d'une caresse familière.</speaker>
+<stage type="title">AIR : Toujours va qui danse.</stage>
+	<l id="731">Finissez, vous me fâcherez ;</l>
+	<l id="732">Un peu plus de prudence ;</l>
+	<l id="733">L'Amour compte autant de degrés</l>
+	<l id="734">Que la Jurisprudence.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="735">J'ai fait la moitié du chemin</l>
+	<l id="736">Dans tous les deux, je pense ;</l>
+	<l id="737">Et je puis sans autre examen</l>
+	<l id="738">Passer à la Licence. </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="739">Votre ardeur se porte à l'excès,</l>
+	<l id="740">Rigaut ; vous oubliez que la toile est levée,</l>
+	<l id="741">Et que tous les bourgeois, sachant notre arrivée,</l>
+	<l id="742">Ont forcé le portier pour juger nos essais.</l>
+</sp>
+<sp stage="watch/decor" who="RIGAUT"><speaker>RIGAUT, promenant ses regards dans la Salle.</speaker>
+	<l id="743">Il fallait poliment leur défendre l'accès.</l>
+	<l id="744">Voilà, quand on répète et que la foule abonde,</l>
+	<l id="745">Comme un Opéra meurt avant que d'être au monde. </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="746">Espérons mieux. Vous cependant,</l>
+	<l id="747">Exercez-vous en attendant :</l>
+	<l id="748">Et sans suivre une marche exacte,</l>
+	<l id="749">Pour aller tout de suite au plus intéressant,</l>
+	<l id="750">Commencez par le cinquième acte.</l>
+<stage type="away">Elle veut s'éloigner.</stage>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+<stage type="title">AIR : Du haut en bas.</stage>
+	<l id="751">Vous me quittez ! </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="752">Un soin intéressant m'appelle.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="753">Vous me quittez ! </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="754">C'est en vain que vous m'arrêtez ;</l>
+	<l id="755">Votre amitié tendre et fidèle</l>
+	<l id="756">Ne doit point refroidir mon zèle.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="757">Vous me quittez !</l>
+<stage type="title">AIR : De la bonne aventure.</stage>
+	<l id="758">Et ce soin intéressant ?</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="759">Vous rirez, j'en jure ;</l>
+	<l id="760">D'un funeste changement</l>
+	<l id="761">Mon coeur craint l'injure : </l>
+	<l id="762">Dans ces lieux est en crédit,</l>
+	<l id="763">Un certain berger qui dit</l>
+	<l id="764">La bonne aventure</l>
+	<l id="765">Au gué ! </l>
+	<l id="766">La bonne aventure.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="767">Vous l'allez consulter ! Vous de frayeur atteinte !</l>
+	<l id="768">Vous, qui, dit-on, jusqu'à ce jour... </l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="769">Vous m'apprenez à connaître l'amour...</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="770">L'amour m'apprend à connaître la crainte.</l>
+	<l id="771">Je sais, ainsi que vous, ce madrigal heureux,</l>
+	<l id="772">Peu fait pour excuser un projet si timide.</l>
+	<l id="773">Mais enfin vous plaisez : vous êtes belle, Armide,</l>
+	<l id="774">Il suffit. Je vous aime et je ferme les yeux. </l>
+</sp>
+<sp stage="toward" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, à sa suite.</speaker>
+<stage type="title">AIR : Est-ce que ça se demande ?</stage>
+	<l id="775">Témoins complaisants et discrets</l>
+	<l id="776">De notre amour extrême,</l>
+	<l id="777">Mesdames, calmez les regrets</l>
+	<l id="778">Du Chevalier que j'aime : </l>
+	<l id="779">Présentez-lui, pour l'égayer,</l>
+	<l id="780">Guirlande sur guirlande</l>
+	<l id="781">Tout seul il pourrait s'ennuyer,</l>
+	<l id="782">Je vous le recommande.</l>
+</sp>
+</div2>
+<div2 type="scene" n="6"><head>SCÈNE VI. Rigaut, Suite d'Adélaïde.</head>
+<stage type="narration">On l'enchaîne de fleurs. Les amants heureux varient leurs groupes et leurs attitudes voluptueuses pour occuper agréablement Rigaut.</stage>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+<stage type="title">AIR : Dans cet heureux asile ; Albanese.</stage>
+	<l id="783">Dans cet heureux asile</l>
+	<l id="784">Nous jouissons d'un sort tranquille,</l>
+	<l id="785">Car pour exécuter</l>
+	<l id="786">La danse facile</l>
+	<l id="787">Qu'on vient d'inventer,</l>
+	<l id="788">Il ne faut que trotter,</l>
+	<l id="789">Bondir, bondir, bondir et sauter :</l>
+	<l id="790">Lorsque la paix emprisonne</l>
+	<l id="791">Bellone,</l>
+	<l id="792">Les guerriers complaisants</l>
+	<l id="793">Sont nos courtisans</l>
+	<l id="794">Les plus séduisants,</l>
+	<l id="795">Et Plutus à son tour nous donne</l>
+	<l id="796">De doux présents.</l>
+	<l id="797">Dans cet heureux asile, </l>
+<stage type="bis">etc.</stage>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+<stage type="title">AIR : Dedans nos bois il y a un ermite.</stage>
+	<l id="798">Vos pas légers, vos chants sont faits pour plaire ;</l>
+	<l id="799">Mais dans ce moment-ci,</l>
+	<l id="800">Souffrez, qu'au moins tranquille et solitaire,</l>
+	<l id="801">Je me recueille ici.</l>
+	<l id="802">Sur tous les airs que mon rôle renferme</l>
+	<l id="803">Je ne suis pas ferme</l>
+	<l id="804">Moi,</l>
+	<l id="805">Je ne suis pas ferme.</l>
+<stage type="exit">Les Choeurs se retirent.</stage>
+</sp>
+</div2>
+<div2 type="scene" n="7"><head>SCÈNE VII. Rigaut, Monsieur Jourdain, Monsieur Mouton.</head>
+<sp stage="location" who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON, dans le fond du Théâtre.</speaker>
+<stage type="title">AIR. Vaudeville du Bûcheron ; Richard qui faites grand tapage.</stage>
+	<l id="806">Quoi sous cet attirail fantasque</l>
+	<l id="807">Est-ce lui ? Peut-on avancer ?</l>
+</sp>
+<sp stage="furious" who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN, furieux.</speaker>
+	<l id="808">Oui, c'est lui-même. Il est en masque </l>
+	<l id="809">C'est avec moi qu'il va danser.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="810">Tenez, je suis pour l'indulgence :</l>
+	<l id="811">Craignons de le pousser à bout :</l>
+	<l id="812">Trop de pétulance ;</l>
+	<l id="813">Gâte tout. </l>
+</sp>
+<sp stage="watch" who="RIGAUT"><speaker>RIGAUT, qui les aperçoit.</speaker>
+	<l id="814">Grands Dieux ! Rêvai-je ou si je veille ? </l>
+	<l id="815">L'oncle et l'agrégé !... C'en est fait.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON</speaker>
+	<l id="816">Laissez-moi lui parler, vous serez satisfait </l>
+	<l id="817">Tout Doreur ; que je suis, je raisonne à merveille,</l>
+	<l id="818">Et vous allez en voir l'effet. </l>
+<stage type="title">AIR : Allons ! mon Cousin l'allure.</stage>
+	<l id="819">Il est donc vrai qu'ici</l>
+	<l id="820">Mon ami !</l>
+	<l id="821">Vous avez une allure ?</l>
+	<l id="822">À Cujas dans l'oubli,</l>
+	<l id="823">Mon ami !</l>
+	<l id="824">Vous faites cette injure,</l>
+	<l id="825">Mon ami !</l>
+	<l id="826">Peut-on être ainsi</l>
+	<l id="827">Parjure,</l>
+	<l id="828">Mon ami ? </l>
+	<l id="829">Peut-on être ainsi</l>
+	<l id="830">Parjure ?</l>
+</sp>
+<sp stage="anger" who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN, avec emportement.</speaker>
+	<l id="831">Oui, c'est bien-là le ton, et ces discours mielleux ;</l>
+	<l id="832">Sont des ménagements que le traître mérite !</l>
+	<l id="833">Retirez-vous. C'est moi. Réponds-moi, malheureux ?</l>
+	<l id="834">Que deviens-tu ? Qu'apprends-je ? Et quelle est ta conduite ?</l>
+	<l id="835">Où faut-il te chercher ? Où suis-je en ce moment ?</l>
+</sp>
+<sp stage="emphasis" who="RIGAUT"><speaker>RIGAUT, avec emphase.</speaker>
+	<l id="836">Dans les jardins d'Armide, et je suis son amant.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="837">L'insolent ! Il se moque ! Hé non, laissez-moi faire.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="838">Mon cher Monsieur_Jourdain, ne nous emportons pas.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="839">Scélérat ! Tu paieras mes pas.</l>
+	<l id="840">Et ton Armide aussi sentira ma colère.</l>
+	<l id="841">Eh ! Quelle est cette Armide ? Allons : réponds et tôt.</l>
+	<l id="842" syll="3" part="i">Que fait-elle ?</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="842" syll="5" part="f">Hé non, non. Chimère !</l>
+	<l id="843">C'est l'Opéra_d_Armide où Monsieur fait Renaud :</l>
+	<l id="844">C'est celle qu'on connaît, dont Quinault est le père.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="845">Qu'il soit son père ou non, j'ai le crédit qu'il faut :</l>
+	<l id="846">De retour à Paris, nous écrirons. J'informe ;</l>
+	<l id="847">Et dans trois jours, sans autre forme</l>
+	<l id="848">On enferme Armide et Quinault.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+	<l id="849">Entendons-nous plutôt et tâchons de connaître....</l>
+</sp>
+<sp stage="loud" who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN, d'un ton très-élevé.</speaker>
+	<l id="850">Et que n'ai-je pas fait ? Il le sait, le bourreau !</l>
+	<l id="851">C'est pour lui que trente ans courbé sur un bureau,</l>
+	<l id="852">J'ai, pistole à pistole, amassé mon bien-être.</l>
+	<l id="853">J'ai tout sacrifié, pour l'asseoir au Barreau,</l>
+	<l id="854">Mon repos, mon plaisir, et mon honneur peut-être.</l>
+<stage type="title">AIR : De tous les Capucins du monde.</stage>
+	<l id="855">Car enrichi dans les affaires,</l>
+	<l id="856">J'ai pour imiter mes confrères,</l>
+	<l id="857">(Et le Ciel m'en punit, je crois )</l>
+	<l id="858">J'ai, par un intérêt trop tendre,</l>
+	<l id="859">Blessé la Justice cent fois</l>
+	<l id="860">Afin qu'un jour il put la rendre.</l>
+</sp>
+<sp stage="tender" who="RIGAUT"><speaker>RIGAUT, d'un ton affectueux.</speaker>
+	<l id="861">Écoutez-moi, cher oncle, et vous vous calmerez :</l>
+	<l id="862">Vous m'envoyez à Reims y prendre mes degrés ;</l>
+	<l id="863">J'y vais : je me présente. On m'exclut de la classe :</l>
+	<l id="864">Oui, Monsieur, on m'a fait ce refus outrageant. </l>
+	<l id="865">J'ai, pour consoler ma disgrâce,</l>
+	<l id="866">Bu le vin de Monsieur, et mangé votre argent.</l>
+	<l id="867">Bientôt sans asile, indigent,</l>
+	<l id="868">L'Amour m'accueille ici, lorsque Cujas me chasse</l>
+	<l id="869">Et j'y suis. Voilà tout dans le plus simple aveu. </l>
+	<l id="870">Le reste est aussi simple, et n'a rien qui surprenne :</l>
+	<l id="871">À parler en public, si ma mémoire est saine,</l>
+	<l id="872">Vous destiniez votre neveu ; </l>
+	<l id="873">J'ai pris le parti de monter sur la scène,</l>
+	<l id="874">Pour ne pas tromper votre voeu.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="875">Vous l'entendez. Mais quel langage !</l>
+	<l id="876">Comme il compte ses torts avec sécurité ! </l>
+	<l id="877">Comme il donne au mensonge un air de vérité !</l>
+</sp>
+<sp stage="impatient" who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON, impatiemment.</speaker>
+	<l id="878">Et ne pas plaider ! Quel dommage !</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="879">Allons, étouffez-moi ce ridicule feu.</l>
+	<l id="880">Qu'on se hâte avec nous de regagner mon gîte ; </l>
+	<l id="881">Qu'on désarme à l'instant le courroux qui m'agite,</l>
+	<l id="882">ou le Héros verra beau jeu.</l>
+<stage type="title">AIR : Comme v'là qu'est fait.</stage>
+	<l id="883">Quitte-moi cet habit étrange.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="884">Renoncer au penchant que j'ai !</l>
+	<l id="885">Croyez que cet amour m'arrange.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="886">Oui, l'amour l'a bien arrangé !</l>
+	<l id="887">Il a perdu la tête. Approche :</l>
+	<l id="888">Et par tes yeux,</l>
+	<l id="889">Pour juger mieux,</l>
+	<l id="890">Consulte ce miroir de poche ;</l>
+	<l id="891">Regarde-toi.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="892">Mais en effet,</l>
+	<l id="893">Com'me v'là fait !</l>
+	<l id="894">Com'me v'là fait !</l>
+	<l id="895">Mon oeil s'ouvre ; j'abjure une erreur trop funeste ;</l>
+	<l id="896">Dont tôt ou tard je me mordrais les doigts :</l>
+	<l id="897">Mon oncle enfin, je sens tout ce que je vous dois :</l>
+	<l id="898">Le, casque tombe et mon chapeau me reste ;</l>
+	<l id="899" syll="6" part="i">Je suis prêt à partir.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="899" syll="6" part="f">Fuyons, car j'aperçois...</l>
+</sp>
+</div2>
+<div2 type="scene" n="8"><head>SCÈNE VIII. Les précédens, ADÉLAÏDE.</head>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : Où allez-vous, Monsieur l'Abbé? O</stage>
+	<l id="900">Où courez-vous, Monsieur Rigaut ?</l>
+	<l id="901">Seriez-vous donc assez nigaud,</l>
+	<l id="902">Pour préférer Bartole ? </l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="903">Hé bien.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="904">À notre aimable école</l>
+	<l id="905">Vous m'entendez bien. </l>
+<stage type="title">AIR : Sans un petit brin d'amour.</stage>
+	<l id="906">Sans un petit brin d'amour, </l>
+	<l id="907">Peux-tu donc fuir de ce séjour ?</l>
+	<l id="908">Sans un petit brin d'amour</l>
+	<l id="909">Te perdrai-je en un jour ?</l>
+	<l id="910">Rigaut ! Rigaut ! au nom de ta maîtresse,</l>
+	<l id="911">Mon coeur, hélas !</l>
+	<l id="912">Ne prétend pas : </l>
+	<l id="913">Un autre nom suffit à ma tendresse ;</l>
+	<l id="914">Rigaut ! Les coeurs n'ont point d'états.</l>
+	<l id="915">Sans un petit brin d'amour,</l>
+	<l id="916">Peux-tu donc, etc.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+<stage type="title">AIR : Jusques dans la moindre chose.</stage>
+	<l id="917">Jusques dans la moindre glose,</l>
+	<l id="918">Votre nom fera tracé ;</l>
+	<l id="919">Dans l'étude...</l>
+</sp>
+<sp stage="furious/stop" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, furieuse, l'arrête.</speaker>
+	<l id="920">Va, d'un vain souvenir mon amour te dispense.</l>
+	<l id="921">Cruel ! Voilà ma récompense.</l>
+	<l id="922">Il part sans pousser un soupir,</l>
+	<l id="923">Il part en bravant mes alarmes,</l>
+	<l id="924">Après être venu pour insulter mes charmes,</l>
+	<l id="925">Forcer la porte et s'assoupir.</l>
+	<l id="926">Je déraisonne : je m'égare ;</l>
+	<l id="927">Le coeur d'un tigre est moins barbare.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="928">Ne faites point semblant de perdre la raison ;</l>
+	<l id="929">Vous savez faire encore une comparaison.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+<stage type="title">AIR : Vaudeville d'Épicure.</stage>
+	<l id="930">Ingrat, sans toi je ne puis vivre,</l>
+	<l id="931">Je vais mourir subitement ;</l>
+	<l id="932">Tous les soirs j'irai te poursuivre</l>
+	<l id="933">Jusques dans ton appartement.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="934">Gardez-vous de cette folie :</l>
+	<l id="935">Quand je cède au sommeil trompeur,</l>
+	<l id="936">L'ombre d'une femme jolie,</l>
+	<l id="937">Ne me fait pas l'ombre de peur.</l>
+</sp>
+<sp stage="fall/location" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, tombant sur un banc de gazon.</speaker>
+<stage type="title">AIR : Sentir avec ardeur.</stage>
+	<l id="938">Le jour fuit de mes yeux, </l>
+	<l id="939">Mon coeur se déchire :</l>
+	<l id="940">Cruels adieux !</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="941">Ah, Dieux !</l>
+	<l id="942">Quel affreux martyre !</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="943">Bon ! Bon ! C'est pour rire.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="944">Je cède à mes douleurs...</l>
+	<l id="945">Ma parole expire...</l>
+	<l id="946">Plus de clameurs...</l>
+	<l id="947">Je meurs.</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="948">Sortons sans répondre à cela.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="949">Oui-dà,</l>
+	<l id="950">Oui-dà,</l>
+	<l id="951">Ça s'dit comm'ça ;</l>
+	<l id="952">Mais comment tiendrait-on à ça,</l>
+	<l id="953">Madame, holà !</l>
+	<l id="954">J'suis encor là :</l>
+	<l id="955">Sa pâleur me trouble,</l>
+	<l id="956">Son pouls qui redouble,</l>
+	<l id="957">S'en va grand'pas,...</l>
+	<l id="958">Et ne revient pas.</l>
+	<l id="959">Ah ! ça, Madame, ici cessons de badiner :</l>
+	<l id="960">Ce qui me faisait rire, à présent m'intimide ;</l>
+	<l id="961">Est ce vous qui mourez, ou bien si c'est Armide ?</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="962">Sortons d'ici sans lanterner :</l>
+	<l id="963">De ces morts d'Opéra, faut-il se chagriner ?</l>
+	<l id="964">Pour quitter une femme on n'est pas homicide.</l>
+</sp>
+<sp who="MONSIEUR MOUTON"><speaker>MONSIEUR MOUTON.</speaker>
+<stage type="title">AIR : Babet, que t'es gentille !</stage>
+	<l id="965">Sortons, quel myrte vaut</l>
+	<l id="966">Le laurier d'une thèse ?</l>
+</sp>
+<sp who="MONSIEUR JOURDAIN"><speaker>MONSIEUR JOURDAIN.</speaker>
+	<l id="967">Où Thémis parle, il faut</l>
+	<l id="968">Que Cupidon se taise.</l>
+</sp>
+<sp who="RIGAUT"><speaker>RIGAUT.</speaker>
+	<l id="969">Adieu donc, ma foi,</l>
+	<l id="970">Pour le coup de moi</l>
+	<l id="971">Cujas enfin dispose ; </l>
+	<l id="972">Car dans ce moment plein d'effroi,</l>
+	<l id="973">Ou son suppôt me fait la loi,</l>
+	<l id="974">Je sens qu'en m'éloignant de toi,</l>
+	<l id="975">Mon coeur plaide ta cause,</l>
+	<l id="976">Mon coeur plaide ta cause.</l>
+<stage type="exit/together">Jourdain Mouton emmènent Rigaut, qui fait encore plaisamment quelques efforts pour revenir sur ses pas. </stage>
+</sp>
+</div2>
+<div2 type="scene" n="9"><head>SCÈNE IX.</head>
+<sp stage="alone/awake" who="ADÉLAÏDE"><speaker>ADÉLAÏDE seule, revenue de son évanouissement.</speaker>
+	<l id="977">De l'habit de Renaud, trop déplorable effet !</l>
+	<l id="978">Il me laisse. Il fuit le perfide !</l>
+	<l id="979">Il a fini son rôle avant de l'avoir fait :</l>
+	<l id="980">Il agit en Renaud, agissons en Armide.</l>
+<stage type="title">AIR : Ciel ! l'Univers.</stage>
+	<l id="981">Oui, c'en est fait : ma fureur va dissoudre</l>
+	<l id="982">L'ouvrage ici par mes mains commencé ;</l>
+	<l id="983">Qu'ainsi que d'un coup de foudre,</l>
+	<l id="984">Tout le Théâtre écrasé</l>
+	<l id="985">S'en aille en poudre,</l>
+	<l id="986">Tombe embrasé.</l>
+	<l id="987">Brisez,</l>
+	<l id="988">Obéissez : </l>
+	<l id="989">Que tout s'efface</l>
+	<l id="990">En ma disgrâce,</l>
+	<l id="991">Mettez, de grâce,</l>
+	<l id="992">Le feu</l>
+	<l id="993">Dans ce lieu.</l>
+<stage type="entrance/fire">Plusieurs Garçons de Théâtre accourent armés de torches allumées et se préparent à mettre le feu. </stage>
+</sp>
+</div2>
+<div2 type="scene" n="10"><head>SCÈNE X ET DERNIÈRE. Adélaïde, Hiradot, Julie, Clarice, Danseurs, Dansèuses Pompiers, etc. </head>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="994">Au feu ! Courez, amis ; éteignez promptement.</l>
+<stage type="toward">À Adélaïde.</stage>
+	<l id="995">Quel Démon vous possède, et quel emportement !</l>
+	<l id="996">Quoi, pour un intérêt si mince</l>
+	<l id="997">Immoler un spectacle attendu par le Goût !</l>
+	<l id="998">Est-ce à l'Opera_de_Province</l>
+	<l id="999">D'oser mettre le feu partout ?</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="1000">L'Amour au désespoir..... L'Amour dans sa colère....</l>
+</sp>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="1001">Oubliez pour toujours cette erreur d'un moment :</l>
+<stage type="show">Montrant le Public.</stage>
+	<l id="1002">Désormais voilà votre amant,</l>
+	<l id="1003">C'est à lui seul qu'il vous faut plaire,</l>
+	<l id="1004">Il sait s'attacher constamment : </l>
+	<l id="1005">Quand Melpomène ailleurs l'invite</l>
+<note type="C">Mustapha, Tragédie nouvelle de M. de Champfort.</note>
+	<l id="1006">Par une heureuse nouveauté</l>
+	<l id="1007">S'il se permet une infidélité,</l>
+	<l id="1008">Jamais, du moins, il ne nous quitte.</l>
+</sp>
+<sp who="ADÉLAÏDE"><speaker>ADÉLAÏDE.</speaker>
+	<l id="1009">Votre conseil doit l'emporter.</l>
+	<l id="1010">Oui, redoublons d'efforts lorsqu'on nous encourage : </l>
+	<l id="1011">Du départ d'un amant que j'allais regretter</l>
+	<l id="1012">Que le Public nous dédommage ;</l>
+	<l id="1013">Empêchons-le de nous quitter,</l>
+	<l id="1014">Et puisqu'il est ici pour nous voir répéter,</l>
+	<l id="1015">Profitons du moment pour briguer son suffrage.</l>
+</sp>
+</div2>
+<div2 type="vaudeville" n="11"><head>VAUDEVILLE.</head>
+<stage type="title">AIR : J'offre ici mon savoir-faire.</stage>
+<sp who="HIRADOT"><speaker>HIRADOT.</speaker>
+	<l id="1016">À titre de machiniste,</l>
+	<l id="1017">Je cultive un art qui vous plaît ;</l>
+	<l id="1018">Le Théâtre le plus triste</l>
+	<l id="1019">S'embellit, grâce à mon sifflet : </l>
+	<l id="1020">Je promets plus d'un changement ;</l>
+	<l id="1021">Messieurs, qu'ici la foule abonde :</l>
+<stage type="show">En montrant son sifflet.</stage>
+	<l id="1022">Mais au son de cet instrument,</l>
+	<l id="1023">Que jamais l'écho ne réponde.</l>
+</sp>
+<sp who="CLARICE"><speaker>CLARICE.</speaker>
+	<l id="1024">Je suis simple confidente</l>
+	<l id="1025">Mon rôle est toujours fort discret :</l>
+	<l id="1026">Muette et partant prudente,</l>
+	<l id="1027">Je sais comme on garde un secret :</l>
+	<l id="1028">Avec moi daignez éclater,</l>
+	<l id="1029">Et certain du plus grand silence,</l>
+	<l id="1030">Si la pièce a su vous flatter</l>
+	<l id="1031">Mettez-moi dans la confidence.</l>
+</sp>
+<sp who="JULIE"><speaker>JULIE.</speaker>
+	<l id="1032">En évitant la présence</l>
+	<l id="1033">De ce marchand à qui je dois,</l>
+	<l id="1034">Si de la reconnaissance</l>
+	<l id="1035">J'ai tant soit peu fraudé les droits :</l>
+	<l id="1036">Pardonnez, dès qu'il s'agira</l>
+	<l id="1037">De les acquitter où vous êtes,</l>
+	<l id="1038">J'avouerai, quoiqu'à l'Opéra,</l>
+	<l id="1039">Qu'il est doux de payer ses dettes.</l>
+</sp>
+<sp stage="toward" who="ADÉLAÏDE"><speaker>ADÉLAÏDE, au Public.</speaker>
+	<l id="1040">D'entrer sans cesse en colère</l>
+	<l id="1041">La Critique se fait un jeu : </l>
+	<l id="1042">Contre un Auteur qui veut plaire</l>
+	<l id="1043">Elle attise partout son feu :</l>
+	<l id="1044">Mais si, lorsqu'il a réussi,</l>
+	<l id="1045">La gaieté n'a point à se plaindre,</l>
+	<l id="1046">En daignant applaudir ici,</l>
+	<l id="1047">Messieurs, c'est à vous de l'éteindre.</l>
+<stage type="sing/together/danse">Les acteurs qui sont sur la scène reprennent en choeur les quatre derniers vers du Vaudeville, et font place au ballet qui doit terminer la pièce.</stage>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>
+
+

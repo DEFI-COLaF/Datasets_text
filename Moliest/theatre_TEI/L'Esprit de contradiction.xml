@@ -1,0 +1,1654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <idno>CRE_THEATRE_DUFRESNY_ESPRITCONTRADICTION</idno>
+                        <title type="main">L'ESPRIT DE CONTRADICTION, COMÉDIE</title>
+                        <respStmt>
+                            <resp>Encoding</resp>
+                            <persName xml:id="RDENT">
+                                <surname>Dent</surname>
+                                <forename>Rasul</forename>
+                                <idno type="orcid">0000-0002-8971-6175</idno>
+                            </persName>
+                        </respStmt>
+                        <respStmt>
+                            <resp>Encoding</resp>
+                            <persName xml:id="JJANES">
+                                <surname>Janes</surname>
+                                <forename>Juliette</forename>
+                                <idno type="orcid">0000-0002-8971-6173</idno>
+                            </persName>
+                        </respStmt>                       
+                        <principal>
+                            <persName xml:id="BSAGOT">
+                                <surname>Sagot</surname>
+                                <forename>Benoît</forename>
+                                <idno type="orcid">0000-0001-8957-9503</idno>
+                            </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                            France (COLaF)</publisher>
+                        <date when="2024-03-25"/>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <bibl type="printSource">
+                            <ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k5781086q"/>
+                            <title>L'ESPRIT DE CONTRADICTION, COMÉDIE</title>
+                            <author>DU FRESNY, Charles Rivière</author>
+                            <publisher>Gallica</publisher>
+                            <date when=""/>
+                        </bibl>
+                        <bibl type="digitalSource">
+                            <ptr target="[TO BE ADDED]"/>
+                            <title>L'ESPRIT DE CONTRADICTION, COMÉDIE</title>
+                            <author/>
+                            <publisher>Théâtre Classique</publisher>
+                            <date when="2021"/>
+                        </bibl>
+                    </sourceDesc>
+                    <extent>
+                        <measure unit="token-colaf"/><!--A ajouter plus tard-->
+                    </extent>
+                </fileDesc>
+                <profileDesc>
+                    <langUsage>
+                        <language ident="met-fr">
+                            <idno type="langue">met-fr</idno>
+                            <idno type="script">latin</idno>
+                            <name>Français</name>
+                            <date when=""/>
+                            <location><country>Paris</country></location>
+                        </language>
+                    </langUsage>
+                    <textClass>
+                        <keywords>
+                            <term type="supergenre" rend="spoken">Fiction</term>
+                            <term type="genre" rend="spoken-script">fiction-drama</term>
+                        </keywords>
+                    </textClass>
+                    <particDesc>
+                        <listPerson>
+                            <person xml:id="Monsieur_ORONTE"><persName>Monsieur ORONTE</persName></person><person xml:id="Madame_ORONTE"><persName>Madame ORONTE</persName></person><person xml:id="LUCAS"><persName>LUCAS</persName></person><person xml:id="ANGÉLIQUE"><persName>ANGÉLIQUE</persName></person><person xml:id="VALÈRE"><persName>VALÈRE</persName></person><person xml:id="Monsieur_THIBAUDOIS"><persName>Monsieur THIBAUDOIS</persName></person><person xml:id="LE_NOTAIRE"><persName>LE NOTAIRE</persName></person><person xml:id="UN_LAQUAIS"><persName>UN LAQUAIS</persName></person>
+                        </listPerson>
+                    </particDesc>
+                </profileDesc>
+                <revisionDesc>
+                    <change when="2024-03-24" who="#JJANES">Génération du document</change>
+                </revisionDesc>
+            </teiHeader>
+  <text xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <body>
+      <div type="liminal"><div type="titlepage"><div type="liminal"><p>L'ESPRIT DE CONTRADICTION</p></div><div type="liminal"><p>COMÉDIE</p></div></div><div type="liminal"><p>M. DCC. Avec privilège du Roi.</p></div><div type="liminal"><p>Par M. du F** [Ch. Rivière Du Fresny]</p></div><div type="liminal"><head>Extrait du privilège du Roi,</head><p>Par grâce du Privilège du Roi en date du 22 Août 1700, donné à Versailles, signé LECOMTE, et scellé : Il est permis au Sieur de R** de faire imprimer ses Oeuvres pendant le temps de six années : Avec défenses à tous imprimeurs et libraires, de les imprimer, vendre ni débiter sans le consentement de l'exposant, à peine de trois mille livres d'amende , confiscation des exemplaires, et autres peines portées plus: au long par ledit Privilège.</p></div>À PARIS, Chez la Veuve CLAUDE BARBIN, au Palais, sur le perron de la Sainte-Chapelle.<div type="liminal"><p>Représenté pour la première fois le 27 août 1700 au Théâtre de la rue des Fossés Saint-Germain.</p></div><list><head>ACTEURS.</head><item>Monsieur ORONTE.</item><item>Madame ORONTE. </item><item>LUCAS, jardinier. </item><item>ANGÉLIQUE, fille de Monsieur Oronte. </item><item>VALÈRE, amant d'Angélique.</item><item>Monsieur THIBAUDOIS.</item><item>LE NOTAIRE.</item><item>UN LAQUAIS.</item></list><p>La scène est à une maison de campagne.</p></div>
+      <div type="act" n="1">
+        <head/>
+        <div type="scene" n="1">
+          <head>SCÈNE PREMIÈRE. Oronte, Lucas.</head>
+          <sp who="LUCAS">
+            <speaker>LUCAS en colère.</speaker>
+            <p>Morgué de la contrediseuse, et de sa cotredition.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>La, là, doucement.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Non, Monsieur, je ne peu pu duré avec l'esprit de Madame votre femme.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Il faut l'excuser, car l'esprit de contradiction lui est naturel.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Qua vous conterdise rou son son sou, vous qui êtes son mari, ça est naturel ça, mais y n'est pas naturel qu'a vienne conterdire mon jardin.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Patience, Lucas, patience.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Tout franc je n'aime point à être jardinier là ou li a des femmes, car eune femme dan eun jardin fait pu de dégât qu'un millier de taupes.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Tu as raison, et ma femme a tort.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Al arrache ce que j'ai planté, a replante ce que j'ai arraché, quand je greffe du Bon-Crequin, a di que c'est de la Bargamote ; là où j'ai planté des Choux, a veut qu'il y vienne des Raves, n'y a rien dont a ne s'avise pour ale à rebours de moi ; hier a vlait pour avoir des preunes pu grosses, qu'on les semi su couche comme des melons , je crois, Gueu me pardonne , qu'a me fera bentos planter des citrouilles en espalier.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Elle n'est pas raisonnable, mais laissons cela, Lucas, parlons de marier ma fille, j'ai besoin là-dessus de ton conseil.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Gnia pu de conseil dan ma tête, drès que j'ai disputé avec Madame, ça me met en friche moi et mon jardin, epi c'est que a me vient de bailler mon congé.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Tu ne sortiras point, va, je te soutiendrai.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Comment me souquinriais vous contre elle, qu'on ne pouvé pas vous y souteni vous-même, ne vous dis je pas toujou qu'ous ete trop docile, drès qu'à veut queuque chose, vous dite ouy , drès qua vois qu'ou dite oui, a dit on, et vous le dite itou , épi a redit oui par controvarse, et vous le voulez bian.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Que veux-tu , Lucas, j'aime ma femme, elle n'a point d'autre plaisir que de faire tout le contraire de ce que je veux , Je lui laisse cette petite satisfaction-là.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Vou ly laisseriais donc itou la petite satisfaction de..... Si c'était son plaisir da ; mais gna rien à crainde, son humeur est trop reveche pour ça : tantia, Monsieur , qu'en cas de votre fille, si je nétais pu cian, comment feriais-vous, car gn'y à que moi qui a assez d'entendement pour faire revirer l'esprit de vote femme ; vous n'y entendérian-vous ?</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je conviens que tu as plus d'imagination que moi, et plus de bon sens que bien des Philosophes qui n'en ont point.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Tené, Monsieur, il a des paysans qui ont la Philosophie d'avoir de l'esprit en argent, ma Philosophie à moi, c'est de gouvarner la vie du monde par mon mequé de jardinier ; vous ulé marier vote fille, par parenthèse ; vous ne savez ce qui en sera ; mais moi j'ai vu tout ça dans mon jardinage,car j'ai dit, quand Madame vient dans mon jardin, et qu'al voit qu'eun abre est d'humeur à profiter au soleil, a le plante à l'ombre. Ô, si a voit que sa fille est d'humeur à profiter en mariage, a la plantera dans un couvent.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Tu me l'as fort bien dit , si ma fille veut être mariée, il ne faut pas qu'elle fasse, mine d'y penser, ni moi non plus.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Madame m'a voulu faire jaser là-dessus ; mais Lucas, m'a-t-elle dit, queque tu penses de ce mariage-là ? Je n'en sais rian, Madame. Mais, ma fille, par-ci ; Néant. Mais, mon mari par là, Motus ; et parce qu'al a vu que je ne l'y baillais pas de quoi contredire, c'est pour ça qu'a m'a chasssé comme ça tous les jours, et j'ai des finesses pour qu'a me reflatte par contradiction. La v'la qui vient dans c't'allée-cy ; laisse-moi me racommoder tout seul.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je vais t'attendre sous ce berceau.</p>
+          </sp>
+        </div>
+        <div type="scene" n="2">
+          <head>SCÈNE II.</head>
+          <sp who="LUCAS">
+            <speaker>LUCAS seul.</speaker>
+            <p>Je serais morgué bien fâché de quitter ce bourgeois-ci, sa bourgeoiserie est pu argenteuse que ben des gentilhommeries que li a.</p>
+          </sp>
+        </div>
+        <div type="scene" n="3">
+          <head>SCÈNE III. Lucas, Madame Oronte.</head>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Venez-vous de vous mettre sous la protection de mon Mari ? Il peut m'ordonner de vous garder céans, mais à coup sûr je ne lui obéirai pas. Allons, vite , venez me rendre les clefs, et que je vous paye vos gages.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS, d'un ton pleureur.</speaker>
+            <p>Je fuis bien fiché de vous quitter.</p>
+            <stage>Il se retourne pour rire.</stage>
+            <p>Ha, ha, ha, ha !</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous riez, je crois.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS, pleure.</speaker>
+            <p>Cela m'afflige.</p>
+            <stage>Il rit en se retournant.</stage>
+            <p>Ha ha, ha t</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Qu'est-ce à dire donc ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Rien, rien.</p>
+            <stage>Il réitère souvent.</stage>
+            <p>Ha, ha, ha....</p>
+            <stage>Triste.</stage>
+            <p>Ça, Madame, je vas vous rendre vos clefs.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Je veux savoir de quoi vous riez.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS, ne se cachant plus pour rire.</speaker>
+            <p>Ha, ha, ha, ha ! Je ne peu pu me retenir, aussi ben me vla tou chassé, je ne vous crains pu. Ha, ha, je dois deun drôle de tour que je vous ai fait. Ha , ha, tout franc c'est que comme li a longtemps que je fis las de vote humeur acariate, de que je veux vous plante là, j'ai di à par moi : si Madame voit que je veux mon congé, a ne sera pas de stavis-là, si je veux être payé de mes gages, a me les requindra pour n'ete pas de mon opignion : ô faut mieux que je la fâche afin qu'a me chasse par elle-même.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Quoi ! Afin que je vous chasse.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je vous ai fat eune querelle ; ha, ha...Mais je vas vous bailler vos clefs.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Oui, pour me taire pièce vous avez résolu de me laisser tout d'un coup sans jardinier.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>C'est pour ça que je m'en vas.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous vous en irez quand j'en aurai un autre.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Ce sera dès tout-à-l'heure.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous attendrez au moins jusqu'à demain.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Demain vous ne sériais pu en train de me chasser, je veux vous quitter.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ô ! Il ne fera pas dit que je serai votre dupe ; vous voulez me quitter, et moi je neveux pas que vous me quittiez.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>On ne requint point les gens malgré eux, et vous éte d'eun humeur....</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ouais, mon humeur est donc bien terrible!</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Tanquîa que j'en soufre trop.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Suis-je si méchante dans le fond ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Morgué nani, je sais bian que ce n'est pas par malice qu'ou faîte endever tout le monde , mais c'est que vote volonté est du naturel des hiboux, a ne va jamais de compagnée avec la volonté des autres.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>C'est une étrange chose que la prévention ; car il n'y a guère de femme qui contredise moins que moi.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>On n'en a guère, c'est vrai.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Je ne contredis jamais, à le bien prendre ; mais c'est que je n'aime point qu'on me contredise ; par exemple, je me fuis fâchée contre toi pour ton obstination , pourquoi t'obstines-tu à me cacher ce que je veux découvrir ? Ne sais-je pas que tu es le conseil, l'oracle de mon mari ? Il t'a fait confidence sans doute du dessein qu'il a pour Angélique.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>He ! Il m'en a dit queuque petite chose.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ha, voila parler cela.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je me doute ben itou de la pensée de Mademoiselle Angélique.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Oui ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je sais ben encore mon avis a moi su tout ça.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Hé bien Lucas ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Mais ni de ma pensée ni de celle de Monsieur, ni de celle de vote fille , je ne vous en dirai non pu qu'il en pleut.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Lucas, je t'en prie, dis-moi...</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Vous n'en fçaurais rain vous di-je car je vous vois veni, vous été tantôt su le oui, tantôt su le non. Je la marierai, je né la marierai pas, qu'en dit-il, qu'en dit-elle, et tou ça jusqu'à ce qu'ou voyais tous les chemins que les autres enfilerons, pour en prendre eun tout de guingouois qui ne ravienne à pas eun de ceux-là.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Au contraire, je suis toujours dans le bon chemin, et chacun se détourne de moi par malice ; en un mot, je sais qu'on a céans quelque dessein contraire au mien : mais j'aperçois ma fille, il faut que je lui reparle encore. Hola, Angélique, hola, venez un peu ici.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS, à part.</speaker>
+            <p>Allons retrouvé Monsieur sous berciau.</p>
+          </sp>
+        </div>
+        <div type="scene" n="4">
+          <head>SCÈNE IV. Madame Oronte, Angélique.</head>
+          <stage>Madame Oronte se promène inquiète.</stage>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Que souhaitez-vous de moi , ma mère ?</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous parler encore ma fille.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Me voila prête à vous écouter.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>J'ai tous les sujets du monde de me plaindre de vous, car vous n'êtes qu'une dissimulée ; mais je suis bonne et raisonnable, et avant que de disposer de vous de manière ou d'autre, je veux bien encore consulter votre inclination ; parlez-moi donc sincèrement une fois en votre vie, voulez vous être mariée ou non ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je vous ai déjà dit, ma mère, que je ne dois point avoir de volonté.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous en avez pourtant, avouez-le moi ; je n'ai en vue que vôtre satisfaction, ouvrez-moi votre coeur ; là , parlez naturellement, vous imaginez-vous que le mariage puisse rendre une fille heureuse.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je vois quelques femmes qui se louent de leur état.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ah ! Je commence à vous entendre.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Mais j'en vois beaucoup qui s'en plaignent.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Je ne vous entends plus : dites-moi un peu, vous avez vu cette nouvelle mariée, qui va de porte en porte se faire applaudir du choix qu'elle a fait, écoutez-vous ses discours avec plaisir.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Oui vraiment, ma mère.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous souhaitez donc d'être mariée ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Point du tout, car cette femme vint hier affliger par ses plaintes la même assemblée qu elle avait fatiguée l'autre jour par l'éloge de son époux.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>C'est-à-dire que vous ne voulez point risquer de prendre un mari.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je ne dis pas cela, ma mère.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Que dites-vous donc ? Car enfin vous envisagez le mariage, ou comme un bien, ou comme un mal ; ou vous le souhaitez, ou vous le craignez.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je ne le souhaite ni ne le crains ; je n'ai fait là-dessus que de simples réflexions, fur lesquelles je n'ai pris aucun parti, les raisons pour et contre me paraissent à peu près égales ; c'est ce qui a suspendu mon choix jusqu'à présent.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Oh ! Cette suspension commence à m'impatienter, et vous ayez trop d'esprit pour rester dans une situation si indolente.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>C'est la situation où une fille doit être, afin que sa mère puisse la déterminer sans peine.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Mais si je vous déterminais au mariage.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Mes raisons pour le mariage deviendraient les plus fortes ; car la raison du devoir me ferait oublier toutes les raisons contraires.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Et si je vous détermine à rester fille ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Pour lors les raisons pour le mariage me paraîtront les meilleures.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Quels discours ! Quel travers d'esprit ! Je n'y puis plus tenir. Quoi ! Il sera dit que je n'aurai pas le plaisir de démêler votre inclination ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Mon inclination est de suivre la vôtre.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Elle n'en démordra pas, non...</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je vous obéirai jusqu'à la mort.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Quelle obstination ! Quel acharnement !</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Ce n'est point par obstination.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Quoi, vous me contredirez sans cesse ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Vouloir tout ce que vous voulez, est-ce vous contredire ?</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Oui, oui, oui, car je veux que vous ayez une volonté, et vous n'en voulez point avoir.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Mais, ma mère...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous me poussez à bout, taisez-vous. On dira encore que j'aI tort ; cependant, c'est vous, oui, c'est votre esprit qu'on peut appeler vraiment un esprit de contradiction ; je ne puis plus vivre avec vous : une fille comme cela est un vrai fléau domestique, je veux m'en défaire absolument. Oui, Mademoiselle, je vous marierai dès aujourd'hui, voilà deux partis qui se présentent, Valère d'un côté, Monsieur Thibaudois de l'autre, je ne vous ferai pas l'honneur non de vous donner le choix, vous épouserez celui des deux que je jugerai à propos. Je vais pourtant consulter encore votre père ; si ses idées sont raisonnables, j'y donnerai les mains , mais si elles ne le sont pas, hon !</p>
+          </sp>
+        </div>
+        <div type="scene" n="5">
+          <head>SCÈNE V.</head>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Quelle violence il faut que je me fasse ? Sincère comme je le suis naturellement, d'être contrainte à dissimuler avec tout le monde. Cependant je n'ose me confier à personne, dans la situation où je vois les choses.</p>
+          </sp>
+        </div>
+        <div type="scene" n="6">
+          <head>SCÈNE VI. Angélique, Valère.</head>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE, agité et d'un air emporté.</speaker>
+            <p>Voici encore, Mademoiselle, et j'ai résolu de ne point retourner à Paris que vous ne vous soyez expliquée avec moi. Je vous l'avoue, vos manières ont mis ma patience à bout ; je suis outré, non, je ne me possède plus, quand je pense que depuis le temps que je viens céans, ni mon amour, ni mon respect, ni mes prières, ni mes reproches, n'ont encore pu vous arracher une seule parole, sur quoi je puisse tabler... Quand je vous parle de la plus violente passion qui fut jamais, vous m'écoutez avec une tranquillité, une indolence incompréhensible : car enfin on témoigne aux gens ou de la reconnaissance ou du mépris, ou de la pitié, ou de la colère. Juste ciel ! Que dois- je donc juger d'un silence si obstiné !</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Vous devez juger que je suis prudente, et rien plus.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Mais enfin approuvez-vous mon amour, ou si vous le condamnez ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je n'en sais rien.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Quoi, toujours sur le même ton ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Vous ne vous êtes point encore aperçu que j'eusse aucune inclination pour vous ? N'est-ce pas ?</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>C'est ce qui me désole.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Vous n'avez pas remarqué non plus que j'ai de l'aversion.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Non vraiment, mais cela ne suffit pas.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Cela suffit pour moi, car j'ai intérêt d'être impénétrable à vôtre curiosité ; ne vous ai-je pas dit déjà, que j'ai formé certain projet pour mon établissement, et que suivant ce projet, il ne faut pas que ma mère sache, si je vous aime , ou si j'en aime un autre : il faut que mon père l'ignore aussi, et par conséquent, que vous l'ignoriez vous-même : car si vous le saviez, mon père, ma mère, et tous ceux qui vous voient, en seraient bientôt instruits.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Vous me croyez donc bien indiscret.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Non, mais votre vivacité vous tient lieu d'indiscrétion.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE, d'un air fort tranquille.</speaker>
+            <p>Je sais modérer cette vivacité, par exemple au moment que je vous parle je me possède plus que vous ne pensez, et je vous jure qu'un mot d'éclaircissement, oui un seul mot de votre bouche va me rendre aussi tranquille que vous.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Mais si ce mot était que je n'ai nul dessein de vous épouser.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE, s'emportant.</speaker>
+            <p>Ah ! C'est ce que vous n'osez me dire, qu'entends-je ? Juste ciel !</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Vous n'êtes pas tranquille, le seriez-vous davantage si je vous promettais de n'être jamais a d'autre qu'à vous.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE, transporté de joie.</speaker>
+            <p>Si vous me le promettiez, ah ! J'en mourrais de plaisir, oui, mon bonheur serait si grand !</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Que vous iriez le publier aussitôt, voila comment vos transports de joie, ou vos désespoirs outrés pourraient divulguer mon secret s et dès que ma mère saurait le choix que je veux faire, elle en ferait un contraire à coup sîr ; ainsi trouvez bon que je vous laisse ignorer mes desseins.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Je ne les ignore plus, ingrate, et puisqu'il faut vous le dire, je viens d'apprendre céans que vous épousez aujourd'hui Monsieur Thibaudois.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Cela pourrait être.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>C'est pour cela que je suis revenu sur mes pas.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>He bien, retournez-vous-en.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Et c'est ce qui m'a fait comprendre toute votre politique, je vois que vous m'avez ménagé jusqu'à présent, parce que je suis ami de votre mère ; vous craignez qu'irrité par vos refus, je n'empêche ce mariage.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Empêcher ce mariage ! Je vous serais trop galant homme pour empêcher un établissement avantageux pour moi.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Non, cruelle, non, ne craignez rien, si vous pouvez être heureuse avec un autre, j'en mourrai de douceur, mais je ne m'y opposerai point.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Vous pourriez traverser mes desseins, mais s'il est vrai que je n'ai point d'inclination pour vous, vous ne la ferez pas venir à force de me chagriner ; prenez donc le parti qui me convient, ne voyez aujourd'hui ni mon père ni ma mère, je vous ai défendu de paraître ici, retirez-vous, je vous prie.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>J'obéis aveuglement, mais si vous me trompez....</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je ne vous tromperai point, car je ne vous promets rien.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Si vous me trompez vous êtes la plus cruelle, la plus...</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Ô pour me dire des injures attendez que je les ai méritées, je les mériterai peut-être bientôt, ne vous impatientez point.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Quoi ! Vous pourriez...</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Voilà mon père, partez vite.</p>
+          </sp>
+        </div>
+        <div type="scene" n="7">
+          <head>SCÈNE VII. Angélique, Oronte.</head>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Réjouis-toi, ma fille, réjouis-toi, tu seras mariée selon mes désirs, je triomphe, et je l'emporterai enfin sur ma femme.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Ah, mon père, je crains bien.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je l'emporterai, te dis-je, car elle vient de me proposer d'elle-même ce que je veux, et je n'ai pas fait mine de le souhaiter, de peur qu'elle ne change de dessein.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Si la pensée est venue d'elle, l'exécution suivra bientôt.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Oui, ma fille, les gros biens de Monsieur Thibaudois plaisent à ma femme comme à moi. En effet, un riche négociant est un trésor pour une fille comme toi qui n'a pas d'amourette en tête. À la vérité Monsieur Thibaudois est un peu rustique, un peu grossier, mais il est franc.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je pardonne la grossièreté en faveur de la franchise.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>On trouve qu'il n'a point d'esprit, je trouve moi qu'il en aurait beaucoup, s'il pouvait seulement se désacoûtumer, de dire à tort et à travers des choses où il n'y a ni rime ni raison. Il a encore une autre mauvaise habitude, c'est de tutoyer tout le monde ; il tutoie jusqu'à des femmes qu'il n'aura jamais vues.</p>
+          </sp>
+        </div>
+        <div type="scene" n="8">
+          <head>SCÈNE VIII. Angélique, Oronte, Monsieur Thibaudois.</head>
+          <stage>Thibaudois étalant une grand veste dorée, parement larges, gros ventre, et les deux mains pleines de grosses bagues dans tous les doigts.</stage>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Hé ben, voisin, hé ben , hé ben, ta femme dit donc que... Mais que dit-elle donc cette femme, ha te voila, toi fille, hé ben,hé ben, quand épouserons-nous ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je ne sais.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Cela n'est pas encore fait.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Si fait, si fait, c'est fait, oui, oui, va, Angélique, je te baille ma foi. Quin vla des bagues à mes doigts prends la plus grosse.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Nous n'en sommes pas encore là.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Il faut que nous délibérions.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Délibérons, délibérons.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Il faut prendre des mesures.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS, prenant les mains d'Angélique.</speaker>
+            <p>Prenons, prenons...</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Pendant que vous délibérez , il est à propos que je me tienne auprès de ma mère.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Va vite , nous n'avons point de temps è perdre.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Cela presse, oui, attends, attends, je veux te voir encore, cela m'égaye, parlons de choses et d'autres, conte moi un peu.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Que voulez-vous que je vous conte ?</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Mais conte-moi, conte... Tu es bien gentille dea, conte-moi un peu.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Il est temps que j'aille.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS, le tenant toujours par le bras.</speaker>
+            <p>Ho je veux que tu me contes, he ben je t'aime de tout mon coeur dea, conte moi un peu ça.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Vous m'aimez, je vous en suis fort obligée, voila le conte fini.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Voila le conte fini, he ben comment fais-tu ce conte-là, conte-moi donc...</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE, ôtant la main de Thibaudois de celle d'Angélique.</speaker>
+            <p>Ô laissez-la aller, il ne faut pas que sa mère la voie avec vous.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Va donc, va ma fille, dépêche-toi d'être ma femme.</p>
+          </sp>
+        </div>
+        <div type="scene" n="9">
+          <head>SCÈNE IX. Oronte, Thibaudois.</head>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Ça raisonnons un peu sur la manière dont nous nous y prendrons pour tourner l'esprit de ma femme ; car c'est la grande difficulté de notre affaire.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>N'y-t-il que cela qui t'embarrasse ?</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Non vraiment ; car...</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Cela ne m'embarrasse point moi.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Avez-vous quelque expédient pour faire que...</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Oui, oui, va, je ferai cela ; dis-moi comment vas- tu faire ?</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>C'est ce qui m'embarrasse , vous dis-je.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Tu tu tu es un pauvre génie, gn'y a rien de si aisé.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Instruisez-moi donc.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Rien de si aisé ; car enfin comment t'y prendras-tu ?</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je n'en sais rien.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Mais, mais, mais , ni moi non plus ; car c'est une terrible femme que l'esprit de ta femme.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je vois bien que nous sommes aussi habiles l'un que l'autre pour imaginer ; mais par bonheur, j'ai un jardinier à qui il vient les meilleures pensées du monde, c'est une bonne tête.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>J'ai de la tête aussi moi, fais venir l'homme nous imaginerons.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Le voici.</p>
+          </sp>
+        </div>
+        <div type="scene" n="10">
+          <head>SCÈNE X. Oronte, Thibaudois, Lucas.</head>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Hé bien, Lucas, rêves-tu à notre affaire, as-tu fait réflexion sur ce que je t'ai dit ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Chut.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Chut.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Chut.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Monsieu que vla, veut bain de Mademoiselle Angélique, a veut ben de ly, Madame le veu ben, vous le voulez ben, et moi itou, vla ques don fait.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Vla ques donc fait.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je dis que ça n'est pas fait, car drés qua vera, que je le voulons tré-tous, a ne le voudra pu elle.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Voila le mal.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Voila le mal.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Ô ! je vous demande si....</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Assurément.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Belle demande ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je vous demande don, si ne saurai pas que je fissions là... Comme si...</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>C'est bien pense cela.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Fort bien, Lucas.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>C'est mon avis.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Vla de biaux avis qu'ous avé-là, fau vous faire Conseillé de Village, vous opinerais par écho ; je dis don moi, que la volonté de vote femme, est comme eune giroite, qui voudrait toujou se torner à l'encontre du vent, fau donc faire semblant que le vent vient d'aval, pour qu'a tourne d'amont ; ô ! L'y a doux vents qui soufflons su Mademoiselle Angélique, Monsieur deun côté, et ce Valère de l'autre , gna don qu'à dire à vote femme, que c'est Valère que nous voulons, et a nous baillera sti-ci par opposite ; via ma sentence.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Voila le noeud.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Il y a cent écus pour Lucas, vla le noeud.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Faut faire deux noeuds pour que ça quienne, mais il y a encore une cérémonie, pour mettre Madame ben en humeur de s'ostiner à ça.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Nous prendrons le moment, notre notaire a le mot, le Contrat est tout prêt.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Oui, mais pour qu'a le fine ben vue, fau qu'a le sine de rage ; et j'ai le secret pour l'agacer, c'est comme quand a vient pour argoter sur mon jardin, je fais semblant de ne dire mot, je ratisse ma bêche, a s'ostine su ma contenance, je secoue la tête, a pren ça pour des paroles, et a dispute contre ; le feu s'i boute, et quand sa conterdition est allumée, si vous l'y aliais soutenir qu al est honnête femme, a vous dirait, qu'ous en avé menti ; mais la via. Je vas l'ostiner, epi vous viendrais tout d'un coup l'y demander Valère.</p>
+          </sp>
+        </div>
+        <div type="scene" n="11">
+          <head>SCÈNE XI. Lucas, Madame Oronte.</head>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Tu étais là encore avec mon mari, il t'a dit apparemment lequel il veut choisir pour gendre, ou de Valère, ou de Monsieur Thibaudois que je lui ai proposé.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS, tournant son chapeau.</speaker>
+            <p>Hon.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Tu tournes ton chapeau, c'est à dire que mon mari n'est pas de mon avis.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS, secoue.</speaker>
+            <p>Pta.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Monsieur Thibaudois, dis-tu, n'est pas du goût de mon mari, et il aimerait mieux Valère.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Hé, hé, hé!</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Parce qu'il est plus jeune, n'est-ce pas qu'il plairait davantage à ma fille ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Hé ! Mais.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Quoi, tu me soutiendras qu'un établissement solide, que les gros biens de Monsieur Thibaudois ne sont pas préférables ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Baon.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>J'enrage quand j'entends raisonner ainsi.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Mais, mais, mais...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Faux raisonnement que tout cela.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS, frappant du pied.</speaker>
+            <p>Morgué.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Et tout ce que tu me dis-là, c'est mon mari qui te le fait dire.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Palsangoy.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ne voila-t-il pas mot pour mot tous ses discours ? Ô bien, je lui déclare que malgré lui...</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Ha...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Oui, malgré lui à sa barbe.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Pao.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Oui... Il le prend sur ce ton là ; je lui ferai bien voir...</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Pa-ta-ta</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Il verra si je suis la maîtresse.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Prrr...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE parlant en elle-même, comme si son mari était près.</speaker>
+            <p>Ô c'en est trop, mon mari, vous me contrecarrez, vous m insultez, vous, m'outragez.</p>
+            <stage>Lucas fait signe à Oronte d'avancer, et il le met à sa place à côté de Madame Oronte, pendant qu'elle parle seule.</stage>
+          </sp>
+        </div>
+        <div type="scene" n="12">
+          <head>SCÈNE XII. Lucas, Madame Oronte, [Oronte].</head>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE à Oronte qu'elle voit à la place où était Lucas.</speaker>
+            <p>Continuez Monsieur, continuez. Je voudrais bien savoir où vous prenez toutes les extravagances que vous venez de me dire.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je n'ai encore rien dit.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Poursuivez donc, courage. Il faut être bien obstiné pour me soutenir...</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Il est vrai que je venais pour vous parler.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Me soutenir sans raison, sans jugement, que Monsieur Thibaudois ne convient pas à ma fille ?</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE, doucement.</speaker>
+            <p>Valère pourtant....</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ne me parlez pas davantage.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE, doucement.</speaker>
+            <p>Je vous demande Valère ; et...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p> Non, Monsieur, Valère n'a que faire de se présenter a moi.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE en suppliant.</speaker>
+            <p>Hé ! Je vous prie, par complaisance pour moi...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Dés demain, je donne ma fille à Monsieur Thibaudois.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Mais la raison ?</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>La raison est pour moi, et pour preuve que j'ai raison, c'est que cela fera comme je le veux, et dès aujourd'hui Monsieur Thibaudois est ici. Tenez vous prêt pour signer.</p>
+          </sp>
+        </div>
+        <div type="scene" n="13">
+          <head>SCÈNE XIII. Lucas, Oronte.</head>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Hé bien ! N'ai-je pas tenu bon ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Ô parguenne pour cette fois-ci, a fera vote volonté, et sera la première fois de sa vie.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Ça, Le notaire ext-il arrivé ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je m'en vas voir, et pi je reviendrons encor crier que je voulons Valère, afin qu'a sine vitement pour l'autre.</p>
+          </sp>
+        </div>
+        <div type="scene" n="14">
+          <head>SCÈNE XIV. Oronte, Angélique</head>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Nous avons tait merveille, ma fille.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>J'ai tout entendu, j'étais là sous ce berceau avec le notaire ; il vient d'arriver, il est temps qu'il paraisse.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je vais lui parler ; va vite rejoindre ta mère.</p>
+          </sp>
+        </div>
+        <div type="scene" n="15">
+          <head>SCÈNE XV.</head>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Voilà les choses au point où je les souhaitais et les mesures que je prends, pourront réussir. Examinons ce que tout ceci deviendra.</p>
+          </sp>
+        </div>
+        <div type="scene" n="16">
+          <head>SCÈNE XVI. Madame Oronte, Le Laquais.</head>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <note>"À qui appartiens-tu" signifie "pour qui travailles-tu ?"</note>
+            <p>Dis-moi donc, mon enfant, de quelle part m'apportes-tu ce billet ? À qui appartiens-tu ?</p>
+          </sp>
+          <sp who="LE-LAQUAIS">
+            <speaker>LE LAQUAIS.</speaker>
+            <p>On m'a défendu de vous dire tout cela, et afin que vous ne me faisiez point parler malgré moi, je m'enfuis au plus vite.</p>
+          </sp>
+        </div>
+        <div type="scene" n="17">
+          <head>SCÈNE XVII.</head>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Que veut dire ce mystère ? </p>
+            <stage>Elle lit bas.</stage>
+            <p>Hon , hon , hon... Je vous donne avis que votre fille est d'intelligence avec Monsieur Thihaudois, quelle veut épouser ; et pour vous faire signer leur contrat, ils ont un Notaire en main, qui se doit trouver chez. Vous comme par hasard. Justement, c'est ce Notaire que j'ai vu là avec Angélique ; l'avis est bon. En un mot votre mari doit feindre de ne vouloir point de Monsieur Thibaudois afin que vous vous déterminez pour lui. Oui ! Monsieur Thibaudois est l'homme de mon mari...</p>
+          </sp>
+        </div>
+        <div type="scene" n="18">
+          <head>SCÈNE XVIII. Madame Oronte, Lucas, [Oronte].</head>
+          <sp who="LUCAS">
+            <speaker>LUCAS, bas.</speaker>
+            <p>Courage, Monsieur, crions ben fort que je ne voulons point Monsieur Tbibaudois, afin qua nous le baille pu vite.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE à sa femme, en faisant le fâché.</speaker>
+            <p>Écoutez, ma femme...</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je vous disons donc que...</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je veux bien que vous sachiez que...</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Que je sommes vote mari.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Vous dites que vous voulez Monsieur Thibaudois pour gendre, n'est-ce pas ? Je vous dis moi, que ma fille ne veut point de lui.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Al en en veut un pu délicat.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ce n'est ni la volonté de ma fille, ni la mienne, qui doit décider, c'est la vôtre, mon mari, et là-dessus, comme sur toute autre chose, vous êtes le maître.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>C'est moi itou qui trouve à propos que...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Tu es homme de bon conseil, Lucas, j'écoute volontiers tes avis.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>En un mot, ma femme, vous m'avez proposé Monsieur Thibaudois, et moi je n'en veux point.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Parlons avec douceur. J'aime la paix, et l'union, je ferai ce qui vous fera le plus agréable.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Ce qui m'est agréable, c'est de n'avoir point de complaisance là-dessus.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>C'est à moi d'en avoir pour un mari que j'aime, et que je respecte...</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Vous plaisantez, et je vous dis très sérieusement que Monsieur Thibaudois n'est point de mon goût.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Votre goût détermine le mien, et je ne pense plus à Monsieur Thibaudois.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE, bas à Lucas.</speaker>
+            <p>Lucas ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Poussons ferme, c'est que la contredition n'est pas encore en branle.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Parlez donc, Madame, est-ce que vous vous moquez de moi ?</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Mais pourquoi vous emporter, puisque je vous donne ma parole ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Bon ! Vote parole, a va et vient comme l'air du temps.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous en allez voir l'exécution.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Vous n'en ferez qu'à vôtre tête.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Pour vous prouver ma sincérité, et ma soumission, je vais de ce pas défendre à Monsieur Thibaudois de mettre jamais le pied dans votre maison.</p>
+          </sp>
+        </div>
+        <div type="scene" n="19">
+          <head>SCÈNE XIX. Oronte, Lucas.</head>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je crois qu'elle y va tout de bon : de quoi s'avise telle d'être complaisante aujourd'hui ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Ouais, li de la leune là-dedans.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Il faut être bien malheureux , la seule fois de sa vie qu'elle ne me contredit point , c'est pour me contredire.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>À vous obéir, ça n'est pas naturel.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je vais voir si c'est tout de bon, je ne saurais le croire.</p>
+          </sp>
+        </div>
+        <div type="scene" n="20">
+          <head>SCÈNE XX.</head>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Hon, fau que li ai la queuque chose, je me doute quasiment.</p>
+          </sp>
+        </div>
+        <div type="scene" n="21">
+          <head>SCÈNE XXI. Lucas, Thibaudois.</head>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Hé bien ! Hé bien Lucas , on va finer le contrat, c'est de l'argent qu'il faudra que je te baille.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>On vous va baillé vote congé à vous, Madame vous cherche pour ça.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>A ne veut point de moi, dis-tu ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je m'en vas voir encore tout ça, moi-même, attendez-moi là.</p>
+          </sp>
+        </div>
+        <div type="scene" n="22">
+          <head>SCÈNE XXII.</head>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>J'aime pourtant bien cette petite Angélique : mais je me moque de cela, si je ne l'épouse pas, j'ai de quoi en épouser quatre autres.</p>
+          </sp>
+        </div>
+        <div type="scene" n="23">
+          <head>SCÈNE XXIII. Monsieur Thibaudois, Angélique, Valère qui suit Angélique, pour examiner ses demarches.</head>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Hé ben, hé ben , pauvre fille, te voila mal, tu ne seras point mariée.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Voila un fâcheux contre-temps.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Cela te sache donc, j'en fuis bien aise ; c'est que tu m'aimes, et c'est bien fait ; ne pleure point, va ne pleure point, tu m'auras.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Allez donc vous joindre à mon père, secondez-le bien, parlez ensemble à ma mère, priez-la, pressez-la.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Quin , quin , voilà ton autre amant qui nous écoute.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE, surprise et fâchée, se met à rêver.</speaker>
+            <p>Hà vous êtes-là, Valère ?</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Ce que je viens d'entendre, et ce que vous m'avez dit tantôt, votre affectation à me renvoyer, le Notaire que j'ai vu ; tout enfin me prouve assez votre trahison ; mais vous ne méritez pas que j'en fois assez touché pour vous la reprocher. Je prends le parti à du mépris et du silence. </p>
+            <stage>Il élève tout d'un coup sa voix.</stage>
+            <p>N'attendez pas de moi, ni des emportements, ni des reproches, ingrate ; non, perfide ! Non, traîtresse...</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Appelles-tu cela des douceurs ?</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Juste ciel !</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>De quoi se plaint-il donc ? Est-ce que tu lui as promis quelque chose ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE, prenant son parti après avoir rêvé longtemps.</speaker>
+            <p>Rien du tout, Monsieur Thibaudois : je voudrais bien savoir, Monsieur, de quel droit vous venez m'injurier ? Sur quoi, je vous prie, pouviez-vous fonder vos espérances ? Premièrement mon père peut-il balancer, entre les richesses de Monsieur, et le peu de bien que vous avez ?</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS, montrant ses bagues.</speaker>
+            <p>Quin, vois-tu la main que je lui baille, ces cinq doigts-là valent tous les contrats d'un Officier d'épée.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Pour moi, je préfère la bonne humeur de Monsieur, à ce sérieux passionné dont vous ne sortez jamais.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Fi, il est amoureux comme un Roman.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Ses bons mots me touchent plus que toutes vos mines de désespéré.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>J'ai ouï dire que les femmes n'aiment point les affligés, il me fait pitié pourtant, va mon Capitaine, va. Pour te consoler je te prêterai de l'argent.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Hé ! Morbleu, Monsieur...</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE, prenant Valère par le bras.</speaker>
+            <p>Vous allez vous emporter ; retirez-vous, je vous prie, je n'aime pas les emportés.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Hé, ni moi non plus ; je vais rejoindre ton père.</p>
+            <stage>Bas à Angelique.</stage>
+            <p>Défais-toi de cet homme-là, baille-lui son congé , et viens me retrouver.</p>
+          </sp>
+        </div>
+        <div type="scene" n="24">
+          <head>SCÈNE XXIV. Angélique, Valère.</head>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Votre procédé me paraît si outré, que je pourrais vous soupçonner de feindre : je ne m'en flatte pas ; mais enfin , s'il était vrai que vous eussiez affecté de parler ainsi en présence de Monsieur Thibaudois... Le voilà parti, justifiez-vous.</p>
+          </sp>
+        </div>
+        <div type="scene" n="25">
+          <head>SCÈNE XXV. Angélique, Valère, Madame Oronte, à part.</head>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ma Fille seule avec Valère.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Justifiez-vous donc, ou convenez que vous m'avez trahi ; parlez, nous sommes seuls.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je vous parlerai à vous seul, comme je vous a parlé en la présence de Monsieur Thibaudois. Mon père veut que je l'épouse, et je vous déclare que j'en suis ravie.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Ô ! Je ne puis plus me contenir ; plus de ménagements, je vais trouver votre mère.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Allez , Monsieur, allez ; vous pouvez lui dire , que je n'ai nulle inclination pour vous.</p>
+          </sp>
+        </div>
+        <div type="scene" n="26">
+          <head>SCÈNE XXVI. Valère, Madame Oronte, Angélique.</head>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE, apercevant.</speaker>
+            <p>Madame, avez-vous entendu ? Je suis trahi, Madame, car enfin , il n'est plus temps de vous cacher mon amour pour une ingrate, vous voyez comme elle me traite.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous me faites compassion, Monsieur, voir la fille et le père acharnés contre vous et contre moi ! J'entre dans votre situation, car je me conforme volontiers aux sentiments des autres.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Non, après le procédé d'Angélique, je ne veux jamais entendre prier d'elle.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Je vous l'avouerai, je n'avais nulle envie de vous proposer ma fille.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Vous me la proposeriez en vain.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Mais pour vous prouver à vous qui êtes un homme raisonnable, que la raison seule me détermine ; il me prendrait envie de vous offrir...</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Je refuse vos offres, Madame, je ne fuis pas homme à violenter les inclinations.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Que j'aurais de plaisir à vous venger de mon mari, de ma fille, de tout le monde enfin ! Car tous s'accorde pour me contredire ; je vous prie, Monsieur...</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Il n'en sera rien.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Quoi vous me contredites aussi ? Ô ! Je vous ferai de si gros avantages, que je vous obligerai à épouser ma fille.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE, s'avançant.</speaker>
+            <p>Quoi ma mère, vous voudriez m'engager malgré moi ?</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Malgré vous, ma fille, ne vous souvient-il plus que vous n'avez point de volonté ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Hélas ! Quand je vous parlais ainsi je ne parlais pas sincèrement, pourquoi voulez-vous empêcher un riche établissement que je trouve avec Mr Thibaudois ?</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Monsieur a plus de bien que vous n"en méritez.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE, se jetant à genoux.</speaker>
+            <p>Hé ! Ma mère, je vous en conjure.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Taisez-vous, je sais toutes vos menées, le Notaire m'a tout dit ; vouloir me trahir, m'exposer à faire la volonté d'un mari ! Pour vous punir je vous ferai signer le même contrat, que vous aviez fait dresser contre moi, je vais le faire remplir du nom de Valère.</p>
+          </sp>
+        </div>
+        <div type="scene" n="27">
+          <head>SCÈNE XXVII. Angélique, Valère.</head>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Non, Madame, non, je ne signerai point , j'aimerais mieux mourir que d'épouser votre fille.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE, imitant Valère.</speaker>
+            <p>J'aimerais mieux mourir que d'épouser votre fille ! Vous prononcez cela bien naturellement.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Comme je le sens, ingrate.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Et comme je le souhaitais, car pour vous le faire prononcer d'un ton à le persuader à ma mère, il a bien fallu vous le faire sentir vivement ; vous ne l'auriez pas si bien trompée, si je ne vous avais trompé vous-même.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Expliquez- vous !</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Pour faire consentir ma mère à ce que je souhaitais, il a fallu laisser aussi mon père dans l'erreur, il a agi naturellement ; et quand j'ai vu qu'ils étaient tous pour Monsieur Thibaudois, j'en ai fait avertir ma mère, afin qu'elle fût contre ; un billet inconnu l'a instruite du complot, c'est ce billet qui a excité sa contradiction, voyant tout le monde contre vous, elle a pris votre parti, pour contredire tout le monde, et veut vous contraindre à m'épouser, pour vous contredire aussi.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Ce que j'entends est-il bien vrai ? Mon malheur m'accablait , mon bonheur m'éblouit, je ne le vois pas encore.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je voudrais que vous ne le vissiez qu'après la signature. Je crains quelque transport de joie indiscrète ; non, Valère, ne soyez point encore convaincu que je vous aime.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE, avec transports.</speaker>
+            <p>Ah ! Trop aimable Angélique !</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Quelqu'un vient, feignons encore.</p>
+          </sp>
+        </div>
+        <div type="scene" n="28">
+          <head>SCÈNE XXVIII. Angélique, Valère, Lucas.</head>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Non Valère, non, je ne vous épouserai jamais malgré moi.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Non, morgué, ce ne serait pas malgré vous ; car serait de bon coeur qu'ou l'épouseriais, mais ça ne sera pas pourtant ; car je me sis douté qu'ou maniganciais l'amour ensemble, et que vous faisiais semblant de faire semblant, vote mère aloi baillé ladedan, oui, mais je l'ai averti qu'ou la trompiais.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Ah Ciel !</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Malheureux que tu es.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Sera peut vous le malheur, car Madame va revouloir, ce qua vouloir, de van qua su, qu'ou vouliais li faire vouloir , tanquia que je li ai dit tout ça moi, car Monsieur Thibaudois me baille cent écus.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Hé, maraut, que ne m'en demandais-tu deux cents ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Il n'est pu temps, Madame sait tout, stanpendant si je voyais là vote argent, i ne serait pu vrai que Madame sait tout, car morgué a ne sait rien.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Ha, mon pauvre Lucas...</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Tiens, voila ma bourse.</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Et via Madame qui revient, je iras vous épauler.</p>
+          </sp>
+        </div>
+        <div type="scene" n="29">
+          <head>SCÈNE XIX. Angélique, Valère, Lucas, Thibaudois.</head>
+          <note>La numérotation des scènes finales est fantaisiste, elle est rendue cohérente.</note>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Vené don vite, Madame, vla des jeunes gens qui se querellont, vené vite les séparer, je les ai trouvez qui se disiont rage , ils se disputiont tant,que j'ai cru qu'ils étaient déja mariés ensemble.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Révolter ma fille contre moi ! Il faut être bien insolent. Vous voilà encore céans, Monsieur, sortez tout à l'heure.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Va va , je suis plus complaisant que toi, tu me chasses, je m'en vas.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Vous n'êtes qu'un brutal.</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Adieu, Femme.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Un benet, un sot...</p>
+          </sp>
+          <sp who="THIBAUDOIS">
+            <speaker>THIBAUDOIS.</speaker>
+            <p>Je n'ai jamais contredit personne.</p>
+          </sp>
+        </div>
+        <div type="scene" n="30">
+          <head>SCÈNE XXX. Angélique, Valère, Lucas, Madame Oronte, Oronte, La Notaire.</head>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>En vérité ma femme...</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Taisez-vous mon mari.</p>
+          </sp>
+          <sp who="LE-NOTAIRE">
+            <speaker>LE NOTAIRE.</speaker>
+            <p>Si j'osais, Madame, vous représenter.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Je suis ravie que vous soyez aussi contre Valère, il ne manquait plus que vous. Donnez ce contrat, et que je commence par signer. </p>
+            <stage>Elle signe.</stage>
+            <p>Allons Angélique, signez après moi, obéissez.</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE, en signant.</speaker>
+            <p>Je ne serai pas mariée pour cela ; car mon père ne veut pas signer.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Signez, Monsieur mon mari, signez, ou bien....</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE, en signant.</speaker>
+            <p>Quand je signerai , cela ne fera rien , car vous ne ferez pas signer Valère de force.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Pour vous y obliger, Monsieur, j'ai fait mettre ici un mot de donation.</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE se jette tout d'un coup sur le contrat et le signe.</speaker>
+            <p>Hé ! Je n'ai que faire de votre donation, fuyez, Monsieur, emportez vite la minute, de peur que Madame ne se dédise.</p>
+          </sp>
+          <sp who="LE-NOTAIRE">
+            <speaker>LE NOTAIRE, s'en allant.</speaker>
+            <p>L'affaire est consommée.</p>
+          </sp>
+        </div>
+        <div type="scene" n="31">
+          <head>SCÈNE XXXI. Valère, Angélique, Lucas, Oronte, Madame Oronte.</head>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Que veut dire cela ?</p>
+          </sp>
+          <sp who="LUCAS">
+            <speaker>LUCAS.</speaker>
+            <p>Je vous avais ben dit, Madame, qui s'aimaient l'un l'autre.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Je ne voulais que la marier, n'importe auquel.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Ah ! Je suis trahie ?</p>
+          </sp>
+          <sp who="ANGÉLIQUE">
+            <speaker>ANGÉLIQUE.</speaker>
+            <p>Je me jette à vos pieds, ma mère,</p>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Mille pardons, Madame.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Je ne le pardonnerai de ma vie.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Vous avez signé.</p>
+          </sp>
+          <sp who="MADAME ORONTE">
+            <speaker>MADAME ORONTE.</speaker>
+            <p>Oui, mais je déshérite ma fille ; je ne veux jamais voir mon gendre ; je me sépare d'avec mon mari, je ferai pendre le Notaire et Lucas, je fuis désespérée. </p>
+            <stage>Elle s'enfuit.</stage>
+          </sp>
+          <sp who="VALÈRE">
+            <speaker>VALÈRE.</speaker>
+            <p>Nous la ferons revenir à force de soumissions.</p>
+          </sp>
+          <sp who="ORONTE">
+            <speaker>ORONTE.</speaker>
+            <p>Voilà ce qui s'appelle l'esprit de contradiction.</p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,3 +1,4 @@
+import lxml
 from lxml import etree as ET
 import os
 
@@ -41,27 +42,29 @@ def create_directory(directory_path):
         print(f"Error: {str(e)}")
 
 
-def create_metadata(tree):
-    title = tree.find(".//title").text
-    auteur = tree.find(".//author").text
-    id = "CRE_THEATRE_" + tree.find(".//idno").text
-    #date = tree.find(".//docDate").text
+def parse_tree_metadata(tree):
+    metadata = {}
+    metadata["title"] = tree.find(".//title").text
+    metadata["author"] = tree.find(".//author").text
+    metadata["id"] = "MOLIÊT_" + tree.find(".//idno").text
+    #metadata["date"] = tree.find(".//docDate").text
     publisher = tree.find(".//publisher")
     if publisher:
-        publisher=publisher.text
+        metadata["publisher"]=publisher.text
     else:
-        publisher = ""
-    permalien = tree.find(".//permalien").text
+        metadata["publisher"] = ""
+    metadata["permalien"] = tree.find(".//permalien").text
+    metadata["castItem"] = tree.findall(".//castItem/role")
+    metadata["listperson_xml"]= create_multiple_person(metadata["castItem"])
+    return metadata
 
-    castItem = tree.findall(".//castItem/role")
-    listperson_xml = create_multiple_person(castItem)
-
+def create_metadata_xml(metadata):
     metadata = f"""
         <teiHeader>
                 <fileDesc>
                     <titleStmt>
-                        <idno>{id}</idno>
-                        <title type="main">{title}</title>
+                        <idno>{metadata["id"]}</idno>
+                        <title type="main">{metadata["title"]}</title>
                         <respStmt>
                             <resp>Encoding</resp>
                             <persName xml:id="RDENT">
@@ -97,17 +100,17 @@ def create_metadata(tree):
                     </publicationStmt>
                     <sourceDesc>
                         <bibl type="printSource">
-                            <ptr target="{permalien}"/>
-                            <title>{title}</title>
-                            <author>{auteur}</author>
+                            <ptr target="{metadata["permalien"]}"/>
+                            <title>{metadata["title"]}</title>
+                            <author>{metadata["author"]}</author>
                             <publisher>Gallica</publisher>
                             <date when=""/>
                         </bibl>
                         <bibl type="digitalSource">
                             <ptr
-                                target="https://www.theatre-classique.fr/pages/documents/{file}"/>
-                            <title>{title}</title>
-                            <author>{publisher}</author>
+                                target="{metadata["permalien"]}"/>
+                            <title>{metadata["title"]}</title>
+                            <author>{metadata["publisher"]}</author>
                             <publisher>Théâtre Classique</publisher>
                             <date when="2021"/>
                         </bibl>
@@ -122,7 +125,7 @@ def create_metadata(tree):
                             <idno type="langue">met-fr</idno>
                             <idno type="script">latin</idno>
                             <name>Français</name>
-                            <date when=""/>
+                            <date when=f"{metadata["date"]}"/>
                             <location><country>Paris</country></location>
                         </language>
                     </langUsage>
@@ -134,7 +137,7 @@ def create_metadata(tree):
                     </textClass>
                     <particDesc>
                         <listPerson>
-                            {listperson_xml}
+                            {metadata["listperson_xml"]}
                         </listPerson>
                     </particDesc>
                 </profileDesc>
@@ -145,18 +148,26 @@ def create_metadata(tree):
         """
     return metadata
 
-for file in os.listdir("theatre"):
-    print(file)
-    xml_file = "theatre/"+file
-    tree = ET.parse(xml_file)
-    metadata_string = create_metadata(tree)
-    xsl_file = ET.parse("html2tei.xsl")
-    xsl_transform = ET.XSLT(xsl_file)
-    transformed_xml = xsl_transform(tree).getroot()
-    root = ET.Element("TEI", xmlns="http://www.tei-c.org/ns/1.0")
-    metadata = root.append(ET.fromstring(metadata_string))
-    text = root.append(transformed_xml)
+def main(raw_dir):
     create_directory("theatre_TEI")
-    ET.ElementTree(root).write(f'theatre_TEI/{file}', pretty_print=True, encoding="UTF-8",
-                               xml_declaration=True)
+    for file in os.listdir(raw_dir):
+        try:
+            #print(file)
+            xml_file = f"{raw_dir}/{file}"
+            tree = ET.parse(xml_file)
+            metadata_dict = parse_tree_metadata(tree)
+            metadata_string = create_metadata_xml(metadata_dict)
+            xsl_file = ET.parse("html2tei.xsl")
+            xsl_transform = ET.XSLT(xsl_file)
+            transformed_xml = xsl_transform(tree).getroot()
+            root = ET.Element("TEI", xmlns="http://www.tei-c.org/ns/1.0")
+            metadata = root.append(ET.fromstring(metadata_string))
+            text = root.append(transformed_xml)
+            ET.ElementTree(root).write(f'theatre_TEI/{file}', pretty_print=True, encoding="UTF-8",
+                                       xml_declaration=True)
+        except ET.XMLSyntaxError:
+            print(f"Unable to parse {file}")
+        except AttributeError:
+            print(f"{file} has no text")
+
 
