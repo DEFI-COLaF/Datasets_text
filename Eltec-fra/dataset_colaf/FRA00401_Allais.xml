@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -52,10 +53,19 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="met-fra-std" usage="100">
+        <language ident="met-fra-std" usage="99">
           <idno type="langue">met-fra-std</idno>
           <idno type="script">latin</idno>
           <name>Français</name>
+          <date>1902</date>
+          <location>
+            <settlement>Paris</settlement>
+          </location>
+        </language>
+        <language ident="en" usage="1">
+          <idno type="langue">en</idno>
+          <idno type="script">latin</idno>
+          <name>Anglais</name>
           <date>1902</date>
           <location>
             <settlement>Paris</settlement>
