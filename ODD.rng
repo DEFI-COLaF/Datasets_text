@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2024-05-24T08:27:51Z. .
+Schema generated from ODD source 2024-05-28T12:11:30Z. .
 TEI Edition: Version 4.6.0. Last updated on
         4th April 2023, revision f18deffba
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.6.0/
@@ -2782,6 +2782,9 @@ Suggested values include: 1] full (full form); 2] pref (prefix); 3] suff (suffix
             <zeroOrMore>
                <ref name="fw"/>
             </zeroOrMore>
+            <zeroOrMore>
+               <ref name="note"/>
+            </zeroOrMore>
          </interleave>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
                   id="oddbyexample-p-abstractModel-structure-p-in-ab-or-p-constraint-report-6">
@@ -2875,6 +2878,12 @@ Suggested values include: 1] full (full form); 2] pref (prefix); 3] suff (suffix
             </zeroOrMore>
             <zeroOrMore>
                <ref name="quote"/>
+            </zeroOrMore>
+            <zeroOrMore>
+               <ref name="lg"/>
+            </zeroOrMore>
+            <zeroOrMore>
+               <ref name="ref"/>
             </zeroOrMore>
          </interleave>
          <ref name="att.global.attributes"/>
