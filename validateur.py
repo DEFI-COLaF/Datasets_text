@@ -11,14 +11,6 @@ def apply_rng(rng_file):
 	rng_doc = ET.parse(rng_file)
 	rng_schema = ET.RelaxNG(rng_doc)
 	issue_bool = True
-	"""for xml_file in os.listdir("Eltec-fra/dataset_colaf/"):
-		xml_doc = ET.parse(f'Eltec-fra/dataset_colaf/{xml_file}')	
-		validate_bool= rng_schema.validate(xml_doc)
-		if not validate_bool:
-			print(f'problème dans le fichier {xml_file}')
-			log = rng_schema.error_log
-			print(log.last_error)
-			issue_bool = False"""
 	for root, dir, files in os.walk("."):
 		if 'dataset_colaf' in root:
 			for file in files:
@@ -30,7 +22,6 @@ def apply_rng(rng_file):
 						log = rng_schema.error_log
 						print(log.last_error)
 						issue_bool = False
-
 
 	if issue_bool:
 		sys.exit(0)

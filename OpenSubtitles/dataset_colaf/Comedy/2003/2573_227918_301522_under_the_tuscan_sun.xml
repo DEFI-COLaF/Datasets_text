@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <idno>fra-opensubtitles-2573</idno> 
+                        <title type="main">Frances Mayes</title>
+                        <respStmt>
+                            <resp>Encoding</resp>
+                            <persName xml:id="JJANES">
+                                <surname>Janès</surname>
+                                <forename>Juliette</forename>
+                                <idno type="orcid">0000-0002-8971-6173</idno>
+                            </persName>
+                        </respStmt>
+                        <principal>
+                            <persName xml:id="BSAGOT">
+                                <surname>Sagot</surname>
+                                <forename>Benoît</forename>
+                                <idno type="orcid">0000-0001-8957-9503</idno>
+                            </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de France
+                            (COLaF)</publisher>
+                        <date when="2024-01-30"/>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <bibl type="digitalSource">
+                            <ptr target="https://www.opensubtitles.org/fr/ssearch/sublanguageid-fre/idmovie-2573"/>
+                            <title>Frances Mayes</title>
+                            <author>Frances Mayes</author>
+                            <publisher>Diane Lane</publisher>
+                            <date when="2003"/>
+                        </bibl>
+                        <bibl type="CorpusSource">
+                            <ptr target="https://opus.nlpl.eu/OpenSubtitles/corpus/version/OpenSubtitles"/>
+                            <title>Frances Mayes</title>
+                            <author>OpenSubtitle</author>
+                            <publisher>Opus</publisher>
+                            <date when="2018"/>
+                        </bibl>
+                    </sourceDesc>
+                    <extent>
+                        <measure unit="token-colaf"/><!--A ajouter plus tard-->
+                    </extent>
+                </fileDesc>
+                <profileDesc>
+                    <langUsage>
+                        <language ident="met-fra-std">
+                            <idno type="langue">met-fra-std</idno>
+                            <idno type="script">latin</idno>
+                            <name>Français</name>
+                            <date when="2003"/>
+                            <location/>
+                        </language>
+                    </langUsage>
+                    <textClass>
+                        <keywords>
+                            <term type="supergenre" rend="spoken">Spoken</term>
+                            <term type="genre" rend="spoken-script">TV/movie script</term>
+                            <term type="motclef" rend="spoken-script-movie">Movie</term>
+                            <term type="motclef">Comedy</term>
+                        </keywords>
+                    </textClass>
+                </profileDesc>
+                <revisionDesc>
+                    <change when="2023-11-24" who="#JJANES">Génération du document</change>
+                </revisionDesc>
+                </teiHeader>
+  <text xml:lang="met-fra-std">
+    <body>
+      <div>
+        <s>
+          <w>Marcello</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Tu</w>
+          <w>es</w>
+          <w>fou</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Merci</w>
+          <w>beaucoup</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>Tonton</w>
+          <w>,</w>
+          <w>je</w>
+          <w>voudrais</w>
+          <w>une</w>
+          <w>glace</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>Tu</w>
+          <w>veux</w>
+          <w>une</w>
+          <w>glace</w>
+          <w>?</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>Tu</w>
+          <w>en</w>
+          <w>as</w>
+          <w>eu</w>
+          <w>combien</w>
+          <w>aujourd'</w>
+          <w>hui</w>
+          <w>?</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>Deux</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Deux</w>
+          <w>seulement</w>
+          <w>?</w>
+        </s>
+        <s>
+          <w>Alors</w>
+          <w>va</w>
+          <w>t'</w>
+          <w>en</w>
+          <w>chercher</w>
+          <w>une</w>
+          <w>autre</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Mais</w>
+          <w>d'</w>
+          <w>abord</w>
+          <w>,</w>
+          <w>un</w>
+          <w>bisou</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Maria</w>
+          <w>,</w>
+          <w>donne-</w>
+          <w>lui</w>
+          <w>une</w>
+          <w>glace</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Une</w>
+          <w>grosse</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Tu</w>
+          <w>as</w>
+          <w>ta</w>
+          <w>glace</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Bravo</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>RECETTES</w>
+          <w>DU</w>
+          <w>DÎNER</w>
+          <w>DE</w>
+          <w>SAN</w>
+          <w>FRANCISCO</w>
+        </s>
+        <s>
+          <w>Excusez-</w>
+          <w>moi</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>Vous</w>
+          <w>pourriez</w>
+          <w>me</w>
+          <w>déposer</w>
+          <w>?</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>Avec</w>
+          <w>plaisir</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Je</w>
+          <w>pourrais</w>
+          <w>vous</w>
+          <w>attendre</w>
+          <w>là</w>
+          <w>et</w>
+          <w>vous</w>
+          <w>ramener</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Merci</w>
+          <w>,</w>
+          <w>mais</w>
+          <w>mon</w>
+          <w>petit</w>
+          <w>ami</w>
+          <w>m'</w>
+          <w>attend</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>On</w>
+          <w>va</w>
+          <w>être</w>
+          <w>en</w>
+          <w>retard</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Un</w>
+          <w>instant</w>
+          <w>,</w>
+          <w>chérie</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>J'</w>
+          <w>arrive</w>
+          <w>tout</w>
+          <w>de</w>
+          <w>suite</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Elle</w>
+          <w>est</w>
+          <w>dans</w>
+          <w>la</w>
+          <w>fontaine</w>
+          <w>!</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>Qui</w>
+          <w>est</w>
+          <w>dans</w>
+          <w>la</w>
+          <w>fontaine</w>
+          <w>?</w>
+        </s>
+        <s>
+          <w>-</w>
+          <w>La</w>
+          <w>folle</w>
+          <w>blonde</w>
+          <w>!</w>
+        </s>
+        <s>
+          <w>Si</w>
+          <w>,</w>
+          <w>moi</w>
+          <w>!</w>
+        </s>
+        <s>
+          <w>J'</w>
+          <w>ai</w>
+          <w>connu</w>
+          <w>un</w>
+          <w>grand</w>
+          <w>amour</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Ton</w>
+          <w>père</w>
+          <w>...</w>
+          <w>un</w>
+          <w>grand</w>
+          <w>amour</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Et</w>
+          <w>je</w>
+          <w>ne</w>
+          <w>l'</w>
+          <w>oublierai</w>
+          <w>jamais</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>C'</w>
+          <w>est</w>
+          <w>un</w>
+          <w>pauvre</w>
+          <w>travailleur</w>
+          <w>polonais</w>
+          <w>.</w>
+        </s>
+        <s>
+          <w>Il</w>
+          <w>n'</w>
+          <w>est</w>
+          <w>rien</w>
+          <w>.</w>
+        </s>
+      </div>
+    </body>
+  </text>
+</TEI>
