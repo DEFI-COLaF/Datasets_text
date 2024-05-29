@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -71,6 +72,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
+      <change when="2024-05-28" who="#JJANES">Modifications manuelles suite à erreurs dans le schéma</change>
       <change when="2024-01-30" who="#JJANES">Génération du XML grâce à transfo_eltec.xsl</change>
     </revisionDesc>
   </teiHeader>
@@ -19416,6 +19418,7 @@
           <w pos="PUNCT" lemma=":" n="PUN">:</w>
         </p>
         <quote>
+          <lg>
           <l>
             <w pos="NOUN" lemma="enfant">Enfant</w>
             <w pos="ADP" lemma="au">aux</w>
@@ -19859,7 +19862,7 @@
             <w pos="ADP" lemma="de">de</w>
             <w pos="NOUN" lemma="langueur">langueur</w>
             <w pos="PUNCT" lemma="?" n="SENT">?</w>
-          </l>
+          </l></lg>
         </quote>
         <p>
           <w pos="PUNCT" lemma="«" n="PUN:cit">«</w>

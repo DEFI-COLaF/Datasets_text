@@ -52,13 +52,31 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="met-fra-std" usage="100">
+        <language ident="met-fra-std" usage="99">
           <idno type="langue">met-fra-std</idno>
           <idno type="script">latin</idno>
           <name>Français</name>
           <date>1865</date>
           <location>
             <settlement>Paris</settlement>
+          </location>
+        </language>
+        <language ident="ita" usage="0">
+          <idno type="langue">ita</idno>
+          <idno type="script">latin</idno>
+          <name>Italien</name>
+          <date>1865</date>
+          <location>
+            <settlement/>
+          </location>
+        </language>
+        <language ident="lat" usage="1">
+          <idno type="langue">lat</idno>
+          <idno type="script">latin</idno>
+          <name>Latin</name>
+          <date>1865</date>
+          <location>
+            <settlement/>
           </location>
         </language>
       </langUsage>

@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -52,10 +53,19 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="met-fra-std" usage="100">
+        <language ident="met-fra-std" usage="99">
           <idno type="langue">met-fra-std</idno>
           <idno type="script">latin</idno>
           <name>Français</name>
+          <date>1902</date>
+          <location>
+            <settlement/>
+          </location>
+        </language>
+        <language ident="dom-cre" usage="1">
+          <idno type="langue">^dom-cre</idno>
+          <idno type="script">latin</idno>
+          <name>Créole</name>
           <date>1902</date>
           <location>
             <settlement/>
@@ -71,6 +81,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
+      <change when="2024-05-28" who="#JJANES">Modifications manuelles suite à erreurs dans le schéma</change>
       <change when="2024-01-30" who="#JJANES">Génération du XML grâce à transfo_eltec.xsl</change>
     </revisionDesc>
   </teiHeader>
@@ -32039,9 +32050,9 @@
           <w pos="ADJ" lemma="créole">créole</w>
           <w pos="PUNCT" lemma=":" n="PUN">:</w>
         </p>
-        <quote>
+        <quote><lg>
           <l>
-            <foreign xml:lang="creole">
+            <foreign xml:lang="dom-cre">
               <w pos="NOUN" lemma="e">E</w>
               <w pos="CCON" lemma="si">si</w>
               <w pos="NOUN" lemma="nou">nou</w>
@@ -32052,7 +32063,7 @@
             </foreign>
           </l>
           <l>
-            <foreign xml:lang="creole">
+            <foreign xml:lang="dom-cre">
               <w pos="PRON" lemma="me">M'</w>
               <w pos="VERB" lemma="avoir">a</w>
               <w pos="VERB" lemma="kasé-yé">kasé-yé</w>
@@ -32062,6 +32073,7 @@
               <w pos="PUNCT" lemma="." n="SENT">.</w>
             </foreign>
           </l>
+        </lg>
         </quote>
         <p>
           <w pos="PUNCT" lemma="(" n="PUN">(</w>
@@ -51910,6 +51922,7 @@
           <w pos="PUNCT" lemma=":" n="PUN">:</w>
         </p>
         <quote>
+          <lg>
           <l>
             <w pos="ADP" lemma="sur">Sur</w>
             <w pos="DET" lemma="le">les</w>
@@ -51965,7 +51978,7 @@
             <w pos="ADP" lemma="de">de</w>
             <w pos="NOUN" lemma="modèle">modèles</w>
             <w pos="PUNCT" lemma="." n="SENT">.</w>
-          </l>
+          </l></lg>
         </quote>
         <p>
           <w pos="ADV" lemma="tout">Tout</w>

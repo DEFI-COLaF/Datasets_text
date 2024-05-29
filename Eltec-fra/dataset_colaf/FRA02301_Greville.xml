@@ -61,6 +61,24 @@
             <settlement>Paris</settlement>
           </location>
         </language>
+        <language ident="en" usage="0">
+          <idno type="langue">en</idno>
+          <idno type="script">latin</idno>
+          <name>Anglais</name>
+          <date>1888</date>
+          <location>
+            <settlement/>
+          </location>
+        </language>
+        <language ident="lat" usage="0">
+          <idno type="langue">lat</idno>
+          <idno type="script">latin</idno>
+          <name>Latin</name>
+          <date>1888</date>
+          <location>
+            <settlement/>
+          </location>
+        </language>
       </langUsage>
       <textClass>
         <keywords>

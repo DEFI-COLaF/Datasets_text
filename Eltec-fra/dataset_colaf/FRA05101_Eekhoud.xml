@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -52,10 +53,19 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="met-fra-std" usage="100">
+        <language ident="met-fra-std" usage="99">
           <idno type="langue">met-fra-std</idno>
           <idno type="script">latin</idno>
           <name>Français</name>
+          <date>1904</date>
+          <location>
+            <settlement/>
+          </location>
+        </language>
+        <language ident="ger" usage="1">
+          <idno type="langue">ger</idno>
+          <idno type="script">latin</idno>
+          <name>Allemand</name>
           <date>1904</date>
           <location>
             <settlement/>
@@ -71,6 +81,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
+      <change when="2024-05-28" who="#JJANES">Modifications manuelles suite à erreurs dans le schéma</change>
       <change when="2024-01-30" who="#JJANES">Génération du XML grâce à transfo_eltec.xsl</change>
     </revisionDesc>
   </teiHeader>
@@ -167,7 +178,7 @@
         </head>
         <quote>
           <p>
-            <foreign xml:lang="deu">
+            <foreign xml:lang="ger">
               <w pos="NOUN" lemma="hast">Hast</w>
               <w pos="ADP" lemma="du">du</w>
               <w pos="NOUN" lemma="die">die</w>
@@ -178,7 +189,7 @@
             </foreign>
           </p>
           <p>
-            <foreign xml:lang="deu">
+            <foreign xml:lang="ger">
               <w pos="ADJ" lemma="gute">Gute</w>
               <w pos="NOUN" lemma="gesellschaft">Gesellschaft</w>
               <w pos="NOUN" lemma="habe">habe</w>
@@ -41413,10 +41424,10 @@
             <w pos="NOUN" lemma="bon">bons</w>
             <w pos="PUNCT" lemma="." n="SENT">.</w>
           </p>
-          <l>
+          <p>
             <w pos="PROPN" lemma="Paul">Paul</w>
             <w pos="PROPN" lemma="verlaine">Verlaine</w>
-          </l>
+          </p>
         </quote>
         <p>
           <w pos="PRON" lemma="je">J'</w>
