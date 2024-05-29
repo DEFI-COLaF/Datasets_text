@@ -24485,13 +24485,13 @@
             <w pos="ADJ" lemma="tiu">tiu</w>
             <w pos="NOUN" lemma="tchartcha">tchartcha</w>
           </l>
-          <hi>
+          <l><hi>
             <w pos="NOUN" lemma="garçon">Garçon</w>
             <w pos="ADP" lemma="de">de</w>
             <w pos="DET" lemma="le">la</w>
             <w pos="NOUN" lemma="montagna">montagna</w>
             <w pos="PUNCT" lemma="," n="PUN">,</w>
-          </hi>
+          </hi></l>
           <l>
             <w pos="CCON" lemma="que">Que</w>
             <w pos="ADJ" lemma="venié">venié</w>
@@ -24504,11 +24504,12 @@
             <w pos="NOUN" lemma="pa">pa</w>
             <w pos="VERB" lemma="danser">dansa</w>
             <w pos="PUNCT" lemma="." n="SENT">.</w>
-          </l>
+          </l></lg>
           <p>
             <w pos="NOUN" lemma="*">*</w>
             <w pos="ADJ" lemma="*">*</w>
           </p>
+          <lg>
           <l>
             <w pos="PRON" lemma="te">Te</w>
             <w pos="VERB" lemma="fauilia">fauilia</w>
