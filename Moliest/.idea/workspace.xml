@@ -7,7 +7,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d766a44-8271-460d-911d-1542db0cb49b" name="Changes" comment="" />
+    <list default="true" id="3d766a44-8271-460d-911d-1542db0cb49b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moliest_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/moliest_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/ L'opéra de Province.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/ La Hollande Malade .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/ Les empiriques , comédie en trois actes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Arelequin-Pluton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Colin-Maillard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/DON JUAN ou LE FESTIN DE PIERRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/ELOMIRE HYPOCONDRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Janot Chez Le Dégraisseur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/L'Esprit de contradiction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/L'école de la raison.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/LE JE NE SAIS QUOI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/LE SUISSE MALADE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/LES FÊTES DE L'AMOUR ET DE BACCHUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/LES PRISONNIERS DE GUERRES.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/La Comédie des comédiens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/La Maison de campagne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/La Mère confidente.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/La loterie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/La méprise.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le Bourgeois Gentilhomme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le Deuil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le Double Veuvage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le Galant Jardinier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le Moulin de Javelle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le Suisse de Porte .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le Tuteur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Le charivari.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Les Filles Errantes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Les Fourberies de Scapin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Les Vendanges.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Les fragments de Molière.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/L’Épreuve.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/L’Étourdi ou les Contretemps .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Monsieur de Pourceaugnac .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre-classique/Première Parade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/ L'opéra de Province.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/ La Hollande Malade .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/ Les empiriques , comédie en trois actes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Arelequin-Pluton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Cendrillon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Colin-Maillard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/DON JUAN ou LE FESTIN DE PIERRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/ELOMIRE HYPOCONDRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Janot Chez Le Dégraisseur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/L'Esprit de contradiction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/L'école de la raison.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/LE JE NE SAIS QUOI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/LE SUISSE MALADE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/LES FÊTES DE L'AMOUR ET DE BACCHUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/La Comédie des comédiens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/La Maison de campagne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/La Mère confidente.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/La loterie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/La méprise.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Le Bourgeois Gentilhomme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Le Double Veuvage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Le Galant Jardinier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Le Moulin de Javelle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Le Suisse de Porte .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Le Tuteur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Le charivari.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Les Filles Errantes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Les Fourberies de Scapin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Les Vendanges.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Les fragments de Molière.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/L’Épreuve.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/L’Étourdi ou les Contretemps .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Monsieur de Pourceaugnac .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theatre_TEI/Première Parade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transfo_TheatreClassique.py" beforeDir="false" afterPath="$PROJECT_DIR$/transfo_TheatreClassique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikisource/Une de perdue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikisource_TEI/L'Habitation Saint-Ybars.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikisource_TEI/Une de perdue, deux de trouvées, TOME I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikisource_TEI/Une de perdue, deux de trouvées, TOME II.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +121,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.classique2colaf.executor": "Run",
+    "Python.moliest_main.executor": "Run",
     "Python.moliest_util.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
