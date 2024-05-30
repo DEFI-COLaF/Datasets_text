@@ -1,81 +1,86 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-                <fileDesc>
-                    <titleStmt>
-                        <idno>CRE_PROSE_004</idno>
-                        <title type="main">Une de perdue, deux de trouvées, Tome II</title>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="RDENT">
-                                <surname>Dent</surname>
-                                <forename>Rasul</forename>
-                                <idno type="orcid">0000-0002-8971-6175</idno>
-                            </persName>
-                        </respStmt>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="JJANES">
-                                <surname>Janes</surname>
-                                <forename>Juliette</forename>
-                                <idno type="orcid">0000-0002-8971-6173</idno>
-                            </persName>
-                        </respStmt>                       
-                        <principal>
-                            <persName xml:id="BSAGOT">
-                                <surname>Sagot</surname>
-                                <forename>Benoît</forename>
-                                <idno type="orcid">0000-0001-8957-9503</idno>
-                            </persName>
-                        </principal>
-                        <funder>Inria</funder>
-                    </titleStmt>
-                    <publicationStmt>
-                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
-                            France (COLaF)</publisher>
-                        <date when="2024-03-25"/>
-                        <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                        </availability>
-                    </publicationStmt>
-                    <sourceDesc>
-                        <bibl type="printSource">
-                            <ptr target="https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_II"/>
-                            <title>Une de perdue, deux de trouvées, Tome II</title>
-                            <author>George Boucher de Boucherville</author>
-                            <publisher>Gallica</publisher>
-                            <date when="1874"/>
-                        </bibl>
-                        <bibl type="digitalSource">
-                            <ptr target="https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_II"/>
-                            <title>Une de perdue, deux de trouvées, Tome II</title>
-                            <author>Eusèbe Sénécal, Imprimeur-éditeur</author>
-                            <publisher>Wikisource</publisher>
-                            <date when="2024"/>
-                        </bibl>
-                    </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                    <langUsage>
-                        <language ident="met-fr">
-                            <idno type="langue">met-fr</idno>
-                            <idno type="script">latin</idno>
-                            <name>Français</name>
-                            <location><country>Paris</country></location>
-                            <date when="1874"/>
-                        </language>
-                    </langUsage>
-                    <textClass>
-                        <keywords>
-                            <term type="supergenre" rend="spoken">Fiction</term>
-                            <term type="genre" rend="spoken-script">fiction-drama</term>
-                        </keywords>
-                    </textClass>
-                </profileDesc>
-                <revisionDesc>
-                    <change when="2024-03-24" who="#JJANES">Génération du document</change>
-                </revisionDesc>
-            </teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>CRE_PROSE_004</idno>
+        <title type="main">Une de perdue, deux de trouvées, Tome II</title>
+        <title type="collection">Moliyé</title>
+        <author>George Boucher de Boucherville</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janes</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_II"/>
+          <title>Une de perdue, deux de trouvées, Tome II</title>
+          <author>George Boucher de Boucherville</author>
+          <publisher>TO BE UPDATED</publisher>
+          <date when="1874"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_II"/>
+          <title>Une de perdue, deux de trouvées, Tome II</title>
+          <author>George Boucher de Boucherville</author>
+          <publisher>Wikisource</publisher>
+          <date when="2024-05-30"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lou">
+          <idno type="langue">lou</idno>
+          <idno type="script">Latin</idno>
+          <name>Louisiana Creole</name>
+        </language>
+        <language ident="met-fr">
+          <idno type="langue">met-fr</idno>
+          <idno type="script">Latin</idno>
+          <name>French of Metropolitan France</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-prose">Drama</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-03-24" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
   <text xml:lang="met-fra-std">
     <body>
       <div n="1" type="chapter">

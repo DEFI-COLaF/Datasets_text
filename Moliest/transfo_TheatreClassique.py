@@ -148,26 +148,5 @@ def create_metadata_xml(metadata):
         """
     return metadata
 
-def main(raw_dir):
-    create_directory("theatre_TEI")
-    for file in os.listdir(raw_dir):
-        try:
-            #print(file)
-            xml_file = f"{raw_dir}/{file}"
-            tree = ET.parse(xml_file)
-            metadata_dict = parse_tree_metadata(tree)
-            metadata_string = create_metadata_xml(metadata_dict)
-            xsl_file = ET.parse("html2tei.xsl")
-            xsl_transform = ET.XSLT(xsl_file)
-            transformed_xml = xsl_transform(tree).getroot()
-            root = ET.Element("TEI", xmlns="http://www.tei-c.org/ns/1.0")
-            metadata = root.append(ET.fromstring(metadata_string))
-            text = root.append(transformed_xml)
-            ET.ElementTree(root).write(f'theatre_TEI/{file}', pretty_print=True, encoding="UTF-8",
-                                       xml_declaration=True)
-        except ET.XMLSyntaxError:
-            print(f"Unable to parse {file}")
-        except AttributeError:
-            print(f"{file} has no text")
 
 

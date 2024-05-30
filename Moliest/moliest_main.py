@@ -14,20 +14,20 @@ import regex as re
 import metadata_patterns
 
 import glob
+def clear_folders(folders):
+    for folder in folders:
+        files = glob.glob(f"{folder}/*")
+        for file in files:
+            os.remove(file)
+def create_folders(folders):
+    for folder in folders:
+        moliest_util.create_directory(folder)
 
 def format_title(title_string):
+    title_string=title_string.strip()
     title_string = re.sub(r"\W", "_", title_string)
     title_string = re.sub(r"_{2,}", "_", title_string)
     return title_string
-
-
-def save_tc_works(raw_xml_folder, works):
-    for work in works:
-        title, link = work["Title"], work["Link"]
-        html = moliest_util.get_html_content(link)
-        with open(f"{raw_xml_folder}/{title}.xml", mode="w") as f:
-            f.write(html)
-    transfo_TheatreClassique.main(raw_xml_folder)
 
 def extract_wiki_metadata(wiki_soup, wiki_link, idno):
     metadata= {}
@@ -126,39 +126,59 @@ def convert_wiki_prose(wikisource_works, collection_name):
             print(f"unable to treat {title}")
     return converted_works
 
+def save_tc_works(raw_xml_folder, works):
+    for work in works:
+        title, link = work["Title"], work["Link"]
+        html = moliest_util.get_html_content(link)
+        with open(f"{raw_xml_folder}/{format_title(title)}.xml", mode="w") as f:
+            f.write(html)
+
+
+def transform_classique(raw_dir, tei_dir):
+    for file in os.listdir(raw_dir):
+        try:
+            #print(file)
+            xml_file = f"{raw_dir}/{file}"
+            tree = ET.parse(xml_file)
+            metadata_dict = transfo_TheatreClassique.parse_tree_metadata(tree)
+            metadata_string = transfo_TheatreClassique.create_metadata_xml(metadata_dict)
+            xsl_file = ET.parse("html2tei.xsl")
+            xsl_transform = ET.XSLT(xsl_file)
+            transformed_xml = xsl_transform(tree).getroot()
+            root = ET.Element("TEI", xmlns="http://www.tei-c.org/ns/1.0")
+            metadata = root.append(ET.fromstring(metadata_string))
+            text = root.append(transformed_xml)
+            ET.ElementTree(root).write(f'{tei_dir}/{file}', pretty_print=True, encoding="UTF-8",
+                                       xml_declaration=True)
+        except ET.XMLSyntaxError:
+            print(f"Unable to parse {file}")
+        except AttributeError:
+            print(f"{file} has no text")
 
 
 
 
 list_file = "Moliyé_list.tsv"
 works = load_works(list_file)
+classique_works = [w for w in works if w["Source"] == "theatre-classique"]
+wikisource_works = [w for w in works if w["Source"] == "Wikisource"]
 
 raw_classique_folder = "theatre-classique"
 classique_tei_folder = "theatre_TEI"
-
-classique_works = [w for w in works if w["Source"] == "theatre-classique"]
-
 raw_wiki_folder = "wikisource"
-moliest_util.create_directory(raw_wiki_folder)
-
 wiki_tei_folder = "wikisource_TEI"
-moliest_util.create_directory(wiki_tei_folder)
+folders = [raw_classique_folder, classique_tei_folder, raw_wiki_folder, wiki_tei_folder]
+create_folders(folders)
+clear_folders(folders)
 
-def clear_folders(folders):
-    for folder in folders:
-        files = glob.glob(f"{folder}/*")
-        for file in files:
-            os.remove(file)
 
-folders = [raw_xml_folder, raw_wiki_folder, wiki_tei_folder
+save_tc_works(raw_classique_folder, classique_works)
+#transform_classique(raw_classique_folder, classique_tei_folder)
+convert_wiki_prose(wikisource_works, "Moliyé")
 
-files = glob.glob(f"{wiki_tei_folder}/*")
+
 wiki_title = 'Une de perdue'
 wiki_link = "https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_I"
-
-wikisource_works = [w for w in works if w["Source"] == "Wikisource"]
-
-
 test_root = convert_one_wiki_prose(wiki_link, "000", "Moliyé")
 out= ET.tostring(test_root, encoding="unicode", pretty_print=True).replace("XMLID", "xml:id")
 ET.ElementTree(ET.fromstring(out)).write("dataset_colaf/test.xml", xml_declaration=True, encoding="UTF-8")
