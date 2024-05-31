@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>1672.LE_DEUILNoël Lebreton HAUTEROCHE, sieur de, (1617-1707)</idno>
+                <!--Mettre plutôt un numéro type CRE_THEATRE_0001-->
+                <title type="main">LE_DEUIL </title>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="RDENT">
+                        <surname>Dent</surname>
+                        <forename>Rasul</forename>
+                        <idno type="orcid">0000-0002-8971-6175</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-03-25"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <ptr
+                        target="https://www.theatre-classique.fr/pages/documents/HAUTEROCHE_DEUIL.xml"/>
+                    <title>LE DEUIL, COMÉDIE.</title>
+                    <author>Noël Lebreton HAUTEROCHE, sieur de, (1617-1707)</author>
+                    <publisher>publié par Paul FIEVRE mars 2021</publisher>
+                    <date when="1672">1672.</date>
+                </bibl>
+                <bibl type="CorpusSource">
+                    <ptr target="https://www.theatre-classique.fr/"/>
+                    <title>LE DEUIL, COMÉDIE.</title>
+                    <author>Théatre Classique</author>
+                    <publisher>Théatre Classique</publisher>
+                    <date when="2024"/>
+                </bibl>
+                <!--plutôt que ces bibl, je te conseille:-->
+                <bibl type="printSource">
+                    <!--Ici je décris le document de base, disponible dans Gallica, url indiqué dans la balise parmalien-->
+                    <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k62696963"/>
+                    <title>Le deuil, comédie</title>
+                    <author>Hauteroche, Noël-Breton</author>
+                    <publisher/>
+                    <!--Si éditeur, ici il n'y en a pas<publisher></publisher>-->
+                    <!--si lieu d'ici, ici il n'y en a pas<pubPlace></pubPlace>-->
+                    <date when="1672"/>
+                </bibl>
+                <bibl type="digitalSource">
+                    <ptr
+                        target="https://www.theatre-classique.fr/pages/documents/HAUTEROCHE_DEUIL.xml"/>
+                    <title>LE DEUIL, COMÉDIE., XML</title>
+                    <author>Paul Fièvre</author>
+                    <publisher>Théâtre Classique</publisher>
+                    <date when="2021"/>
+                </bibl>
+            </sourceDesc>
+            <extent>
+                <measure unit="token-colaf"/><!--A ajouter plus tard-->
+            </extent>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-fra-std">
+                    <idno type="langue">met-fra-std</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>                
+                    <!--Mettre la date comme indiqué en dessous plutôt:<periode>1671-1680</periode>-->
+                    <date from="1671" to="1680"/>
+                    <location><country>Paris</country></location><!--Ajouter la ville quand possible dans location (balise settlement)-->
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="spoken">Fiction</term>
+                    <term type="genre" rend="spoken-script">fiction-drama</term>
+                    <!--Enlever le terme en commentaire
+                    <term type="motclef" rend="spoken-script-movie">fiction-drama</term>-->
+                </keywords>
+            </textClass>
+            <particDesc><!--Indiquer les personnages dans un particDesc-->
+                <listPerson>
+                    <person xml:id="PIRANTE">
+                        <persName>Pirante</persName>
+                        <langKnowledge><langKnown tag="met-fra-std"></langKnown></langKnowledge><!--Indiquer la langue parlée ou les langues parlées par le personnage-->
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-03-24" who="#RDENT">Génération du document</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-fra-std">
+        <!--Suppression des balises non comprises dans le schéma colaf=> text, front, docTitle, docDate, etc=> simplification.-->
+        <front>
+        <div type="titlepage"><!--Remplacement de la page principale extrêmement détaillée par une balise div type="titlepage" + transformation des autres balises en p-->
+            <p>LE DEUIL</p>
+            <p>COMÉDIE EN UN ACTE</p>
+            <p>Représentée, pour la première fois, en 1672.</p>
+            <p>1672</p>
+            <p>Du sieur de Haute-roche</p>
+            <p>Représentée pour la
+                première fois sur le Théâtre Royal de l'Hôtel de Bourgogne le 24 septembre
+                1672</p>          
+        </div>
+                <div type="liminal"><!--les balises div qui ne sont pas le corps du texte peuvent être ranger dans une balise div type="liminal"-->
+                    <!--Transformation d'adresse => head--> 
+                    <head>À MESSIRE ANDRÉ-GIRARD LE CAMUS CHEVALIER, CONSEILLER Ordinaire du Roi
+                        en tes Conseils d'Etat, Privé, et Direction de ses Finances, ci-devant
+                        Procureur-Général de Sa Majesté en sa Cour des Aides.</head>
+                    <head>MONSIEUR,</head>
+                    <p>Vous trouverez bon, s'il vous plaît, que votre Nom paraisse au-devant de
+                        cette Comédie ; et qu'après en avoir dédié une autre à Madame votre
+                        charmante épouse, je vous demande votre protection pour celle-ci. Je sais
+                        que, suivant l'ordre des choses, je devais commencer par vous, si que le
+                        Mari doit toujours passer devant la Femme ; mais je ne saurais m'imaginer
+                        que vous soyez fâché de cette préférence. Je veux croire que vous êtes
+                        content de mon procédé, et que,loin de m'en savoir mauvais gré, vous m'en
+                        applaudissez en vous-même. Savez-vous sur quoi je fonde cette croyance ?
+                        C'est que je suis persuadé, MONSIEUR, que vous avez l'âme belle, l'esprit
+                        bien tourné, et que vous ne haïssez pas le Beau-Sexe. C'est le penchant de
+                        tous les honnêtes gens, et j'ose avancer que ce penchant ne leur est pas
+                        désavantageux : c'est par-là qu'on a vu les plus grands Hommes faire souvent
+                        des actions qui surpassaient leurs attentes, et que les plus faibles et les
+                        plus stupides se sont quelquefois tirés de l'obscurité où ils étaient
+                        ensevelis. Pour moi, MONSIEUR, j'ai toujours cru que, quelque principe
+                        d'honnêteté qu'on pût avoir, on ne faisait rien d'extraordinaire sans cette
+                        inclination ; mais que par le désir de se rendre agréable au Beau-Sexe, on
+                        cherchait avec soin les occasions de faire bruit dans le monde, et de
+                        s'acquérir une réputation qui ne fût pas commune. En vérité, MONSIEUR, il
+                        faut demeurer d'accord que nous lui sommes fort obligés, puisqu'il fait
+                        naître en nous des sentiments dont peut-être ne serions-nous point capables
+                        sans cette envie de lui plaire. Je sais bien que ce n'est pas ici le lieu de
+                        faire son éloge, et qu'en vous présentant cette Comédie, je ne devrais
+                        penser qu'à vous entretenir des glorieux avantages qu'elle aura de se voir
+                        honorée de votre protection : mais sans que je m'explique là-dessus, qui ne
+                        sait pas que c'est une chose incontestable ? Je n'ignore pas aussi que je
+                        devrais prendre l'occasion de m'étendre sur ce beau génie et ce profond
+                        savoir qui vous ont fait admirer dans la Charge éminente de
+                        Procureur-Général en la Cour des Aides, et que vous avez exercée avec tant
+                        de succès ; que, lorsque vous parlâtes de vous en défaire, toute cette
+                        illustre Compagnie en eut un regret si sensible, quelle fit ses efforts pour
+                        tâcher de vous détourner de cette pensée. Mais, MONSIEUR, quand j'aurai fait
+                        un détail de ces perçantes lumières qui vous ont fait pénétrer les affaires
+                        les plus obscures, et résoudre les difficultés les plus embarrassantes ;
+                        quand j'aurai fait un tableau de cette intégrité qui vous a rendu
+                        recommandable à tous ceux qui ont eu besoin de votre Justice ; quand je me
+                        serai épuisé à faire un long discours sur cette grande vivacité d'esprit,
+                        qui, dans les Conseils de Sa Majesté, vous faisait regarder comme un Homme
+                        digne des Emplois les plus considérables ; quand je me serai étendu sur
+                        cette manière engageante et cette bonté naturelle qui vous gagnent les
+                        coeurs de tous ceux qui vous approchent ; Enfin, MONSIEUR, quand j'aurai
+                        pris le soin de louer toutes ces rares qualités, qu'aurai-je dit, ou
+                        qu'aurai-je fait connaître qu'on ne sache beaucoup mieux que moi ? Puisqu'il
+                        est constamment vrai, MONSIEUR, que je ne pourrais rien dire dont chacun
+                        n'ait une entière connaissance, je ne ferai pas mal de me taire, et de vous
+                        prier seulement d'agréer le Deuil que je vous présente. Je ne vous dirai
+                        point que, lorsqu'on saura que Cette pièce vous est dédiée, cela doit
+                        arrêter en quelque façon les traits malicieux d'une Critique envieuse ; car,
+                        à vous parler franchement, je n'ai point encore vu que le nom des Puissances
+                        qui paraît à la tête des Ouvrages, ni celui des Beaux-Esprits, aient empêché
+                        les Censeurs de profession, de se déchaîner contre eux, quand ils se sont
+                        imaginé qu'il y avait de quoi mordre. Ils diront tout ce qu'il leur plaira
+                        de cette Comédie sans que je m'en mette en peine ; il suffit pour moi
+                        qu'elle vous ait plu et quelle ait réussi en Public. Je suis sûr que ces
+                        Messieurs auront peine à paraître devant vous pour la déchirer ;
+                        particulièrement quand ils sauront que vous lui faites la grâce de l'honorer
+                        de votre estime, si que vous me permettez de me dire,</p>
+                    <p>MONSIEUR,</p>
+                    <p>Votre très humble et très obéissant serviteur,</p>
+                    <p>DE HAUTEROCHE.</p>
+                </div>
+            <div type="liminal">
+            <!--Pas de castList dans le schéma Colaf => transformation en list-->
+                    <head>PERSONNAGES</head>
+                <list>
+                    <item>PIRANTE, père de Timante</item><!--Les castitem sont transformés en item sans toutes les informations-->
+                    <item>Timante, son fils</item>
+                    <item>Jaquemin,  fermier et receveur de Pirante</item>
+                    <item>Babet, fille de Jaquemin</item>
+                    <item>Perrette, servante de Jaquemin</item>
+                    <item>Crispin, valet de Timante</item>
+                    <item>Nicodème, serviteur de Jaquemin</item>
+                    <item>Mathurin, valet de ferme, personnage muet</item>
+                </list>
+                <p>La scène est à un village à deux lieues de Sens</p><!--transformation de lieu en p-->
+            </div>
+            </front>
+            
+            <body>
+                <div n="1" type="act"><!--Transformation de div1 en div et type="acte" en act-->
+                    <head>LE DEUIL.</head>
+                    <div n="1" type="scene"><!--Transformation de div2 en div-->
+                        <head>SCÈNE PREMIÈRE. Timante, Crispin, en grand deuil.</head>
+                        <sp who="CRISPIN">
+                            <speaker>CRISPIN.</speaker>
+                            <l>Par ma foi, nous voilà plaisamment équipés,</l><!--Suppression des identifiants-->
+                            <l>Noirs du bas jusqu'en haut, et des mieux encrêpés.</l>
+                            <l>Seriez-vous bien parent d'un... faut-il que j'achève ?</l>
+                            <l>Là, d'un de ces messieurs que l'on rouait en Grève,</l>
+                            <l>Le jour qu'il vous a plu de partir de Paris ?</l>
+                        </sp>
+                        <sp who="TIMANTE">
+                            <speaker>TIMANTE.</speaker>
+                            <l>Maraud !</l><!--Suppression des identifiants, part et syll-->
+                        </sp>
+                        <sp who="CRISPIN">
+                            <speaker>CRISPIN.</speaker>
+                            <l>À dire vrai, Monsieur, je suis surpris
+                                :</l>
+                            <l>Votre père, votre oncle, enfin tout le lignage</l>
+                            <l>Regorge de santé, rien ne meurt, dont j'enrage ;</l>
+                            <l>Pas un neveu, pas même un arrière-cousin,</l>
+                            <l>Et le grand deuil vous plaît à porter ?</l>
+                        </sp>
+                        <sp who="TIMANTE"><!--Suppression de l'attribut stage-->
+                            <speaker>TIMANTE, riant.</speaker>
+                            <l>Oui, Crispin.</l>
+                        </sp>
+                    </div>
+                </div>
+            </body>
+        </text>
+</TEI>
