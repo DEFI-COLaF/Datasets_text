@@ -1,0 +1,2201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_001</idno>
+<title type="main">LE JE NE SAIS QUOI, COMÉDIE</title>
+<title type="collection">Moliyé</title>
+<author>BOISSY, Louis de  (1694-1758)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janes</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target="  http://catalogue.bnf.fr/ark:/12148/cb301227142"/>
+<title>LE JE NE SAIS QUOI, COMÉDIE</title>
+<author>BOISSY, Louis de  (1694-1758)</author>
+<publisher>Gallica</publisher>
+<date when="M. DCC. XXXI. Avec Approbation, et Privilège du Roi. "/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target="  http://catalogue.bnf.fr/ark:/12148/cb301227142"/>
+<title>LE JE NE SAIS QUOI, COMÉDIE</title>
+<author>BOISSY, Louis de  (1694-1758)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="MOMUS">
+<persName>MOMUS</persName>
+</person>
+<person xml:id="VÉNUS">
+<persName>VÉNUS</persName>
+</person>
+<person xml:id="APOLLON">
+<persName>APOLLON</persName>
+</person>
+<person xml:id="LE_JE_NE_SAIS_QUOI">
+<persName>LE JE NE SAIS QUOI</persName>
+</person>
+<person xml:id="LE_GÉOMÈTRE">
+<persName>LE GÉOMÈTRE</persName>
+</person>
+<person xml:id="LE_PETIT_MAÎTRE">
+<persName>LE PETIT MAÎTRE</persName>
+</person>
+<person xml:id="LE_SUISSE">
+<persName>LE SUISSE</persName>
+</person>
+<person xml:id="LE_PUBLIC_FÉMININ">
+<persName>LE PUBLIC FÉMININ</persName>
+</person>
+<person xml:id="L_ACTEUR_FRANÇAIS">
+<persName>L'ACTEUR FRANÇAIS</persName>
+</person>
+<person xml:id="LE_MUSICIEN">
+<persName>LE MUSICIEN</persName>
+</person>
+<person xml:id="LA_DANSEUSE">
+<persName>LA DANSEUSE</persName>
+</person>
+<person xml:id="SILVIA">
+<persName>SILVIA</persName>
+</person>
+<person xml:id="TROUPE_de_CALOTINS_ET_CALOTINES">
+<persName>TROUPE de CALOTINS ET CALOTINES</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LE JE NE SAIS QUOI</p></div><div type="liminal"><p>COMÉDIE</p></div><div type="liminal"><p>Représentée pour la première fois par les Comédiens Italiens, le 10. Septembre 1731.</p></div></div><div type="liminal"><p>M. DCC. XXXI. Avec Approbation, et Privilège du Roi. </p></div><div type="liminal"><p>De Monsieur DE BOISSY,</p></div><head>APPROBATION.</head><p>J'ai lu par ordre de Monseigneur le Garde des Sceaux, le Je ne Sais quoi, Comédie en un Acte avec un Divertissement: Et j'ai cru que le Public en verrait l'impression avec plaisir. Ce 29 Septembre 1731.</p><p>Signé, CREBILLON.</p><div type="liminal"><head>PRIVILÈGE DU ROI.</head><p>LOUIS par la grâce de Dieu, Roi de France et de Navarre : À nos amés et féaux Conseillers les Gens tenants nos Cours de Parlement, Maîtres des Requêtes ordinaires de notre Hôtel, grand Conseil, Prévôt de Paris, Baillifs, Sénéchaux, leurs Lieutenants Civils, et autres nos Justiciers qu'il appartiendra, Salut. Notre bien-amé PIERRE PRAULT, Libraire et Imprimeur à Paris, Nous ayant fait Supplier de lui accorder nos Lettres de Permission pour l'impression d'un Manuscrit qui a pour titre, le Je ne sais quoi, Comédie, offrant pour cet effet de l'imprimer ou faire imprimer en bon papier et beaux caractères, Suivant la feuille imprimée, et attachée pour modèle Sous le contre-scel des Présentes, Nous lui avons permis et permettons par ces présentes, d'imprimer ou faire imprimer ledit livre ci-dessus spécifié, conjointement ou séparément, et autant de fois que bon lui Semblera, et de le vendre, faire vendre et débiter par tout notre Royaume, pendant le temps de trois années consécutives, à compter du jour de la date desdites présentes ; faisons défenses à tous Imprimeurs, Libraires et autres personnes, de quelque qualité et condition qu'elles soient, d'en introduire d'impression étrangère dans aucun lieu de notre obéissance ; à la charge que ces présentes seront registrées tout au long sur le Registre de la Communauté des Imprimeurs et Libraires de Paris, dans trois mois de la datte d'icelles ; que l'impression dudit Livre sera fait dans notre Royaume et non ailleurs ; et que l'Impétrant se conformera en tout, aux Règlements de la Librairie, et notamment à celui du dix Avril mil Sept cent vingt-cinq, et qu'avant que de l'exposer en vente, le manuscrit ou imprimé qui aura Servi de copie à l'impression dudit Livre, sera remis dans le même état où l'Approbation y aura été donnée, ès mains de notre très cher et féal Chevalier Garde des Sceaux de France, le Sieur Chauvelin ; et qu'il en sera ensuite remis deux Exemplaires dans notre Bibliothèque publique, un dans celle de notre Château du Louvre, et un dans celle de notre très cher et féal Chevalier Garde des Sceaux de France, le Sieur Chauvelin, le tout à peine de nullité des présentes ; du contenu desquelles vous mandons et enjoignons de faire jouir l'Exposant ou ses ayants cause, pleinement et paisiblement, sans souffrir qu'ailleurs soit fait aucun trouble ou empêchements ; voulons qu'à la copie desdites présentes qui sera imprimée tout au long au commencement ou à la fin dudit Livre, foi Soit ajoutée comme à l'original ; Commandons au premier notre huissier ou sergent de faire pour l'exécution d'icelles, tous actes requis et nécessaires, sans demander autre permission, nonobstant clameur de Haro, Charte Normande, et Lettres à ce contraires ; CAR tel est notre plaisir. Donné à Paris le vingtième jour du mois de Septembre, l'an de grâce mil Sept cent trente-un, et de notre Règne le dix-septième. Par le Roi en son Conseil. </p>Signé, CHUPPIN. <p>Registré Sur le Registre VIII. de la Chambre Royale des Libraires et Imprimeurs de Paris, Numéro 229. Folio 218, conformément aux anciens Règlements, confirmés par celui du 28. Février 1723. À Paris le 22 Septembre 1731. Signé, P. A. LE MERCIER, Syndic. </p></div><p/>À PARIS, Chez PIERRE PRAULT, Quai de Gêvires, au Paradis.<div type="liminal"><p/></div><list><head>ACTEURS.</head><item>MOMUS.</item><item>VÉNUS.</item><item>APOLLON.</item><item>LE JE NE SAIS QUOI.</item><item>LE GÉOMÈTRE.</item><item>LE PETIT MAÎTRE.</item><item>LE SUISSE.</item><item>LE PUBLIC FÉMININ.</item><item>L'ACTEUR FRANÇAIS.</item><item>LE MUSICIEN.</item><item>LA DANSEUSE.</item><item>SILVIA.</item><item>TROUPE de CALOTINS ET CALOTINES.</item></list><p>La Scène est dans un désert.</p></div>
+<div n="1" type="act">
+<head/>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Momus, Vénus.</head>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Que vient faire Cypris dans ce lieu solitaire ?</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Et qu'y cherche Momus ?</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>C'est un fripon charmant,</l>
+<l>Qui n'est pas votre fils, et qu'on prend pour son frère. </l>
+<l>Dont le nom même est un mystère ;</l>
+<l>Déserteur de mon régiment</l>
+<l>Ainsi que de Cythère.</l>
+<l>Il a les traits peu réguliers, mais fins ;</l>
+<l>Son air est ingénu, ses discours font badins ;</l>
+<l>Il est brun de visage, et petit de figure ;</l>
+<l>De l'Art trop composé fuit les charmes contraints,</l>
+<l>Et tient ses agréments des mains de la Nature.</l>
+<l>Votre fils est plus beau, mais je crois celui-ci,</l>
+<l>Soit dit sans vous mettre en colère,</l>
+<l>Mille fois plus piquant, mille fois plus joli,</l>
+<l>Et dans tout ce qu'il fait il a le don de plaire.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Ah ! Je reconnais là, le Dieu de l'Agrément,</l>
+<l>Le JE NE SAIS QUOI ravissant,</l>
+<l>Que la plus charmante des Grâces</l>
+<l>Et le Caprice ont mis au jour ;</l>
+<l>Qui faisait autrefois la gloire de ma Cour,</l>
+<l>Et qui fuit à présent mes traces.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Consolez-vous, Déesse, Apollon que voici,</l>
+<l>Éprouve les mêmes disgrâces ;</l>
+<l>Et comme vous sans doute, il vient chercher ici</l>
+<l>Le fier JE NE SAIS QUOI, que cache cette grotte. </l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Apollon, Momus, Vénus.</head>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Le Dieu Momus l'y cherche aussi.</l>
+<l>Est-ce pour lui donner un brevet de Calotte ?</l>
+<l>Il en est digne sûrement</l>
+<l>Par sa rare conduite.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Mais vous faites par là son éloge vraiment.</l>
+<l>La brigue ne fait rien dans notre Régiment,</l>
+<l>On n'y reçoit que le mérite ;</l>
+<l>Vous en faites, Seigneur, vous-même l'ornement,</l>
+<l>Aussi bien que le Dieu dont vous blâmez la fuite.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Un tel honneur me flatte infiniment :</l>
+<l>Mais je me rends justice, et je sens l'avantage</l>
+<l>Qu'a sur moi cet enfant volage ;</l>
+<l>C'est lui qui, le premier, a rendu florissant</l>
+<l>Ce corps dont la chaleur s'est un peu ralentie. </l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Eh ! C'est depuis qu'il est absent.</l>
+<l>Sans le Je ne sais quoi tout languit dans la vie,</l>
+<l>Il en fait tout l'enchantement ;</l>
+<l>C'est le Je ne sais quoi qui met sur la Folie,</l>
+<l>Cet aimable vernis qui la rend si jolie,</l>
+<l>Et sur tous mes sujets répand cet enjouement</l>
+<l>Qui fait passer heureusement</l>
+<l>Leur plus piquante raillerie.</l>
+<l>Sans le Je ne sais quoi, le Dieu des Vers ennuie ;</l>
+<l>Il donne à ses accords ce doux charme qui plaît,</l>
+<l>Et remplit seul la Tragédie</l>
+<l>De la chaleur de l'intérêt.</l>
+<l>Sans le Je ne sais quoi, sans sa grâce infinie,</l>
+<l>La Beauté n'offre aux yeux qu'un éclat impuissant :</l>
+<l>C'est le Je ne sais quoi, qui, je ne sais comment,</l>
+<l>Forme la sympathie.</l>
+<l>Enfin, par ce Je ne sais quoi,</l>
+<l>Un coeur s'attache à l'autre, et sans savoir pourquoi.</l>
+<l>On combattrait en vain, sa douce tyrannie ;</l>
+<l>Du petit Enchanteur un regard séduisant,</l>
+<l>Un coup de tête, un geste, une manière. </l>
+<l>Déesse des Amours, font plus en un instant,</l>
+<l>Que ne feraient votre Art et son talent</l>
+<l>En une année entière.</l>
+<l>Heureux cent fois l'Auteur,</l>
+<l>Heureux l'Amant, heureux l'Auteur,</l>
+<l>Heureuses mille fois les Belles,</l>
+<l>Sur qui ses libérales mains</l>
+<l>Répandent en naissant ses grâces naturelles ;</l>
+<l>De toucher et de plaire ils sont toujours certains,</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<note>Panégyriste : Celui qui fait un panégyrique. Discours public à la louange de quelqu'un. Par extension tout parole d'éloge. [L]</note>
+<l>Ciel ! Qu'entends-je ? Momus s'est fait panégyriste.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Le Dieu des Médisants devient votre copiste.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Doucement, je ne fais cet éloge de lui,</l>
+<l>Que pour mieux vous blâmer l'un et l'autre aujourd'hui.</l>
+<l>Du départ de ce Dieu vous êtes seuls la cause.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Qui ! Nous ?</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Vous même ; en vain vous faites les surpris.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Je m'étonne, sur nous, que vous mettiez la chose. </l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Ce sont tous les abus que vous avez permis,</l>
+<l>C'est l'affectation, c'est la coquetterie,</l>
+<l>Le fard et le clinquant qui semble, des habits,</l>
+<l>Avoir passé dans les écrits ;</l>
+<l>Ce sont tous les faux airs que le Faste a fait naître,</l>
+<l>Qui l'ont forcé d'abandonner Paris,</l>
+<l>Pour suivre la Nature en ce séjour champêtre.</l>
+<l>Voilà ce qu'a produit la fureur de paraître.</l>
+<l>De la Simplicité l'on ne sent plus le prix ;</l>
+<l>Toute Belle est coquette, et fait gloire de l'être;</l>
+<l>Tous les Auteurs sont beaux Esprits,</l>
+<note>Petit maître : Fig. et familièrement. Petit-maître, jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. [L]</note>
+<l>Et tout Amant est Petit Maître.</l>
+<l>De la contagion si quelqu'un est exempt,</l>
+<note>Marotte : Espèce de sceptre qui est surmonté d'une tête coiffée d'un capuchon bigarré de différentes couleurs, et garnie de grelots ; c'est l'attribut de la Folie, et c'était celui des fous des rois. Fig. et familièrement. Objet de quelque folie. [L]</note>
+<l>C'est à l'abri de ma marotte,</l>
+<l>Et pour amis du Vrai, je compte uniquement</l>
+<note>Calotte : Sorte de petite calotte noire que portent les prêtres. Par dénigrement, la calotte, les prêtres, le clergé. [L]</note>
+<l>Nos Officiers de la Calotte.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Je fronde, comme vous, le faux goût d'à présent,</l>
+<l>Mais, malgré mes efforts, son Empire s'étend.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>C'est par un pur caprice, et non par notre faute,</l>
+<l>Que nous avons perdu ce Génie inconstant;</l>
+<l>Avec les grâces de sa mère, </l>
+<l>Il a l'humeur fantasque de son père.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Ce que j'y vois pour vous de plus triste aujourd'hui,</l>
+<l>C'est que depuis le jour que ce Dieu s'est enfui,</l>
+<l>L'Ennui mortel a pris sa place,</l>
+<l>Et l'on bâille à Cythère aussi fort qu'au Parnasse.</l>
+<l>L'Amour ne fait plus que languir,</l>
+<l>De vains amusements on a beau le remplir,</l>
+<l>Le coeur demeure toujours vide,</l>
+<l>Et l'Ennui, d'un vol rapide,</l>
+<l>S'y vient nicher au milieu du Plaisir.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Le moyen de s'en garantir ?</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Cela me paraît difficile.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Il a même forcé notre dernier asile,</l>
+<l>Le Théâtre est en proie à sa noire vapeur.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>C'est notre premier Temple; il est de notre honneur</l>
+<l>D'en prendre la défense :</l>
+<l>C'est la cause d'ailleurs de tous les Immortels. </l>
+<l>Si l'Ennui s'établit dans le sein de la France,</l>
+<l>Il détruira tous leurs autels.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Contre un fléau si grand que peut votre puissance ?</l>
+<l>Que faire enfin ?</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Agir tous de concert,</l>
+<l>Pour arracher de ce désert</l>
+<l>Le Dieu, dont la présence,</l>
+<l>Peut seule exterminer cet Ennemi fatal :</l>
+<l>Mais il ne faut pas moins qu'un effort général ;</l>
+<l>Cette Grotte et ces lieux qu'arrose une onde pure,</l>
+<l>Pour retenir ses pas semblent formés exprès ;</l>
+<l>De leur agréable structure,</l>
+<l>Le seul Caprice a fait les frais.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Mais comment l'arracher du fond de sa retraite ?</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Pour lui faire quitter ces lieux,</l>
+<l>Écoutez un dessein que mon esprit projette,</l>
+<l>Et qui sera, je crois, approuvé dans les Cieux :</l>
+<l>Parmi tous les Mortels qui nous rendent hommage,</l>
+<l>Que chacun de nous tâche à trouver un sujet, </l>
+<l>Qui puisse avoir l'heureux attrait</l>
+<l>De rappeler ce Dieu volage,</l>
+<l>Et de le fixer tout à fait.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Vous espérez avoir, sans doute, l'avantage</l>
+<l>De l'emporter sur tous les autres Dieux ;</l>
+<l>Et ce retour sera l'ouvrage</l>
+<l>De quelque Calotin joyeux.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Mais ne croyez pas rire, avec un tel langage ;</l>
+<l>On plaît moins par le sérieux,</l>
+<l>Qu'on ne fait par le badinage ;</l>
+<l>Et le JE NE SAIS QUOI, si charmant à nos yeux,</l>
+<l>Est lui-même porté vers le Calotinage,</l>
+<l>Et tient de lui ses traits les plus victorieux.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Mais aux Mortels pourquoi donner la gloire</l>
+<l>De l'exécution?</l>
+<l>C'est nous avilir de les croire</l>
+<l>Dans cette occasion,</l>
+<l>Plus capable que nous d'obtenir la victoire.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Oui, de n'avoir pas cet honneur,</l>
+<l>Ma dignité s'offense et mon orgueil murmure.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>C'est cette dignité qui doit nous en exclure :</l>
+<l>La contrainte et l'apprêt qui suivent la Grandeur,</l>
+<l>Donneraient l'épouvante à notre déserteur.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Avant de recourir à ce moyen extrême,</l>
+<l>Moi, je veux essayer du moins,</l>
+<l>Si je ne pourrai pas réussir par moi-même.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Et j'y vais, comme vous, appliquer tous mes foins.</l>
+</sp>
+<sp who="MOMUS">
+<speaker>MOMUS.</speaker>
+<l>Des Coquettes elle est la Reine,</l>
+<l>Il est le Dieu des beaux Esprits ;</l>
+<l>Je ne suis nullement surpris</l>
+<l>Si l'Amour propre les entraîne.</l>
+<l>D'un si noble dessein je vous applaudis fort:</l>
+<l>Mais voici ce Dieu solitaire,</l>
+<l>Qui vers ce Lieu prend son effort ;</l>
+<l>Il s'offre à vos filets, signalez votre effort.</l>
+<l>Pour convaincre les Dieux du choix qu'ils doivent faire,</l>
+<l>Et pour songer au mien, moi, je quitte ce bord.</l>
+<stage>Il s'en va.</stage>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Apollon, Vénus, Arlequin.</head>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Quels sont les importuns qu'ici je vois paraître ?</l>
+<l>C'est Apollon, et Madame Vénus.</l>
+<l>Qu'ils sont changés depuis que je ne les ai vus !</l>
+<l>J'avais d'abord peine à les reconnaître.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Il s'effarouche en nous voyant.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Que veulent-ils?</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Il faut l'aborder doucement.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Quelle affectation ! Quel rouge épouvantable !</l>
+<l>Je ne puis soutenir leur aspect seulement.</l>
+<l>Vite, rentrons dans mon appartement.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Pourquoi nous fuir, Génie aimable ?</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Vous seriez accompli,</l>
+<l>Si vous vouliez vous montrer plus affable.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Ah ! Vous me trouvez donc joli ?</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS, d'un air minaudier.</speaker>
+<l>Plus on vous voit, et plus on vous trouve agréable.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, à Vénus.</speaker>
+<l>Ce compliment est fort poli;</l>
+<l>Mais, ne pourriez-vous pas de grace,</l>
+<l>Me dire des douceurs, sans faire la grimace ?</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON, faisant le gracieux.</speaker>
+<l>Tout est charmant en vous. Vous êtes embelli</l>
+<l>Même par votre brusquerie.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Ah ! Cous m'affadissez par votre flatterie,</l>
+<l>Et vous accompagnez ce trait digne de vous.</l>
+<l>D'un souris fat et plein d'afféterie,</l>
+<l>Capable de gâter l'éloge le plus doux.</l>
+<l>Faites-moi tous les deux un plaisir, je vous prie?</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Volontiers.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Privez-moi de votre Compagnie, </l>
+<l>Ou trouvez bon que je vous dise adieu.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<note>Saillie : Fig. Trait d'esprit brillant et imprévu. [L]</note>
+<l>D'où vous vient cette saillie ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>D'une raison sans repartie.</l>
+<l>Nous ne saurions tous trois être en un même lieu.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Mais pourquoi donc, je vous supplie ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>C'est qu'avec l'Art, j'ai de l'antipathie,</l>
+<l>Et pour trancher les discours superflus,</l>
+<l>Que Madame n'est plus</l>
+<l>Qu'une vieille Coquette à mes yeux enlaidie,</l>
+<l>Dont je ne puis souffrir le visage fardé ;</l>
+<l>Et que vous êtes, vous, un bel esprit guindé,</l>
+<l>Dont l'entretien m'ennuie.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON, l'arrêtant.</speaker>
+<l>Arrêtez, charmant JE NE SAIS QUOI,</l>
+<l>Ne partez pas si vite.</l>
+<l>Nous avons traversé les airs, Vénus et moi,</l>
+<l>Pour venir vous rendre visite.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Adieu, je prends la fuite,</l>
+<l>Dès qu'on court après moi.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS, en le retenant.</speaker>
+<l>Ah ! Montrez-nous plutôt le moyen de vous plaire,</l>
+<l>Pour vaincre vos rigueurs, dites, que faut-il faire ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous rapprocher de la Simplicité.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>C'est à quoi, chaque jour, notre esprit s'étudie ;</l>
+<l>Et sans cesse par nous votre air est imité.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Par là même, morbleu, vous êtes affecté :</l>
+<l>On n'est plus naturel, si tôt que l'on copie.</l>
+<l>Ainsi, plus de commerce.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>Ah ! Quelle cruauté !</l>
+<l>Le dernier des Mortels ne serait pas traité</l>
+<l>D'une façon plus dure.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Je le recevrois beaucoup mieux.</l>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Pourquoi nous faire cette injure ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>C'est que les hommes sont moins fardés que les Dieux,</l>
+<l>Plus on est guindé dans les Cieux,</l>
+<l>Moins on est près de la Nature,</l>
+<l>Et souvent les plus Grands sont les plus ennuyeux.</l>
+<l>Voilà pourquoi je vous fais mes adieux.</l>
+</sp>
+<sp who="VÉNUS">
+<speaker>VÉNUS.</speaker>
+<l>C'est moi plutôt qui vous cède la place.</l>
+<l>Je rougis d'en avoir trop fait,</l>
+<l>Et mon juste dépit me chasse.</l>
+<l>Une mortelle aura peut-être le secret</l>
+<l>De venger ma disgrâce.</l>
+<stage>Elle sort.</stage>
+</sp>
+<sp who="APOLLON">
+<speaker>APOLLON.</speaker>
+<l>Honteux d'avoir tenté des efforts superflus,</l>
+<l>Je vais suivre trop tard le conseil de Momus.</l>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Arlequin, Un Géometre.</head>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE, sans voir Arlequin.</speaker>
+<l>Plus je combine, plus je pense,</l>
+<l>Et moins dans le fond je conçois</l>
+<l>Le prétendu JE NE SAIS QUOI,</l>
+<l>Dont chacun regrette l'absence,</l>
+<l>Et qu'on dit en ces lieux faire sa résidence.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, à part.</speaker>
+<l>Ce Faquin-là médit de moi.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Ou la Géométrie est fausse et vaine en soi,</l>
+<l>Et je suis une franche bête ;</l>
+<l>Ou ce JE NE SAIS QUOI, dont l'Univers s'entête,</l>
+<l>Et cette gentillesse avec cet agrément,</l>
+<l>Que dans le monde on cherche tant,</l>
+<l>Et dont on prétend qu'il est Père,</l>
+<l>Ne sont qu'une pure chimère.</l>
+<l>L'exacte Vérité, la solide Raison,</l>
+<l>Ont seules droit de plaire, </l>
+<l>Tout le reste n'est qu'un jargon.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Holà, hey ! Jargon toi-même.</l>
+<l>Sais-tu bien, maître Original,</l>
+<l>Sais-tu bien que celui dont tu parles si mal,</l>
+<l>Pourrait fort bien punir ton insolence extrême.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Vous le connaissez donc ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Oui.</l>
+<l>Ma gloire, qui plus est, m'engage à le défendre.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Pour moi, la Vérité qui me conduit ici,</l>
+<l>Ne me permet pas de me rendre,</l>
+<l>Avant d'être mieux éclairci.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Pour convaincre à l'instant ton esprit endurci,</l>
+<l>Il te suffit de sa présence.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Où donc est-il ? Je serais curieux</l>
+<l>D'en faire l'analyse.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Il te crève les yeux,</l>
+<l>Homme ignorant à force de science.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Mais je ne vois que vous seul en ces lieux.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Eh, n'aperçois-tu pas, Butor, que c'est moi-même.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Eh ce cas là vous êtes un problème,</l>
+<l>Que je ne puis résoudre, et dont je dois douter.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Mais, Animal indécrottable,</l>
+<l>Je suis un être, moi, mais un être palpable.</l>
+<l>Tu n'as plutôt qu'à me tâter.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Le rapport de mes sens est trompeur, variable,</l>
+<l>Sur lui je ne puis m'assurer :</l>
+<l>C'est mon esprit qu'il faut seul pénétrer</l>
+<l>D'une conviction qui soit inébranlable.</l>
+<l>À mes regards que sert de vous montrer :</l>
+<l>Je ne saurais vous croire véritable,</l>
+<l>Vous que rien jusqu'ici n'a pu me démontrer.</l>
+<l>Il faut, s'il vous plaît me permettre,</l>
+<l>Pour me convaincre pleinement,</l>
+<l>De vous examiner géométriquement,</l>
+<l>Et de vous définir sans plus longtemps remettre.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Apprenez qu'il saut me sentir,</l>
+<l>Et qu'on ne peut me définir,</l>
+<l>Monsieur le Géomètre.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Souffrez du moins, de peur d'un quiproquo,</l>
+<l>Souffrez que je vous décompose,</l>
+<l>Ou je vous tiens pour un zéro.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Je vais te faire voir que je suis quelque chose,</l>
+<l>Et te décomposer toi-même de façon,</l>
+<l>Que tu vas au plÛtôt changer d'opinion.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Arrêtez, point de violence.</l>
+<l>Là, soit, pour un moment et j'admets votre existence,</l>
+<l>Mais pour mieux affermir mon esprit chancelant,</l>
+<stage>Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient à la main, et qui sert d'appui.</stage>
+<l>Avec ce demi cercle agréez seulement,</l>
+<l>Que je mesure ici votre circonférence,</l>
+<l>Et prenne exactement chaque dimension.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Mais il me prend, je pense,</l>
+<l>Pour une contrescarpe, ou pour un bastion.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Ne remuez donc pas. Un peu de patience.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Renversons et brisons son instrument maudit.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Que faites-vous ? Quel aveugle dépit !</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous êtes un faquin, dont l'audace sournoise</l>
+<l>Et le doute insolent excitent mon courroux.</l>
+<l>Je ne suis pas un Dieu qu'on mesure à la toise,</l>
+<l>Et je devrais ici vous donner mille coups.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE.</speaker>
+<l>Eh, par là qu'avanceriez-vous ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Je saurais te convaincre avec tes propres armes.</l>
+<l>Mais, va, tu n'as point d'yeux pour connaître mes charmes,</l>
+<l>Et toi-même tu perds tous les soins que tu prends.</l>
+<l>Je suis un Don de la Nature,</l>
+<l>Qu'on ne peut concevoir par l'art ni parle temps,</l>
+<l>Et qu'on ne vit jamais briller dans la figure,</l>
+<l>Ni dans le cabinet de Messieurs les savants.</l>
+</sp>
+<sp who="LE GÉOMÈTRE">
+<speaker>LE GÉOMÈTRE, en s'en allant.</speaker>
+<l>Pour moi, qui ne me rends qu'à la seule évidence,</l>
+<l>J'en suis toujours pour ce que j'en ai dit ;</l>
+<l>Et dans cette occurrence,</l>
+<l>Mes yeux sont convaincus, mais non pas mon esprit.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Si tu me comprenais, je perdrais mon crédit.</l>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Arlequin, Le Petit Maître.</head>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Au Dieu de l'Agrément je fais la révérence,</l>
+<l>En qualité d'ambassadeur.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Et quelle est la Puissance,</l>
+<l>Qui vers notre Grandeur</l>
+<l>A député votre Excellence?</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>En me voyant, Seigneur,</l>
+<l>Vous devinez qui c'est, je pense.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Moi ? Point du tout. </l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>C'est Vénus et l'Amour,</l>
+<l>Qui soupirent tous deux après votre retour,</l>
+<l>Et qui m'ont aujourd'hui donné la préférence</l>
+<l>Sur tant d'aimables gens</l>
+<l>Qui font l'ornement de la France.</l>
+<l>Dans cette occasion, je dois, sans perdre temps,</l>
+<l>Vous marquer ma reconnaissance,</l>
+<l>Et vous faire, Seigneur, mille remerciements.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Eh, pourquoi s'il vous plaît ?</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>La demande m'étonne !</l>
+<l>Pour avoir comblé ma personne</l>
+<l>De tous vos dons les plus charmants.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, à part.</speaker>
+<l>S'il n'était pas si fat, il serait fort aimable ;</l>
+<l>Mortifions un peu sa vanité.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Si je plais, c'est à vous que j'en suis redevable.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous vous moquez en vérité,</l>
+<l>Monsieur le Petit Maître,</l>
+<l>Je n'ai pas seulement l'honneur de vous connaître.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Trêve de modestie et de déguisement.</l>
+<l>Tous ces bons airs qu'en moi l'on voit paraître,</l>
+<l>Ce goût qui règne en mon ajustement,</l>
+<l>Ce dehors, ces façons, ces riens inexprimables,</l>
+<l>Qui rendent tous les coeurs épris,</l>
+<l>Ces coups de tête inimitables,</l>
+<l>Qui tâchent d'attraper tous nos jeunes Marquis.</l>
+<l>Quand on les voit dans les coulisses</l>
+<l>Déployer leur talents aux yeux des spectateurs,</l>
+<l>Et jouant avec les actrices,</l>
+<l>Chanter plus haut que les acteurs.</l>
+<stage>Il chante.</stage>
+<l>Ah ! Belle Reine, est-il possible</l>
+<l>Que vous soyez sensible</l>
+<l>Pour un autre que moi ?</l>
+<l>Ah ! Belle Reine, est-il possible,</l>
+<l>Que je ne sois pas votre Roi ?</l>
+<stage>Il déclame.</stage>
+<l>En un mot tous ces dons, qui parent ma figure ;</l>
+<l>C'est de vous seul que je les tiens.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Il n'en est rien, je vous assure ;</l>
+<l>Car je ne reconnais pour miens ; </l>
+<l>Que ceux qui sont marqués au coin de la Nature.</l>
+<l>Et jamais Petit Maître...</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Oh, je le suis en beau,</l>
+<l>Et je le suis dès le berceau.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Apprenez mieux à vous connAître,</l>
+<l>La Nature jamais ne fit un Petit Maître ;</l>
+<l>Le plus aimable est toujours apprêté ;</l>
+<l>Et c'est en le louant autant qu'il puisse l'être,</l>
+<l>Le Chef-d'oeuvre de l'Art et de la Vanité :</l>
+<l>Ainsi détrompez-vous.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Ce n'est qu'une défaite.</l>
+<l>Vous ne pouvez, en ce moment,</l>
+<l>Vous dispenser honnêtement</l>
+<l>D'abandonner votre Retraite,</l>
+<l>Pour me suivre à Paris, où chacun vous souhaite.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous comptez donc sur mon retour ?</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Oui vraiment ; j'ai donné ma parole à l'Amour</l>
+<l>De vous ramener dans ce jour. </l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Le compliment est assez drôle :</l>
+<l>Il est bon, mon ami, de vous faire savoir,</l>
+<l>Qu'avec tous les appas que vous croyez avoir,</l>
+<l>Vous risquez, à l'Amour, de manquer de parole.</l>
+<l>Mais quel est le fâcheux qui vient encor nous voir ?</l>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCENE VI. Arlequin, Le Petit Maître, Un Officier Suisse.</head>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Li Tieu qui préside à la Tonne,</l>
+<l>Monsir Pacchus, me preserir à tous,</l>
+<l>Et faire choix de mon personne</l>
+<l>Four faire l'Ambassade, et la Harangue à fous.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>L'aimable Ambassadeur ! Qu'il a de gentillesse !</l>
+<l>Quand Bacchus a choisi</l>
+<l>Un Envoyé de cette espèce,</l>
+<l>Assurément il était dans l'ivresse.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, à Arlequin.</speaker>
+<l>Moi, mon petit Cadet, fous troufe fort choli ;</l>
+<l>Tout li Corps di Bifeurs qu'ici ché represente,</l>
+<l>S'ennuier peaucoup Tieu merci,</l>
+<l>Di foir fotre personne absente ;</l>
+<l>Nous être également, sans li CHE NE SAIS QUOI,</l>
+<l>Tout che ne sais comment, et sans savre pourquoi.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE, à Arlequin.</speaker>
+<l>Des Suisses soupirer après votre présence !</l>
+<l>Ce Phénomène me surprend,</l>
+<l>Je ne croyais pas seulement,</l>
+<l>Que le JE NE SAIS QUOI fut de leur connaissance.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Toi li parle très-mal, quand toi li parle ainsi ;</l>
+<l>Et por tranche un discours qui m'échauffe mon pile,</l>
+<l>Moi di CHE NE SAIS QUOI si fort être l'ami,</l>
+<l>Que li mène soupir sti soir même à la file.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, à part.</speaker>
+<l>Ce ne sera pas d'aujourd'hui.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE, au Suisse.</speaker>
+<l>Vous pouvez vous passer de lui,</l>
+<l>Et son secours vous est fort inutile ; </l>
+<l>Vous n'avez pas, Messieurs, le goût si difficile :</l>
+<l>Pourvu qu'un Cabaret, centre de vos plaisirs,</l>
+<l>Vous offre une table garnie,</l>
+<l>Il n'est plus rien qui manque à vos désirs.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Fous ouplier le meillir, ché fous prie.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Quoi donc ?</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Un Fanchon pien cholie.</l>
+<l>Puis dans limême tems li manque au Tieu tu Fin,</l>
+<l>Sti ché ni scai quoi di fin,</l>
+<l>Qui touchours fous refeille,</l>
+<l>Et fous fait afalir de son liqueur fermeille,</l>
+<l>Pendant trois chours entiers li soir et li matin,</l>
+<l>Sans être incommodé di tout li lendemain,</l>
+<l>Ho ! Sti CHE NE SAIS QUOI n'avre pas sa pareille.</l>
+<l>Puis manque à mon moustache encor un acrément,</l>
+<l>Qui de Monsir dépend;</l>
+<l>C'est que son petit main rempli de chentillesse,</l>
+<l>Li tonne un tour patin, et sti che ne sais qu'est-ce</l>
+<l>Qui me rente charmant</l>
+<l>Aux yeux de mon Maîtressse.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Le bel emploi pour moi !</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Comment, Monsieur, comment,</l>
+<l>Toute votre personne a naturellement</l>
+<l>Tant de grâces et tant de charmes,</l>
+<l>Qu'elle n'a pas besoin d'aucun autre ornement ;</l>
+<l>Vos moustaches, surtout, frisent si joliment,</l>
+<l>Que l'objet le plus fier doit leur rendre les armes.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Monsir de France ché t'entens,</l>
+<l>Pour faire l'acréaple,</l>
+<l>Toi fouloir rire à mes dépens.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Moi, rire à vos dépens, je n'en suis point capable;</l>
+<l>Et pour être raillé vous êtes trop aimable.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Ne crois point patiner, mon foi,</l>
+<l>Dans mon façon, moi l'être autant que toi ;</l>
+<l>L'avre de mon Pays li craces en partage.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Des grâces Suisses ! Oh, je sens leur avantage.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Par la tertombre, moi,</l>
+<l>Moi parlir tout di pon, et fouloir fiste faire</l>
+<l>Monseignir li ché ne sais quoi,</l>
+<l>Chiche de sti petit affaire.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Vous êtes sûr d'avoir une victoire entière.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Le défi me paraît plaisant,</l>
+<l>Je vais vous écouter fort attentivement.</l>
+<l>Parlez. Sur pareille matière,</l>
+<l>Je me crois juge compétent.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Eh pien, Monsir, sans tardir dasantache,</l>
+<l>Por faire le comparaison,</l>
+<l>Ricarte son personne ; obserse sti mignon :</l>
+<l>Li plutôt afre l'air, le foix et la fissage</l>
+<l>D'une fille que d'un garçon.</l>
+<l>Puis toi pressentement, toi contemple mon mine ;</l>
+<l>Admire cette coffre, et mon larche poitrine ;</l>
+<l>Foi sti maintien guerrier, sti front machestueux ;</l>
+<l>Foilà, foilà ce que ché nomme</l>
+<l>Le témoignache afantacheux,</l>
+<l>Et tout li srai peauté d'in homme :</l>
+<l>Et foilà ce qui plaît, surtout,</l>
+<l>À tous les Tames di pon cout ; </l>
+<l>Et dans leur petit coeur fait fenir le tendresse,</l>
+<l>Peaucoup mieux que sti drole afec son chentillesse.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Ah, ah, ah, je ris de bon coeur.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE, bas à Arlequin.</speaker>
+<l>Un tel original vous réjouit, Seigneur ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Rien n'est plus véritable.</l>
+<l>Ce Suisse qui se croit aimable,</l>
+<l>Et qui vient avec vous faire assaut d'agrément,</l>
+<l>Me divertit infiniment.</l>
+<l>Mais vous, qui vous moquez d'un pareil personnage,</l>
+<l>Vous me divertissez encore davantage.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Qui, moi, Seigneur, je vous divertis ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Oui.</l>
+<l>Vous le plaisantez aujourd'hui,</l>
+<l>Et vous trouvez ses façons singulières,</l>
+<l>Lorsque, dans vos manières,</l>
+<l>Vous êtes ridicule autant et plus que lui.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Oh ! L'estre fort pien dit cela, Tiaple m'emporte,</l>
+<l>Et montre à respectir un homme de mon sorte.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>La chose me surprend. Vous trouvez mes façons</l>
+<l>Plus choquantes que celles</l>
+<note>Treize cantons : La Suisse.</note>
+<l>D'un homme des Treize Cantons :</l>
+<l>Dites-moi, pour les trouver telles,</l>
+<l>Dites-moi du moins vos raisons ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Oh ! Pour trancher en deux mots la dispute,</l>
+<l>Vous avez pris de mauvaises leçons,</l>
+<l>Et je fais plus de cas de la Nature brute,</l>
+<l>Telle qu'en un Suisse sans fard</l>
+<l>On peut la voir paraître,</l>
+<l>Que des faux agréments de l'Art,</l>
+<l>Qui brillent dans un Petit Maître.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Mon Peauté sur le tien l'avre enfin emporté.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE, à Arlequin.</speaker>
+<l>Jusqu'ici, d'être aimable, on m'a pourtant flatté.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous étiez né pour l'être,</l>
+<l>Mais l'affectation chez vous a tout gâté. </l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Vous m'accusez d'être affecté !</l>
+<l>Vous êtes le premier. Tout autant que personne</l>
+<l>Je crois avoir, sans vanité,</l>
+<l>Ces grâces, cette aisance, et cette liberté</l>
+<l>Que le grand Monde donne.</l>
+<l>J'abhorre sur tout l'air que vous me reprochez.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Il y paraît à vos manières.</l>
+<l>Vous caressez ainsi vos lèvres minaudières,</l>
+<l>Et voici comme vous marchez.</l>
+<stage>Il se promène et contrefait le Petit Maître.</stage>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Li marchir en catence,</l>
+<l>Comme faire un Maître à Tanser.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE, à Arlequin.</speaker>
+<l>Eh, comment donc marcher ? Montrez-m'en la science.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Tout naturellement, fans paroître y penser.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Comme li marche, moi. La facon la plus ronde</l>
+<l>Esire la meillire facon.</l>
+<l>Ricarte sti pon air, profite du lecon, </l>
+<l>Et par là, plaire à tout li monde.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE, d'un air ironique.</speaker>
+<l>Cette démarche est noble, et vous avez raison.</l>
+<stage>À Arlequin.</stage>
+<l>Ah ! C'est trop m'éprouver. Seigneur, je vous supplie,</l>
+<l>De vous déterminer à partir avec moi,</l>
+<l>Et de quitter la raillerie,</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Lui montir dans mon Chaise, et ne point suifre toi.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Je voudrais à tous deux vous être favorable,</l>
+<l>Mais je ne puis me rendre à vos soins empressés.</l>
+</sp>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>D'où vient ?</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Porquoi ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, montrant le Petit Maître.</speaker>
+<l>Monsieur, veut faire trop l'aimable,</l>
+<l>Et vous ne l'êtes pas assez.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>L'être plus qu'il ne faut, et de ton compagnie</l>
+<l>Moi me passir fort pien, Monsir Che ne scai quoi, </l>
+<l>Pendant trente-cinq ans, moil'asre pu sans toi,</l>
+<l>Et li poire encor pien li reste de mon fie.</l>
+<stage>Il s'en va en pestant.</stage>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Arlequin, Le Petit Maître.</head>
+<sp who="LE PETIT MAÎTRE">
+<speaker>LE PETIT MAÎTRE.</speaker>
+<l>Adieu, Seigneur, votre esprit s'est gâté,</l>
+<l>Vous avez même contracté</l>
+<l>Une humeur brusque, un air sombre et sauvage.</l>
+<l>À Paris, aujourd'hui, vous seriez peu goûté ;</l>
+<l>Vous faites sagement de rester au village.</l>
+<stage>Il sort.</stage>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Arlequin, Le Public Féminin.</head>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Ah, vous voilà, Seigneur, je vous trouve à la fin,</l>
+<l>Mais ce n'est pas sans une peine extrême:</l>
+<l>Je n'en puis plus. Il faut bien qu'on vous aime</l>
+<l>Pour avoir fait tant de chemin,</l>
+<l>Et pour vous visiter jusques dans ces retraites.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Madame, apprenez-moi, s'il vous plaît, qui vous êtes.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Quoi se peut-il en ce moment,</l>
+<l>Que le Père de l'Agrément</l>
+<l>Et de la Gentillesse,</l>
+<l>Me demande mon nom, et qu'il me méconnaisse ?</l>
+<l>Moi, l'objet autrefois de son empressement,</l>
+<l>Et de sa plus vive tendresse :</l>
+<l>Moi, qui décide seul, et souverainement,</l>
+<l>Des affaires qui font de son département ; </l>
+<l>Moi, dont le Tribunal est tout puissant en France,</l>
+<l>Dont le goût naturel surpasse la Science</l>
+<l>Du Peuple Auteur qu'il éclaire souvent ;</l>
+<l>Qui, l'éventail en main, juge aussi sûrement,</l>
+<l>De la bonté des pièces de Théâtre,</l>
+<l>Que de l'air des Habits et de l'Ajustement,</l>
+<l>Dont je suis idolâtre.</l>
+<l>Ma règle sûre est le pur sentiment.</l>
+<l>Mon coeur tendre et sensible</l>
+<l>Dicte lui seul tous mes arrêts,</l>
+<l>Et cet Oracle infaillible</l>
+<l>Est l'arbitre sûr des succès.</l>
+<l>Ce n'est qu'à ce qui porte un caractère aimable,</l>
+<l>Que mon encens est départi,</l>
+<l>On ne l'obtient jamais, si l'on n'est agréable.</l>
+<l>Connaissez à ce trait votre meilleur ami</l>
+<l>Le Public, qui toujours vous a le plus chéri.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous êtes le Public ? Vous.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Oui.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Le véritable. </l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Oui, je suis ce Public délicat et choisi,</l>
+<l>Qui détermine l'autre, et qui s'en voit suivi.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Le Public en Cornette ! Il est méconnaissable.</l>
+<l>Mais pourquoi donc ? À quel dessein</l>
+<l>Vous travestir de la sorte ?</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>C'est l'habit qu'en tout temps je porte,</l>
+<l>Puisque je suis le Public Féminin,</l>
+<l>Cette aimable moitié du plus grand monde enfin,</l>
+<l>Dont je fais l'ornement et l'âme.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Ah ! Monseigneur ou bien Madame,</l>
+<l>Car je ne sais comment il faut vous appeler,</l>
+<l>Pardonnez à l'erreur qui m'a voit su troubler.</l>
+<l>Je révère le Public Femme ;</l>
+<l>D'être chéri de lui je me sens trop flatté,</l>
+<l>Et cette double qualité,</l>
+<l>Me fait sentir le prix d'une amitié si chère,</l>
+<l>Et craindre en même temps les traits de son courroux.</l>
+<l>Malheur à qui se voit haï de vous,</l>
+<l>Et trop heureux qui sait vous plaire. </l>
+<l>Oui, de tous les encens le vôtre est le plus doux,</l>
+<l>Et vous donnez le ton au Public votre frère.</l>
+<l>Mais, dans ce séjour écarté,</l>
+<l>Madame, qui vous a conduite?</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Les Grâces et la Volupté,</l>
+<l>Qui depuis votre fuite</l>
+<l>Ont perdu leurs attraits et leur vivacité,</l>
+<l>Vous savez qu'elles sont le partage ordinaire</l>
+<l>De notre sexe né pour plaire,</l>
+<l>Formé pour les amours, porté vers le plaisir,</l>
+<l>Et qui fait son unique affaire,</l>
+<l>De l'inspirer et de le ressentir :</l>
+<l>Mais chaque jour notre adresse impuissante</l>
+<l>A beau le varier, et beau le travestir</l>
+<l>Sous une forme différente,</l>
+<l>Il lui manque sans vous cette pointe charmante,</l>
+<l>Et ce JE NE SAIS QUOI, qui pique le désir.</l>
+<l>Sa douceur n'est plus apparente ;</l>
+<l>Ou plutôt avec vous le Plaisir s'est enfui :</l>
+<l>Sans pouvoir le saisir, je le cherche sans cesse.</l>
+<l>Je crois souvent, dans mon ivresse,</l>
+<l>Que je le tiens, et vais jouir de lui :</l>
+<l>Mais je ne trouve que l'ennui</l>
+<l>Sous le masque de l'allégresse.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Le Plaisir me ressemble, il est un peu malin,</l>
+<l>Lorsqu'on croit le tenir, il échappe soudain.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Que dis-je, pour chasser la Tristesse cruelle,</l>
+<l>Un Monstre encor plus affreux qu'elle,</l>
+<l>Qu'ont mis au jour le désir effréné,</l>
+<l>Et la Coquetterie,</l>
+<l>A fait sentir partout son souffle empoisonné.</l>
+<l>On l'appelle galanterie.</l>
+<l>Il a, sous ce beau nom, séduit tous les esprits,</l>
+<l>Et trouvé le secret de régner dans Paris.</l>
+<l>Il se dit des plaisirs le père véritable,</l>
+<l>Et n'est que la source effroyable</l>
+<l>Du repentir et du dégoût.</l>
+<l>En rendant tout facile, il a renversé tout.</l>
+<l>Cet ennemi fatal de la délicatesse</l>
+<l>Par son affreux système a détruit la tendresse :</l>
+<l>Il a fait de l'Amour, un commerce honteux</l>
+<l>Formé sans sentiments, et lié sans estime,</l>
+<l>Où l'on jouit sans être heureux ;</l>
+<l>Un trafic passager, que l'intérêt anime,</l>
+<l>Que produit l'inconstance, et qu'ils rompent tous deux ;</l>
+<l>Des règles de la bienséance</l>
+<l>Notre coeur osant s'affranchir,</l>
+<l>S'écarte du chemin en croyant l'accourcir,</l>
+<l>Et nous avons beaucoup perdu de l'innocence,</l>
+<l>Sans rien gagner du côté du plaisir.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Par la seule innocence on y peut parvenir,</l>
+<l>Le Plaisir est trop pur pour subsister sans elle,</l>
+<l>On ne saurait briser leur chaîne mutuelle</l>
+<l>Sans le détruire ou l'affaiblir.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Ce qui me désespère,</l>
+<l>Comme lui l'agrément affecte de me fuir.</l>
+<l>À combler ma misère,</l>
+<l>Seigneur, tout semble concourir.</l>
+<l>J'ai de la peine à plaire,</l>
+<l>Et je ne puis me divertir.</l>
+<l>Je commence le jour par me mettre en colère: </l>
+<l>On m'éveille mal-à-propos</l>
+<l>Dans l'instant que je goûte un tranquille repos.</l>
+<l>Je m'arrache à regret des bras de la mollesse,</l>
+<l>Je crois que du sommeil la force enchanteresse</l>
+<l>Aura du moins reposé mes attraits,</l>
+<l>Que je vais me lever plus belle que jamais.</l>
+<l>Je cours me regarder : mais j'en suis bien punie ;</l>
+<l>Je vois les mêmes traits,</l>
+<l>Mais je ne trouve plus ma physionomie,</l>
+<l>Ni cet air animé qui leur donne la vie.</l>
+<l>A mon secours j'appelle l'art flatteur,</l>
+<l>Pour ramener cet éclat séducteur,</l>
+<l>Plus d'une habile main s'applique et s'étudie.</l>
+<l>De m'avoir rendu ma beauté</l>
+<l>On s'applaudit déjà, mon coeur en est flatté,</l>
+<l>Quand par une boucle indocile</l>
+<l>Tout l'ouvrage est gâté :</l>
+<l>On fait pour la réduire un effort inutile,</l>
+<l>J'y mets la main moi-même, et n'y puis réussir.</l>
+<l>L'Art me rend ridicule, au lieu de m'embellir,</l>
+<l>Et par malheur la chose est sans remède.</l>
+<l>Le chagrin que j'en ai me rend encor plus laide.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous méritez votre laideur,</l>
+<l>Et c'est pour vous apprendre,</l>
+<l>À vouloir employer l'artifice trompeur.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Pour mettre enfin le comble à ma mauvaise humeur,</l>
+<l>Un abbé doucereux à force d'être tendre,</l>
+<note>Robin : Terme de dénigrement. Homme de robe. [L]</note>
+<l>Précédé d'un robin, et suivi d'un auteur,</l>
+<l>À ma toilette vient se rendre.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Quel amusant trio de toutes les façons !</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>L'abbé m'endort en me prêchant fleurette,</l>
+<l>Et l'avocat m'assomme en plaidant ses raisons ;</l>
+<l>L'Auteur un peu moins sot, sans en être plus sage,</l>
+<l>Se tait en m'offrant un ouvrage,</l>
+<l>Qu'il s'empresse de publier.</l>
+<l>Je le lis ; mais je sens dès la première page :</l>
+<l>Quoiqu'on m'ait fait l'honneur de me le dédier,</l>
+<l>Et que de mon mérite il fasse l'étalage,</l>
+<l>Je sens qu'il n'a pas moins le don de m'ennuyer.</l>
+<l>Mon visage en fait la critique.</l>
+<l>Je bâille, en attendant l'heure de l'Opéra,</l>
+<l>Qui me délivre enfin de ces trois messieurs-là.</l>
+<l>Je m'y rends pour entendre une chanteuse unique,</l>
+<l>Qui porte jusqu'aux cieux sa voix sans la forcer,</l>
+<l>Qui ne connaît d'autre art que l'art de prononcer,</l>
+<l>Et n'a que le coeur seul pour Maître de Musique.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Si j'étais à Paris elle aurait ma pratique. </l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Mais de plus d'un acteur que je ne puis souffrir,</l>
+<l>Le chant désagréable et la mauvaise grâce</l>
+<l>En troublant ses accords, trouble tout mon plaisir,</l>
+<l>Et dans mon coeur portant la glace,</l>
+<l>Y fait rentrer l'ennui qui venait d'en sortir.</l>
+<l>Ce poison est mêlé d'un transport de colère,</l>
+<l>Et je ne puis alors m'empêcher d'envier.</l>
+<l>L'heureuse liberté dont jouit le parterre,</l>
+<l>Et l'avantage qu'a mon frère</l>
+<l>De siffler, quand il veut, pour se désennuyer.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Si les dames sifflaient en pleine comédie,</l>
+<l>J'irais exprès pour voir cela.</l>
+<l>Elles feraient, je crois, une mine jolie.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Ce n'est pas tout, je sors de là,</l>
+<l>Et je me rends aux Tuilleries,</l>
+<l>Espérant dissiper un mal de tête affreux.</l>
+<l>Mais malgré leur éclat qui vient frapper mes yeux,</l>
+<l>Je sens que par l'art seul elles sont embellies,</l>
+<l>Et je désire à ces beaux lieux,</l>
+<l>L'air simple et naturel qu'on voit dans ces prairies.</l>
+<l>J'ai beau les parcourir avec empressement, </l>
+<l>Pour divertir l'ennui dont je suis possédée,</l>
+<l>Et jouir de l'amusement</l>
+<l>De regarder et d'être regardée:</l>
+<l>Je n'aperçois à chaque instant</l>
+<l>Qu'ajustements sans goût, et que modes choquantes,</l>
+<l>Qu'airs empruntés, mines impertinentes.</l>
+<l>À force d'être trop parés,</l>
+<l>J'y vois des hommes ridicules,</l>
+<l>Imitants nos paniers outrés,</l>
+<note>Maronner : Terme populaire. Murmurer. [L]</note>
+<l>Maronnés comme nous, et beaucoup plus poudrés ;</l>
+<note>Mule : Sorte de pantoufle pour les hommes, et de chaussure sans quartier pour les femmes. [L]</note>
+<l>Il ne leur manque que des mules.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Que j'ai bien Fait de les quitter.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Lasse de prendre l'air, bien moins que la poussière,</l>
+<l>Et sentant que mon mal ne fait que s'augmenter.</l>
+<l>Par tant d'objets qui n'ont que l'art de me déplaire,</l>
+<l>Et contre qui je me sens irriter,</l>
+<l>Même à l'instant qu'ils me sont rire,</l>
+<l>Je quitte ces jardins, sans avoir pu goûter</l>
+<l>D'autre contentement que celui de médire. </l>
+<l>Vous ne pouvez pas mieux faire votre satyre.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Je compte que la nuit va me dédommager</l>
+<l>D'avoir passé tristement la journée ;</l>
+<l>Et par la Volupté je me vois amenée</l>
+<l>Dans un Hôtel riant, tout fait pour la loger.</l>
+<l>D'abord la gaieté se déploie</l>
+<l>Sur le front animé du Maître du logis,</l>
+<l>Et de là se répand parmi tous les esprits.</l>
+<l>D'un repas enchanteur tout annonce la joie :</l>
+<l>Petits plats délicats, et convives choisis.</l>
+<l>Le goût préside à tout ; les Grâces et les Ris</l>
+<l>Avec nous sont assis à table.</l>
+<l>On sent bientôt régner ce concert délectable,</l>
+<l>Qui naît des coeurs bien assortis,</l>
+<l>Et forme l'enjouement, sans qui les mets exquis</l>
+<l>N'ont qu'un goût effroyable.</l>
+<l>On se livre aux accès d'une folie aimable ;</l>
+<l>Le plaisir désire vient insensiblement</l>
+<l>Dans le vif transport qui m'enflamme,</l>
+<l>Avec un vin de Grave aussi frais que brillant,</l>
+<l>Je le sens, ce plaisir, qui coule dans mon âme.</l>
+<l>Dans le moment fatal qu'un homme affreux, pesant, </l>
+<l>Qu'on n'attend point, forçant la porte,</l>
+<l>Vient présenter son visage assommant,</l>
+<l>Et glacer tous les coeurs par l'ennui qu'il apporte,</l>
+<l>Nous prenons tous la fuite, et notre joie est morte.</l>
+<l>Pour surcroît d'agrément,</l>
+<l>Je rencontre chez moi mon mari qui m'attend,</l>
+<l>Et veut m'entretenir quand je suis arrivée ;</l>
+<l>Mais je le quitte brusquement,</l>
+<l>Et vais me coucher en grondant,</l>
+<l>Ainsi que je me suis levée.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Votre récit est fort touchant.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Par le détail exact de l'ennuyeuse vie</l>
+<l>Que je mène, depuis que vous êtes absent,</l>
+<l>Jugez, Seigneur, de ma peine infinie :</l>
+<l>C'est de votre retour que mon bonheur dépend.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Je puis vous donner maintenant,</l>
+<l>Madame, sans quitter cette plaine fleurie,</l>
+<l>Le moyen de goûter plus de contentement,</l>
+<l>Et de vous rendre plus jolie. </l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Et comment donc ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Premièrement ;</l>
+<l>Fuyez l'art imposteur dont vous êtes esclave ;</l>
+<l>Couchez-vous de bonne heure, et levez-vous matin ;</l>
+<l>N'usez plus tant de Vin de Grave,</l>
+<l>Et vous aurez le teint plus frais le lendemain.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Vous voulez qu'avec l'art je me brouille aujourd'hui,</l>
+<l>Quand son secours m'est favorable.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous êtes née assez aimable</l>
+<l>Pour vous passer de lui :</l>
+<l>Rapprochez-vous du naturel, Madame,</l>
+<l>Qui peut lui seul vous embellir ;</l>
+<l>A cet instinct si sûr, laissez aller votre âme,</l>
+<l>Il la saura mener droit au plaisir,</l>
+<l>Et vous m'obligerez par là de revenir.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Venez plutôt, venez vous-même nous conduire</l>
+<l>Dans le chemin qu'il faut que nous tenions.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Je mettrais mon retour à des conditions...</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Je m'y soumets, vous n'avez qu'à les dire.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Madame, accordez-moi deux jours pour les écrire.</l>
+</sp>
+<sp who="LE PUBLIC FÉMININ">
+<speaker>LE PUBLIC.</speaker>
+<l>Soit : mais vous me tiendrez parole, s'il vous plaît ;</l>
+<l>Car je n'écoute point d'excuse.</l>
+<l>Je suis peuple, Seigneur, et femme qui plus est ;</l>
+<l>Impunément jamais on ne m'abuse :</l>
+<l>Après-demain tenez-vous prêt,</l>
+<l>Je viendrai vous tirer de ce séjour champêtre.</l>
+<l>À votre aspect, l'ennui va disparaître,</l>
+<l>Les Grâces vont se rétablir,</l>
+<l>Et tous les Plaisirs vont renaître.</l>
+<l>Quel favorable changement !</l>
+<l>L'Abbé va devenir piquant,</l>
+<l>Le Financier léger, aimable ;</l>
+<l>Le Robin amusant et railleur agréable ;</l>
+<l>L'Auteur, plein d'agrément :</l>
+<l>Et, jusqu'à mon Mari, tout va m'être charmant.</l>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. Arlequin, Un Acteur Français.</head>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR.</speaker>
+<l>Dans l'état déplorable où nous sommes réduits,</l>
+<l>Je ne sais où je vais, je ne sais où je suis !</l>
+<l>Ah ! Seigneur, pardonnez à mon désordre extrême.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Que cherchez-vous ici ?</l>
+</sp>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR.</speaker>
+<l>Je vous cherche vous-même.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Mais, quel homme êtes-vous ?</l>
+</sp>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR.</speaker>
+<l>Je suis Héraclius,</l>
+<l>Mithridate, César, Pompée et Régulus ;</l>
+<l>Pour tout dire en un mot, je règne sur la scène,</l>
+<l>Et je suis envoyé vers vous par Melpomène.</l>
+<l>C'en est fait ; nous touchons à notre dernier jour ;</l>
+<l>Son Empire est détruit sans votre prompt retour.</l>
+<l>Privé de vos attraits et de votre présence,</l>
+<l>Sur les coeurs révoltés je n'ai plus de puissance.</l>
+<l>Je suis en vain paré du grand titre de Roi,</l>
+<l>Quand le peuple est mon maître, et m'impose la loi :</l>
+<l>Sitôt que je n'ai point le bonheur de lui plaire,</l>
+<l>Sa redoutable voix me contraint de me taire,</l>
+<l>Il ne pardonne rien à qui l'ose ennuyer.</l>
+<l>Quand je songe aux affronts qu'il me faut essuyer,</l>
+<l>Une juste fureur de mon âme s'empare.</l>
+<l>Je jette mon chapeau, je descends au Tartare,</l>
+<note>Alecton : dit l'Implacable, est une des trois Furies (ou Euménides en grec) qui poursuivaient Oreste, parricide et mari incestueux de sa mère Clytemnestre. Voir la tragédie "Les Euménides" d'Eschyle.</note>
+<l>Je marche à la lueur du flambeau d'Alecton,</l>
+<l>J'embrasse Proserpine en dépit de Pluton.</l>
+<l>Dieux ! Il veut me frapper de son sceptre effroyable !</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Cet homme-là, je crois, est possédé du Diable.</l>
+</sp>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR.</speaker>
+<l>Arrête ! Dieu cruel... pour éviter ses coups</l>
+<note>Cerbère : chien à trois têtes, était chargé de la garde des Enfers, et veillait jour et nuit. Orpéhe l'endormit en allant chercher Eurydice, Hercule sut le contenir quand il descendit aux Enfers, Enée mit en défaut sa vigilance avec le gâteau que lui avait donné Déiphobe ; mais il dévora Pirithoüs qui venait pour enlever Proserpine. [B] Fig. personnage vigilante et suspicieuse.</note>
+<l>Fuyons... J'entends Cerbère aboyer après nous.</l>
+<l>Il se lance sur moi dans sa cruelle rage!</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Dites-moi, Roi des Fous, pourquoi tout ce tapage ? </l>
+<l>Pourquoi vous tourmenter avec tant de fureur ?</l>
+</sp>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR.</speaker>
+<l>Pour exciter en vous une noble terreur.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Que la peste t'étouffe ! Avec ce bruit terrible,</l>
+<l>Tu n'excites en moi, qu'un mal de tête horrible.</l>
+</sp>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR.</speaker>
+<l>Applaudissez du moins à mes gestes choisis,</l>
+<l>Et de mon Jeu muet sentez bien tout le prix ;</l>
+<l>Au mérite, au talent, rendez enfin justice,</l>
+<l>Et du chapeau sur tout admirez l'exercice.</l>
+<l>En trois temps je le mets et l'ôte fièrement ;</l>
+<l>Puis ma main, avec grâce, en décore mon flanc.</l>
+<l>Vous vous armez en vain d'un front sauvage et rude,</l>
+<l>Vous ne sauriez tenir contre cette attitude.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Campé de la manière, ô Prince sans égal !</l>
+<l>Il ne vous manque plus, vraiment, qu'un piédestal,</l>
+<l>Et vous orneriez bien une place publique :</l>
+<l>Mais vous m'ennuyez fort dans ce séjour rustique.</l>
+</sp>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR.</speaker>
+<l>Ah ! pour vous ramener au sein de nos États,</l>
+<l>Il faut, je le vois bien, que je marche à grands pas,</l>
+<l>Et qu'épuisant mon art... Mais, inutile gêne !</l>
+<l>À me battre les flancs je perds toute ma peine.</l>
+<l>J'ai beau rouler mes yeux ; j'ai beau lancer ce bras,</l>
+<l>Et forcer mon gosier, vous n'applaudissez pas !</l>
+<l>Aux efforts que je fais vous êtes insensible,</l>
+<l>Et montrez la rigueur d'un parterre inflexible.</l>
+<l>Puisque vous n'êtes point frappé par la terreur,</l>
+<l>Voyons si la pitié touchera votre coeur.</l>
+<l>J'embrasse vos genoux, et j'implore vos charmes ;</l>
+<l>Laissez-vous, Dieu puissant, attendrir par mes larmes ;</l>
+<note>"Prince malheureux" est une expression qui revient dans nombreuses tragédies (17) dont Bérénice (4 fois) de Racine, chez Corneille (3 fois) et Pyrrhus de Crébillon (3 fois).</note>
+<l>Soyez touché du sort d'un prince malheureux,</l>
+<l>Qui n'est plus respecté sous ses habits pompeux.</l>
+<l>Je vois à chaque instant ma grandeur méprisée :</l>
+<l>Mes voeux infortunés excitent la risée.</l>
+<l>Venez rendre à mon rang sa première splendeur,</l>
+<l>Et répandre sur nous ce charme séducteur,</l>
+<l>Qui sait nous attirer une indulgence extrême,</l>
+<l>Et qui fait applaudir jusqu'à nos défauts mêmes.</l>
+<l>Ne laissez point tomber un théâtre fameux,</l>
+<l>Dont vos faveurs jadis ont fait fleurir les jeux.</l>
+<l>Au nom d'Agamemnon, au nom de nos Princesses,</l>
+<l>Venez du peuple enfin nous rendre les tendresses.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Prince, n'avez-vous rien à me dire de plus ?</l>
+</sp>
+<sp who="L'ACTEUR FRANÇAIS">
+<speaker>L'ACTEUR, se levant.</speaker>
+<l>Non, d'en avoir tant dit je suis même confus ;</l>
+<l>Vos Mépris redoublés lassent ma patience,</l>
+<l>Et tout m'insulte en vous jusqu'à votre silence.</l>
+<l>Je suis entré, Seigneur, éperdu dans ces lieux,</l>
+<l>Et vous me contraignez d'en sortir furieux.</l>
+<l>Adieu, je vais, je cours, guidé par la colère,</l>
+<l>Des Princes tels que moi la ressource ordinaire,</l>
+<l>Remplir tous nos États des horreurs que je sens,</l>
+<l>Pour première victime immoler le bons sens ;</l>
+<l>Et signalant mes coups par des débris illustres,</l>
+<l>Poignarder le souffleur, et briser tous nos lustres.</l>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X. Le Musicien, La Danseuse, Arlequin.</head>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN, à la Danseuse.</speaker>
+<l>De nos communs efforts nous devons tout attendre.</l>
+<l>Vos pas brillants...</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Votre Voix tendre....</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Ah ! C'est vous.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Ah ! C'est vous.</l>
+</sp>
+<sp who="ENSEMBLE">
+<speaker>ENSEMBLE.</speaker>
+<l>Qui charmerez ce Dieu.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE déclame.</speaker>
+<l>Mais le voilà qui paroît dans ce Lieu.</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN chante.</speaker>
+<l>Vous voyez un des Favoris</l>
+<l>Du Dieu de l'Harmonie.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>De Terpsicore, moi, je suis </l>
+<l>Une élève chérie.</l>
+<stage>Elle déclame.</stage>
+<l>Vers Vous, Seigneur, par ces divinités</l>
+<l>L'un et l'autre aujourd'hui nous sommes députés.</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Sans vous, malgré mon art, nos concerts assoupissent.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Et sans vous nos Fêtes languissent</l>
+<l>Malgré tout mon talent.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Madame excelle donc au grand art de la danse,</l>
+<l>Et Monsieur prime dans le chant ?</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN chante.</speaker>
+<l>Du Public enchanté j'ai mérité l'estime,</l>
+<l>Je réunis les goûts divers.</l>
+<l>Je suis tantôt badin, je suis tantôt sublime,</l>
+<l>Je fais l'honneur de nos concerts ;</l>
+<l>Ma Canne seule les anime,</l>
+<l>Et fait sentir l'esprit qui règne dans nos airs.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Je suis le Phoenix de la danse,</l>
+<l>Je fais l'étonnement des yeux ;</l>
+<l>Et comme une aigle qui s'élance, </l>
+<l>Je m'élève jusques aux Cieux.</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Grâce à mon art divin, j'affronte le tonnerre,</l>
+<l>Je maîtrise et parcours les éléments divers ;</l>
+<l>Soutenu par mes sons je vole dans les airs,</l>
+<l>Je règne sur la Terre,</l>
+<l>Et je nage au milieu des mers.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>D'un zéphyr mutin,</l>
+<l>Folâtre et badin,</l>
+<l>Par un effort nouveau</l>
+<l>Je suis le tableau ;</l>
+<l>Et mon pied léger</l>
+<l>Vole, et trace dans l'air,</l>
+<l>Par son rapide cours</l>
+<l>Cent lacs d'amours.</l>
+<l>La jeunesse,</l>
+<l>La vieillesse,</l>
+<l>Admirent mes entrechats ;</l>
+<l>La justesse,</l>
+<l>La vitesse</l>
+<l>Qu'on voit dans mes pas,</l>
+<l>Ne se conçoit pas.</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Mon Talent le plus grand et le plus admirable,</l>
+<l>Est celui d'inspirer un sommeil favorable.</l>
+<l>Mes sons endorment noblement,</l>
+<l>Et je fais bâiller décemment.</l>
+<l>Si je peins un buveur renversé sous la table,</l>
+<l>Vous l'entendez distinctement</l>
+<l>Qui ronfle musicalement.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Mes bras expriment la mollesse</l>
+<l>Reposant sur un lit de fleurs;</l>
+<l>Et mes yeux peignent l'ivresse</l>
+<l>Où plongent de tendres ardeurs.</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Je célèbre l'Amour, je chante son empire</l>
+<l>Sur tout ce qui respire.</l>
+<l>A l'Oreille je peins les charmes du printemps,</l>
+<l>Et le souffle léger du zéphyr qui soupire.</l>
+<l>J'imite par mes Sons tous les chants différents</l>
+<l>Des oiseaux amoureux qui plaignent leur martyre :</l>
+<l>On croit ouïr parfaitement</l>
+<l>Un serin qui ramage, un pigeon qui roucoule,</l>
+<l>Et qui gémit de son tourment ; </l>
+<l>Le jet d'eau qui s'élance audacieusement,</l>
+<l>Le cascade qui tombe, roule,</l>
+<l>Et qui de là se coule</l>
+<l>Dans le lit d'un fleuve charmant.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Mes pas qui coulent doucement,</l>
+<l>D'abord imitent l'onde pure ;</l>
+<l>Puis, précipitant leur mesure,</l>
+<l>Partent vite comme un torrent.</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Au goût français j'allie</l>
+<l>Le goût brillant de l'Italie ;</l>
+<l>Je sais dans mes airs nouveaux</l>
+<l>Badiner (trois fois.) les jeunes fleurettes.</l>
+<l>Je fais dans mes chansonnettes</l>
+<l>Sautiller (trois fois.) les petits moineaux;</l>
+<l>Et par mes tendres musettes,</l>
+<l>Frétiller (trois fois.) les habitants des eaux.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Mes yeux naïfs et mes airs innocents,</l>
+<note>Agnès : personnage de l'Ecole des Femmes de Molière.</note>
+<l>D'une Agnès aux regards tracent le caractère ;</l>
+<l>D'une coquette qui veut plaire,</l>
+<l>Je peins les gestes agaçants,</l>
+<l>Par ma danse vive et légère. </l>
+<l>Faut-il d'une Jalouse exprimer la colère ?</l>
+<l>D'un pas impétueux</l>
+<l>Je vole après mon infidèle,</l>
+<l>Pour le surprendre avec sa belle,</l>
+<l>Et pour les étrangler tous deux.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Arrêtez. Il Suffit. Avec toute la France,</l>
+<l>Madame, j'applaudis, j'admire votre danse :</l>
+<l>Rien n'est plus surprenant, plus fort, ni plus hardi.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Ah ! Vous me suivrez donc, la chose étant ainsi.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous m'en dispenserez, Madame.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Eh ! Qu'ai-je en moi qui rebute votre âme ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Un défaut qui serait un défaut accompli.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<l>Quel défaut ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, faisant la capriole.</speaker>
+<note>Capriole : Forme ancienne de cabriole. Saut que l'on compare à celui d'une chèvre. [L]</note>
+<l>Vous sautez trop bien pour une femme.</l>
+</sp>
+<sp who="LA DANSEUSE">
+<speaker>LA DANSEUSE.</speaker>
+<stage>Air : que vous jugez mal.</stage>
+<stage>Un Saut.</stage>
+<l>Mon cher petit bonhomme. </l>
+<l>Que vous jugez mal,</l>
+<l>Mon petit animal :</l>
+<l>Peut-on trouver un défaut,</l>
+<l>A Fille qui fait un saut,</l>
+<l>Deux sauts, etc.</l>
+<stage>Elle s'en va.</stage>
+</sp>
+</div>
+<div n="11" type="scene">
+<head>SCÈNE XI. Arlequin, Le Musicien.</head>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Et, moi ?</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Par l'action, par la délicatesse,</l>
+<l>Par l'esprit et la gentillesse,</l>
+<note>Amphion : Dans la mythologie grecque fils de Zeus et d'Antiope, abandonné avec son frère, il de vient berger et grand musicien. Il pouvait déplacer des pierres avec sa musique.</note>
+<l>Vous l'emportez sur tous les Amphions,</l>
+<l>Et votre jeu supplée au défaut de vos sons ;</l>
+<l>De tout faire sentir vous avez la science,</l>
+<l>Et rendez finement un personnage outré :</l>
+<l>Mais pour attirer ma présence,</l>
+<l>Vous ëtes, bel Orphée, un peu trop maniéré.</l>
+</sp>
+<sp who="LE MUSICIEN">
+<speaker>LE MUSICIEN.</speaker>
+<l>Adieu. Je vous croyais le goût plus épuré :</l>
+<l>Sachez, quand il s'agit de Musique et de Danse,</l>
+<l>Que l'Art toujours doit être préféré.</l>
+<stage>Il chante en s'en allant.</stage>
+<l>Un Pigeon qui roucoule.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, le contrefait, et répète :</speaker>
+<l>Un Pigeon qui roucoule.</l>
+</sp>
+</div>
+<div n="12" type="scene">
+<head>SCÈNE XII. Arlequin, Silvia.</head>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>AH! le joli Tendron qu'ici je vois paraître !</l>
+<stage>À Silvia.</stage>
+<l>Belle, qui vous envoye en ce Séjour champêtre ?</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>C'est Momus dont je suis la Loi,</l>
+<l>Et de la part de cet aimable Maître,</l>
+<l>J'y cherche le JE NE SAIS QUOI.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Vous le voyez en ma Personne.</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>En ce cas de sa part recevez ce brevet.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>C'est bien de l'honneur qu'il me fait. </l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>Vous méritez, Seigneur, ce qu'il vous donne.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, lit en ânonnant.</speaker>
+<l>Le Dieu porte.... le Dieu porte....</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>Ah ! Pour un Dieu, comme vous ânonnez !</l>
+<l>Je vais lire pour vous : donnez, Seigneur.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Tenez.</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA, lit.</speaker>
+<l>Le Dieu Porte-Marotte,</l>
+<l>Au Dieu JE NE SÇAI QUOI, Citoyen des forêts,</l>
+<l>Salut, Folie et Paix.</l>
+<l>Notre Corps admirant sa conduite falote,</l>
+<l>D'avoir quitté Paris, le plus beau des séjours,</l>
+<l>Pour s'enterrer dans une grotte,</l>
+<l>Et de fuir les mortels, pour vivre avec les ours,</l>
+<l>Lui décerne à voix haute,</l>
+<l>Tous les honneurs de la calotte.</l>
+<l>Nous remettons nous-même, dans sa main,</l>
+<l>Le sceptre calotin.</l>
+<l>Enjoint à lui par la folie</l>
+<l>De l'accepter malgré sa modestie,</l>
+<l>Et quitter son désert, notre brevet reçu,</l>
+<l>Sous peine, s'il résiste à cet ordre absolu,</l>
+<l>De perdre la parole,</l>
+<l>Et cet air ingénu,</l>
+<l>Qui du Public le rend l'idole ;</l>
+<l>D'être pesant et malotru,</l>
+<l>Même en faisant la capriole,</l>
+<l>Et de devenir aujourd'hui</l>
+<l>Le Fléau de la joie, et le Dieu de l'ennui.</l>
+<l>Fait je ne sais quel jour, à je ne sais quelle heure,</l>
+<l>Dans je ne sais quelle demeure,</l>
+<l>Par un auteur du régiment,</l>
+<l>Appelé JE NE SÇAI COMMENT.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>C'est bien joli !</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>La pièce a donc votre suffrage.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Je parle du lecteur, et non pas de l'ouvrage.</l>
+<l>Votre bouche rend flatteurs</l>
+<l>Les traits piquants de la satire,</l>
+<l>Et je les préfère aux douceurs</l>
+<l>Que les autres peuvent me dire.</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>Ah ! Vous me dites-là vous-même des fadeurs ;</l>
+<l>Je vous dirai, pour moi qu'aucun égard n'arrête,</l>
+<l>Qu'il n'est qu'un mot qui serve en cette occasion.</l>
+<l>Suis-je de votre goût ou non ?</l>
+<l>Répondez net, et vite, je vous prie.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Moi, je vous trouve fort jolie.</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>Il faut me le prouver non par un compliment,</l>
+<l>Mais par un prompt effet quittant cette demeure,</l>
+<l>Et me suivant en France tout à l'heure.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Tout à l'heure ? Le cas est-il donc si pressant ?</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>Oui, point de retardement.</l>
+<l>Décidez-vous, Seigneur ? Au bas de la Requête</l>
+<l>Mettez BON ou NÉANT.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Cet air mutin suffit pour faire ma conquête,</l>
+<l>Et vous avez un minois si fripon,</l>
+<l>Qu'en dépit qu'on en ait, il faut bien dire, BON.</l>
+</sp>
+<sp who="SILVIA">
+<speaker>SILVIA.</speaker>
+<l>Donnez-moi donc la main sans autre repartie,</l>
+<l>Et venez avec moi vous rendre au régiment.</l>
+<l>Mon coeur avec le vôtre a de la sympathie, </l>
+<l>Et nous nous convenons tous deux parfaitement.</l>
+<l>Vous êtes fait pour la Folie,</l>
+<l>Et moi pour l'Agrément.</l>
+<l>Venez, volez, partons incessamment.</l>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN.</speaker>
+<l>Taupe. J'irai par tout en votre compagnie,</l>
+<l>Et l'on nous verra vous et moi</l>
+<l>Ce soir même à la Comédie.</l>
+<l>À tous les cours je donnerai la loi :</l>
+<l>On vous applaudira sans cesse.</l>
+<l>Moi je serai JE NE SÇAI QUOI,</l>
+<l>Et vous serez JE NE SÇAI QU'EST-CE.</l>
+<stage>Il part avec Silvia.</stage>
+</sp>
+</div>
+<div n="13" type="scene">
+<head>SCÈNE XIII.</head>
+<sp who="MOMUS">
+<speaker>MOMUS, seul.</speaker>
+<l>Pour le coup je triomphe, et le voilà parti ;</l>
+<l>Ma sujette l'emmène, et me comble de gloire,</l>
+<l>Sur tous les autres Dieux j'emporte la victoire :</l>
+<l>Au gré de mes désirs l'ouvrage a réussi.</l>
+<l>Je cours vite à Paris accompagner l'Entrée</l>
+<l>Du Dieu de l'Agrément,</l>
+<l>Je veux qu'elle soit célébrée</l>
+<l>Partout mon régiment;</l>
+<l>Par mon ordre déjà la fête est préparée.</l>
+</sp>
+</div>
+<div n="14" type="scene">
+<head>SCÈNE XIV ET DERNIÈRE.</head>
+<stage>Le théâtre change et représente une salle ornée de tout ce qui peut caractériser la Folie et l'Agrément, réunis ensemble. On mène en triomphe Arlequin avec Silvia.</stage>
+<sp who="UN CALOTIN">
+<speaker>UN CALOTIN, chante.</speaker>
+<l>Que le tambour, que la trompette,</l>
+<l>Célèbrent de Momus le Triomphe éclatant,</l>
+<l>Que la flûte, que la musette,</l>
+<l>Annoncent le retour du Dieu de l'Agrément ;</l>
+<l>Il vient régner dans notre Régiment.</l>
+<l>Que le tambour, que la trompette,</l>
+<l>Annoncent de Momus le triomphe éclatant.</l>
+</sp>
+<sp who="UN CALOTIN">
+<speaker>UN CALOTIN.</speaker>
+<l>Grands Officiers de la Calotte,</l>
+<l>Devant ce Dieu fléchissez les genoux,</l>
+<l>Armés sa main de la marotte.</l>
+<l>Qu'il règne ici: Momus n'en sera point jaloux.</l>
+<stage>Ici tous les Officiers de la Calotte vont rendre hommage à Arlequin, et lui présenter la Marotte, qu'il reçoit comiquement en faisant plusieurs lazzis.</stage>
+</sp>
+<sp who="UN CALOTIN">
+<speaker>UN CALOTIN.</speaker>
+<l>Calotins ennuyeux, Calotins sans mérite,</l>
+<l>Fuyez vite, on vous casse tous.</l>
+<l>De notre régiment, on ne veut que l'élite,</l>
+<l>Accourez seuls, aimable fous.</l>
+<stage>On danse.</stage>
+</sp>
+<sp who="UN CALOTIN">
+<speaker>UN CALOTIN.</speaker>
+<l>Le partage du régiment</l>
+<l>Est la saine philosophie.</l>
+<l>L'esprit de l'aimable folie,</l>
+<l>Qui règne dans ce corps brillant,</l>
+<l>N'est que la raison travestie,</l>
+<l>Sous les habits de l'enjouement,</l>
+<l>Et la morale embellie</l>
+<l>Par le secours de l'Agrément.</l>
+</sp>
+</div>
+<div n="15" type="scene">
+<head>VAUDEVILLE.</head>
+<sp who="UN CALOTIN">
+<speaker>UN CALOTIN.</speaker>
+<stage>I.</stage>
+<l>À l'Univers rendons justice,</l>
+<l>Même en dépit qu'il en ait,</l>
+<l>De quelque façon qu'on agisse,</l>
+<l>On est digne du Brevet.</l>
+<l>Que la Marotte</l>
+<l>Passe soudain</l>
+<l>De main en main ;</l>
+<l>Que la calotte</l>
+<l>Couvre la tête falote</l>
+<l>Du genre humain.</l>
+<stage>II.</stage>
+<l>Un noble mange pour paraître</l>
+<l>Principal et revenus.</l>
+<l>Un riche heureux, s'il voulait l'être,</l>
+<l>Meurt de faim sur ses écus.</l>
+<l>Que la Marotte, etc.</l>
+<stage>III.</stage>
+<l>Un Pédant né désagréable</l>
+<l>Prétend faire le galant.</l>
+<l>Un Marquis ignorant, aimable,</l>
+<l>Veut se donner pour savant,</l>
+<l>Que la marotte, etc.</l>
+<stage>IV.</stage>
+<l>Aujourd'hui l'Opéra nous frappe,</l>
+<l>Demain les comédiens.</l>
+<l>Après demain on nous attrape</l>
+<l>Par les moindres petits riens.</l>
+<l>Que la Marotte, etc.</l>
+<stage>V.</stage>
+</sp>
+<sp who="ARLEQUIN">
+<speaker>ARLEQUIN, au Parterre.</speaker>
+<l>Heureux Si le parterre affable </l>
+<l>Goûtait ce jeu calotin,</l>
+<l>Et que d'une voix favorable</l>
+<l>Il chantât notre refrain,</l>
+<l>Que la Marotte, etc.</l>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

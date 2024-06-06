@@ -2,61 +2,7 @@ import lxml
 from lxml import etree as ET
 import os
 
-def create_multiple_person(item_multiple):
-    metadata_list = []
-    nom_list =[]
-    for el in item_multiple:
-        if " " in el.text or "[" in el.text or "Ô" in el.text or "'" in el.text or "," in el.text:
-            nom=el.text
-            nom = nom.replace(" ","_")
-            nom = nom.replace("[", "")
-            nom = nom.replace("Ô", "O")
-            nom = nom.replace("'", "_")
-            nom = nom.replace(",", "")
-        else:
-            nom = el.text
-        if nom in " ".join(nom_list):
-            nom = nom+"_2"
-        else:
-            nom_list.append(nom)
-        metadata_list.append(f'<person xml:id="{nom}"><persName>{el.text}</persName></person>')
-    xml_metadata = "".join(metadata_list)
-    print(xml_metadata)
-    return xml_metadata
-
-def create_directory(directory_path):
-    """
-    Verify the existence of a directory. If it does not exist, create it.
-
-    Parameters:
-    - directory_path (str): The path of the directory to be checked/created.
-    """
-    try:
-        # Check if the directory exists
-        if not os.path.exists(directory_path):
-            # If not, create the directory
-            os.makedirs(directory_path)
-        else:
-            pass
-    except Exception as e:
-        print(f"Error: {str(e)}")
-
-
-def parse_tree_metadata(tree):
-    metadata = {}
-    metadata["title"] = tree.find(".//title").text
-    metadata["author"] = tree.find(".//author").text
-    metadata["id"] = "MOLIÊT_" + tree.find(".//idno").text
-    #metadata["date"] = tree.find(".//docDate").text
-    publisher = tree.find(".//publisher")
-    if publisher:
-        metadata["publisher"]=publisher.text
-    else:
-        metadata["publisher"] = ""
-    metadata["permalien"] = tree.find(".//permalien").text
-    metadata["castItem"] = tree.findall(".//castItem/role")
-    metadata["listperson_xml"]= create_multiple_person(metadata["castItem"])
-    return metadata
+import metadata_patterns
 
 def create_metadata_xml(metadata):
     metadata = f"""
@@ -147,6 +93,4 @@ def create_metadata_xml(metadata):
             </teiHeader>
         """
     return metadata
-
-
 

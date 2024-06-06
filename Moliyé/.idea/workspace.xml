@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d766a44-8271-460d-911d-1542db0cb49b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/transform_lou.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/.idea/Moliest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Google_books/pdf/L'amour d'une blanche_short.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Google_books/pdf/L_autre_monde.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Google_books/pdf/Le_Journal_de_Marguerite.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Google_books/pdf/Missions_de_la_Société_de_Marie_réparatrice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Google_books/txt/blanche_intitial.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/MOLIERE_ETOURDI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Moliyé_list.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Patron_prose.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Pattern_Simple_XML.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/Pattern_group.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/dataset_colaf/test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/discard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/html2tei.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/metadata_patterns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/moliest_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/moliest_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/moliest_v03.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Arelequin_Pluton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Cendrillon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Colin_Maillard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/DON_JUAN_ou_LE_FESTIN_DE_PIERRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/ELOMIRE_HYPOCONDRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Janot_Chez_Le_Dégraisseur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/LES_FÊTES_DE_L_AMOUR_ET_DE_BACCHUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/LES_PRISONNIERS_DE_GUERRES.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/LE_JE_NE_SAIS_QUOI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/LE_SUISSE_MALADE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/L_Esprit_de_contradiction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/L_opéra_de_Province.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/L_Épreuve.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/L_Étourdi_ou_les_Contretemps.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/L_école_de_la_raison.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/La_Comédie_des_comédiens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/La_Hollande_Malade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/La_Maison_de_campagne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/La_Mère_confidente.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/La_loterie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/La_méprise.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_Bourgeois_Gentilhomme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_Deuil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_Double_Veuvage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_Galant_Jardinier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_Moulin_de_Javelle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_Suisse_de_Porte.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_Tuteur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Le_charivari.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Les_Filles_Errantes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Les_Fourberies_de_Scapin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Les_Vendanges.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Les_empiriques_comédie_en_trois_actes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Les_fragments_de_Molière.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Monsieur_de_Pourceaugnac.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/theatre-classique/Première_Parade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/transfo_TheatreClassique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/wikisource_TEI/L_Habitation_Saint_Ybars.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/wikisource_TEI/Une_de_perdue_deux_de_trouvées_TOME_I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliest/wikisource_TEI/Une_de_perdue_deux_de_trouvées_TOME_II.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MOLIERE_ETOURDI.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pattern_Simple_XML.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/html2tei.xsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/transfo_TheatreClassique.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eBOmzfKztp8AjFfXLHmhwKpnaF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.classique2colaf.executor": "Run",
+    "Python.moliest_main.executor": "Run",
+    "Python.moliest_util.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Moliyé",
+    "last_opened_file_path": "/home/rdent/Multilabel_LID"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xml" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d766a44-8271-460d-911d-1542db0cb49b" name="Changes" comment="" />
+      <created>1711373079995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711373079995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
