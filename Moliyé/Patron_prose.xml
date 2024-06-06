@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- 1 play = 1 XML-TEI with all the text not only the creole parts I think-->
+    <!-- Here is an example of XML file using the play l'étourdi of Molière in your excel-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <!-- 1 identifier per play/file : idea=>language_collection_number-->
+                <idno>CRE_PROSE_001</idno>
+                <!--Title of the play, collection (créole théâtre put you can call it as you want, author of the play-->
+                <title type="main">Une de perdue, deux de trouvées</title>
+                <title type="collection">Créole Prose</title>
+                <author>George Boucher de Boucherville</author>
+                <!--The responsabilities will not move in all the collection-->
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="RDENT">
+                        <surname>Dent</surname>
+                        <forename>Rasul</forename>
+                        <!-- Need to create your Orcid here: https://orcid.org-->
+                        <idno type="orcid">0000-0002-8971-6175</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2023-11-24"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- 1 bibli with the bibliographic information on the printSource => can be found in the montreal library link for instance here-->
+                <bibl type="printSource">
+                    <ptr target="https://numerique.banq.qc.ca/patrimoine/details/52327/2022503"/>
+                    <title>Une de perdue, deux de trouvées</title>
+                    <author>George Boucher de Boucherville</author>
+                    <pubPlace>Montréal</pubPlace>
+                    <publisher>Eusèbe Sénécal</publisher>
+                    <date when="1874"/>
+                </bibl>
+                <!--1 bibl with the bibliographic informations on the CorpusSource (here, it's the one who created the first HTML so wikisource-->
+                <bibl type="CorpusSource">
+                    <ptr
+                        target="https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_I"/>
+                    <title>Une de perdue, deux de trouvées</title>
+                    <author/>
+                    <publisher>Wikisource</publisher>
+                    <date when="2021"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <!-- Les langues utilisées dans le texte -->
+                <language ident="dom-cre" usage="XX">
+                    <idno type="langue">dom-cre</idno>
+                    <idno type="script">latin</idno>
+                    <name>Créole</name>
+                    <date>1874</date>
+                    <location>
+                        <settlement>Montreal</settlement>
+                        <region>Quebec</region>
+                        <country>Canada</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="X">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>1874</date>
+                    <location>
+                        <settlement>Montreal</settlement>
+                        <region>Quebec</region>
+                        <country>Canada</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Drama</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-fr">
+        <!--The text is mostly in french-->
+        <body>
+            <div n="1" type="chapter">
+                <head>CHAPITRE I</head>
+                <head>LE TESTAMENT</head>
+                <p>C’est le 25 octobre 1836. Il est onze heures du matin. Les croisées de la maison
+                    No 141, rue Royale, Nouvelle-Orléans, sont tendues de noir. Un crêpe est attaché
+                    au marteau de la porte d’entrée. Deux nègres en deuil, tête nue, se tiennent de
+                    chaque côté du vestibule. La foule se presse dans la rue et peu à peu envahit
+                    les avenues, malgré les efforts de la police pour maintenir l’ordre.</p>
+                <p>Un grand événement doit avoir lieu ; c’est l’ouverture du testament de Sieur
+                    Alphonse Meunier, l’un des plus riches négociants de la Nouvelle-Orléans, décédé
+                    le 15 septembre 1836, sans enfant ni parents. </p>
+                <p>Midi est l’heure fixée par le juge de la Cour des Preuves, pour procéder aux
+                    actes préliminaires des vérifications, avant la lecture des dernières volontés
+                    du défunt. Le public a droit d’entrer. </p>
+                <!--....-->
+                <!-- Dans le cas d'un tableau-->
+                <table>
+                    <row>
+                        <cell>A. Legros, N. P., Titre authentique hypothécaire, 25 mai 1819 </cell>
+                        <cell>$10,000</cell>
+                    </row>
+                    <row>
+                        <cell> A. Legros, N. P., Titre authentique hypothécaire, 8 mars, 1820 </cell>
+                        <cell> 17,000</cell>
+                    </row>
+                    <row>
+                        <cell> A. Legros, N. P., Titre authentique hypothécaire, 12 mars 1820 </cell>
+                        <cell> 11,000</cell>
+                    </row>
+                    <row>
+                        <cell> A. Legros, N. P., Titre authentique hypothécaire, 13 déc. 1824 </cell>
+                        <cell> 20,000</cell>
+                    </row>
+                    <row>
+                        <cell> A. Legros, N. P., Titre authentique hypothécaire, 19 déc. 1824 </cell>
+                        <cell> 2,000</cell>
+                    </row>
+                    <row>
+                        <cell> A. Legros, N. P., Titre authentique hypothécaire, 7 août 1827 </cell>
+                        <cell> 10,000</cell>
+                    </row>
+                    <row>
+                        <cell> A. Legros, N. P., Titre authentique hypothécaire, 10 août 1827 </cell>
+                        <cell> 15,300</cell>
+                    </row>
+                    <row>
+                        <cell> Philipps, N. P., Titre authentique hypothécaire, 14 oct. 1827 </cell>
+                        <cell> 27,630 </cell>
+                    </row>
+                    <row>
+                        <cell> Philipps, N. P., Titre authentique hypothécaire, 14 oct. 1827 </cell>
+                        <cell> 33,420 </cell>
+                    </row>
+                    <row>
+                        <cell> Magne, N. P., Titre authentique hypothécaire, 20 mars 1831 </cell>
+                        <cell> 77,000 </cell>
+                    </row>
+                </table>
+            </div>
+            <div n="2" type="chapter">
+                <head>CHAPITRE II</head>
+                <head>LE ZEPHYR</head>
+                <p>Depuis quelques jours un brick avait jeté l’ancre dans la rade de Matanzas.
+                    L’arrivée de ce navire dans ce port de l’île de Cuba n’avait causé aucune
+                    émotion d’abord. Il y en arrive tant tous les jours et de tous les pavillons et
+                    de toutes les formes. </p>
+                <p>Cependant, le troisième jour, lorsque le bon peuple de la ville vit que le navire
+                    ne faisait pas mine d’accoster, on commença à faire des conjectures. Puis la
+                    forme si élancée de sa proue ; sa coque si longue et si étroite, toute noire ;
+                    la hardiesse de sa mâture inclinée en arrière ; ses immenses voiles qu’il
+                    déployait au vent quand il entra dans le port, et maintenant ferlées ; ses douze
+                    sabords ouverts qui montraient les dents, comme des dogues en colère, tout cela
+                    excita fort les soupçons des habitants paisibles de la bonne ville de Matance.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
