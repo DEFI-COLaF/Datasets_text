@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_15</idno>
+                <title type="main"> Ballade en sol mineur</title>
+                <title type="collection">Picard Concours</title>
+                <author>Aimé, PETIT</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Ballade en sol mineur</title>
+                    <author>Aimé, PETIT</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="70">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="30">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_15_p1.png"/>
+                <fw type="numbering"><lb/>N°15</fw>
+                <fw type="numbering"><lb/>1</fw>
+                <head><lb/>Ballade en sol mineur¹</head>
+                <lg>
+                    <l>
+                        <lb/>Ah! Quand arriv’ra d’quitter ch’monne el momint,</l>
+                    <l><lb/>Qué jé n’sarai pus du tout armuer mes vielles gambes</l>
+                    <l><lb/>Quand cha s’ra l’heure d’aller au gardin grignedints,</l>
+                    <l><lb/>Qu’jé n’porrai rin saisir avec mes dogts qui trambent,</l>
+                    <l><lb/>Et que j’srai condamné à braire tout seu dins m’cambe</l>
+                    <l><lb/>A l’hospice, mi, chuss que j’veux, chuss qu’i m’vient à l’esprit</l>
+                    <l><lb/>Ch’est dé m’faire trinsporter tout in haut d’in terri</l>
+                    <l><lb/>Comme un fier carbonnier ténant ben haute s’lampe</l>
+                </lg>
+                <lg>
+                    <l><lb/>Et cha m’est ben égal d’faire indêver les gins</l>
+                    <l><lb/>Du début de jinvier jusqu’à le fin décembe</l>
+                    <l><lb/>Ch’est qu’in faisant ainsi, j’artrouv’rai min terrain</l>
+                    <l><lb/>Et n’a pas b’soin d’aller m’interrer in Hollande,</l>
+                    <l><lb/>Ni même squ’à Maubeuche, dusqu’elle coule l’Sambe</l>
+                    <l><lb/>Vos alleumerés là un fu fort ben norri</l>
+                    <l><lb/>Pou faire consommer mes ossiaux tout crombis,</l>
+                    <l><lb/>Comme un fier carbonnier ténant ben haute s’lampe</l>
+                </lg>
+                <lg>
+                    <l><lb/>In mêm' tins, versez-vos des grant' chopes ed vin</l>
+                    <l><lb/>Et des d’mis ben mousseux, beuvez in plein le lampe</l>
+                    <l><lb/>Bénis soitent l’jus d’houblon et l’bon jus du rosin</l>
+                    <l><lb/>Qu’in bot autour du fu et des flammes qui flambent</l>
+                    <l><lb/>Cha donne d’l’ambianche, ch’est sûr, à ch’qui m’sembe</l>
+                    <l><lb/>Quand vos s’rés tous kervés, quant vos arés ben ri,</l>
+                    <l><lb/>Cantez autour du fu, et pinsez donc a mi</l>
+                    <l><lb/>Comme un fier carbonnier ténant ben haute s’lampe</l>
+                </lg>
+                <lg>
+                    <l><lb/>Prinche qui de ch' pays du drapiau tiens le hampe</l>
+                    <l><lb/>Fais in sorte, quand j’s’rai mort, qu’in s’occupe ainsi d’mi ;</l>
+                    <l><lb/>Mes chintes épilvaudées, j’s’rai rintré dins l’terri,</l>
+                    <l><lb/>Comme un fier carbonnier ténant ben haute s’lampe</l>
+                </lg>
+                <note xml:lang="fr"><lb/>¹Cette ballade, que l’on pourrait intituler Canchon du vius
+                    carbonnier, est construiteà peu près selon le schéma<lb/>de la ballade
+                    primitive : ici ababbccb pour chaque strophe, le dernier vers servant de refrain
+                    comme chez<lb/>Guillaume de Machaut. Le poème se termine par un envoi adressé
+                    à un haut personnage. Le texte fait alterner<lb/>les rimes et les assonances
+                    féminines en [an.e].</note>
+            </div>
+            <div type="liminal">
+                <pb n="Picard_Concours_2020_15_p2.png"/>
+                <head><lb/>Carbonnier Lexique</head>
+                <list>
+                    <item><lb/>Arés :<foreign xml:lang="met-fr"> 2° pers. pl. de l’indic. futur
+                            d’avoir : « aurez»</foreign></item>
+                    <item>
+                        <lb/>Armuer :<foreign xml:lang="met-fr"> remuer</foreign></item>
+                    <item><lb/>Artrouver :<foreign xml:lang="met-fr"> retrouver</foreign></item>
+                    <item><lb/>Ben:<foreign xml:lang="met-fr"> bien</foreign></item>
+                    <item><lb/>Beuvez:<foreign xml:lang="met-fr"> 2° pers pl. de l’impératif de
+                            boire : « Buvez !»</foreign></item>
+                    <item><lb/>Bot:<foreign xml:lang="met-fr"> 3e sing de l’indicatif présent de
+                            boit :« boit ».</foreign></item>
+                    <item><lb/>Braire: <foreign xml:lang="met-fr">pleurer</foreign></item>
+                    <item><lb/>Carbonnier: <foreign xml:lang="met-fr">mineur</foreign></item>
+                    <item><lb/>Cambe, pour cambre: <foreign xml:lang="met-fr"
+                        >chmbre.</foreign></item>
+                    <item><lb/>Cha:<foreign xml:lang="met-fr"> ça</foreign></item>
+                    <item><lb/>Chintes: <foreign xml:lang="met-fr">cendres</foreign></item>
+                    <item><lb/>Chuss: <foreign xml:lang="met-fr">ce</foreign></item>
+                    <item><lb/>Consommer :<foreign xml:lang="met-fr"> consumer</foreign></item>
+                    <item><lb/>Crombi :<foreign xml:lang="met-fr"> courbé, tordu</foreign></item>
+                    <item><lb/>Dogts: <foreign xml:lang="met-fr">doigts</foreign></item>
+                    <item><lb/>Dusque:<foreign xml:lang="met-fr">où</foreign></item>
+                    <item><lb/>Epilvaudées:<foreign xml:lang="met-fr"> dispersées</foreign></item>
+                    <item><lb/>Fu:<foreign xml:lang="met-fr"> feu</foreign></item>
+                    <item><lb/>Gardin grign’dints :<foreign xml:lang="met-fr"> le jardin où l’on
+                            grince des dents, le cimetière</foreign></item>
+                    <item><lb/>Gins : <foreign xml:lang="met-fr">les gens</foreign></item>
+                    <item><lb/>Indêver: <foreign xml:lang="met-fr">enrager</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_43</idno>
+                <title type="main"> Min quien</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jean-Robert, GAGNEUIL</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Min quien</title>
+                    <author>Jean-Robert, GAGNEUIL</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_43_p1.png"/>
+                <fw type="numbering"><lb/>N°43</fw>
+                <head><lb/>Min quien.</head>
+                <p><lb/>Min quien, y'a des ys comme des pernes. In dirot toudis qu’y vo<lb/>vous
+                    dire: « Approche et' guife, j’vas t' faire eune lèque ».</p>
+                <p><lb/>Min quien, quind y'est à l’cour ou dins ch'gardin, y s’roule
+                    dins<lb/>cheule bédoule et quind y arvient, y m’ravisse d’un air ed dire:
+                    «A<lb/>ch'theure, t'as pus qu’à printe eune loque pou m’nettuyer. ».</p>
+                <p><lb/>Min quien, ch’est min comarate ed ches bons et d’ches mouvais<lb/>jours. M'
+                    femme alle dit toudis: « In dirot qu'ch’est frère que té n’as<lb/>pont eu! A
+                    cha près qu’tin frère y n’arot jomois piché dins ch’gardin.<lb/>edvint ches
+                    gins !».</p>
+                <p><lb/>Min quien, y pinse comme mi. Y'a quère à minger, à faire<lb/>l’indoule,
+                    à foire el vieau pindint des heures...</p>
+                <p><lb/>Min quien, quand y va s’in aller, j'vas braire comme eune voque.<lb/>Comme
+                    un jon-ne d’aloutte qu’y arot perdu l’cacheron de s’toupie.</p>
+                <p><lb/>Min quien, y s’ro interré dins ch’gordin d’ù qu’y avot si tont<lb/>quère
+                    à picher, au pied de ch’pommier, au tiot matin, quand personne<lb/>y pouvot
+                    nous vire et qu'cheule journée alle queuminchot pour nous<lb/>deusses, rin
+                    qu’pour nous deusses.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

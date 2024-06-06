@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <idno>PIC_CONCOURS__2021_15</idno>
+                        <title type="main"> RINTRER CH' CARBON  </title>
+                        <title type="collection">Picard Concours</title>
+                        <author>Bernard , DOURLENS</author>
+                        <respStmt>
+                            <resp>Encoding</resp>
+                            <persName xml:id="JJANES">
+                                <surname>Janès</surname>
+                                <forename>Juliette</forename>
+                                <idno type="orcid">0000-0002-8971-6173</idno>
+                            </persName>
+                        </respStmt>
+                        <principal>
+                            <persName xml:id="BSAGOT">
+                                <surname>Sagot</surname>
+                                <forename>Benoît</forename>
+                                <idno type="orcid">0000-0001-8957-9503</idno>
+                            </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
+                            les Langues de France (COLaF)</publisher>
+                        <date when="2024-04-04"/>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <bibl>
+                            <title> RINTRER CH' CARBON  </title>
+                            <author>Bernard , DOURLENS</author>
+                            <pubPlace>Amiens</pubPlace>
+                            <publisher>Agence régionale de la langue Picarde</publisher>
+                            <date when="2021"/>
+                        </bibl>
+                    </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                    <langUsage>
+                        <language ident="met-oil-pic" usage="100">
+                            <idno type="langue">met-oïl-pic</idno>
+                            <idno type="script">latin</idno>
+                            <name>Picard</name>
+                            <date>2020</date>
+                            <location>
+                            <region/>
+                            <country>France</country>
+                            </location>
+                        </language>
+                    </langUsage>
+                    <textClass>
+                        <keywords>
+                            <term type="supergenre" rend="fiction">Fiction</term>
+                            <term type="genre" rend="fiction-prose">Prose</term>
+                        </keywords>
+                    </textClass>
+                </profileDesc>
+                <revisionDesc>
+                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+                </revisionDesc>
+            </teiHeader>
+  <text xml:lang="met-oil-pic">
+    <body>
+      <div><pb n="Picard_Concours_2021_15_p1.png"/><lb/>N°15<lb/>Ch’Gus et l’Covid in 2020.<lb/>Tertous ed 2020 in va s’in ramintuver! J’va chi vous n’in moutrer qu’eine jornée, ch’est simpel all arsanne à<lb/>tout's el z’autes.<lb/>Sitôt déjouqué d’sins lit ch’Gus i queurt dins s’mason inter s’cuisine et sin salon in pochant s’n’attestation dins<lb/>s’main des fos in n’sait mie qui sérot contrôlé si qu’i s’arrêt'rot tros quate minutes au cabinet. Pindant ch’timps là<lb/>Raymonte s’feimme in rache all buque aveuc s’tapette à mouques pour estoquer ch’virus qui s’muche dins tous<lb/>chés coins. Li voudrot l’aider mais pou qu’cheull' biête sans patt’s all sorte i n’n’ont des russes, pa l’ferniête i<lb/>crotte't qué ch’virusse va décamper... Mais comme ch' vint souffelle ch’est leus z’och's in attindant qui s’ingèlent!<lb/>Alorsse pou s’récauffer l’chervelle ch’Gus arvot sin patois: eune pache ed «mi», eune aute ed «li»,<lb/>«et pis des mi» à l’pelle. (Gus i jue d’aveuc les mots sans l’faire d’esprès.)<lb/>Pis pa l’ferniête i ravisse ses visins: i vot qu’Gaston ch’buveux tous les quinsse minutes d’un seul cop vide eine<lb/>chope, adès forchémint qu’es feimme Angèle a l'colique, et qu’à l’presse leu grand fiu qui juot aveuc sin cat con-<lb/>tacte in s’lamintant l'quinss' du Samu! Queu famille!<lb/>Dins l’mason d’à côté lgor et s’compane Tatiana qui f'sottent el tour du monte i s’treuvent té coinchés pa l’pin-<lb/>démie: quate mos qu’cha dure et mes gins pinsent toudis et incor au navire russe qui dot les ram’ner au pays pou<lb/>qu’i puichent arcrier dins leu lanque: « Za zdrovia ».<lb/>Zeff l’sincier qui s’in va mouter ses vaques i rinconte sin viux n’instit qui s’aparle: «une vache joyeuse hier qui je<lb/>l’atteste paissait, erre triste ce jour...» Alorsse Zeff s’in va in grinchant dins s’moustaque: «li l’nez dins l’bousin i<lb/>n’verrot pas que l'vaqu' sint!»<lb/>A midi, ed sin balcon D'siré pou rimplacher l’sirène i cante in buquant d’sus eine castrole:<lb/>«Confin mint, déconfin'mint, arconfin'mint...<lb/>Ch’est l’canchon des con-con, des fi-fi, des né-né,<lb/>Ch’est l’canchon des confinés!»<lb/>A quatorsse heures pou daller querre ed quo minger tout !' famille s’in va, tertous à deux mètes l’un d’l’aute in<lb/>file indienne printe des peun tierres, et cueiller des pos d’chuque dins l’gardin ouverrier, ch’Gus prind l’masque à<lb/>gaz d’sin taïon, s’feimme a coeud l’sien dins un viux drap troé pou laicher passer sin nez et s’fille eine innochinte<lb/>qui s’croyot à l’abri aveuc sin mascara tout c’qu' all a gagné ch’t’eine pronne ed chent trinte chinq euros c'qui fait<lb/>quer l'kilo d’pétotes!<lb/>Dins l'rue ch’Gus salue cheux qu’i connot aveuc sin pied, i checke aveuc sin coeute, et ch’n’est pont fachile avec<lb/>ses romatisses. In pus d’cha pou n’pas paler à d’z’inconnus pace qu’i a l’droulle i teurne s’tiête, cange ed quémin,<lb/>avinche, arcule, s’muche duss qu’i peut: in dirot qu’i-est in guinsse!<lb/>L-avot bin assayé d’faire des gesses aux bars hier qu’i z’étottent freumés, foque i z’ont pas volu s’ouverre,<lb/>ch’Gus qu’a eine rute caboche i-arcomminche jord’hui. Mais rin n’cange! Adès avant qu’eul rue soit noirte i rinte à<lb/>toute berzingue à s’mason duss s’feimme li pale tests hygiéniques au savon d’Marselle, et pis «test sale hiver» ain¬<lb/>sin qu’all dirot ein été biau, et all li intique des cotons tiches jusqu’au fond d’sin nez, d’ses orelles, dins s’bouque<lb/>in'n' sait point dès fos qu’euch virus i s’y sarot muché su li pindant s’sortie!<lb/>L-a d’quo dév'nir zinzin, li conter chés tests i proteste toudis, i arot bin volu juer l’confin'mint mais fin'mint i n'<lb/>sait pont alorse i compte chés mouques et chés araines à sin plafond...<lb/>L’soir nou coupe s’assit d’vant l’télé pace que ch’est toudis à vingt heures qu’cheux qui sait' té tout i vient' té<lb/>dire qu’déchidémint ach’teur i-a pus rin à comprinte et qu’i n’peutt té point nou z’espliquer commint ch' virus<lb/>aveuc ses tiotes gambes i-est capape ed queurir à toute berzingue su l’tierre! Ein espert i dit blanc conter un aute<lb/>qui dit noir, aveuc des graphiques duss qu’in y vot des courpes qui montent et d’z’autes qui deschintent... Ch’Gus<lb/>qui a l’tournis pire qu’à l’ducasse su les montanes russes i bertonne: à croire qu’nou faire dév’nir bourrique cha les<lb/>amusse!<lb/>Fort mates i vont s’couquer et pou bin laicher cheulle distance physique au mitan d’leu lit eune barrière in plesti¬<lb/>glache sépare chés amoureux. Ainsin chi chés ménaches i fait' té tertous comme cha ch’est certain qué d’z’infants<lb/>dins neuf mos i n’ara pas grammint!<lb/>Et ch’Gus avant d’s’indormir i s' délaminte: «ch'ti qui croyot qu’in décimpe ch'étot sûr qu'cha s’rot infin l'trêf<lb/>des confineux, eh! Bin nan! Ch’est r’parti pour un tour ed manèche: l’tierre all teurne carré, in hiver i n’kait pus<lb/>d’neiche, in invot dins l’ciel bleu qu’des neuaches ed carbone, ch’est pas cor l’fin du monte foque qu’in y queurt<lb/>tout drot, car té vos Raymonte à forche d’escouer l’nature ch't'à l’homme qu’in fait du mau!»<lb/>Mais Raymonte qui connot sin racontache par cœur et qui sait qué d’main ch’cirque va r’commincher n’a point<lb/>eu b’soin d’canchon dormoire: esquintée pa s’jornée all ronfielle!</div>
+    </body>
+  </text>
+</TEI>

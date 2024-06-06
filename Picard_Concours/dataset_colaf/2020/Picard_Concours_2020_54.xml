@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <idno>PIC_CONCOURS__2020_54</idno>
+                        <title type="main"> Le Parisien</title>
+                        <title type="collection">Picard Concours</title>
+                        <author>Claudine, SELLIER </author>
+                        <respStmt>
+                            <resp>Encoding</resp>
+                            <persName xml:id="JJANES">
+                                <surname>Janès</surname>
+                                <forename>Juliette</forename>
+                                <idno type="orcid">0000-0002-8971-6173</idno>
+                            </persName>
+                        </respStmt>
+                        <principal>
+                            <persName xml:id="BSAGOT">
+                                <surname>Sagot</surname>
+                                <forename>Benoît</forename>
+                                <idno type="orcid">0000-0001-8957-9503</idno>
+                            </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
+                            les Langues de France (COLaF)</publisher>
+                        <date when="2024-04-04"/>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <bibl>
+                            <title> Le Parisien</title>
+                            <author>Claudine, SELLIER </author>
+                            <pubPlace>Amiens</pubPlace>
+                            <publisher>Agence régionale de la langue Picarde</publisher>
+                            <date when="2020"/>
+                        </bibl>
+                    </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                    <langUsage>
+                        <language ident="met-oil-pic" usage="100">
+                            <idno type="langue">met-oïl-pic</idno>
+                            <idno type="script">latin</idno>
+                            <name>Picard</name>
+                            <date>2020</date>
+                            <location>
+                            <region>Nord</region>
+                            <country>France</country>
+                            </location>
+                        </language>
+                    </langUsage>
+                    <textClass>
+                        <keywords>
+                            <term type="supergenre" rend="fiction">Fiction</term>
+                            <term type="genre" rend="fiction-prose">Prose</term>
+                        </keywords>
+                    </textClass>
+                </profileDesc>
+                <revisionDesc>
+                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+                </revisionDesc>
+            </teiHeader>
+  <text xml:lang="met-oil-pic">
+    <body>
+      <div><pb n="Picard_Concours_2020_54_p1.png"/><lb/>N°54<lb/>Section Nouvelle<lb/>« LE PARISIEN»<lb/>Y'arrivot d’eine autre région de France et n’a jamais su manier l’langue<lb/>ed’Mousseron, alors in l’app’la « le Parisien ». Né dins les vignes de Bourgogne où<lb/>s’mère travaillot, il quitta s’région après avoir survécu aux 4 années de tranchées où<lb/>l’armée française l’avot cloué avec sin frère pour eine gloire inutile. Ch’est par<lb/>l’Escaut, not' fleuv chéri tant canté par Verhaeren, qu’il arriva chez nous.<lb/>Y'avot gardé d’sa région l’amour de la nature et du grand air. Sin gardin ouvrier<lb/>étot un « champ ouvrier » de par sa surface. J’adoros partir avec li cueillir les<lb/>légumes qui s’trouvo'nt à 2 kms de l’mason. J' montos dins s’brouette avec min tiot<lb/>panier qui d’vot contenir les fraises du gardin. In longeot de vieux murs fleuris de<lb/>giroflées sauvaches si parfumées que ces vieill’es briques bourdonno’nt de « tiots<lb/>biêtes » et de papillons colorés. Les corons d’mineurs aligno'nt leurs masons bein<lb/>serrées les unes aux aut’es habitées d’nos héros méconnus, nos cafus. Le linch des<lb/>lessif s claquot au vent et les effluves de café échappées des masons s’mélingeo'nt<lb/>au savon de Marseille appelé « sinlich » par ma mère.<lb/>Enfin in arrivot dins un paradis de carrés colorés gérés par des allées d’thym et<lb/>œillets d’inde si parfumés ! Pépé inl’vot sin paletot dins l’cabane in tôles garnie de<lb/>bouquets d’ail et d’oignons pendants du tôt. A nous les tiots pos et carottes que<lb/>j’mingeot tout crus avant d’les déposer dins l’brouette ! Cha s’terminot par les<lb/>fraises qui barbouillo'nt min minton et quand les hannetons bourdonno’nt aux<lb/>oreill’s et qu’eine brume déposot ses écharpes sul' gardin, chatot l’heu' de rintrer.<lb/>La brouette pleine du labeur d’min jardinier, in rintrot les reins cassés et heureux de<lb/>nos cueillettes pour not' famille. Je glissais m’tiot' main dins celle de pépé, main<lb/>immense, calleuse du travail d’la terre mais si rassurante!<lb/>Où sont achteur les hannetons de la St-Jean ? Où sont les murailles parfumées<lb/>des giroflées ?<lb/>Il faudrot armonter l’temps, oublier l'présent pou croir' au lendemain.</div>
+    </body>
+  </text>
+</TEI>

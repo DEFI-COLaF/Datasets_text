@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../Documents/metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_11</idno>
+                <title type="main"> Inne pierre à molin</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jean-Marie , FRANCOIS</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Inne pierre à molin</title>
+                    <author>Jean-Marie , FRANCOIS</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="70">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Somme</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="30">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb n="Picard_Concours_2020_11_p1.png"/><fw type="numbering"><lb/>N°11</fw> <head><lb/>INNE PIERRE A MOUN</head>
+                <p><lb/>Au
+                Crotoè, au sud éd chol Baie d’Sonme, o peut vir, coér in-hui, tout preu d’chés
+                ruin-nes d’éch<lb/>catieu à d’où qu’Jeanne d’Erc al o tè infreumèe pèr chés
+                lnglais, in heut d'chol Butte, inne pierre à<lb/>molin, d’inratchèe lo, édpi des
+                leunes, inne pierre à molin, inne meule, à d’où qu'chés amoureux i<lb/>s’assit't
+                édsur, pour erbéver la mer, éch solé qui s’couque, aveuc chés mioles qui
+                piaill’t din ch’temps<lb/>imbrouachè.</p> <p><lb/>I y o gramint, gramint du temps, à
+                cht'indroét d’lo, i y avoait don un molin, un molin à vint,<lb/>forchémint, qui
+                    tornoait se sgrands bros à l’avenant d'chés humeurs d’éch vint du Nord.</p> <p><lb/>Qu'i
+                foaiche bieu, qu’i n'foaiche point bieu, qu’i pleuche, qu'i vinte, qu'i grêle, tous
+                les jours, chés<lb/>carettes à bidet d’chés cache-manèes i vnoait't déquertcher
+                        chés sos d’blè d'chés plain-nes alintour.</p> <p><lb/>Ch'étoait dol boéne ouvrage pour
+                éch manier, Joseph, qu’il étoait vève achteure, aveuc chonq<lb/>bouques à
+                            norrir.</p> <ab><lb/>*****</ab> <p><lb/>Paul, éch peinte, échl artiste, quante il o arrivè lo,
+                quante il o vu ch'tableau, chés vagues, chés<lb/>mouilléres, chés batieux,
+                ch'molin, l’imminsitè d'chol Baie, chés couleurs de l’ieu et pi d’éch
+                temps,<lb/>din sin tchoeur, il o rmerciè ch’bon diu d’él l’avoér amnè lo,
+                                tellemint qu’étoait bieu.</p> <p><lb/>El premére foés éq Paul il o tè lo, à ch'pied
+                d’éch molin, aveuc ses toéles, ses pinceux, pi tout<lb/>sn’atrintchillage éd
+                peintureu, il o aperchu inne jon-ne fille, qu’al foaisoait juer quate piots nazus,
+                in<lb/>loques, à piédéqueux, aveuc des gveux conme des patchets d’pointes, pi des
+                                    candeilles à leus<lb/>niflettes.</p> <p><lb/>Il o foait singne à chol jon-ne fille éd
+                s’appreucher. Al avoait pétète tchinze, seize ans, d’inne<lb/>bieutè seuvage, à
+                nn’ébleuir éch solé. Al o rlevè ses cablettes blon-nes conme chés blès, a
+                s’a<lb/>appreuchèe tout duchmint, in teurdant sin chinoér. In bachant ses zius, al
+                o esplitchè à Paul qu’sin<lb/>pére i travailloait à ch’molin, pi qu’ch’est elle
+                qu’al devoait s’otchuper d’ses fréres, qu’és mére al<lb/>étoait morte, édpi
+                troés ans achteure. ! folloait lavurer ch’linge, détchurer chés castroles, foaire
+                à<lb/>minger, apateler chés pu piots.</p> <p><lb/>Ech peinte i n'povoait point
+                s’impétcher d’él débéyer : « A n’est mie creuyabe écmint qu’a li rsan-<lb/>ne
+                », qu'il o pinsè, din s’tête : ch’étoait sin rétoér ratchè, aveuc ses gveux,
+                pi ses zius, deux pieutes<lb/>taques éd bluets su s’pieu bise.</p> <p><lb/>- Cmint qu'tu
+                    t’appelles ?</p> <p><lb/>- Jeanne.</p> <p><lb/>- J'aimeroais bien vir tin pére.</p> <p><lb/>Al l'o mnè à
+                ch’molin. Il o montè quate à quate chés vieilles marches grinchantes, et pi il
+                o<lb/>mantchè d'foaire tchèr éch manier, à croupette din l’ombe, qui comptoait
+                ses sos d'blè.</p><pb n="Picard_Concours_2020_11_p2.png"/><ab><lb/>*****</ab> <p><lb/>A cmincher
+                d’éch jour-lo, és vie, à Jeanne, al o tè totalemint déturbèe, boustchulèe,
+                tornéboulèe.</p> <p><lb/>Paul i vnoait tous les jours à ch'molin. Il appeloait chol
+                pieute, qu’al déchindoait chés marches, pi a<lb/>s’in alloait aveuc li, s’assir à
+                    quiques pos d'chol toéle blanque.</p> <p><lb/>Ech peinte i poéyoait. I poéyoait bien.
+                Chl'ergint-lo i n’sarvoait point à acater du pain (cho, i n’in<lb/>mantchoait't
+                point !), mais à acater dz'habits, bien coeuds, des coeuchures, des chuques, du
+                pichon<lb/>meume, à msure.</p> <p><lb/>Paul, i li perloait, à chol pieute, duchmint,
+                gintimint, tout in méniant ses pinceux, attintif à foaire<lb/>sin rétoér. Des
+                coeups, i li foaisoait infiler dz'habillures éd matlote, éd vérotiére, dr'eutes
+                coeups, i<lb/>llé dédjisoait in poéysane.</p> <p><lb/>Quante i pluvoait, o bien qu’éch
+                vint i souffloait d’trop, o bien qu’él leumiére a n’étoait point<lb/>boéne, i
+                rintroait't din ch’molin, et pi li, i y apprindoait à lire des lives, des belles
+                histoéres, qui<lb/>s’passoait't din des poévis qu’a n’connaichoait point. Édz
+                    histoéres d’amour, aveuc des princes,<lb/>agvalès su des bidets blancs.</p> <p><lb/>Al
+                apprindoait vite, et pi qu’al étoait-ti continte quante i li disoait : « Ch'est
+                bien, leanne, t'es-t-<lb/>inne boéne pieute, tu comprinds toute.»</p> <p><lb/>Inne foés,
+                d’apreu-nonne, i n’o point vnu. Jeanne, d’éch coin d’sin ziu, al o milè chu
+                cmin,<lb/>dusqu’au soér, dusqu’à qu’éch solé i bache, pi qu’i tchèche din chol
+                    Baie, sin tchoeur rimpli<lb/>d’tristèche.</p> <p><lb/>Mais l'lin-nmain, il étoait lo.
+                Point tout seu. Aveuc li, à sin bros, i y avoait inne jon-ne feume,<lb/>d’inne
+                        gran-ne bieutè, éq sin nom ch’étoait Jane.</p> <p><lb/>Al avoait débertchè au veille,
+                à Saint-Wary, éd l’eute côtè d'chol Baie, pèr éch train, édpi éch
+                piot<lb/>téyate, à d’où qu’al juait, à msure din des piéches, à
+                            Péris.</p> <p><lb/>Paul il avoait l’air hureux, aveuc chol jon-ne feume à sin bros.</p> <p><lb/>-
+                Hé, Jeanne, viens vir un molé ichi. Déchinds don, voéyons !<lb/>Jeanne al o
+                déchindu, et pi, austôt, al o comprins toute : chol pieute Crotélloése et pi
+                chl’Inglaise<lb/>éd Péris i s’ersan-noait't conme deux gouttes éd jeu : chés
+                meumes égveux dorès, chés meumes zius<lb/>d’bluets, él meume bouque éd chriges
+                meures, érmis qu’chol jueuse éd téyate, aveuc ses talons<lb/>heuts, al étoait un
+                molé pu gran-ne, et pi qu’Jeanne al avoait à sin front inne pieute chicatrice,
+                inne<lb/>ramintuvance d’éch coeup qu’al avoait tcheu in volant rattraper sin piot
+                                frére qui s’seuvoait.</p> <p><lb/>Paul i n’arrêtoait point dé zzés rbéyer, touté deux,
+                                    l’inne apreu l’eute. I n’arrivoait point à y<lb/>croére:</p> <p><lb/>- Y o inne léginde
+                qu’al dit, qu’il o glinchè à l’eureille éd chol Périsienne, inne léginde qu’al
+                dit<lb/>éq tout l’mon-ne il o sin doube, és moétiè, quique pèrt édsu la terre.
+                O dit meume éq quante<lb/>o rinconte sin doube, ch’est qu’o vo biétôt défuncter.
+                Méfit't à ti, Jane, qu’il o dit in riant.</p> <pb n="Picard_Concours_2020_11_p3.png"
+                /><p><lb/>- T'y croés, ti ? qu’al o foait in ravisant chol jon-ne seuvageon-ne.</p> <p><lb/>-
+                V'én sais point. Coér bien qu’o dit étou qu’la mer al berzille chés sorts
+                maouais. Pi ti, tu restes<lb/>éd l’eute côtè d’chol Baie.</p> <p><lb/>- Pétète,
+                    seulmint l’ieu, à msure, i feut povoér él trécoper !</p> <p><lb/>Jane a n’in ménoait
+                point d’éch molin. Ébeubie, conme inchorchlèe. A rbéyoait toute. Al
+                djignoait<lb/>tout partoute, din tous chés coins pi chés racoins. Al poussoait des
+                piots cris d’émerveillemint. Pour<lb/>elle, tout o, ch’étoait tellemint neu. Al
+                s’amusoait d'chés traches éd frain-ne su ses belles
+                habillures.</p> <ab><lb/>*****</ab> <p><lb/>Durant chés jours qu’iz ont sui, Jane al vnoait au
+                Crotoè, din inne voéture à bidet qu’a<lb/>s’déwerwignoait din chés lordiéres,
+                édpi Saint-Wary, vir Paul, qui peignoait tojours éch molin, chés<lb/>mioles,
+                Jeanne, chés vagues, chés sabes, qui leu mérioait't insan-ne, chés péqueux,
+                aveuc leus<lb/>pousseux, chés ramasseux d’hénons, o bien d'queucrons.</p> <p><lb/>Al
+                foaisoait conme o él tour éd chol Baie, pi chés matlots i ll’erbéyoait't passer,
+                aveuc sin bidet,<lb/>inne horzain-ne, à robillons fleurachès, pi à capieu
+                    d’feurre, aveuc des reubins, pour én point bisir és<lb/>pieu.</p> <p><lb/>Paul drès qu’il
+                intindoait clincailer chés clotchettes d’éch bidet, i tchittoait sn’ouvrage, pi i
+                bzinoait<lb/>à l'rinconte d’échl étchipage, pi i soulvoait chl’élégante din ses
+                        bros.</p> <p><lb/>Jeanne a rbéyoait sans dire érien. Ses piots fréres iz adoroait't chol
+                jon-ne feume : i savoait't qu’al<lb/>avoait tojours, din s’carette, des chuques, des
+                chuchettes, un morcieu d’chucolat, des piots juets. I<lb/>vnoait't leu sarrer
+                contré elle, inne greuille hureuse, ahotchèe à ses cotrons. Pi elle, al aflatoait
+                leus<lb/>caveux touillès pèr éch vint d’mer.</p> <p><lb/>Jeanne, al voloait
+                    zz'impétcher, mais autant pucher dol ieu din un pénier perchè.</p> <p><lb/>Inne foés,
+                lane a y o amnè inne éd ses robes à elle. Jeanne al o bzinè din ch'molin, sin
+                patchet<lb/>dsous sin bros, rouge conme inne pion-ne.</p> <p><lb/>El lin-nmain, quante a s’a
+                appreuchèe d’éch peinte, otchupè à peinde inne binde éd corlus
+                audsu<lb/>d'chés mouilléres, al avoait chol robe su ses épeules, et pi al avoait
+                    rafulè ses gveux, à l’mode éd<lb/>jane.</p> <p><lb/>- T'es gintille, qu'il o foait Paul,
+                distraitemint. Mais quoè qu'ch'est qu’al foait Jane ? A n’est<lb/>point coér
+                        lo.</p> <p><lb/>Jeanne a s’a meurdu ses lippes, sans dire érien, inne pinche din s’panche,
+                un coeup d'coutieu din<lb/>sin tchoeur. Al o bzinè s’infreumer din s’cambe. Pi lo,
+                al o détrépénè chol meudite robe.</p><ab><lb/>*****</ab><p><lb/>Chés jours i passoait't,
+                achteure Jane al avoait prins l’habitude, pour évnir au Crotoè, éd suire<lb/>chol
+                rincloture d’éch bassin d’cache. A mer bachante, a s’pronmnoait meume inter-deux
+                chés baches<lb/>éd ieu. Ch’étoait Paul qui y avoait apprins à suire chu cmin
+                intré chés sablés mos. Pi al aimoait bien, à<pb
+                    n="Picard_Concours_2020_11_p4.png"/><lb/>piédéqueux, clipinder din chés
+                wases. Paul i y avoait apprins à connoaite chol Baie. Chu jon-ne<lb/>honme il
+                avoait soin à chés marées : quante i savoait qu'ch’étoait l’momint, i li disoait
+                : « Allez, ch’est<lb/>l’heure lane, i feut rintrer à Saint-Wary. » Il étoait dui
+                à foaire un bout d’écmin aveuc elle. A peu preu<lb/>au mitan, i s’imbrassoait't,
+                et pi... chol robe blanque al ratinchoait, al ratinchoait, là-bos, éd
+                l’eute<lb/>côtè d’chol Baie.</p> <p><lb/>Édpi un bout, à l’appreuche éd chés breumes
+                éd l’aprézeut, Paul il o cminchè à n'pu éte si tant<lb/>atchiéni à sin
+                travail. Et pi chés courts-jours, l’hiver : i n’povoait mie pu atampir sin chfalet
+                déhors. Et<lb/>pi, au boin temps, achteure, il abindon-noait éd pu in pu souvint
+                ses pinceux pour és coutcher, au<lb/>côtè d’lane din chl’herbé verde éd chés
+                roéyons, din ch’sabe, i s’édvisoait't, i trachoait't édz écailles<lb/>d’hénons,
+                    aveuc, i dessinoait't des tchoeurs, éq la mer al déffaçoait.</p> <p><lb/>A msure, Jeanne
+                al s’appreuchoait, tout duchmint, à l'muche-tin-pot, sans s’foaire vir, pi
+                a<lb/>zz'intindoait rire, pèr chés bieux soérs és jouin, pèr drière chés
+                hayures. A li fsoait du mau : tojours<lb/>des coeups d’coutieu din sin paure tchoeur
+                        meurdri !</p> <p><lb/>Achteure a n’sortoait pu gramint d’éch molin. Et pi Paul i y o dit
+                qu’il alloait s’r'in aller. Biétôt. Sin<lb/>gaziot sarrè, des didjèes d’ingouche
+                            din s’panche, chol fille d’éch manier a n’o point seu quoè répon-<lb/>ne.</p> <p><lb/>A
+                quiques jours éd lo, ch’étoait inne apreu-midi d’breumes, imbrouillachèe, il l’o
+                appelèe. A s’a<lb/>satchèe d’éch molin, aveuc ses zius tellemint rimplis
+                                d'tristèche, et pi s'chervelle ertornèe à l’invers :</p> <p><lb/>- Acoute, Jeanne, lane
+                al vo biétôt arriver. Tu n’éros qu’à li dire qu’éj sus-t-allè peinde
+                chol<lb/>cabernette éd bertcher, din chés pâtures, à l’intrèe d’chol route :
+                pardue din chol breume<lb/>conme o, a m'fro un bieu tableau. Dis-y qu'j'él
+                                    l’attinds, qu’al viènche m’erjoin-ne là-bos.</p> <p><lb/>Chol poévsane al o rbéyè chu
+                bieu jon-ne honme, él molin d’sin tchoeur, rapiotir, rapiotir, aveuc<lb/>tout
+                sn’atrintchillage à sn'épeule. Et pi a s’a rmis à tcheude, ses zius
+                sés.</p> <p><lb/>Jane al o arrivè tèrd, éch jour-lo. Al o trachè apreu Paul. Al o criè
+                    Jeanne :</p> <p><lb/>- Monsieu paul ? Bè, im’o dit qu’i s’in alloait à vo rinconte, à
+                        coeuse qu’i y avoait dol breume.</p> <p><lb/>- Mais j’l’ai point vu.</p> <p><lb/>Bè il éro dû
+                            coper pèr chés courses, pour aller pu vite. Mais i doét-éte loin achteure.</p> <p><lb/>-
+                O nos sonme mantchès. J'm’in vos inséyer d’aller ll’erjoin-ne édvant qu’i voèche
+                éd trop<lb/>loin.... El marée, al est à quelle heure ? Jane al o rbéyè s’monte
+                                : lo, il est troés heures et<lb/>dmie.</p> <p><lb/>- Oh, oz avez coér él temps : éch
+                flot i n’sro qu’à chonq heures.</p><pb n="Picard_Concours_2020_11_p5.png"/><p><lb/>Jeanne
+                al o rintrè din ch’molin. Al o cminchè à attin-ne, ses zius dsu chl’harloge. Al o
+                cminchè à<lb/>attin-ne éch flot. Al avoait minti. Minti éd quarante-chonq
+                minutes. Troés quarts d’heure.</p><ab><lb/>*****</ab><p><lb/>Éch corps il o tè rtrovè él
+                lin-nmain au matin, pèr drière éch port. Ch’est deux pétcheux<lb/>d’hénons qui
+                ll’avoait't aperchu, ses gveux infenouillès d’herbes éd mer, un pitchet i y
+                avoait<lb/>détchirè sn’épeule. lz ont trincballè chol paure jon-ne feume
+                    dusqu’à chl’estacade, roulèe din<lb/>inne toéle.</p> <p><lb/>I n’y avoait mie qu'chés
+                mioles pi chés grisèrds qui ll’avoait't intindue crier, incherclèe pèr<lb/>éch
+                        flot, és bouque teurdue d’ingoésse, épaveudèe.</p> <p><lb/>Jeanne, din ch'molin, a
+                            n’avoait point décessè d’erbéyer chol comtoése.</p> <p><lb/>Paul, quante il ll’o seu, il
+                                o vnu s’trondler au côtè d’éch corps, in sougloutant.</p> <p><lb/>Jeanne, elle, al
+                reuvoait, ses zius freumès, quante éch manier il o rintrè à sin tour din
+                ch'<lb/>molin :</p> <p><lb/>- Quelle affoaire! Mon diu, quelle affoaire : chol pieute dame
+                éd Péris a s’a noéyèe, Jeanne,<lb/>noéyèe ! Elle qu’al étoait si boéne, si
+                gintille. J’én comprinds point, j’él l’avoais intindue qu’al<lb/>perloait aveuc
+                    ti, din l’apreu-midi. Al t’avoait dit qu’a rtornoait à Saint-Wary ?</p> <p><lb/>Chol jon-ne
+                        fille a rbéyoait, droét dvant elle, sans vir érien:</p> <p><lb/>- Vél savoais, qu’al o
+                            chuchutè, in ravisant ch'temps bleu, déhors.</p> <p><lb/>- Pi tu ll’os point impétchèe
+                                d'partir ?</p> <p><lb/>- Nan, ch'est mi qu'j'él l’al invoéyèe là-bos, à mer
+                                    montante.</p> <p><lb/>- Mon diu! qu’il o foait ch'pére, in rbéyant s'fille aveuc ses zius
+                                        rimplis d'lermes.</p> <p><lb/>Ch'manier il o coru à ch'port. Tchinze minutes apreu, i
+                                            rvénoait, in poussant dvant li chu Paul,<lb/>blanc conme un lincheu :</p> <p><lb/>-
+                Erdis-m'mé, erdis-m’mé ch'qué tu m’os dit ! i scouoait ch'bros d’és fille, d’és
+                fille qu’al tran-<lb/>noait.</p> <p><lb/>- Monsieu Paul, i feut li pardon-ner, al n’o pu
+                tout s’tête, a n’o pu tous ses sins : ch’est elle<lb/>qu’al o invoéyè chol pieute
+                    dame à la mort. Al o minti su ch’l’heure d’éch flot.</p> <p><lb/>D'inne main, ch'peinte il
+                        o prins chiol pieute pèr sin minton, duchmint, tristémint :</p> <p><lb/>- A coeuse éq
+                t’os foait cho ?</p><pb n="Picard_Concours_2020_11_p6.png"/><p><lb/>Jeanne al o rouvert ses
+                peupiéres, al o plantè ses zius din les siennes. Ses zius pardus,
+                tellemint<lb/>rimplis d’amour. Paul il o comprins toute. Il o tchittè rtchèr és
+                    main :</p> <p><lb/>- J'én sais point si j'porrai janmoais ét pardon-ner, leanne. Qu’éch
+                bon diu il euche pitiè d’ti.<lb/>Il o rdéchindu chés marches d’éch molin. O
+                        n'l’o pu janmoais rvu din ch’poéyi.</p> <p><lb/>Tant qu’à ch'paure pére, li, i n’osoait
+                meume pu rbéyer chol Baie, és Baie. Viusi, cassè in<lb/>deux, dossus, il o
+                décessè sn’ouvrage. I n’avoait pu l’tchoeur à foaire torner chés ailes éd
+                sin<lb/>molin.</p> <p><lb/>ch'molin d'chol Butte i n'o pu janmoais rfoait dol frain-ne.
+                Déjo à mitan déhansè, il o tè<lb/>abindon-nè à chés vints, chés pleuves,
+                    chés veudoéses, chés jux d’chés piots.</p> <p><lb/>Chés darin-nes planques iz ont tè
+                arrachèes, l’hiver, pèr quiques paures feumes éd pétcheux,<lb/>pour elles
+                povoér és coeuffer.</p><ab><lb/>*****</ab><p><lb/>Inne pierre à molin, in heut d’chol Butte, a
+                n’sert mie pu in-nhui, au Crotoè, qu’à chés<lb/>amoureux povoér s’assir édsur,
+                in rbéyant la mer.</p></div> <div type="liminal"><pb n="Picard_Concours_2020_11_p7.png"
+                /><head><lb/>LEXIQUE</head><list>
+                    <item><lb/>L'Crotoè: <foreign xml:lang="met-fr">Le Crotoy</foreign></item>
+                    <item><lb/>Inratchèe: <foreign xml:lang="met-fr">échouée</foreign></item>
+                    <item><lb/>Leunes :<foreign xml:lang="met-fr">lunes</foreign></item>
+                    <item><lb/>Erbéyer : <foreign xml:lang="met-fr">regarder</foreign></item>
+                    <item><lb/>Solé: <foreign xml:lang="met-fr">soleil</foreign></item>
+                    <item><lb/>Mioles: <foreign xml:lang="met-fr">mouettes</foreign></item>
+                    <item><lb/>Temps:<foreign xml:lang="met-fr">ciel</foreign></item>
+                    <item><lb/>Imbrouachè:<foreign xml:lang="met-fr"> couvert</foreign></item>
+                    <item><lb/>Gramint : <foreign xml:lang="met-fr">beaucoup; très</foreign></item>
+                    <item><lb/>A l’avenant : en  <foreign xml:lang="met-fr">fonction</foreign></item>
+                    <item><lb/>Cache-manèes : <foreign xml:lang="met-fr">garçons meuniers</foreign></item>
+                    <item><lb/>Déquertcher: <foreign xml:lang="met-fr">décharger</foreign></item>
+                    <item><lb/>Sos:<foreign xml:lang="met-fr">savs</foreign></item>
+                    <item><lb/>Manier : <foreign xml:lang="met-fr">meunier</foreign></item>
+                    <item><lb/>Vève:<foreign xml:lang="met-fr"> veuf</foreign></item>
+                    <item><lb/>Chonq :<foreign xml:lang="met-fr"> cinq</foreign></item>
+                    <item><lb/>Mouilléres: <foreign xml:lang="met-fr"> mollières</foreign></item>
+                    <item><lb/>Pinceux: <foreign xml:lang="met-fr">pinceaux</foreign></item>
+                    <item><lb/>Atrintchillage: <foreign xml:lang="met-fr">matériel</foreign></item>
+                    <item><lb/>Nazus : <foreign xml:lang="met-fr">petits garçons</foreign></item>
+                    <item><lb/>A piédéqueux : <foreign xml:lang="met-fr">pieds-nus</foreign></item>
+                    <item><lb/>Gveux : <foreign xml:lang="met-fr">cheveux</foreign></item>
+                    <item><lb/>Candeilles:<foreign xml:lang="met-fr">chandelles</foreign></item>
+                    <item><lb/>Cablettes : <foreign xml:lang="met-fr">tresses</foreign></item>
+                    <item><lb/>Chinoér: <foreign xml:lang="met-fr">tablier</foreign></item>
+                    <item><lb/>Détchurer: <foreign xml:lang="met-fr"> récurer</foreign></item>
+                    <item><lb/>Apateler: <foreign xml:lang="met-fr">nourrir</foreign></item>
+                    <item><lb/>Débéyer: <foreign xml:lang="met-fr">regarder avec insistance, dévisager</foreign></item>
+                    <item><lb/>Rétoér ratchè: <foreign xml:lang="met-fr">portrait craché</foreign></item>
+                    <item><lb/>Tchèr: <foreign xml:lang="met-fr">tomber</foreign></item>
+                    <item><lb/>A croupette: <foreign xml:lang="met-fr">accroupi</foreign></item>
+                    <item><lb/>Déturber: <foreign xml:lang="met-fr">déranger</foreign></item>
+                    <item><lb/>Méniant: <foreign xml:lang="met-fr">maniant</foreign></item>
+                    <item><lb/>Agvalès: <foreign xml:lang="met-fr">à califourchon</foreign></item>
+                    <item><lb/>D’apreu none : <foreign xml:lang="met-fr">l’après-midi</foreign></item>
+                    <item><lb/>Milè:     <foreign xml:lang="met-fr">surveillé</foreign></item>
+                    <item><lb/>S'ersan-noait't: <foreign xml:lang="met-fr">se ressemblaient</foreign></item>
+                    <item><lb/>chriges: <foreign xml:lang="met-fr">cerises</foreign></item>
+                    <item><lb/>Ermis : <foreign xml:lang="met-fr">hormis</foreign></item>
+                    <item><lb/>Ramintuvance: <foreign xml:lang="met-fr">souvenir</foreign></item>
+                    <item><lb/>Tcheu : <foreign xml:lang="met-fr">tombée</foreign></item>
+                    <item><lb/>Es moétiè: <foreign xml:lang="met-fr">son jumeau</foreign></item>
+                    <item><lb/>Trécoper: <foreign xml:lang="met-fr">traverser</foreign></item>
+                </list><pb n="Picard_Concours_2020_11_p8.png" /><list><item><lb/>Djignoait : <foreign xml:lang="met-fr">furetait</foreign></item>
+                    <item><lb/>Frain-ne:<foreign xml:lang="met-fr"> farine</foreign></item>
+                    <item><lb/>s'déwerwignoait:<foreign xml:lang="met-fr"> se disloquait en grinçant</foreign></item>
+                    <item><lb/>tordiéres : <foreign xml:lang="met-fr">ornières</foreign></item>
+                    <item><lb/>Pousseux : <foreign xml:lang="met-fr">épuisette</foreign></item>
+                    <item><lb/>Hénons:  <foreign xml:lang="met-fr"> coques</foreign></item>
+                    <item><lb/>Bisir :<foreign xml:lang="met-fr"> bronzer</foreign></item>
+                    <item><lb/>Greuille : <foreign xml:lang="met-fr">grappe</foreign></item>
+                    <item><lb/>Ahotchèe:  <foreign xml:lang="met-fr">accrochée</foreign></item>
+                    <item><lb/>Aflatoait: <foreign xml:lang="met-fr">caressait</foreign></item>
+                    <item><lb/>Pucher : <foreign xml:lang="met-fr">puiser</foreign></item>
+                    <item><lb/>Pion-ne : <foreign xml:lang="met-fr"> pivoine</foreign></item>
+                    <item><lb/>Corlus: <foreign xml:lang="met-fr">courlis</foreign></item>
+                    <item><lb/>Rafulè: <foreign xml:lang="met-fr">recoiffé</foreign></item>
+                    <item><lb/>Détrépénè: <foreign xml:lang="met-fr"> déchiré</foreign></item>
+                    <item><lb/>Rinclotutre: <foreign xml:lang="met-fr">digue</foreign></item>
+                    <item><lb/>Bassin de cache: <foreign xml:lang="met-fr">bassin de chasse (pour chasser l’eau, et désensabler la baie)</foreign></item>
+                    <item><lb/>A mer bachante : <foreign xml:lang="met-fr">à marée descendante</foreign></item>
+                    <item><lb/>Baches d’ieu : <foreign xml:lang="met-fr">grandes flaques profondes</foreign></item>
+                    <item><lb/>Clipinder :<foreign xml:lang="met-fr">barboter</foreign></item>
+                    <item><lb/>Dui :<foreign xml:lang="met-fr"> habitué</foreign></item>
+                    <item><lb/>Ratinchoait: <foreign xml:lang="met-fr">rapetissait</foreign></item>
+                    <item><lb/>l’aprézeut:<foreign xml:lang="met-fr"> l’automne</foreign></item>
+                    <item><lb/>Atchiéni : <foreign xml:lang="met-fr">acharné</foreign></item>
+                    <item><lb/>Atampir: <foreign xml:lang="met-fr">dresser</foreign></item>
+                    <item><lb/>Roéyons : <foreign xml:lang="met-fr">talus</foreign></item>
+                    <item><lb/>Al'muche-tin-pot : <foreign xml:lang="met-fr">en catimini</foreign></item>
+                    <item><lb/>Gaziot : <foreign xml:lang="met-fr">gosier</foreign></item>
+                    <item><lb/>Didjèes:<foreign xml:lang="met-fr"> bouffées</foreign></item>
+                    <item><lb/>Ingouche :<foreign xml:lang="met-fr"> souffrance</foreign></item>
+                    <item><lb/>Cabernette: <foreign xml:lang="met-fr">cabane mobile du  berger</foreign></item>
+                    <item><lb/>Tcheude: <foreign xml:lang="met-fr">coudre</foreign></item>
+                    <item><lb/>Trachè : <foreign xml:lang="met-fr">cherché</foreign></item>
+                    <item><lb/>courses : <foreign xml:lang="met-fr">petits bras d’eau</foreign></item>
+                    <item><lb/>Qu’i voèche :<foreign xml:lang="met-fr"> qu’il aille</foreign></item>
+                    <item><lb/>Grisèrds :<foreign xml:lang="met-fr"> goëlands</foreign></item>
+                    <item><lb/>Epaveudèe:<foreign xml:lang="met-fr"> effrayée</foreign></item>
+                    <item><lb/>s'trondler : <foreign xml:lang="met-fr">se laisser tomber</foreign></item>
+                    <item><lb/>Sougloutant : <foreign xml:lang="met-fr">hoquetant</foreign></item>
+                    <item><lb/>Lincheu : <foreign xml:lang="met-fr">drap</foreign></item>
+                    <item><lb/>Tran-noait :<foreign xml:lang="met-fr"> tremblait</foreign></item>
+                    <item><lb/>Ertchèr : <foreign xml:lang="met-fr">retomber</foreign></item>
+                    <item><lb/>Dossus :<foreign xml:lang="met-fr"> voûté</foreign></item>
+                    <item><lb/>Déhansè: <foreign xml:lang="met-fr">démoli</foreign></item>
+                    <item><lb/>veudoéses: <foreign xml:lang="met-fr">vents de tempête</foreign></item></list><pb
+                    n="Picard_Concours_2020_11_p9.png"/></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <idno>PIC_CONCOURS__2021_16</idno>
+                        <title type="main"> Cheul lett </title>
+                        <title type="collection">Picard Concours</title>
+                        <author>Philippe, DUPUIS </author>
+                        <respStmt>
+                            <resp>Encoding</resp>
+                            <persName xml:id="JJANES">
+                                <surname>Janès</surname>
+                                <forename>Juliette</forename>
+                                <idno type="orcid">0000-0002-8971-6173</idno>
+                            </persName>
+                        </respStmt>
+                        <principal>
+                            <persName xml:id="BSAGOT">
+                                <surname>Sagot</surname>
+                                <forename>Benoît</forename>
+                                <idno type="orcid">0000-0001-8957-9503</idno>
+                            </persName>
+                        </principal>
+                        <funder>Inria</funder>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
+                            les Langues de France (COLaF)</publisher>
+                        <date when="2024-04-04"/>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <bibl>
+                            <title> Cheul lett </title>
+                            <author>Philippe, DUPUIS </author>
+                            <pubPlace>Amiens</pubPlace>
+                            <publisher>Agence régionale de la langue Picarde</publisher>
+                            <date when="2021"/>
+                        </bibl>
+                    </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                    <langUsage>
+                        <language ident="met-oil-pic" usage="100">
+                            <idno type="langue">met-oïl-pic</idno>
+                            <idno type="script">latin</idno>
+                            <name>Picard</name>
+                            <date>2020</date>
+                            <location>
+                            <region>Nord</region>
+                            <country>France</country>
+                            </location>
+                        </language>
+                    </langUsage>
+                    <textClass>
+                        <keywords>
+                            <term type="supergenre" rend="fiction">Fiction</term>
+                            <term type="genre" rend="fiction-prose">Prose</term>
+                        </keywords>
+                    </textClass>
+                </profileDesc>
+                <revisionDesc>
+                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+                </revisionDesc>
+            </teiHeader>
+  <text xml:lang="met-oil-pic">
+    <body>
+      <div><pb n="Picard_Concours_2021_16_p1.png"/><lb/>N°16<lb/>« Saque, saque, sonneu ! »<lb/>Ed'zous sin capieau vert ed gris, bin qu’al seuche à l' coyette dins ch' cloquer, el cœur d’el<lb/>viele cloque; i berloque : pus d’sonneu, es corte rinmanch’lée, al sint bin qu’al va défunquer.<lb/>Edpus ein' paire ed mos in n' veut pus l’intinte, al déringe ed nouvelles gins v’nues jouquer<lb/>dins ch' villache. Que mont d’chuque in y casse ed’sus l’dos !<lb/>Al busie, arcompte sin temps ichi et bang! D’un cop cha buque quand armonte ein' saquie<lb/>d’imaches. Al arvot l' bardalache avant qu’in n' l’incrinque là, es marrainne et ses pos d'<lb/>chuque, sin nom déloïé in grosses lettes edsus s' baïette : Madeleine. Cha y est, al s’fout à<lb/>braire, al soumaque : i faut qu’al tienche bon. In n' sara pas l' faire caire, in n’sara pas<lb/>l’dechinte.<lb/>Al s’escoue, arsasse es n’histoire pleinne ed belles cosses, al es sint rapagée.<lb/>Quand à l’piquette du jour s' sonneu faijot décaniller el mitan d’ech' villache : ch’étot elle...<lb/>Quand après none i saquot edsus l’corte d’ein' aute façon pou archiner : ch’étot elle...<lb/>Quand fallot rassanner ches oualles dins ch' l’église pour pâques, el noé et combin d' autes<lb/>fêtes, ch’étot elle...<lb/>Ah ouai ... et ches diminches !<lb/>« Fallot vire tous ches gins el diminche à buis, à ch'ti qu’i arot l' pus grosse peugnie d'<lb/>branques mais ... pour mi... hum ! ch’étot ch' meilleu qui arrivot... Mes RIT ! » qu’al<lb/>bérouanne tout duch'mint ed peur d’ête intindue.<lb/>Pis in pinsant à z écalettes qui l’rimplachotent el verdi d’el peineuse semainne sin cœur es<lb/>poche ch’est-i d'dépit, ch’est-i d’argret qu’al bertonne ?: « I avot pas tous ches jux<lb/>d’ach’teur : facebook, mails, SMs et tout l’sinfrusquin ; aussi, pour annoncher min voïache à<lb/>Rome, ej m’intinds cor, jé n’ravisos pas à lacher dsus ches toets d' masons, ches balots d’<lb/>quéminées et minme edsus z’étapes mes pus belles involées!<lb/>Ej prénos l’temps là-bas d’em' querquer pou laicher caire tout l' long du qu’min in arvénant,<lb/>ed z’œufs d’glaines. Qu’is étotent bieaux dins leu coquile rouche ed bett’rafes, vertes ed'<lb/>pinartes, ganne ed chicorée d’ête passés à l’castole!<lb/>l’avos quer vire ez z’infants cacher dins ches voïettes ed gardins, ez haïures, ches bûchons<lb/>pou rimplir leu panier à salate.<lb/>El diminche qui suivot, ch’ti d’el pâque à manier, que monte à l'messe! A croire qu’is<lb/>voulotent m’armercier ! Cha m' fait cor frod dins l’dos.»<lb/>El fos chi al gargote, quo qu’i s’passe ?<lb/>Il’i sanne intinte qu’es sonneu par ein' paire ed cops fort douches qui dur tent ein long<lb/>momint, bachine dins tout ch’villache qu’i a ein' famile in deul. Al vot minme equ' chez à<lb/>mou Baptisse ech' clerc, al l’a rincontré si souvint, li qui l' défindot elle, el vieile cloque qu’i<lb/>arot fallu dépinte. Al n’arvient pas d’el savoir bétôt dsus les gantiers. Sin cœur bourlotte à<lb/>nouvieau, al s’arvinge : « Saque, saque sonneu pou qu’tout l' monte vienche au deul !»<lb/>Ch' est alors qu’al s’indort pou laicher l' plache, d’ichi peu d’temps, à ein tout nouvieau<lb/>ju sans cœur, sans vie qui n'dépindra qu' d’ein' tiote boîte à boutons.<lb/>Questionnaire définitif par Raymond Dubois tiré de l’atlas linguistique Picard de Robert toriot et<lb/>Raymond Dubois Faculté des lettres 1960<lb/>Lexique de Marius Lateur 1951<pb n="Picard_Concours_2021_16_p2.png"/><lb/>« Tire, tire, sonneur!»<lb/>Sous son chapeau vert de gris, bien qu’elle soit à l’aise dans le clocher, le cœur de la<lb/>vieille cloche; il balance : plus de sonneur, sa corde recroquevillée, elle sent bien<lb/>qu’elle va mourir.<lb/>Depuis plusieurs mois on ne veut plus l’entendre, elle dérange de nouvelles personnes<lb/>venues s’établir dans le village. Que de sucre lui casse-t-on sur le dos!<lb/>Elle pense, recompte son temps ici et bang ! D’un coup cela frappe quand remonte<lb/>un plein sac d’images. Elle revoit le baptême avant qu’on ne l’accroche là, sa marraine<lb/>et ses dragées, son nom délié sur sa jupe : Madeleine. Cela y est, elle se met à pleurer,<lb/>elle sanglote : il faut qu’elle tienne bon. On ne saura pas la faire tomber, on ne saura<lb/>pas la descendre.<lb/>Elle se secoue, ressasse son histoire pleine de bonnes choses qui lui redonnent<lb/>courage, elle se sent apaisée.<lb/>Quand à l’aube le sonneur faisait sortir du lit la moitié du village : c’était elle ...<lb/>Quand l’après-midi il tirait sur la corde d’une autre façon pour le goûter : c’était elle...<lb/>Quand il fallait rassembler les ouailles dans l’église pour pâques, noël et combien d’autres<lb/>fêtes : c'était elle...<lb/>Ah ! Oui et les dimanches!<lb/>« Fallait voir tous les gens le dimanche des rameaux, à celui qui aurait la plus grosse<lb/>poignée de branches et... pour moi... hum ! C’était le meilleur qui arrivait... Mes RII! »<lb/>bourdonne t’elle tout doucement de peur d’être entendue.<lb/>Puis en pensant aux crécelles qui la remplaçaient le vendredi de la semaine sainte<lb/>son cœur se serre, est-ce de dépit, est-ce de regrets qu’elle ronchonne : « Il n’y avait pas<lb/>tous les jeux de maintenant : facebook, mails, SMS et tout ce qui s’en suit ; aussi, pour<lb/>annoncer mon voyage à Rome, je m’entends encore, je ne regardais pas à lâcher sur les<lb/>toits de maisons, les sorties de cheminées et même sur les étables mes plus belles<lb/>envolées!<lb/>le prenais le temps là-bas de me charger pour laisser tomber tout au long du chemin en<lb/>revenant, des œufs de poules. Qu’ils étaient beaux dans leur coquille rouge de betteraves,<lb/>verte d’épinards, jaune de chicorée après être passés à la casserole!<lb/>l’aimais voir les enfants chercher dans les allées de jardins, les haies, les buissons pour<lb/>remplir leur panier à salade!<lb/>Le dimanche qui suivait, celui des rameaux, quel monde à la messe ! J’ose penser qu’ils<lb/>voulaient me remercier ! Cela me fait froid dans le dos.»<lb/>Cette fois ici elle tremble de froid, que se passa-t-il ?<lb/>Il lui semble entendre que le sonneur par plusieurs coups très doux qui durent un long<lb/>moment, publie dans tout le village qu’il y a une famille en deuil. Elle voit même que c’est<lb/>chez Baptiste le chantre, elle l’a rencontré si souvent, lui qui la défendait elle, la vieille<lb/>cloche qu’il aurait fallu dépendre. Elle n’en revient pas de savoir le cercueil exposé sur un<lb/>support. Son cœur s’émeut à nouveau, elle prend sur elle : « Tire, tire sonneur pour que<lb/>tout le monde vienne à l’enterrement ! »<lb/>C’est alors qu’elle s’endort pour laisser la place, dans peu de temps, à un tout nouveau<lb/>mode de fonctionnement sans cœur, sans vie qui ne dépendra que d’une boîte à boutons.</div>
+    </body>
+  </text>
+</TEI>

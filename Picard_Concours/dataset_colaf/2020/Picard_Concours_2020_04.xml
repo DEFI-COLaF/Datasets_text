@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_04</idno>
+                <title type="main"> Eul puche</title>
+                <title type="collection">Picard Concours</title>
+                <author>Michelle, FOUREZ</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Eul puche</title>
+                    <author>Michelle, FOUREZ</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="50">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>Belgique</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="50">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>Belgique</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_4_p1.png"/>
+                <fw type="numbering"><lb/>N°4</fw>
+                <head><lb/>Eul puche</head>
+                <dateline><lb/> 15 d'avril eud 1929</dateline>
+                <p><lb/>Eul Leune feut luire l’euwe dou puche, eul puche del cinsse vijin.ne.</p>
+                <p>
+                    <lb/>I doit ête quatre heures dou matin. L’cou n’a neu co canteu.</p>
+                <p>
+                    <lb/>Tout l' monde dort, almon Polline, eune vieille cinssière.</p>
+                <p>
+                    <lb/>Dins l' cinsse deus vijins eutou, tout l’ monte dort.</p>
+                <p>
+                    <lb/>Adon, Polline eus lièfe sans dèrinviyier Gédéon, s'n-homme.</p>
+                <p>
+                    <lb/>Eulle meut s' sale eucourcheu pa dseur eus rope de chambe, prind in séyau
+                    d’bos, eune corde.</p>
+                <p>
+                    <lb/>Eulle traverse eul cou deus vijins, lièfe eul lourd couvièpe de l’fosse
+                    à pureu, douch'mint, pou qu'<lb/>pièrsonne neu l’oïche, eu surtout neu
+                    Gédéon.</p>
+                <p>
+                    <lb/>Eule leille deuquinte eul seyo dins l’fosse, l'rimplit d'pureu eu le
+                    r'monte aveu l'corde.</p>
+                <p>
+                    <lb/>Eulle s’approche dou puche deus vijins eu rue d'dins l'séyau d' pureu.</p>
+                <p>
+                    <lb/>Eulle s'in r’va habille à s' mèson, rince eul seyô à l’pompe, lave seus
+                    mains qui put.tent l’pureu</p>
+                <p>
+                    <lb/>aveu dou noir savon e'u s' in va se r'coutchié d’lé Gédéon qui n’a neu
+                    bougié d’eune patte eu qui <lb/>ronfièle.</p>
+                <p>
+                    <lb/>Ainsi, D'sireu eu Maria, n’aront pus d’eu, qu'Polline dit tout bas à li
+                    minme in se r'coutchant d’lé <lb/>Gédéon.</p>
+                <p>
+                    <lb/>Maria, ch’eut pourtant l' prope fille de Polline, eule seule afant qu’eulle
+                    a oü aveu Gédéon.</p>
+                <p>
+                    <lb/>Mais eulle ne pint neu l’vi. Eulle n’a jinmais pouvu l’vi. Ch’eut in
+                    garchon qui li falloit. Eulle l’a dit <lb/>eu reupeuteu à Maria, qui a toudi
+                    teu pou Polline eul dernière peutote dou chint d'kilous.</p>
+                <p>
+                    <lb/>Pitiète di beu qu' sans s’pa Gédéon, Maria s’roit morte, pasque Polline
+                    eune pouvoit neu l’vi, eu</p>
+                <p>
+                    <lb/>qu'eulle li dijoit, co beu.</p>
+                <p>
+                    <lb/>Heureus'mint, Maria s' a marieu jonne, aveu D'sireu, in cinssier dou
+                    villache.</p>
+                <p>
+                    <lb/>Bon deubarras, j’aime autant seus talons qu'seus pointes, qu’eulle a dit
+                    Poilline.</p>
+                <p>
+                    <lb/>Eu D’sireu eu Maria s’ont installeu dvins l’cinsse d’àcoteu, duchque leus
+                    tièrres eutuintent.</p>
+                <p>
+                    <lb/>Hier, i s' sont co disputeu comme deus tchiés, Polline eu Maria, soi
+                    disant qu' Maria toit vnue li <lb/>voleu deus euwins ou poulié.</p>
+                <p>
+                    <lb/>Adon, ni eune ni deux, eulle a teu par nuite ruweu l’pureu dins l’puche,
+                    sans reu dire à Gédéon qui <lb/>aroit chireu Polline, s’il l’aroit soü.</p>
+                <p>
+                    <lb/>Meunnant, vlà que D’sireu eu Maria tuintent obligiés d' daleu pompeu
+                    l’euwe à l'cinsse Jean dou<pb n="Picard_Concours_2020_4_p2.png"/></p>
+                <p>
+                    <lb/>Cousse, à deux chints mètes de là, de l’mette dins n' tine attlée à
+                    leu g’vô Bella, d' ramin.neu l’tine <lb/>dins l'cou del cinsse.</p>
+                <p>
+                    <lb/>Eu i n’faut neu pinseu qu’Jean dou Cousse leu donnoit l’euwe pou reu ! Pus
+                    huicq que li, vo n' <lb/>pouruiz neu trouveu. I toit fin beunaiche, Jean dou
+                    Cousse, que Maria eu D'sireu n'euchtent pu <lb/>d'eu : tous leus mois, i vnoit
+                    fè s'compte avec eusses..</p>
+                <p>
+                    <lb/>Ch' toit n' fameuse racachure, pasque dins n'cinsse, i-in faut bramint, d'
+                    l'euwe, pou batte eul burre, <lb/>pou fè l' soupe, pou bwer, eu surtout pou
+                    leus biètes.</p>
+                <p>
+                    <lb/>Polline veyoit D’sireu eu Maria passeu d’sous seus vitres aveu leus séyaux
+                    qui rimplichuin tent à <lb/>l'tine, eu eulle riyoit plein s’panche...</p>
+                <dateline><lb/>15 d'a .oût eud 1929</dateline>
+                <p>
+                    <lb/>Habille, ch’eut l’momint d’rintreu l’aôut dvant qu’i n'pluviche.</p>
+                <p>
+                    <lb/>Dija l'dix d’a out, leus grains tuin'ntent à crocheuts, vu qui n’avoit pus
+                    pleu d’puis n'paire de <lb/>s’maines, eu i toit grand temps d’piqu’teu, d’loyeu
+                    leus garbées</p>
+                <p>
+                    <lb/>aveu d' l’eutrain d' soile eu d' mète in eutoques. (TRADUCTION?)</p>
+                <p>
+                    <lb/>Eul baroumète deuvale, i va pleuwère. I n’a neu d'avanche, i faut ouvreu,
+                    minme si ch'eut fiète ou <lb/>villache,</p>
+                <p>
+                    <lb/>Eul bal deul ducasse, ce n's'ra neu pou c’coup chi, fin.me : I nos faut
+                    ramint rintreu l’grain <lb/>àl'granche.</p>
+                <p>
+                    <lb/>Leus trois afans D’sireu eu Maria sont là qui jut.tent ou bord dou camp
+                    dins leus euteules.</p>
+                <p>
+                    <lb/>Trois afans, eune fille de huit, in garchon d’six et eune aute fille de
+                    deux ans vieille qui dort <lb/>reutindue d'sus n'garbée, à l’ombre.</p>
+                <p>
+                    <lb/>Leus deux pu grands minch'tent deus meumeures eu cach'tent à
+                    papillons.</p>
+                <p>
+                    <lb/>D'sireu feut carrée, eu ch’eut Maria qu’i-eut ou coupié dou car.</p>
+                <p>
+                    <lb/>D'sireu li tind leus garbées qu’on meuttra à l’granche in attindant
+                    qu’eule machine vinche aveu n' <lb/>binde de Flaminds batte eul grain qu’is
+                    min.nront ou mon.nier.</p>
+                <p>
+                    <lb/>D'sireu a mis deus hauches ou car...</p>
+                <p>
+                    <lb/>I nos fouroit fé deux vouyaches, l’homme ! Eule carrée eut d’jà trop
+                    haute eu nos n’avons neu co <lb/>fini ! qu'eulle dit Maria.</p>
+                <p>
+                    <lb/>Bawête! Cha va daleu tti D'sireu, in ravisant leus grisses nuées..</p>
+                <p>
+                    <lb/>J'va louyeu leus garbées aveu l’bouritcheu, eu vos vos téreuz à
+                    l'corde...</p>
+                <p>
+                    <lb/>Maria n'dit p us reu. Li cutou, eulle ravisse leus grisses nuées, tout in
+                    peurdant leus garbées qu'eulle<pb n="Picard_Concours_2020_4_p3.png"/>
+                    <lb/>a d'pus in pus d’mau à saisi, minme si D’sireu lièfe eus fourque aussi
+                    haut qu’i pint.</p>
+                <p>
+                    <lb/>Eul carrée eut faite, fin me ! Habille... v'neuz, leus afants !</p>
+                <p>
+                    <lb/>Leus deux g’vaux, eusses, ont beu dou mau pou r’monteu l’quemin qui min.ne
+                    à l’cinsse. I <lb/>s’agriptent aveu leus chabouts à leus paveus, eu leu dou
+                    eut tout blanc d’eutcheume.</p>
+                <p>
+                    <lb/>Meus l'pus pir, ch' eut quand l'quemin deuvale !</p>
+                <p>
+                    <lb/>Eule carrée trop lourde leus intrin.ne, D’sireu a beu frin.neu ! Vlà
+                    qu’is s’mettent à couri, leus <lb/>g’vaux!</p>
+                <p>
+                    <lb/>Maria crie dou coupié dou car. In eurjon li feut lâchier l'corde.</p>
+                <p>
+                    <lb/>Maria tchait l'tiète première conte eul timon.</p>
+                <p>
+                    <lb/>D'sireu a beu s' dèmin.neu eu fé s’arreuteu leus g'vaux...</p>
+                <p>
+                    <lb/>Leus afans qui suivinntent à pied, l'pus p'tite de deux ans dins n'
+                    carriole, aqueur tent d’lé leu <lb/>mére : eulle eut morte.</p>
+                <p>
+                    <lb/>Marcel, qui a tout vu de s'gardin, s’in va habille à velou tchè
+                    l’mèd'cin Dedessulesmoustier Quand i' <lb/>arrife eune heure pus tard, eul
+                    pleuwinfe s’a mis à tchaire.</p>
+                <p>
+                    <lb/>Gilberte, eul finme Marcel, a feut rintreu à s’maison leus trois afans.
+                    Eulle s’apprêtoit à daleu ou bal <lb/>aveu Marcel, eu vla qu' meunnant eulle
+                    tint leus trois afants su s’ n’eucou eu brait aveuc eusses.</p>
+                <p>
+                    <lb/>Eule mèdcin Dedessulesmoustier dit à D’sireu d'meureu à g’noux d’lé
+                    Maria qu’i n’a pus reun à fe.</p>
+                <p>
+                    <lb/>I meut dins s'n ’auto s'quà l'cinsse Maria morte eu leus trois afans sans
+                    mére.</p>
+                <p>
+                    <lb/>Marcel prind l’affileu pou raminneu à l’granche D'sireu eu l’carrée toute
+                    crue.</p>
+                <p>
+                    <lb/>D'sireu s’a assis d’sus l’timon, sans son d’ton.</p>
+                <dateline>
+                    <lb/>20 d'a.oût eud 1929</dateline>
+                <p>
+                    <lb/>Eul tchureu a v’nu beuni Maria. On a feut n' champe mortuaire dins l’plache
+                    de d’vant eu mis in <lb/>crêpe à l' porte. Leus battantes sont closes. I n’a
+                    neu oü d’bal ou villache, el quinze d’aout. Eul glas <lb/>avoit sonneu à six
+                    heures eu tout l’monte a soü que ch'toit pasque Maria eul finme D'sireu toit
+                    <lb/>morte.</p>
+                <p>
+                    <lb/>I s' dèlaminte, eul tchureu, quand i vint beuni Maria. Pou D'sireu eu leus
+                    trois afants sans mére, dins <lb/>n'cinsse....</p>
+                <p>
+                    <lb/>Eulle eut là, d’sous in drap in broderie inglèse.</p>
+                <p>
+                    <lb/>Ghislaine a v'nu l'laveu, l’arringié. Eulle a mis d’sus l'tape de nuite in
+                    candelié eu trois blanques <lb/>roses de s'gardin.</p>
+                <p>
+                    <lb/>Ch'eut toudi Ghislaine qui arrinche leus morts, ou villache.</p>
+                <pb n="Picard_Concours_2020_4_p4.png"/>
+                <p>
+                    <lb/>Eul tchureu feut l’tour dou lite aveu l’euwe bènite, eu apriès i s’in va
+                    s’assire à l’plache qu’on s’tint.</p>
+                <p>
+                    <lb/>Là, i ravise D’sireu in plein visache, eu li dit que l’bon Diè l’a puni,
+                    pasqu' i a onsu moissoneu in <lb/>quinze d’a out putôt que d' daleu à messe
+                    honoreu eule sainte Vièrche.</p>
+                <p>
+                    <lb/>D'sireu n'reupond neu ou tchureu. I li leille dire eul sièrviche eul
+                    lind'main, qu'euche qu'i aroit feu <lb/>d’aute?</p>
+                <p>
+                    <lb/>Meus i s'jure beu qu' leus afans n' front neu leu comminion ou villache,
+                    qu'i dira avec eusses à <lb/>Tournai.</p>
+                <p>
+                    <lb/>Eul tchureu avoit dit cha, que l’bon Diè l’avoit puni, d' vant leus trois
+                    afans qui n’avuintent pus <lb/>d’viseu, pus jué, d’puis qu' leu mére toit
+                    morte. Eule pus grande tenoit l'peutite dins seus bras, jou <lb/>eu nuite.</p>
+                <p>
+                    <lb/>Eulle avoit feut deul soupe, eutou, pasqu’i folloit beu qu’i minjichtent.
+                    Eulle savoit commint qu’on <lb/>feut deul soupe, eus man Maria li avoit
+                    appris...</p>
+                <p>
+                    <lb/>Eus frére l’avoit assisteu a tcheulli leus pois. I leus avoit eucosseus
+                    aveu li.</p>
+                <dateline>
+                    <lb/>Eul 21 d’a.oût eud 1929</dateline>
+                <p>
+                    <lb/>Eule cinsse D’sireu eut lon d' l’eugliche, meus bramint deus gins dou
+                    villache ont vnu à pied tchè <lb/>Maria in patriant.</p>
+                <p>
+                    <lb/>Ch' toit n' grosse fin me, Maria, i-a follu six hommes pou porteu
+                    l'lusiau.</p>
+                <p>
+                    <lb/>D'sireu leus a suis sans braire, aveu leus deux pus grands afans pa
+                    l’main.</p>
+                <p>
+                    <lb/>L'eugliche toit pleine.</p>
+                <p>
+                    <lb/>Bramint deus gins ont d’vu d' moreu d’sus l'parvis. I fjoit caud.</p>
+                <p>
+                    <lb/>Oussi, quand l'sièrviche a teu fini, qu'Maria toit d’vins l'trô que
+                    l'fossier avoit feut à l'chemintière <lb/>d'rrière l’eugliche, leus hommes
+                    ont habille teu in boire eune ou cabareut, almon Marthe, d’sus <lb/>I'plache....
+                    tcheu volé ?</p>
+                <p>
+                    <lb/>Ou matin dou sièrviche, Polline avoit butchié à l'porte D'sireu in
+                    braiyant, aveu Gédéon qui t'noit s'<lb/>casquette à s’main sans reu dire.</p>
+                <p>
+                    <lb/>Beu seur, i savuintent qu'Maria leu fille toit morte, meus i n’avuintent
+                    neu rindu visite.</p>
+                <p>
+                    <lb/>Leyeu l'petit afant aveu mi pindant l’sièrviche, qu’eulle avoit dit
+                    Polline.</p>
+                <p>
+                    <lb/>Adon, eulle toit d’meurée aveu l’afant almon Maria eu D’sireu. Aveu s'
+                    petit-afant, qu’eule ne <lb/>connichoit neu, ni ch'ti lal, (?????) ni leus deus
+                    autes...</p>
+                <p>
+                    <lb/>A l’heure dou din neu, d’vant que l’sièrviche fuche fini, eulle avoit
+                    ralleu à s’méson aveu l’afant. <lb/>Gédéon l’avoit pris d’sus s'
+                    n’eucou.</p>
+                <pb n="Picard_Concours_2020_4_p5.png"/>
+                <dateline><lb/>27 d’a.oût eud 1929</dateline>
+                <p>
+                    <lb/>Reun-à fé : ch' n’eut neu l’tout d’braire.</p>
+                <p>
+                    <lb/>Leus vaques, i faut leus traire. Eul burre, i faut l’batte.</p>
+                <p>
+                    <lb/>Adon, Polline eu Gédéon, eul soir de l’intièrmint, in ramin.nant l’petit
+                    afant, i ont dit à D’sireu qui <lb/>tuin'ntent là pou l’assisteu...</p>
+                <p>
+                    <lb/>D'sireu a dit ouè, queuche qu’i aroit feut d’aute ?</p>
+                <p>
+                    <lb/>Gédéon eut mort in an apri.ès Maria, de chagrin, qu’on a dit.</p>
+                <p>
+                    <lb/>Eu D'sireu a vi aveu Polline pindant pus d’vingt ans.</p>
+                <p>
+                    <lb/>Eulle veyoit volintiers l’garchon, eulle le wattoit, meus leus deux
+                    filles,eulles devuintent rouleu !</p>
+                <p>
+                    <lb/>R'neuti, bwer, poli, tcheulli leus pronnes, leus puns, leus poires, sièrvi
+                    dou cafeu à leus clients ou lè <lb/>eu ou burre.</p>
+                <p>
+                    <lb/>Eule pus grande deus filles aroit beu volu ête institutrice comme soeur
+                    Athanase qui li fjoit l’eucole</p>
+                <p>
+                    <lb/>eu qui avoit dit à D'sireu qu’eulle in toit capape.</p>
+                <p>
+                    <lb/>Meus Polline n’a neu volu eu D'sireu n’a reun-eu à dire.</p>
+                <p>
+                    <lb/>Ch'toit Polline maîte...</p>
+                <p>
+                    <lb/>A quatorze ans, fini, l'eucole, pou l’pus grande deus filles, eu pou leus
+                    autes eutou.</p>
+                <p>
+                    <lb/>D'sireu li d’visoit l’moins possipe, à Polline, meus i vivoit aveu li.</p>
+                <p>
+                    <lb/>Eulle apotajoit beu leus trois afans, eu fjoit deul tarte tous leus
+                    diminches.</p>
+                <p>
+                    <lb/>Euch toit dija cha...</p>
+                <p>
+                    <lb/>D'sireu n' s' a jinmais r’marieu.</p>
+                <p>
+                    <lb/>Eu i n’a jinmais soù chu qui-avoit garchineu leu puche, à Maria eu à
+                    li.</p>
+            </div>
+            <div xml:lang="met-fr">
+                <pb n="Picard_Concours_2020_4_p6.png"/>
+                <fw type="numbering"><lb/>N°4</fw>
+                <head><lb/>Le puits</head>
+                <dateline><lb/>15 avril 1929</dateline>
+                <p><lb/>La Lune fait luire l’eau du puits, le puits de la ferme voisine.</p>
+                <p>
+                    <lb/>Il doit être quatre heures du matin. Le coq n’a pas encore chanté.</p>
+                <p>
+                    <lb/>Tout le monde dort, chez Appoline, une vieille fermière.</p>
+                <p>
+                    <lb/>Dans la ferme voisine aussi, tout le monde dort.</p>
+                <p>
+                    <lb/>Alors, Appoline se lève sans éveiller Gédéon, son mari.</p>
+                <p>
+                    <lb/>Elle enfile son tablier sale au-dessus de sa robe de nuit, prend un seau de
+                    bois, une corde.</p>
+                <p>
+                    <lb/>Elle traverse la cour des voisins, lève le lourd couvercle de la fosse à
+                    purin, doucement, pour que <lb/>personne ne l’entende, et surtout pas
+                    Gédéon.</p>
+                <p>
+                    <lb/>Elle laisse descendre le seau dans la fosse, le remplit de purin et le
+                    remonte avec la corde.</p>
+                <p>
+                    <lb/>Elle s'approche du puits des voisins et jette dedans le seau de purin.</p>
+                <p>
+                    <lb/>Elle rentre vite chez elle, rince le seau à la pompe, lave avec du savon
+                    noir ses mains qui sentent le <lb/>purin et s’en va se recoucher auprès de
+                    Gédéon qui n’a pas bougé du tout et qui ronfle.</p>
+                <p>
+                    <lb/>Ainsi, Désiré et Maria n’auront plus d’eau, se dit tout bas Appoline à
+                    elle-même, en se recouchant <lb/>près de Gédéon.</p>
+                <p>
+                    <lb/>Maria, c’est pourtant la propre fille d’Appoline, la seule enfant qu’elle
+                    ait eu avec Gédéon.</p>
+                <p>
+                    <lb/>Mais elle ne peut pas la voir. Elle n’a jamais pu la voir. C’est un fils
+                    qu’il lui fallait. Elle l’a dit et <lb/>répété à Maria, qui a toujours été
+                    pour sa mère la dernière pomme de terre des cent kilos.</p>
+                <p>
+                    <lb/>Peut-être que sans Gédéon, Maria serait morte, parce que sa mère ne
+                    pouvait pas la voir, et le lui <lb/>disait, même.</p>
+                <p>
+                    <lb/>Heureusement, Maria s'est mariée jeune, avec Désiré, un fermier du
+                    village.</p>
+                <p>
+                    <lb/>Bon débarras, je préfère ses talons à ses pointes, dit Appoline.</p>
+                <p>
+                    <lb/>Et Maria et Désiré se sont installés dans la ferme voisine, là où se
+                    trouvaient leurs terres.</p>
+                <p>
+                    <lb/>Hier, elles se sont encore disputées comme des chiens, Appoline et Maria,
+                    soi-disant que Maria était <lb/>venue lui voler des œufs au poulailler.</p>
+                <p>
+                    <lb/>Alors, ni une ni deux, elle est allée la nuit jeter du purin dans l’eau du
+                    puits, sans rien dire à Gédéon <lb/>qui aurait battu sa femme, s’il l’avait
+                    su, parce que lui, il aimait sa fille.</p>
+                <p>
+                    <lb/>Maintenant, voilà que Désiré et Maria étaient obligés d’aller pomper
+                    l’eau à la ferme de Jean du <lb/>Cousse, à deux cents mètres de là, de la
+                    mettre dans une tine attelée à leur cheval Bella, et de <lb/>ramener la tine
+                    dans la cour de la ferme.</p>
+                <pb n="Picard_Concours_2020_4_p7.png"/>
+                <p>
+                    <lb/>Et n’allez pas penser que Jean du Cousse la leur donnait pour rien, l’eau.
+                    Plus avare que lui, vous ne <lb/>pouvez pas trouver : chaque mois, il venait
+                    faire son compte avec Désiré et Maria.</p>
+                <p>
+                    <lb/>C’était une fameuse déconvenue, parce que dans une ferme, il en faut
+                    beaucoup. de l’eau, pour <lb/>battre le beurre, pour faire la soupe, pour
+                    lessiver, et surtout pour les bêtes.</p>
+                <p>
+                    <lb/>Appoline voyait Désiré et Maria passer sous ses fenêtres avec les seaux
+                    qu’ils remplissaient à la <lb/>tine, et elle riait « plein son ventre »(à
+                    gorge déployée).</p>
+                <dateline>
+                    <lb/>15 août 1929</dateline>
+                <p>
+                    <lb/>Vite, il est temps de rentrer la moisson avant qu’il ne pleuve.</p>
+                <p>
+                    <lb/>Le dix août déjà, le blé était « à crochets » (mûr), vu qu’il
+                    n’avait pas plu depuis quelques semaines. <lb/>et il était grand temps de
+                    moissonner à la faucille, de lier les gerbes avec de la paille de seigle et de
+                    <lb/>les assembler debout l’une contre l’autre. « Mettre en ètoques »)</p>
+                <p>
+                    <lb/>Le baromètre descend, il va pleuvoir. Rien à faire, il faut travailler,
+                    même si c’est jour de fête au <lb/>village.</p>
+                <p>
+                    <lb/>Le bal de la ducasse, ce ne sera pas pour aujourd’hui, femme : il nous faut
+                    vite rentrer le blé dans la <lb/>grange.</p>
+                <p>
+                    <lb/>Les trois enfants de Désiré et Maria jouent au bord du champ dans les
+                    chaumes.</p>
+                <p>
+                    <lb/>Trois enfants, une fille de huit ans, un garçon de six, et une autre fille
+                    de deux ans qui elle s’est <lb/>endormie étendue sur une gerbe de blé, à
+                    l’ombre.</p>
+                <p>
+                    <lb/>Les deux plus grands mangent des mûres et chassent les papillons.</p>
+                <p>
+                    <lb/>Désiré fait la charretée, et c’est Maria qui est en haut du char.</p>
+                <p>
+                    <lb/>Désiré lui tend les gerbes qu’on mettra dans la grange en attendant que
+                    la machine à battre vienne <lb/>avec une bande de Flamands battre le grain
+                    qu’on emmènera au meunier.</p>
+                <p>
+                    <lb/>Désiré a mis des hausses au char.</p>
+                <p>
+                    <lb/>Il nous faudrait faire deux voyages, l’homme. La charretée est déjà trop
+                    haute et nous n’avons pas <lb/>encore fini, dit Maria.</p>
+                <p>
+                    <lb/>Bah! Ça va aller, dit Désiré en regardant les nuages menaçants...</p>
+                <p>
+                    <lb/>Je vais lier les gerbes avec un comble, et vous vous tiendrez à la
+                    corde.</p>
+                <p>
+                    <lb/>Maria ne dit plus rien. Elle aussi, elle regarde les nuages menaçants,
+                    tout en prenant les gerbes <lb/>qu'elle a de plus en plus de mal à saisir,
+                    même si Désiré lève sa fourche aussi haut qu’il le peut.</p>
+                <p>
+                    <lb/>La charretée est faite, fem eux,me ! Vite, les enfants !</p>
+                <p>
+                    <lb/>Les deux chevaux, ont bien du mal à remonter le chemin pour rentrer à la
+                    ferme. Ils s’accrochent aux<pb n="Picard_Concours_2020_4_p8.png"/>
+                    <lb/>pavés avec leurs sabots, et leur dos est blanc d’écume.</p>
+                <p>
+                    <lb/>Mais le pire, c’est quand le chemin descend.</p>
+                <p>
+                    <lb/>La charretée trop lourde les entraîne, Désiré a beau freiner ! Voilà
+                    qu’ils se mettent à courir, les <lb/>chevaux ! Maria crie d’en haut du char. Un
+                    cahot lui fait lâcher la corde.</p>
+                <p>
+                    <lb/>Maria tombe la tête la première sur le timon.</p>
+                <p>
+                    <lb/>Désiré à beau se démener et faire s’arrêter les chevaux.</p>
+                <p>
+                    <lb/>Les enfants qui suivent à pied, la plus petite dans une carriole,
+                    accourent près de leur mère: elle est <lb/>morte.</p>
+                <p>
+                    <lb/>Marcel, qui a tout vu de son jardin, va vite à vélo chercher le docteur
+                    Dedessuslesmoustier.</p>
+                <p>
+                    <lb/>Quand il arrive une heure plus tard, la pluie s’est mise à tomber.</p>
+                <p>
+                    <lb/>Gilberte, la femme de Marcel, a fait rentrer chez elle les trois enfants.
+                    Elle s’apprêtait à aller au bal <lb/>avec Marcel, et au lieu de cela, elle
+                    tient les trois enfants sur ses genoux et pleure avec eux.</p>
+                <p>
+                    <lb/>Le docteur Dedessuslesmoustier dit à Désiré resté à genoux près de
+                    Maria qu’il n’y a plus rien <lb/>à faire.</p>
+                <p>
+                    <lb/>Il emmène dans sa voiture jusqu’à la ferme Maria morte et les trois
+                    enfants sans mère.</p>
+                <p>
+                    <lb/>Marcel prend en charge l’attelage pour ramener à la grange de Désiré la
+                    charretée trempée de pluie.</p>
+                <p>
+                    <lb/>Désiré s’est assis sur le timon, sans mot dire (« sans son de ton »).</p>
+                <dateline>
+                    <lb/>20 août 1929</dateline>
+                <p>
+                    <lb/>Le curé est venu bénir Maria. On a fait une chambre mortuaire dans la «
+                    pièce de devant » et mis un <lb/>crêpe à la porte. Les volets sont fermés.
+                    Il n’y a pas eu de bal au village, ce 15 août. Le glas a sonné <lb/>à six
+                    heures et tout le monde a su que c’était parce que Maria, la femme de Désiré,
+                    était morte.</p>
+                <p>
+                    <lb/>Il se lamente, le curé, quand il vient bénir Maria. Pour Désiré, et les
+                    trois enfants orphelins, dans <lb/>une ferme...</p>
+                <p>
+                    <lb/>Elle est là, sous un drap en broderie anglaise.</p>
+                <p>
+                    <lb/>Ghislaine est venue la laver, l’arranger. Elle a déposé sur la table de
+                    nuit un chandelier et trois roses <lb/>blanches de son jardin.</p>
+                <p>
+                    <lb/>Le curé fait le tour du lit avec de l’eau bénite, et après il va
+                    s’asseoir dans la pièce où l’on vit <lb/>habituellement (« la pièce où l’on
+                    se tient »). Là, il regarde Désiré en plein visage et lui dit que le bon</p>
+                <p>
+                    <lb/>Dieu l’a puni parce qu’il a osé moissonner le 15 août plutôt que d’aller
+                    honorer la sainte Vierge.</p>
+                <p>
+                    <lb/>Désiré ne répond pas au curé. Il le laissera célébrer les
+                    funérailles le lendemain, que voulez-vous <lb/>qu’il ait fait d’autre ?</p>
+                <p>
+                    <lb/>Mais il se jure bien que les enfants ne feront pas leur communion au
+                    village, qu’il ira avec eux à <lb/>Tournai.</p>
+                <pb n="Picard_Concours_2020_4_p9.png"/>
+                <p>
+                    <lb/>Le curé avait dit cela, que le bon Dieu l’avait puni, devant les trois
+                    enfants qui ne parlaient plus, ne <lb/>jouaient plus, depuis que leur mère
+                    était morte. La plus grande gardait la plus petite dans ses bras <lb/>jour et
+                    nuit.</p>
+                <p>
+                    <lb/>Elle avait fait de la soupe, aussi, parce qu’il fallait bien qu’ils
+                    mangent. Elle savait comment faire de <lb/>la soupe, sa maman Maria le lui avait
+                    appris. Son frère l’avait aidée à cueillir les pois. Il les avait
+                    <lb/>écossés avec elle.</p>
+                <dateline>
+                    <lb/>Le 21 août 1929</dateline>
+                <p>
+                    <lb/>La ferme de Désiré est loin de l’église, mais beaucoup de gens du
+                    village sont venus chercher Maria <lb/>en priant.</p>
+                <p>
+                    <lb/>C'était une grosse femme, Maria; il a fallu six hommes pour porter le
+                    cercueil.</p>
+                <p>
+                    <lb/>Désiré les a suivis sans pleurer, tenant les deux plus grands enfants par
+                    la main.</p>
+                <p>
+                    <lb/>L’église était pleine.</p>
+                <p>
+                    <lb/>Beaucoup de gens ont dû rester sur le parvis. Il faisait chaud. Aussi, une
+                    fois les funérailles <lb/>célébrées, quand Maria fut dans le trou que le
+                    fossoyeur avait creusé au cimetière derrière l’église, <lb/>les hommes sont
+                    vite allés boire au cabaret, chez Marthe, sur la place... que voulez-vous ?</p>
+                <p>
+                    <lb/>Le matin des funérailles, Appoline était venue frapper à la porte de
+                    Désiré en pleurant, avec Gédéon <lb/>qui tenait sa casquette à la main,
+                    sans rien dire.</p>
+                <p>
+                    <lb/>Bien sûr, ils savaient que leur fille était morte, mais ils n’étaient
+                    pas allés « rendre visite ».</p>
+                <p>
+                    <lb/>Laissez le petit enfant avec moi pendant les funérailles, avait dit
+                    Appoline.</p>
+                <p>
+                    <lb/>Alors, elle était restée avec l’enfant chez Maria et Désiré. Avec sa
+                    petite-fille, qu’elle ne connaissait <lb/>pas. Ni celle-là, ni les deux autres
+                    enfants.</p>
+                <p>
+                    <lb/>A l’heure du dîner, avant que les funérailles ne soient terminées, elle
+                    était retournée chez elle avec la <lb/>petite. Gédéon l’avait gardée sur
+                    ses genoux.</p>
+                <dateline><lb/>27 août 1929</dateline>
+                <p>
+                    <lb/>Rien à faire : il ne suffit pas de pleurer.</p>
+                <p>
+                    <lb/>Les vaches, il faut les traire. Le beurre, il faut le battre.</p>
+                <p>
+                    <lb/>Alors, Appoline et Gédéon, le soir de l’enterrement, en ramenant la
+                    petite, avaient dit à Désiré qu’ils <lb/>étaient là pour l’aider.</p>
+                <p>
+                    <lb/>Désiré a accepté. Qu’aurait-il bien fait d’autre ?</p>
+                <p>
+                    <lb/>Gédéon est mort un an après Maria. De chagrin, a-t-on dit.</p>
+                <pb n="Picard_Concours_2020_4_p10.png"/>
+                <p>
+                    <lb/>Et Désiré a vecu avec Appoline pendant plus de vingt ans.</p>
+                <p>
+                    <lb/>Elle aimait beaucoup le garçon, elle le gâtait, mais les deux filles, au
+                    travail! (« elles devaient <lb/>rouler »). Nettoyer, lessiver, repasser,
+                    cueillir les prunes, les pommes, les poires, servir du café aux <lb/>clients
+                    qui venaient acheter du beurre et du lait.</p>
+                <p>
+                    <lb/>La plus grande des filles aurait aimé devenir institutrice, comme sœur
+                    Athanase, la maîtresse <lb/>d’école, qui avait dit à Désiré qu’elle en
+                    était capable.</p>
+                <p>
+                    <lb/>Mais Appoline n’avait pas voulu et Désiré n’a rien eu à dire.</p>
+                <p>
+                    <lb/>C’était Appoline, le maître.</p>
+                <p>
+                    <lb/>A quatorze ans, fini, l’école, pour la plus grande des filles, et pour les
+                    autres aussi.</p>
+                <p>
+                    <lb/>Désiré lui parlait le moins possible, à Appoline, mais il vivait avec
+                    elle.</p>
+                <p>
+                    <lb/>Elle cuisinait bien pour les enfants et faisait de la tarte tous les
+                    dimanches.</p>
+                <p>
+                    <lb/>Cétait déjà ça.</p>
+                <p>
+                    <lb/>Désiré ne s'est jamais remarié.</p>
+                <p>
+                    <lb/>Et il n’a jamais su ce qui avait rendu fétide l’eau de leur puits, à
+                    Maria et à lui.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_36</idno>
+                <title type="main"> Férailleu</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jean-Louis, TETART</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Férailleu</title>
+                    <author>Jean-Louis, TETART</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="95">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_36_p1.png"/>
+                <fw type="numbering"><lb/>N°36</fw>
+                <head><lb/>Férailleu</head>
+                <p><lb/>"Core un-ne tole! Tot, pi in o défini por in'hui."<lb/>Mimile Boitacleu i
+                    tape d’zur l’épeule à tiot Jules, ch’tas d’férailles i monte heut. Feura
+                    prinde soin dins<lb/>chés virages. Un-ne dizaine eud’brabants, chonq herses et
+                    quates morcheux d’canadiens, pi un-ne<lb/>quinzaine eud’toles. Un-ne boènne
+                    collecte por un férailleu. Tiot Jules i l’o brélé aveuc un combe
+                    chés<lb/>férailles, pi i sont rintrés.</p>
+                <p><lb/>Point aisé achteure d’ête férailleu. In n'dit meume pu férailleu, in dit
+                    ercycleu. Feut un bac por toute !<lb/>un bac por ch'cuive, un por ch'plomb, un
+                    por ch'l’étain, un bac por chés piles, un por chés batries et pi<lb/>core, et
+                    pi core. Quat' chés normes uropéennes al z’ont d’vnues compliquées, Tiot Mile
+                    i s’a spécialisé.<lb/>In’o pu foait qu’elle ramasse d’eul féraille. Pu rien
+                    d’eute qu’chés vius abistracages agricoles. Dins<lb/>tertoutes chés cinses, i
+                    n’o, au moins, un viu brabant, un-ne vièle ermorque, un-ne vièle herse,
+                    des<lb/>tôles porites, treuées per eul rouille, des vius piquets tortus... du
+                    brin qui treune, qu'chés cinsiers i<lb/>n’ont plus ker à vire.</p>
+                <p><lb/>In’hui, chés cinses al n’ersembent mi pu à chés cinses d’y a vingt'
+                    ennées. Achteure chés cinsiers i<lb/>mettent des fleurs dins des pots in
+                    céramique, pu dins des vius pneus d’tracteur. I z’ont des gazons<lb/>inglais
+                    dins leu cour, pu un mont d’fien pi un tas d’bétrafes ou d’pulpes. Pi chés
+                    masons al sont<lb/>modernes, fin-nes rétuses. Ch’est miu qu’avant. Pusse
+                    vivabe, i n’o mi pu des raques, des bourbes, du<lb/>brin à ses keuchures quat'
+                    in traverse eul cour, foque eul sinteur d’chés roses pi ch’cant
+                    d’chés<lb/>monieus.</p>
+                <p><lb/>Ch'est comme ch'métier d'férailleu. Avant ète feusos un tas aveuc
+                    tertoutes chés misères qui<lb/>trainotent au bord d’chés k’mins, dins chés
+                    masons d’vius au momint d’èche partage ou core aveuc<lb/>des vièles carettes
+                    in panne. Achteure feut détrier, ringer, foaire du “à plache et pi toute".
+                    Ch’est<lb/>conme o qu’Mimile i l’o té obligé des spécialiser. Rien qu'd’el
+                    féraille!</p>
+                <p><lb/>conme tertous chés férailleus d’avant, Mimile i l’o constitué un stock à
+                    m’zure. Suffit d’ène point vinde<lb/>tertoutes chés férailles racatées.
+                    Quat' ète ramène chint tonnes, t’en wardes un-ne. A m’zure, tu foait<lb/>un
+                    tas pi quat' t’arrifes à l’ertraite, t’o foait un tiot pécule, un-ne éparne,
+                    un-ne tiote prime eud' départ<lb/>in ertraite. Mimile Boitacleu i l’o
+                    chinquante huit ans, i c’minche à busier à s’en’ertraite. Core deus
+                    ou<lb/>troès ennées pi hop ! in n’ertraite, eul maouaise sason dins ch’mason
+                    d’Saint-Quintin, eul boènne dins<lb/>sin tiot cabanon in baie d’somme. Sin tiot
+                    cabanon conme i dit, in vrai un tiot appartemint. D’eul<lb/>croésée d’sin
+                    salon, i peut r’bayer ch’port du Hourdel pi sin batieu. Un-ne belle ertraite
+                    qu’i prépare.<lb/>Mais por li mette un tiot molé d’bure dins chés z’épinards
+                    conme in dit, i feura vinde cheul féraille<lb/>wardée edpus quarante
+                    ennées.</p>
+                <p><lb/>Point aisé d’vinde un tas conme o. Por foaire un stock prope, i l’o ringé
+                    chés férailles à troès indroits,<lb/>troès inciennes carrières eud cran,
+                    por point polluer l’vue d’chés gins, bien muchées dins chés terres.<lb/>Por
+                    éviter chés dépôts seuvages, intourées aveuc des hayures. Eul féraille al
+                    est bien muchée, bien in<lb/>tas, prête à ête détiquée, mise dins des
+                    camions, pesée, prête à d’vnir des bieus billets, des liards,
+                    des<lb/>fafiots, d'l’oseille, d’eul fraique... du bénachemint!</p>
+                <p><lb/>Toudis bénache Mimile quat' i vo benner dins l’darenne carrière qu’i
+                    rimplit. Core quat' ou chonq<lb/>bennes pi al s’ra pleine. Feura cacher un
+                    acateu. I l’o un tiot molé du ma à s’panche quat' i busie qu’eul<lb/>féraille
+                    à n’servira wère qu’à foaire des tôles ou core des grillages. Li i
+                    préférero qu’al serve à foaire<lb/>chés poutrelles d’un-ne usine, chés
+                    piliers d’un pont ou core un-ne gayante estatue conme el libarté à<pb
+                        n="Picard_Concours_2020_36_p2.png"/><lb/>Niouillorque. Ch’est sin ref, es
+                    s’n’espoir, qh'chés férailles à li al servent à quit'cose ed bieu, d’utile
+                    ou<lb/>core eud’pretigieus. I l’in rèfe avant d’s’indormir, i l’in rèfe core
+                    quat'i s’réveille. Il in rèfe quat i l’est<lb/>assis à coté d’tiot lules
+                    dins s’camion. Il in rèfe quat’il est aveuc chés ouvriers dins s’forge. Eul
+                    forge,<lb/>ch’est s’meillleure idée, eul féraille récupérée al est fondue
+                    pi al ersort in piquet d’pature ou core in<lb/>tige à béton. Un-ne tiote
+                    industrie qua l’i permet d’vinde eul féraille un molé pu kère pi d’foaire
+                    ouvrer<lb/>deus parsonnes. Pierre, ch’forgeu pi Lili eul comptabe. Ch’est elle
+                    qu’al organise chés tornées<lb/>d’ramasse eud féraille, qu’al foait eul
+                    comptabilité pi qu’al prind tertous chés appels d’èche
+                    téléphone.<lb/>Mimile i n’o wère ker ch’l’apparel lo, alors l'tiote al prind
+                    toute pi al s’occupe à simplifier l’ouvrache à<lb/>Mimile. Elle pi Pierre i
+                    sont mariés, quat' i partira in ertraite Mimile i yeu laissera l’affoaire conte
+                    un<lb/>loyer por ch'bureau, eul forge pi chés parcs à féraille.</p>
+                <p><lb/>Eul jornée préférée à Mimile, ch’est dimanche. I s’éyeuve un molé pu
+                    tard, pi i vo prinde l’apéritif vers<lb/>11 heures chez Mady. Su l’keup d’un-ne
+                    heure d’ermontée, Mady al freume ch'l’estaminet pi i din’nt<lb/>insanne avant
+                    de foaire prangère dins ch'cosy. Quat' i s’ro in ertraite, Mady al vindra sin
+                    débit pi i<lb/>finiront leu vie insanne. Ch’dimanche lo, apreu ch’boin momint
+                    passé aveuc Mady, avant d’prinde un-<lb/>ne tiote liqueur eud'cassis, i branche
+                    l’radio. Ch’est l’heure d'l’émission à Stéphane Bern. Avant i<lb/>s’occupo
+                    d’chés princesses pi d’chés duchesses, achteure i s’occupe d’chés monumints.
+                    Mimile i l’o<lb/>toudis ju ker à sin keur ch’patrimoine. I l’acoute ch’Berneu
+                    raconter un-ne drole d’affoaire. Chés<lb/>espécialisses i z’ont foait des
+                    analyses al tor Féfel, por vire si chés férailles al vieillissent bien. Eul
+                    tor<lb/>Féfel al est malincampe!</p>
+                <p><lb/>Horreur, el symbole d'eul France, eul tor Féfel, al est prête à ker, à
+                    dérouler, à s'débistraquer, à crouler.<lb/>Al est gramint malate!</p>
+                <p><lb/>I n’o des espécialisses qui z’ont ziuté eul tor Féfel aveuc des
+                    instrumints lectroniques, chés rivets qui<lb/>tiennent chés poutrelles pi
+                    tertous chés piquets i sont fin maqués. Telmint rouillés qu’i sont secs
+                    et<lb/>friabes conme du brin d’maguette. Core tros ou quate ennées, pi cheul
+                    tor Féfel al est berzillée. Aterre<lb/>conme un viu mont d’piquets eud'
+                    pature.<lb/>Ch’Berneu i l’o ses yus qui braitent. I l’o sin cravate eud'travers.
+                    I l'est raflaqui, ramonchlé d’zur sin<lb/>cadot. ! sougloute. I r’nife. I l’est
+                    à l’veille eud' bernaouter conme in dit achteure. "i feut foaire<lb/>quit'kose
+                    mes gins" qu’i dit ch’Berneu. Si chaque français i donne un tiot peu, in pourra
+                    racater des<lb/>rivets neus pi les z’ermette al plache d’chés vius!"</p>
+                <p><lb/>Dès l'lan' main tertous chés journaleux, chés baveux pi core chés
+                    éditorialisses, chés consultants pichés<lb/>analyseus d’èche payis i donnent
+                    leu avis. Por el z’uns i feuro un-ne commission por vire si tertous
+                    chés<lb/>rivets i sont maqués ou si in peut n’in seuver por warder
+                    ch’patrimoine. Por el z'eutes, feut tout canger<lb/>tertous chés rivets pi
+                    ouvrir un musée pour amoutrer chés vius rivets pi l'danger d’eul pollution.
+                    Por<lb/>core ed’z’eutes, ch’est l’feute d’èche gouvernemint d’achteure. Por
+                    ed’zeutes, ch’est l’feute d’èche<lb/>gouvernemint d’avant. A n’esséro nin
+                    passé conme cha du timps d’èche Général ou core d’avant<lb/>ch’marché
+                    commun. I n’o meume qui z’on dit qu’ch’éto d’el feute eud' chés inglais,
+                    pasqu'i z’avotent<lb/>quitté ch'marché commun... qué brin ! qué zizanie dins
+                    ch'payis.</p>
+                <p><lb/>Pi chés manifestations al z’ont kminché. Aveuc des récapettes sans
+                    manches bleuses, chés gins i z’ont<lb/>défilé dins chés rues. I n’pouvoitent
+                    nin mette des tiotes purettes ganes ou rouches, ch’a avo d’ja été<lb/>foait.
+                    Tertous habillés conme chés ouvriers du gaz, i z’ont défilé. Neuf sanm' dis
+                    d’suite ! I n’avo pu<lb/>parsonne dins chés magasins, ch’léconomie al éto à
+                    rien.</p>
+                <p><lb/>Ch'perzidint pi sin grand mannequin d'prumier beudet i s’sont rincontrés
+                    avant ch'conseil eud' chés<lb/>beudets:</p>
+                <pb n="Picard_Concours_2020_36_p3.png"/>
+                <p><lb/>"l feut qu’in répare eul tor Féfel ! I feut foaire rintrer chés gins dins
+                    chés magasins, impécher chés<lb/>grêves, calmer chés gins. Combien qu’i
+                    resse dins chés caisses d’euch'payis ? qui l’o d’mindé<lb/>ch'Perzidint.</p>
+                <p><lb/>Ch'manequin i l'o dégratté à s'tiète i l'o cafouilé dins s'berbe, i l'o
+                    ermis droit sin nœud d'cravate...<lb/>pi por définir i l’o gratté dins sin
+                    nez. Ch’Perzidint i l’o comprind. Ch’est point core d’main qu’i s’ra
+                    aidé<lb/>por li erdrécher s’payis. I l'o résolu d’parler al tévévision por
+                    li ermette ch'payis in orde.</p>
+                <p><lb/>Eul lan main à un-ne heure d’ermontée i s’o invité à ch’jornal
+                    tévévisé eud Jean-Pierre Pastisse. Malgré<lb/>sin nom, Pastisse i l’est
+                    d’Anmiens conme ch’Perzidint. I s’sont connus à ch’lycée d’Anmiens,
+                    quat'eul<lb/>fame d’èche Perzidint al ouvro core. Pi Pastisse i l’o d’v'nu chef
+                    d’èche jornal tévévisé d'Téheffe 1. Pi<lb/>Manu qui s’immerdo dins un
+                    bureau à chés banques, i s’o foait imbaucher per chés frinçais à
+                    l’Elysée.</p>
+                <p><lb/>A Téheffe 1, ch'Perzidint i l’o spliqué qu’chés rivets fin porites,
+                    ch’éto l’feute eud' parsonne. Qu'i fallo<lb/>les canger in baissant chés
+                    impôts pi in respectant chel planète. Qu’i l’avo obtenu, in téléphonant
+                    à<lb/>granmère Merkel, un-ne subvintion d’èche marché commun. Pi qu’in allo
+                    treuver un industriel capabe<lb/>eud' foaire des rivets aveuc d’el féraille
+                    écologique.</p>
+                <p><lb/>En intindant ch'Perzidint, Mimile Boitacleu i s’o dit “Si j’avo su, j’erro
+                    voté por li ! ej m’in vo i foaire un-<lb/>ne lette por li proposer min tas
+                    d’vius brabants pi d’vius canadiens". Lili al vo li foaire un-ne lette,
+                    pi<lb/>por li ête certain qu’al arrife à ch’Perzidint, i l’iro l’porter li
+                    meume.</p>
+                <p><lb/>Eul lan main au preume, i l’o prind ch'train pi i l’o té à l’Elysée.
+                    Quat' i l’o iu spliqué à ch'wardien<lb/>s’n’affoaire, il l’o iu l’surprise
+                    d’ête accueilli per un escrétaire, habillé in pingouin avec un-ne
+                    gran-ne<lb/>récapette noère conme chés pleumes d’un-ne cornèlle.
+                    Ch'Perzidint, quat'i l’o lancé ch’l’idée d’un-ne<lb/>féraille écologique, i
+                    s’o foait foute d’es'gamelle per tertous chés conseillers à li, chés
+                    dépités pi core<lb/>chés journaleus. Mimile i v'no l’seuver ! Eul timps qu’no
+                    Perzidint i l’infile s’maronne pi qui mette sin<lb/>cravate, pi Mimile I s’o
+                    r’treuvé dins l’bureau d’èche Perzidint. Apreu avoir spliqué qu’i l’avo
+                    assez<lb/>d’féraille por li foaire chés rivets, apreu avoir amoutré un-ne
+                    photo d’el forge pi d’tiot Jules aveuc Pierre<lb/>in train d’berziller un
+                    brabant por foaire des piquets d’pature. Ch’Perzidint i l’o posé des questions
+                    pi i<lb/>l’o prind l’décision, chés rivets d’eul tor Féfel i s’ront forgés
+                    in Picardie dins chés industries “Mimile<lb/>Boitacleu", aveuc un-ne méthode
+                    écologique ultra sécrète. A partir d’edmain, quate companies<lb/>eud cadoreux
+                    i s’ront affectés à chel protection d’l’industrie sinsibe à Mimile.</p>
+                <p><lb/>Mimile i l’o té invité à mier per ch’Perzidint aveuc chonq conseillers
+                    espécials pi Granmère Birguitte. I<lb/>z’ont mié un bleuse loïen, sou qu’in
+                    appelle un “cordon bleu", ch’est un bout d’vièle glaine aveuc du<lb/>jambon pi
+                    del “vaque qui braie" cuit dins del sciure. Du mié d’achteure, cho rimpli un-ne
+                    dent creuse,<lb/>nin un boyeu vide, ch’l’erpas i l’o servi à Mimile à spliquer
+                    sin ouvrage. Récupérer chés férailles, les<lb/>détrier pi les mette dins
+                    sin four pour n’in foaire des rivets. Chés conseillers i z’ont acouté pi i
+                    z’ont<lb/>prind des notes d’zur des tiotes tévévisions, des “tablettes".
+                    Ch'Perzidint i l’o mié sin bleuse loïen<lb/>conme un goulafe, pi ch'dessert i
+                    l’o arrifé. Un-ne rabote. Un vrai dessert picard !“ch’est lo
+                    qu’un-ne<lb/>picarde à l’Elysée cho s’ermarque qu’i l’o busié Mimile. I l’o
+                    raflaté Tante Birguitte in y disant qu’èche<lb/>dessert i l’éto fin bon. Pi
+                    apreu sin café avalé, Mimile i l’o dit adé à ch’Perzidint pi à tante
+                    Birguitte.<lb/>Sitôt dins chés rues, i l’o traché un restaurant por li mié
+                    à s’faim. Damnation! A ch’lheure lo i resto<lb/>foque un mac-brin-ald ouvert. I
+                    l'o té obligé d’mier un étouffe-picard aveuc del mayonnaise<lb/>synthétique
+                    pi du pain chimique. Décidémint, in est gramint miu in Picardie!</p>
+                <p><lb/>"Vas-y min tiot Pierre! Saque ed-dins". Chés rivets i keuchent dins un bac
+                    in bo. Quat' eul machine a<lb/>n'n'o décopé un mille, al s’arrête pi Pierre i
+                    cange eud caisse. Tiot Jules i freume eul caisse pleine pi i<lb/>l’pose d’zur
+                    un-ne palette. Quat' i n’o huit caisses d’zur eul palette, in met un-ne palette
+                    neuve. Chés<lb/>palettes i z’ont té foaite aveuc ch'bo d'el cartrie à
+                    Nonosse. Al éto berzillée pi Nonosse i n'feso rien<pb
+                        n="Picard_Concours_2020_36_p4.png"/><lb/>d’èche bo, Mimile i o racaté por
+                    presqu’errien pi i l’o d’mindé à ch’père Deverly d’y foaire des
+                    palettes<lb/>pi des caisses aveuc... Core un écologeste. Mimile i vo pouvoir
+                    foaire des discours écologiques à chés<lb/>O.N.U. conme eul tiote Gretchen
+                    Turnberge. Chel tiote pouillette qu’al ermonte chés bertelles
+                    à<lb/>ch'Perzidint d’ché Amériques, pi qu’al ingueule chés beudets
+                    d’commissaires uropéeens. Achteure<lb/>l’affoaire des rivets del tor Féfel, al
+                    o d’venu internationale, pi Gretchen al o passé drière Mimile dins<lb/>chés
+                    gazettes.</p>
+                <p><lb/>Chés thallandais i z'ont v'nus vire Mimile por canger chés rivets d’êche
+                    pont eud'la rivière Kwai qui<lb/>c'minchent à rouiller pi à s’défiquer. I
+                    n’fero nin qu’el pu célèbe pont d’Asie i keuche dins l’ieu.<lb/>Ch'gouverneu
+                    eud' l’Aillowoua, eud' l’lowa qu’in dit à chés Amérique, i l’o v’nu vire
+                    Mimile por li<lb/>d’minder d’foaire chés rivets por réparer chés ponts
+                    couverts d’èche comté d’Madison, d’où qu’i z’ont<lb/>torné ch’film d’èche
+                    kémin d’Madison, aveuc Clint Eastwood et Méryl Streep. Pi core, pi core.
+                    Ch’est<lb/>simpe, i n’quitte pu sin cravate tellemint i n’o d’visiteus qui
+                    vienne’nt vire chés industries Boitacleu. Pi<lb/>conme à chaque visite,
+                    ch’maire i vient foaire un discours, i n’inyeuve mi pu s’n’écharpe, i dort
+                    aveuc.</p>
+                <p><lb/>Mimile i veut du calme. Quat' i l’erra défini d’servir un million
+                    chinquante mille huit chint quarante sis<lb/>rivets d’eul tor Féfel. ! vo
+                    prinde s’n’ertraite. Pierre, Lili pi tiot Jules i vont ahanser tout l’resse. I
+                    z'ont<lb/>d’z'idées à rvinde ! Lili al o meume foait un site d’zur
+                    ch'l’arnitoile. Al vind des vius rivets del tor Féfel !<lb/>dins “'projet
+                    écologique", i fallo tracher un-ne solution d’ercyclage eud'chés vius rivets
+                    porites, Lili al<lb/>I'z'é vind à des collectionneus. "In vindro du brin" qu’i
+                    l’o dit Mimile quat'a yo dit èque 500.000 vius<lb/>rivets i z’étotent
+                    vindus.</p>
+                <p><lb/>Epilogue:</p>
+                <p><lb/>Ch'o foait un-ne dizaine d’ennées qu’Mimile i l’o prind s’n’ertraite. Mady
+                    pi li i z'ont foait conme dit,<lb/>chés maouais timps dins ch’Vermindo, pi
+                    chés bieus jors in baie, au Hourdel. Conme partoute<lb/>ch'matériel i finit
+                    per s’berziller. In’hui, Mimile i répare l’fonçure d’sin batieu. A forche,
+                    ch’fond i l’o<lb/>d’vnu conme un-ne feule d’papier à cigarette.</p>
+                <p><lb/>Mimile i l’o copé un-ne tole épaisse, foait des treus, étalé du pâte à
+                    joint étanche. Achteure i met des<lb/>rivets. Des rivets in aluminium.
+                    l’aluminium ch’a n’rouille point !</p>
+                <p><lb/>Dins s’tiète Mimile i busie “si o Z'avoèmes mis des rivets in aluminium à
+                    chel tor Féfel. I l’erro fallu<lb/>récupérer combien d’boites à conserves
+                    ?"</p>
+                <p><lb/>Mimile i l’escoue s’caouète por li déhuter chés maouaises idées
+                    d’erprinde s'n’ouvrage ! T’imagines<lb/>canger tertous chés rivets d’èche pont
+                    chinois sui l’erlie Hong-Kong pi Macao à chés Chine. Des<lb/>s’maines à
+                    foaire maquer des raviolis à tertous chés chinois... si cho pouvo les guérir
+                    d’èche<lb/>l’inchifernage à vie russe.</p>
+                <p><lb/>Nan nan, quat i l'erra défini d'poser chés rivets à sin batieu, i l'erra
+                    vire chés phoques dins l'baie.</p>
+            </div>
+            <div type="liminal">
+                <pb n="Picard_Concours_2020_36_p5.png"/>
+                <head><lb/>Férailleu</head>
+                <list>
+                    <item><lb/>- Combe:<foreign xml:lang="met-fr"> corde servant à arrimer une
+                            charge.</foreign></item>
+                    <item><lb/>Mont d’fien :<foreign xml:lang="met-fr"> tas de
+                        fumier.</foreign></item>
+                    <item><lb/>Foaire prangère :<foreign xml:lang="met-fr"> faire une sieste, ici
+                            une sieste coquine.</foreign></item>
+                    <item><lb/>Malincampe :<foreign xml:lang="met-fr"> handicapé ou malade
+                            chronique.</foreign></item>
+                    <item><lb/>s'débistraquer :<foreign xml:lang="met-fr"> ici se démanteler, se
+                            déconstruire.</foreign></item>
+                    <item><lb/>Beudet :<foreign xml:lang="met-fr"> ici ministre.</foreign></item>
+                    <item><lb/>-Bleuse loien :<foreign xml:lang="met-fr"> “cordon bleu" (ch'est du
+                            minger d’achteure).</foreign></item>
+                    <item><lb/>Goulafe :<foreign xml:lang="met-fr"> gourmand.</foreign></item>
+                    <item><lb/>Fonçure :<foreign xml:lang="met-fr"> fond d’une remorque ou d’une
+                            benne, ici d’un bateau. Le mot existe en français<lb/>avec une autre
+                            signification.</foreign></item>
+                    <item><lb/>—Inchifernage à vie russe:<foreign xml:lang="met-fr"> maladie
+                            actuelle à virus qui fait tousser dans son coude et se
+                        laver</foreign></item>
+                    <item><lb/>les mains (coronavirus).</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

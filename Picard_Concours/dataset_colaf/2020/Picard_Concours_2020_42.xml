@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_42</idno>
+                <title type="main"> Ch's étrennes</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jean-Robert, GAGNEUIL</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Ch's étrennes</title>
+                    <author>Jean-Robert, GAGNEUIL</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_42_p1.png"/>
+                <fw type="numbering"><lb/>N°42</fw>
+                <head><lb/>Ch's étrennes.</head>
+                <p><lb/>Quond j’étos jon-ne, y'vaot core eune bielle tradition :
+                    ches<lb/>étrennes.</p>
+                <p><lb/>Comme nous fomile alle habitot dins l’même commune et<lb/>quequ'fos même
+                    dins cheule même cité, ch’étot pont dif ficile d’aller<lb/>étrenner Pépère
+                    et Mémère, et pis tous ches mon onques et ches ma<lb/>tantes.</p>
+                <p><lb/>Cha nous f'jot, à pied, eune bielle pourménate, da!</p>
+                <p><lb/>In queumminchot par min mon onque Rooul. In arrivot à s’majon<lb/>tout
+                    indiminchés, pour faire honneur. Mi, j'avos eune bielle morronne<lb/>courte
+                    héritée d’min cousin plus viux qu’mi.. Min mon onque Rooul, y<lb/>n'chuchot
+                    pont delle glache. Cha y'avot donné, à force ed tuter, un<lb/>nez comme eune
+                    penne tierre. In puque, y avot toudis sin vieux béret<lb/>vissé su tchiète à
+                    cousse qu’y avot honte ed sin crâne chauve!</p>
+                <p><lb/>M' ma tonte alle versot du café pour ches femmes. Ches<lb/>hommes, y
+                    s’infilotent eune coupe ed grands pinards. Des<lb/>« chômeurs » qu’y
+                    s’appelottent cha. Après tout cha, min mon onque<lb/>y versot un Wambrechies,
+                    et quind j’dis un...</p>
+                <p><lb/>Après in allot étrenner m’marraine Nicole. Et cha<lb/>r'queuminchot: du
+                    pinard, du café et du Wambrechies et pour mi,<lb/>eune bielle pièche et eune
+                    limonate.</p>
+                <p><lb/>Quand in avot étrenné tout l’famile, min père y berloquot et<lb/>m'mère
+                    alle l’arténot par sin bras.</p>
+                <p><lb/>Arvénus à nous majon. Papo y ballot dins ch’fouteul et y
+                    f'jot<lb/>simblont d’lire Nord-Motin. Au bout d’eune coupe ed minutes,
+                    y<lb/>prénot d’l’avinche su s’nuit et ronflot comme un sonneur.</p>
+                <pb n="Picard_Concours_2020_42_p2.png"/>
+                <p><lb/>Ch'tun bieou souvenir équ' ches étrennes. A ch't’heure, in<lb/>souhaite
+                    cheule bonne année avec des textos. Pus d’pinard, pus<lb/>d'café, pus
+                    d'Wanbrechies... Mais ch'est p'tête pas plus mal, da!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

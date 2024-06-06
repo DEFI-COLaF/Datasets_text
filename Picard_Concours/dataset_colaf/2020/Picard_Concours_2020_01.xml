@@ -1,0 +1,598 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_01</idno>
+                <title type="main"> Ch'viux bertcheu</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jacques, DEFOLIE</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Ch'viux bertcheu</title>
+                    <author>Jacques, DEFOLIE</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_1_p1.png"/>
+                <fw type="numbering"><lb/>N°1</fw>
+                <fw type="numbering"><lb/>1</fw>
+                <head><lb/>Ch'viux bertcheux</head>
+                <p><lb/>I l'est lo, i l'est las... Fatidjé d’ech voéyache qu’i l’o foait pasqu’i
+                    l'falloait... I pouvoait point én' point éte<lb/>lo, ch' jour d’où qu’o
+                    mettoait in terre ech darnier lien qui l’attachoait coére à s' vie
+                    passée...</p>
+                <p><lb/>A l' fin d’el' chérémonie d’ech chinmtiére i l’o dmindé à ein vague
+                    cousin éloégné si i pouvoait l’inmner à<lb/>ch' carrefour, là-heut, dsus
+                    ch' platieu d’où qu'tant ed souv’nirs is s' sont implintés.</p>
+                <p><lb/>Ch' village i l’est tojours à l’meume place. Ein molé in conterbos mais
+                    avuc ches neuvelles moésons, i<lb/>l’arconnoaît rién. Lo, i y avoait eine
+                    pompe d’où qu’i vnoait s' ravitaller in ieu pour l'ferme qu’est coére
+                    là<lb/>heut, à six chints métes ed lo. Eine cinse ed point loin ed quate
+                    chints hectares... L' route qu’alle y minne<lb/>alle est tojours longée par ein
+                    bous ed chaque coté mais i connoaît si bién ches lieux qu’i l'voét,
+                    margré<lb/>l'dinsité ed' ches feulles d’arbes. I sait qu’i vo y aller... A s'
+                    droéte, ed l’eute coté d’el' route d’ech croés’mint<lb/>d’où qu’i s' tient,
+                    ch’est tojours ein camp in jachére d’où qu' sont nés tant ed ses
+                    souv’nirs.</p>
+                <p><lb/>A s' gueuche, dsus ch' qu’étoait par dvant l'granne plache herbeuse ed
+                    Mailly, d’où qu’trônoait eine pompe<lb/>droéte conme ein cierche ed Pâques
+                    avuc sin teuyau flexibe qui pindoait, conme ein grand nez, ch’est
+                    ein<lb/>lotiss’mint ed tchottes moésons. Moésons qu’alles veultent éte
+                    poéyisannes mais qu’alles sont equ des<lb/>cabénes à lapins. Conme dins
+                    granmint ed villages ch' nombe d’habitants o sins doute augminté
+                    avuc<lb/>l’arrivée ed gins qu’is in avoétent marre d’el' ville buzinante avuc
+                    des loéyers ed pus in pus chers. Ichi i y<lb/>o point ed conmerce mais l’ zone
+                    industrielle d’el' ville d’à coté avuc ses deux hypermarchés alle est
+                    lo<lb/>pour ch' principal... Conme o dit “ d’ein coeup d'bagnole os y est...".
+                    D'ech temps d’où qu’i l’étoait à l'<lb/>ferme o déchindoait, eine foés par
+                    s’mainne, avuc l' légére carrette att’lée à Fine, l'jumint ed trot.
+                    Eine<lb/>demi-seing, eine bête fine pis qui n' savoait equ trotter in
+                    pétant...</p>
+                <p><lb/>Ein coeup ed klaxon autoritaire, pis sins doute rageur, l' foait sortir d’es
+                    reuv’rie. Boin, d’accord, i l’est<lb/>plinté au mitan d’ech carrefour pis i
+                    sait equ l’automobilisse l' traite ed viux con mais d’cha i s’in fout...
+                    I<lb/>foait tchéques pos à r'tchulons pis s' met dsus ch' bos-coté mais sin
+                    ergard l’est tojours bratché dsus ch'<lb/>camp ein jachére d’où qu’i l’est
+                    vnu si souvint...</p>
+                <p><lb/>S' reuv’rie alle erprind sin cours pis, d’ein seul coeup, i s’ertreuve
+                    trinsporté des lustes in arriére. Edz'<lb/>images alles défilent dins s'
+                    charvelle pis i s’ervoét conme ein joéne honme ed seize dix-sept ans.
+                    Darriére<lb/>li l' plache alle est vide ed tout batimint, ch' bous l’est moins
+                    touffu pis i l’aperchoét ch' toét d’el' ferme.<lb/>Eine ferme qu’alle porte
+                    ch' nom d’eine victoére ed Napoléon mais point d’ech' "ch' tchout”
+                    conme<lb/>disoait Victor Hugo in dvisant ed Napoléon III. Dvant li, ch' camp
+                    l’est tojours in jachére mais i y o des<lb/>dizainnes ed berbis qu’alles y
+                    broutent. Deux tchiens, ein blanc pis ein noér, ed raches mal définies
+                    mais<lb/>is sont boins dins l' garde d’ech troupieu, tournent à l’intour. I y o
+                    étou eine roulotte à toét rond avuc<lb/>eine tchotte porte dsus ch' coté
+                    incadrée par deux tchottes ferniettes. A mitan assis, à mitan dbout,
+                    dsus<lb/>ein drôle ed siége, i voét ein honme. Ein viel honme à cavieux
+                    gris, barbu ed gris égal’mint avuc ein viux<lb/>feute dvnu sins couleur pis
+                    caboché ed toutes parts. I sait equ si l’honme i s’yeuve i sro invloppé
+                    dins<lb/>eine seurte ed granne cape, eine houppllande putôt, qu’alle vo
+                    l’intourer des pyids à l'tête. I l’intind l'voéx<lb/>d’ech viux qui li dit
+                    d’eine voéx érallée, sourde mais pleinne ed caleur.</p>
+                <p><lb/>-Tu voés, tchout, ch' truc lo ch’est ch' boin moéyin ed point avoér
+                    froéd. Conme cha déchind d’el' tête à<lb/>ches pyids, bién freumé, cha vo
+                    rtnir m' prope caleur autour ed mi...</p>
+                <p><lb/>Joseph l’appeloait "tchout" à l'époque lo. I l’avoait quoé à ch' momint
+                    lo ? Dix ans, onze ans pététe ?<lb/>Joseph l’o tojours appelé “tchout" meume
+                    quainte i m’suroait ch' méte quarter vingt qu’i l’dépassoait<lb/>d’eine tête.
+                    I y avoait tant ed gintilesse dins ch' mot ’’tchout" qu’i pouvoait point s’in
+                    fâcher. Ch’est avuc<lb/>ech viel honme lo qui l’o apprins tant ed coses...</p>
+                <pb n="Picard_Concours_2020_1_p2.png"/>
+                <fw type="numbering"><lb/>2</fw>
+                <p><lb/>Chti, qu' dins ch' villache d’où qu’i l’étoait in vaganches, o prenoait
+                    pour ein viux fou pis qu’os app’loait<lb/>ch' vieux Joseph. I l’étoait
+                    bertcheux quainte is s' sont vus l' prémiére foés pis d’ech' jour lo i l’o
+                    apprins<lb/>pusieurs coses. D’abord qu’ech' viux bertcheux i l’étoait point
+                    fou, bién du contraire. Qu’i l’avoait<lb/>infinimint ed connoaissinches pis
+                    qu’i savoait bién des coses dsus ches gins d’ech village. Ch' viux
+                    Joseph<lb/>li o d’abord dvisé ed ses berbis pis ed leu comport'mint. Ch’est
+                    ainsi qu’i l’o su equ loin d’éte aussi bête<lb/>qu’o l'dit ches moutons is
+                    savoétent s' protéger mutuell’mint. I li avoait foait vir, ein jour ed pieuve,
+                    emint<lb/>qu’is s' rassannoaient in formant eine seurte ed p’loton pis equ cheux
+                    qu' is étoétent à l’estérieur is<lb/>v’noaient vers ech' chinte fil à
+                    m’sure. Eine méniére d’es' séquir à l' caleur ed ches eutes berbis
+                    pour<lb/>artourner insuite à l’estérieur.</p>
+                <p><lb/>I l’avoait égal’mint apprins à r'connoaîte sartaines étoéles. L' granne
+                    pis l' tchotte ourse, chelle qu’alle<lb/>monte ech pôle nord. Pis l'
+                    princhipale... L’Étoéle d’ech bertcheu... Chelle qu’alle apparoait in
+                    preume<lb/>pis qu’alle disparoait l' darniére, eine ed ches pus milantes... Pus
+                    tard, i séro qu’alle o pour tchout nom<lb/>Vénus mais alle rest'ro, pour li,
+                    chelle d’ech bertcheu. Tout partout d’où qu’i l’iro, dés s’n’arrivée,
+                    d’où<lb/>qu’i fuche dins ch' monne, sin prémier ergard s’ro ed tracher el'
+                    étoéle lo... Chelle qu’alle dit qu’i l’est<lb/>l’heure ed rintrer ches berbis
+                    in berg rie ou ed szles foaire rintrer à ch' parc. Ein parc, foait ed
+                    barriéres in<lb/>planques plintées vertical'mint, in été... Bién souvint
+                    ch’étoait l' pus vielle fumelle qu’alle prenoait ch'<lb/>cmin d’ech ertour
+                    elle-meume... I lachoait foaire pasqu’i savoait equ ch’étoait elle qu’alle
+                    avoait raison...<lb/>Joseph! I l’ervoét conme i l’o vu l'darniere foés qu’i
+                    l’est v’nu ichi, infin à l' cinse. I v’noait ed clatcher l'<lb/>porte! Ein
+                    coeup d' colère qu'alloait canger s' vie. Joseph, ein honme ed tchotte talle à
+                    peinne ch' méte<lb/>soéssante. Des pattes courtes, ein molé artchées dsous
+                    ein torse ed lutteu ed foére. Eine téte quasimint<lb/>ronne dsus ein cou
+                    quasimint absint tell’mint i y avoait peu d’espace inter l' téte pis ches
+                    épeules. Des<lb/>bros courts eux étou pis eine main droéte avuc des doégts
+                    épais pis volumineux. Eine main gueuche<lb/>estropiée avuc, à l'plache ed
+                    ches cinq doégts, cinq boules ed chair pis d’os. Ein hindicap qui n’el
+                    ginnoait<lb/>null’mint tant i s’étoait habitué à ch' minque pis s' main
+                    droéte alle avoait eine forche peu conmeune.<lb/>Brun ed poéille pis ed cavieux
+                    à l’origine, i l'étoait dvnu gris ed poéille fin tôt pis i paraissoait puss
+                    viux<lb/>qu’i l’étoait réell’mint. I l’avoait des yux fin bleus pis i voéyait
+                    fin loin...</p>
+                <p><lb/>Dins s' vie deux passions! Ses berbis pis ses tchiens... Ou l’inverse. Des
+                    tchiens qui s' s’roaient foait<lb/>occhire pour Joseph... I sz' es cmindoait
+                    avuc edz' ordes brefs, des mots à peinne prononchés, des coeups<lb/>ed sifflet
+                    modulés d’eine sartaine méniére qu’is étoaient à l' foés edz'
+                    incourag'mints ou edz' ordes. Des<lb/>foés ein cri, d’ein ton coléreux, pour
+                    ein coeup ed dint à eine patte ed mouton qu’alle trainne pis ch'
+                    tchien<lb/>tout moneux qui bache s' tête avuc ein air coupabe, sartain d’avoér
+                    mal foait sin traval ed tchien ed<lb/>troupieu. I falloait alorss vir ch' qu’i
+                    fsoait ech feutif pour rintrer in grâche. Seurtout si Joseph I fsoait<lb/>chti
+                    qui pardonne point l' feute... Ein tchien qui rampe dusqu’à sin moaite in
+                    l’erbéyant, in essayant ed<lb/>foaire vir sin ergard, plein d’ergrets, qui pose
+                    eine patte dsus l' tchuisse ed sin moaite avuc l’air ed dire<lb/>qu’i n’el' o
+                    point foait esprés, qu’i n’el fro pus.... Pis l’ folle cavalcade quainte eine
+                    tchotte caréche, eine<lb/>tape amiteuse qu’alle dit equ ches coses alles
+                    rintent dins l’orde pis qu’os est pardonné... L' cavalcade qui<lb/>s’insuit
+                    avuc ches seuts, ches léchoulles à l'main (jamoais à l' fidjure, Joseph i
+                    vouloait point) Tout ch'<lb/>passé lo i l’ermonte à l' seurfache pis l’honme i
+                    l’o eine tchotte risée quainte i rpinse à toutes ches coses<lb/>d’es joénesse
+                    qu’est djo fin loin...</p>
+                <p><lb/>I l’étoait point peu fier d’éte ein ed ches rares, pour point dire ech'
+                    seul, equ Joseph avoait invité à intrer<lb/>dins s’roulotte... Contrair mint
+                    à tout ch' qui s’disoait dins ch' village ch'étoait point ch' foutoér
+                    annonché<lb/>mais eine tchotte moéson bién arringée, prope pis disons llé
+                    confortabe. Point ch' confort actuel nan mais<lb/>ein honme seul conme Joseph
+                    pouvoait y vive... Ein lit étroét dins ch' fond à droéte avuc edz'
+                    étagéres<lb/>freumées d’ein ridieu bleu-vert. Eine tabe avuc eine bassine in
+                    métal pis eine sarviette, pus ou moins<lb/>prope, du savon à barbe qui dvoait
+                    dater d’ech temps d’où qu’ech' berger i s' rasoait pis ein peingne...<lb/>Dsous
+                    l'table ein broc in zinc, sins doute plein d’ieu.</p>
+                <pb n="Picard_Concours_2020_1_p3.png"/>
+                <fw type="numbering"><lb/>3</fw>
+                <p><lb/>Dins l’intrée deux porte mintieux pis à gueuche ein minustchule poêle à
+                    bous d’où qu’ech' bertcheu I<lb/>dvoait foaire tchuire ses erpos pis l' pâtée
+                    ed ses tchiens. Eine tabe avuc deux bancs in bous sins dossiis<lb/>pis eine
+                    seurte ed desserte avuc tchéques assiettes pus ou moins fêlées pis coére
+                    quate ou chinq voerres.<lb/>Dins ein tchuin, ein sieu d’ieu rcouvert d’ein
+                    carré ed tissu blanc pis rouche cont’nant sins doute ed l’ieu,<lb/>li étou. A
+                    ch' plafond, pindue à ein crotchet, eine tchotte lampe à pétrole avuc sin
+                    voerre noérchi.<lb/>Asseurémint, l'roulotte, bién equ bién claire avuc ses
+                    quate titchottes ferniettes, étoait tristounette. Pis,<lb/>meume si alle
+                    sintoait ein molé l’honme seul pis tchéque peu negligent, o sintoait qu’os y
+                    étoait bién.<lb/>Estérieur mint l'roulotte qu’alle avoait du éte verdâte,
+                    étoait dvnue grise d’usure. Quate reules ed deux<lb/>diminsions. Deux ed talle
+                    moéyinne à l’arriére pis deux à l’avant dsus ein avint-train mobile autchel
+                    o<lb/>pouvoait accrocher deux brincards dins les tchels o pouvoait foaire intrer
+                    ein gvau pour canger ed pâture.<lb/>Dsous l' tchaisse, deux tchaisses pus
+                    tchottes pleinnes ed palle servent ed litiéres à ches tchiens.
+                    In<lb/>princhipe, pasque, dins ch' parfum d’el' roulotte, l’odeur ed ches
+                    tchiens alle est puissammint</p>
+                <p><lb/>arconnaissabe.<lb/>Coére eine cose equ Joseph li o apprins. L'histoére
+                    d’el' leune montante pis d’el' leune déchindante. Ch’est<lb/>vnue ein jour
+                    d’où qu’ech' "tchout" étoait vnu l'vir avuc ches cavieux fréqu'mint cocupés.
+                    Assez ros<lb/>pasqu'ech coéffeur cha coûte tcher... Joseph l’avoait rbéyé
+                    pis i l’avoait dit, aprés avoér mis ein sérieux<lb/>morchieu ed toubac à
+                    chitcher dins s' bouque:</p>
+                <p><lb/>-Tchout, dins ein moés, i feudro equ tu rapasses mond ech coéffeur si tes
+                    parints is veultent t'vir avuc<lb/>tes cavieux courts... O n’es' foait point
+                    coeuper ses cavieux in leune montante...</p>
+                <p><lb/>Conme i l' erbéyoait avuc l’air ed point comprinde, ech viux avoait alorss
+                    mis ches coses au point. In<lb/>heussant ein molé ses épeules par dvant
+                    l’ignorinche d’ein gamin qu’i sintoait pus instruit equ li...</p>
+                <p><lb/>- O t'o point dit qu’el leune alle agit dsus l'nature ? Mi, ej' dis equ si,
+                    alorss o m' prind ein molé pour ein<lb/>fou... N' dis point ch' contraire j’el'
+                    sais mais ej' m’in fous... Tu voés, tchout, achtheure cminche ech<lb/>roéyaume
+                    ed ches savants... Is erbéyent ech ciel pis is voétent tout mais is oublient
+                    qu’par dvant eux i y<lb/>o eu des gins qu’is ont foait attintion à tout, qu’is
+                    ont actchis des coses equ ches savants d’achtheure is<lb/>veultent point
+                    croére.... Alorss, o foait n’importe quoé sins t’nir compte d’el' leune. O
+                    séme in terre in<lb/>leune déchindante ou o séme in leune montante... Pis o
+                    s’étonne equ cha vient point... Ou in r’tard, ou<lb/>point bién... Acoute,
+                    tchout ! Ch’est point mal aisé à r’tnir... Tout ch' qu’est plintes in
+                    rachennes, tu l'<lb/>sémes in leune déchindante, tout ch' qu’est plintes à
+                    fruits in l’air tu l' sémes in leune montante... Ah!<lb/>Ej voés equ lo, conme
+                    cha, ej' te dvise hébreux... Tu sais, tchout, qu’el' leune alle quate
+                    quartiers... Ein<lb/>croéssant, l' leune ronne, ein eute croéssant pis o n’el'
+                    voét pus... D’abord, l' leune ch’est eine minteuse !<lb/>Quainte ech croéssant
+                    i foait l' lette D alle dit qu’alle décroêt alorss qu’alle croêt... Quainte
+                    alle foait ein<lb/>C alle dit qu’alle croët alorss qu’alle décroêt... Quainte
+                    alle foait ein D tu sémes tomates, tchouts poés,<lb/>haricots, tout ce qui va
+                    pousser in l’air pis quainte alle foait ein C tu plantes patates, navets radis
+                    etc...<lb/>Ch’est conme pour ches cavieux. Si tu vux qu’is poussent vite : leune
+                    montante, pour qu’is poussent<lb/>moins vite : leune déchindante. I li avoait
+                    dvisé d’ech halo qu’intoure l'leune des foés, singne d’ieu slon<lb/>li...
+                    S'n’espression" Ch' soér chi l' leune alle o sin tchul dins l’ieu' poussoait
+                    ch' gamin à rire... Mais i<lb/>savoait equ dins peu ed temps i pleuvroait.
+                    Seurtout si ech vint vnoait d’Anmiens... Pasque lo aussi ech<lb/>vint ch'
+                    étoait ein boin indicateur.</p>
+                <p><lb/>Tu voés tchout, ch' vint qui vient ed Montdidier ch'est ed l’hernu pour
+                    biéntôt, chti qui vient d’Albert<lb/>ch’est du froéd, chti qui vient ed Roye
+                    o pourroait avoér ein boin coeup ed' caleur...</p>
+                <p><lb/>Quainte i l’avoait raconté l'histoére d’el leune montante pis déchindante
+                    à ses parints i s’étoait foait foute<lb/>ed li... Mais par l'suite i l’o pu
+                    vir equ des foés...</p>
+                <p><lb/>Ech viux Joseph I li avoait apprins granmint ed coses dsus l’vie d’ein
+                    troupieu, l’instinct ed ches moutons<lb/>à éte insanne, ches luttes dures ed
+                    ches mâles in rut avuc des combats d’où qu’ches joénes
+                    s’affrontoaient<lb/>par dvant d’provotcher ech viux mâle. A grands cocups ed
+                    tête... D’où qu’ech viux bétal sortoait<pb n="Picard_Concours_2020_1_p4.png"/>
+                    <fw type="numbering"><lb/>4</fw>
+                    <lb/>vaintcheur dusqu’au jour où... I li avoait aussi apprins à foaire pis à
+                    poser des collets tout in li disant equ<lb/>ch’est du braconnache pis equ ch’est
+                    interdit. I li fsoait intinde pis arconnoaite ches différints
+                    cants<lb/>d’oésieux. Ch' qui foait qu’i savoait arconnoaite l' feuvette
+                    babilarde d’ech merle, l' mésange d’ech pinson,<lb/>ech cardonn'ret ed
+                    l’alouette. Pourquoé qu’ech djai avuc sin cri I l' alerte ches bétals alintour
+                    pis qu’el'<lb/>l’agache, avuc sin tacatac, alle dénonche l'présinche d’ein
+                    honme dins ches parages. I l’avoait découvert<lb/>avuc Joseph des fruits
+                    gouteux conme l'fraise ed ches bous, ech poéille à gratter ed l’églintine
+                    mais dont<lb/>l’inv’loppe, (ech cynorhodon, i séro cha pus tard) alle peut
+                    foaire d’el' boéne confiture goûteuse, des<lb/>poéres qu’o minge blettes, des
+                    pémmes ein molé âpes mais qui lachent ein goût chucré dins l'
+                    bouque,<lb/>des meûrons parfumés. Ou coére des fruits d’ech cornouiller qu’i
+                    l’app’loait corgnolles dont sartaines<lb/>sont mis dins ed l’alcool conme ches
+                    c’rises pis cha o coére puss ed goût......</p>
+                <p><lb/>Ech viux Joseph savoait tout ein tas d’eutes coses qu’i gardoait pour li
+                    pasque l’éfant qu’i l’atcheulloait<lb/>étoait trop joéne pour qu’i li foéche
+                    vir des muchettes d’amoureux d’où qu'Madame Eintel alle erjoégnoait<lb/>sin
+                    amant, ein honme connu dins l'région pour s' ridjeur ou coére equ Mamzelle
+                    Cose alle étoait incheinte<lb/>d’ech joéne G. dont ches parints vouloétent
+                    foaire ein tchuré... Pis qu’cha sroait ein garchon pasqu’alle<lb/>avoait "ech
+                    masque’. Pasque cha étou i l' savoait... I s’berluroait rar mint pis sartaines
+                    joénes fanmes alles<lb/>étoaient vnues li dminder dsous ech secret pis alles
+                    l' disoaient tertoutes qu’i n’es berluroait point ou si<lb/>peu...</p>
+                <p><lb/>Ches darniéres vaganches qu’i l’avoait prinds avuc Joseph pour compagnon ed
+                    jux s’étoaient terminées<lb/>avuc des mnaches ed djerre pis i l’intind coére
+                    l'voéx bougonne ed sin viux bertcheux qui ronchonnoait<lb/>au momint d’où
+                    qu’is s’ disoaient adé:</p>
+                <p><lb/>- Si ch’est point malhéreux ed vir cha... Y o point vingt ans qu’os in o
+                    fini eine qu’is dvisent d’ermette<lb/>cha... Ches honmes is sont fous, tchout...
+                    Combién qu’i y in o coére qui vont y lacher leu vie, ou eine patte<lb/>ou ein
+                    eul...? Tu voés, tchout, chelle lo, conme mi j’ai vu l' darniére, ti, tu vos
+                    vir chelle lo.... Alle vo durer<lb/>troés ou quate ans pis aprés os f’rons
+                    l'paix. Vingt ou vingt chinq ans aprés os ermettro cha... Cha s’ro
+                    l’<lb/>tienne pis tu fros conme tin pére qu’o foait l' Granne Djerre, ou tin
+                    frére qui vo foaire chelle lo, os vous<lb/>racontrez vou souv’nirs ed djerre in
+                    attindant equ cha reminche...</p>
+                <p><lb/>Ch’étoait au bieu mitan d’ech moés d’eût 1939, qu’ech viux Joseph li
+                    disoait cha avuc ein air dégoûté. I<lb/>l’avoait ratché ein giclée ed
+                    salive presque noére ed toubac mâtché pis avoait tourné ches talons.
+                    Insuite<lb/>pis dusqu’à l' fin d’ech moés is avoaient pus dvisé ed cha... Ech
+                    ler ed sectimbe l' Pologne alle étoait<lb/>invahie pis l'djerre alle étoait
+                    déclarée à l’Allemagne par l’Granne Bretagne pis l’France.</p>
+                <p><lb/>I l’avoait vétchu ches quate énnées suivantes sins rvnir dins ch' tchout
+                    villache preuche d’el' siéne pis resté<lb/>sins neuvelles d’ech viux Joseph. A
+                    vrai dire i l’avoait pus ou moins oubelié... Ch’est suite à eine
+                    grave<lb/>maladie, eine pneumonie sévére, fin 1944 qu’edsus ches consels d’ech
+                    médecin ed famile qui avoait arringé<lb/>ches coses, qu’i l’o rtreuvé ech
+                    viux berger. Vieusi, ein molé voûté, ervêtu exact’mint conme i l’avoait
+                    vu<lb/>l' darniére foés. Avuc ech meume capieu usé dusqu’à l'trame mais sins
+                    l’granne cape. Pis étou sins berbis...</p>
+                <p><lb/>- Quoé qu' tu vux, tchout, eute temps eute mœurs. Ches boches is ont
+                    déchidé qu’el tchulture alle dvoait<lb/>fournir puss ed blé, puss ed patates,
+                    puss ed betteraves. Donc, pus ed berbis.... Mes deux tchiens is sont<lb/>morts,
+                    ech viux pasqu’i l’étoait âgé, ech pus joénes abattu d’ein coeup ed pétard
+                    par ein boche à tchéche<lb/>i montroait ses crocs. Conme ej' djeuloais conte
+                    li ch’est mi qu’i l’o mis in joue... Ej' m’in foutoais... I l’o<lb/>du s' dire
+                    equ j’étoais qu’ein pauve con avuc eine patte mal foutue pis i l’o ringé sin
+                    pétard... Si j’avoais<lb/>yeu ein coutieu à portée d’em' main j’el' éroais
+                    zigoullé...</p>
+                <p><lb/>Tchout...! I l’avoait applé "tchout’! Alorss qu’i l’avoait fort mint grandi
+                    pis qu’i m’suroait prés d’ein méte<lb/>quater vingt. Mais quoé li dire alorss
+                    qu’i l’y mettoait si tant d’amitii dins ch’’’tchout' qu’i l’avoait osé
+                    poser<lb/>eine tchestion. L' tchestion qu’alle li brûloait ses lippes.</p>
+                <p><lb/>Mais quoé qu' ch'est qu’os foaites ichi...</p>
+                <pb n="Picard_Concours_2020_1_p5.png"/>
+                <fw type="numbering"><lb/>5</fw>
+                <p><lb/>-Ej' gaingne min pain journayier, tchout. Pus ed berbis, pus ed berger...
+                    Omer, ech patron, o point yeu<lb/>ech tchœur d’em' foute à l’ porte.... Sins
+                    tchiens, sins gvau, sins moutons avuc m' patte in moins pour<lb/>trouver du
+                    boulot... Alorss i m’o proposé l' nourriture in écange ed tchouts travals.
+                    Ches étchuries pis<lb/>étabes à matin, pis edz' eutes trucs qu’i m’edminde ou
+                    bién l' patronne. Conte cha j’ai droét à l’tabe ed<lb/>ches commis pis
+                    carretiis. I m' donne eine piéche ed temps in temps... Avuc ej' m’acates du
+                    toubac... Du<lb/>belge achtheure pasqu’avuc ches restrictions... I y o pus ed
+                    toubac à chitcher alorss j’em sus mis au toubac<lb/>normal... Ech belge l’est
+                    meilleur mais i l’est pus tcher...... Mais ti quoé qu' ch’est equ tu viens
+                    foaire ichi...<lb/>T' étoais boin à l’école.</p>
+                <p><lb/>- Ej' viens mette d’el vianne autour d’ech' l’os. Ch’est conme os disoétes
+                    in voéyant eine grosse parsonne<lb/>i y o quate ou chinq ans... J’ai été fin
+                    malade. Ch’est min docteur qu’o arringé m’n’affoaire. Pasque, slon<lb/>li, o
+                    minge miux ichi qu’in ville. Ej sus erchu à l’eul par ches patrons pour
+                    m’arposer pis minger ch' qu’i<lb/>feut...</p>
+                <p><lb/>- I l’est bién rinseingné tin docteur, dis donc. Ch’est vrai qu’o minge
+                    bién ichi... Pis ch' diminche l'patronne<lb/>alle nous foait du pain blanc.
+                    Autchun ed ches ouvriis, os sonmes quaint meume dix, én' dvise ed
+                    s’in<lb/>aller... Tu verros, tchout, i y o des joénes plintchés ichi pour
+                    écapper à l'STO... Is attindent, ches braves<lb/>gars lo, qu’os appelle ein
+                    par ein pour partir à l'riflette...</p>
+                <p><lb/>A nouvieu cha avoait été l' granne complichité inter ech viux berger pis
+                    ch' tout joéne honme. Chti chi<lb/>s’étoait mis à travaller avuc ech viux
+                    pis, alorss qu’i l’étoait lo pour es' rimpleumer, pis equ rién n’el'
+                    y<lb/>obligeoait ch' patron avoait laché foaire. Pis ch' gamin, in train ed
+                    dvnir ein joéne honme, carrioait du<lb/>feumier dins eine bérouette eine
+                    partie d’el' matinée. I donnoait l'provinde à ches gvaux: avoéne pis
+                    feur<lb/>el' matin à l’aubette, ech midi, pis ech soér. I soéyait du bous,
+                    findoait des bûches, gardinoait, sarcloait,<lb/>trayoait ches vaques matin pis
+                    soér, fsoait leu litiére. Ainsi equ chelle ed ches quate poaires ed bus
+                    qu’is<lb/>étoétent nourris conme ches gvaux alorss equ ches vaques alles
+                    alloaient in pature d’où qu’i sz’es<lb/>gardoaient. Tout cha avuc ech viux...
+                    Lo d’où qu’étoait l’ein os étoait sartain ed vir l’eute...</p>
+                <p><lb/>A tabe, is étoaient côte à côte pis is rchuvoaient l' meume cose. Au
+                    début ches patrons pis l’sœur d’ech<lb/>patron is vouloétent qu’i minge avuc
+                    eux. I l’avoait erfusé pour éte à coté ed sin mintor. Pasqu' ech viux
+                    i<lb/>continuoait ses l'çons ed coses pis esplitchoait ech pourquoé ed chi ou
+                    ed cha. Pis ech joéne i l’inr'gistroait,<lb/>i l’inr'gistroait...</p>
+                <p><lb/>I y o qu’à ein indroét d’où qu’is étoétent point insanne... Ech joéne
+                    i l’avoait eine cambe à deux lits qu’i<lb/>partageoait avuc ech prémier
+                    carr'tii. En' voéyant point ech berger dins ch' dortoér ed ches
+                    ouvriis<lb/>sédintaires i l’avoait posé l' tchestion</p>
+                <p><lb/>- D'où qu’os dormez ? Ej vous voés point dins ch' local d’où qu’alles
+                    sont ches cambes</p>
+                <p><lb/>- Ej' dors mond mi, tchout... Erbéye à ch' tchuin d’el moéson ed ches
+                    patrons, inter l'clôture pis ch' début<lb/>d’ech bous qui déchind à ch'
+                    village... M' roulotte alle est lo, bién à l’abri, conme cha
+                    alle<lb/>estchinte moins... Pis conme cha ej perds point mes habiteudes. Ej' vis
+                    seul dpus m' joénesse alorss j’ai<lb/>mes habiteudes pis, si ej' ronfe, i y o
+                    equ mi pour l’intinde...</p>
+                <p><lb/>Ches joénes gins in âge ed partir pour l' djerre is avoétent été
+                    applés dsous ches drapieux. Tertous<lb/>insanne... A l'velle d’ech ramassache
+                    ed ches pémmes ed terre. Omer s’in étoait plaint pis, vite foait, o
+                    li<lb/>avoait fourni d’el' main d’œuve quasimint gratis... Des prisonniis ed
+                    djerre allemands, au nombe ed six.<lb/>Is étoaient arrivés ein matin dins leus
+                    euniformes vert ed gris d’el' Wermacht avuc deux lettes PG.<lb/>peinturées in
+                    noér dins ch' dos d’ches vestes pis d’ches capotes. Aprés eine période
+                    d’adaptation l’intinte<lb/>alle s’étoait foaite intre ches français restant
+                    pis ches allemands qui, disons llé, étoaient contints ed s’in<lb/>tirer à si
+                    boin compte. D’autant quel' portion ed ches r’pos alle in étoait point
+                    diminuée pour autint.</p>
+                <p><lb/>Ech' temps I passoait lint mint pis ch' docteur qu’o voéyoait souvint
+                    passer (ch ravitall’mint avoait ses us<lb/>pis coutumes) constatoait equ sin
+                    patiént alloait ed miux en miux pis i cminchoait à dviser ed fin ed
+                    séjour.<lb/>A quoé i répondoait par eine grimache.. I l'étoait bién lo.. I
+                    l’y avoait prinds des forches pis des musques.</p>
+                <pb n="Picard_Concours_2020_1_p6.png"/>
+                <fw type="numbering"><lb/>6</fw>
+                <p><lb/>I conservoait point ed sétchelles d’el maladie qu’i l’avoait yeu du mau à
+                    djérir. I vouloait point tchitter sin<lb/>viux conmérade. Ch’est à peinne si
+                    i déchindoait coére dins sin village natal vir ses parints. I l’étoait
+                    attaché<lb/>à l' cinse, à ses otchupants, à ses copains ed traval pis i
+                    cminchoait sérieus mint à dviser, à baragouiner in<lb/>allemand. Pis, i y
+                    avoait, étou, l' file aînée d’Omer qu’alle li fsoait des risettes. Ech viux
+                    l’avoait vu pis i l’<lb/>tatchinoait lo dessus... I rougissoait...</p>
+                <p><lb/>L' djerre alle continuoait pis, pus ech temps avinchoait, puss qu’el
+                    défaite alle s' préchisoait... L' Victoére<lb/>alle o été annonchée ech 8
+                    mai... Ches prisonniers imploéyés d’el' ferme is sont resets inter eux ch'
+                    jour<lb/>lo pis autchun n’est vnu à tabe... Ch' traval o rprinds el' lin'nmain
+                    pis parsonne n' dviso pus d’el'<lb/>l’événemint.... L' vie alle o suit sin
+                    cours pis ches prisonniis ed djerre français cminchoaient à
+                    r’vnir....<lb/>Ch’est in juilet, i sait pus exact'mint ech jour, equ d’in seul
+                    ceup, i y o eut conme eine imbianche ed fête.<lb/>Fernand étoait rintré!</p>
+                <p><lb/>Fernand, ech chef ed tchulture qu’os avoait jamoais rimplaché. I l’alloait
+                    erprinde s' plache... Eine plache<lb/>ed choéx sins doute pasque l' sœur d’Omer
+                    sannoait tout cangée. Elle, si froéde, riotoait tout l’ journée.<lb/>Elle,
+                    qu’alle dvisoait rar mint, babiloait djaîmint.... Elle qu’étoait tojours
+                    habilée in sombe mettoait des<lb/>robes à fleurs qui lachoaient vir ses gambes
+                    qu’alle avoait belles.</p>
+                <p><lb/>I l’est vnu ch' Fernand, dins sin vét’mint ed traval tout neuf ed prisonnii
+                    libéré. Pis l’atmosphére alle<lb/>avoait cangé. I posoait dsus tout pis
+                    tertous ein ergard critique. I treuvoait du désordre d’où qu’i y in<lb/>avoait
+                    quasimint point. I l’avoait yeu ein risée motcheuse in voéyant ech viux
+                    bertcheu in train ed carrier,<lb/>avuc es' seule main droéte, du feumier dins
+                    ein bérouette qu’ech joéne honme alloait porter à ch' mont,<lb/>dariiére
+                    ches étchuries. Il indjueuloait ches ouvriis allemands dins leu langue pis
+                    cheux lo is l'<lb/>erbéyoaient avuc d’el' colére voére d’el' haine dins leus
+                    yux... I dvoait leu foaire sintir leu défaite... Ch’est<lb/>point granmint ed
+                    temps aprés equ tout o fini par cratcher. Quainte i s’in est prinds à ch'
+                    viux:</p>
+                <p><lb/>-Alorss, viux machin... Os' est pus capabe ed foaire sin boulot in
+                    intier...? I feut ein joéne idiot pour in<lb/>foaire eine partie ? Mi, si
+                    j’étoais ch' patron, t'éroais qu’ein r’pos dsus deux... Os est poéyé pour
+                    cha qu’o<lb/>mérite... Pis cha mérite point puss... Pis ti, joéne merdeux ?
+                    Quoé qu' ch’est qu' t’attinds pour foaire tin<lb/>boulot... Tes poéyé à
+                    quoé foaire ? A t' rouler tes peuches, hein..? Os m' foaites l’effet d’éte
+                    eine belle<lb/>poaire ed joéyeux bros d’ lainne tous les deux mais cha vo
+                    canger...</p>
+                <p><lb/>- D’abord, ech garchon lo, cha n’est ni ein vatcher ni ein va chi va lo.. I
+                    l’est point poéyé mais i s’erfoait<lb/>ichi eine sinté...</p>
+                <p><lb/>- Ouais, ej' voés cha, coére eine ed ches crevures ed tubard qui s' la
+                    coule douche... Ein fiu à sin papa...</p>
+                <p><lb/>- Conme tu t' l’est sins doute laché couler douche conme prisonnii ?
+                    Pasqu’avuc t' panche qu’alle foait<lb/>point ed plis, sins doute equ t’avoais
+                    l’vie belle là-bos, mond ches boches, pis equ tu crevoais point ed<lb/>faim
+                    conme tes copains? Alle dvoait éte bién foutue l'Gretchen qu’étoait
+                    t'patronne mond ches boches<lb/>pis avuc tchéche tu joutchoais pindant qu’es'
+                    n’honme i s' fsoait casser la djeule in Russie... Ch’est point à<lb/>mi equ tu
+                    l' fros chelle lo... Ej' sus pététe viux, minchot, bouseux pis tout cha equ tu
+                    voudros mais, avuc<lb/>mi, cha marche point... T es bién trop tcheurfalli pour
+                    avoér travallé si cha n’est ed tin instrumint...</p>
+                <p><lb/>- Ti, ch' viux con, tu sais point cha equ tu vos foaire..!. Tu vos prinde l'
+                    porte pis point pus tard<lb/>qu’achtheure! Allez ouste! Déhors...</p>
+                <p><lb/>-NAN!</p>
+                <p><lb/>Ch'est ein hurl'mint qu’est sorti d’el' bouque ed Joseph... Trop tard !
+                    Fernand i s’écroule conme eine<lb/>masse, littéral’mint assommé par l’fourque
+                    à bett’rave qu’étoait lo, à portée d’es' main. Ch’est quainte ech<lb/>fameux
+                    Fernand avoait yeuvé l' main dsus Joseph qu’i l’avoait réagit avuc eine
+                    violinche qu’i n’es'<lb/>connaissoait point. Ech cri poussé par ech viux
+                    bertcheu o foait raccourir tout ch' monne pis ech viux<lb/>Joseph o esplitché
+                    à Omer ch' qui v’noait d’es' passer. Par dvant l’air d’in avoér deux d’ech
+                    patron ch’est<lb/>Werner, ein ed ches prisonniis, chti qui dvisoait ein
+                    français quasimint impeccabe qui témoégne.. I l’o<pb
+                        n="Picard_Concours_2020_1_p7.png"/>
+                    <fw type="numbering"><lb/>7</fw>
+                    <lb/>tout vu pis i l’o vu ech geste m’nachant ed Fernand vers l’infirme... I
+                    l’est prêt à témoégner par d’vant<lb/>ches gindarmes... I y éro point d'
+                    suite... Infin, i sait point si i y o eu eine suite.... Omer o att'lé l'
+                    jumint<lb/>demi sang rapid’mint pis i l’o été ramné à ses parints in
+                    quatriéme vitéche... In pétant, sapré Fine!</p>
+                <p><lb/>Pis, achtheure i l’est lo à ch' croés’mint, i s' dit qu’ech jour lo, i
+                    l’avoait oubelié cha qu' li avoait dit ech<lb/>viux Joseph.</p>
+                <p><lb/>- Déméfies ti ed li conme d’el' peste... J'el connoais dpus s'naissanche.
+                    Ch’est ein malfaisant ! Fainéant<lb/>conme eine couleuve, minteu, tricheu,
+                    vintard pis jaloux ed tout. I sait foaire equ des coeups tordus. A<lb/>travers
+                    ed ti, i vo tinter d’em foaire perde min calme pis i t' feudro garder l’tiéne.
+                    J’el connoais l’oésieu,<lb/>dés qu’i vo avoér erprinds ses fonctions i vo m'
+                    tracher noése... Tu sais pourquoé ? Ej' sus ech seul qui<lb/>sait qu’el' file
+                    d’Omer, chelle qu’alle t' foait des risettes, alle est ed li... Conme ej' sus
+                    ech seul à savoér<lb/>qu’aprés l' fanme d’Omer i l’o joutché avuc s' sœur
+                    qu’alle in est totchée... Pis i l’o sartain’mint foait ech;<lb/>meume coeup à
+                    l'cinsiére d’où qu’i l’o été invoyé in Kommando mond ches boches... Ch’est
+                    pététe l'seule<lb/>foés d'es' vie d’où qu’i l'o été courageux pasque, si i
+                    l’avoait été prinds, ch’étoait l'peinne ed mort...</p>
+                <p><lb/>I l'est point monté à l' ferme... A quoé boin ? I l’o foait ein molé
+                    puss ed deux chints métes pis i l’'est<lb/>rintré dins ech sous-bos. Là d’où
+                    qu’i savoait qu’i trouv’roait eine borne... Alle est tojours lo,
+                    moussuse<lb/>pis granmint indommagée par ech temps. L’inscription alle est à
+                    peinne lisibe mais i l' connaît par<lb/>tchoeur." Ichi o été abattu Albert
+                    Ste..." ch' nom i s’est effacé, in partie, conme eine granne partie
+                    d’ech<lb/>texte. Ein viux belge plantché à l' ferme qu' avoait in s'
+                    possession pusieurs poégnées ed ches tracts<lb/>déversés par ches alliés
+                    par dvant l’libération. "Propagande !"qu’i l’avoait djeulé ech chef d’el
+                    Gestapo<lb/>lors d’el' rafle... Ech pauve belge avoait yeu bieu dire equ ches
+                    tracts lo is li servoaient à s' torcher sin<lb/>tchul... Is l’ont abattu,
+                    soé-disant pour eine tintative ed fuite.... Joseph li o dit equ l’honme i
+                    savoait point<lb/>lire....</p>
+                <p><lb/>I l’escoue s' tête d’eine méniére qu’alle dit Nan! Pis, i l’erdeschind à
+                    ch' carrefour, erbéye eine darniére<lb/>foés ch' pré d’où qu’i l’o apprinds
+                    tant ed coses... I l’o jamoais seu cha qu’est dvnu ech viux Joseph mais
+                    i<lb/>l’o jamoais oubelié... I s' foulle, sort sin portabe...</p>
+                <p><lb/>- Ch'est mi. Tu pux vnir m'ertracher in heut d'el cote d'ech Blamont ? J'y
+                    sus dins deux minutes...</p>
+                <p><lb/>Marci...</p>
+            </div>
+            <div type="liminal">
+                <pb n="Picard_Concours_2020_1_p8.png"/>
+                <fw type="numbering"><lb/>8</fw>
+                <head><lb/>Singnifiénches (viux bertcheu)</head>
+                <list>
+                    <item><lb/>Chinm’tiére <foreign xml:lang="met-fr"
+                        >cimetiére</foreign></item>
+                    <item>
+                        <lb/>Contrebos<foreign xml:lang="met-fr">contrebas</foreign></item>
+                    <item><lb/>Cinse <foreign xml:lang="met-fr">ferme</foreign></item>
+                    <item><lb/>Jachére <foreign xml:lang="met-fr">lieu non
+                        cultivé</foreign></item>
+                    <item><lb/>Croéssant <foreign xml:lang="met-fr">croissant</foreign></item>
+                    <item><lb/>Cabéne <foreign xml:lang="met-fr">cabane</foreign></item>
+                    <item><lb/>Bzuinante <foreign xml:lang="met-fr">bruyante</foreign></item>
+                    <item><lb/>Carette <foreign xml:lang="met-fr">charrette</foreign></item>
+                    <item><lb/>Rache <foreign xml:lang="met-fr">race</foreign></item>
+                    <item><lb/>Ferniéte <foreign xml:lang="met-fr">fenêtre</foreign></item>
+                    <item><lb/>Berbis <foreign xml:lang="met-fr">brebis</foreign></item>
+                    <item><lb/>Fumelle <foreign xml:lang="met-fr">femelle</foreign></item>
+                    <item><lb/>Léchouille <foreign xml:lang="met-fr">Lécher</foreign></item>
+                    <item><lb/>Bassine <foreign xml:lang="met-fr">cuvette</foreign></item>
+                    <item><lb/>Pitanche <foreign xml:lang="met-fr">Pitance</foreign></item>
+                    <item><lb/>Reules <foreign xml:lang="met-fr">Roues</foreign></item>
+                    <item><lb/>Gvau<foreign xml:lang="met-fr">cheval</foreign></item>
+                    <item><lb/>Arconnaissabe<foreign xml:lang="met-fr"
+                        >reconnaissable</foreign></item>
+                    <item><lb/>Rapasse<foreign xml:lang="met-fr">repasse</foreign></item>
+                    <item><lb/>Atchis<foreign xml:lang="met-fr">acquis</foreign></item>
+                    <item><lb/>M'sures<foreign xml:lang="met-fr">mesure</foreign></item>
+                    <item><lb/>Atcheulloait<foreign xml:lang="met-fr"
+                        >accueillait</foreign></item>
+                    <item><lb/>Erjoégner<foreign xml:lang="met-fr">rejoigner</foreign></item>
+                    <item><lb/>Berlurer<foreign xml:lang="met-fr">tromper</foreign></item>
+                    <item><lb/>Zigoullé<foreign xml:lang="met-fr"
+                        >détruire,tuer</foreign></item>
+                    <item><lb/>STO<foreign xml:lang="met-fr">service du
+                            travail<lb/>Obligatoire</foreign></item>
+                    <item><lb/>Bérouette<foreign xml:lang="met-fr">brouette</foreign></item>
+                    <item><lb/>Carretii<foreign xml:lang="met-fr">charretier</foreign></item>
+                    <item><lb/>Ouvrii<foreign xml:lang="met-fr">ouvrier</foreign></item>
+                    <item><lb/>Joutcher<foreign xml:lang="met-fr">coucher</foreign></item>
+                    <item><lb/>Gretchen<lb/><foreign xml:lang="met-fr">prénom
+                            ironique</foreign></item>
+                    <item><lb/>Tchoeurfalli<foreign xml:lang="met-fr">feignant</foreign></item>
+                    <item><lb/>Croés’mint<foreign xml:lang="met-fr"
+                        >croisement</foreign></item>
+                    <item><lb/>R’tchulons<foreign xml:lang="met-fr"
+                        >reculons(à)</foreign></item>
+                    <item><lb/>Bratché<foreign xml:lang="met-fr">braqué</foreign></item>
+                    <item><lb/>Artchées<foreign xml:lang="met-fr">arquées</foreign></item>
+                    <item><lb/>Meurons<foreign xml:lang="met-fr">mûres</foreign></item>
+                    <item><lb/>Plantchés<foreign xml:lang="met-fr">planqués</foreign></item>
+                    <item><lb/>Rimpleumer<foreign xml:lang="met-fr">remplumer
+                        (se)</foreign></item>
+                    <item><lb/>Sétchelle<foreign xml:lang="met-fr">séquelle</foreign></item>
+                    <item><lb/>Carrier<foreign xml:lang="met-fr">charrier</foreign></item>
+                    <item><lb/>Totchée<foreign xml:lang="met-fr">toquée</foreign></item>
+                    <item><lb/>Moussuse<foreign xml:lang="met-fr">couverte de
+                        mousse</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

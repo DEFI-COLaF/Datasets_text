@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_18</idno>
+                <title type="main">1</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jean-Marie, DUEZ</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>1</title>
+                    <author>Jean-Marie, DUEZ</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="70">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="30">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb n="Picard_Concours_2020_18_p1.png"/><fw type="numbering"><lb/>N°18</fw> <head><lb/>EL DUCASS DES « CŒURS
+                JOYEUX»</head>
+                <p><lb/>Tous les zins, el premier saimdi après l’14 juillet, ch’quartier y etot
+                al foufelle, ch’étot l’jour<lb/>d’el ducass organisée pa l’ <foreign xml:lang="met-fr">« société des Cœurs
+                    Joyeux»</foreign>.</p>
+                <p><lb/>Chelle société, ch’étot eine dizaine ed’coupes du quartier qui, tout
+                au lon d’l’ainnée y<lb/>s’occupotent du patronache avec m’sieu le Curé. Mais eine
+                    fo par ain, y z’organisotent<lb/>el’ducass du quartier.</p>
+                <p><lb/>Euch'quartier ch’étot
+                quat'rues : el rue Pasteur, el rue Victor Hugo, pi l’rue Antonin
+                François,<lb/>incor applée l’rue du coron. Eh pi l’dernière ch’étot rue Alfred
+                Dorvillers, ain éfant du<lb/>villache, fusillé par ché boches à l’dernière
+                    guerre.</p>
+                <p><lb/>Adonc, ach’premier saimdi après l’14 juillet, tout y comminchot par
+                l’mariache à chabots.<lb/>Tous ché gins y s’habillotent aveuque ché vétemints ed
+                din l’timps et surtout tertous cauchés<lb/>d’chabots. Pi y s’in allotent querre ech
+                    marié.</p>
+                <p><lb/>Li ch’étot ch’tiot Jules Caudron, qui vivot tout seu aveuque eus'mère,
+                eine feime qu’alle avot<lb/>pon eu d’bonheur à s’vie, ché pou cha qu’sin surnom
+                    ch’étot « Marie Pas de Chance».</p>
+                <p><lb/>Aveuque es’homme, Philippe, y n’avotent qu’in
+                garchon, Jules, mais Jules y étot vn’u au<lb/>monte bochu, mais vraiment fort,
+                comme Jean Marais d’un ch’film, té sai « touchez m’boche<lb/>Mainseigneur
+                    !».</p>
+                <p><lb/>In n’a jainmais su si ch’étot à causs' ed' cha, mais Philippe, qu’y étot
+                machon al’ fosse<lb/>Agache, et qui ouvrot aussi pour tous chés gins du villache;
+                Philippe, eine force ed la nature,<lb/>y s’avot mis à l’boisson et pon seulmint ain
+                tiot peu, ben nan nan il y faulot six lites par jour,<lb/>té sais ché lites à
+                z’étoiles, d’ailleurs ses comarates ils l’avotent surnomé « six lites au jour
+                »</p>
+                <p><lb/>Donc, maime eine une grinde carcasse comme elle sienne, a’n’pouvot résister
+                    longtimps à<lb/>ch’régime et y étot mort jône.</p>
+                <p><lb/>El' Compagnie des Mines
+                d’Anzin, al avot pris in pitié cheule pauv' veuffe aveuque es<lb/>n’enfant bochu et
+                    al avot décidé d’y laicher s’mason d’in l’coron.</p>
+                <p><lb/>Mé arvenons à nou ducasse.
+                A donc ché gins y allotent quère ech marié, ch’tiot Jules y avot,<lb/>pou
+                l’occasion, mis sin biau costume: quémiche blinque, bilouet blin, patalon à
+                rayures,<lb/>capiau-buse et pi l’capote à loupes.</p>
+                <p><lb/>A ch’timps là, in n’accatot
+                point ses affaires toutes faites ; ch’étot m’mère Paulette qu’alle<lb/>rabillot
+                    tous ché gins, vu qu’alle étot couturière.</p>
+                <p><lb/>Adonc, el cortéche y s’formot
+                al’mason « Marie pas d’Chance » et tertous y s’in allot quère<lb/>chelle promisse;
+                et y v’notent à m’mason, passeque chelle promisse ch’étot min père, comme<lb/>y
+                n’étot pas grin, 1m48, eum mère elle y avot fait eine rob’ aveuque du tissu bleu
+                à grindes<lb/>fleurs blinques, y mettot eine paire ed sorliers d’em mère, y
+                    cauchot du 37, ain capiau<pb n="Picard_Concours_2020_18_p2.png"/><fw type="numbering"><lb/>2</fw><lb/>aveuque
+                eine voilette et des gints blins qu’eum grind-mère alle y avot fait au crochet,
+                cha<lb/>faigeot comme d’eule dintelle.</p>
+                <p><lb/>Après cha y’avot ch’Maire, ch’étot Adof
+                Carlier, qui mettot sin costume noir, sin calot et pis<lb/>eine écharpe ed maire
+                    qu’eum mère alle y avot fait.</p>
+                <p><lb/>Y avot aussi ch' témoin, ch’étot « fin nez »
+                    bin ouais y’avot un long nez tout fin !!</p>
+                <p><lb/>Les mariés, ech maire et pi ch’témoin
+                y n’avotent pas d’chabots, el démoiselle d’honneur non<lb/>pu, ch’étot Jocelyne,
+                    el fil' d’Adof, et pi y’avot aussi chou qu’y rimplachot ch’curé.</p>
+                <p><lb/>In effet,
+                l’curé y n’voulot pas s’montrer al mascaratte mais y’avot prêté eine aube
+                d’infant de<lb/>chœur pou l’occasion. Alors ech garchon d’el cince Fursy y v’not
+                habillé aveuque l’aube et<lb/>cauché d’chabots et y ouvrot l’marche du cotéche
+                    aveuque euss' maguette.</p>
+                <p><lb/>Adonc tou ch’monde y partot d’eum maison et in faigeot,
+                accompaignés pa Fortuné Blois<lb/>aveuque sin timbour, l’tour du quartier, ché
+                quat' rues et pou finir au cabaret des « Cœurs<lb/>Joyeux », un des deux cabarets du
+                    quartier.</p>
+                <p><lb/>Arrivé là, ch’étot d’abord ech vin d’honneur et pi après
+                    ch’l’arpas d’noce.</p>
+                <p><lb/>Pou l’occasion, min père y’avot ramné esse forche ed
+                campane (comme y digeot), eine forche<lb/>su pied d’un mète su un, aveuque une
+                tiote hélice à tourner al’manivelle pour souffler su ché<lb/>braises ed coke,
+                eine grile au d’seur et tou cha pour faire griller ché saucisses. (A
+                l’époque<lb/>y’avot pon d’barbecue)</p>
+                <p><lb/>Su l’plache, Gisèle, el faime d’ch marchin
+                    d’pichon, al métot s’baraque à frites..</p>
+                <p><lb/>El dessert, chétot les tartes que
+                ché faimes des « Cœurs Joyeux » y z’avotent faites eusse<lb/>même. Ch’l’arpas y
+                étot fait d’un tiot pain, donné pou l’occasion pa ch’l’boulangé, tiot
+                pain<lb/>copé din l’sins d’el longueur, aveuque eine saucisse ed din.</p>
+                <p><lb/>Té
+                métot delle moutartte ou bin delle mayonnaiss aveuque eine portion de frites din in
+                cornet<lb/>d’journal.</p>
+                <p><lb/>Tout cha ch’étot gratuit, mais ché boissons y étotent
+                    payantes, y faulot bin que ch’cabartier y<lb/>faiche sin burre.</p>
+                <p><lb/>Su l’plache
+                y’avot in manèche ed quévaux d’bos, pou ché tiots, in manèche
+                d’auto<lb/>timponeusses pou ché plus grins, eine lotrie et in tir al
+                    carabine.</p>
+                <p><lb/>Quin tertous y z’avotent fini d’minger, in passot à ch’l’ape à
+                zièpe. Chés zommes y z’avotent<lb/>drécher in potieau de 4 à 5 mètes d’hauteur,
+                in haut y’avot eine reule d’vélo aveuque des lots<lb/>accochés d’sus, in guimbon,
+                in saucisson et pi d’z’autes lots que j’me rappelle pon. Ech lape<lb/>y’étot
+                    impapéné d’savon mou et y fallot monté pou allé quère ché lots.</p>
+                <p><lb/>Chaque
+                jueux y d’vot miser cinq francs ed l’époque (avin ché nouviaux francs). Y n’d’a
+                pu<lb/>din qui n’arrivot point in haut, ch’étot simpe : quin t’étot sur ch’l’ape,
+                    té pouvot toudi essayé<pb n="Picard_Concours_2020_18_p3.png"/><fw type="numbering"><lb/>3</fw><lb/>d’monter,
+                mais bin sur té glichot mais tin qu’tés pieds y n’artouchotent pon à tierre, té
+                pouvot<lb/>toudi armonter, si qu’té pieds y touchotent tierre, t’avos
+                    perdu.</p>
+                <p><lb/>Tou cha, cha perdot bin euene heure.</p>
+                <p><lb/>Après ch’étot l’tiète à
+                    l’ogeon:</p>
+                <p><lb/>El velle, ch’père Lacquement y avot tindu un gros cabe intreu s’mason
+                    et chelle du Père<lb/>Tison, ch’l’arbatteux d’matelas.</p>
+                <p><lb/>Au mitan d’el rue,
+                accroché à ch’cabe, étot pindu eine mandlette à linge qué ch'fond
+                y’étot<lb/>troé. L’père Lacquement y’allot quère in biau ogeon, y l’mettot din
+                    l’mandlette et y faigeot<lb/>passer s’tiete pa ch’tro.</p>
+                <p><lb/>L’ju y pouvot qu’mincher.
+                Bin sur réservé à ché z 'adultes. Là aussi y faulot miser chinque<lb/>francs.
+                In préparot l’jueux : ché z’yux bindés, in l’faigeot tourner su li même deux tro
+                tours, in<lb/>y mettot din ses mins ch’sape ed cavalerie du Père Lacquement, in viu
+                sape aveuque eine<lb/>lame fort émoussée. Après cha, Fortuné Blois, y s’mettot
+                à juer du timbour, el jueu y’avinchot<lb/>su eine paire ed mètes, pu Fortuné
+                y’arrétot d’batte, alors tou ché gins y s’mettotent à crier :<lb/>« tape!
+                    tape!»</p>
+                <p><lb/>Ech jueu y’n' pouvot taper qu’un cop, bin souvint ch' cop d’sape y'étot
+                din l’air o bin su<lb/>l’ozier d’ch’el mandlette, quequefos ch’étot su ch’cou
+                d’l’ogeon, mais l’sape y’étot tellement<lb/>émoussé que l’tiète ein quéiot pon.
+                Au bout de d’tro ou quat jueux, ch’Père Laquement y<lb/>montot sus s’n’équelle, au
+                pretexe d’armette comme y fot l’biète et y in profitot pou, sin<lb/>qu’personne il
+                voche, torte el cou de ch' l’ogeon, djà à ch’timps là in avot d’zhumanités
+                !.</p>
+                <p><lb/>Ch’ti qui coupot l’tiète, y gaingnot ch' l’ogeon.</p>
+                <p><lb/>Tou cha, cha nous
+                amenot à l’fin d’après midi, tertous y rintrottent à leu mason
+                pour<lb/>s’arcanger, minger in tio morciau et s’préparer pou ch' l’bal du
+                    soir.</p>
+                <p><lb/>In face dech' deuzième cabaret du quartier, ech « bureau d’toubaque », in
+                avot drecher l’bal<lb/>volant eine toile ed’tente. Ch’étot l’harmonie municipale
+                qu’ale assurot cheule musique et<lb/>tout ch’quartier y dinsot jusqu’à peu près
+                    minuit.</p>
+                <p><lb/>Pindint ch’eul soirée, ech cabartier y faigeot sin burre (à chacin sin
+                tour). A minuit chacun y<lb/>s’métot à l’ouvrache pou tout démonter, arployer
+                chés cayelles et chés tapes, démonter ch’bal<lb/>passequ’el lindmin y’avot
+                    l’course à vélo.</p>
+                <p><lb/>Mais cha ch’est eine aute histoère qué j’vous dirais pu
+                    tard.</p>
+                </div>
+            <div type="liminal"><pb n="Picard_Concours_2020_18_p4.png"/><fw type="numbering"><lb/>1</fw>
+                <head><lb/><foreign xml:lang="met-fr">Lexique pour</foreign> « EL DUCASS
+                    DES « CŒURS JOYEUX»</head>
+                <list>
+                    <item><lb/>Saimdi:<foreign xml:lang="met-fr">Samedi</foreign></item>
+                    <item><lb/>al foufelle:<foreign xml:lang="met-fr">très
+                        affairés</foreign></item>
+                    <item><lb/>Chelle:<foreign xml:lang="met-fr">Cette</foreign></item>
+                    <item><lb/>ed’coupes:<foreign xml:lang="met-fr">de
+                        couples</foreign></item>
+                    <item><lb/>ainnée:<foreign xml:lang="met-fr">Année</foreign></item>
+                    <item><lb/>comminchot:<foreign xml:lang="met-fr">commençait</foreign></item>
+                    <item><lb/>l’mariache à
+                        chabots:<foreign xml:lang="met-fr">le mariage en sabots</foreign></item>
+                    <item><lb/>ché vétemints ed din l’timps:<foreign xml:lang="met-fr">les
+                vêtements
+                d’antan</foreign></item>
+                    <item><lb/>cauchés:<foreign xml:lang="met-fr">chaussés</foreign></item>
+                    <item><lb/>querre:<foreign xml:lang="met-fr">chercher</foreign></item>
+                    <item><lb/>n’avotent:<foreign xml:lang="met-fr">n’avaient</foreign></item>
+                    <item><lb/>garchon:<foreign xml:lang="met-fr">garçon</foreign></item>
+                    <item><lb/>vn’u
+                        au monte:<foreign xml:lang="met-fr">venu au monde</foreign></item>
+                    <item><lb/>bochu
+                        :<foreign xml:lang="met-fr">bossu</foreign></item>
+                    <item><lb/>jainmais:<foreign xml:lang="met-fr">jamais</foreign></item>
+                    <item><lb/>machon:<foreign xml:lang="met-fr">maçon</foreign></item>
+                    <item><lb/>lites:<foreign xml:lang="met-fr">litres</foreign></item>
+                    <item><lb/>comarates:<foreign xml:lang="met-fr">camarades</foreign></item>
+                    <item><lb/>maime:<foreign xml:lang="met-fr">même</foreign></item>
+                    <item><lb/>grinde:<foreign xml:lang="met-fr">grande</foreign></item>
+                    <item><lb/>longtimps:<foreign xml:lang="met-fr">longtemps</foreign></item>
+                    <item><lb/>jône:<foreign xml:lang="met-fr">jeune</foreign></item>
+                    <item><lb/>veuffe:<foreign xml:lang="met-fr">veuve</foreign></item>
+                    <item><lb/>aveuque:<foreign xml:lang="met-fr">avec</foreign></item>
+                    <item><lb/>laicher:<foreign xml:lang="met-fr">laisser</foreign></item>
+                    <item><lb/>y
+                        allotent quère:<foreign xml:lang="met-fr">ils allaient chercher</foreign></item></list>
+                <pb n="Picard_Concours_2020_18_p5.png"
+                /><fw type="numbering"><lb/>2</fw>
+                <list><item><lb/>biau:<foreign xml:lang="met-fr">beau</foreign></item>
+                    <item><lb/>quémiche:<foreign xml:lang="met-fr">chemise</foreign></item>
+                    <item><lb/>blinque:<foreign xml:lang="met-fr">blanche</foreign></item>
+                    <item><lb/>blin:<foreign xml:lang="met-fr">blanc</foreign></item>
+                    <item><lb/>bilouet:<foreign xml:lang="met-fr">nœud
+                        papillon</foreign></item>
+                    <item><lb/>patalon:<foreign xml:lang="met-fr">pantalon</foreign></item>
+                    <item><lb/>apiau-buse:<foreign xml:lang="met-fr">chapeau haut de
+                        forme</foreign></item>
+                    <item><lb/>capote à loupes:<foreign xml:lang="met-fr">queue de
+                        pie</foreign></item>
+                    <item><lb/>accatot:<foreign xml:lang="met-fr">achetait</foreign></item>
+                    <item><lb/>rabillot:<foreign xml:lang="met-fr">rhabillait</foreign></item>
+                    <item><lb/>cortéche:<foreign xml:lang="met-fr">cortège</foreign></item>
+                    <item><lb/>formot:<foreign xml:lang="met-fr">formait</foreign></item>
+                    <item><lb/>promisse:<foreign xml:lang="met-fr">promise</foreign></item>
+                    <item><lb/>grin:<foreign xml:lang="met-fr">grand</foreign></item>
+                    <item><lb/>sorliers:<foreign xml:lang="met-fr">souliers</foreign></item>
+                    <item><lb/>cauchot:<foreign xml:lang="met-fr">chaussait</foreign></item>
+                    <item><lb/>gints:<foreign xml:lang="met-fr">gants</foreign></item>
+                    <item><lb/>grind-mère:<foreign xml:lang="met-fr">grand-mère</foreign></item>
+                    <item><lb/>faigeot:<foreign xml:lang="met-fr">faisait</foreign></item>
+                    <item><lb/>dintelle:<foreign xml:lang="met-fr">dentelle</foreign></item>
+                    <item><lb/>mettot:<foreign xml:lang="met-fr">mettait</foreign></item>
+                    <item><lb/>calot:<foreign xml:lang="met-fr">béret</foreign></item>
+                    <item><lb/>ch’étot:<foreign xml:lang="met-fr">c’était</foreign></item>
+                    <item><lb/>rimplachot:<foreign xml:lang="met-fr">remplaçait</foreign></item>
+                    <item><lb/>n’voulot:<foreign xml:lang="met-fr">ne
+                        voulait</foreign></item>
+                    <item><lb/>mascaratte:<foreign xml:lang="met-fr">mascarade</foreign></item>
+                    <item><lb/>ouvrot :<foreign xml:lang="met-fr">ouvrait</foreign></item></list><pb
+                    n="Picard_Concours_2020_18_p6.png"
+                /><fw type="numbering"><lb/>3</fw>
+                <list><item><lb/>maguette:<foreign xml:lang="met-fr">chèvre</foreign></item>
+                    <item><lb/>ch’l’arpas d’noce:<foreign xml:lang="met-fr">le repas de
+                    noces</foreign></item>
+                    <item><lb/>forche ed campane:<foreign xml:lang="met-fr">forge de
+                        campagne</foreign></item>
+                    <item><lb/>mète:<foreign xml:lang="met-fr">mètre</foreign></item>
+                    <item><lb/>tiote:<foreign xml:lang="met-fr">petite</foreign></item>
+                    <item><lb/>grile:<foreign xml:lang="met-fr">grille</foreign></item>
+                    <item><lb/>au
+                        d’seur:<foreign xml:lang="met-fr">au dessus</foreign></item>
+                    <item><lb/>din l’sins :<foreign xml:lang="met-fr">dans le sens</foreign></item>
+                    <item><lb/>y faiche sin
+                        burre:<foreign xml:lang="met-fr">il fasse son beurre</foreign></item>
+                    <item><lb/>manèche:<foreign xml:lang="met-fr">manège</foreign></item>
+                    <item><lb/>quévaux
+                        d’bos:<foreign xml:lang="met-fr">chevaux de bois</foreign></item>
+                    <item><lb/>d’auto timponeusses:<foreign xml:lang="met-fr">auto
+                        tamponneuses</foreign></item>
+                    <item><lb/>lotrie:<foreign xml:lang="met-fr">loterie</foreign></item>
+                    <item><lb/>minger:<foreign xml:lang="met-fr">manger</foreign></item>
+                    <item>lb/>l’ape à
+                        zièpe:<foreign xml:lang="met-fr">arbre à savon mou (mat de
+                        cocagne)</foreign></item>
+                    <item><lb/>reule:<foreign xml:lang="met-fr">roue</foreign></item>
+                    <item><lb/>guimbon:<foreign xml:lang="met-fr">jambon</foreign></item>
+                    <item><lb/>impapéné:<foreign xml:lang="met-fr">enduit</foreign></item>
+                    <item><lb/>glichot:<foreign xml:lang="met-fr">glissait</foreign></item>
+                    <item><lb/>artouchotent:<foreign xml:lang="met-fr">retouchaient</foreign></item>
+                    <item><lb/>perdot:<foreign xml:lang="met-fr">prenait</foreign></item>
+                    <item><lb/>l’tiète
+                        à l’ogeon :<foreign xml:lang="met-fr">la tête de l’oie</foreign></item>
+                    <item><lb/>El velle:<foreign xml:lang="met-fr">la
+                        veille</foreign></item>
+                    <item><lb/>Tindu:<foreign xml:lang="met-fr">tendu</foreign></item>
+                    <item><lb/>Cabe:<foreign xml:lang="met-fr">cable</foreign></item>
+                    <item><lb/>Intreu :<foreign xml:lang="met-fr">entre</foreign></item>
+                    </list>
+                <pb
+                    n="Picard_Concours_2020_18_p7.png"/><fw type="numbering"><lb/>4</fw>
+                <list><item><lb/>ch’l’arbatteux
+                    d’matelas:<foreign xml:lang="met-fr">profession actuellement disparue qui consistait à<lb/>« démonter le
+                matelas, carder la laine et refaire le matelas avec cette laine « rafraichie
+                »)</foreign></item>
+                    <item><lb/>mitan:<foreign xml:lang="met-fr">milieu</foreign></item>
+                    <item><lb/>mandlette:<foreign xml:lang="met-fr">panier en
+                        osier</foreign></item>
+                    <item><lb/>troé:<foreign xml:lang="met-fr">troué</foreign></item>
+                    <item><lb/>qu'mincher:<foreign xml:lang="met-fr">commencer</foreign></item>
+                    <item><lb/>faulot:<foreign xml:lang="met-fr">fallait</foreign></item>
+                    <item><lb/>bindés:<foreign xml:lang="met-fr">bandés</foreign></item>
+                    <item><lb/>sape:<foreign xml:lang="met-fr">sabre</foreign></item>
+                    <item><lb/>viu:<foreign xml:lang="met-fr">vieux</foreign></item>
+                    <item><lb/>s’mettot:<foreign xml:lang="met-fr">se
+                        mettait</foreign></item>
+                    <item><lb/>avinchot:<foreign xml:lang="met-fr">avançait</foreign></item>
+                    <item><lb/>arrétot:<foreign xml:lang="met-fr">arrêtait</foreign></item>
+                    <item><lb/>mettotent:<foreign xml:lang="met-fr">mettaient</foreign></item>
+                    <item><lb/>cop:<foreign xml:lang="met-fr">coup</foreign></item>
+                    <item><lb/>o
+                        bin:<foreign xml:lang="met-fr">ou
+                        bien</foreign></item>
+                    <item><lb/>quequefos:<foreign xml:lang="met-fr">quelquefois</foreign></item>
+                    <item><lb/>quéiot:<foreign xml:lang="met-fr">tombait</foreign></item>
+                    <item><lb/>montot:<foreign xml:lang="met-fr">montait</foreign></item>
+                    <item><lb/>équelle:<foreign xml:lang="met-fr">échelle</foreign></item>
+                    <item><lb/>d’armette
+                        comme y fot:<foreign xml:lang="met-fr">de remettre comme il faut</foreign></item>
+                    <item><lb/>sin qu’personne il voche:<foreign xml:lang="met-fr">sans
+                que personne ne le
+                voit</foreign></item>
+                    <item><lb/>gaingnot:<foreign xml:lang="met-fr">gagnait</foreign></item>
+                    <item><lb/>amenot:<foreign xml:lang="met-fr">amenait</foreign></item>
+                    <item><lb/>rintrottent:<foreign xml:lang="met-fr">rentraient</foreign></item>
+                    <item><lb/>s’arcanger:<foreign xml:lang="met-fr">se
+                        chnger</foreign></item>
+                    <item><lb/>minger in tio morciau :<foreign xml:lang="met-fr">manger un petit morceau</foreign></item></list><pb
+                    n="Picard_Concours_2020_18_p8.png"/><fw type="numbering"><lb/>5</fw>
+                <list><item><lb/>bureau d’toubaque:<foreign xml:lang="met-fr">bureau de
+                    tabac</foreign></item>
+                    <item><lb/>l’ouvrache:<foreign xml:lang="met-fr">l’ouvrage</foreign></item>
+                    <item><lb/>arployer chés cayelles:<foreign xml:lang="met-fr">replier les
+                        chaises</foreign></item>
+                    <item><lb/>les tapes:<foreign xml:lang="met-fr">les tables</foreign></item></list></div>
+        </body>
+    </text>
+</TEI>

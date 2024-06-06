@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_33</idno>
+                <title type="main"> K'min et pourkoi Kilian Cafougnette i s'a fait dessaquer par sin
+                    père ed' l'Ecole Laïque </title>
+                <title type="collection">Picard Concours</title>
+                <author>Guy, FONTAINE</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> K'min et pourkoi Kilian Cafougnette i s'a fait dessaquer par sin père
+                        ed' l'Ecole Laïque </title>
+                    <author>Guy, FONTAINE</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="90">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="10">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_33_p1.png"/>
+                <fw type="numbering"><lb/>N°33</fw>
+                <p><lb/>Killian Cafougnette<lb/>1989 rue Staline<lb/>02400 Essomes-sur-Marne</p>
+                <p><lb/>Bonjour à tertoutte et à tertousse, et granmint d’amitchiés resectueusses
+                    à ch' Directeur<lb/>ed' l’Agince d'el région pour el' lanque picarte, tout cha
+                    d’la part ed' mi, Killian Cafougnette,<lb/>et d'mon mon-onc' Kléber
+                    Cafougnette.</p>
+                <p><lb/>J'écris cheull' lett' et j'raconte el conte pour mi gagner tros chints
+                    euros, pour mi passer min<lb/>permis moto.</p>
+                <p><lb/>À ch’bout du bout d’min mot d'billet, j’ai épiulé min ARIB (AR’levé
+                    d’Idintité Bancaire) pour<lb/>ti z’ott' m’invoyer ché sous d’el premier
+                    prix.</p>
+                <p><lb/>J'ai mieux querre que vous réponse all’ arrif à cheull Caisse d’Éparne
+                    ed' l’Écureull à Quentin,<lb/>putôt à m’maison, rue Staline, à
+                    Essomes-sur-Marne.</p>
+                <p><lb/>Ch’est mon mon-onc' Kléber qui m’a donné ché bons consels : «Asteur, te
+                    dos êtt' politiqu’mint<lb/>corrèque! Mettons qu'té resses: 11 rue Chainte
+                    Cécile à Chaint-Quentin, teu dis qu'té resses<lb/>rue Cécile, à Quentin.»
+                    Pass' que, dins leur tchiête, à che journalisses d’el télévision, tous
+                    chés<lb/>culs-bénis et chés garnoulles ed' bénitchier, ch’est des
+                    pédésexuels... Alors, teu fais attintion !</p>
+                <p><lb/>J’y ai répondu que mi, j'restos rue Staline, et que cha, il le savot. «Bin,
+                    ch’est pas tell’mint<lb/>mieux, qui m’a dit. I n’a qui r’gartent à chés
+                    détals. Staline, y a organisé des famines. Ch’est<lb/>tout d'même pas
+                    politiqu’mint corrèque! In y busiant, politiqu’mint, ch’est même du<lb/>brin
+                    qu’y a fait. Teu s’ros mieux à dire que teu resses rue Lénine, mais tin
+                    courrier et pis<lb/>t' dringuelle pou ch' premier prix d’littérature in picard,
+                    i n’arriv’ront'te pon à l’maison,<lb/>y a pas d’avance», qu’i a dit mon
+                    mon-onc'.</p>
+                <p><lb/>Alors, in m'ramintuvant de m'première année d’BTS «Markieting
+                    Éco-Responsap'» à cheull’<lb/>Cirté Scolaire Gagarine, j' vous invos ichi
+                    deux-tros feull’s ed' cacoules pour ech' concours.<lb/>Abile que l’arvinds min
+                    vélo pour mi aller à min nouviau lycée su' m'moto !</p>
+                <p><lb/>C'mint et pourquoi Killian Cafougnette el' garchon a Roger Cafougnette sin
+                    fiu a l'illust' Zeph Cafougnette ac' es' n'epousse<lb/>Veronique. i s'a fait
+                    dessaquer âr sin pere ed' l'ecole laïque...</p>
+                <p><lb/>Eun histoere pikareske in picard qu'alle est politiquimint corregue grâce a
+                    son mon-onc Kléber Cafougnette</p>
+                <pb n="Picard_Concours_2020_33_p2.png"/>
+                <p><lb/>Cha qu’y est écrit in caractères gras, juss' pad' zeure, ch’est
+                    ch’titt'.</p>
+                <p><lb/>Mon mon-onc' Kléber i m’a dit qu’i fallot marquer «Pikarèsk» dins l'titt’,
+                    pasque tout y s' passe<lb/>in Picardie et comme cha m’n hitoè̈re all' s’ra
+                    célèp' avec un personnache célèp' et granmint<lb/>d' droits d’auteur.</p>
+                <p><lb/>«Té vos, qui a fait, Manon Lescaut, ch’est un roman qu’y a été écrit in
+                    Picardie, et ousque<lb/>cheull' femm’, Manon, alle est Pikarèsk. Eh ben, v’là
+                    ichi un liff qu’y a été racaté pour faire<lb/>eun' comédie musicale :
+                    prinds-z-in d’eul' graine, maloutte !»</p>
+                <p><lb/>Cha m’étonn’rot que mes comarates d’école, Johnny Branqu'ed' Thym et Raoul
+                    Catouillard,<lb/>cha les intéresse, mais à m' mote que Kimberley et Jessica
+                    all’s auront querre ed juer dins<lb/>eun' comédie musicale : Pivoine, sa sœur
+                    jumelle à Jessica, après qu’alle a eu sin Bac Pro in<lb/>Management/
+                    Communication, alle a té à chés écoles ed' Lille, pour faire eun' licence
+                    des<lb/>métchiers du spectac'. Alle a suivi tous ches cours d’expression
+                    corporelle, alle a jamais eu<lb/>sin diplôme, mais asteur alle dans toute nute
+                    dins ch' Cabaret Discount de Dodo la Saumure à<lb/>Tournai.</p>
+                <p><lb/>Jessica, alle est restée ac Kimberley, Branqu' ed' Thym, Catouillard, Enzo,
+                    Mouloud et<lb/>pis mi à l’Cité Scolaire Gagarine. In peut dire tout qu’est-ce
+                    qu’on veut su' ch' Directeur<lb/>Bistouquette, mais l’Bac pro, tout l'monte y
+                    l’a eu, ch' t’année-la, même cheux-lalle qui<lb/>savottent compter seul’mint
+                    avec eun' calculette ou cheusse qui féjottent queuette tout<lb/>l'temps!</p>
+                <p><lb/>Ch’est cha qui m’embête un peu qu'min pere i veut m' dessaquer d’ech' Cité
+                    Scolaire à<lb/>Bistouquette : ch’est vrai qu’y est jamais à sin bureau, vu
+                    qu’y est toudis in route à faire<lb/>el' biau d’vant chés garénelles, mais
+                    t’in connos, ti z’ott’, eun' aut' école comme cha ?<lb/>Mon mon-onc' Kléber y
+                    a découpé l’artic' dins cheull' gazette UNSUD Éducation:</p>
+                <div xml:lang="met-fr">
+                    <head><lb/>Lycée Garagrine : halte à la stigmatisation / une modélisation
+                        exemplative</head>
+                    <p><lb/>Dans le cadre d’un plan pluriannuel de discrimination positive, objectif
+                        105 pour 100 de réussite au BTS, avec<lb/>intégration adaptée dans
+                        l’ensemble des Masters de l’Université, sur Validation des Acquis de
+                        l’Expérience.</p>
+                </div>
+                <p><lb/>Ch’est li qui m’a espliqué qu' ch’étot vraimint eun' bonn' since pour tous
+                    cheuss qui voulottent<lb/>faire des Hautes Éteutt's même que cha s’rot des
+                    inchpés, d'zébeuhes, des niques ed' doulles<pb
+                        n="Picard_Concours_2020_33_p3.png"/><lb/>ou des mitans d'sots; «l’arconnos
+                    que je n'comprinds mi c’mint vous s’rez 105 pour 100 à<lb/>décrocher vou BTS,
+                    vu qu’y a fauque l4 inscrits dins cheull' section, à mon Gagarine. Pour<lb/>mi,
+                    el' seule imbroull' qu’alle pourrot s' présinter, ch’est quand qu'teu devras
+                    faire vire tin<lb/>CV à ches gins pour ti rintrer dins un Master et pis v’nir
+                    Directeur ou bin Cosmonaute.» Ia<lb/>busié dins s' tchiête, et i a fait : «I
+                    faut rester politiqu’moint correc'. Sur tin CV, duss que ch’est<lb/>marqué:</p>
+                <div xml:lang="met-fr">
+                    <p><lb/>Établissement et section d’origine</p>
+                </div>
+                <p><lb/>teu vas écrire:</p>
+                <div xml:lang="met-fr">
+                    <p><lb/>Cité Scolaire Publique, Brevet de Technicien Supérieur,<lb/>Marketing
+                        Éco-Responsable -Académie des Hauts de France</p>
+                </div>
+                <p><lb/>Et si on t' pose des questchions, teu peux dire ek t’as toudis eu querre
+                    juer ac des avions in<lb/>papier ou bien intiquer de l’pourette explosif dins
+                    des fusées in carton quand ch’est bétot<lb/>Carnaval, mais n’va pas chi
+                    raconter qu'teu viens d’ l’École Gagarine.»</p>
+                <p><lb/>Chés imbroulles all’s ont c’minché quand j’ai té dire a min père qu’in
+                    s’étot camuché pad' zou<lb/>ches tapes dins l' salle ed' classe, in freumant
+                    chés rideaux, in soufflant chés leumières et in<lb/>barrant chés portes.
+                    Pour un cop qu’i m' demindot cha qu'j’avos fait à l’école, y’a fallu
+                    qu'cha<lb/>queuche el' soir du jour que Bistouquette y avot prévu cun
+                    entrainement anti-intrusion dans<lb/>l’enceinte de l’établissement»!</p>
+                <p><lb/>«Et combien d’temps qu' cha a duré, ch' jus-là ?», qu’i a dit min père,
+                    tout in foufele. «Et<lb/>qui ch’est cheull' jonn' fill' qu’alle étot enceinte
+                    ?» In a resté ajouqué su' l'denne pindant<lb/>ein' gross' demi-heure, et apres
+                    in a du arrêter à causs' ed' chés fouteux d’brin, et pasque<lb/>Kimberley
+                    alle est homophope: all n’aurot pas su ténir plus longtimps dins l’noir, dins
+                    ein'<lb/>pièche qu’alle restot freumée.</p>
+                <p><lb/>- «Et ti, t’as pas fait tin agozill' ?</p>
+                <p><lb/>- J'ai mis ein' tart' su' s'guiff à Catouillard, vu qu’y avot passé sin
+                    temps à péter dins nou<lb/>narines. Et pis j’avos d' mô à mes glaouïs,
+                    pass' que j' m’avos fait tâter les pronnes.</p>
+                <p><lb/>- Et ch'maît', i n’a rien dit ? Qui ch’est qui t’avot fait cha ?</p>
+                <pb n="Picard_Concours_2020_33_p4.png"/>
+                <p><lb/>-Ch' maît' y est allé pour faire un rapport à ch' directeur et, pour ein'
+                    fos qu'Bistouquette<lb/>y étot à son poss', y s’avot aussi intiqué sous ch'
+                    bureau, avec Jehanne Déprime, cjeull'<lb/>proviseure adjointe !...</p>
+                <p><lb/>- Et mi, j’avos d’mô, et je n' sais toudis pon si ch’est Johnny Branqu'ed'
+                    Thym ou bin Jessica<lb/>qui z'ont jué ac mes deux boules...</p>
+                <p><lb/>- Acoute me chi, garchon: dins l’famill' Cafougnette, in n'va pas souvint à
+                    l’messe, mais in a<lb/>de l'moralité.</p>
+                <lg>
+                    <l><lb/>Si t’es appris comme cha, à mon d'l’École Laïque,</l>
+                    <l><lb/>Cros-me, in va t’inscrire dins l’circuit catholique:</l>
+                    <l><lb/>Même si cha nous fait quier, pass' qu’in dévra payer,</l>
+                    <l><lb/>Nous, in veut qu'nous infants y seuchent bien éduqués.»</l>
+                </lg>
+                <list>
+                    <head><lb/>Conclusion(s):</head>
+                    <item><lb/>. Mi, cha m’a saoûlé, deja pass' que min pere, sans l’faire
+                        d’exprès, y s’a mis à parler in<lb/>viers. Et cha, mon mon-onc' Kléber, y
+                        m’a dit qu' cha n’étot pon admis dins ch’règlemint du<lb/>concours pour mi
+                        ganer tros chints euros ! Mais tout cha qu’y est dins m’n' histoè̈re,
+                        ch’est<lb/>fauque el vérité; jé n'sauros pon la trafiquer. Donc, i faut
+                        m’escuser pou ché viers.</item>
+                    <item><lb/>. Cha m’a imbêté, aussi, qu’i m' dessaque d’em' n’école pass'
+                        qu'asteur j' vas vraimint devoir<lb/>em' mette au travall’ pour mi avoir min
+                        BTS. In arvénant à Jessica, Mouloud, Enzo, Kimberley<lb/>et même
+                        Catouillard, si y' arrêtot d' péter, in va s’arteuver ! In a rendez-vous
+                        Mercredi des<lb/>Chind’es au Carnaval ed' Dunkerque, à mon Branqu' ed Thym,
+                        pour faire chapelle.</item>
+                    <item><lb/>. Cha qui m’rassure, ch’est s' promotion à Bistouquette: y a té
+                        nommé personnell’mint par<lb/>el' Miniss' «Directeur au Centre Régional
+                        Inter-Départemental Pédagogique Saint-Éxupéry»<lb/>Ch’est justemint là
+                        qu'min père y m’avot inscrit... Meme qu’y a été surpris su' l'cop, vu
+                        qu’à<lb/>mon Saint-etExupéry, ch’étot... gratuit !</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

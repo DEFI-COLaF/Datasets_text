@@ -1,0 +1,961 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_35</idno>
+                <title type="main"> Euch'mystère du bo Erness</title>
+                <title type="collection">Picard Concours</title>
+                <author>Michel , LEMOINE </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Euch'mystère du bo Erness</title>
+                    <author>Michel , LEMOINE </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="95">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_35_p1.png"/>
+                <fw type="numbering"><lb/>N°35</fw>
+                <fw type="numbering"><lb/>1</fw>
+                <div type="part">
+                    <fw type="numbering"><lb/>1</fw>
+                    <head><lb/>Euch’mystère du bo Erness</head>
+                    <p><lb/>Il est huit heures, tiot Léon met sin cache-nez, print sin sac à
+                        dos<lb/>aveuc ses lifs, ses cahiers pi aussi sin casse-croute pou midi pache
+                        qu’à<lb/>s’n’école, n’a pon cor eud cantine et après avoir imbrassé
+                        s’mère, il<lb/>print l’route pou l’école. Prinde eul' route, ché gramin
+                        dire, ses<lb/>parints, y sont sinsiers et z' habittent tout au bout d’un
+                        qu’min pon<lb/>goudronné. Ch’gosse, qui a huit ins, y drot partir eud bonne
+                        heure<lb/>pour li attraper ch’autobus qui s’arrête ach’ carrefour su
+                        l’route<lb/>nationale. Ch’qu’min d’terre est bordé d’camps bin sûr. Ya un
+                        tiot<lb/>fossé su l’drote, aveuc ed l’ieau d’dins. In ch’momint qui fait
+                        sec, cha<lb/>va, mais quind y pleut gramin, ch’fossé y déborte et sin
+                        père il est<lb/>pon containt. Il a déjà été l’dire al mairie, mais ché
+                        sous y minquente<lb/>in ch’momint dins l’caisse d’eul commune pou faire des
+                        travaux. Su<lb/>l’gauche, y a des bettrafes jusqu’au bord de ch’q’min.
+                        L’sinsier qu’y<lb/>cultif euch canmp, il a eu peur eud perte enne roque (1)
+                        ed terre et il<lb/>a labouré jusqu’à chez caillots. Ch’quemin, y fait bin
+                        quat chins mètes<lb/>eud long, mais à in indrot, sul gauche, y a un tiot
+                        bo. Ch’bo Erness<lb/>qu’in l’appelle. Personne a connu Erness et personne
+                        n’sait pourquo<lb/>in l’appelle comme cha. D’ailleur, ché in bo si in veut.
+                        Y fait tout just<lb/>trinte métes eud larque sur une tiote quinzaine ed
+                        profondeur. N’a<lb/>personne qui sait à qui qu’ché et l’motié d’chès
+                        peupliers qui sont<lb/>d’dins y sont morts ou bin quéillus (2). Ché
+                        fougères et chés ronches<lb/>l’ont invahi et in auraut bin du ma à
+                        l’traverser. Ché chasseurs du<lb/>coin, y sont bin contints car même ché
+                        quiens y n’peuvtent pon y<lb/>rintrer et cha leur fait eune belle réserfe
+                        eud gibier. Tout in<pb n="Picard_Concours_2020_35_p2.png"/><fw
+                            type="numbering"><lb/>2</fw><lb/>avinchant, tiot léon y busille (3).
+                        Bin qu’ché pon cor tout à fait<lb/>l’saison, ses parints y z’ont promis
+                        Diminche d’aller faire in tour à la<lb/>mer. Ché putôt rare qu’y s’in
+                        vont, mais in ch’momint, y sont putôt<lb/>in avinche su leur ouvrache.</p>
+                    <p><lb/>Arrivé au mitant de ch’bo, y vo qu’eune auto al a voulu faire
+                        d’mi-<lb/>tour et comme euch quemin n’est pon larque, ches deux
+                        reules<lb/>arriéres al sont vnues sul’bord d’euch fossé et al z’ont
+                        minqué<lb/>d’quère ed' dins. Malgrès tout, ché reules d’eud d’vin al
+                        z’ont<lb/>patinées et in vo qu’des gins, y z’ont du déquinte et pousser a
+                        ch’cul<lb/>pou l’déraquer (4). Comme ché eune année sèque et qu’cha fait
+                        bin<lb/>quinze jours qu’il a pon pleu, in vo pon gramin (5) d’traces
+                        su<lb/>ch’quemin, a part q’ché reules eud’ d’vin al z’ont arraché des
+                        caillots<lb/>pour arriver à r’partir. Tiot Léon, cha l’intrigue in tiot
+                        peu et y<lb/>ravisse tout autour in essayant d’vire chou qui s’est passé.
+                        Alors, à<lb/>inviron tros mêtes dins ch’bo, il vo, parmi chez ortilles et
+                        ché<lb/>fougères, queut'cosse eud rose. In ravisant bin y vo qu’ché
+                        eune<lb/>baskette.</p>
+                    <p><lb/>Cha l’intrigue, mais, comme l’heure al avinche et qui n’veut
+                        pon<lb/>louper sin car, y s’in va in courant pour rattraper l’timps
+                        perdu.<lb/>Pindaint l’classe, il arrête pon d’y r’pinser et l’maitresse, al
+                        vo bin<lb/>qu’il est dins la lune, li qui d’habitute est si attintif. Quech
+                        qui s’pass<lb/>Léon, t’est pas bin réveillé ch’matin? (in réalité, al y
+                        parle in frinçais,<lb/>mais ché mi qui raconte qui parle patois). Non
+                        m’dame, cha va bin.<lb/>J’vo bin qu’a queut' cosse qui t’racasse. Allez
+                        raconte me. Et tiot<lb/>Léon raconte ch’qu’il a vu. L’maîtresse, al fait
+                        simblant de rin, mais<lb/>al print cha au sérieux. Tiot Léon! Viens chi à
+                        m’plache, j’ai eune<lb/>commisssion à faire euq j’avos oubliée, surveilles
+                        tes camarates, j’a<lb/>r’viens tout d’suit. Et, si sont pas saches, té mel
+                        dira quind<lb/>j’arviendrai. Aussitôt, al s’in va al mairie. Cha quait
+                        bien, ch’maire il<lb/>est là. Ch’est putôt rare dins l’jour car ché in
+                        sinsier li aussi. Il est<pb n="Picard_Concours_2020_35_p3.png"/><fw
+                            type="numbering"><lb/>3</fw><lb/>intrain d’parler aveuc un jaune homme
+                        que ch’l’institutrice al connot<lb/>pon. Ché in jaune homme putôt grind,
+                        aveuc des longs chveux et des<lb/>baskettes à ses pieds qui s’armaqu’tent
+                        (6) tout d’suite parche qu’al<lb/>sont roses fluo. Al deminde à ch’maire
+                        d’y parler à li tout seu et<lb/>ch’maire y dit à ch’garchon d’aller faire
+                        un tour dehors. Alors al y<lb/>raconte chou que ch’gamin Léon y ya dit. Pi
+                        al artourne à s’n’école.</p>
+                    <p><lb/>Ch’maire y fait rintrer ch’gamin et il y dit : Viens, in va aller faire
+                        in<lb/>tour à ch’bo Erness, y parait qu’y s’a passé queut cosse là
+                        và.<lb/>Ch’jaune homme, il a acouté à l’porte chou qui s’est dit et y
+                        répond<lb/>qu’il a pon quère cha et qui préfère pon y aller. Alors euch
+                        maire, y<lb/>vo passer ch’facteur. Il y dit d’poser sin vélo et d’vénir
+                        aveuc li.<lb/>Ch’facteur, cha l’arringe pon gramin, il a pon fini
+                        s’tournée, mais il y<lb/>va quind même. Y monte dins l’camionette de
+                        ch’maire, non sins<lb/>avoir éssuyé ch’sièche plein d’poussiére pour li
+                        pon salir sin patalon.</p>
+                    <p><lb/>Y a bien eune quinzaine eud kilomêtes pour rattraper
+                        l’route<lb/>nationale et pindint ch’timps là, ch’maire il esplique chou qui
+                        sait à<lb/>ch’facteur.</p>
+                    <p><lb/>Arrivé su l’route nationale, in tiot bout après, in apperchot
+                        eune<lb/>alleumette (in piquet blinc aveuc in bout rouche). Ché là! Qu’y
+                        dit<lb/>ch’maire. Y met sin clignotant et y s’ingage dins qu’min
+                        d’terre.</p>
+                    <p><lb/>Du coup, y r’pinse ach' sinsier qui s’plaint d’euch' quemin quind
+                        y<lb/>pleu et y n’sait pon quind' èche qui pourra faire curer ch’fossé.
+                        Peu<lb/>de tinps après, y z’arivtent’ à ch’bo. Y vottent bin chés traces
+                        eud<lb/>pneux, mais y ont pon leurs yux exercés comme euch gamin, alors
+                        y<lb/>sont obligés d’avincher in tiot peu din ch’herpe in écartant
+                        ché<lb/>branques et in évitin d’eus faire piquer par chés ortiles. Alors
+                        là, y<lb/>vottent eule baskette, mais y vottent égalemint des traces eud
+                        pas<lb/>aveuc, au mitan eune trace régulière comme si in avot triné
+                            queud<pb n="Picard_Concours_2020_35_p4.png"/><fw type="numbering"
+                            ><lb/>4</fw><lb/>cosse. Y s’avinch’tent donc et qu’èche qui vottent :
+                        Un corps eud<lb/>jaune feume allongé su l’vinte aveuc eusse robe
+                        artroussée et<lb/>s'culotte abachée y vottent aussi qu’y l’y minque inne
+                        queuchure (6).<lb/>Tout d’suite, euch maire y dit: Touchons à rin et allons
+                        prév’nir chés<lb/>gindarmes. Y r’montent tous les deux din ch’l’auto.
+                        Ch’maire il y<lb/>fait faire demi-tour. Il est obligé d’faire pusieurs
+                        manoeufes et y s’in<lb/>r’va bin vite sin pinser qu’il a effacé les tros
+                        quarts eud' ché traces<lb/>qu’l’aut bagnole al avot léchée.</p>
+                    <p><lb/>A six heures au soir, tiot Léon rinte à s’mason. Y raconte à sin
+                        père<lb/>chou qu’il a vu au matin in s’in allant à l’école et pi qu’al
+                        sortie, il a<lb/>vu ché gindarmes dins ch’villache. Sin père il y dminde
+                        s’il a raconté<lb/>cha à l’école. Bin ouai qui dit. Aye aye aye qui dit
+                        ch’père, in a pon<lb/>fini d’éte imbété.</p>
+                    <p><lb/>Cha minque pon. Deux minutes après, in tapte al porte. Ché
+                        chés<lb/>gindarmes. Bonjour monsiu, ché bin vot tiot qui a vu qu’eut
+                        cosse<lb/>ch’matin? (chés gindarmes, y parlent té pon non pus patois, mais
+                        ché<lb/>mi qui raconte) Ben ouais, mais y n’in sait pon d’pus et mi non
+                        pus.<lb/>Ech que vous étes sortis ch’matin? Bin ouais, j’ai été
+                        pulvériser min<lb/>camp d’blé qui s’treufe din l’commune voisine. Il
+                        étôt qeule heure?<lb/>Chinq heures et d’mi-six heures, avint qu’eul rosée
+                        al seuche partie.<lb/>Vous avez pris ch’quemin là? Forchémin, y n’a pon
+                        d’aute. Et vous<lb/>n’avez rin vu? Bin non, vous savez quind in conduit in
+                        tracteur aveuc<lb/>eune charge eud’ deux tonnes ach’cul, in fait surtout
+                        attintion à aller<lb/>drot. Vous avez pon crogé ine auto? Non... ah!,
+                        ach’t’heure<lb/>euq’vous l’digez, quind j’sus arrivé su l’route nationale,
+                        j’ai été<lb/>étonné, eune auto al s’est arrétée pou m’laicher passer.
+                        Ché bin<lb/>l’preumière fo qu’cha m’arrive, des fos, j’su obligé
+                        d’atteinte in bon<lb/>momint qui n’euche pu personne. Que genre d’auto? J’ai
+                        pon fait<lb/>attintion, al étot noirte ou bin bleu foncé, mais j’ai pon
+                        ravisé<lb/>l'plaque d’immatriculation. Al venot du côté d' l’autoroute.
+                            J’ai<pb n="Picard_Concours_2020_35_p5.png"/><fw type="numbering"
+                            ><lb/>5</fw><lb/>quind même vu qu’y z’étotent à plusieurs eud d’in et
+                        j’leur ai fait<lb/>seine merci. Vous n’savez rin d’eut ? Bin non. Que
+                        voulez-vous que<lb/>j’vous diche? Bon, merci de vos rinseig’mints. P’t’ète
+                        qu’in r’vindra<lb/>vous r’vire. Si queut cosse vous r’passe dins vot tiète,
+                        n’oubliez pon<lb/>eud v’nir nous l’dire.</p>
+                    <p><lb/>Ché gindarmes bin sûr, y trinsmettent à leur hirarchie, qui
+                        transmet<lb/>au parquet, qui avertit ch’commisariat l’pu proche, qui li
+                        même<lb/>invoye in inspecteur eud police judiciaire aveuc eune
+                        équipe<lb/>scientifique.</p>
+                    <p><lb/>Ch’inspecteur, un bonhomme assez viu déjà, proche eud’l’artraite
+                        à<lb/>vire es n’allure, il arrife su l’indrot du cadafe aveuc eus n’équipe
+                        ed<lb/>savaints. Cheux là s’mettent eune tenue blinque et aussitôt
+                        s’mettent<lb/>au traval. Li, il acoute in tiot peu ch’qui disetent chès
+                        gindarmes, pi y<lb/>print s’n’auto et file à ch’villlache.</p>
+                    <p><lb/>Contrarmin à ch’in pourrot pinser, y va pon directemint à
+                        l’mairie,<lb/>mais à ch’bistrot d’l’aut côté d’el plache. Comme in y a
+                        dit qu’euch<lb/>facteur il avot participé al découverte, y s’doute bin
+                        qu’tout<lb/>ch’vilache y est au courint. D’ailleurs y a déjà des autos
+                        qu’arriftent et<lb/>in vot bin qu’ché des journalistes. In intrant, y
+                        s’fait pon connouainte<lb/>tout d’suite. Y veut d’avinche acouter chou qui
+                        s’dit. Y là tros quate<lb/>bonhommes qui, bin sûr, discutent ed l’affaire.
+                        Ché surmint eune<lb/>prostituée qu’a la pon bin fait sin boulot, qui n’a
+                        un qui dit.<lb/>Ch’inspecteur, y comminde in café et in cognac. Du coup,
+                        ché types<lb/>y s’artountent et vayant qu’ché in étringer, n’a pu un qui
+                        dit in môt.<lb/>L’patron y vient l’servir et ch’inspecteur, il y moute eus
+                        carte eud<lb/>police et li d’minde ch’qu’il a intindu dire. Pindin ch’tinps
+                        là chés<lb/>camions d’télévision y arrivtent. Y n’a tellemin qu’y
+                        saventent pus du<lb/>s’garrer. Ch’patron li dit qu’d’après ch’quil a
+                        intindu dire, qu’in<lb/>cadafe eud feume à été trouvé pon lon d’ichi
+                        dins in bo. Vous n’avez<pb n="Picard_Concours_2020_35_p6.png"/><fw
+                            type="numbering"><lb/>6</fw><lb/>pon vu d’trainard par ché timps qui
+                        ceurrent? Ni rien qui vous aurot<lb/>simblé bizarre? Non qui dit ch’patron.
+                        Vous savez, ichi, ché in patelin<lb/>calme. A part quec'fo des jaunes qui
+                        ont in tiot peu trop bu et qui<lb/>font in tiot peu d’grabuge, y s’passe
+                        jamais rin. Au fait, qui dit<lb/>ch’inspecteur, j’và surmin n’navoir pou
+                        quéqu' jours, vous<lb/>connaichez queut' cosse din l’coin pour mi minger
+                        pis dormir?</p>
+                    <p><lb/>Y a bin in Hôtel restaurant à aine vingtaine eud kilométes d’ichi,
+                        mais<lb/>mi, j’peux vous proposer eune champe et j’fais aussi à minger.
+                        Bin<lb/>sûr, ché l’plat du jour, y a pon à cusir. Cha srot quatre vingt
+                        euro par<lb/>jour. Cha m’va tout à fait. Vous m’frez eune note eud frais
+                        quind<lb/>j’partirai. Pou ch’prix là, min patron y sra containt. J’m’in va
+                        r’vire<lb/>su l’terrain chou qui s’passe et vers midi euch s’rai là.
+                        D’accord qui<lb/>dit ch’patron, in minche à midi et d’mi. Faut éte à
+                        l’heure pache que<lb/>l’tiote qu’al vient servir al est là qu’a mi-temps et
+                        j’ai pon l’moyen<lb/>d’y payer des heures sup.</p>
+                    <p><lb/>La d’sus, ch’l’’inspeteur, y print s’n’auto et y s’in r’va à ch’bo
+                        Erness<lb/>vire à co qu’y z’in sont. In route, y pinse qu’ché surmint
+                        ch’l’auto<lb/>qui a am’né ch’cadafe que ch’sinsier il a vu et qui l’a
+                        laiché passer.<lb/>Y voulottent rintrer din ch’qu’min d’terre. Pour v’nir
+                        là, fallot qu’y<lb/>connoch’tent euch' coin. Y sont surmint d’pont d’très
+                        lon d’ichi.<lb/>Il arrife su l’plache, n’a déjà des autos d’gareés tout
+                        l’long d’eul'<lb/>route nationale et y peut pon trouver eune plache. Y
+                        téléphone à chés<lb/>gindarmes eud vénir dégager tout cha, qu’y
+                        voudrot bin pouvoir<lb/>arriver sur les lieux. Ché gindarmes, y dégagtent
+                        comme y peuvtent<lb/>eul’route. Cha tombe ben, vla justemin chés
+                        imbulinciers qui<lb/>arrivtent.</p>
+                    <p><lb/>Sur plache, ché types in blinc, y zont à peu près fini. In gros, y
+                        z’y<lb/>digent que ch’cadafe, il devot déjà éte mort quind in l’a amné
+                        ichi,<lb/>qu’a preumièe vue, il a pont eu d’cop, ch’méd’cin légiste y
+                        n’in verra<pb n="Picard_Concours_2020_35_p7.png"/><fw type="numbering"
+                            ><lb/>7</fw><lb/>surmin d’plus, mais qui n’ont pon gramin d’traces,
+                        chés herpes al<lb/>sont trop drues. Sauf in morciau d’tissus qu’a resté
+                        accroché à eune<lb/>ronche et qui z’ont mis dins in sa d’plastique. Y
+                        z’ont quind’même<lb/>arlévé des imprintes eud pneux, mais al z’étotes
+                        déjà bin effacées par<lb/>eud d’z’eutes pneux et in n’poura sûrmint pon
+                        in tirer grind cosse.</p>
+                    <p><lb/>Ché malheureux qu’cheux qui ont amné ch’cadafe, y zont pon
+                        r’culé<lb/>in tiot peu d’pus, y n’aurottent pon pu r’partir. In a applé
+                        chés<lb/>imbulinciers pou qu’y z’immèntent euch corps à l’institut légal
+                        afin<lb/>qu’y fache l’autopsie. Ch’inspecteur, y ravisse euch cadafe et y
+                        s’dit<lb/>qu’si s’rob ai étôt r’tournée et s’maronne abachée, ché
+                        sur’min<lb/>qu’cheux qui l’on amné là, y z’ont voulu faire croire
+                        qu’chétot un<lb/>crime crapuleux.</p>
+                    <p><lb/>Chés imbulinciers, y postent leur chivière comme y peuvtent dins
+                        ché<lb/>herpes et, aveuc gramin d’précautions, y postent euch' cadafe ed
+                        su in<lb/>laichant l’moins d’leus traces possipes.</p>
+                    <p><lb/>Avint d’s’in aller minger, ch’l’inspecteur y téléphonne à
+                        sin<lb/>commissaire pour lui dire chu qu’y sait jusqu’à
+                        ach’teure.<lb/>Ch’commisaire il y dit qu’y voudrot bin qu'cha seuche vite
+                        réglé. Ché<lb/>nouvelles y vont vite et il a déjà eu in appel d’euch'
+                        préfet.</p>
+                    <p><lb/>Comme il est pon incore tout à fait midi, ch’inspecteur y passe
+                        pa<lb/>l’mairie qui est cor ouverte. Y rinte dins l’graine salle et y
+                        vot<lb/>ch’maire intouré d’eune digaine eud gens aveuc des apparels
+                        photo<lb/>qui sont in train d’l’intéroger, et ch’maire y sait pon commin
+                        s’in<lb/>dépatouiller. Li, y moute s’carte eud police et y dit à tout
+                        l’monte<lb/>eud dégager. Ché gens y s’artournent sur li et y comminchent
+                        al<lb/>l’interroger a sin tour, mais li y s’lèche pon faire. Allez ouste
+                        qui leur<lb/>dit et y finisstent par s’in aller. Ya juste que ch’maire qui
+                        reste avec<lb/>euche jaune homme. Ch’inspecteur y dmainde : Qui ché ch'ti
+                        là?</p>
+                    <pb n="Picard_Concours_2020_35_p8.png"/>
+                    <fw type="numbering"><lb/>8</fw>
+                    <p><lb/>Ché in stagiaire, Il est du villache? Non, ché in jaune qu’a fait
+                        des<lb/>conneries et qui drot faire quatre vingt dixge heures eud
+                        traval<lb/>d’intérêt général. Quo qu’il a fait comme connerie? Cha,
+                        j’n’in sait<lb/>rin, y n’m’eul’la pont dit, chès gindarmes y m’on dit
+                        seulemint qu’y<lb/>fallot just s’méfier pou chés sous et d’bin freumer
+                        l’tiroir caisse<lb/>quint’in s’in allot. J’eur ai même dit in rigolant qu’y
+                        n’avot pon<lb/>graind cosse dins l’tiroir d’eul mairie Et quo qui fait au
+                        soir après<lb/>s’journée? l’nin sais rin, il a des copains qui viennentent
+                        eul ceur eud<lb/>timps in timps in auto, mais je n’sais pon du qui vont. Y
+                        rinte des fos<lb/>au matin, mais il est toudis à l’heure pour travailler.
+                        Quèque fos y<lb/>dort a motié su s’n’ouvrache, mais ché in jaune, faut
+                        l’excuser ! Hier,<lb/>il a rintré à queul’ heure ? J’n’in sais rin, mais
+                        ch’matin, il étot à<lb/>l’heure comme d’habitude.</p>
+                    <p><lb/>Vous voulez bin m’laicher tout seu in tiot peu aveuc li? Bin sûr
+                        qu’y<lb/>dit ch’maire et y s’in va dins l’pièche à coté.</p>
+                    <p><lb/>Alors, jaune homme !, quo qu’ta fait pour ti avoir récolté eine
+                        peine<lb/>comme cha? Ch’garchon, y répond pon. Té peu me l’dire, si bin,
+                        j’ai<lb/>qu’a téléphoner au commissariat et y vont m’eul' dire. J’ai volé
+                        à<lb/>minger ach' super marché. Pourqo? t’avos faim? J’avos pon
+                        mingé<lb/>d’pis deux jours. Quo qu’te fait dins la vie? Rin. Duc' ché
+                        qu’té loge?<lb/>Ch’su sdf. In ch’momint, ch’maire y m’a trouvé in cagibi
+                        à côté d’eul<lb/>mairie et ché là que ch’dor. Parles me in tiot peu
+                        d’tes copains. Là,<lb/>ch'garchon, ys'freume comme eune huitre, y dit pu
+                        rin. Té veux pon<lb/>rin dire? L’aute y répond pon. Si ché cha, min
+                        garchon, j’va appler<lb/>ché gindarmes et y vont t’im’ner au commissariat.
+                        Bin j’ai rin fait qui<lb/>dit ch’garchon. Ché chou qu’in verra. Et peu de
+                        timps après,<lb/>l’fourgonette al arrife pou l’em’ner. Ch’inspecteur y
+                        pinse qu’in tiot<lb/>peu d’garde à vue, cha l’fra réfléchir.</p>
+                    <pb n="Picard_Concours_2020_35_p9.png"/>
+                    <fw type="numbering"><lb/>9</fw>
+                    <p><lb/>Pi y s’in va vite ach' bistrot pour minger. Il est pon in avinche (7).
+                        Il<lb/>arrife, mais y vot seulmin deux types qui bottent l’apéro à
+                        ch’bar.<lb/>Y comminche a s’deminder quo, mais il intind du potin dins
+                        l’pièche<lb/>à côté. Il avinche et y voye eune greinne salle aveuc eune
+                        greinne tafe<lb/>du qui sont assis eune dijaine d’ouvriers aveuc leu gilets
+                        oranges. Y<lb/>n’a même qui zon laiché leur casque sur leur tiète. In
+                        l’vayant<lb/>arriver, l’tiote serveuse, eune belle tiote brunette, al vient
+                        à li et li dit<lb/>qu’a ya réservé eune tiote tafe pour li tout seul. A
+                        peine assis, al y<lb/>apporte à minger. Ché ordinaire, mais appétissint,
+                        y minche eud’bon<lb/>cœur. A ya mis, comme à tout l’monte, eune caraffe
+                        d’ieau. Il y<lb/>d’minte si peut pon avoir in tiot peu d’vin aveuc. A
+                        r’vient avec un<lb/>tiot pichet d’rouche in y dijeant qu’chés ouvriers qui
+                        travailtent à<lb/>ch’rond-point qu’in est in train d’construire, y z’ont
+                        pon l’drot<lb/>d’boire eud' l’alcool. Pi, al y dit : Quind vous arez fini,
+                        j’vous<lb/>moutrai (8) vot chamb. Vous pourrez y monter vos affaires.</p>
+                    <p><lb/>Après minger, y va s’assire dins ch’bistrot et y d’minde in café et
+                        in<lb/>cognac. Ch’patron veut li offrir, mais y dit : Non non, cha ché
+                        mi<lb/>qu’y paye, in peu jamais m’offrir queut cosse pindint
+                        l’service.<lb/>L’après midi, y s’in r’tourne au commissariat pour vire chou
+                        qui<lb/>d’vient ch’gamin. In passant, il arrête incore eune fos à
+                        ch’qu’min<lb/>d’terre, y ravisse ben tout partout des fos qui n’aurot
+                        queud’cosse<lb/>euc' chés autes y z’aurottent pon vu, mais à part ch’herpe
+                        écrasée<lb/>qu’al comminche à s’ardrécher, y vo rin d’espécial.</p>
+                    <p><lb/>Ch'gamin il est assis dins l’cage, y tiens s’tiète dins ses mains, mais
+                        il a<lb/>toudis rin dit. Alors euch’l’inspecteur y print pitié d’li, y
+                        rinte à sin<lb/>tour, y s’assit à sin coté et il y parle duchemin. Eud
+                        d’u qu’ché qui<lb/>sont tés parint? Long d’ichi, m’mère a l’est morte et
+                        min père y s’a<lb/>r’marié aveuc un chameau qui m’a fait tout vire. Ché
+                        pour cha<lb/>qu’euch su parti. Commin qu’vous avez fait aveuc tes copains
+                        pour<lb/>imbarquer l’jaune file? Alors là, ch'gamin y s’arlièfe et y crie
+                        : J’ai rin<pb n="Picard_Concours_2020_35_p10.png"/><fw type="numbering"
+                            ><lb/>10</fw><lb/>à vire la d’dins, ni mes camarates non pus. Pis y
+                        s’met à braire (9).<lb/>Ch' l’inspecteur y vot ben que ch’gamin il est
+                        sincère. Alors il y dit:<lb/>Bon, j’te cro, si té fais des affaires
+                        louches, té peux me l’dire j’n’in<lb/>tiendrai pon compte. Mais mi, y faut
+                        que ch’seuche sûr équ’ta rin à<lb/>vire dins l’affaire. Alors euch gamin,
+                        il y dit qu’il a in copain qui sait<lb/>du s’procurer du canabis et que
+                        d’timps z’in timps, y feumtent in<lb/>pétard. Mais à part cha, y n’font
+                        jamais rin d’mal. Ché bon, j’te cro,<lb/>il appelle euch gindarme et il y
+                        dit d’eul défreumer. T’a qu’a<lb/>m’attinte là, j’va vire euch commissaire
+                        et j’ter' prindrai in r’passant.<lb/>J’dirai même à ch’maire euc t’es in
+                        bon garchon et qui peut t’faire<lb/>confince. Ch’commissaire il y dit :
+                        Alors? Bin alors, in n’apprint in<lb/>tiot peu tous les jours, mais in
+                        n’sait pon cor graind cosse.</p>
+                    <p><lb/>Faudrot bin découvrir ch’ti ou cheux qu’ont fait cha.
+                        Ché<lb/>journalistes, y n’arrèttent pon de m’poser des questions et mi,
+                        j’sais<lb/>pon quo réponde. Ch’inspecteur il y dit qu’y fait l’impossipe,
+                        mais<lb/>qu’ché pon aussi simpe euque cha. Pi, il appelle euch tiot et les
+                        vla<lb/>r’partis.</p>
+                    <p><lb/>Il est déjà tard, quint y rinte au bistrot et, in attindint
+                        l’heure<lb/>ed’minger, y bot in tiot pastis, (toudis su sin compte). Après
+                        minger,<lb/>y ravisse in tiot peu l’télé in buvant in tiot cognac, (toudis
+                        su sin<lb/>compte) D’in chés chaines d’info, in n’parle que d’l’affaire.
+                        Cha<lb/>comminche à l’tracasser car, pour l’instant, y n’in vot pas
+                        gramin<lb/>l’bout. Y monte eus couquer, mais dins l’nuit, y s’réveile
+                        souvint.<lb/>Y n’a déjà élucidé des affaires dins s’vie, mais chelle
+                        là, y sait pon par<lb/>queul bout l’printe. Pi y pinse qu’il a pon bin
+                        ravisé ché z’ouvriers.<lb/>Y s’pourro qu’l’un d’euche, y euche fait l’coup
+                        et des camarates, y<lb/>l’euche t’aidé à s’débarrasser de ch’corps.
+                        Faudra qu’y ravisse cha<lb/>d’pu prés.</p>
+                    <pb n="Picard_Concours_2020_35_p11.png"/>
+                    <fw type="numbering"><lb/>11</fw>
+                    <p><lb/>Au matin, y déquin déjonner, l’tiote al a préparé in bol, du pain
+                        du<lb/>café, du lait et tout ch’qu’y faut pour li minger. Al ya même
+                        mis<lb/>ch’journal su s' tafe. In première page, qu’èche qui vot, s’photo
+                        in<lb/>grind aveuc, in grind, marqué : ch’nouviau Maigret cache, mais
+                        n’a<lb/>cor rien trouvé. Ché journalistes, y comminchent t’a l’énerver.
+                        Vla<lb/>qui s’foutent eud li ach’t’heur. Pi ya cune eute photo, ché
+                        chelle<lb/>d’eul file. Al est pon bin nette, forchémin, al a eu longtint
+                        s’figure<lb/>dinch'l’herpe. Et ch' Préfet, su l’journal, y d’minde que, si
+                        n’a<lb/>qeuqu’un qui l’arconot, ou bin qu’il l’a déjà vue, qu’y s’adrèche
+                        al<lb/>gindarmerie. Pi, y rchu un cop d’téléphone de ch’l’institut légal.
+                        Eul<lb/>file, al est morte eud' pis au moins tro jours d’overdose. A part
+                        cha,<lb/>rin d’espécial, al drot avoir dins les vingt, vingt deux ains et
+                        al est<lb/>incore vierche. Al a pon eu d’cop sur elle ni rin du tout. Y s'
+                        dit qu’si<lb/>al s’avot drogué aveuc eul bainne de ch’gamin d’eul mairie,
+                        n’a bin<lb/>des gens qui l’arconnotrotent (10). Ché surmint pon par là
+                        qu’y faut<lb/>cacher. A ch’momint là, n’a in viux qui rinte dins
+                        ch’bistrot. Y<lb/>d’mainde à parler à ch’inspecteur. Ch’patron, il y moute
+                        eul tafe dins<lb/>ch’coin du qu’il est. Bonjour m’sieu, je n’su pon sûr,
+                        mais j’ai peut¬<lb/>éte queut cosse qui pourrot vous intéresser.
+                        Ch’inspecteur, il y dit<lb/>d’vénir din l’pièche à coté pache qu’il vot
+                        qu’des gens, y z’acoutent<lb/>ch'qui va s’dire. Il y dit d’assire et y
+                        l’acoute.</p>
+                    <p><lb/>Ch’homme, il a bin eune sochaintaine d’années. Vla ch’qui li dit
+                        :<lb/>Quind j’éto jaune, j’ai fricoté (1 1) aveuc eune file, et
+                        l’photo<lb/>sul’journal, al y r’seine gramin (12). J’diro même qu’ché sin
+                        portrait<lb/>tout craché. Après in a eu des bisbilles, al est partie et à
+                        s’a mariée<lb/>aveuc un gros propriétaire à eune vingtaine eud kilomètes
+                        d’ichi.<lb/>J’eul’l’ai bin r’grétée et j’eum' su jamais marié. Eule, al
+                        est morte<lb/>acht’heur et ch’peu pont m’impécher d’aller sus tompe ed
+                        timps in<lb/>timps. Cha, ché intéressaint. Si vous pouvez m’donner
+                        l’adresse de<lb/>s’n’homme, j’vas aller l’vire. Vous pouvez pas vous
+                        tromper, ché<pb n="Picard_Concours_2020_35_p12.png"/><fw type="numbering"
+                            ><lb/>12</fw><lb/>eune graine mason, presqu’in tiot catiau, sur eun
+                        butte tout au bout<lb/>d’euch villache.</p>
+                    <p><lb/>Vlà ch’inspecteur parti. Il a pon cor eud GPS à s’n’auto, mais y
+                        treufe<lb/>assez vite quind-même. Il arriffe devint eune grille, mais al
+                        est<lb/>freumée. Su l’coté, n’a in bouton d’sonnintte, donc y sonne.
+                        Eune<lb/>feume d’in certain âche al arrife et l’y d’minde quo qui veut. Il
+                        y dit<lb/>qu’y veut vire ch’proprio. Al y d’minde pouquo. Il y dit qu’cha
+                        li<lb/>r’avisse (13) pon. Monsiu veut vire personne et a s’prépare à
+                        s’in<lb/>r’n’aller. Alors il y moute eus' carte eud police. Al est bin
+                        obligée<lb/>d’ouvrir. Al y dit qu’sin patron, il est dins ch’gardin drière
+                        et qu’al va<lb/>aller l’prévnir. Il y dit qu’ché pon l’ponne de l’anoncher
+                        et i s’in va<lb/>dins ch’l’allée d’gravier. Y passe su l’côté d’el mason
+                        et y vo in viux,<lb/>dins les sochainte diche ains, aveuc in tablier
+                        d’gardinier et in sécateur<lb/>dins s’main, in train d’tailler des rosiers.
+                        Bonjour qui dit<lb/>ch’inspecteur. Il y moute s’carte eud’police in
+                        l’ravisant dins les yux.<lb/>Ch’l’inspecteur, ché un vieu d’la vieille, y
+                        vo bin que ch’viux, il a<lb/>eune tiote réaction, mais cha n’dure pon. Il y
+                        d’minte chou qu’il y<lb/>veut. J’viens vous vire Pache que ch’fais eun
+                        inquette su l’mort<lb/>d’eune jaune file. Vous avez combin d’infants? Deux.
+                        Ché quo? Des<lb/>garchons. D’uc ché qui sont? Y travailltent. Et vous
+                        n’avez pon d’file?<lb/>J’ai pu d’file. Pourquo? A quinze ains, al nous a
+                        quitté. Al est partie<lb/>sins nous dire du qu’al allot et in l’l’a jamais
+                        r’vue. J’ai jamais arrivé à<lb/>m’in r’mette. A r’sainot à s’mère euq
+                        j’ai perdue comme deux<lb/>gouttes d’iaux. Je l’avo quère comme mes deux
+                        yux. Vous n’avez pas<lb/>caché après? Ben sur euq’si, mais in l’a jamais
+                        r’trouvée. Jamais<lb/>d’nouvelles? Si, eune fos, in a r’chu eune lette sins
+                        adresse nous<lb/>digeant qu’al allot bin et qui fallot pas s’in faire pour
+                        eule. Ed d’u<lb/>qu’al l’avot posté? D’in l’Isère euch crot, du coté
+                        d’Grenope. Ché<lb/>vague, mais l’viux, y dit qu’y n’in sait pon d’pus. Vous
+                        avez vu<lb/>ch'journal? Non, je n'prins pon l’journal. Vos garchons non
+                        pu?</p>
+                    <pb n="Picard_Concours_2020_35_p13.png"/>
+                    <fw type="numbering"><lb/>13</fw>
+                    <p><lb/>Y m’ont rin dit. Alors, y l’y moute eul photo. Ch’viux y blainqui,
+                        y<lb/>minque eud s’écouler, mais y s’eur print vite. Ché bin m’file. Alors
+                        al<lb/>sro morte? Du qu’ché qu’vous l’avez r’trouvée? Din ch’bo Erness.
+                        Du<lb/>qu’ché cha? D’in ch’vilache d’à coté. Ch’inspecteur, y vo bin
+                        q’euch<lb/>viux, il y cache q’eut cosse. In habitaint là d’pis toudis et in
+                        ayant<lb/>treuvé s’femme d’in ch’villache là, y peut pon éte sin conninte
+                        euch<lb/>bo Erness. Vaiyant qu’y n’pourra pon in tirer grind’cosse
+                        d’aute,<lb/>ch’l’inspecteur y s’in r’va in y digeant qu’y r’vindra surmin
+                        l’vire.</p>
+                    <p><lb/>In r’partant, y r’passe devin ch’tiot qu’min d’el sinse et y
+                        décide<lb/>d’aller r’vire eun fo ch' Sinsier dès fos qu’il aurot appris
+                        queut’ cosse,<lb/>mais il est pon là, s’feume al dit qu’il est dins ché
+                        camps et qu’y<lb/>rintrera sur’mint pon d’bon’heur. In rpassant, y r’vot
+                        l’lieu du qu’in<lb/>a r’trouvé l’file. Il est core intouré d’eul binde
+                        jaune aeuc, marqué<lb/>police.</p>
+                    <p><lb/>In arrivant a s’n’hotel, y téléphone à sin commissaire pou y
+                        espliquer<lb/>ch'qu’il a appris. Ch’commissaire, y réfléchi in moment, et
+                        y décide<lb/>eud téléphoner al l’police eud Grenobe pour vire si y n’ont
+                        pon<lb/>intindu parler d’queut-cosse. Y z’y répontent in digeant qu’y
+                        vont<lb/>raviser si y ont des rinseignemints à l’y donner. Eul lind’main,
+                        pont<lb/>d’nouvelle. Ché journalistes, y comminchent t’a s’in r’aller. Y
+                        zont<lb/>surmint trouvé in och à ronger ailleurs. Ch' l’inspecteur, y vot
+                        pus<lb/>gramin ch’qui peut faire ichi dins ch’villache et y va avertir
+                        ch’patron<lb/>d’bistrot qu’y va s’in r’n’aller après minger et qui l’y
+                        fache eus note.<lb/>Y s’ra pon payé tout' d’suite, cha s' ra l’gouvernemint
+                        qui li inverra<lb/>l’réglemint. Ch’patron y li dit d’accord, mais y espère
+                        qu’cha sra pon<lb/>trop long, ché s’affaires, al sont pont si brillinte
+                        inch’momint.<lb/>Comme il a incore in tiot peu d’ timps, y va al mairie dire
+                        aur’voir à<lb/>ch’maire, mais il est pon là. Forchémin, ché in sinsier
+                        et il a<lb/>d’l’ouvrache. Mais ch’gamin il est là. Normalemint y devrot
+                        éte in<lb/>train d’faire du balayache su chés trotoirs, mais là, il est
+                        in train<pb n="Picard_Concours_2020_35_p14.png"/><fw type="numbering"
+                            ><lb/>14</fw><lb/>d’mette des papiers dins des invloppes et pi d’les
+                        coller. Cha va bintôt<lb/>éte eus z’élections et ch’maire il a invie
+                        d’s’arprésinter.</p>
+                    <p><lb/>Ch’inspecteur il y dit aur' voir in y digeant qu’il éspère qu’y va
+                        bin<lb/>s’ténir. Alors, euch garchon y s’arlièfe d’eus' chaisse et y vien
+                        li tinde<lb/>eusse main in li digeant: J’drot vous r’mercier d’m’avoir
+                        parlé<lb/>comme vous l’avez fait. Cha m’a fait réfléchir, et d’pi ch’tinp
+                        là, j’ai<lb/>pon feumé in joint. Ché dur, mais ch’crot que j’vas réussir
+                        à tnir eul<lb/>coup malgré qu’mes camarates y s’fouttent eud mi. Pi, j’ai
+                        d’eul<lb/>chance, ch’maire y m’immongne (14) à s’mason tous les jours
+                        pour<lb/>minger et y m’a dit qu’il allo preinte des saisonniers pour
+                        cueuiller<lb/>ses tomates et qu’y m’prindrot.</p>
+                    <p><lb/>Ch’inspecteur, y l’félicite et s'dit in li-même, qu’au moins, il est
+                        pon<lb/>vnu pour rin.</p>
+                </div>
+                <div type="part">
+                    <div n="1" type="chapter">
+                        <pb n="Picard_Concours_2020_35_p15.png"/>
+                        <fw type="numbering"><lb/>15</fw>
+                        <head><lb/>Mystère du bo Erness</head>
+                        <p><lb/>(Bin sûr, ché écrit in frinçais, pi in graind (15), mais ché mi
+                            qui<lb/>raconte) Ché journalistes y s’in donnen'tent à cœur
+                            joie,<lb/>ch’commissaire y fait eune sale tiète, il est applé sin
+                            arrêt pach’ préfet<lb/>qu’il y dit qui va li r’tirer l’affaire.
+                            Ch’l’inspecteur, il ose pu sortir<lb/>eud sin bureau. Pi, in jour, eul
+                            police eud Grenobe, al leur dit qu’al a<lb/>rien trouvé. Les vlà bin
+                            avinchés. Ch’commissaire qui connot quind<lb/>même bin s’n’inspecteur,
+                            y s’dit que l’miux ché qu’il l’invoye la và.</p>
+                        <p><lb/>Aveuc sin flair y risque eud trouver queut’ cosse. Y l’i r’tient sin
+                            billet<lb/>d’train et eune champe à l’hôtel, y loura eune auto
+                            la-và.<lb/>Vla donc euch’l’inspecteur parti dins l’Isère. In
+                            déquindant d’euch<lb/>train, y print in taxi pou li aller à s’hotel. Y
+                            n’a jamais été dins ch’coin<lb/>là et il est in tiot peu perdu.
+                            Après qu’il a monté ses affaires<lb/>dins champ, y déquin et d’minde
+                            à l’acceul du' qu’ché qu’y s’treufe<lb/>euch’commissariat. L’feume al
+                            y répond qu’ch’é pon long d’ichi, il a<lb/>qu’à déquinte eul rue
+                            jusqu’à ch’feu rouche et là, y tourne à gauche et<lb/>ché à vingt
+                            métes sus l’drote. Y s’pésinte donc à l’intrée et esplique<lb/>sin
+                            cas. Ch’flic qui l’archu, il y dit d’attinte in moment et y va l’dire
+                            à<lb/>ch’commissaire qui vient aussitôt et l’emmène drière din sin
+                            bureau.<lb/>Alors là, ch’inspecteur il y raconte tout ch’que nous,
+                            qu’in sait,<lb/>surtout l’hitoire d’euch’l’invloppe et y l’y moute el
+                            photo d’eul file.<lb/>Ch’commissaire y ravisse eul photo, mais cha l’y
+                            dit rin. Drière sin<lb/>fauteul, n’a in viux flic qu’y est in train
+                            d’taper sur in ordinateur.<lb/>Ch’commissaire il y d’minde eud vnir vire
+                            et il y dit d’raviser<lb/>l’photo. Y sait que ch’viux, il est
+                            phisionomiste et qu’equ’fo cha<lb/>pourot li dire qu’eut cosse. L’viux
+                            flic, y prind l’photo din s’main et<lb/>ravisse attintiv’main. Cha li
+                            dit in effet qu’eut cosse, mais y vo pon<lb/>bin. Il a bin déjà vu
+                            eune photo d' file qu’a l’y r’simpe, mais y a dejà<lb/>lontimps et a
+                            l’étôt pu jaune, peut-éte dins les seize ains.</p>
+                        <pb n="Picard_Concours_2020_35_p16.png"/>
+                        <fw type="numbering"><lb/>16</fw>
+                        <p><lb/>Ch’inspecteur y pinse qu’cha pourrot bin être elle et y d’minde
+                            à<lb/>ch’flic dins qu’eul circonstince il a pu vire ch’eul photo
+                            là.</p>
+                        <p><lb/>l’viux flic y cache in momint dins s’mémoire, et y s’rappelle d’in
+                            seul<lb/>cop, qu’chétot deux jaunes hommes qui sont v’nus li présinter
+                            in y<lb/>d’mindant s’il ne l’avot pon vu qu’equ’part. Y leur a
+                            répondu<lb/>qu’non, mais si y voulottent, y pouvot lincer in avis
+                            d’archerche.<lb/>A quo, y z’ont répondu qu’non et y sont r’parti aussi
+                            vite, j’ai pon eu<lb/>l’timps d’leur deminder leur nom ni leur
+                            adrèche.</p>
+                        <p><lb/>Tout d’suite, ch’inspecteur, y pinse qu’ché chés deux frères qui
+                            sont<lb/>v’nus cacher après leur sœur. Pis, il y vient eune idée. Y a
+                            des<lb/>monastères d’in ch’coin? L’viu flic, cha li rappelle qu’ché
+                            jaunes<lb/>hommes, y z’ont eu l’même idée qu’li et y leur a répondu
+                            in rigolant<lb/>qu’y n’avot bin l’grinne charteusse, mais qui n’a
+                            longtainps qui n’avot<lb/>pu d’moine eud dins. Ch’étot devnu in musée
+                            et qui pouvottent aller<lb/>l’visiter. Cha n’les avot pon fait rire. Si
+                            ch’l’inspecteur y voulo n’in<lb/>savoir eud plus à s’sujet là, y n’avo
+                            qu’a aller vire ach syndicat<lb/>d’initiativ.</p>
+                        <p><lb/>Ach ch’syndicat d’initiativ, in y donne tout eine liste : Là,
+                            j’va<lb/>l’écrire in frinçais : <foreign xml:lang="met-fr">St Michel
+                                de connexe Pryori, N D de Chalais,<lb/>Monastère de la visitation
+                                Voiron, St Antoine Chattes.</foreign><lb/>Ch’l’inspecteur y dit:
+                            N’in ruez pu, eul cour à l’est pleine. In s’in<lb/>r’n’allant à
+                            s’n’hôtel restaurant pour minger, y s’d’minde pa que<lb/>bout qui va
+                            commincher. Y va pou louer ieine auto et y s’dit qu’y va<lb/>commincher
+                            pa ch’pu près. Y ravisse eune carte d’eul région et y vo<lb/>qu’ché
+                            N.D. de connexe. Il ira donc là après midi. Ché qu'cha<lb/>grimpe
+                            dins l’région d’Grenope, il a pon l’habitute eud ché viraches<lb/>et y
+                            va tout duch’min. A Priory, y s’rinseigne d’euch monastère, ché<lb/>in
+                            tiot peu pu lon au bout d’eune allée. Y tape al porte, attint in
+                            bon<lb/>momint, y r’tape eune deuxième fos et, à la fin n’a queu'
+                            qu’un qui<pb n="Picard_Concours_2020_35_p17.png"/><fw type="numbering"
+                                ><lb/>17</fw><lb/>vient li ouvrir. Ché in moine qui l’y dit qu’il
+                            les dérinchentent (16) in<lb/>plone prière et il y d’minde chou qu’y
+                            veut. Ch’inspecteur il y moute<lb/>eusse carte eu de police et ch’moine
+                            il y dit: Incore! Et pourquo,<lb/>qu’vous m’digez incore? Pache qu’in a
+                            déjà v’nu perquisitionner. Et<lb/>quo qui cachottent? In homme qui
+                            drot avoir assasiné et qu’y a<lb/>disparu dins l’ nature.</p>
+                        <p><lb/>Mi, ché pon pour cha qu’euche vient, il y moute eul photo et y
+                            l’y<lb/>d’minte si y a déjà vu l’file là. Ch’moine y répond qu’non,
+                            mais qui<lb/>n’a pon longtimps qu’il est là. D’toutes façons, n’a
+                            jamais d’file qui<lb/>rinte d’in ch’monastère. Ché rin qu’des hommes.
+                            L’vla pon pu<lb/>avinché qu’avint. Su pusieurs jours, y va d’monastère
+                            in monastère,<lb/>mais y n’obtint pon d’résultat. Tous les jours, y
+                            téléphone à sin<lb/>patron pour y dire qu’y n’a rin à y dire et
+                            ch’commissaire, qui<lb/>comminche à trouver l’tin long, il y d’minde si
+                            y n’ya pon d’secte<lb/>installée par là. Ch’l’inspecteur, il essaille
+                            de s’rinsiegner, in y dit bin<lb/>qu’si, mais qu’ché à peu près
+                            impossipe eud savoir du qui sont et<lb/>chou qu’y s’y passse. Ach’teur,
+                            y s’est habitué et y conno toutes ché<lb/>tiotes routes eud’montagne,
+                            y treufe euc ché in biau pays, mais y s’rin<lb/>compte qu’ché pu
+                            l’peine qu’y rest là, y trouvra rin d’pus. In<lb/>rev’nint dins
+                            ch’train, y pinse, qu’sur’min, l’file, al a invoyé s’lette<lb/>eud
+                            grenobe pou tromper s’famile et qu’y peuch’tent pon<lb/>l’artrouver. Il
+                            l’dit à ch’commissaire quind il l’arvot. Ch’commissaire<lb/>y dit qu’il
+                            a sûrmin raison, mais alors, du cacher? Eul l’in
+                            d’main,<lb/>ch’l’inspecteur il artourne vire euch père d’eul file. N’a
+                            in d’ses deux<lb/>garchons qu’il est là. Quind y l’voye arriver, tout
+                            comme euch père<lb/>l’eut’jour, y s’troupe in tiot peu. Mais il
+                            s’arprind vite. In vo bin que<lb/>ch’père, y n’y in a parlé. Vot
+                            frère est pon là? Y est parti ach’super<lb/>marché, mais y va bintôt
+                            r’vénir. Vous travaillez pon aujour d’hui? In<lb/>travale dins l’même
+                            boite et in a pris quinze jours eud congés.<lb/>D’ailleurs, l’vla qui
+                            rinte. In effet, ch'frère il arrife dins in 4x4<pb
+                                n="Picard_Concours_2020_35_p18.png"/><fw type="numbering"
+                                ><lb/>18</fw><lb/>eud'grosse cylindrée et y s’rinche eul long d’eul
+                            mason. Ch’père y<lb/>fait les présintations et l’aute il dit :
+                            Inchanté. Ché in malin ch’ti là, y<lb/>fait pas vire ses sintimints.
+                            J’voudro savoir si vote sœur, quind à est<lb/>partie, al avot des
+                            idées espéciales. Quoqu'ché qu’vous voulez dire?<lb/>Bin, par eximpe,
+                            qu’al étot fort croyinte. Non, mais al avot toudis<lb/>l’idée d’sauver
+                            l’monte. Et ché pour cha qu’al est partie? Cha, in n’in<lb/>sait rin, a
+                            nous a rin dit. J’pourro vire eus champe? Si vous voulez, in<lb/>n’y a
+                            pon touché, d’pi qu’al est partie.</p>
+                        <p><lb/>Y mont à l’étache et in intrant dins l’champe, y vot bin qu’in
+                            a<lb/>déringé des affaires, ché gens là y s’y racontent des
+                            carabistouilles<lb/>(17) Alors, y ravisse tout partout, dins l’gard’rob,
+                            in vo qui minque<lb/>gramin d’affaires. N’a in tiot lavabo dins eune
+                            salle eud’bains graine<lb/>comme un mouchoir eud’poche, tout
+                            ch’nécessaire eud toilette il est<lb/>parti. In vo bin qu’al avot
+                            préparé sin cop. Su l’tafe eud nuit, n’a eune<lb/>paire eud’life à
+                            côté d’eul tiote lampe. Y n’in prind un, y ravisse<lb/>euch’tite :
+                            L’universalité dans l’amour. Y n’in ravisse eun eut : Le<lb/>bonheur et
+                            l’éclatement de soi. Y pinse qu’a n’ligeot pon n’importe<lb/>quo et,
+                            qu’si al étot partie, ch’étot surmin pou aller r’joinde
+                            eun<lb/>communauté quelconque. Mais aussi, ch’qui attire l’eul
+                            de<lb/>ch’l’inspeceur, eune carte postale eud Suisse. Ch’l’inspecteur,
+                            y<lb/>l’artourne pour vire chou qui n’a d’écrit drière et y vo qu’ché
+                            eune<lb/>copine qui li dit in gros qu’ché biau eul Suisse et qu’al
+                            devrot aller y<lb/>faire in tour. In li même y pins euq' ch’a srot bin
+                            là qu’al sro partie.<lb/>Y print sin carnet et y note eul nom d’eul
+                            file a tout hazard.</p>
+                        <p><lb/>In r’déquindant, y d’minde à ché garchons : Ech'que vote sœur,
+                            as<lb/>droguot? Alors là, y s’ravisstent tous les tros et y s’demindent
+                            qui ché<lb/>qui va réponte eul premier. Al allo core à l’école, et
+                            in l’a jamais vu<lb/>s'droguer. D’ailleurs, chétot eune bonne élèfe
+                            et al rintrot toudis à<lb/>l’heure. L’Diminche, al sortot pon pour elle
+                            faire ses dvoirs. Al avot<lb/>pon d’copain? Chétot juste eune tiote
+                            amourette qui dit l’un des<pb n="Picard_Concours_2020_35_p19.png"/><fw
+                                type="numbering"><lb/>19</fw><lb/>garchons. In l’avot averti qu’il
+                            étot pas de s’n’ache et qui fallo qu’al<lb/>arrête eud li parler. Mais
+                            j’y pinse ach’t’eur, in l’a jamais r’vu li non<lb/>pu. Peut-éte qu’il a
+                            parti aveuc. Ses parints, y z’ont bin caché après<lb/>li, mais comme
+                            il étot majeur y n’ont pon pu obtenir eud<lb/>rinseignemints Si ché
+                            cha, cha sro in détournemint d’mineure.<lb/>Ch’l’inspecteur, y vo bin
+                            qu’y n’in sara pon d’pus aujoud’hui, il arête<lb/>eul conversation. In
+                            s’in r’n’allant, y s’artourne et y dit : Eche que j’<lb/>pourro importer
+                            l’ lette? Bin sûr, y peuvent té pon dire non et n’a in<lb/>garchon qui
+                            va d’in l’pièche à côté, il eufe in tiroir et y rapporte
+                            eul<lb/>lette qu’y donne à ch’inspecteur in li digeant qu’y voudrot
+                            bin<lb/>l’récupérer comme souvnir.</p>
+                        <p><lb/>Quind il y parle d’eul carte eud Suisse, ch’commissaire y dit : Là,
+                            ché<lb/>pu l’même cosse, ché in pays étringer, va falloir d’minder
+                            des<lb/>autorisations. Pourqo, vous creuyiez que j’va r’partir là và?
+                            Y’a des<lb/>chances. Ché suisses, y parltent frinçais ? Pon tous, mais
+                            si al a été là<lb/>va, ché surmint dins partie là.</p>
+                        <p><lb/>Ch’commissaire, y s’débroulle aveuc eus hiérarchie pour obtenir
+                            eul<lb/>drot d’aller inquêter in Suisse, mais ché long d’obtenir
+                            l’autorisation.<lb/>Ché suisses, y sont pas gramin cauts qu’in voche
+                            fouiner dins leu pays<lb/>et in dit qu’y sont pon rapites non pu.
+                            L’timps passe et in' n’est<lb/>toudis au même point. Pindint ch’tinps
+                            là, ch’commissaire, il invoye<lb/>ch’l’invloppe à analyser, dès fos
+                            qu’in trouvro in indice. Cor huit<lb/>jours qui s’passtent. Pi, ch’labo
+                            y d’minde si in a pon in aute<lb/>eximplaire de ch’écriture
+                            d’eul’fille. D’après eusse, l’écriture d’eule<lb/>lette al est déjà
+                            pon pareile à chelle de ch’l’invloppe. Ch’inspecteur,<lb/>il artourne
+                            vire euch père. Ch’père, in arrivant il y d’minde si il a<lb/>trouvé
+                            qu’eud’cosse. Pon incore, mais j’voudro armonter dins<lb/>s’chamb. Alors
+                            là, y cache dins z’in tiot bureau et y treufe des cahiers<lb/>d’école.
+                            Y n’in print un et y s’in r’va aveuc. Cha s’in r’va au labo et
+                            y<lb/>faut core atteinte. Quind ché résultats y z’arviennetent, y<pb
+                                n="Picard_Concours_2020_35_p20.png"/><fw type="numbering"
+                                ><lb/>20</fw><lb/>s’appreinntent que ni l’lette ni ch’invloppe al
+                            z’ont été ecrites par eul<lb/>file. Ché l’noir absolu pou
+                            ch’inspecteur ! Au soir, dins s’champe, y<lb/>peut pon dormir. Cha
+                            l’travale tellemin qui s’arlièfe et qui s’met à<lb/>récapituler in
+                            tiot peu l’affaire.</p>
+                        <list>
+                            <item><lb/>1, In treufe uin cadafe eud' jaune fille din in bo. In vo qui
+                                z’on été à<lb/>plusieur pou l’déposer là.</item>
+                            <item><lb/>2, l’jaune file al est morte d’overdose et al a pon été
+                                violée.</item>
+                            <item><lb/>3, l’photo d’euch cadafe al permet d’artrouver
+                                s’famile.</item>
+                            <item><lb/>4, l’famile al avot r’chue ine letee qu’al confie à
+                                ch’l’inspecteur.</item>
+                            <item><lb/>5, Ch’labo il affirme qu’eul lette a l’a pon été écrite
+                                par l’file ni<lb/>ch’invloppe non pu. Mais que ch’l’invloppe al a
+                                pon été écrite non pu<lb/>par eul même personne qu’eul'
+                                lete.</item>
+                            <item><lb/>6, Comme eul lete al avot été postée à Grenope,
+                                ch’inspecteur il a<lb/>été vire là và et d’ins l’région, mais
+                                il a pon rin trouvé. Il a quind<lb/>même appris qu’ché surmin
+                                ché deux frères d’eul file qui sont allés<lb/>avint li cacher
+                                après leur sœur.</item>
+                        </list>
+                        <p><lb/>Il a biau r’tourner tout cha d’in s’tiète, y n’vo pon d’solution et
+                            y<lb/>s’deminde, euc' si sin commissaire il l’invoye in Suisse, quo
+                            qu’ché<lb/>qui pourra bin trouver la và. Pi y r’pinse d’in seul cop
+                            qu’in avot<lb/>trouvé in morciau d’tissu accroché dins chés ronches
+                            à ch’bo Erness.<lb/>Quo qu’ché qui n’in est de ch’morciau là? Faudra
+                            qui n’in parle eud<lb/>d’main à sin chef. Sin chef y dit : Ché vrai !
+                            Quo qu’ché qu’y n’in est<lb/>d’venu de ch’morciau là? J’va
+                            r’téléphoner à ch’labo pour savoir quo.<lb/>Au labo, in y dit qui
+                            vont raviser et qu’y rapeleront. Ché cor eune<lb/>paire eud’jours qui
+                            pastent et ch’labo y finit par rapler in digeant que<lb/>ch’morciaux
+                            d’tissus, il étôt resté collé din sin sa d' plastique sul’côté<pb
+                                n="Picard_Concours_2020_35_p21.png"/><fw type="numbering"
+                                ><lb/>21</fw><lb/>d’euch tirroir et qu’il l’avottent pon vu, mais
+                            qu’ach’t’heur, y<lb/>z’allottent eul l’analyser. Ch’commissaire, in
+                            colère, y leur répond<lb/>qu'cha voche vite, pach'que ché li qui
+                            prind les engueulades et que<lb/>sinon, y va faire in rapport. Deux
+                            jours après, chés résultats sont<lb/>arvenus. Ché in morciau
+                            d’tissus, putôt d’eul toile qui viendrot<lb/>sûremin d’eune blousse
+                            blanque, ou d’qu’eut cosse comme cha. In<lb/>tous cas, il a déjà été
+                            lavé aveuc in produit industriel anti-bactéries.<lb/>In vo mal qui
+                            ché qui pourro éte habillé comme cha.</p>
+                        <p><lb/>Ch' l’’inspecteur y n’vot qu’in imbulincier qui pourro avoir
+                            ine<lb/>tenue comme cha. Y d’minde ach’commissaire eud téléphoner
+                            à<lb/>l’compagnie d’imbulance, et in effet, n’a in imbulincier qu’il
+                            a<lb/>accroché s’blousse in passint. Eusse feume, al l’a même
+                            rouspété in y<lb/>digeant qu’y faigeot jamais attintion à ses
+                            affaires. In parlant<lb/>d’affaires, cha n’arrinche pon du tout chelle
+                            d’ché policiers. Y in sont<lb/>incore toudis au même point.</p>
+                        <p><lb/>Pi, ch’médcin légiste, il a fini sin boulot et y rinvoye
+                            euch’corps a<lb/>l’famile. Eul' jour eud l’interremint, ch’inspecteur il
+                            y va. Bin sûr.<lb/>Pour in tiot vilache, y n’a in monde considérape.
+                            In pus eud ché gins<lb/>du villache, y a toute eune bainne eud
+                            journalists et pi des caméras.<lb/>N’avo même eune binde eud feume qui
+                            voulottent rintrer d’in<lb/>ch’cimtière aveuc des binderoles, mais
+                            chés gindarmes y les z’ont<lb/>rpoussées. Ch’inspecteur, y reste in
+                            tiot peu in arrière pour pon<lb/>qu'chés journalistes ils voytent et y
+                            ravisse eul réaction d’eul famile,<lb/>mais y a qu’eul douleur qui
+                            s’lit dins leurs yux. Ch’curé y fait eun<lb/>dernière prière et ché
+                            gens qui connottent eul famile, y viennentent<lb/>leur présinter leurs
+                            condoléinces. Pou ch’l’inspecteur, cha li apporte<lb/>pon grain
+                            cosse.</p>
+                    </div>
+                    <div n="2" type="chapter">
+                        <pb n="Picard_Concours_2020_35_p22.png"/>
+                        <fw type="numbering"><lb/>22</fw>
+                        <fw type="numbering"><lb/>2</fw>
+                        <p><lb/>Y fait in solel magnifique d’in l’arrièr pays Niçois. Dins eune
+                            grinnne<lb/>bâtisse a motiée démolie, n’a eune digeaine eud jaunes
+                            gins et<lb/>d’jaunes files qui s’appliquent’ent’à raccomoder
+                            ch’batimint. Y z’ont<lb/>d’mindé ach' propriétaire, (Ché in viux qui
+                            reste ach’t’heur dins in<lb/>appartemint à Nice), si y pouvottent eul
+                            l’artaper et, comme il est<lb/>riche, qu’y a pon d’infants et qui n’a
+                            pon b’son s’sous, y leur a dit eud<lb/>faire chou qui voulottent.</p>
+                        <p><lb/>Y n’n’a qui font du béton, d’zeutes qui machonnetent, d’zeutes
+                            qui<lb/>font d’eul meunuiserie, y n’a qui sont in heut
+                            eud’d’z’équelles. Infin,<lb/>tout l’monte y travaile. Dins ch’parc
+                            autour, y n’na qui gardinntent.<lb/>Ché tous des jaunes qui z’ont
+                            décidé eud vive autremin. Ché un<lb/>homme, in grind, aveuc des longs
+                            ch’veux et eune barpe eud capucin,<lb/>aveuc in bandeau autour d’sin
+                            front, qui a comminché à li tout seu et<lb/>aveuc internet il a
+                            raconté s’histoire et cha n’a pas minqué d’y ramner<lb/>des discipes
+                            et tous chés jaunes là, y vivtent pour ainsi dire in<lb/>autarcie. Y
+                            vivtent inseinne, y mingtent inseine, mais y couqu’tent<lb/>pon
+                            einseine, a part cheux qui y ont trouvé l’amour. (Cha arrife<lb/>quind
+                            in est jaune) cha fait qu’y n’ont pour ainsi dire pon
+                            d’rapport<lb/>aveuc personne d’aut. Dès fos, n’a in viux voisin qui
+                            leur dit bonjour<lb/>quind il est dins sin gardin. Et eune fos, il avot
+                            d’trop d’haricots verts<lb/>et il leur a demindé si z’in voulottent.
+                            Ché jaunes y s’y on dit<lb/>qu’ouais, qu’cheux qu’y z’avottent
+                            plintés, y étotent pont cor assez<lb/>gros pour les ceuiller. Vous
+                            n’avez qu’à aller ach’portal, j’va vous in<lb/>porter. Queuques timps
+                            aprés, l’viux y vint z’apporter dins z’in<lb/>journal. Eusse, (qui
+                            printent pon l’journal), y z’y digtent merci et y<lb/>rapportent
+                            ch’paquet à l’cuisine. Y z’étaltent chez z’haricots su l’tafe<lb/>et,
+                            in ouvraint l’feule, qu’est-che qui vottent : L’photo d’eul fille<pb
+                                n="Picard_Concours_2020_35_p23.png"/><fw type="numbering"
+                                ><lb/>23</fw><lb/>qu’al est morte. Tout d’suite, ils l’arconottent
+                            pache qu’al étot aveuc<lb/>eusse y a pon longtainps. Y vont tout
+                            d’suite eul dire à ch’ti qui fait<lb/>office eud directeur eud
+                            chantier, qui, ly, print sin vélo, pache qu’y<lb/>z’ont pon
+                            l’téléphone, et va avertir chés gindarmes. L’nouvelle al<lb/>parvient
+                            bin vite à ch’l’inspecteur et sin commissaire, qui y dit d’y<lb/>aller
+                            au pu vite. Vla déjà des mos qu’cha dure euch' t’affaire là,
+                            vla<lb/>quind-même queut'cosse eud nouviaux.</p>
+                        <p><lb/>In même timps, ch’commissaire y dit a chés gindarmes eud l’a
+                            và<lb/>d’inquéter in tiot peu tout autour, mais sins rin faire vire,
+                            surtout,<lb/>n’pon aller vire ché gins là.</p>
+                        <p><lb/>Ch’inspecteur y dit ach’commissaire qu’il aurot pu quère y
+                            aller<lb/>aveuc eus n’auto pache que cha s’troufe dins la nature et qui
+                            sra<lb/>imbété pou s’déplacher. Ch’commissaire y il donne eus
+                            n’accord.</p>
+                        <p><lb/>Li qui est habitué a vire in pays plat, d’u qu’y pleut d’tinps in
+                            timps,<lb/>qu’chés patûres al sont tout vertes et chés vaques rontes
+                            comme des<lb/>timburs, il arrife dins des tiotes routes qui monttent pi
+                            qui déquintes<lb/>sins arrêt. N’a pon d’peuplier comme dins ch’nord,
+                            mais des arpes<lb/>rabougris dins eune végétation tout sèque. Na
+                            même des indrots<lb/>euq’tout a brûlé. Eul long d’eul' route, n’a
+                            tout des tiots qu’mins et à<lb/>chaque tiot qu’min, n’a des gindarmes
+                            ou bin des pompiers qu’y les<lb/>barrtent. Chés promneurs, y z’ont
+                            même pu l’drot d’y passer.</p>
+                        <p><lb/>Il arrife dins in tiot vilache, y n’n’a jamais vu d’si biaux. In
+                            dirot eune<lb/>carte postale. L’long d’ché rues étrotes et toutes
+                            tortues, des belles<lb/>tiotes mason couvertes eud fleurs qui déquintes
+                            tout du long d’leurs<lb/>façades. In vot bin qu’al z’ont pon été
+                            démolies pindint la guerre. Cha<lb/>sint vraimint bon. Li qui va toudis
+                            in vacances dins l’baie d’somme, il<lb/>est in tiot peu dépaysé. Y
+                            s’dit aussi qu’ché biaux, mais qu’il y fait<lb/>trop caud. Il a pu
+                            quère Saint Valéry. Malgrès qu’ché pon graind, y a<pb
+                                n="Picard_Concours_2020_35_p24.png"/><fw type="numbering"
+                                ><lb/>24</fw><lb/>tout d’meume eune gindarmerie et ché là qui va
+                            tout d’suite. Chés<lb/>gindarmes y s’y digent que ch’batimint dont y
+                            parle, y s’treufe in tiot<lb/>peu pu heut dins l’colline. Euq’si y veut,
+                            y peuftent<lb/>eul’l’acompagner, mais li, il a pu quère aller vire tout
+                            seu. Y z’y<lb/>digent aussi qu’y z’ont bin inquété autour in
+                            s’rinseignant mon d’chés<lb/>gens d’alintour, mais qui z’ont rin
+                            appris. D’lon, aveuc leurs<lb/>jumelles, y z’ont vu des jaunes qui
+                            travillottent in quintant pi ché<lb/>tout.</p>
+                        <p><lb/>In arrivint devint ch’portal, ch’inspecteur y cache
+                            euch’bouton<lb/>d’sonnette, mais y n’a pon. Il apperchu queuc' qu’un
+                            dins ch’gardin et<lb/>il y crie qu’y veut rintrer. L’aute y l’y répond
+                            qu’il a qu’a pousser<lb/>l’porte, euq ch’é pon freumé. L’vla tout
+                            étonné, y s’atteindot a eune<lb/>secte et y pinsot pon qu’cha allot
+                            éte si facile euq cha d’rintrer.</p>
+                        <p><lb/>Y d’minde à vire euch directeur, et ch’jaune homme il conduit
+                            tout<lb/>près de ch’batimint in réparation. Ch’directeur, Ché comme
+                            cha<lb/>qu’in peut l’l’appler, quo qu’y dit qu’il est pon supérieur à
+                            z’eutes et<lb/>qu’y sont tous égaux, il est in train d’faire du béton.
+                            Quint y moute<lb/>eus' carte eud police, ch’directeu il y dit : J’vous
+                            attindot, y s’essuie<lb/>ses mais à sin patalon et y l’y tint sin
+                            peugnet in li digeant qu’il a ses<lb/>mains sales. Pis, il y dit: Deux
+                            minutes, j’va les laver in cop et j’va<lb/>vous ar' chuvoir.
+                            Ch’directeur, Il’l' fait rintrer dins eune pièche qu’in<lb/>peut apler
+                            bureau pache qu’y n’a des papiers pis des lifes tout partout.<lb/>Mais
+                            ché l’vrai capharnaum. Ché pon trop prop non pu, y a
+                            gramin<lb/>d’poussière Alors il y raconte, qu’in effet, eul file al a
+                            bin restée là<lb/>aveuc eusse. Al étôt courageusse comme tout et
+                            agréape à vivre aveuc<lb/>eus z’eutes. Pi, in jour al a disparue et in
+                            n’a pu intindu parler d’elle,<lb/>jusqu’à timps qu’chés cuisiniers, y
+                            z’ont vu l’photo su l’ journal.</p>
+                        <p><lb/>Pis vous n’avez pon caché après ni signalé s’disparition? Vous
+                            savez<lb/>ichi, ché po eune prijon. Ch’ti qui vient, y n’a personne
+                            qu’il la<pb n="Picard_Concours_2020_35_p25.png"/><fw type="numbering"
+                                ><lb/>25</fw><lb/>obligé et y peut s’in r’n’aller quint’y veux. N’a
+                            personne qu’il a<lb/>jamais v’nu l’vire? Si, eune fos, deux jaunes
+                            hommes y sont vnus mais<lb/>al voulo pon les vire. Y sont rpartis, mais
+                            huit jours après, y z’étotes<lb/>arvenus. J’les ai pon r’vus
+                            personnellemin, mais ché chou qu’in m’a<lb/>dit. Ché après qu’in n’a
+                            pu r’vu l’file, sûrmint qu’ché eux qu’ils l’ont<lb/>imbarqué. Mais
+                            cha m’étonne qu’al auro pon crié. Vous avez vu leur<lb/>auto? J’lai
+                            aperchu, sin gramin faire attintion, mais ch’étot in
+                            4X4.<lb/>Ch’inspecteur is dit qu’ché forchémin chés deux frères qui
+                            sont v’nus<lb/>r’queur leur sœur, mais y vot pon pour quo qu’ils
+                            l’arottent tuée. Y<lb/>r’mercie ch’directeur eud ses rinseignemints et
+                            y rprind la route et<lb/>s’in rtourne a sin commissariat faire sin
+                            rapport. A eusse deux, y<lb/>réfléchistent et y s’digent qu’cha n'
+                            peut éte euq’ché deux frères qui<lb/>z’ont ramnés leur sœur. Mais
+                            ché pont ch’4X4 qui a rintré dins<lb/>ch’quemin, y srot pon resté in
+                            raque. Ch’commissaire, y décide<lb/>d’aller aveuc eus' n’inspecteur
+                            vire à ch’’catiau’. In arrivint, n’a pon<lb/>d’auto dins l’cour,
+                            suremint qu’chés garchons y sont au traval. Ché<lb/>l’servante qu’a
+                            les r’chu. Monsiu, il est couqué, il a in limbago, cha<lb/>l’y arrife
+                            eud tinps in timps et y n’a bin cor pour eune sémaine.
+                            Chés<lb/>policiers, y z’y digentent qu’al avertiche chés garchons, et
+                            qu’y<lb/>r’vindront après 6 heures. Y s’in r’vont et in route, y
+                            pinsent euc’si y<lb/>z’ont ramné leur sœur, y a surmint des traces eud
+                            restées dins<lb/>ch’4x4. In rintrant, ch’commissaire, y téléphone
+                            ach’service<lb/>sciintifique qu’il a b’son d’eusse et qui vinchentent
+                            tout d’suite.<lb/>Ch’4X4, il a été nétié complêt’mint n’a pon
+                            longtimps et in n’y<lb/>treufe rin. Rin d’pus dins ch’l’auto noirte,
+                            pourtain al a pont été<lb/>nétiée eud’pis in bon moment.
+                            Ch’l’inspecteur y caresse eus barpe in<lb/>réfléchissaint. Y ravisse
+                            les invirons sins rin fixer d’particulier, et à 10<lb/>mètes d’eul
+                            mason, y vo in batiment tout in longueur aveuc des<lb/>tiotes fernettes
+                            in forme eud’ demi-lune. Y d’minde à in garchon<lb/>qu’oc ché qu’cha
+                            et il y répond euq ché des inciennes écuries. Et n’a<lb/>rin d’din?
+                            Et ch'garchon il y répond qu’ché l’auto de ch’père qu’al<pb
+                                n="Picard_Concours_2020_35_p26.png"/><fw type="numbering"
+                                ><lb/>26</fw><lb/>est d’dins. Ah!, vot père il a aussi eune auto.
+                            J’pourro l’vire?. J’va<lb/>aller queure eul clé d’euch garache. Ché
+                            eune auto breack bleu<lb/>marine et l’homme eud sciaince y vo qu’in a
+                            passé in cop d’aspirateur<lb/>n’a pon lontain, mais in cachant bin, y
+                            treufe in qu’c’veu blond dins<lb/>ch’coffe. Y dit qu’in va l’faire
+                            analyser et qu’avec euch’l’adn, in ara<lb/>bintôt r’trouvé a qui qu’il
+                            appartient.</p>
+                        <p><lb/>Alors, euch’viu, qui soit digeant pouvot pon s' bouger, y déquin
+                            dins<lb/>l’cour in brayant et y dit : Ché pon l’peine, euch' va tout
+                            vous<lb/>raconter.</p>
+                        <p><lb/>Tout est de m’feute. Ché mi l’responsape. Mes garchons, y
+                            avottent<lb/>fait leur deul eud leur sœur, mais mi, je n’y arrivot pon
+                            et j’l’ai ai<lb/>toudis imbété aveuc cha. Pour mi, m’file, chétot mes
+                            deux yux. A<lb/>r’seinot (18) tellemin à s’mère qu’j’avo perdu d’bonne
+                            heure. Alors y<lb/>ont continué à cacher, et in jour, y z’ont vu in
+                            r’portache a l’télé su<lb/>l’tiote communauté. Y z’ont pinsé d’aller
+                            vire là và. Quind y z’ont<lb/>r’trouvé leur sœur, al a pon voulu
+                            r’vénir. Y m’ont téléphonné pour<lb/>m’eul dire et mi, j’leur ai dit
+                            qu’y fallot absolumin qu’a r’vienne.<lb/>Alors y sont déquindus à Nice
+                            et y z’ont caché (19) a s’procurer d’eul<lb/>drogue pour indormir leur
+                            sœur pour pouvoir eul ram’ner. Y z’ont<lb/>triné dins ché bars tout
+                            les nuits et y z’ont fini par tomber sur in type<lb/>qui leur vindu in
+                            produit et qu’il leur a dit qu’aveuc cha, al allo<lb/>dormir tout l’long
+                            d’eul route. Cha leur a coûté quer, mais y avottent<lb/>chou qu’y
+                            voulottent. In r’tournin vire leur sœur, y z’y ont proposé<lb/>qu’a
+                            leur fache visiter ch’villache et il l’on imbarqué. Al s’a
+                            assis<lb/>d’vint et ch’ti qui étôt driére, il l’a piqué aveuc eul
+                            serinque qu’l’aute<lb/>drogué y avot donné. Comme y n’y connaicho rin,
+                            il a piqué in tiot<lb/>peu au hazard. M’fille al s’a indormie tout
+                            d’suite et y z’ont r’pris<lb/>l’quemin du r’tour. Y z’ont roulé tout
+                            l’nuit et quind y sont arrivés<lb/>ichi, al dormot incore. Y z’ont
+                            essayé d’eul réveiller, mais y s’sont<lb/>aperchu qu’al étot morte.
+                            In n’savo pu quo faire. Alors ché mi qu’il a<pb
+                                n="Picard_Concours_2020_35_p27.png"/><fw type="numbering"
+                                ><lb/>27</fw><lb/>eu l’idée de l’mette dins ch’bos Erness. J’eul
+                            conno pache que ché à<lb/>mi, je l’avot hérité mais il étot déjà
+                            dins ch’état là. Alors euj m’in<lb/>suis jamais occupé. J’savo qu’y
+                            n’a jamais personne qu’il y rinte et<lb/>d’ichi qu’in ar’troufe eum
+                            file, y s’pass’ro pon mal eud timps. In a<lb/>pris m’auto pache que ché
+                            in break et in l’la allongée d’dins. La và,<lb/>ché garchons, ils
+                            l’ont saqué dins c’bo, J’ai brai tout l’long d’eul<lb/>route, mais
+                            n’avot pon d’aute solution. J’bréyo tellemin que véyo pu<lb/>la route
+                            et qu’in r’partint, in a failli rester in raque et ché garchons
+                            y<lb/>z’ont du pousser. Si al avot pon perdu s’quechure, n’a
+                            jamais<lb/>personne qui l’aurot r’trouvé Voilà, vous savez tout.</p>
+                        <p><lb/>Chés flics, in r’partint pour aller avertir euch' parquet y
+                            digent<lb/>qu’infin, ch’affaire al est résolue.</p>
+                        <p><lb/>Y roultent in bon momint sins rin dire in buzillant, pi,
+                            ch’inspecteur,<lb/>y soupire in bon ceup et y dit :</p>
+                        <p><lb/>Pauf viu !</p>
+                    </div>
+                </div>
+            </div>
+                <div type="liminal">
+                    <pb n="Picard_Concours_2020_35_p28.png"/>
+                    <fw type="numbering"><lb/>28</fw>
+                    <head>Lexique</head>
+                    <list xml:lang="met-fr">
+                        <item><lb/>1, Morceau</item>
+                        <item><lb/>2, Tombés</item>
+                        <item><lb/>3, Songe en rêvassant</item>
+                        <item><lb/>4, Dés’embourber</item>
+                        <item><lb/>5, Beaucoup</item>
+                        <item><lb/>6, Chaussure</item>
+                        <item><lb/>7, Avance</item>
+                        <item><lb/>8, Montrerai</item>
+                        <item><lb/>9, Pleurer</item>
+                        <item><lb/>10, Reconnaitraient</item>
+                        <item><lb/>11, Frayé</item>
+                        <item><lb/>12, Beaucoup</item>
+                        <item><lb/>13, Regarde</item>
+                        <item><lb/>14, M’emmène</item>
+                        <item><lb/>15, Grand</item>
+                        <item><lb/>Lexique</item>
+                        <item><lb/>16, Dérangeant</item>
+                        <item><lb/>17, Histoires</item>
+                        <item><lb/>18, Ressemblait</item>
+                        <item><lb/>19, Cherché</item>
+                    </list>
+                </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_31</idno>
+                <title type="main"> Ia ed'l'iau dins el'gaz</title>
+                <title type="collection">Picard Concours</title>
+                <author>Marie-Agnès, SAUTIERE</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Ia ed'l'iau dins el'gaz</title>
+                    <author>Marie-Agnès, SAUTIERE</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="90">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="10">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_31_p1.png"/>
+                <fw type="numbering"><lb/>N°31</fw>
+                <head><lb/>IA ED'I' IAU DINS EL'GAZ</head>
+                <p><lb/>C' étot pindint ches vacainces d’été. Euch' mère: Al faisot al
+                    lavindache d’euch' dinner tindis<lb/>qu' el fiu i ravisot ches informations al
+                    télé. Tout d’in cop, i vit eun'tiote minguerlotte su’euch'<lb/>l’écran. I dit
+                    alors à euss' manman:“Eh! Manman ! Ravise ichi, euch' fil-là! Al est bé! Al
+                    se<lb/>prénomme Gréta et al causse d’euch'planète euqu'vozotes zavez
+                    abîmeue!</p>
+                <p><lb/>- Eh! bé! Attinds ! J'intièfe eum' n'écourcheux et ej' vins vire
+                    cha!"</p>
+                <p><lb/>In effet, lavot eun tiote dins 'l télé qui s’arremuot dins tous ches sins
+                    et parlot de no planête.</p>
+                <p><lb/>-"Te vos !": Qu'i dit : Euch' fiu !"Vozotes zavez tout chali: in respire pu,
+                    jaura bé-tôt pu<lb/>d’ozone dins l’air!</p>
+                <p><lb/>-"Eh!Fiu !Qu'eusse manman: Al répond "Te cros point euqu' texagères inne
+                    zique ? Tas<lb/>incore du lait dins tin nez et t'oses em' dire cha, à mi, eut'
+                    mère!"</p>
+                <p><lb/>-"Ouais! vozotes, aveuc vos quatre-quatre, diesel, plastique, tomates,
+                    framboses, cherises,<lb/>tout cha acaté in plon hiver !" Qu'i rajoute; “Ouais
+                    !"Qu’i dit incore dins ses dints à euss'<lb/>manman:"C'est quind même, vozotes
+                    : "ches gins des trinte glorieusses qu’avotes tout<lb/>abimeu!"</p>
+                <p><lb/>-"Quo euqu't'dis, tizote! Trinte glorieusses !" Qu'al répête euss' manman
+                    !"Jouque cha<lb/>veut dire? Parigot, asteure! Tes devenu! in vrai de
+                    vrai!:"Parigot: Tiête ed veau! Comme<lb/>in parlache dins no villache !""Al
+                    rajoute cha, eu'n' savant pu quo dire!</p>
+                <p><lb/>-"Eh!Bé! Ouais! Vozotes: Ches Babacools, yéyés, ch’est vozotes: Ches
+                    gugusses des<lb/>trinte glorieusses !" qu'i répète euch' fiu à ’euss' manman
+                    ! Tout d’in cop, al devient rouche tint<lb/>al est in rache!</p>
+                <p><lb/>-"Tais-te ": Qu' al i dit.</p>
+                <pb n="Picard_Concours_2020_31_p2.png"/>
+                <fw type="runningTitle"><lb/>IA ED'I' IAU DINS EL'GAZ</fw>
+                <p><lb/>-"T as incore du lait dins tin nez! Nasier! Te dos el respect à eut'
+                    manman!"</p>
+                <p><lb/>-" Mi, j' a fait ches grindes z’écoles et euch' j' sais!"</p>
+                <p><lb/>-"Ah! Ouais! Ti, aveuc tes grindes idées!" Qu’al i répond eusse
+                    manman!</p>
+                <p><lb/>-"Ej' va texpliquer inne saquée! Qui ch’est qu'i avot fait in gardin, comme
+                    vos dizotes:<lb/>Bio', avot samé ches carottes, naviaux, plinté ches truches,
+                    porets, cuailli ches cherisses et<lb/>framboses, et tout el' tintouin qu'ia à
+                    feure pou zavoir in biau gardin 'bio' comme vos dizotes,<lb/>vozotes?"</p>
+                <p><lb/>-"Ch' étot min père !"Qu’i répond euch'naïu, en baissant euss'
+                    tiête.</p>
+                <p><lb/>-"Eh! Bé! Ouais ! Ch’est cha: Ch’est ches boubourses des trinte
+                    glorieusses!": Qu’al rajoute<lb/>eusse manman; "Et, pis, jai point fini : qui
+                    ch’est qu' ia roué un sac in plastique plon ed'<lb/>détritus dins al mer
+                    d’euch nord à Boulonne plutôt qu’el mette al' poubel et pis s’a bé
+                    fait<lb/>rouspété après ? Te t'in souvins pu ? Euch, galmite ! Ch’est vrai,
+                    euqu' tas oublieu tizote ed'<lb/>pis el timps euqu't'es devenu in fier-cul ed'
+                    Parigot, tiête ed' veau!"</p>
+                <p><lb/>-"Tas raison manman !":Qu’i dit euch' tiot garchon en ravisant ses souillers
+                    "Ej' m’arrappelle<lb/>d’al rouste euqu'te m’as donnée euch' chour-là ! Ch’est
+                    pou cha euqu' j’ai fait l’école<lb/>d'invironnemint et euqu' j’ai bé réussi,
+                    euqu' jchu devenu ingénieur pou eut feure plasir à ti et<lb/>à eum' mémé
+                    euqu' j’avos fort caire! Merci, manman: Ch'est grâce à ti tout cha !"</p>
+                <p><lb/>La-dechus, al manman et el' fiu s’en foint une grosse baisse et ont ravisé
+                    al télé tous deus.</p>
+                <p><lb/>-"Te vot min tiot !":Qu’al rajoute cor euss' mère :“Ti, te peux raviser
+                    eut' n’ordinateur : Eusse<lb/>boîte-là n’use point ed' courant et quind al est
+                    nase vouzotes, cheulle génération XY l'inveillez<lb/>incore in Afrique sus
+                    ches tas d’ordures !"</p>
+                <pb n="Picard_Concours_2020_31_p3.png"/>
+                <fw type="runningTitle"><lb/>IA ED' I' IAU DINS EL'GAZ</fw>
+                <p><lb/>-"Ouais, t’as bé raison manman !“Qu'i di euch' fiu “in fait tous des
+                    conneries!"</p>
+                <p><lb/>Sus-cha, euch' galmitte XY ed vingt huit ans étind euch' télé qu’iuse du
+                    courant, va quère un ju<lb/>ed' cartes et jue aveuc eusse manman des trinte
+                    glorieusses!</p>
+                <p><lb/>Morale ed' l'histoire: Pou al fin d’al journée, les vlà devenus cul et
+                    qu’misse fin-bé contints<lb/>d’être raccomodeux sus ches questions
+                    d’invironnemints. Incore, merci à Gréta!</p>
+            </div>
+            <div type="liminal">
+                <pb n="Picard_Concours_2020_31_p4.png"/>
+                <head><lb/><foreign xml:lang="met-fr">Lexique</foreign>: IA ED' I’IAU DINS EL
+                    GAZ</head>
+                <list>
+                    <head><lb/>A</head>
+                    <item><lb/>Abimeu (e):<foreign xml:lang="met-fr"> Abimée</foreign></item>
+                    <item><lb/>Acater:<foreign xml:lang="met-fr"> Acheter</foreign></item>
+                    <item><lb/>Al:<foreign xml:lang="met-fr"> Elle</foreign></item>
+                    <item><lb/>Arremuer (s');<foreign xml:lang="met-fr"> s’agiter</foreign></item>
+                    <item><lb/>Asteure:<foreign xml:lang="met-fr"> Maintenant</foreign></item>
+                    <item><lb/>Attinds:<foreign xml:lang="met-fr"> Attends</foreign></item>
+                    <item><lb/>Aveuc:<foreign xml:lang="met-fr"> Avec</foreign></item>
+                    <item><lb/>Avotes:<foreign xml:lang="met-fr"> Avez</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>B</head>
+                    <item><lb/>Baisse:<foreign xml:lang="met-fr"> Baiser, bise</foreign></item>
+                    <item><lb/>Bé:<foreign xml:lang="met-fr"> Bien</foreign></item>
+                    <item><lb/>Bé-tôt:<foreign xml:lang="met-fr"> Bientot</foreign></item>
+                    <item><lb/>Biau :<foreign xml:lang="met-fr"> Beau</foreign></item>
+                    <item><lb/>Boulonne:<foreign xml:lang="met-fr"> Boulogne (sur
+                        mer)</foreign></item>
+                    <item><lb/>Boubourses:<foreign xml:lang="met-fr"> Bêtas</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>1</fw>
+                <pb n="Picard_Concours_2020_31_p5.png"/>
+                <fw type="numbering"><lb/><foreign xml:lang="met-fr">Lexique</foreign>: IA ED'I’IAU
+                    DINS EL'GAZ</fw>
+                <list>
+                    <head><lb/>C</head>
+                    <item><lb/>Caire:<foreign xml:lang="met-fr"> Aimer</foreign></item>
+                    <item><lb/>Causse :<foreign xml:lang="met-fr"> Cause</foreign></item>
+                    <item><lb/>Cha:<foreign xml:lang="met-fr"> Ca</foreign>; Chal:<foreign
+                            xml:lang="met-fr"> Sali</foreign></item>
+                    <item><lb/>Cherisse:<foreign xml:lang="met-fr"> Cerise</foreign></item>
+                    <item><lb/>Cheulle:<foreign xml:lang="met-fr"> Celle</foreign></item>
+                    <item><lb/>Chour :<foreign xml:lang="met-fr"> Jour</foreign></item>
+                    <item><lb/>Cop:<foreign xml:lang="met-fr"> Coup</foreign></item>
+                    <item><lb/>Cor:<foreign xml:lang="met-fr"> Encore</foreign></item>
+                    <item><lb/>Cros (te):<foreign xml:lang="met-fr"> Tu crois</foreign></item>
+                    <item><lb/>Cuaillir:<foreign xml:lang="met-fr"> Cueillir</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>D</head>
+                    <item><lb/>Deus:<foreign xml:lang="met-fr"> Deux</foreign></item>
+                    <item><lb/>Dinner:<foreign xml:lang="met-fr"> Dejeûner</foreign></item>
+                    <item><lb/>Dins:<foreign xml:lang="met-fr"> Dans</foreign></item>
+                    <item><lb/>Dints:<foreign xml:lang="met-fr"> Dents</foreign></item>
+                    <item><lb/>Dizotes:<foreign xml:lang="met-fr"> Dites</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>2</fw>
+                <pb n="Picard_Concours_2020_31_p6.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">Lexique</foreign>: lA ED'
+                    I’IAU DINS EL'GAZ</fw>
+                <list>
+                    <head><lb/>E</head>
+                    <item><lb/>Ecourcheux<foreign xml:lang="met-fr"> Tablier</foreign></item>
+                    <item><lb/>Ed<foreign xml:lang="met-fr"> De</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>F</head>
+                    <item><lb/>Fiu <foreign xml:lang="met-fr"> Fils</foreign></item>
+                    <item><lb/>Fil <foreign xml:lang="met-fr"> Fille</foreign></item>
+                    <item><lb/>Framboses<foreign xml:lang="met-fr"> Framboises</foreign></item>
+                    <item><lb/>Feure (à)<foreign xml:lang="met-fr"> A faire</foreign></item>
+                    <item><lb/>Fier-cul <foreign xml:lang="met-fr"> Hautain</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>G</head>
+                    <item><lb/>Galmite<foreign xml:lang="met-fr"> Gamin</foreign></item>
+                    <item><lb/>Garchon<foreign xml:lang="met-fr"> Garçon</foreign></item>
+                    <item><lb/>Gardin <foreign xml:lang="met-fr"> Jardin</foreign></item>
+                    <item><lb/>Gins<foreign xml:lang="met-fr"> Gens</foreign></item>
+                    <item><lb/>Glorieusses <foreign xml:lang="met-fr"> Glorieuses (années
+                            1970...)</foreign></item>
+                    <item><lb/>Grindes<foreign xml:lang="met-fr"> Grandes</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>3</fw>
+                <pb n="Picard_Concours_2020_31_p7.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">Lexique</foreign> lA
+                    ED'I’IAU DINS EL'GAZ</fw>
+                <list>
+                    <head><lb/>I</head>
+                    <item><lb/>lau <foreign xml:lang="met-fr"> Eau</foreign></item>
+                    <item><lb/>lavot <foreign xml:lang="met-fr"> Il y avait ou il avait selon la
+                            phrase</foreign></item>
+                    <item><lb/>Ichi<foreign xml:lang="met-fr"> Ici</foreign></item>
+                    <item><lb/>Incore<foreign xml:lang="met-fr"> Encore</foreign></item>
+                    <item><lb/>Inliefe <foreign xml:lang="met-fr"> Enlève</foreign></item>
+                    <item><lb/>Inne<foreign xml:lang="met-fr"> Une</foreign></item>
+                    <item><lb/>In parlache<foreign xml:lang="met-fr"> On dit, on
+                        parle</foreign></item>
+                    <item><lb/>Invironnemint <foreign xml:lang="met-fr">
+                        Environnement</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>J</head>
+                    <item><lb/>Jouque cha<foreign xml:lang="met-fr"> Quest-ce que
+                        ça</foreign></item>
+                    <item><lb/>Ju <foreign xml:lang="met-fr"> Jeu</foreign>; Juer<foreign
+                            xml:lang="met-fr"> Jouer</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>L</head>
+                    <item><lb/>Lavindache<foreign xml:lang="met-fr"> Vaisselle</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>M</head>
+                    <item><lb/>Manman<foreign xml:lang="met-fr"> Maman</foreign></item>
+                    <item><lb/>Mi <foreign xml:lang="met-fr"> Moi</foreign></item>
+                    <item><lb/>Minguerlotte<foreign xml:lang="met-fr"> Fluette</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>4</fw>
+                <pb n="Picard_Concours_2020_31_p8.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">Lexique</foreign> IA
+                    ED'I’IAU DINS EL'GAZ</fw>
+                <list>
+                    <head><lb/>N</head>
+                    <item><lb/>Naïu <foreign xml:lang="met-fr"> Benêt</foreign></item>
+                    <item><lb/>Nasier<foreign xml:lang="met-fr"> Petit garçon (sens
+                            péjoratif)</foreign></item>
+                    <item><lb/>Naviaux<foreign xml:lang="met-fr"> Navets</foreign></item>
+                    <item><lb/>No<foreign xml:lang="met-fr"> Notre</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>O</head>
+                    <item><lb/>Ouais <foreign xml:lang="met-fr"> Oui</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>P</head>
+                    <item><lb/>Parigot<foreign xml:lang="met-fr"> Parisien</foreign></item>
+                    <item><lb/>Pis <foreign xml:lang="met-fr"> Puis</foreign></item>
+                    <item><lb/>Plasir <foreign xml:lang="met-fr">Plaisir</foreign></item>
+                    <item><lb/>Plinter<foreign xml:lang="met-fr"> Planter</foreign></item>
+                    <item><lb/>Plon<foreign xml:lang="met-fr"> Plein</foreign></item>
+                    <item><lb/>Porets<foreign xml:lang="met-fr"> Poireaux</foreign></item>
+                    <item><lb/>Pou <foreign xml:lang="met-fr"> Pour</foreign></item>
+                    <item><lb/>Pu<foreign xml:lang="met-fr"> Plus</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>5</fw>
+                <pb n="Picard_Concours_2020_31_p9.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">Lexique</foreign> lA
+                    ED'I’IAU DINS EL'GAZ</fw>
+                <list>
+                    <head><lb/>Q</head>
+                    <item><lb/>Querre ou quere <foreign xml:lang="met-fr"> Chercher
+                            ramener</foreign></item>
+                    <item><lb/>Quind<foreign xml:lang="met-fr"> Quand</foreign></item>
+                    <item>
+                        <lb/>Quo<foreign xml:lang="met-fr"> Quoi</foreign></item>
+                    <item><lb/>Qu'misse<foreign xml:lang="met-fr"> Chemise (cul et chemise bien
+                            ensemble)</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>R</head>
+                    <item><lb/>Rache (in)<foreign xml:lang="met-fr"> En rage</foreign></item>
+                    <item><lb/>Ravisot<foreign xml:lang="met-fr"> Regardait</foreign></item>
+                    <item><lb/>Rouche<foreign xml:lang="met-fr"> Rouge</foreign></item>
+                    <item><lb/>Rouer<foreign xml:lang="met-fr"> Jeter</foreign></item>
+                    <item><lb/>Rouspéter <foreign xml:lang="met-fr"> Disputer</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>S</head>
+                    <item><lb/>Samé<foreign xml:lang="met-fr"> Semé</foreign></item>
+                    <item><lb/>Saquée<foreign xml:lang="met-fr"> Chose</foreign></item>
+                    <item><lb/>Savant<foreign xml:lang="met-fr"> Sachant</foreign></item>
+                    <item><lb/>Sins<foreign xml:lang="met-fr"> Sens</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>6</fw>
+                <pb n="Picard_Concours_2020_31_p10.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">Lexique</foreign> IA
+                    ED'I’IAU DINS EL'GAZ</fw>
+                <list>
+                    <head><lb/>T</head>
+                    <item><lb/>Te<foreign xml:lang="met-fr"> Tu</foreign></item>
+                    <item><lb/>Ti <foreign xml:lang="met-fr"> Toi</foreign></item>
+                    <item><lb/>Tiête<foreign xml:lang="met-fr"> Tête</foreign></item>
+                    <item><lb/>Tindis<foreign xml:lang="met-fr"> Tandis</foreign></item>
+                    <item><lb/>Tint<foreign xml:lang="met-fr"> Tant</foreign></item>
+                    <item><lb/>Tizote<foreign xml:lang="met-fr"> Toi-même</foreign></item>
+                    <item><lb/>Trinte<foreign xml:lang="met-fr"> Trente</foreign></item>
+                    <item><lb/>Truche<foreign xml:lang="met-fr"> Pomme de terre</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>V</head>
+                    <item><lb/>Vacainces<foreign xml:lang="met-fr"> Vacances</foreign></item>
+                    <item><lb/>Villache<foreign xml:lang="met-fr"> Village</foreign></item>
+                    <item><lb/>Vire<foreign xml:lang="met-fr"> Voir</foreign>; I vit <foreign
+                            xml:lang="met-fr"> Il voit</foreign></item>
+                    <item><lb/>Vo<foreign xml:lang="met-fr"> Vous</foreign></item>
+                    <item><lb/>Vozotes<foreign xml:lang="met-fr"> Vous autres</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>Z</head>
+                    <item><lb/>zique <foreign xml:lang="met-fr">(peu)</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>7</fw>
+            </div>
+        </body>
+    </text>
+</TEI>

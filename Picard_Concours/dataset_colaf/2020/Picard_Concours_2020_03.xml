@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_03</idno>
+                <title type="main"> Apocalypse</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jacques, DEFOLIE</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Apocalypse</title>
+                    <author>Jacques, DEFOLIE</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb n="Picard_Concours_2020_3_p1.png"/>
+                <fw type="numbering"><lb/>1</fw>
+                <fw type="numbering"><lb/>N°3</fw>
+                <head><lb/>Apocalypse</head>
+                <lg>
+                    <lb/>
+                    <l>L' neuvelle alle est tcheute cenme alle tchait l’foude </l>
+                    <lb/>
+                    <l> Pis alle s’est répindue conme ech fu dsus l’poude!</l>
+                    <lb/>
+                    <l>Not' Dame ed Paris étoait victime d’ein inchindie </l>
+                    <lb/>
+                    <l> Alorss tout ch' peupe ed Paris, affolé, i s’y rindit...</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l> Ch' batimint millénaire, in fu, brûlait conme ein cierge </l>
+                    <lb/>
+                    <l> Lanchant des langues ed fu in ein ciel bleu pis vierge </l>
+                    <lb/>
+                    <l>Ed tous nuaches. Des trainées grises, lourdes ed feumée</l>
+                    <lb/>
+                    <l>Filoaient in tourbilon ed crinnières point accouteumées</l>
+                    <lb/>
+                    <l>Edz heutes flanmes seurgissoaient à ed' grannes heuteurs</l>
+                    <lb/>
+                    <l>L' foule rassannée crioait à l'foés ed peur pis d’horreur</l>
+                    <lb/>
+                    <l>Ed vir leu cathédrale d’vnue l'proée ed ches flanmes</l>
+                    <lb/>
+                    <l>Qui ronfloaient, qui ratchoaient pis pétoaient sins âme</l>
+                    <lb/>
+                    <l>Apportant à chatchun tchéques bouffées ed caleur</l>
+                    <lb/>
+                    <l>Qu'ech vint i f'soait aller d’ichi à lo pour ch' malheur</l>
+                    <lb/>
+                    <l>Ed ches tchurieux silinchieux dont sartains pleurent...</l>
+                    <lb/>
+                    <l>Is sont v’nus ichi, ein par ein d’abord, groupés insuite</l>
+                    <lb/>
+                    <l>Pis i sont lo, figés, anéintis, dvant l’horribe porsuite</l>
+                    <lb/>
+                    <l>D’ein fu dont o d’vine el' forche pis étou el' dur’té!</l>
+                    <lb/>
+                    <l>Ches pompiis l’combattent avuc granne opiniât'té</l>
+                    <lb/>
+                    <l>Ches poutes ed huit chints ans ont t’nu sins falle</l>
+                    <lb/>
+                    <l>Ch' fu sz’es maque cenme si alles étoétent in palle</l>
+                    <lb/>
+                    <l>Ches flanmes vont alorss monter coére pus heut</l>
+                    <lb/>
+                    <l>Pis s’ rassasier ed tout, equ' cha fuche laid ou bieu</l>
+                    <lb/>
+                    <l>Ein fu qui dévore l’toéture pis prind puss d’avanche</l>
+                    <lb/>
+                    <l>Dsus ches pompiis in nardjant leus tchottes lanches</l>
+                    <lb/>
+                    <l>Qui raquent eine ieu qu’alle o point assez ed forche</l>
+                    <lb/>
+                    <l>Pour l’atteinde in plein mitan. Des fois i s’amorche</l>
+                    <lb/>
+                    <l>Ein singne ed déclin d’ech fu, ein espoér ed victoére</l>
+                    <lb/>
+                    <l>Mais ech fu i lache point pis, r’prindant tout es' gloére</l>
+                    <lb/>
+                    <l>I l’attaque la heute flèque foaite ed bous pis ed plomb</l>
+                    <lb/>
+                    <l>Qu’alle flimbe ed bos in heut, pis, perdant s’n’aplomb,</l>
+                    <lb/>
+                    <l>Alle s’écroule dins eine gerbe ed granne incandeschince</l>
+                    <lb/>
+                    <l>En' lachant d’elle qu’ein moégnon frisant l’indéchince</l>
+                    <lb/>
+                    <l>Des murs, qui dvoétent défier ech temps qui passe,</l>
+                    <lb/>
+                    <l>Ech fu esz’o réduit brutal’mint à l’état ed carcasses</l>
+                    <lb/>
+                    <l>Ches pompiis is luttent, courageux, intrépides, harassés</l>
+                    <lb/>
+                    <l>Is veultent point equ s’in alle parel vestige d’ech passé</l>
+                    <lb/>
+                    <l>L'foule ertchule, ébeubie, s’éloégne, personne én'crie</l>
+                    <lb/>
+                    <l>Dins ein tchuin, tout seul, à g’noux, ein honme prie</l>
+                    <pb n="Picard_Concours_2020_3_p2.png"/>
+                    <fw type="numbering"><lb/>2</fw>
+                    <lb/>
+                    <l>I voét, d’el belle cathédrale, ch' fu s’in f'sant ein festin</l>
+                    <lb/>
+                    <l>Pinsant "Diu! Ch’est-y d’et' part ein singne d’ech destin ?"</l>
+                    <lb/>
+                    <l>D’eutes honmes, insanne, intonnent ein viux cantique</l>
+                    <lb/>
+                    <l>Pour glorifier ch' bijou ed l’art er'ligieux d’ech gothique</l>
+                    <lb/>
+                    <l>In train d’ête carbonisé avuc des grannes flammes d’âtre</l>
+                    <lb/>
+                    <l>Equ des gins vien'tent vir conme os allons à ch' théyâtre...</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l>A l'intérieur, l'caleur alle est intinse. Ed'ches voûtes</l>
+                    <lb/>
+                    <l>Tchaisent des braises dorées conme edz’étoéles filantes</l>
+                    <lb/>
+                    <l>Qu’ein robot éteint d’eine lanche, in inditchant l’route</l>
+                    <lb/>
+                    <l>Pis djidant ches pompiis dins leu avinchée bién lente!</l>
+                    <lb/>
+                    <l>Neuf heures ches pompiis is vont lutter conte ech feu</l>
+                    <lb/>
+                    <l>Neuf heures pour qu’i diminuche mais ein titchout peu</l>
+                    <lb/>
+                    <l>Neuf heures ed lutte acharnée, pleinne ed courache</l>
+                    <lb/>
+                    <l>Neuf heures d’où qu’is ont combattu ech' fu avuc rache</l>
+                    <lb/>
+                    <l>Neuf dures heures durant les tchelles is ont bien lutté</l>
+                    <lb/>
+                    <l>Pour equ seurvivent ches huit chints énnées ed bieuté</l>
+                    <lb/>
+                    <l>Edz' ouvriis avoaient foait sortir eine œuve d’ech néant</l>
+                    <lb/>
+                    <l>Pour vir tout cha, dins edz ieux puss equ sales, baingnant...</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l>Lint'mint ech fu décroét pis s' fait moins t'nache</l>
+                    <lb/>
+                    <l>O dvise ed victoére mais sins oubelier l'm’nache</l>
+                    <lb/>
+                    <l>D’eine évintuelle erprise d’ech fu toujours possibe</l>
+                    <lb/>
+                    <l>Seuv’garder tout ch' qui reste d’vnant el' réelle cibe</l>
+                    <lb/>
+                    <l>Ch’est au tchout matin quainte sont partis ches astres</l>
+                    <lb/>
+                    <l>D'el' nuit qu’o s’est bien rindu compte d’ech désastre</l>
+                    <lb/>
+                    <l>Not' Dame ed Paris ch’étoait pus equ des murs</l>
+                    <lb/>
+                    <l>Ech fu avoait dévoré in eine nuit tout l'toéture</l>
+                    <lb/>
+                    <l>Des treus dins l'voûte éclairoaient à ch' grand jour</l>
+                    <lb/>
+                    <l>Ch' tchœur, ches bancs, ches capelles tout au tour...</l>
+                    <lb/>
+                    <l>Cha equ ches djerres avoaient point foait, l’inchindie</l>
+                    <lb/>
+                    <l>L’avoait accompli lachant ech peuple ed Paris interdit</l>
+                    <lb/>
+                    <l>Ches deux grannes tours alles t’noaient coére d’bout</l>
+                    <lb/>
+                    <l>Alles avoaient été bien défindues ed bout in bout....</l>
+                    <lb/>
+                    <l>Os avoait r’edmindé à ches hommes dsus ch' terrain</l>
+                    <lb/>
+                    <l>Ed protéger ches cloques pis leus belles voéx d’’airain</l>
+                    <lb/>
+                    <l>Conme l'croix d’or, tout au fond, dins ch' tchœur</l>
+                    <lb/>
+                    <l>Tind ses bros dsus ein chaos dont l’sinteur étchœure</l>
+                    <lb/>
+                    <l>I n' restoait, d’ech bieu bijou d’el roéyonnante Cité,</l>
+                    <lb/>
+                    <l>Equ des murs noérchis, martchés par eine calamité</l>
+                    <lb/>
+                    <l>Pis, témoin ed tout ches solannités: ech' grand orgue</l>
+                    <lb/>
+                    <l>Récapé ed ches flanmes d’ein fu plein ed morgue...</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l>Ech fu, maitrisé, est vaintchu! Ches pompiis fatidjés</l>
+                    <lb/>
+                    <l>Ont r’ploéyé ches teuyaux pis matériels, sins épilodjer</l>
+                    <pb n="Picard_Concours_2020_3_p3.png"/>
+                    <fw type="numbering"><lb/>3</fw>
+                    <lb/>
+                    <l>Is sont r’partis sins ein mot vers leus casern’mints</l>
+                    <lb/>
+                    <l>Mais is ont été seurprins par ches applaudiss’mints...</l>
+                    <lb/>
+                    <l>Figé dvant ch' téléviseur j’erbéyoais abasourdi</l>
+                    <lb/>
+                    <l>Eine cathédrale in flanmes. L' vraie peur, in mi,</l>
+                    <lb/>
+                    <l>Montoait tout douch’mint eine siniste ganme</l>
+                    <lb/>
+                    <l>Vir ein jour Not' Dame d’Anmiens in flanmes</l>
+                    <lb/>
+                    <l>J’avoais peur, j’el' dis sins honte, j’avoais fin peur</l>
+                    <lb/>
+                    <l>Ed vir ein jour ignobe ein parel singne ed malheur....</l>
+                    <lb/>
+                    <l>Ej'sintoais min tchoeur, qu’eine douleur broéyoait!</l>
+                    <lb/>
+                    <l>M' fanme alle ressuyoait m’fidjure pasqu’ej' brayoait.</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l>Si ein jour meudit cha s' fsoait ej sais point où ej' s’rai</l>
+                    <lb/>
+                    <l>Eine cose alle est seure, eine sconde foés, ej' brairai...</l>
+                </lg>
+                <pb n="Picard_Concours_2020_3_p4.png"/>
+                <fw type="numbering"><lb/>4</fw>
+                <lg>
+                    <lb/>
+                    <l>Le petit Prince est venu, a fait ein beau discours</l>
+                    <lb/>
+                    <l>Parlant d’union, ed fraternité et, devant sa cour,</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l>Appela à ein soutien moral et surtout financier</l>
+                    <lb/>
+                    <l>Pour qu’en cinq ans la cathédrale, en son entier,</l>
+                    <lb/>
+                    <l>Soit reconstruite et redevienne pôle touristique</l>
+                    <lb/>
+                    <l>Cenme avant. Il a eu droit à bien des critiques</l>
+                    <lb/>
+                    <l>Des experts disaient qu’il faudrait plus du double</l>
+                    <lb/>
+                    <l>Ed temps. L’existence est bien souvent trouble</l>
+                    <lb/>
+                    <l>Avancer des délais aussi courts relève ed l’utopie....</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l>Puis il est venu le temps ed la “vraie philanthropie !"</l>
+                    <lb/>
+                    <l>Ed très grands patrons, parmi ches plus que riches</l>
+                    <lb/>
+                    <l>On fait voir qu’ils ne sont pas des gens chiches</l>
+                    <lb/>
+                    <l>Le premier annonça qu’il verserait cent millions</l>
+                    <lb/>
+                    <l>Son rival, en bon second, lui, a doublé la somme</l>
+                    <lb/>
+                    <l>Le troisième ajoutera à son tour deux millions</l>
+                    <lb/>
+                    <l>Pour la reconstruction. Et il fallu voir cenme</l>
+                    <lb/>
+                    <l>Ches autres nantis se pressèrent d’annoncer leur</l>
+                    <lb/>
+                    <l>Don! Le milliard a été dépassé en eine heure</l>
+                    <lb/>
+                    <l>Tout cela fait avuc des annonces ostentatoires</l>
+                    <lb/>
+                    <l>Ches nantis voulaient être cités dins l’Histoire!</l>
+                    <lb/>
+                    <l>Qu’aurait dit Victor Hugo devant ce tas d’argent</l>
+                    <lb/>
+                    <l>Lui qui était si proche, il l’a dit, des pauvres gens...</l>
+                    <lb/>
+                    <l>Je préfère, à ces dons faits par des puissants,</l>
+                    <lb/>
+                    <l>Celui ed la pauvresse qui donne en puisant</l>
+                    <lb/>
+                    <l>Dins ce qui lui permet ed manger pour vivre</l>
+                    <lb/>
+                    <l>A celui des ces riches que leur richesse enivre...</l>
+                </lg>
+                <lg>
+                    <lb/>
+                    <l>En cela je me remémore eine certaine parabole</l>
+                    <lb/>
+                    <l>Où eine vielle dame apportant sa petite obole</l>
+                    <lb/>
+                    <l>Reçois bien plus que le pharisien fier ed sa place</l>
+                    <lb/>
+                    <l>Qui ignorait sa misère en rejoignant son palace</l>
+                    <lb/>
+                    <l>La pauvre veuve, en donnant, se privait ed son pain</l>
+                    <lb/>
+                    <l>Le riche, lui, ne mettait qu’eine belle affaire en train...</l>
+                    <lb/>
+                    <l>Ein don a plus ed valeur quand il est discret</l>
+                    <lb/>
+                    <l>Et encore plus si celui qui donne reste secret</l>
+                </lg>
+            </div>
+            <div type="liminal">
+                <p><lb/>Jidé 24/04/2019</p>
+            </div>
+        </body>
+    </text>
+</TEI>
