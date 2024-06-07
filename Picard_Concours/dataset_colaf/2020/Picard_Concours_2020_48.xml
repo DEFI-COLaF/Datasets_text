@@ -1,74 +1,1178 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-                <fileDesc>
-                    <titleStmt>
-                        <idno>PIC_CONCOURS__2020_48</idno>
-                        <title type="main"> T'es d'min coin ?</title>
-                        <title type="collection">Picard Concours</title>
-                        <author>Christian, LEDUC </author>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="JJANES">
-                                <surname>Janès</surname>
-                                <forename>Juliette</forename>
-                                <idno type="orcid">0000-0002-8971-6173</idno>
-                            </persName>
-                        </respStmt>
-                        <principal>
-                            <persName xml:id="BSAGOT">
-                                <surname>Sagot</surname>
-                                <forename>Benoît</forename>
-                                <idno type="orcid">0000-0001-8957-9503</idno>
-                            </persName>
-                        </principal>
-                        <funder>Inria</funder>
-                    </titleStmt>
-                    <publicationStmt>
-                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
-                            les Langues de France (COLaF)</publisher>
-                        <date when="2024-04-04"/>
-                        <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                        </availability>
-                    </publicationStmt>
-                    <sourceDesc>
-                        <bibl>
-                            <title> T'es d'min coin ?</title>
-                            <author>Christian, LEDUC </author>
-                            <pubPlace>Amiens</pubPlace>
-                            <publisher>Agence régionale de la langue Picarde</publisher>
-                            <date when="2020"/>
-                        </bibl>
-                    </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                    <langUsage>
-                        <language ident="met-oil-pic" usage="100">
-                            <idno type="langue">met-oïl-pic</idno>
-                            <idno type="script">latin</idno>
-                            <name>Picard</name>
-                            <date>2020</date>
-                            <location>
-                            <region>Nord</region>
-                            <country>France</country>
-                            </location>
-                        </language>
-                    </langUsage>
-                    <textClass>
-                        <keywords>
-                            <term type="supergenre" rend="fiction">Fiction</term>
-                            <term type="genre" rend="fiction-prose">Prose</term>
-                        </keywords>
-                    </textClass>
-                </profileDesc>
-                <revisionDesc>
-                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
-                </revisionDesc>
-            </teiHeader>
-  <text xml:lang="met-oil-pic">
-    <body>
-      <div><pb n="Picard_Concours_2020_48_p1.png"/><lb/>Sauvegarde du patrimoine linguistique local<lb/>Parigot, tiête ed’vieau<lb/>Cambrésien, tiête ed’kien<lb/>N°48<lb/>T’es d’min coin?<lb/>Souvenirs d’une enfance rurale en Hainaut-cambrésis.<lb/>1<pb n="Picard_Concours_2020_48_p10.png"/><lb/>Chés guernoulles ed’bénitcher<lb/>Dins ch’villache, i avoit gramint d’cinsiers et comme ch’étoient des gins d’contritieon is<lb/>alloient souvint à l’églisse; ch’étoit parel pou chés tiotes fabriques où ch’patron i d’alloit souvint alle<lb/>messe. Euch Mayeur, i n’étoit point trop de ch’bord là, mais comm' eusse fème ch’étoit eine vraie<lb/>bigote¹², i étoit quind même amisse aveuk euch' curé; in plusse cha y f’soit des vôx pou z’élections.<lb/>Ch’és comm' cha qu’euch curé, qui connaissoit tous chés gins qui pouvoient imbrocher, i avoit<lb/>beaucôp d’importanche; comm in plusse i erprésentoit l’morale, ch’és li qui pouvoit dire « ch’ti là,<lb/>ch’és quéqu’ein d’bin, i va alle messe tous les diminches !». Aussi, quind in cachoit ed’ l’ouvrache,<lb/>k’mint qu’in faisoit ? In alloit vir ch’curé, ch’mayeur ou ein patron, et pou ch’tit qui n’alloit pas alle<lb/>mess' i avoit cor euch' moaite qui pouvoit l’assister passe qu’i connaisoit aussi des gins, que ch’étoit<lb/>ein biau parleu, et qui savoit récrire des bielles babillartes! (I raccordoit comme ein life à clôs<lb/>d’argint!)<lb/>A Marcoing, ch'curé, ch’étoit ein viux d’la viel’; i étoit cor arnéqué aveuk eine soutane et ein<lb/>drôl' de capieau; nous z’autes, in derrière d’sin dos, in l’tariot aveuk ses longs cautreons ! Chés joenes<lb/>curés qui étoient fagotés comme des pasteurs inglais, is z’ y d’mindoient : « Min père, pourquô<lb/>qu’vous portez côr eul deul d’el marquisse ed' Pompadour?» Souvint, ch’curé i berdouilloit et i<lb/>k’minchoit à décarocher; in veyoit bin qu’i n’étoit pus dins s’n’inchimint ; i parloit mitan in français,<lb/>mitan in latin, mais i k’minchoit à l’pert' sin latin et comme dins l’timps (du timps d’chés rôs fégnants)<lb/>chés curés is avoient d’jà perdu leu latin, cha f’soit qu’i l’avoit perdu deux fôs!<lb/>Y avoit tout l’timps quette cosse à faire pou continter ch'curé! In k’minchoit l’in née aveuk<lb/>el' fiête des rôs; cha ch’étoit drol’ passe qu’in muchoit eine fèfe dins eine galette et chti qui<lb/>l’artrouvoit, i étoit l’rô. In féverrier, y avoit el fiête des fèmes qui étoit aussi l’fiête des candelles;<lb/>euch curé i disoit qu’y falloit warder l’crèche ed Noël jusqu’au 2 féverrier, mais quind j’disois cha à<lb/>m’mère, alle faisoit eine vie d’diap, alle bertonnoit : « pour mi te n’y es pus ! Te n’crôs tout d’même<lb/>pôs que j’vas warder cha tout'qu’à l’candeleur !» et pis alle ruoit ch’sapin. Euch curé i nous disoit<lb/>aussi qu’ch’étoit eine fiête ed bondiuseries passe que ch’étoit les erlévales 13 d’eul vierche, qu’alle<lb/>n’pouvoit pôs intrer dins ch’tempe avint quarinte jours pou présinter sin pétiot passe qu’alle n’étoit<lb/>point pure (allez raqueonter cha à chés fèmes d’ach’t’heure et vous verrez k’mint qu’ch’és qu’vous<lb/>s’rez erchus!); i nous disoit aussi qu’ch’étoit l’fiête des leumières passe que Jésus i avoit dit : « Jsus<lb/>el leumière et l’vie! » Alors, à nos masons, in f’soit des ratons qu’in faisoit sauter dins eine païelle<lb/>et cha rappeloit l’soleu, mais in avoit peur de l’vir euch soleu ce' jour là passe que ch’étoit l’sinifianche<lb/>que les courts jours i d’alloit ercmincher. Après, y avoit ch’carème, in n’pouvoit pus minger d’char<lb/>pindant quarinte jours (même si cha s’lonmoit les quater-timps), et in d’voit s’priver, mier du<lb/>pisson,..., nos panches alles n’arrêtoient pas d’gargouiller passe que cha nous saquoit à l’fossette ed<lb/>nos cœur, in n’pouvoit pus faire eud' fiêtes, eus' déguiser,... passe que ch’curé i disoit qu’chés<lb/>saturnales, ch’étoit païen, qu’cha d’alloit bin ein tchot momint, més quind alles étoient finies, falloit<lb/>ardev’nir saches. Heureusemint, après ch’étoit chés Pâques, et in pouvoit ercmincher à faire guinse;<lb/>in disoit toudis « in a canté Alléluia, in peut minger tout chou qu’in a! », mais i falloit faire ses<lb/>Pâques, in dvoit buquer à « Peccavi » et pour cha y falloit débabeiner à ch’curé tout jou qu’in avoit<lb/>fait d’travers avint d’pouvoir mier el corps du Christ. Pindint l’semonne sainte, i f’soit toudis frôd,<lb/>euch curé i arrêtoit d’berlander, et i nous f’sois acroire qu’chés cloques alles étoient parties à Rome;<lb/>pou nous dire ce’qu’in d’voit faire pindint ch’timps là, i l’inveyoit chés choraleux dins chés rues qui<lb/>RChé ein mot qui vient d’l’espagnol et qui veut dire « moustache »; cha vient du timps où z’espagnols is restoient dins<lb/>nos région et qu’leus saudarts is avoient eine moustache pou dominer chés gins quind is les ravisoient de haut. Is<lb/>z’alloient toudis alle messe pou moutrer qu’chétoit l’beonne crôyance dins ein racoin d’uch que chez gins is<lb/>protestoient beaucôp (in les lonmoit « des gueux ») Du côp, in s' moquoit d’eusse in disant : « chés bigotes, is vont<lb/>côr alle messe!»<lb/>"Allez expliquer à ein garchonal jou qu'ché qu'des erlévales !<lb/>10<pb n="Picard_Concours_2020_48_p11.png"/><lb/>nous berloient l’heure ed chés messes in f’sant claquer leus écalettes. A la fin, is erclamoient des clôs<lb/>in cantant :<lb/>Ohé ! Ohé, du fond du cœur<lb/>Donnez queutte cosse aux z’infants d'chœur<lb/>In jour viendra, Diũ vous l’rindra!<lb/>Alléluia, Alléluia!<lb/>Après les Pâques, ch’étoit l’ saiseon des gringottes et l’môs d’mai, ch’étoit l’môs d’Marie,<lb/>in alloit faire nos dévotions dins des capelles ed quartier à l’mason des vieles biques! Ed bite in bout<lb/>d’nos kémin, in intindoit voler chés hurlons, et alfôs, i n-n’a qui v’noient s’coller dins nos tignasse !<lb/>Quind in arrivoit dins l’capelle, y avoit ein dallache et pis ein drôle ed sintimint passe chés vieles<lb/>alles étoient toutoules et alles n’savoient pus faire leu ménache ni ringer leus vieizeries ! Alles avoient<lb/>eine turne ! Nous z’autes, in s’abannoit bin surtout quind in les véyoit mette leus lorgnons pou lire<lb/>chés prières et réchiter leus triolaines !<lb/>A l’estrême jour du môs, toutes chés capelles, alles partoient in processicon14 jusqu’à<lb/>ch’l’églisse pou réchiter insanne ein dernier capelet. Quarinte jours après Pâques, ch’étoit l’ascinsieon<lb/>et i falloit cor d’aller à l’messe passe que ch’étoit eine fiète d’obligeance, més in avoit kér quind<lb/>même passe que, comme ch’étoit ein jour d’ato, in n’alloit point à l’école. Dix jours après ch’étoit<lb/>l’pintecotte15, et là in pouvoit mette eusse n’habit toute et oute! Eul Pintecotte, ch’étoit l’jour ed<lb/>chés communions ; y avoit eine banse ed’curés passe qu’y falloit apointer chés communiants pindant<lb/>leu artraite ; au momint du sermeon, ch’curé i disoit : « pus tard, vous direz, ch’jour là, ch’étoit le pus<lb/>bieau jour d’em' vie16!»; les parints is z’invitoient toute leu famile surtout cheux qui étoient à leu<lb/>guife et in faisoit un rute gueulton, et pis surtout, el lend’min, y avoit raccros, et in alloit toudis pôs à<lb/>l’école!<lb/>Quinze jours après, ch’étoit l’fiête-Diu; y avoit cor' eine grinte processieon dins ch’villache,<lb/>et cheux qui v’noient ed' faire leu communion, y ermettoient leus arnicures aveuk un brassart pour<lb/>chés garchons, et leu rope ed communiantes pou chés files17. Ch’curé i défiloit in d’sous d’ein « dais »<lb/>qui étoit treondlé par quat' ménairs de ch’ villache; i moutroit ein ostensoir aveuk eine nieule ed’ dins<lb/>pou faire acroire qu’alle contenoit vraimint el corps du Christ 18! Les jésustresses alles avoient ajolié<lb/>chés rues du villache, et chez gosses is z’avoient rué plein d’ rosses sul’ route avint l’orvue. Cheux<lb/>qui n’croyoient pôs in Diu, is restoient such' crébieon 19 et is cantoient au passache eine canchon<lb/>qu’étoit pôs vraimint chiroteusse:<lb/>« Vlla l’processieon qu’alle pas-sse<lb/>Pas si vite, pas si vite<lb/>Euch curé l’a des coliques!<lb/>L’processieon alle est passée,<lb/>Ch'curé l’a fait ses effets !»<lb/>Eusses, is aroient plutôt canté eine oraison à saint fout l’camp!<lb/>Après, ch’étoit el Saint-Jean, ch’étoit le pus long jour ed l’ainnée ; in fsoit l’fiète dins chés<lb/>camps toute eul journée; au brun soir in f’soit un rute fu et in bruloit ein grind marmouset d’estrain.<lb/>14Chés processieons, alles pouvoient ête ébeubies, mès ch’Mayeur, i n’disoit rin, i fromoit ses yus !<lb/>15Y avoit ein aute dicton qui disoit : n'découffe pas tes côtes avint l’pintecotte<lb/>16Nous, in acoutoit, mais dins nos tiête in disoit : « cha chés pôs sûr! »<lb/>17Ch’étoit presque des ropes ed mariées !<lb/>18I lonmoit cha « eul transsubstantiation »<lb/>19Is s’mettoient quind même assez lon, car dins ch’timps là, y n’falloit pas trop rire aveuk cha! Comme in dit<lb/>souvint ; « ed l’avinche, ch’és toudis beon, cha n’sroit que pou s' seuver !»<lb/>11<pb n="Picard_Concours_2020_48_p12.png"/><lb/>Après ch’étoit ch’quinsse d’août, més là in alloit à Cambrai d’uch qu’i avoit eine grante<lb/>ducasse, et l’matin, y avoit eine messe aveuk Monseigneur et eine processieon d’uch qu’in pormenoit<lb/>el' Saint-Sépulcre. Ch’étoit l’fiète d’eul dormition d’eul vierche et in n’avoit pôs l’drôt<lb/>d’ouvrer c’jour là; chés pour cha qu’in disoit toudis: « In n’dôt jinmais wuidier ein gvau au quinsse<lb/>d’août ! »<lb/>Après, ch’étoit l’Toussaint; ch’étoit pôs eine fiète païenne comme achteur aveuk Halloween<lb/>mès in f’soit quind même des tiêtes ed Marie-galousse, mès aveuk des beterafes! Ej n’avois point<lb/>fort ker cheul date là passe que ch’étoit aussi el fiéte des morts ; mès pour mi, ch’és l’jour d’uch que<lb/>j’ai mes âches, et ch’és toudis ein seombre anniversaire! In dvoit cor d’aller à l’messe et pis à ch’<lb/>gardin grêne-dints pou mette des saintes-catherines su chés tompes, més avint, i falloit les z’avoir<lb/>décrapées; ch’étoit ein rute ju!<lb/>Ch’étoit l’quéminchemint des satumnales; ch’étoient des vieles fiétes païennes que chés curés<lb/>is z’avoient erpris pour in faire des fiétes chrétiennes. I n-n’avoit gramint ; ch’étoit souvint l’fiéte<lb/>ed chés ouverriers comme eul Sainte-Barbe, eul Saint-Eloi; y avoit aussi eul Sainte-Cécile d’uch<lb/>qu’in juoit cor d’eul mujik dins ch’l’églisse. Y avoit surtout l’fiéte ed chés fil’es à l’Sainte-Catherine<lb/>et l’fiéte ed Saint-Nicolas pou chés garchons et chés alieuves; ch’étoit cor el grind Saint-Nicolas qui<lb/>répartoit chés jux à chés tchots et eine cougnole à chés écoliers.<lb/>Nous z’autes in cantoit :<lb/>Sainte-Catherine alle a cassé s terrine,<lb/>Saint-Nicolas i li racommodra !20<lb/>In finissoit ch’l’ainnée aveuk chés fietes ed Noël ; à l’école in nous donnoit cor des quenious<lb/>et à l’églisse, ch’curé i l’avoit fait eine grinde crêche; ch’moaite i nous apprenoit à canter « Min biau<lb/>sapin » et ch’curé: « i l’est né euch divine infant»; comme i faflioit, j’avois pôs bin intindu jou qu’il<lb/>avoit dit et j’avois compris ed travers, ej m’apinsois qu’i falloit canter « il est né eul 18 novempe »;<lb/>du côp comme j’savois qu’i décarochoit un tchot peu, j’avois fait Gros-jean qui ermoutre sin curé et<lb/>ej l’avois erpris in disant; « Ah nin M’sieu l’curé, i l’est point né el 18 novempe, il est né el 25<lb/>décempe! » Comme i savoit qu’j’étois ein moqueux d’gins, i avoit cru qu’ej me foutois d’li, i étoit<lb/>in farce et i m’avoit crié après ! Més, cha n’ fait rin, in s’étoit tertous artrouvés à l’messe ed minuit<lb/>d’uch qu’in a canté pindint eine heure et même qu’in a fini par canter tertous « I est né euch divine<lb/>infant!»<lb/>«Achteur, in n’oseroit pus canter cha, passe cha voudroit dire que chés files, alles sont tertoutes des toutoules et<lb/>qu’heurusemint qu’chés garchons is sont là pou ertaper leus sotries !<lb/>12<pb n="Picard_Concours_2020_48_p13.png"/><lb/>Pour in définir<lb/>Quind j’ai c’minché m’carabistoule, j’avois dit qu’eum vie alle n’étoit point fort bièle,<lb/>bin achteur vous savez ch’qu’i l’in est ! Ch’étoit pôs toudis drôle surtout pou z ’infints ; j’ai<lb/>l’raminvrance que Trénet i cantoit : « Les enfants s’ennuient le dimanche », bin pour<lb/>mi cha n’manquoit pas passe qu’in étoit toudis aveuk des viux!<lb/>Achteur, chés bin leon tout cha, ej sus in ertraite et j’n’ai pôs eu trop d’arnesses dins<lb/>m’vie, j’ai té fin bénache dins m’n’imploi, sins jamais ête jocqueu, j’ai eu des bièles vagances<lb/>et j’étois ein sorteu. In a eine bièle vôture d’uch qu’in peut acouter d’eul mujik et y a même<lb/>eine fême qui nous esplique qué k’min qu’i faut printe ! In a eine bièle mason (més chés pôs<lb/>ein catiau belle-moute quind même!) aveuk tout ch’qu’i faut pour ête à l’coïette : in a ein beon<lb/>cauffage et in n’a pus b’son d’mette eine caufrette dins chés lits; in a eine basse-cambe et in<lb/>doit pus d’aller dehors dins ch’cabinet; in a aussi eine plache d’uch qu’in peut s’orlaver aveuk<lb/>de caude ieau et in n’est pus obligés de s’décraper dins eine cuvielle; comme tertous in a<lb/>l’télé, l’téléphone, ein portape, ein carculoèr,... In a des tas d’otils pou faire eul linche, eul<lb/>vaisselle, eul ménache (in a ein beon chuche-pourète), et l’ cugène aveuk des tas d’ plateines;<lb/>in peut warder s’boustifale dins eine ormoire à glache sins l’laicher musir dins s’bove. Chés<lb/>magasins, achteur, chés des grindes étendues et ch’és pus l’peine d’aller mon de ch’bouticlier!<lb/>In peut même s’faire abouler s’fristoule à s’mason!<lb/>Més, si in busie bin, in s’aperchoit qu’in terléonne dins s’carette quind i n-n’a des<lb/>boucheons, qu’in n’arrife pus à téléphoner passe qu’i faut toudis attinte, que l’calculoer i est<lb/>toudis incrinké, qu’eulle télé alle va alfôs d’chipe et d’chope; chés mécaniques ed ménache,<lb/>i faut les canger tous les chonq ans. Quind i n-n’a pus d’courant, in n’a pus cauffache, pus<lb/>d’fraique ormoire, pus d’caude ieau,..., in n’peut même pus s’faire à minger! Quind in est<lb/>malate, y n’a pus moïen ed’démucher ein cerusien; quind nos apparels is sont in raque, i n’a<lb/>pus personne pour les ertaper et i faut les foute à luche pis les canger; chés tout parel quind i<lb/>minque eine panne such tôt, il faut erfaire toute el tôiture!<lb/>Achteur, chés sinciers is sont malhureux ; chés gindarmes is ont des viéles vôtures21<lb/>et is ouvrent dins des viux buriaux, chés moaites d’écol’ is passtent pou des gugusses ! chés<lb/>définseus d’gins is ruent leu rope et is les brûlent !<lb/>Quind j’erchois eine babillarte d’euch banqu’tier et que j’ravise mes queomptes, je<lb/>m’délaminte in veïant tout jou qu’i m’ertiens alors qu’i n’a rin dins l’colonne « Erchettes »<lb/>Quind in a païé tous nos grataches, i n’reste pus grind quosse pou vife ; là eum vièle<lb/>moaitresse, alle pourroit dire : « i a vraimint d’l’abus ! »<lb/>El diminche, i n’a pus fiètes, i n’n-a pus gramind d’monte qu' i va à l’ messe, i n’n-a<lb/>même pus d’curés pou dire chés messes, pou baptiser chés bimbins, pour intierrer chés gins;<lb/>y a même des curés qui eont rué leu froc aux ortilles ! In n’vôt pus personne dins chés rues;<lb/>Trénet si l’étoit core de ch’monte chi, i diroit : « In s’immerde tertous el diminche!»<lb/>Pour in définir, in étoit bin plus bénache dins min jeune timps, et m’vie alle étoit quind<lb/>même fin bièle!<lb/>"Més nous z’autes, quind in a l’même carette, is nous mettent eine aminte!<lb/>13<pb n="Picard_Concours_2020_48_p14.png"/><lb/>A<lb/>- (s') Abannier ! s’amuser<lb/>-Abistoquer : réparer<lb/>-Achteur : maintenant<lb/>-Accordance là z’et là : entente entre les deux<lb/>-acrinkillache : ustensiles ; outillage...<lb/>- Afiqueoter : tricoter<lb/>-Agimoler : organiser<lb/>- (s’)agoné d’sin pus brafe ; s’habiller avec<lb/>ses plus beaux vêtements<lb/>-Aites : concours<lb/>-Aïude : aide<lb/>-Ajolier : décorer joliment<lb/>-Albodeu: négociant de piètre marchandise<lb/>-Alieuves; élèves<lb/>-Aller tout acdaliant : marcher de guingois<lb/>-allurte : marche<lb/>-aller à l’tique: pointer au chômage<lb/>-Amindiche; engrais<lb/>-Apointer : préparer<lb/>-Apréseau ; automne<lb/>-Arbrakète : binette<lb/>-Arnesses : soucis, tracas<lb/>-Arnicures : vêtements<lb/>-Atarge (être à) : être en retard<lb/>- avoir ed l’avinche : c’est avantageux<lb/>-Avoir des picaïons : être riche<lb/>-Avoir du touillache; se chamailler; se battre<lb/>E<lb/>- Babilleux: auteur d’un écrit quelconque<lb/>- Bacheiner : déranger ;<lb/>importuner;tourmenter<lb/>-bachènes berneuses : poubelles<lb/>- Bénache: content<lb/>-bédeo : mouton<lb/>-Berlander: sonner les cloches<lb/>- Berler : crier<lb/>-Bièqu'ter: manger<lb/>-(Ed) bite in bout : tout au long<lb/>- Boudré : sale<lb/>-bouticlier; boutiquier<lb/>-Bove; cave<lb/>- brun soir : tombée de la nuit<lb/>-Buquer à « peccavi » : demander pardon en se<lb/>frappant la poitrine<lb/>Lexique<lb/>14<lb/>-Catiau belle-moute: maison tape à l’œil<lb/>-cauderlier : chaudronnier<lb/>-Cautron, cotreon : jupon<lb/>- Chérène: cuve<lb/>-Chiroteusse: cléricale<lb/>-Chuche-pourète; aspirateur<lb/>-Choraleux: enfants de chœur<lb/>-Conterpied : contraire<lb/>-Cougnole: brioche, coquille (de Noël)<lb/>-Crapes : crasses<lb/>-Crébieon : trottoir<lb/>-Cugène: cuisine<lb/>D<lb/>- Damache: dommage<lb/>- Débabeiner : raconter<lb/>- Décraper: nettoyer, récurer<lb/>- Définir (pour en): (en) conclusion<lb/>- S’déoker : se détacher<lb/>-démiches; saletés<lb/>- S’démoliner : tourner<lb/>- desterminée : détruite<lb/>- Deufe: talus<lb/>- Dins l’arla : dans la misère<lb/>- Doutance: pressentiment<lb/>-D’t’avau : partout<lb/>- D’viser : parler<lb/>E<lb/>- Ébeubies : interdites<lb/>-Écalète : crécelle<lb/>-Éclairchir; éclaircir; démarier<lb/>- Egarber : mettre en gerbes<lb/>- Épautré : éclaté<lb/>-Erchiner : goûter<lb/>- Erlévales : relevailles<lb/>-Ermoutrer : remontrer<lb/>-Ertaper; réparer<lb/>- Erwettier : regarder<lb/>-Esclamache : exclamation<lb/>- Estrain: paille<lb/>- Estrême fôs : dernière fois<lb/>-Eswardeux : inspecteurs<pb n="Picard_Concours_2020_48_p15.png"/><lb/>-État; Estile: profession ; métier<lb/>E<lb/>- Faflier: s’exprimer avec peine.<lb/>-Fergu : joyeux<lb/>-Fétichure : panne, tuile<lb/>- Fichéau : malin<lb/>-Fouan : taupe<lb/>- Fouer : foin<lb/>- Fricassée : plat à base de pommes de terre;<lb/>fricassée à pieds décaux sans viande ni sauce!<lb/>-Fristouille : cuisine<lb/>-Galaffer (s’): se goinfrer<lb/>- Gardin grêne-dints : cimetière<lb/>-Garlousette: petite histoire légère<lb/>-(des) des gins d’contritieon: des dévots<lb/>-Gîter : demeurer ; habiter<lb/>- Glenne: poule<lb/>- gorlier : bourrelier<lb/>-Goujars : garçons de ferme<lb/>-Gramint : beaucoup<lb/>-Gratache : prélèvement<lb/>-Guife: terme populaire pour désigner le visage<lb/>-Guille; cheville;<lb/>i l’a toudis eine guille à mette à ch’treu, : il a<lb/>toujours une cheville à mettre au trou !<lb/>-Gvau; gveu : cheval<lb/>H<lb/>-Haïure: Haie<lb/>-Horzin : étranger<lb/>-Houper : appeler<lb/>-Hurette: heure (petite)<lb/>il<lb/>-In' na: il y en a<lb/>-iau : eau<lb/>— Ichi : ici<lb/>- Imbrocher : embaucher<lb/>-In : en<lb/>-I n’étoit pus dins s’n’inchimint : il n’avait plus<lb/>toute sa conscience (de lui-même)<lb/>-Incranqu’lier : arrêter<lb/>-indever : énerver; exciter<lb/>- Inforché comme eine glenne à trinte six<lb/>pouchins ! Empressé ; agité ; qui ne sait plus où<lb/>donner de la tête!<lb/>- insanne : ensemble<lb/>-intermêler: mélanger<lb/>-interténir : élever<lb/>-Jauser: vérifier<lb/>- jésustresses : dévotes<lb/>-Jocqueu: chômeur<lb/>- Jou, chou : ce<lb/>- Jour d’ato : jour férié<lb/>- Juer : jouer<lb/>-juer l’obit des kiens: fanfare qui joue mal<lb/>K<lb/>-Ker (avoir) : aimer<lb/>-Kère: tombereau<lb/>-Kère (aller) : chercher<lb/>-Kvau; kévau : chevaux<lb/>- Lasareux : misérables<lb/>- el lavette alle brûle toudis : on se dispute<lb/>toujours.<lb/>- Légueimes : légumes<lb/>- libouli : crème dont on garnit les tartes<lb/>(tarte au libouli)<lb/>- Lincheu : drap<lb/>- Lokter: passer la serpillère<lb/>-Lonmer: nommer ; appeler<lb/>-Loucher : bêche<lb/>-Lusieau : cercueil<lb/>M<lb/>-Manoïelle: manivelle<lb/>- Marie-galousse: sorcière qui effraye les<lb/>enfants<lb/>-Margnouffe: raclée<lb/>-Marissieu : maréchal-ferrant<lb/>-Marmouset : épouvantail<lb/>-Martin-rivière; martin-pêcheur<lb/>-Mékène: servante; femme de ménage<lb/>15<pb n="Picard_Concours_2020_48_p16.png"/><lb/>-Ménairs: riches bourgeois<lb/>-Mette eusse n’habit toute et oute : mettre ses<lb/>habits d’été<lb/>- Mingeu d’maton, canteu d’canchons!<lb/>Mangeur de crème dessert (ou de tarte à la crème),<lb/>chanteur de chansons!<lb/>-Momeux : triste<lb/>-mulquiniers : tisseurs de lin<lb/>N<lb/>« Neom ch’té: sumom; sobriquet<lb/>-Nieule : hostie<lb/>-nunu chin-chin: méticuleux à l’extrême pourfaim<lb/>des détails sans importance<lb/>O<lb/>- Orjeter; éliminer<lb/>-Orvue: revue; défilé<lb/>-Otius; otils : outils<lb/>P<lb/>-Pâchis; pâtures<lb/>—Parlache: langage<lb/>- Pasquille; écrit satirique<lb/>-penche; panche : ventre<lb/>-Plaids (faire ses); faire des discours<lb/>-Plateines : ustensiles de cuisine<lb/>Q<lb/>-Quéqu'ein quelqu'un<lb/>-Queute : coudre<lb/>R<lb/> Rachaf ter : bricoler<lb/>- Raccorter : raconter<lb/>-rafourrer: donner à manger aux bestianx<lb/>- Raine, guernoulle : grenouille.<lb/>-S’ramintuver s’lesson : retenir sa leçon<lb/>-Raminvrance; souvenance<lb/>— Rire plin s’panche : rire à ventre déployé<lb/>- Rapurètes : récréations<lb/>-Raque (in) : en panne<lb/>- Répartition : distribution<lb/>- Ratour : tour<lb/>- Réparter : distribuer<lb/>« Rintchintchin : musique de piètre qualité<lb/>-roye: frontière<lb/>S<lb/>- Des Saintes-Catherines: des chrysanthèmes<lb/>-(L’) saiseon des gringottes : le printemps<lb/>Saquer à l’fossette ed nos cœurs : avoir grand¬<lb/>-Saudart : soldat, militaire<lb/>Sinifianche: signification<lb/>T<lb/>-Tarier: se moquer (de quelqu’un)<lb/>-Traiter : injurier, insulter<lb/>-Terleonner; perdre son temps<lb/>-Tierquer: charger<lb/>-Timpe (s’lever) : se lever tôt<lb/>-(du) Timps d’chés vièles guerres : autrefois<lb/>-(du) Timps du viux beon Dieu : autrefois<lb/>-Treondler :Traîner<lb/>-Triolaines: litanies<lb/>V<lb/>- (être) vif comme ein crapieau dins les chintes:<lb/>être très lent<lb/>- vilettes : fleurs<lb/>W<lb/>-warder; garder<lb/>- Wuidier ein gvau : sortir un cheval (pour le<lb/>faire travailler)<lb/>16<pb n="Picard_Concours_2020_48_p2.png"/><lb/>Préface de ch' babilleux<lb/>(chés ch’ti qui a récrit ch’racontache là!)<lb/>Avint, quind ej k’minchois à d’viser aveuk queuqu’un qui ne m’avoit point fort kèr, i<lb/>m’disoit: « Te n’vas pas côr nous faire tes plaids! In n’t’acoute pôs pus qu’ein kien, et in s’in<lb/>fout de t'vie, alle n’est point fort bielle, alle est pleine ed tros ! » et je n’pouvois pôs d’aller<lb/>plus long dins min racontache passe qu’après, i m’disoit souvint : « Si t’continue comme cha,<lb/>j'vas t’foute eine margnouffe dins t’guife !» Du coup, j’incranqu’liois min conte, mais j’me<lb/>disois: « quind même, ché damache de n’pas pouvoir l’faire assavoir à tertous !»<lb/>A cht’heure, j’ai appris que l’patois i mettoit d’beonne humeur, et qu’i suffisoit de<lb/>k'mincher eine histoère in jactant ce parlache, pou qu' chés gins is s’mettent à faire eine<lb/>risette. Et ch’és comme cha qu’m’a v’nue l’idée ed' récrire eine pasquille pour débabeiner<lb/>tout chou qu' j’ai connu, que cha seuche fergu ou momeux.<lb/>Pour in définir, je n’peux pos m’atnir de canter eine comptine cambrésienne:<lb/>Ris, ris, t’iras à Paris !<lb/>Brais, brais, riras à Cambrai !<lb/>2<pb n="Picard_Concours_2020_48_p3.png"/><lb/>T'es d’min coin?<lb/>Quind j’étois pas pus haut qu’tros peumes, ej gitois ein tiot villache du cambrésis et in<lb/>m’demandoit souvint : « T’es d’min coin ? », mi j’répondois : « non, j’sus d’Marcoing !» Ch’és in<lb/>villache qui est sus l’roye inter ez’Atrébates et chés Nerviens. Chés gins, là-bas, is parloient l’patois<lb/>edpuis des sièques, mais à l’école, in n’avoit pôs l’drôt et i falloit dviser in françois, sinon in étoit<lb/>peunis et y falloit faire des ratours dins l’cour pindant chès rapurètes au lieu d’juer avec ez’autes!<lb/>Pour chés jux, in s’abannioit bin; par eximpe, quind in juoit et qu’in adziroit queusir nos gins,<lb/>in réchitoit souvint eine comptine à orjeter comme :<lb/>J’ai du brin dins min gardin.<lb/>Qui pue, qui sint, va t’in!<lb/>Pour nous dire qu’in étoit peunis, chés moaîtes is nous disoient : « Au piquet ! » ; nous in<lb/>n’savoit pas pourquô is disoient cha, mais in comperdoit qui falloit s’démoliner dins l’cour! Quind<lb/>j’sus dev’nu plus grind, j’ai su que du timps d’chés vièles guerres, chés saudarts qui n’avoient pas<lb/>bin fait leu allurte, qui alloient tout acdaliant, is d’voient rester d’bout aveuk ein pied d’sus ein<lb/>potieau pindant deux hurettes, et qu’chés moaîtes is avoient erpris ch' l’esclamache pour nous faire<lb/>comprinte qu’in étoit peunis.<lb/>Chès moaîtes is nous apprenoient à dviser comme à Paris in nous disant qu’chétoit pou not'<lb/>bien et comme châ pus tard in aroit ein biel état!, seulemint, quind in rintroit à nos masons, chés<lb/>parints is nous intindoient pôs et is nous d’mandoient d’parler comme eusses ; in seomme in étoit<lb/>bilingues ! Pou nous apprinte à bin dviser tout comme ez' horzins (chés gins d’Paris!), chés moaîtes<lb/>is f’soient de l’ pédagogie (ou ein greos meot du même ginre), acht’heure is diroient de l’didactique<lb/>(is n’sav’tent pus quô invinter pou moutrer qu’is sont plus fichéaux que z’autes!); is nous disoient<lb/>que pour récrire « abême », y avoit un arp' qui étoit sus l’meont et qui avoit caïllu dins l’feond, et<lb/>qu’ch’és comme cha que ch’capieau i étoit passé de l’cime sus l’abême ; pou nous apprinte chés<lb/>cojoctions, is nous f’soient réchiter « Mé d’uch qui l’est Ornicar ? » (ch’és aveuk cha qu’in faisoit<lb/>d’bons ingénieurs!) Nous zéautes, in invintoit des comptines in patois et cha nous permettoit de<lb/>s’ramintuver nos lessons in riant plin nôs panche, et in n’avoit b’son d’personne; par eximpe, pour<lb/>apprinte ché voïèlles, in cantoit :<lb/>a;e; i; o; u;<lb/>J’ai cassé min cul.<lb/>sur ein caillô pointu,<lb/>je l’ai raccommodé sur eine caillère cassée!<lb/>A l’école, ch’étoit pas comme maintenint, et in n’intermêloit pas chés fil’es aveuk chés<lb/>garchons ; chés fil’es alles z’avoient eine moaîtresse et chés garchons ein moaîte. Nous, chés fil’es,<lb/>in les lonmoit des maguettes, passe que quind alles ram’noient leu fraise en faisant « nien, nien, nien »,<lb/>alles biquottent leu nez, f’soient eine bouque in cul d’poule et mettoient leu minton in galoche; nous<lb/>z’autes, pou s’moquer d’elles, in leur cantoit :<lb/>aveuk sin nez pis sin minton<lb/>in pourroit faire un ju d’billon<lb/>Nous, in cantoit cha pou les faire indever!<lb/>Chés fil’es, alles n’apernoient pas les mêmes quosses que nous à l’école, alles z’apernoient à<lb/>queute, à afiqueoter, k’mint qu’in fait du ménache, de l’fristouille,..., et nous, in nous apernoit de<lb/>1 Ach' l'heur in nous diroit: « Plutôt que d'perte im temps à l’école pour aller à l'ique après, apprinds donc em biau<lb/>métier!»<lb/>3<pb n="Picard_Concours_2020_48_p4.png"/><lb/>l’ m 'nuserie, de l’ferronnerie, k’mint abistoquer s’n’acrinkillache esquinté, k’mint qu’in rimplache<lb/>ein plomb qu’y a sauté, k’mint qu’in fait du gardin,... Chés moaites is exagéroient pasque l’jeudi,<lb/>is d’mindoient à des grinds garchons d’quatorze ans d’fouir leu gardin!<lb/>Ach’t’heure, in intermêle chés fil’es et chés garchons, et tout l’monte il apprind tout parei’l.<lb/>Chés espécialistes ed l’écolache is disent que comme cha, « on ne conditionne pas, dés son plus jeune<lb/>âge, la petite fille dans son futur rôle de femme au foyer», et qu’ch’és comme cha que ch’l’école alle<lb/>est « plus égalitaire et émancipatrice ! » (quôk ché qui faut pôs intinde!)<lb/>Quind in étoit rintrés, in apprenoit nos l’ssons et in f’soit nos dveoirs à l’mason passe que chés<lb/>moaîtes is z’avoient côr el drôt d’in donner (chés pus comme mintenant!), et après in alloit juer su<lb/>l’plasse verte d’uch qui avoit toudis d’eautes infants; nos parints is savoient d’uch qu’in étoit et<lb/>ch’étoit pas dûr ed nous artrouver pour v’nir nous r’kère. I’n-n’avoit pas gramint ed dinger pasqu’y<lb/>n’avoit pôs gramint d’vôtures et alles n’alloient pôs vite à cause ed chés pavés; y n’avoit pas non<lb/>pus, comme mintenant, des crapules qui inlèv’tent chés infants, et in nous avoit bin dit de n’jamais<lb/>moter dans eine vôture aveuk des gins qu’in n’connaissoit pas.<lb/>A Marcoing, y avoit eine tiot riot qui s’lonmoit « L’Eauette »; alfos, in alloit juer à l’source<lb/>qui s’appeloit « l’fontaine ed chés pères » dins ch’bôs « Couillet ». Nos parints is z’alloient kère ed<lb/>l’ieau car alle étoit beonne pou n’pôs décatir et qu’alle avoit djà ermis des malates. Mi, je n’intindois<lb/>pas pourquô alle s’lonmoit « l’fontaine ed chés pères », mais quind j’étois plus grind, et qu’invitois<lb/>eine fil’e in y d’mindant d’vnir raviser chés magrites à l’invers, j’ai compris pourquô in l’lonmoit<lb/>comme cha! In s’apinsoit qu’in étoit bin muchés, mais i’n-n’a qui nous avoient suifis et qui s’étoient<lb/>infiqués in drukin dins eine haïure; pou nous tarier, is nous berloient « duchemint à ch’pain, j’burre<lb/>i l’est ker ! » ou bin: « ch’l’amoureux, el maitresse, not tiot cat i fait caresse » et pis aussi : « Muche<lb/>tin cul, vla ch’warte»<lb/>Dins l’Eauette, y avoit des pichons, ch’étoit des truites saumonées. In alloit aussi à l’pêque<lb/>dins ch’canal d’uch qui avoit toute sorte ed pissons; au début in ramenoit eine belle friture à nos<lb/>mason, mais après, aveuk tout ch’brin qu’chés fabriques² alles ruoient dins l’ieau, i n-n’avoit pus<lb/>gramint. In avoit l’drôt d’pêquer sins permis tout'qu’à 16 ans, mais in côp, chés gandarmes, is sont<lb/>v’nus nous bacheiner in nous erclamant nos permis; mi, je n’me f’soit pôs d’mouron, je y’eux ai fait<lb/>r’marquer qu’in étoit dins not drôt et qu’is n’avoient qu’à d’aller d’minder au sièche d’eulle fédération<lb/>(i s’lonmoit « ach martin-rivière ») pou jauser ; après j’ai appris, mais j’ne l’savois pôs à ch’momint<lb/>là, qui n’y avoit que ch' warte fédéral qui avoit l’drôt d’erclamer chés permis : ch’étoit vraimint des<lb/>rosses !!!<lb/>Quind ch’timps i étoit al’pleufe, in alloit cacher après des caracoles³, in les arconduisoit à nos<lb/>mère qui les fozoit fristouiller après ez’avoir ermis dins ein sieau pindint trôs jours pou qu’is rindent<lb/>leu brin; in mettoit ein couverque pas d’ssus pou qu’is n’s’in d’allent pôs, mais alfos is z’arrivoient<lb/>quind mêm' à s’sauver et y falloit d’aller les r’kère. In avoit peur qui drache, qui pleufe à l’délaque,<lb/>(A Paris, in dit « caire des cordes », et ch’z’inglais is distent « caire des kiens et des cats ! ») passe<lb/>qu’in n’savoit pôs d’ù s’mette pou n’pôs ête tout cru! Quind in veïoit eine caracole, in disoit :<lb/>« Escargot, moute tes cornes, moute tes cornes sinon j te tue !» Ach’t’heure, in ne l’f’roit pus pasqu’i<lb/>faut définde chés biètes et n’pôs les tuer!<lb/>Quind in étoit plus grind et qu’in vouloit gagner des clôs, in alloit cacher de l’fiérale dins chés<lb/>camps pou l’ervint' ach l’albodeu d’fiérale; in n’gagnoit pôs Gramint d’clôs et in avoit du mal à<lb/>rabouler not' saquie à nos mason mais cha nous z’amusoit pusse qu’aute cosse. Chés viux is nous<lb/>disoient : « Marchez vous in dins ch’fond d’Fleurquières, vous in trouvrez beaucôp pasqu’in a fort<lb/>batt lié dins ch’coin là ! » Is nous disoient pôs vraimint tout chou qui s’étoit passé, més après j’ai su<lb/>qu’ch’étoit el' prumière batale ed' tanks ed' l’histoère. Chès Inglais, is z’avoient inveyé leus tanks su<lb/>chés boches pou briger el' line Hindenburg, mès leus tanks is z’étoient tellemint tierqués qu’is z’ont<lb/>fait berziller ch’peont d’Masnières et ch’és comme châ qui n’sont jamais passés; du côp, chés boches<lb/>2Y avoit deux huileries, deux briqueteries, eine laiterie, eine cimenterie, eine fabrique ed caudrons,.<lb/>3Y avoit surtout des tchots gris; des Bourgogne, in' n’avoit aussi, mais y falloit d’aller dins ch’bois Couillet, et nos<lb/>parints is nous défindoient d’y aller car ch’étoit eine réserf' militaire.<lb/>4<pb n="Picard_Concours_2020_48_p5.png"/><lb/>is z’avoient inveyé plin d’obus pou mette el' fû sû chés cars; quind is z’éclatoient, chés obus, is<lb/>z’inveyoient des biles ed' plomb pour troer chés « lusieaux ambulants » et ch’és comme cha qu’nous<lb/>z’autes in pouvoit ravoir ch’plomb qui valoit plus ker mon de ch’ervindeus d’fiérale. Aveuk chés clôs<lb/>qu’j’avois gangnés, j’m’avois acaté eine mobylette qui étoit point trop à l’kère-coute, comme cha,<lb/>j’pouvois k’mincher à sortir ed' min trô ! J’m’avois aussi acaté des cannes à pêques pour pouvoir<lb/>printe des plus greos pissons ! Aveuk deux pêques, j' pouvois mette ein tiot pisson au bout de<lb/>l’prumière pour in attraper ein greos pindant que continuois à pêquer aveuk l’eaute, mais alfôs el gros<lb/>i s’déokoit de l’line et y falloit tout ercommincher!<lb/>à chés sinciers pour éclairchir chés betrafes; alfôs in alloit déssaquer d’l’avron4 dins chés camps<lb/>In alloit aussi ouvrer dins chés cinses comme des goujars; Après l’gélache, in v’noit in aïude<lb/>d’blé; après, in f’soit chés fouérs (cha, ch’étoit dur!); à chés prumières caleurs, chés pûs grinds, i<lb/>aidoient à loïer chés bottes ed' blé, pis après i les égarboient aveuk ein fourquet; après, ch’étoit<lb/>l’apréseau et in aidoit aussi à ramasser chés pintières qu’in ruoit dins ein bareux,... in n’gangnoit<lb/>pas beaucôp d’clôs, mais in avoit bin du plaisi !<lb/>Dins l’timps, ch’villach' i étoit plus important passe qu’y avoit des tchotes fabriques, et y avoit<lb/>ed l’ouvrage pou tertous sins qu’in seuche obligés d’queurir au leon. Y avoit eine caudronnerie tout<lb/>près d’chés vôyes du kmin d’fer, comme cha alle pouvoit enveyer ses caudrons d’t’avau ; y avoit<lb/>eine amidonnerie, més alle avoit té desterminée à l’ guerre, et y n’restoit pus qu’des baraques; y<lb/>avoit quat' briquetries, més après la guerre, ch’étoit surtout d’z’italiens qui y ouvroient ; y avoit des<lb/>tchots ateliers ed faisache ed linche comme eine fabrique ed quémisses; dins l’villache d’à côté (i<lb/>s’appeloit Noyelles) i avoit eine fabrique d’ersaqueusses ed betrafes et ein meulin su l’Escaut et<lb/>ch’étoit point trop dur d’aller ouvrer la-bas in d’allant à pied ou à biclou. A Masnières, ch’étoit tout<lb/>parel aveuk el' verrerie. Et pis, y avoit tout plein d’ouverriers qui s’étoient mis à leus compte et qui<lb/>interprindoient tout' sorte d’ouvraches ( y avoit des gorliers, des cauderliers, des marissieux, des<lb/>m’nusiers, des mulquiniers,...) : in trouvoit toudis tout chou qu’in vouloit. In dit toudis : « Y faut<lb/>d’tout pou faire ein mond’!» eh bin là cha vauloit l’côp de l’dire, et in étoit fin bénache comme cha!<lb/>A Marcoing, in s’foutoit d’chés gins du villache d’à côté qui s’lonmoit « Rumilly » in cantant :<lb/>Rumillyons, min coutieau! Metteux d’fu!<lb/>Tout cha passe que du timps d’chés vièles guerres, quind is juoient à cartes, is mettoient ein<lb/>coutieau sus leus ge’noux in d’sous d’el tap'<lb/>Més, chez rumillyons, is nous donnoient comme neom ch’té:<lb/>« Chés rabattewx d’brouillard aveuk des pelles à fourques⁵!»<lb/>A Marcoing, y avoit toudis des fiêtes ; y avoit ein viux cinéma qui passoit des viux films, mais<lb/>cha nous f’soit quind même plaisi pasqu’in n’avoit point d’télé; y avoit eine grante salle des fiêtes,<lb/>cha f’soit qu’y avoit souvint des bals, y avoit eine société d’mujik qui s’produisoit d’t’avau même si<lb/>alle juoit toudis les mêmes morciaux (alle juoit l’obit des kiens et ch’étoit du Rintchintchin plusse<lb/>qu’aute cosse!) : in l’artrouvoit à l’répartition des prix, à l’orvue du 14 juillet, chelle du 8 mai, du II<lb/>novempe même qu’alle juoit dins ch’l’églisse; el résonnache des trompettes i faisoit débirouler toute<lb/>el pourée qui s’étoit infiquée dins chés arnitoiles; après alle alloit juer eul sonnerie aux morts d’vant<lb/>ch’monumint aux morts ; chez clers is nous obligeoient à d’aller à l’ cérémonie in disant qu’si in n’y<lb/>alloit pas ché pass' qu’in t’noit aveuk chés boches ! Ach’t’heure, is nous diroient qu’si in y va ché<lb/>pass qu’in tient aveuk chés nationalistes : marche-t-in comprinte quète cosse ti ! Y avoit aussi des<lb/>sociétés sportifes : euch clup' ed football i n’étoit pas dins ché prumiers pass' qu’y avoit des jueurs<lb/>(Chés gins qui parloient comme à Paris, is disoient « la folle avoine » et chés curés is disoient « séparer le bon grain de<lb/>l’ivraie »<lb/>"J'n’ai jamais su pourquò in nous lonmoit comme cha! Peut-ête passe qu’in r’muoit beaucô d’air pour pas grind cosse<lb/>et que pour en définir, in n’fesoit rin de bin !<lb/>8<pb n="Picard_Concours_2020_48_p6.png"/><lb/>(chés meilleux!) qui étoient inregistrés à ch’clup d’euch magasin de l’ cav' à Cambrai6 et is<lb/>n’pouvoient pas queurir deux lièfes à l' fos ! Y avoit eine société d’biclou et souvint y avoit des<lb/>courses; y avoit aussi eine société pou chés gymnaciens, des amicales qui agimoloient des fiêtes,...;<lb/>Y avoit deux ducasses par ainnée et chés sociétés, alles s’ingageoient dins ch’comité des fiêtes,<lb/>ch’étoit à chelle qui in froit l’plus pou s’foaire vauloir! Y avoit pôs beaucôp d’accordance là z’et là<lb/>passqu’y avoit les sociétés laïques comme l’amicale de z’inciens alieuves qui s’occupoient surtout<lb/>des écoles (alles donnoient des quenious à chés alieuves à Noël) et chelles de ch' curé qui étoient du<lb/>côté des familes et d’leus infants : alles nous amoutroient du cinéma à l’salle sainte Thérèsse el'<lb/>dimanche après-deîner, alles agimoloient eul’ gard’rie pindant les vagances, alles faisoient des aites<lb/>ed' cars rimplis d’vilettes qui s’porménoient dins chés rues, et pis des fiêtes ed patronache dins chés<lb/>pâchis d’uch qui avoit des meneux d’fiètes qui f’soient des jûs, des aites ed cants,...<lb/>Chés infants, is s’apinsoient tout parel' qu’leus parints et alfos is s’traitoient en cantant :<lb/>École des curés, cul crotté!<lb/>Ez’autes i répondoient:<lb/>École laique cul merdique!<lb/>Més is n’avoient pôs du touillache, et is alloient à toutes chés fiêtes, sins trop raviser à ch’tit<lb/>qu’y z’agimoloit!<lb/>A Marcoing, y avoit des lasareus qui étoient fort pôfs comme Jop, més qui arrivoient à vif'<lb/>quind même; is ouvroient dins chés fermes in s’occupant des kvaux, des vaques,.. in les rafourrant;<lb/>chés cinsiers is leur laichoient eine tiote bicoque ou bin eine étave d’uch qui pouvoient s’mettent au<lb/>cô et couker, et is leur donnoient du lait et eine neuche ed' pain pou n’pas les laicher morir ed faim;<lb/>el' mayeur i leur faisoit erwider chés bacheines berneuses, décruauder chés kémins ou chés deufes,<lb/>coper des arps dins ch’villache,... et i leur donnoit leu smon. ne ou leu journée (i n’étoient pôs païés<lb/>au môs comme achteur et i n’y avoit point tous chés contrôls de l’ouvrache par d’z’eswardeux du<lb/>boulot!) In leur’avoit donné un neom, in les lonmoit chés trousses ! I’n-n’a un ch’étoit ein tiot<lb/>innochint⁷, i s’délonmoit « Louis » et i fsoit chés commissieons pou les fèmes d’euch villache; i<lb/>mettoit tout dins eine bérouète et i leu rabouloit à leu mason; i n’savoit point lire, més chés fèmes<lb/>alles y mettoient el' liste dins ein portefuèle avec les clôs; i n’savoit point lire més i savoit carculer;<lb/>in l’y donnoit eine tiote pièce pou l’armerchier et comme cha is étoient tertous fin bénaches! I<lb/>n’parloit pas beaucôp mais i nous disoit bin bojour et même à nous chés gosses, i nous disoit « Bojour<lb/>Maname ! » In avoit bin invie de s’déclaker à rire més in nous avoit bin dit de n’pas s’moquer d’li !<lb/>Quind in y pinse, in s’dit qu’in étoit miux qu’achteur : y n’avoit pôs d’C.C.A.S., pôs d’burô d’bien¬<lb/>faisache, pôs d’restôs du coeur,... et chés malhureux, is l’étoient moins qu’achteur ! Y n’avoit pôs<lb/>d’S. D. F. ni d’gins dins l’arla qui d’voient couker dehors ou bin tinde el’ main pou r’avoir quat sous<lb/>et personne i n’aglavoit !<lb/>6Chés usines alles z’avoient el' drôt de s' païer eine équipe.<lb/>7Chés parisiens, is z’aroient dit « l’idiot du villache » et chés marseillais « le ravi !»<lb/>6<pb n="Picard_Concours_2020_48_p7.png"/><lb/>A nos masons, in n’étoit point fort riches, et y falloit savoir n’point treop dépinser quind in<lb/>acatoit, surtout quind ch’étoit au ker coût ; cha d’alloit pôs toudis tout drôt passe qu’àdù qu’y n’a pôs<lb/>d’clôs, el lavette alle brûle toudis ! In étoit mal acouftés pis in mingeoit c’qu’in cultivoit dins nôs<lb/>courtil et les biètes qu’in intertenoit ; ch’étoit surtout des glènes pis des lapins, alfôs des dindes, et<lb/>cheux qui avoioent eine pâchi is élevoient des maguettes, des bédeos et des pourchiaux. El jour où is<lb/>tuoient un pourchiau, is k’minchoient par boire eine bistoule, et quind ch’pourchiau i étoit mort, is<lb/>cantoient :<lb/>A nos masons.<lb/>A nos mason, in a tué ein pourchiau<lb/>In a té kère Maria, in a té kère Maria<lb/>A nos mason, in a tué ein pourchiau<lb/>In a té kère Maria pour saquer dsuch boiau !<lb/>Saque dSuch boïau Maria, Saque dSuch boiau Maria!<lb/>Saque d'such boiau, cha n’a pas d’importanche<lb/>Cha m’rapell' eine histoère. In côp ch’moaite i nous avoit d’mindé:<lb/>-« Au môyen âche, chés gins des villes is élevoient des ??? »<lb/>-« Mi, Msieu, je l'Sais: is élevoient des pourchiaux!»<lb/>-« Nofait ! Les gins des villes, pas les gins des villaches !»<lb/>-« Is élevoient des infants, Msieu!»<lb/>-« Mès qu’is sont biêtes ! Chés gins des villes, is élevoient des cathédrales !!!»<lb/>Chés cinsiers, eusses, is z’avoient des picaïons, et pus qu’is n’avoient, pus qu’is vouloient<lb/>n’avoir! Is avoient les môyins d’mier souvint du beû, in les lonmoit chés maqueux d’beû!<lb/>A nos masons, à ch’courtil, y falloit assister min père; pou y’arriver, y falloit marcher dins<lb/>l’voïette, et min père i l’appeloit cha eine pied-sente; Quind j’ l’intindois in parler, i m' sin.noit qu’i<lb/>prononchoit cha comme in prononche « pissenlit », alors j’y ai d’mindé de m’l’récrire, et i m’récrivoit<lb/>« piessente » ; j’y faisois r’marquer qu’nos parlache i v’noit de l’ lingue d’Oïl et que ch' qualificatif<lb/>i étoit plaché d’vant et qu’ch’és comm' cha qu’in d’voit dire eine pied-sente et pôs eine sente pou<lb/>chés piétoneus; je m’ faisois ingueuler et i m’ disoit qu’li i n’étoit point d’allé à l’école, més qu’i<lb/>l’étoit né avint mi et qu’i l’in savoit pus eu qu’mi ! I m’ disoit que ch’qui queompte dins la vie ch’és<lb/>d’ouvrer, et pôs d’busier à des cacoules8 ! Si te ne l’intinds point t’aras faim à tes dints ! Alors, in<lb/>prenoit ch’louchet, i m’disoit « sake eddin » et in alloit fouir après avoit rétindu du fien su ch’gardin<lb/>aveuk ein fourquet; après i falloit dégriffer ch 'eul tierre aveuk un grauet et pis finir aveuk ein ratiau<lb/>pour avoir de l’fine tierre avint de s’mer. Quind chés s’mis i z’étoient l’vés, i falloit sarquéler et<lb/>cruauder chés parcs tous les jours, in f’soit cha aveuk eine arbrakète et in avoit d’l’avinche à mette<lb/>ed l’amindiche comme cha in avoit des biaux Légueimes! I falloit aussi arpiquer plein d’plantes;<lb/>comme je n’savois pas bin ouvrer, i m’disoit souvint : « Quind j’te vôs, eum' journée alle est faite!»<lb/>Alfos, i avoit plein d’buttes, ch’étoit sûremint des fouants qui avoient fait cha, y falloit s’lever timpe<lb/>à l’fraique pou z’ attraper. Quind ch’timps i étoit à l’pleufe, cha déplakoit et in ar’venoit aveuk nos<lb/>sôrlets pleins ed' berdoule. A la fin, j’étois mate ed toudis ouvrer, et l’pire ché que ch’visin qui gonioit<lb/>pad' s’us l’haïure i berdouloit inter ses dints : « I n-n’a de l’ chance, el' visin, i l’a ein fieu qui l’aide<lb/>li au moins ! Mi j’ n’ai qu' des f’iles9!»<lb/>8Quind j’intendois cha, j' m' disois que ch' dressache ed' chez gosses par leu famile, i n’valoit pas miux que ch’tit par<lb/>chés Moaîtes<lb/>9You qu’i n’savoit pôs, chés qu’alles f'soient aute quosse que j’n'dirai pas ichi !!!<pb n="Picard_Concours_2020_48_p8.png"/><lb/>I n’avoit pas que ch’ courtil, i falloit auchi rachaf’ter. Min père du timps du viux beon Dieu,<lb/>i l’avoit té m’nusier, et i l’aimoit bin ouvrer dins l’mason; i croyoit savoir tout faire, i l’avoit toudis<lb/>eine guille à mette à ch’treu, mais ch’étoit plutôt ein manoqueux pus qu’aute cosse, et j’intinds incor'<lb/>eum' mère li dire : « 36 ouvraches, 36 ervers! » ou bin « T’és toudis inforché comme eine glenne à<lb/>trinte six pouchins !» I l’i répondoit : « In n’peut pôs faire de l’beonne ouvrache aveuk des méchints<lb/>otius » I passoit gramint d’timps pass' qu’i étoit vif comme ein crapieau dins les chintes et qu’i étoit<lb/>ein tchot peu nunu chin-chin: après ch' l’ouvrache, in passoit puss' ed' timps à nétier et ringer chés<lb/>otius qu’in n’avoit mis à ouvrer ! cha fait qu’in étoit toudis à l’atarge pou v’nir bièqu’ter, et m’ mère<lb/>alle finissoit par minger sins nous après avoir bin berdeler ! Quais, mais du côp, in maquoit aussi tout<lb/>seu de l’ boustifale récauffée à l’heure d’uch qu’in aroit dû erchiner!<lb/>Dins ch’timps là, in n’avoit point les moïens de s' païer eine méquenne alors chés fèmes alles<lb/>s’occupoient d’el mason qu’alles d’voient rapproprier et m’ mère toutes les smon.nes, alle faisoit sin<lb/>sinmedi; alle lavoit ch’carrelache à grindes ieaux, et m’sœur, alle devoit l’assister; comme in n’avoit<lb/>point l’ieau courinte, y fallot d’aller l’kère à l’ peompe dins l’rue aveuk des grinds siaux ; les z’autes<lb/>jours, alle passoit jusse ein coup d’ loqueteau (dins l’Nord, is distent tertous eine wassingue, mais à<lb/>Cambrai, in disoit un loqueteau10) au bout d’ein ramon. El' sinmedi à l’brune, in s’débrousoit, et<lb/>ch’étoit tout ein ju pou d’aller kère ed’ l’ieau, in s’y mettoit tertous, et in l’f’soit cauffer dins des<lb/>grindes bacheines such coin du fû pindant d’z' heures, ch’étoit ein rute ju ! In s’débrousoit tertous<lb/>dins l’mêm' ieau et in avoit l’drôt d’ kémincher par chés infants ; nos parints is nous disoient que<lb/>d’leu timps, ch’étoit l’conterpied, is kéminchoient par ch’l’homme qui étoit ch’ pûs boudré à cause<lb/>d’eusse n'ouvrache; in mettoit un lincheu dins l’feond de l’ grinde cuvièle pour impêcher qu’chés<lb/>crapes alles caittent dins l’feond, pis après in déssaquoit l’lincheu et in l’escouoit pour ruer chés<lb/>démiches et in arcominchoit aveuk eul' fème, et pis après ch’étoit chés gosses et à la fin ch’étoit aveuk<lb/>eul' binbin; in déssaquant l’lincheu eine estrême fôs, y falloit faire attintieon de n’pas ruer ch’binbin<lb/>aveuk l’ieau du bain !!!<lb/>Avint de s’débrouser, eum' mère alle nous cantoit :<lb/>« Va-t-in laver tes fé esses !<lb/>Va-t-in laver tes fé-esses<lb/>Aveuk du savon noir<lb/>Te saras les ravoir!<lb/>Aveuk ed' l’ieau d’Javé-elle,<lb/>alles s’ront incore plus bé-elles!<lb/>Quind in sortoit, in avoit frôd, et in nous disoit qu'ch’étoit normal, pasque nôs crasse alle étoit<lb/>partie, et qu’ch’és elle qui nous t’noit cô! Chés jou qu’in nous f’seot acroire, et après, à l’école, j’ai<lb/>appris qu' ch’étoit quind in s’erséquoit qu’cha f’soit l’frôd passe que l’ieau, alle cangeôt d’état! Ch’és<lb/>tout d’puis ch’timps là que j’me sus dit qu’y n’falloit point acroire el’ racontache ed' chés viux et qu’y<lb/>falloit plutôt acouter chés moaites ! Més dins ch’timps là, in n’avoit pas l’drôt ed démépriser nos<lb/>parints !<lb/>In s’lavoit l’ sinmedi pour' ête prop el' lindemain d’uch qu’in s’arnaquoit en diminche, qu’in<lb/>étoit agoné d’sin pus brafe pou d’aller à l’messe et pis qu’après, in n’faisoit pus rin, sauf eul fême qui<lb/>f’soit à minger ; ch’étoit souvint du bouli bif, eine flamique aux porions ou bin au Maroilles, eine<lb/>tarte à l’oignon même que ch’és l’miux à sin grognon; quind ch’éoit pôs à nos mote, in li disoit pou<lb/>l’faire indever : « tout cha, ch’és d’el flamique parel à du pain!»; alle f’soit aussi du rassaquache,<lb/>et alfôs eine gleine ou bin ein lapin. In alloit ker aussi eine andoule ed’villache mon Jules (ch’étoit<lb/>ch’vindeus d’char!), in l’laissoit trimper (ch’l’andoule, pas Jules !) dins l’ieau toute eine nuit pou y<lb/>¡°A Paris, is distent eine serpillère, més comme leu parlache i l’est moins riche qu’el’ not', is n’savtent point cojuguer;<lb/>nous z’autes, in dit « wassinguer » « loqueter », mais eusses, is n' distent point « serpillérer !»<lb/>8<pb n="Picard_Concours_2020_48_p9.png"/><lb/>inl’ver ch’sé, et après in l’f’soit cuire pindint d’z’heures aveuk des légueimes (un tchot peu comme<lb/>du bouli) such racoin du fu ! In n’avoit chi eine beonne!<lb/>Quind in l’mingeoit, in s’mettoit à canter:<lb/>« Si t’arois v’nu,<lb/>T’arois mingé d'l’andoule,<lb/>Comme t’as pas v’nu,<lb/>Alle a restée pindue!<lb/>Eum' mère, alle f’soit bin du beon pâté d’lapin (In l’tuoit nous même et quind in l’avoit<lb/>rétindu, i falloit y saquer ein eul et y rassaquer s’pieau!), mais alle n’réussisoit pas trop sin<lb/>potjevleesch d’uch que l’gelèe alle n’étoit pas toudis fort bin prisse. Souvint aussi, alle f’soit eine<lb/>lanque ed' boeu aveuk eine séauce au Madère et plein d’cornicheons. Alle faisoit de l’fricassée (alfôs,<lb/>quind in n’avoit pus d’clôs, ch’étoit eine fricassée à pieds décaux!); quind je l’veyois k’mincher s’<lb/>platélée, j’avois l’doutance que j’devois l’assister et j’avois pus qu’à dire « quind in fait del ratatoule,<lb/>chés toudis mi qui toule !» Pou l’dessert, alle faisoit eine tarte au chuque ou bin eine tarte à prones;<lb/>à l'Toussaint, alle f’soit ein quiou, ch’étoit ein wâtiau, eine sort' ed' cauchon aux peummes, mais à l’<lb/>plach' ed' chés peummes, alle mettoit eine compot’e ed' chitroule!<lb/>El' jeudi, ch’étoit l’jour d’uch qu’in f’soit s’buée11 ; i falloit r’kémincher tous chés voïaches<lb/>aveuk nos sciaux d’ieau ; in remplissoit d’ieau l’batteuse, et in la f’soit cauffer en alleumant<lb/>ch’brûleur à gaz pasque chés batteuses, alles n’alloient pas tout seu comme achteur; in f’soit boulir<lb/>euch' linche, comme cha chés microp’es is z’étoient tués et in n’avoit pas b’zon d’mette toutes chés<lb/>bernoules qu’in met ach’teur et qu’in dôt acater à l’ker coûte; après eine paire ed' battées, y falloit<lb/>erséquer ch’linge en l’passant inter des rouleaux ; cha d’alloit point fort bien ! Eum’ mère, alle disoit<lb/>qu’in n’avoit pas à s’plainte passe que d’sin temps, cheul batteuse, ch’étoit eine sorte ed' chérène<lb/>aveuk eine grinte manoïelle, et alle devoit l’tourner pindint tout sin jeudi pou faire chés battées! Y<lb/>avoit du linche qui n’pouvoit pas d’aller dins l’bouleusse passe qu’i étoit trop boudré et qu’i l’aroit<lb/>tout acrapé. Min père i l’aconduisoit chés trains à vapeur, et i pelletoit du carbon toute eul journée;<lb/>quind i erv’noit i l’avoit ses toiles bleus d’arringés ! Pour ravoir s’casaque et s’maronne, i falloit les<lb/>faire trimper avint d’les orlaver, et pis après, in les mettoit sur eine planque et in les brouchoit aveuk<lb/>du savon noir; ch’étoit dur, més in ne s’délamintoit pas!<lb/>In avoit quind même des bons momints.<lb/>In erchevoit souvint de l’famile el' diminche; à Marcoing, cha d’alloit bin pou v’nir pasqu’i<lb/>avoit eine estatieon et l’diminche, y avoit ein train d’puss qu’in lonmoit « el' train du prévent » à<lb/>cause ed chés gins qui v’noient vir' leu famile qu’i z’avoient plachée dins ch' préventorium. Comme<lb/>in étoit eine mason ratintout, in étoit fin bénache ed les vir même si in disoit «is arrifent toudis pour<lb/>erléquer l’payelle ! » du côp, in f’soit guinse et in sin foutoit plin la lamp'; comme in dit toudis : « i<lb/>vaut miux penche épautrée que libouli laissé! », et pis à l’fin d’eul boustifale, après eine paire eud'<lb/>verres, in s’mettoit à canter (ch’és bin connu : mingeu d’maton, canteu d’canchons!) ; in n’pouvoit<lb/>pus minger passe qu’adù qu’Saint Arnould i étoit passé, Saint Honoré i n’pouvoit pus intrer, més in<lb/>ermerciot l’bo diu in réchitant « merci au bo diu et à ses saints, éme penche alle tint! » i n’n-avoit<lb/>aussi qui avoient toudis eine garlousette à débabeiner: in avoit bin du plaisi !<lb/>11 A Marcoing, y avoit eine vièle maîtresse in ertraite, qui étoit dev’une ein tchot peu toutoule, et qui disoit<lb/>toudis: « Alors, là il y a de l’abus » et mi, j' comperdois «y a d’la buee! » et je m’demindois bin pourquoi, y<lb/>avoit de l’buee!</div>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_48</idno>
+                <title type="main"> T'es d'min coin ?</title>
+                <title type="collection">Picard Concours</title>
+                <author>Christian, LEDUC </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> T'es d'min coin ?</title>
+                    <author>Christian, LEDUC </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="90">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="10">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div type="titlepage">
+                <pb facs="Picard_Concours_2020_48_p1.png"/>
+                <fw type="runningTitle"><lb/>Sauvegarde du patrimoine linguistique local</fw>
+                <fw type="numbering"><lb/>N°48</fw>
+                <head><lb/>Parigot, tiête ed’vieau<lb/>Cambrésien, tiête ed’kien</head>
+                <head><lb/>T’es d’min coin?</head>
+                <head xml:lang="met-fr"><lb/>Souvenirs d’une enfance rurale en
+                    Hainaut-cambrésis.</head>
+                <fw type="numbering"><lb/>1</fw>
+            </div>
+            <div>
+                <pb facs="Picard_Concours_2020_48_p2.png"/>
+                <head><lb/><foreign xml:lang="met-fr">Préface de</foreign> ch' babilleux<lb/>(chés
+                    ch’ti qui a récrit ch’racontache là!)</head>
+                <p><lb/>Avint, quind ej k’minchois à d’viser aveuk queuqu’un qui ne m’avoit point
+                    fort kèr, i<lb/>m’disoit: « Te n’vas pas côr nous faire tes plaids! In
+                    n’t’acoute pôs pus qu’ein kien, et in s’in<lb/>fout de t'vie, alle n’est point
+                    fort bielle, alle est pleine ed tros ! » et je n’pouvois pôs d’aller<lb/>plus
+                    long dins min racontache passe qu’après, i m’disoit souvint : « Si t’continue
+                    comme cha,<lb/>j'vas t’foute eine margnouffe dins t’guife !» Du coup,
+                    j’incranqu’liois min conte, mais j’me<lb/>disois: « quind même, ché damache de
+                    n’pas pouvoir l’faire assavoir à tertous !»</p>
+                <p><lb/>A cht’heure, j’ai appris que l’patois i mettoit d’beonne humeur, et qu’i
+                    suffisoit de<lb/>k'mincher eine histoère in jactant ce parlache, pou qu' chés
+                    gins is s’mettent à faire eine<lb/>risette. Et ch’és comme cha qu’m’a v’nue
+                    l’idée ed' récrire eine pasquille pour débabeiner<lb/>tout chou qu' j’ai
+                    connu, que cha seuche fergu ou momeux.</p>
+                <p><lb/>Pour in définir, je n’peux pos m’atnir de canter eine comptine
+                    cambrésienne:</p>
+                <lg xml:lang="met-fr">
+                    <l><lb/>Ris, ris, t’iras à Paris !</l>
+                    <l><lb/>Brais, brais, riras à Cambrai !</l>
+                </lg>
+                <fw type="numbering"><lb/>2</fw>
+            </div>
+            <div type="chapter" n="1">
+                <pb facs="Picard_Concours_2020_48_p3.png"/>
+                <head><lb/>T'es d’min coin?</head>
+                <p><lb/>Quind j’étois pas pus haut qu’tros peumes, ej gitois ein tiot villache du
+                    cambrésis et in<lb/>m’demandoit souvint : « T’es d’min coin ? », mi
+                    j’répondois : « non, j’sus d’Marcoing !» Ch’és in<lb/>villache qui est sus
+                    l’roye inter ez’Atrébates et chés Nerviens. Chés gins, là-bas, is parloient
+                    l’patois<lb/>edpuis des sièques, mais à l’école, in n’avoit pôs l’drôt et i
+                    falloit dviser in françois, sinon in étoit<lb/>peunis et y falloit faire des
+                    ratours dins l’cour pindant chès rapurètes au lieu d’juer avec ez’autes!</p>
+                <p><lb/>Pour chés jux, in s’abannioit bin; par eximpe, quind in juoit et qu’in
+                    adziroit queusir nos gins,<lb/>in réchitoit souvint eine comptine à orjeter
+                    comme :</p>
+                <lg>
+                    <l><lb/>J’ai du brin dins min gardin.</l>
+                    <l><lb/>Qui pue, qui sint, va t’in!</l>
+                </lg>
+                <p><lb/>Pour nous dire qu’in étoit peunis, chés moaîtes is nous disoient : « Au
+                    piquet ! » ; nous in<lb/>n’savoit pas pourquô is disoient cha, mais in
+                    comperdoit qui falloit s’démoliner dins l’cour! Quind<lb/>j’sus dev’nu plus
+                    grind, j’ai su que du timps d’chés vièles guerres, chés saudarts qui
+                    n’avoient pas<lb/>bin fait leu allurte, qui alloient tout acdaliant, is d’voient
+                    rester d’bout aveuk ein pied d’sus ein<lb/>potieau pindant deux hurettes, et
+                    qu’chés moaîtes is avoient erpris ch' l’esclamache pour nous
+                    faire<lb/>comprinte qu’in étoit peunis.</p>
+                <p><lb/>Chès moaîtes is nous apprenoient à dviser comme à Paris in nous disant
+                    qu’chétoit pou not'<lb/>bien et comme châ pus tard in aroit ein biel état!,
+                    seulemint, quind in rintroit à nos masons, chés<lb/>parints is nous
+                    intindoient pôs et is nous d’mandoient d’parler comme eusses ; in seomme in
+                    étoit<lb/>bilingues ! Pou nous apprinte à bin dviser tout comme ez' horzins
+                    (chés gins d’Paris!), chés moaîtes<lb/>is f’soient de l’ pédagogie (ou ein
+                    greos meot du même ginre), acht’heure is diroient de l’didactique<lb/>(is
+                    n’sav’tent pus quô invinter pou moutrer qu’is sont plus fichéaux que
+                    z’autes!); is nous disoient<lb/>que pour récrire « abême », y avoit un arp'
+                    qui étoit sus l’meont et qui avoit caïllu dins l’feond, et<lb/>qu’ch’és comme
+                    cha que ch’capieau i étoit passé de l’cime sus l’abême ; pou nous apprinte
+                    chés<lb/>cojoctions, is nous f’soient réchiter « Mé d’uch qui l’est Ornicar ?
+                    » (ch’és aveuk cha qu’in faisoit<lb/>d’bons ingénieurs!) Nous zéautes, in
+                    invintoit des comptines in patois et cha nous permettoit de<lb/>s’ramintuver nos
+                    lessons in riant plin nôs panche, et in n’avoit b’son d’personne; par eximpe,
+                    pour<lb/>apprinte ché voïèlles, in cantoit :</p>
+                <lg>
+                    <l><lb/>a;e; i; o; u;</l>
+                    <l><lb/>J’ai cassé min cul.</l>
+                    <l><lb/>sur ein caillô pointu,</l>
+                    <l><lb/>je l’ai raccommodé sur eine caillère cassée!</l>
+                </lg>
+                <p><lb/>A l’école, ch’étoit pas comme maintenint, et in n’intermêloit pas chés
+                    fil’es aveuk chés<lb/>garchons ; chés fil’es alles z’avoient eine moaîtresse
+                    et chés garchons ein moaîte. Nous, chés fil’es,<lb/>in les lonmoit des
+                    maguettes, passe que quind alles ram’noient leu fraise en faisant « nien, nien,
+                    nien »,<lb/>alles biquottent leu nez, f’soient eine bouque in cul d’poule et
+                    mettoient leu minton in galoche; nous<lb/>z’autes, pou s’moquer d’elles, in leur
+                    cantoit :</p>
+                <lg>
+                    <l><lb/>aveuk sin nez pis sin minton</l>
+                    <l><lb/>in pourroit faire un ju d’billon</l>
+                </lg>
+                <p><lb/>Nous, in cantoit cha pou les faire indever!</p>
+                <p><lb/>Chés fil’es, alles n’apernoient pas les mêmes quosses que nous à
+                    l’école, alles z’apernoient à<lb/>queute, à afiqueoter, k’mint qu’in fait du
+                    ménache, de l’fristouille,..., et nous, in nous apernoit de<note><lb/>1 Ach'
+                        l'heur in nous diroit: « Plutôt que d'perte im temps à l’école pour aller
+                        à l'ique après, apprinds donc em biau<lb/>métier!»</note><fw
+                        type="numbering"><lb/>3</fw><pb facs="Picard_Concours_2020_48_p4.png"
+                    /><lb/>l’ m 'nuserie, de l’ferronnerie, k’mint abistoquer s’n’acrinkillache
+                    esquinté, k’mint qu’in rimplache<lb/>ein plomb qu’y a sauté, k’mint qu’in fait
+                    du gardin,... Chés moaites is exagéroient pasque l’jeudi,<lb/>is d’mindoient
+                    à des grinds garchons d’quatorze ans d’fouir leu gardin!</p>
+                <p><lb/>Ach’t’heure, in intermêle chés fil’es et chés garchons, et tout l’monte
+                    il apprind tout parei’l.<lb/>Chés espécialistes ed l’écolache is disent que
+                    comme cha, <foreign xml:lang="met-fr">« on ne conditionne pas, dés son plus
+                        jeune<lb/>âge, la petite fille dans son futur rôle de femme au
+                        foyer»</foreign>, et qu’ch’és comme cha que ch’l’école alle<lb/>est « plus
+                    égalitaire et émancipatrice ! » (quôk ché qui faut pôs intinde!)C<lb/>Quind
+                    in étoit rintrés, in apprenoit nos l’ssons et in f’soit nos dveoirs à l’mason
+                    passe que chés<lb/>moaîtes is z’avoient côr el drôt d’in donner (chés pus
+                    comme mintenant!), et après in alloit juer su<lb/>l’plasse verte d’uch qui
+                    avoit toudis d’eautes infants; nos parints is savoient d’uch qu’in étoit
+                    et<lb/>ch’étoit pas dûr ed nous artrouver pour v’nir nous r’kère. I’n-n’avoit
+                    pas gramint ed dinger pasqu’y<lb/>n’avoit pôs gramint d’vôtures et alles
+                    n’alloient pôs vite à cause ed chés pavés; y n’avoit pas non<lb/>pus, comme
+                    mintenant, des crapules qui inlèv’tent chés infants, et in nous avoit bin dit
+                    de n’jamais<lb/>moter dans eine vôture aveuk des gins qu’in n’connaissoit
+                    pas.</p>
+                <p><lb/>A Marcoing, y avoit eine tiot riot qui s’lonmoit « L’Eauette »; alfos, in
+                    alloit juer à l’source<lb/>qui s’appeloit « l’fontaine ed chés pères » dins
+                    ch’bôs « Couillet ». Nos parints is z’alloient kère ed<lb/>l’ieau car alle
+                    étoit beonne pou n’pôs décatir et qu’alle avoit djà ermis des malates. Mi,
+                    je n’intindois<lb/>pas pourquô alle s’lonmoit « l’fontaine ed chés pères »,
+                    mais quind j’étois plus grind, et qu’invitois<lb/>eine fil’e in y d’mindant
+                    d’vnir raviser chés magrites à l’invers, j’ai compris pourquô in
+                    l’lonmoit<lb/>comme cha! In s’apinsoit qu’in étoit bin muchés, mais i’n-n’a
+                    qui nous avoient suifis et qui s’étoient<lb/>infiqués in drukin dins eine
+                    haïure; pou nous tarier, is nous berloient « duchemint à ch’pain,
+                    j’burre<lb/>i l’est ker ! » ou bin: « ch’l’amoureux, el maitresse, not tiot cat
+                    i fait caresse » et pis aussi : « Muche<lb/>tin cul, vla ch’warte»</p>
+                <p><lb/>Dins l’Eauette, y avoit des pichons, ch’étoit des truites saumonées. In
+                    alloit aussi à l’pêque<lb/>dins ch’canal d’uch qui avoit toute sorte ed
+                    pissons; au début in ramenoit eine belle friture à nos<lb/>mason, mais après,
+                    aveuk tout ch’brin qu’chés fabriques² alles ruoient dins l’ieau, i n-n’avoit
+                    pus<lb/>gramint. In avoit l’drôt d’pêquer sins permis tout'qu’à 16 ans, mais
+                    in côp, chés gandarmes, is sont<lb/>v’nus nous bacheiner in nous erclamant nos
+                    permis; mi, je n’me f’soit pôs d’mouron, je y’eux ai fait<lb/>r’marquer qu’in
+                    étoit dins not drôt et qu’is n’avoient qu’à d’aller d’minder au sièche
+                    d’eulle fédération<lb/>(i s’lonmoit « ach martin-rivière ») pou jauser ;
+                    après j’ai appris, mais j’ne l’savois pôs à ch’momint<lb/>là, qui n’y avoit
+                    que ch' warte fédéral qui avoit l’drôt d’erclamer chés permis : ch’étoit
+                    vraimint des<lb/>rosses !!!</p>
+                <p><lb/>Quind ch’timps i étoit al’pleufe, in alloit cacher après des caracoles³,
+                    in les arconduisoit à nos<lb/>mère qui les fozoit fristouiller après ez’avoir
+                    ermis dins ein sieau pindint trôs jours pou qu’is rindent<lb/>leu brin; in
+                    mettoit ein couverque pas d’ssus pou qu’is n’s’in d’allent pôs, mais alfos is
+                    z’arrivoient<lb/>quind mêm' à s’sauver et y falloit d’aller les r’kère. In
+                    avoit peur qui drache, qui pleufe à l’délaque,<lb/>(A Paris, in dit « caire
+                    des cordes », et ch’z’inglais is distent « caire des kiens et des cats ! »)
+                    passe<lb/>qu’in n’savoit pôs d’ù s’mette pou n’pôs ête tout cru! Quind in
+                    veïoit eine caracole, in disoit :<lb/>« Escargot, moute tes cornes, moute tes
+                    cornes sinon j te tue !» Ach’t’heure, in ne l’f’roit pus pasqu’i<lb/>faut
+                    définde chés biètes et n’pôs les tuer!</p>
+                <p><lb/>Quind in étoit plus grind et qu’in vouloit gagner des clôs, in alloit
+                    cacher de l’fiérale dins chés<lb/>camps pou l’ervint' ach l’albodeu
+                    d’fiérale; in n’gagnoit pôs Gramint d’clôs et in avoit du mal à<lb/>rabouler
+                    not' saquie à nos mason mais cha nous z’amusoit pusse qu’aute cosse. Chés viux
+                    is nous<lb/>disoient : « Marchez vous in dins ch’fond d’Fleurquières, vous in
+                    trouvrez beaucôp pasqu’in a fort<lb/>batt lié dins ch’coin là ! » Is nous
+                    disoient pôs vraimint tout chou qui s’étoit passé, més après j’ai
+                    su<lb/>qu’ch’étoit el' prumière batale ed' tanks ed' l’histoère. Chès
+                    Inglais, is z’avoient inveyé leus tanks su<lb/>chés boches pou briger el' line
+                    Hindenburg, mès leus tanks is z’étoient tellemint tierqués qu’is
+                    z’ont<lb/>fait berziller ch’peont d’Masnières et ch’és comme châ qui n’sont
+                    jamais passés; du côp, chés boches<note><lb/>2Y avoit deux huileries, deux
+                        briqueteries, eine laiterie, eine cimenterie, eine fabrique ed
+                        caudrons,.<lb/>3Y avoit surtout des tchots gris; des Bourgogne, in' n’avoit
+                        aussi, mais y falloit d’aller dins ch’bois Couillet, et nos<lb/>parints is
+                        nous défindoient d’y aller car ch’étoit eine réserf' militaire.</note><fw
+                        type="numbering"><lb/>4</fw><pb facs="Picard_Concours_2020_48_p5.png"
+                    /><lb/>is z’avoient inveyé plin d’obus pou mette el' fû sû chés cars; quind
+                    is z’éclatoient, chés obus, is<lb/>z’inveyoient des biles ed' plomb pour troer
+                    chés « lusieaux ambulants » et ch’és comme cha qu’nous<lb/>z’autes in pouvoit
+                    ravoir ch’plomb qui valoit plus ker mon de ch’ervindeus d’fiérale. Aveuk chés
+                    clôs<lb/>qu’j’avois gangnés, j’m’avois acaté eine mobylette qui étoit point
+                    trop à l’kère-coute, comme cha,<lb/>j’pouvois k’mincher à sortir ed' min trô
+                    ! J’m’avois aussi acaté des cannes à pêques pour pouvoir<lb/>printe des plus
+                    greos pissons ! Aveuk deux pêques, j' pouvois mette ein tiot pisson au bout
+                    de<lb/>l’prumière pour in attraper ein greos pindant que continuois à pêquer
+                    aveuk l’eaute, mais alfôs el gros<lb/>i s’déokoit de l’line et y falloit tout
+                    ercommincher!</p>
+                <p><lb/>à chés sinciers pour éclairchir chés betrafes; alfôs in alloit
+                    déssaquer d’l’avron4 dins chés camps<lb/>In alloit aussi ouvrer dins chés
+                    cinses comme des goujars; Après l’gélache, in v’noit in aïude<lb/>d’blé;
+                    après, in f’soit chés fouérs (cha, ch’étoit dur!); à chés prumières
+                    caleurs, chés pûs grinds, i<lb/>aidoient à loïer chés bottes ed' blé, pis
+                    après i les égarboient aveuk ein fourquet; après, ch’étoit<lb/>l’apréseau
+                    et in aidoit aussi à ramasser chés pintières qu’in ruoit dins ein bareux,...
+                    in n’gangnoit<lb/>pas beaucôp d’clôs, mais in avoit bin du plaisi !</p>
+                <p><lb/>Dins l’timps, ch’villach' i étoit plus important passe qu’y avoit des
+                    tchotes fabriques, et y avoit<lb/>ed l’ouvrage pou tertous sins qu’in seuche
+                    obligés d’queurir au leon. Y avoit eine caudronnerie tout<lb/>près d’chés
+                    vôyes du kmin d’fer, comme cha alle pouvoit enveyer ses caudrons d’t’avau ; y
+                    avoit<lb/>eine amidonnerie, més alle avoit té desterminée à l’ guerre, et y
+                    n’restoit pus qu’des baraques; y<lb/>avoit quat' briquetries, més après la
+                    guerre, ch’étoit surtout d’z’italiens qui y ouvroient ; y avoit des<lb/>tchots
+                    ateliers ed faisache ed linche comme eine fabrique ed quémisses; dins
+                    l’villache d’à côté (i<lb/>s’appeloit Noyelles) i avoit eine fabrique
+                    d’ersaqueusses ed betrafes et ein meulin su l’Escaut et<lb/>ch’étoit point trop
+                    dur d’aller ouvrer la-bas in d’allant à pied ou à biclou. A Masnières,
+                    ch’étoit tout<lb/>parel aveuk el' verrerie. Et pis, y avoit tout plein
+                    d’ouverriers qui s’étoient mis à leus compte et qui<lb/>interprindoient tout'
+                    sorte d’ouvraches ( y avoit des gorliers, des cauderliers, des marissieux,
+                    des<lb/>m’nusiers, des mulquiniers,...) : in trouvoit toudis tout chou qu’in
+                    vouloit. In dit toudis : « Y faut<lb/>d’tout pou faire ein mond’!» eh bin là
+                    cha vauloit l’côp de l’dire, et in étoit fin bénache comme cha!</p>
+                <p><lb/>A Marcoing, in s’foutoit d’chés gins du villache d’à côté qui s’lonmoit
+                    « Rumilly » in cantant :</p>
+                <lg>
+                    <l><lb/>Rumillyons, min coutieau! Metteux d’fu!</l>
+                </lg>
+                <p><lb/>Tout cha passe que du timps d’chés vièles guerres, quind is juoient à
+                    cartes, is mettoient ein<lb/>coutieau sus leus ge’noux in d’sous d’el tap'</p>
+                <p><lb/>Més, chez rumillyons, is nous donnoient comme neom ch’té:</p>
+                <quote>« Chés rabattewx d’brouillard aveuk des pelles à fourques⁵!»</quote>
+                <p><lb/>A Marcoing, y avoit toudis des fiêtes ; y avoit ein viux cinéma qui
+                    passoit des viux films, mais<lb/>cha nous f’soit quind même plaisi pasqu’in
+                    n’avoit point d’télé; y avoit eine grante salle des fiêtes,<lb/>cha f’soit
+                    qu’y avoit souvint des bals, y avoit eine société d’mujik qui s’produisoit
+                    d’t’avau même si<lb/>alle juoit toudis les mêmes morciaux (alle juoit l’obit
+                    des kiens et ch’étoit du Rintchintchin plusse<lb/>qu’aute cosse!) : in
+                    l’artrouvoit à l’répartition des prix, à l’orvue du 14 juillet, chelle du 8
+                    mai, du II<lb/>novempe même qu’alle juoit dins ch’l’églisse; el résonnache
+                    des trompettes i faisoit débirouler toute<lb/>el pourée qui s’étoit infiquée
+                    dins chés arnitoiles; après alle alloit juer eul sonnerie aux morts
+                    d’vant<lb/>ch’monumint aux morts ; chez clers is nous obligeoient à d’aller à
+                    l’ cérémonie in disant qu’si in n’y<lb/>alloit pas ché pass' qu’in t’noit
+                    aveuk chés boches ! Ach’t’heure, is nous diroient qu’si in y va ché<lb/>pass
+                    qu’in tient aveuk chés nationalistes : marche-t-in comprinte quète cosse ti !
+                    Y avoit aussi des<lb/>sociétés sportifes : euch clup' ed football i n’étoit
+                    pas dins ché prumiers pass' qu’y avoit des jueurs<note><lb/>4Chés gins qui
+                        parloient comme à Paris, is disoient « la folle avoine » et chés curés is
+                        disoient « séparer le bon grain de<lb/>l’ivraie »<lb/>5J'n’ai jamais su
+                        pourquò in nous lonmoit comme cha! Peut-ête passe qu’in r’muoit beaucô
+                        d’air pour pas grind cosse<lb/>et que pour en définir, in n’fesoit rin de
+                        bin !</note><fw type="numbering"><lb/>5</fw><pb
+                        facs="Picard_Concours_2020_48_p6.png"/><lb/>(chés meilleux!) qui étoient
+                    inregistrés à ch’clup d’euch magasin de l’ cav' à Cambrai6 et
+                    is<lb/>n’pouvoient pas queurir deux lièfes à l' fos ! Y avoit eine société
+                    d’biclou et souvint y avoit des<lb/>courses; y avoit aussi eine société pou
+                    chés gymnaciens, des amicales qui agimoloient des fiêtes,...;<lb/>Y avoit deux
+                    ducasses par ainnée et chés sociétés, alles s’ingageoient dins ch’comité
+                    des fiêtes,<lb/>ch’étoit à chelle qui in froit l’plus pou s’foaire vauloir! Y
+                    avoit pôs beaucôp d’accordance là z’et là<lb/>passqu’y avoit les sociétés
+                    laïques comme l’amicale de z’inciens alieuves qui s’occupoient surtout<lb/>des
+                    écoles (alles donnoient des quenious à chés alieuves à Noël) et chelles de
+                    ch' curé qui étoient du<lb/>côté des familes et d’leus infants : alles nous
+                    amoutroient du cinéma à l’salle sainte Thérèsse el'<lb/>dimanche
+                    après-deîner, alles agimoloient eul’ gard’rie pindant les vagances, alles
+                    faisoient des aites<lb/>ed' cars rimplis d’vilettes qui s’porménoient dins
+                    chés rues, et pis des fiêtes ed patronache dins chés<lb/>pâchis d’uch qui
+                    avoit des meneux d’fiètes qui f’soient des jûs, des aites ed cants,...</p>
+                <p><lb/>Chés infants, is s’apinsoient tout parel' qu’leus parints et alfos is
+                    s’traitoient en cantant :</p>
+                <lg>
+                    <l xml:lang="met-fr"><lb/>École des curés, cul crotté!</l>
+                </lg>
+                <p><lb/>Ez’autes i répondoient:</p>
+                <lg>
+                    <l xml:lang="met-fr"><lb/>École laique cul merdique!</l>
+                </lg>
+                <p><lb/>Més is n’avoient pôs du touillache, et is alloient à toutes chés
+                    fiêtes, sins trop raviser à ch’tit<lb/>qu’y z’agimoloit!</p>
+                <p><lb/>A Marcoing, y avoit des lasareus qui étoient fort pôfs comme Jop, més qui
+                    arrivoient à vif'<lb/>quind même; is ouvroient dins chés fermes in s’occupant
+                    des kvaux, des vaques,.. in les rafourrant;<lb/>chés cinsiers is leur
+                    laichoient eine tiote bicoque ou bin eine étave d’uch qui pouvoient s’mettent
+                    au<lb/>cô et couker, et is leur donnoient du lait et eine neuche ed' pain pou
+                    n’pas les laicher morir ed faim;<lb/>el' mayeur i leur faisoit erwider chés
+                    bacheines berneuses, décruauder chés kémins ou chés deufes,<lb/>coper des
+                    arps dins ch’villache,... et i leur donnoit leu smon. ne ou leu journée (i
+                    n’étoient pôs païés<lb/>au môs comme achteur et i n’y avoit point tous
+                    chés contrôls de l’ouvrache par d’z’eswardeux du<lb/>boulot!) In leur’avoit
+                    donné un neom, in les lonmoit chés trousses ! I’n-n’a un ch’étoit ein
+                    tiot<lb/>innochint⁷, i s’délonmoit « Louis » et i fsoit chés commissieons pou
+                    les fèmes d’euch villache; i<lb/>mettoit tout dins eine bérouète et i leu
+                    rabouloit à leu mason; i n’savoit point lire, més chés fèmes<lb/>alles y
+                    mettoient el' liste dins ein portefuèle avec les clôs; i n’savoit point lire
+                    més i savoit carculer;<lb/>in l’y donnoit eine tiote pièce pou l’armerchier et
+                    comme cha is étoient tertous fin bénaches! I<lb/>n’parloit pas beaucôp mais i
+                    nous disoit bin bojour et même à nous chés gosses, i nous disoit «
+                    Bojour<lb/>Maname ! » In avoit bin invie de s’déclaker à rire més in nous
+                    avoit bin dit de n’pas s’moquer d’li !<lb/>Quind in y pinse, in s’dit qu’in
+                    étoit miux qu’achteur : y n’avoit pôs d’C.C.A.S., pôs d’burô
+                    d’bien¬<lb/>faisache, pôs d’restôs du coeur,... et chés malhureux, is
+                    l’étoient moins qu’achteur ! Y n’avoit pôs<lb/>d’S. D. F. ni d’gins dins
+                    l’arla qui d’voient couker dehors ou bin tinde el’ main pou r’avoir quat
+                    sous<lb/>et personne i n’aglavoit !</p>
+                <note><lb/>6Chés usines alles z’avoient el' drôt de s' païer eine
+                    équipe.<lb/>7Chés parisiens, is z’aroient dit « l’idiot du villache » et chés
+                    marseillais « le ravi !»</note>
+                <fw type="numbering"><lb/>6</fw>
+            </div>
+            <div type="chapter" n="2">
+                <pb facs="Picard_Concours_2020_48_p7.png"/>
+                <p><lb/>A nos masons, in n’étoit point fort riches, et y falloit savoir n’point
+                    treop dépinser quind in<lb/>acatoit, surtout quind ch’étoit au ker coût ; cha
+                    d’alloit pôs toudis tout drôt passe qu’àdù qu’y n’a pôs<lb/>d’clôs, el
+                    lavette alle brûle toudis ! In étoit mal acouftés pis in mingeoit c’qu’in
+                    cultivoit dins nôs<lb/>courtil et les biètes qu’in intertenoit ; ch’étoit
+                    surtout des glènes pis des lapins, alfôs des dindes, et<lb/>cheux qui avoioent
+                    eine pâchi is élevoient des maguettes, des bédeos et des pourchiaux. El jour
+                    où is<lb/>tuoient un pourchiau, is k’minchoient par boire eine bistoule, et
+                    quind ch’pourchiau i étoit mort, is<lb/>cantoient :</p>
+                <lg>
+                    <l><lb/>A nos mason, in a tué ein pourchiau</l>
+                    <l><lb/>In a té kère Maria, in a té kère Maria</l>
+                    <l><lb/>A nos mason, in a tué ein pourchiau</l>
+                    <l><lb/>In a té kère Maria pour saquer dsuch boiau !</l>
+                    <l><lb/>Saque dSuch boïau Maria, Saque dSuch boiau Maria!</l>
+                    <l><lb/>Saque d'such boiau, cha n’a pas d’importanche</l>
+                </lg>
+                <p><lb/>Cha m’rapell' eine histoère. In côp ch’moaite i nous avoit d’mindé:</p>
+                <quote><p><lb/>-« Au môyen âche, chés gins des villes is élevoient des ???
+                        »</p><p><lb/>-« Mi, Msieu, je l'Sais: is élevoient des
+                        pourchiaux!»</p><p><lb/>-« Nofait ! Les gins des villes, pas les gins des
+                        villaches !»</p><p><lb/>-« Is élevoient des infants, Msieu!»</p><p><lb/>-«
+                        Mès qu’is sont biêtes ! Chés gins des villes, is élevoient des
+                        cathédrales !!!»</p></quote>
+                <p><lb/>Chés cinsiers, eusses, is z’avoient des picaïons, et pus qu’is n’avoient,
+                    pus qu’is vouloient<lb/>n’avoir! Is avoient les môyins d’mier souvint du beû,
+                    in les lonmoit chés maqueux d’beû!</p>
+                <p><lb/>A nos masons, à ch’courtil, y falloit assister min père; pou y’arriver, y
+                    falloit marcher dins<lb/>l’voïette, et min père i l’appeloit cha eine
+                    pied-sente; Quind j’ l’intindois in parler, i m' sin.noit qu’i<lb/>prononchoit
+                    cha comme in prononche « pissenlit », alors j’y ai d’mindé de m’l’récrire, et
+                    i m’récrivoit<lb/>« piessente » ; j’y faisois r’marquer qu’nos parlache i
+                    v’noit de l’ lingue d’Oïl et que ch' qualificatif<lb/>i étoit plaché d’vant
+                    et qu’ch’és comm' cha qu’in d’voit dire eine pied-sente et pôs eine sente
+                    pou<lb/>chés piétoneus; je m’ faisois ingueuler et i m’ disoit qu’li i
+                    n’étoit point d’allé à l’école, més qu’i<lb/>l’étoit né avint mi et qu’i
+                    l’in savoit pus eu qu’mi ! I m’ disoit que ch’qui queompte dins la vie
+                    ch’és<lb/>d’ouvrer, et pôs d’busier à des cacoules8 ! Si te ne l’intinds
+                    point t’aras faim à tes dints ! Alors, in<lb/>prenoit ch’louchet, i m’disoit «
+                    sake eddin » et in alloit fouir après avoit rétindu du fien su
+                    ch’gardin<lb/>aveuk ein fourquet; après i falloit dégriffer ch 'eul tierre
+                    aveuk un grauet et pis finir aveuk ein ratiau<lb/>pour avoir de l’fine tierre
+                    avint de s’mer. Quind chés s’mis i z’étoient l’vés, i falloit sarquéler
+                    et<lb/>cruauder chés parcs tous les jours, in f’soit cha aveuk eine arbrakète
+                    et in avoit d’l’avinche à mette<lb/>ed l’amindiche comme cha in avoit des biaux
+                    Légueimes! I falloit aussi arpiquer plein d’plantes;<lb/>comme je n’savois pas
+                    bin ouvrer, i m’disoit souvint : « Quind j’te vôs, eum' journée alle est
+                    faite!»<lb/>Alfos, i avoit plein d’buttes, ch’étoit sûremint des fouants qui
+                    avoient fait cha, y falloit s’lever timpe<lb/>à l’fraique pou z’ attraper.
+                    Quind ch’timps i étoit à l’pleufe, cha déplakoit et in ar’venoit aveuk
+                    nos<lb/>sôrlets pleins ed' berdoule. A la fin, j’étois mate ed toudis ouvrer,
+                    et l’pire ché que ch’visin qui gonioit<lb/>pad' s’us l’haïure i berdouloit
+                    inter ses dints : « I n-n’a de l’ chance, el' visin, i l’a ein fieu qui
+                    l’aide<lb/>li au moins ! Mi j’ n’ai qu' des f’iles9!»</p>
+                <note><lb/>8Quind j’intendois cha, j' m' disois que ch' dressache ed' chez gosses
+                    par leu famile, i n’valoit pas miux que ch’tit par<lb/>chés Moaîtes<lb/>9You
+                    qu’i n’savoit pôs, chés qu’alles f'soient aute quosse que j’n'dirai pas ichi
+                    !!!</note>
+                <fw type="numbering"><lb/>7</fw>
+                <pb facs="Picard_Concours_2020_48_p8.png"/>
+                <p><lb/>I n’avoit pas que ch’ courtil, i falloit auchi rachaf’ter. Min père du
+                    timps du viux beon Dieu,<lb/>i l’avoit té m’nusier, et i l’aimoit bin ouvrer
+                    dins l’mason; i croyoit savoir tout faire, i l’avoit toudis<lb/>eine guille à
+                    mette à ch’treu, mais ch’étoit plutôt ein manoqueux pus qu’aute cosse, et
+                    j’intinds incor'<lb/>eum' mère li dire : « 36 ouvraches, 36 ervers! » ou bin «
+                    T’és toudis inforché comme eine glenne à<lb/>trinte six pouchins !» I l’i
+                    répondoit : « In n’peut pôs faire de l’beonne ouvrache aveuk des
+                    méchints<lb/>otius » I passoit gramint d’timps pass' qu’i étoit vif comme ein
+                    crapieau dins les chintes et qu’i étoit<lb/>ein tchot peu nunu chin-chin:
+                    après ch' l’ouvrache, in passoit puss' ed' timps à nétier et ringer
+                    chés<lb/>otius qu’in n’avoit mis à ouvrer ! cha fait qu’in étoit toudis à
+                    l’atarge pou v’nir bièqu’ter, et m’ mère<lb/>alle finissoit par minger sins
+                    nous après avoir bin berdeler ! Quais, mais du côp, in maquoit aussi
+                    tout<lb/>seu de l’ boustifale récauffée à l’heure d’uch qu’in aroit dû
+                    erchiner!</p>
+                <p><lb/>Dins ch’timps là, in n’avoit point les moïens de s' païer eine méquenne
+                    alors chés fèmes alles<lb/>s’occupoient d’el mason qu’alles d’voient
+                    rapproprier et m’ mère toutes les smon.nes, alle faisoit sin<lb/>sinmedi; alle
+                    lavoit ch’carrelache à grindes ieaux, et m’sœur, alle devoit l’assister; comme
+                    in n’avoit<lb/>point l’ieau courinte, y fallot d’aller l’kère à l’ peompe dins
+                    l’rue aveuk des grinds siaux ; les z’autes<lb/>jours, alle passoit jusse ein
+                    coup d’ loqueteau (dins l’Nord, is distent tertous eine wassingue, mais
+                    à<lb/>Cambrai, in disoit un loqueteau10) au bout d’ein ramon. El' sinmedi à
+                    l’brune, in s’débrousoit, et<lb/>ch’étoit tout ein ju pou d’aller kère ed’
+                    l’ieau, in s’y mettoit tertous, et in l’f’soit cauffer dins des<lb/>grindes
+                    bacheines such coin du fû pindant d’z' heures, ch’étoit ein rute ju ! In
+                    s’débrousoit tertous<lb/>dins l’mêm' ieau et in avoit l’drôt d’ kémincher
+                    par chés infants ; nos parints is nous disoient que<lb/>d’leu timps, ch’étoit
+                    l’conterpied, is kéminchoient par ch’l’homme qui étoit ch’ pûs boudré à
+                    cause<lb/>d’eusse n'ouvrache; in mettoit un lincheu dins l’feond de l’ grinde
+                    cuvièle pour impêcher qu’chés<lb/>crapes alles caittent dins l’feond, pis
+                    après in déssaquoit l’lincheu et in l’escouoit pour ruer chés<lb/>démiches
+                    et in arcominchoit aveuk eul' fème, et pis après ch’étoit chés gosses et à
+                    la fin ch’étoit aveuk<lb/>eul' binbin; in déssaquant l’lincheu eine estrême
+                    fôs, y falloit faire attintieon de n’pas ruer ch’binbin<lb/>aveuk l’ieau du
+                    bain !!!</p>
+                <p><lb/>Avint de s’débrouser, eum' mère alle nous cantoit :</p>
+                <lg>
+                    <l><lb/>« Va-t-in laver tes fé esses !</l>
+                    <l><lb/>Va-t-in laver tes fé-esses</l>
+                    <l><lb/>Aveuk du savon noir</l>
+                    <l><lb/>Te saras les ravoir!</l>
+                    <l><lb/>Aveuk ed' l’ieau d’Javé-elle,</l>
+                    <l><lb/>alles s’ront incore plus bé-elles!</l>
+                </lg>
+                <p><lb/>Quind in sortoit, in avoit frôd, et in nous disoit qu'ch’étoit normal,
+                    pasque nôs crasse alle étoit<lb/>partie, et qu’ch’és elle qui nous t’noit
+                    cô! Chés jou qu’in nous f’seot acroire, et après, à l’école,
+                    j’ai<lb/>appris qu' ch’étoit quind in s’erséquoit qu’cha f’soit l’frôd passe
+                    que l’ieau, alle cangeôt d’état! Ch’és<lb/>tout d’puis ch’timps là que j’me
+                    sus dit qu’y n’falloit point acroire el’ racontache ed' chés viux et
+                    qu’y<lb/>falloit plutôt acouter chés moaites ! Més dins ch’timps là, in
+                    n’avoit pas l’drôt ed démépriser nos<lb/>parints !</p>
+                <p><lb/>In s’lavoit l’ sinmedi pour' ête prop el' lindemain d’uch qu’in s’arnaquoit
+                    en diminche, qu’in<lb/>étoit agoné d’sin pus brafe pou d’aller à l’messe et
+                    pis qu’après, in n’faisoit pus rin, sauf eul fême qui<lb/>f’soit à minger ;
+                    ch’étoit souvint du bouli bif, eine flamique aux porions ou bin au Maroilles,
+                    eine<lb/>tarte à l’oignon même que ch’és l’miux à sin grognon; quind
+                    ch’éoit pôs à nos mote, in li disoit pou<lb/>l’faire indever : « tout cha,
+                    ch’és d’el flamique parel à du pain!»; alle f’soit aussi du
+                    rassaquache,<lb/>et alfôs eine gleine ou bin ein lapin. In alloit ker aussi
+                    eine andoule ed’villache mon Jules (ch’étoit<lb/>ch’vindeus d’char!), in
+                    l’laissoit trimper (ch’l’andoule, pas Jules !) dins l’ieau toute eine nuit pou
+                        y<note><lb/>10 A Paris, is distent eine serpillère, més comme leu parlache
+                        i l’est moins riche qu’el’ not', is n’savtent point cojuguer;<lb/>nous
+                        z’autes, in dit « wassinguer » « loqueter », mais eusses, is n' distent
+                        point « serpillérer !»</note><fw type="numbering"><lb/>8</fw><pb
+                        facs="Picard_Concours_2020_48_p9.png"/><lb/>inl’ver ch’sé, et après in
+                    l’f’soit cuire pindint d’z’heures aveuk des légueimes (un tchot peu
+                    comme<lb/>du bouli) such racoin du fu ! In n’avoit chi eine beonne!</p>
+                <p><lb/>Quind in l’mingeoit, in s’mettoit à canter:</p>
+                <lg>
+                    <l><lb/>« Si t’arois v’nu,</l>
+                    <l><lb/>T’arois mingé d'l’andoule,</l>
+                    <l><lb/>Comme t’as pas v’nu,</l>
+                    <l><lb/>Alle a restée pindue!</l>
+                </lg>
+                <p><lb/>Eum' mère, alle f’soit bin du beon pâté d’lapin (In l’tuoit nous même et
+                    quind in l’avoit<lb/>rétindu, i falloit y saquer ein eul et y rassaquer
+                    s’pieau!), mais alle n’réussisoit pas trop sin<lb/>potjevleesch d’uch que
+                    l’gelèe alle n’étoit pas toudis fort bin prisse. Souvint aussi, alle f’soit
+                    eine<lb/>lanque ed' boeu aveuk eine séauce au Madère et plein d’cornicheons.
+                    Alle faisoit de l’fricassée (alfôs,<lb/>quind in n’avoit pus d’clôs,
+                    ch’étoit eine fricassée à pieds décaux!); quind je l’veyois k’mincher
+                    s’<lb/>platélée, j’avois l’doutance que j’devois l’assister et j’avois pus
+                    qu’à dire « quind in fait del ratatoule,<lb/>chés toudis mi qui toule !» Pou
+                    l’dessert, alle faisoit eine tarte au chuque ou bin eine tarte à prones;<lb/>à
+                    l'Toussaint, alle f’soit ein quiou, ch’étoit ein wâtiau, eine sort' ed'
+                    cauchon aux peummes, mais à l’<lb/>plach' ed' chés peummes, alle mettoit eine
+                    compot’e ed' chitroule!</p>
+                <p><lb/>El' jeudi, ch’étoit l’jour d’uch qu’in f’soit s’buée11 ; i falloit
+                    r’kémincher tous chés voïaches<lb/>aveuk nos sciaux d’ieau ; in remplissoit
+                    d’ieau l’batteuse, et in la f’soit cauffer en alleumant<lb/>ch’brûleur à gaz
+                    pasque chés batteuses, alles n’alloient pas tout seu comme achteur; in f’soit
+                    boulir<lb/>euch' linche, comme cha chés microp’es is z’étoient tués et in
+                    n’avoit pas b’zon d’mette toutes chés<lb/>bernoules qu’in met ach’teur et qu’in
+                    dôt acater à l’ker coûte; après eine paire ed' battées, y
+                    falloit<lb/>erséquer ch’linge en l’passant inter des rouleaux ; cha d’alloit
+                    point fort bien ! Eum’ mère, alle disoit<lb/>qu’in n’avoit pas à s’plainte
+                    passe que d’sin temps, cheul batteuse, ch’étoit eine sorte ed'
+                    chérène<lb/>aveuk eine grinte manoïelle, et alle devoit l’tourner pindint
+                    tout sin jeudi pou faire chés battées! Y<lb/>avoit du linche qui n’pouvoit pas
+                    d’aller dins l’bouleusse passe qu’i étoit trop boudré et qu’i l’aroit<lb/>tout
+                    acrapé. Min père i l’aconduisoit chés trains à vapeur, et i pelletoit du
+                    carbon toute eul journée;<lb/>quind i erv’noit i l’avoit ses toiles bleus
+                    d’arringés ! Pour ravoir s’casaque et s’maronne, i falloit les<lb/>faire
+                    trimper avint d’les orlaver, et pis après, in les mettoit sur eine planque et
+                    in les brouchoit aveuk<lb/>du savon noir; ch’étoit dur, més in ne
+                    s’délamintoit pas!</p>
+                <p><lb/>In avoit quind même des bons momints.</p>
+                <p><lb/>In erchevoit souvint de l’famile el' diminche; à Marcoing, cha d’alloit bin
+                    pou v’nir pasqu’i<lb/>avoit eine estatieon et l’diminche, y avoit ein train
+                    d’puss qu’in lonmoit « el' train du prévent » à<lb/>cause ed chés gins qui
+                    v’noient vir' leu famile qu’i z’avoient plachée dins ch' préventorium.
+                    Comme<lb/>in étoit eine mason ratintout, in étoit fin bénache ed les vir
+                    même si in disoit «is arrifent toudis pour<lb/>erléquer l’payelle ! » du côp,
+                    in f’soit guinse et in sin foutoit plin la lamp'; comme in dit toudis : «
+                    i<lb/>vaut miux penche épautrée que libouli laissé! », et pis à l’fin d’eul
+                    boustifale, après eine paire eud'<lb/>verres, in s’mettoit à canter (ch’és
+                    bin connu : mingeu d’maton, canteu d’canchons!) ; in n’pouvoit<lb/>pus minger
+                    passe qu’adù qu’Saint Arnould i étoit passé, Saint Honoré i n’pouvoit pus
+                    intrer, més in<lb/>ermerciot l’bo diu in réchitant « merci au bo diu et à ses
+                    saints, éme penche alle tint! » i n’n-avoit<lb/>aussi qui avoient toudis eine
+                    garlousette à débabeiner: in avoit bin du plaisi !</p>
+                <note><lb/>11 A Marcoing, y avoit eine vièle maîtresse in ertraite, qui étoit
+                    dev’une ein tchot peu toutoule, et qui disoit<lb/>toudis: « <foreign
+                        xml:lang="met-fr">Alors, là il y a de l’abus</foreign> » et mi, j'
+                    comperdois «y a d’la buee! » et je m’demindois bin pourquoi, y<lb/>avoit de
+                    l’buee!</note>
+                <fw type="numbering"><lb/>9</fw>
+            </div>
+            <div type="chapter" n="3">
+                <pb facs="Picard_Concours_2020_48_p10.png"/>
+                <head><lb/>Chés guernoulles ed’bénitcher</head>
+                <p><lb/>Dins ch’villache, i avoit gramint d’cinsiers et comme ch’étoient des gins
+                    d’contritieon is<lb/>alloient souvint à l’églisse; ch’étoit parel pou chés
+                    tiotes fabriques où ch’patron i d’alloit souvint alle<lb/>messe. Euch Mayeur, i
+                    n’étoit point trop de ch’bord là, mais comm' eusse fème ch’étoit eine
+                    vraie<lb/>bigote¹², i étoit quind même amisse aveuk euch' curé; in plusse cha
+                    y f’soit des vôx pou z’élections.<lb/>Ch’és comm' cha qu’euch curé, qui
+                    connaissoit tous chés gins qui pouvoient imbrocher, i avoit<lb/>beaucôp
+                    d’importanche; comm in plusse i erprésentoit l’morale, ch’és li qui pouvoit
+                    dire « ch’ti là,<lb/>ch’és quéqu’ein d’bin, i va alle messe tous les
+                    diminches !». Aussi, quind in cachoit ed’ l’ouvrache,<lb/>k’mint qu’in faisoit ?
+                    In alloit vir ch’curé, ch’mayeur ou ein patron, et pou ch’tit qui n’alloit pas
+                    alle<lb/>mess' i avoit cor euch' moaite qui pouvoit l’assister passe qu’i
+                    connaisoit aussi des gins, que ch’étoit<lb/>ein biau parleu, et qui savoit
+                    récrire des bielles babillartes! (I raccordoit comme ein life à
+                    clôs<lb/>d’argint!)</p>
+                <p><lb/>A Marcoing, ch'curé, ch’étoit ein viux d’la viel’; i étoit cor arnéqué
+                    aveuk eine soutane et ein<lb/>drôl' de capieau; nous z’autes, in derrière
+                    d’sin dos, in l’tariot aveuk ses longs cautreons ! Chés joenes<lb/>curés qui
+                    étoient fagotés comme des pasteurs inglais, is z’ y d’mindoient : « Min père,
+                    pourquô<lb/>qu’vous portez côr eul deul d’el marquisse ed' Pompadour?»
+                    Souvint, ch’curé i berdouilloit et i<lb/>k’minchoit à décarocher; in veyoit
+                    bin qu’i n’étoit pus dins s’n’inchimint ; i parloit mitan in
+                    français,<lb/>mitan in latin, mais i k’minchoit à l’pert' sin latin et comme
+                    dins l’timps (du timps d’chés rôs fégnants)<lb/>chés curés is avoient d’jà
+                    perdu leu latin, cha f’soit qu’i l’avoit perdu deux fôs!</p>
+                <p><lb/>Y avoit tout l’timps quette cosse à faire pou continter ch'curé! In
+                    k’minchoit l’in née aveuk<lb/>el' fiête des rôs; cha ch’étoit drol’ passe
+                    qu’in muchoit eine fèfe dins eine galette et chti qui<lb/>l’artrouvoit, i
+                    étoit l’rô. In féverrier, y avoit el fiête des fèmes qui étoit aussi
+                    l’fiête des candelles;<lb/>euch curé i disoit qu’y falloit warder l’crèche ed
+                    Noël jusqu’au 2 féverrier, mais quind j’disois cha à<lb/>m’mère, alle
+                    faisoit eine vie d’diap, alle bertonnoit : « pour mi te n’y es pus ! Te n’crôs
+                    tout d’même<lb/>pôs que j’vas warder cha tout'qu’à l’candeleur !» et pis alle
+                    ruoit ch’sapin. Euch curé i nous disoit<lb/>aussi qu’ch’étoit eine fiête ed
+                    bondiuseries passe que ch’étoit les erlévales 13 d’eul vierche,
+                    qu’alle<lb/>n’pouvoit pôs intrer dins ch’tempe avint quarinte jours pou
+                    présinter sin pétiot passe qu’alle n’étoit<lb/>point pure (allez raqueonter
+                    cha à chés fèmes d’ach’t’heure et vous verrez k’mint qu’ch’és
+                    qu’vous<lb/>s’rez erchus!); i nous disoit aussi qu’ch’étoit l’fiête des
+                    leumières passe que Jésus i avoit dit : « Jsus<lb/>el leumière et l’vie! »
+                    Alors, à nos masons, in f’soit des ratons qu’in faisoit sauter dins eine
+                    païelle<lb/>et cha rappeloit l’soleu, mais in avoit peur de l’vir euch soleu
+                    ce' jour là passe que ch’étoit l’sinifianche<lb/>que les courts jours i
+                    d’alloit ercmincher. Après, y avoit ch’carème, in n’pouvoit pus minger
+                    d’char<lb/>pindant quarinte jours (même si cha s’lonmoit les quater-timps), et
+                    in d’voit s’priver, mier du<lb/>pisson,..., nos panches alles n’arrêtoient pas
+                    d’gargouiller passe que cha nous saquoit à l’fossette ed<lb/>nos cœur, in
+                    n’pouvoit pus faire eud' fiêtes, eus' déguiser,... passe que ch’curé i disoit
+                    qu’chés<lb/>saturnales, ch’étoit païen, qu’cha d’alloit bin ein tchot momint,
+                    més quind alles étoient finies, falloit<lb/>ardev’nir saches. Heureusemint,
+                    après ch’étoit chés Pâques, et in pouvoit ercmincher à faire guinse;<lb/>in
+                    disoit toudis « in a canté Alléluia, in peut minger tout chou qu’in a! », mais
+                    i falloit faire ses<lb/>Pâques, in dvoit buquer à « Peccavi » et pour cha y
+                    falloit débabeiner à ch’curé tout jou qu’in avoit<lb/>fait d’travers avint
+                    d’pouvoir mier el corps du Christ. Pindint l’semonne sainte, i f’soit toudis
+                    frôd,<lb/>euch curé i arrêtoit d’berlander, et i nous f’sois acroire qu’chés
+                    cloques alles étoient parties à Rome;<lb/>pou nous dire ce’qu’in d’voit faire
+                    pindint ch’timps là, i l’inveyoit chés choraleux dins chés rues
+                        qui<note><lb/>12 Ché ein mot qui vient d’l’espagnol et qui veut dire «
+                        moustache »; cha vient du timps où z’espagnols is restoient dins<lb/>nos
+                        région et qu’leus saudarts is avoient eine moustache pou dominer chés gins
+                        quind is les ravisoient de haut. Is<lb/>z’alloient toudis alle messe pou
+                        moutrer qu’chétoit l’beonne crôyance dins ein racoin d’uch que chez gins
+                        is<lb/>protestoient beaucôp (in les lonmoit « des gueux ») Du côp, in s'
+                        moquoit d’eusse in disant : « chés bigotes, is vont<lb/>côr alle
+                        messe!»<lb/>13 Allez expliquer à ein garchonal jou qu'ché qu'des
+                        erlévales !</note><fw type="numbering"><lb/>10</fw><pb
+                        facs="Picard_Concours_2020_48_p11.png"/><lb/>nous berloient l’heure ed chés
+                    messes in f’sant claquer leus écalettes. A la fin, is erclamoient des
+                    clôs<lb/>in cantant :</p>
+                <lg>
+                    <l><lb/>Ohé ! Ohé, du fond du cœur</l>
+                    <l><lb/>Donnez queutte cosse aux z’infants d'chœur</l>
+                    <l><lb/>In jour viendra, Diũ vous l’rindra!</l>
+                    <l><lb/>Alléluia, Alléluia!</l>
+                </lg>
+                <p><lb/>Après les Pâques, ch’étoit l’ saiseon des gringottes et l’môs d’mai,
+                    ch’étoit l’môs d’Marie,<lb/>in alloit faire nos dévotions dins des capelles
+                    ed quartier à l’mason des vieles biques! Ed bite in bout<lb/>d’nos kémin, in
+                    intindoit voler chés hurlons, et alfôs, i n-n’a qui v’noient s’coller dins nos
+                    tignasse !<lb/>Quind in arrivoit dins l’capelle, y avoit ein dallache et pis ein
+                    drôle ed sintimint passe chés vieles<lb/>alles étoient toutoules et alles
+                    n’savoient pus faire leu ménache ni ringer leus vieizeries ! Alles
+                    avoient<lb/>eine turne ! Nous z’autes, in s’abannoit bin surtout quind in les
+                    véyoit mette leus lorgnons pou lire<lb/>chés prières et réchiter leus
+                    triolaines !</p>
+                <p><lb/>A l’estrême jour du môs, toutes chés capelles, alles partoient in
+                    processicon14 jusqu’à<lb/>ch’l’églisse pou réchiter insanne ein dernier
+                    capelet. Quarinte jours après Pâques, ch’étoit l’ascinsieon<lb/>et i falloit
+                    cor d’aller à l’messe passe que ch’étoit eine fiète d’obligeance, més in
+                    avoit kér quind<lb/>même passe que, comme ch’étoit ein jour d’ato, in
+                    n’alloit point à l’école. Dix jours après ch’étoit<lb/>l’pintecotte15, et
+                    là in pouvoit mette eusse n’habit toute et oute! Eul Pintecotte, ch’étoit
+                    l’jour ed<lb/>chés communions ; y avoit eine banse ed’curés passe qu’y falloit
+                    apointer chés communiants pindant<lb/>leu artraite ; au momint du sermeon,
+                    ch’curé i disoit : « pus tard, vous direz, ch’jour là, ch’étoit le
+                    pus<lb/>bieau jour d’em' vie16!»; les parints is z’invitoient toute leu famile
+                    surtout cheux qui étoient à leu<lb/>guife et in faisoit un rute gueulton, et
+                    pis surtout, el lend’min, y avoit raccros, et in alloit toudis pôs
+                    à<lb/>l’école!</p>
+                <p><lb/>Quinze jours après, ch’étoit l’fiête-Diu; y avoit cor' eine grinte
+                    processieon dins ch’villache,<lb/>et cheux qui v’noient ed' faire leu communion,
+                    y ermettoient leus arnicures aveuk un brassart pour<lb/>chés garchons, et leu
+                    rope ed communiantes pou chés files17. Ch’curé i défiloit in d’sous d’ein «
+                    dais »<lb/>qui étoit treondlé par quat' ménairs de ch’ villache; i moutroit
+                    ein ostensoir aveuk eine nieule ed’ dins<lb/>pou faire acroire qu’alle contenoit
+                    vraimint el corps du Christ 18! Les jésustresses alles avoient
+                    ajolié<lb/>chés rues du villache, et chez gosses is z’avoient rué plein d’
+                    rosses sul’ route avint l’orvue. Cheux<lb/>qui n’croyoient pôs in Diu, is
+                    restoient such' crébieon 19 et is cantoient au passache eine
+                    canchon<lb/>qu’étoit pôs vraimint chiroteusse:</p>
+                <lg>
+                    <l><lb/>« Vlla l’processieon qu’alle pas-sse</l>
+                    <l><lb/>Pas si vite, pas si vite</l>
+                    <l><lb/>Euch curé l’a des coliques!</l>
+                    <l><lb/>L’processieon alle est passée,</l>
+                    <l><lb/>Ch'curé l’a fait ses effets !»</l>
+                </lg>
+                <p><lb/>Eusses, is aroient plutôt canté eine oraison à saint fout l’camp!</p>
+                <p><lb/>Après, ch’étoit el Saint-Jean, ch’étoit le pus long jour ed l’ainnée ;
+                    in fsoit l’fiète dins chés<lb/>camps toute eul journée; au brun soir in
+                    f’soit un rute fu et in bruloit ein grind marmouset d’estrain.</p>
+                <note><lb/>14Chés processieons, alles pouvoient ête ébeubies, mès ch’Mayeur, i
+                    n’disoit rin, i fromoit ses yus !<lb/>15Y avoit ein aute dicton qui disoit :
+                    n'découffe pas tes côtes avint l’pintecotte<lb/>16Nous, in acoutoit, mais dins
+                    nos tiête in disoit : « cha chés pôs sûr! »<lb/>17Ch’étoit presque des
+                    ropes ed mariées !<lb/>18I lonmoit cha « eul transsubstantiation »<lb/>19Is
+                    s’mettoient quind même assez lon, car dins ch’timps là, y n’falloit pas trop
+                    rire aveuk cha! Comme in dit<lb/>souvint ; « ed l’avinche, ch’és toudis beon,
+                    cha n’sroit que pou s' seuver !»</note>
+                <fw type="numbering"><lb/>11</fw>
+                <pb facs="Picard_Concours_2020_48_p12.png"/>
+                <p><lb/>Après ch’étoit ch’quinsse d’août, més là in alloit à Cambrai d’uch
+                    qu’i avoit eine grante<lb/>ducasse, et l’matin, y avoit eine messe aveuk
+                    Monseigneur et eine processieon d’uch qu’in pormenoit<lb/>el' Saint-Sépulcre.
+                    Ch’étoit l’fiète d’eul dormition d’eul vierche et in n’avoit pôs
+                    l’drôt<lb/>d’ouvrer c’jour là; chés pour cha qu’in disoit toudis: « In n’dôt
+                    jinmais wuidier ein gvau au quinsse<lb/>d’août ! »</p>
+                <p><lb/>Après, ch’étoit l’Toussaint; ch’étoit pôs eine fiète païenne comme
+                    achteur aveuk Halloween<lb/>mès in f’soit quind même des tiêtes ed
+                    Marie-galousse, mès aveuk des beterafes! Ej n’avois point<lb/>fort ker cheul
+                    date là passe que ch’étoit aussi el fiéte des morts ; mès pour mi, ch’és
+                    l’jour d’uch que<lb/>j’ai mes âches, et ch’és toudis ein seombre anniversaire!
+                    In dvoit cor d’aller à l’messe et pis à ch’<lb/>gardin grêne-dints pou mette
+                    des saintes-catherines su chés tompes, més avint, i falloit les
+                    z’avoir<lb/>décrapées; ch’étoit ein rute ju!</p>
+                <p><lb/>Ch’étoit l’quéminchemint des satumnales; ch’étoient des vieles fiétes
+                    païennes que chés curés<lb/>is z’avoient erpris pour in faire des fiétes
+                    chrétiennes. I n-n’avoit gramint ; ch’étoit souvint l’fiéte<lb/>ed chés
+                    ouverriers comme eul Sainte-Barbe, eul Saint-Eloi; y avoit aussi eul
+                    Sainte-Cécile d’uch<lb/>qu’in juoit cor d’eul mujik dins ch’l’églisse. Y avoit
+                    surtout l’fiéte ed chés fil’es à l’Sainte-Catherine<lb/>et l’fiéte ed
+                    Saint-Nicolas pou chés garchons et chés alieuves; ch’étoit cor el grind
+                    Saint-Nicolas qui<lb/>répartoit chés jux à chés tchots et eine cougnole à
+                    chés écoliers.</p>
+                <p><lb/>Nous z’autes in cantoit :</p>
+                <lg>
+                    <l><lb/>Sainte-Catherine alle a cassé s terrine,</l>
+                    <l><lb/>Saint-Nicolas i li racommodra !20</l>
+                </lg>
+                <p><lb/>In finissoit ch’l’ainnée aveuk chés fietes ed Noël ; à l’école in nous
+                    donnoit cor des quenious<lb/>et à l’églisse, ch’curé i l’avoit fait eine
+                    grinde crêche; ch’moaite i nous apprenoit à canter « Min biau<lb/>sapin » et
+                    ch’curé: « i l’est né euch divine infant»; comme i faflioit, j’avois pôs bin
+                    intindu jou qu’il<lb/>avoit dit et j’avois compris ed travers, ej m’apinsois
+                    qu’i falloit canter « il est né eul 18 novempe »;<lb/>du côp comme j’savois
+                    qu’i décarochoit un tchot peu, j’avois fait Gros-jean qui ermoutre sin curé
+                    et<lb/>ej l’avois erpris in disant; « Ah nin M’sieu l’curé, i l’est point né
+                    el 18 novempe, il est né el 25<lb/>décempe! » Comme i savoit qu’j’étois ein
+                    moqueux d’gins, i avoit cru qu’ej me foutois d’li, i étoit<lb/>in farce et i
+                    m’avoit crié après ! Més, cha n’ fait rin, in s’étoit tertous artrouvés à
+                    l’messe ed minuit<lb/>d’uch qu’in a canté pindint eine heure et même qu’in a
+                    fini par canter tertous « I est né euch divine<lb/>infant!»</p>
+                <note><lb/>«Achteur, in n’oseroit pus canter cha, passe cha voudroit dire que chés
+                    files, alles sont tertoutes des toutoules et<lb/>qu’heurusemint qu’chés
+                    garchons is sont là pou ertaper leus sotries !</note>
+                <fw type="numbering"><lb/>12</fw>
+            </div>
+            <div type="chapter" n="4">
+                <pb facs="Picard_Concours_2020_48_p13.png"/>
+                <head><lb/>Pour in définir</head>
+                <p><lb/>Quind j’ai c’minché m’carabistoule, j’avois dit qu’eum vie alle n’étoit
+                    point fort bièle,<lb/>bin achteur vous savez ch’qu’i l’in est ! Ch’étoit pôs
+                    toudis drôle surtout pou z ’infints ; j’ai<lb/>l’raminvrance que Trénet i
+                    cantoit : « <foreign xml:lang="met-fr">Les enfants s’ennuient le
+                        dimanche</foreign> », bin pour<lb/>mi cha n’manquoit pas passe qu’in étoit
+                    toudis aveuk des viux!</p>
+                <p><lb/>Achteur, chés bin leon tout cha, ej sus in ertraite et j’n’ai pôs eu trop
+                    d’arnesses dins<lb/>m’vie, j’ai té fin bénache dins m’n’imploi, sins jamais
+                    ête jocqueu, j’ai eu des bièles vagances<lb/>et j’étois ein sorteu. In a eine
+                    bièle vôture d’uch qu’in peut acouter d’eul mujik et y a même<lb/>eine fême
+                    qui nous esplique qué k’min qu’i faut printe ! In a eine bièle mason (més
+                    chés pôs<lb/>ein catiau belle-moute quind même!) aveuk tout ch’qu’i faut pour
+                    ête à l’coïette : in a ein beon<lb/>cauffage et in n’a pus b’son d’mette eine
+                    caufrette dins chés lits; in a eine basse-cambe et in<lb/>doit pus d’aller
+                    dehors dins ch’cabinet; in a aussi eine plache d’uch qu’in peut s’orlaver
+                    aveuk<lb/>de caude ieau et in n’est pus obligés de s’décraper dins eine
+                    cuvielle; comme tertous in a<lb/>l’télé, l’téléphone, ein portape, ein
+                    carculoèr,... In a des tas d’otils pou faire eul linche, eul<lb/>vaisselle, eul
+                    ménache (in a ein beon chuche-pourète), et l’ cugène aveuk des tas d’
+                    plateines;<lb/>in peut warder s’boustifale dins eine ormoire à glache sins
+                    l’laicher musir dins s’bove. Chés<lb/>magasins, achteur, chés des grindes
+                    étendues et ch’és pus l’peine d’aller mon de ch’bouticlier!<lb/>In peut même
+                    s’faire abouler s’fristoule à s’mason!</p>
+                <p><lb/>Més, si in busie bin, in s’aperchoit qu’in terléonne dins s’carette quind
+                    i n-n’a des<lb/>boucheons, qu’in n’arrife pus à téléphoner passe qu’i faut
+                    toudis attinte, que l’calculoer i est<lb/>toudis incrinké, qu’eulle télé alle
+                    va alfôs d’chipe et d’chope; chés mécaniques ed ménache,<lb/>i faut les
+                    canger tous les chonq ans. Quind i n-n’a pus d’courant, in n’a pus cauffache,
+                    pus<lb/>d’fraique ormoire, pus d’caude ieau,..., in n’peut même pus s’faire à
+                    minger! Quind in est<lb/>malate, y n’a pus moïen ed’démucher ein cerusien;
+                    quind nos apparels is sont in raque, i n’a<lb/>pus personne pour les ertaper et
+                    i faut les foute à luche pis les canger; chés tout parel quind i<lb/>minque
+                    eine panne such tôt, il faut erfaire toute el tôiture!</p>
+                <p><lb/>Achteur, chés sinciers is sont malhureux ; chés gindarmes is ont des
+                    viéles vôtures21<lb/>et is ouvrent dins des viux buriaux, chés moaites
+                    d’écol’ is passtent pou des gugusses ! chés<lb/>définseus d’gins is ruent leu
+                    rope et is les brûlent !</p>
+                <p><lb/>Quind j’erchois eine babillarte d’euch banqu’tier et que j’ravise mes
+                    queomptes, je<lb/>m’délaminte in veïant tout jou qu’i m’ertiens alors qu’i n’a
+                    rin dins l’colonne « Erchettes »<lb/>Quind in a païé tous nos grataches, i
+                    n’reste pus grind quosse pou vife ; là eum vièle<lb/>moaitresse, alle pourroit
+                    dire : « i a vraimint d’l’abus ! »</p>
+                <p><lb/>El diminche, i n’a pus fiètes, i n’n-a pus gramind d’monte qu' i va à l’
+                    messe, i n’n-a<lb/>même pus d’curés pou dire chés messes, pou baptiser chés
+                    bimbins, pour intierrer chés gins;<lb/>y a même des curés qui eont rué leu
+                    froc aux ortilles ! In n’vôt pus personne dins chés rues;<lb/>Trénet si
+                    l’étoit core de ch’monte chi, i diroit : « In s’immerde tertous el
+                    diminche!»</p>
+                <p><lb/>Pour in définir, in étoit bin plus bénache dins min jeune timps, et m’vie
+                    alle étoit quind<lb/>même fin bièle!</p>
+                <note><lb/>21 Més nous z’autes, quind in a l’même carette, is nous mettent eine
+                    aminte!</note>
+                <fw type="numbering"><lb/>13</fw>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_48_p14.png"/>
+                <head><lb/>Lexique</head>
+                <fw type="numbering"><lb/>14</fw>
+
+                <list>
+                    <head><lb/>A</head>
+                    <item><lb/>- (s') Abannier !<foreign xml:lang="met-fr">
+                        s’amuser</foreign></item>
+                    <item><lb/>-Abistoquer :<foreign xml:lang="met-fr"> réparer</foreign></item>
+                    <item><lb/>-Achteur :<foreign xml:lang="met-fr"> maintenant</foreign></item>
+                    <item><lb/>-Accordance là z’et là :<foreign xml:lang="met-fr"> entente entre
+                            les deux</foreign></item>
+                    <item><lb/>-acrinkillache :<foreign xml:lang="met-fr"> ustensiles ;
+                            outillage...</foreign></item>
+                    <item><lb/>- Afiqueoter :<foreign xml:lang="met-fr"> tricoter</foreign></item>
+                    <item><lb/>-Agimoler :<foreign xml:lang="met-fr"> organiser</foreign></item>
+                    <item><lb/>- (s’)agoné d’sin pus brafe ;<foreign xml:lang="met-fr"> s’habiller
+                            avec,<lb/>ses plus beaux vêtements</foreign></item>
+                    <item><lb/>-Aites :<foreign xml:lang="met-fr"> concours</foreign></item>
+                    <item><lb/>-Aïude :<foreign xml:lang="met-fr"> aide</foreign></item>
+                    <item><lb/>-Ajolier :<foreign xml:lang="met-fr"> décorer
+                        joliment</foreign></item>
+                    <item><lb/>-Albodeu:<foreign xml:lang="met-fr"> négociant de piètre
+                            marchandise</foreign></item>
+                    <item><lb/>-Alieuves;<foreign xml:lang="met-fr"> élèves</foreign></item>
+                    <item><lb/>-Aller tout acdaliant :<foreign xml:lang="met-fr"> marcher de
+                            guingois</foreign></item>
+                    <item><lb/>-allurte :<foreign xml:lang="met-fr"> marche</foreign></item>
+                    <item><lb/>-aller à l’tique:<foreign xml:lang="met-fr"> pointer au
+                            chômage</foreign></item>
+                    <item><lb/>-Amindiche;<foreign xml:lang="met-fr"> engrais</foreign></item>
+                    <item><lb/>-Apointer :<foreign xml:lang="met-fr"> préparer</foreign></item>
+                    <item><lb/>-Apréseau ;<foreign xml:lang="met-fr"> automne</foreign></item>
+                    <item><lb/>-Arbrakète :<foreign xml:lang="met-fr"> binette</foreign></item>
+                    <item><lb/>-Arnesses :<foreign xml:lang="met-fr"> soucis,
+                        tracas</foreign></item>
+                    <item><lb/>-Arnicures :<foreign xml:lang="met-fr"> vêtements</foreign></item>
+                    <item><lb/>-Atarge (être à) :<foreign xml:lang="met-fr"> être en
+                            retard</foreign></item>
+                    <item><lb/>- avoir ed l’avinche :<foreign xml:lang="met-fr"> c’est
+                            avantageux</foreign></item>
+                    <item><lb/>-Avoir des picaïons :<foreign xml:lang="met-fr"> être
+                            riche</foreign></item>
+                    <item><lb/>-Avoir du touillache;<foreign xml:lang="met-fr"> se chamailler; se
+                            battre</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>B</head>
+                    <item><lb/>- Babilleux:<foreign xml:lang="met-fr"> auteur d’un écrit
+                            quelconque</foreign></item>
+                    <item><lb/>- Bacheiner :<foreign xml:lang="met-fr"> déranger
+                            ;<lb/>importuner;tourmenter</foreign></item>
+                    <item><lb/>-bachènes berneuses :<foreign xml:lang="met-fr">
+                        poubelles</foreign></item>
+                    <item><lb/>- Bénache:<foreign xml:lang="met-fr"> content</foreign></item>
+                    <item><lb/>-bédeo :<foreign xml:lang="met-fr"> mouton</foreign></item>
+                    <item><lb/>-Berlander:<foreign xml:lang="met-fr"> sonner les
+                        cloches</foreign></item>
+                    <item><lb/>- Berler :<foreign xml:lang="met-fr"> crier</foreign></item>
+                    <item><lb/>-Bièqu'ter:<foreign xml:lang="met-fr"> manger</foreign></item>
+                    <item><lb/>-(Ed) bite in bout :<foreign xml:lang="met-fr"> tout au
+                            long</foreign></item>
+                    <item><lb/>- Boudré :<foreign xml:lang="met-fr"> sale</foreign></item>
+                    <item><lb/>-bouticlier;<foreign xml:lang="met-fr"> boutiquier</foreign></item>
+                    <item><lb/>-Bove;<foreign xml:lang="met-fr"> cave</foreign></item>
+                    <item><lb/>- brun soir :<foreign xml:lang="met-fr"> tombée de la
+                        nuit</foreign></item>
+                    <item><lb/>-Buquer à « peccavi » :<foreign xml:lang="met-fr"> demander pardon
+                            en se <lb/>frappant la poitrine</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>C</head>
+                    <item><lb/>-Catiau belle-moute:<foreign xml:lang="met-fr"> maison tape à
+                            l’œil</foreign></item>
+                    <item><lb/>-cauderlier :<foreign xml:lang="met-fr">
+                        chaudronnier</foreign></item>
+                    <item><lb/>-Cautron, cotreon :<foreign xml:lang="met-fr"> jupon</foreign></item>
+                    <item><lb/>- Chérène:<foreign xml:lang="met-fr"> cuve</foreign></item>
+                    <item><lb/>-Chiroteusse:<foreign xml:lang="met-fr"> cléricale</foreign></item>
+                    <item><lb/>-Chuche-pourète;<foreign xml:lang="met-fr">
+                        aspirateur</foreign></item>
+                    <item><lb/>-Choraleux:<foreign xml:lang="met-fr"> enfants de
+                        chœur</foreign></item>
+                    <item><lb/>-Conterpied :<foreign xml:lang="met-fr"> contraire</foreign></item>
+                    <item><lb/>-Cougnole:<foreign xml:lang="met-fr"> brioche, coquille (de
+                            Noël)</foreign></item>
+                    <item><lb/>-Crapes :<foreign xml:lang="met-fr"> crasses</foreign></item>
+                    <item><lb/>-Crébieon :<foreign xml:lang="met-fr"> trottoir</foreign></item>
+                    <item><lb/>-Cugène:<foreign xml:lang="met-fr"> cuisine</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>D</head>
+                    <item><lb/>- Damache:<foreign xml:lang="met-fr"> dommage</foreign></item>
+                    <item><lb/>- Débabeiner :<foreign xml:lang="met-fr"> raconter</foreign></item>
+                    <item><lb/>- Décraper:<foreign xml:lang="met-fr"> nettoyer,
+                        récurer</foreign></item>
+                    <item><lb/>- Définir (pour en):<foreign xml:lang="met-fr"> (en)
+                            conclusion</foreign></item>
+                    <item><lb/>- S’déoker :<foreign xml:lang="met-fr"> se
+                        détacher</foreign></item>
+                    <item><lb/>-démiches;<foreign xml:lang="met-fr"> saletés</foreign></item>
+                    <item><lb/>- S’démoliner :<foreign xml:lang="met-fr"> tourner</foreign></item>
+                    <item><lb/>- desterminée :<foreign xml:lang="met-fr">
+                        détruite</foreign></item>
+                    <item><lb/>- Deufe:<foreign xml:lang="met-fr"> talus</foreign></item>
+                    <item><lb/>- Dins l’arla :<foreign xml:lang="met-fr"> dans la
+                        misère</foreign></item>
+                    <item><lb/>- Doutance:<foreign xml:lang="met-fr"> pressentiment</foreign></item>
+                    <item><lb/>-D’t’avau :<foreign xml:lang="met-fr"> partout</foreign></item>
+                    <item><lb/>- D’viser :<foreign xml:lang="met-fr"> parler</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>E</head>
+                    <item><lb/>- Ébeubies :<foreign xml:lang="met-fr"> interdites</foreign></item>
+                    <item><lb/>-Écalète :<foreign xml:lang="met-fr"> crécelle</foreign></item>
+                    <item><lb/>-Éclairchir;<foreign xml:lang="met-fr"> éclaircir;
+                            démarier</foreign></item>
+                    <item><lb/>- Egarber :<foreign xml:lang="met-fr"> mettre en
+                        gerbes</foreign></item>
+                    <item><lb/>- Épautré :<foreign xml:lang="met-fr"> éclaté</foreign></item>
+                    <item><lb/>-Erchiner :<foreign xml:lang="met-fr"> goûter</foreign></item>
+                    <item><lb/>- Erlévales :<foreign xml:lang="met-fr">
+                        relevailles</foreign></item>
+                    <item><lb/>-Ermoutrer :<foreign xml:lang="met-fr"> remontrer</foreign></item>
+                    <item><lb/>-Ertaper;<foreign xml:lang="met-fr"> réparer</foreign></item>
+                    <item><lb/>- Erwettier :<foreign xml:lang="met-fr"> regarder</foreign></item>
+                    <item><lb/>-Esclamache :<foreign xml:lang="met-fr"> exclamation</foreign></item>
+                    <item><lb/>- Estrain:<foreign xml:lang="met-fr"> paille</foreign></item>
+                    <item><lb/>- Estrême fôs :<foreign xml:lang="met-fr"> dernière
+                        fois</foreign></item>
+                    <item><lb/>-Eswardeux :<foreign xml:lang="met-fr"> inspecteurs<pb
+                                facs="Picard_Concours_2020_48_p15.png"/></foreign></item>
+                    <item><lb/>-État; Estile:<foreign xml:lang="met-fr"> profession ;
+                            métier</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>E</head>
+                    <item><lb/>- Faflier:<foreign xml:lang="met-fr"> s’exprimer avec
+                            peine.</foreign></item>
+                    <item><lb/>-Fergu :<foreign xml:lang="met-fr"> joyeux</foreign></item>
+                    <item><lb/>-Fétichure :<foreign xml:lang="met-fr"> panne,
+                        tuile</foreign></item>
+                    <item><lb/>- Fichéau :<foreign xml:lang="met-fr"> malin</foreign></item>
+                    <item><lb/>-Fouan :<foreign xml:lang="met-fr"> taupe</foreign></item>
+                    <item><lb/>- Fouer :<foreign xml:lang="met-fr"> foin</foreign></item>
+                    <item><lb/>- Fricassée :<foreign xml:lang="met-fr"> plat à base de pommes de
+                            terre;<lb/>fricassée à pieds décaux sans viande ni
+                        sauce!</foreign></item>
+                    <item><lb/>-Fristouille :<foreign xml:lang="met-fr"> cuisine</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>G</head>
+                    <item><lb/>-Galaffer (s’):<foreign xml:lang="met-fr"> se
+                        goinfrer</foreign></item>
+                    <item><lb/>- Gardin grêne-dints :<foreign xml:lang="met-fr">
+                            cimetière</foreign></item>
+                    <item><lb/>-Garlousette:<foreign xml:lang="met-fr"> petite histoire
+                            légère</foreign></item>
+                    <item><lb/>-(des) des gins d’contritieon:<foreign xml:lang="met-fr"> des
+                            dévots</foreign></item>
+                    <item><lb/>-Gîter :<foreign xml:lang="met-fr"> demeurer ;
+                        habiter</foreign></item>
+                    <item><lb/>- Glenne:<foreign xml:lang="met-fr"> poule</foreign></item>
+                    <item><lb/>- gorlier :<foreign xml:lang="met-fr"> bourrelier</foreign></item>
+                    <item><lb/>-Goujars :<foreign xml:lang="met-fr"> garçons de
+                        ferme</foreign></item>
+                    <item><lb/>-Gramint :<foreign xml:lang="met-fr"> beaucoup</foreign></item>
+                    <item><lb/>-Gratache :<foreign xml:lang="met-fr"> prélèvement</foreign></item>
+                    <item><lb/>-Guife:<foreign xml:lang="met-fr"> terme populaire pour désigner le
+                            visage</foreign></item>
+                    <item><lb/>-Guille;<foreign xml:lang="met-fr"> cheville;</foreign></item>
+                    <item><lb/>i l’a toudis eine guille à mette à ch’treu, :<foreign
+                            xml:lang="met-fr"> il a <lb/>toujours une cheville à mettre au trou
+                            !</foreign></item>
+                    <item><lb/>-Gvau; gveu :<foreign xml:lang="met-fr"> cheval</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>H</head>
+                    <item><lb/>-Haïure:<foreign xml:lang="met-fr"> Haie</foreign></item>
+                    <item><lb/>-Horzin :<foreign xml:lang="met-fr"> étranger</foreign></item>
+                    <item><lb/>-Houper :<foreign xml:lang="met-fr"> appeler</foreign></item>
+                    <item><lb/>-Hurette:<foreign xml:lang="met-fr"> heure (petite)</foreign></item>
+                </list>
+                <list>
+                    <head>I</head>
+                    <item>I:<foreign xml:lang="met-fr"><lb/>il</foreign></item>
+                    <item><lb/>-In' na:<foreign xml:lang="met-fr"> il y en a</foreign></item>
+                    <item><lb/>-iau :<foreign xml:lang="met-fr"> eau</foreign></item>
+                    <item><lb/>— Ichi :<foreign xml:lang="met-fr"> ici</foreign></item>
+                    <item><lb/>- Imbrocher :<foreign xml:lang="met-fr"> embaucher</foreign></item>
+                    <item><lb/>-In :<foreign xml:lang="met-fr"> en</foreign></item>
+                    <item><lb/>-I n’étoit pus dins s’n’inchimint :<foreign xml:lang="met-fr"> il
+                            n’avait plus <lb/>toute sa conscience (de lui-même)</foreign></item>
+                    <item><lb/>-Incranqu’lier :<foreign xml:lang="met-fr"> arrêter</foreign></item>
+                    <item><lb/>-indever :<foreign xml:lang="met-fr"> énerver;
+                        exciter</foreign></item>
+                    <item><lb/>- Inforché comme eine glenne à trinte six <lb/>pouchins ! <foreign
+                            xml:lang="met-fr">Empressé ; agité ; qui ne sait plus où <lb/>donner
+                            de la tête!</foreign></item>
+                    <item><lb/>- insanne :<foreign xml:lang="met-fr"> ensemble</foreign></item>
+                    <item><lb/>-intermêler:<foreign xml:lang="met-fr"> mélanger</foreign></item>
+                    <item><lb/>-interténir :<foreign xml:lang="met-fr"> élever</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>J</head>
+                    <item><lb/>-Jauser:<foreign xml:lang="met-fr"> vérifier</foreign></item>
+                    <item><lb/>- jésustresses :<foreign xml:lang="met-fr">
+                        dévotes</foreign></item>
+                    <item><lb/>-Jocqueu:<foreign xml:lang="met-fr"> chômeur</foreign></item>
+                    <item><lb/>- Jou, chou :<foreign xml:lang="met-fr"> ce</foreign></item>
+                    <item><lb/>- Jour d’ato :<foreign xml:lang="met-fr"> jour
+                        férié</foreign></item>
+                    <item><lb/>- Juer :<foreign xml:lang="met-fr"> jouer</foreign></item>
+                    <item><lb/>-juer l’obit des kiens:<foreign xml:lang="met-fr"> fanfare qui joue
+                            mal</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>K</head>
+                    <item><lb/>-Ker (avoir) :<foreign xml:lang="met-fr"> aimer</foreign></item>
+                    <item><lb/>-Kère:<foreign xml:lang="met-fr"> tombereau</foreign></item>
+                    <item><lb/>-Kère (aller) :<foreign xml:lang="met-fr"> chercher</foreign></item>
+                    <item><lb/>-Kvau; kévau :<foreign xml:lang="met-fr"> chevaux</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>L</head>
+                    <item><lb/>- Lasareux :<foreign xml:lang="met-fr"> misérables</foreign></item>
+                    <item><lb/>- el lavette alle brûle toudis :<foreign xml:lang="met-fr"> on se
+                            dispute<lb/>toujours.</foreign></item>
+                    <item><lb/>- Légueimes :<foreign xml:lang="met-fr"> légumes</foreign></item>
+                    <item><lb/>- libouli :<foreign xml:lang="met-fr"> crème dont on garnit les
+                            tartes <lb/>(tarte au libouli)</foreign></item>
+                    <item><lb/>- Lincheu :<foreign xml:lang="met-fr"> drap</foreign></item>
+                    <item><lb/>- Lokter:<foreign xml:lang="met-fr"> passer la
+                        serpillère</foreign></item>
+                    <item><lb/>-Lonmer:<foreign xml:lang="met-fr"> nommer ; appeler</foreign></item>
+                    <item><lb/>-Loucher :<foreign xml:lang="met-fr"> bêche</foreign></item>
+                    <item><lb/>-Lusieau :<foreign xml:lang="met-fr"> cercueil</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>M</head>
+                    <item><lb/>-Manoïelle:<foreign xml:lang="met-fr"> manivelle</foreign></item>
+                    <item><lb/>- Marie-galousse:<foreign xml:lang="met-fr"> sorcière qui effraye
+                            les <lb/>enfants</foreign></item>
+                    <item><lb/>-Margnouffe:<foreign xml:lang="met-fr"> raclée</foreign></item>
+                    <item><lb/>-Marissieu :<foreign xml:lang="met-fr">
+                        maréchal-ferrant</foreign></item>
+                    <item><lb/>-Marmouset :<foreign xml:lang="met-fr"> épouvantail</foreign></item>
+                    <item><lb/>-Martin-rivière;<foreign xml:lang="met-fr">
+                            martin-pêcheur</foreign></item>
+                    <item><lb/>-Mékène:<foreign xml:lang="met-fr"> servante; femme de
+                            ménage</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>15</fw>
+                <pb facs="Picard_Concours_2020_48_p16.png"/>
+                <list>
+                    <item><lb/>-Ménairs:<foreign xml:lang="met-fr"> riches
+                        bourgeois</foreign></item>
+                    <item><lb/>-Mette eusse n’habit toute et oute :<foreign xml:lang="met-fr">
+                            mettre ses <lb/>habits d’été</foreign></item>
+                    <item><lb/>- Mingeu d’maton, canteu d’canchons!<foreign xml:lang="met-fr"
+                            ><lb/>Mangeur de crème dessert (ou de tarte à la crème),<lb/>chanteur
+                            de chansons!</foreign></item>
+                    <item><lb/>-Momeux :<foreign xml:lang="met-fr"> triste</foreign></item>
+                    <item><lb/>-mulquiniers :<foreign xml:lang="met-fr"> tisseurs de
+                        lin</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>N</head>
+                    <item><lb/>« Neom ch’té:<foreign xml:lang="met-fr"> sumom;
+                        sobriquet</foreign></item>
+                    <item><lb/>-Nieule :<foreign xml:lang="met-fr"> hostie</foreign></item>
+                    <item><lb/>-nunu chin-chin:<foreign xml:lang="met-fr"> méticuleux à l’extrême
+                            pourfaim <lb/>des détails sans importance</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>O</head>
+                    <item><lb/>- Orjeter;<foreign xml:lang="met-fr"> éliminer</foreign></item>
+                    <item><lb/>-Orvue:<foreign xml:lang="met-fr"> revue; défilé</foreign></item>
+                    <item><lb/>-Otius; otils :<foreign xml:lang="met-fr"> outils</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>P</head>
+                    <item><lb/>-Pâchis;<foreign xml:lang="met-fr"> pâtures</foreign></item>
+                    <item><lb/>—Parlache:<foreign xml:lang="met-fr"> langage</foreign></item>
+                    <item><lb/>- Pasquille;<foreign xml:lang="met-fr"> écrit
+                        satirique</foreign></item>
+                    <item><lb/>-penche; panche :<foreign xml:lang="met-fr"> ventre</foreign></item>
+                    <item><lb/>-Plaids (faire ses);<foreign xml:lang="met-fr"> faire des
+                            discours</foreign></item>
+                    <item><lb/>-Plateines :<foreign xml:lang="met-fr"> ustensiles de
+                            cuisine</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>Q</head>
+                    <item><lb/>-Quéqu'ein<foreign xml:lang="met-fr"> quelqu'un</foreign></item>
+                    <item><lb/>-Queute :<foreign xml:lang="met-fr"> coudre</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>R</head>
+                    <item><lb/> Rachaf ter :<foreign xml:lang="met-fr"> bricoler</foreign></item>
+                    <item><lb/>- Raccorter :<foreign xml:lang="met-fr"> raconter</foreign></item>
+                    <item><lb/>-rafourrer:<foreign xml:lang="met-fr"> donner à manger aux
+                            bestianx</foreign></item>
+                    <item><lb/>- Raine, guernoulle :<foreign xml:lang="met-fr">
+                            grenouille.</foreign></item>
+                    <item><lb/>-S’ramintuver s’lesson :<foreign xml:lang="met-fr"> retenir sa
+                            leçon</foreign></item>
+                    <item><lb/>-Raminvrance;<foreign xml:lang="met-fr"> souvenance</foreign></item>
+                    <item><lb/>— Rire plin s’panche :<foreign xml:lang="met-fr"> rire à ventre
+                            déployé</foreign></item>
+                    <item><lb/>- Rapurètes :<foreign xml:lang="met-fr">
+                        récréations</foreign></item>
+                    <item><lb/>-Raque (in) :<foreign xml:lang="met-fr"> en panne</foreign></item>
+                    <item><lb/>- Répartition :<foreign xml:lang="met-fr">
+                        distribution</foreign></item>
+                    <item><lb/>- Ratour :<foreign xml:lang="met-fr"> tour</foreign></item>
+                    <item><lb/>- Réparter :<foreign xml:lang="met-fr"> distribuer</foreign></item>
+                    <item><lb/>« Rintchintchin :<foreign xml:lang="met-fr"> musique de piètre
+                            qualité</foreign></item>
+                    <item><lb/>-roye:<foreign xml:lang="met-fr"> frontière</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>S</head>
+                    <item><lb/>- Des Saintes-Catherines:<foreign xml:lang="met-fr"> des
+                            chrysanthèmes</foreign></item>
+                    <item><lb/>-(L’) saiseon des gringottes :<foreign xml:lang="met-fr"> le
+                            printemps</foreign></item>
+                    <item><lb/>Saquer à l’fossette ed nos cœurs :<foreign xml:lang="met-fr"> avoir
+                            grand¬</foreign></item>
+                    <item><lb/>-Saudart :<foreign xml:lang="met-fr"> soldat,
+                        militaire</foreign></item>
+                    <item><lb/>Sinifianche:<foreign xml:lang="met-fr">
+                        signification</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>T</head>
+                    <item><lb/>-Tarier:<foreign xml:lang="met-fr"> se moquer (de
+                            quelqu’un)</foreign></item>
+                    <item><lb/>-Traiter :<foreign xml:lang="met-fr"> injurier,
+                        insulter</foreign></item>
+                    <item><lb/>-Terleonner;<foreign xml:lang="met-fr"> perdre son
+                        temps</foreign></item>
+                    <item><lb/>-Tierquer:<foreign xml:lang="met-fr"> charger</foreign></item>
+                    <item><lb/>-Timpe (s’lever) :<foreign xml:lang="met-fr"> se lever
+                        tôt</foreign></item>
+                    <item><lb/>-(du) Timps d’chés vièles guerres :<foreign xml:lang="met-fr">
+                            autrefois</foreign></item>
+                    <item><lb/>-(du) Timps du viux beon Dieu :<foreign xml:lang="met-fr">
+                            autrefois</foreign></item>
+                    <item><lb/>-Treondler :<foreign xml:lang="met-fr">Traîner</foreign></item>
+                    <item><lb/>-Triolaines:<foreign xml:lang="met-fr"> litanies</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>V</head>
+                    <item><lb/>- (être) vif comme ein crapieau dins les chintes:<foreign
+                            xml:lang="met-fr"><lb/>être très lent</foreign></item>
+                    <item><lb/>- vilettes :<foreign xml:lang="met-fr"> fleurs</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>W</head>
+                    <item><lb/>-warder;<foreign xml:lang="met-fr"> garder</foreign></item>
+                    <item><lb/>- Wuidier ein gvau :<foreign xml:lang="met-fr"> sortir un cheval
+                            (pour le <lb/>faire travailler)</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>16</fw>
+            </div>
+        </body>
+    </text>
 </TEI>
