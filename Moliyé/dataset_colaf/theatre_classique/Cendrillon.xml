@@ -1,0 +1,2206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_009</idno>
+<title type="main">CENDRILLON, OPÉRA-COMIQUE.</title>
+<title type="collection">Moliyé</title>
+<author>Louis ANSEAUME (1721-1784)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janes</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k5734399x"/>
+<title>CENDRILLON, OPÉRA-COMIQUE.</title>
+<author>Louis ANSEAUME (1721-1784)</author>
+<publisher>Gallica</publisher>
+<date when="1759"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k5734399x"/>
+<title>CENDRILLON, OPÉRA-COMIQUE.</title>
+<author>Louis ANSEAUME (1721-1784)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="CENDRILLON">
+<persName>CENDRILLON</persName>
+</person>
+<person xml:id="LA_MARAINE">
+<persName>LA MARAINE</persName>
+</person>
+<person xml:id="LA_SOEUR_AINÉE">
+<persName>LA SOEUR AINÉE</persName>
+</person>
+<person xml:id="LA_SOEUR_CADETTE">
+<persName>LA SOEUR CADETTE</persName>
+</person>
+<person xml:id="AZOR">
+<persName>AZOR</persName>
+</person>
+<person xml:id="PIERROT">
+<persName>PIERROT</persName>
+</person>
+<person xml:id="UN_OFFICIER">
+<persName>UN OFFICIER</persName>
+</person>
+<person xml:id="UN_SUISSE">
+<persName>UN SUISSE</persName>
+</person>
+<person xml:id="CHOEUR_DES_FEMMMES">
+<persName>CHOEUR DES FEMMMES</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>CENDRILLON</p></div><div type="liminal"><p>OPÉRA-COMIQUE</p></div></div><div type="liminal"><p>M. DCC LIX. Avec Approbation et Privilège du Roi.</p></div><div type="liminal"><p>De Mr. ANSEAUME.</p></div><div type="liminal"><head>APPROBATION.</head><p>J'ai lu, par ordre de Monseigneur le Lieutenant Général de Police, Cendrillon, Opéra Comique, et je crois qu'on peut en permettre la représentation et l'impression. À Paris, ce 9 février 1759.</p><p>CRÉBILLON.</p><p>Le Privilège et l'Enregistrement se trouvent au tome I du nouveau Théâtre de la Foire, ou Nouveau recueil des pièces représentées sur le théâtre de l'Opéra-comique depuis son établissement jusqu'à présent.</p></div>À Paris, Chez N.B. DUCHESNE. Librairie ; rue Saint-Jacques, au-dessous de la Fontaine Saint Benoît, au Temple du Goût.<div type="liminal"><p>Représentée pour la première fois à la Foire Saint-Germain, le 20 Février 1759.</p></div><list><head>ACTEURS</head><item>CENDRILLON, Mlle Villemont.</item><item>LA MARAINE, Mlle Constantin.</item><item>LA SOEUR AINÉE, Mlle Vincent.</item><item>LA SOEUR CADETTE, Mlle Deschamps.</item><item>AZOR, M. La Ruette.</item><item>PIERROT, M. Paran.</item><item>UN OFFICIER, M. Delisle.</item><item>UN SUISSE, M. Moreau.</item><item>CHOEUR DES FEMMMES.</item></list><p>La Scène est dans la maison de Cendrillon et ensuite dans le Palais d'Azor.</p></div>
+<div n="1" type="act">
+<head/>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE.</head>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : La sagesse est de bien aimer N°1</stage>
+<l>Des rigueurs d'un cruel destin,</l>
+<l>Aurai-je toujours à me plaindre ?</l>
+<l>Un faible espoir me luit en vain,</l>
+<l>Je n'en ai pas moins tout à craindre.</l>
+<l>Des rigueurs d'un cruel destin,</l>
+<l>Aurai-je toujours à me plaindre ?</l>
+<stage>Récitatif De M. de la Ruette. N°2</stage>
+<l>J'ai joui cette nuit du spectacle enchanteur,</l>
+<l>Qu'étale aux yeux la Cour la plus brillante ;</l>
+<l>Un Prince à mes genoux exprimait son ardeur...</l>
+<l>Il ne me reste hélas ! de toute ma grandeur,</l>
+<l>Qu'un souvenir qui me tourmente.</l>
+<stage>Air : De tous les Capucins du Monde.</stage>
+<l>J'aperçois venir ma Maraine,</l>
+<l>Sa présence augmente ma peine ;</l>
+<l>À ses lois j'ai désobéi ;</l>
+<l>Quel reproche elle va me faire !</l>
+<l>Seule sensible à mon ennui,</l>
+<l>Elle me tenoit lieu de mère.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. La Maraine, Cendrillon.</head>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air: Le moyen de faire autrement. Du Peintre amoureux, N° 3.</stage>
+<l>Ah ! Dans quel état je vous vois !</l>
+<l>Ne cherchez point d'excuse ;</l>
+<l>Je devine aisément pourquoi</l>
+<l>Vous n'avez point suivi ma loi.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Il est vrai, j'en suis confuse,</l>
+<l>J'en suis confuse.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Ah ! vraiment, je le crois :</l>
+<l>Mais pourquoi ce manque de foi,</l>
+<l>Ce manque de foi ?</l>
+<l>Fillette toujours raisonne,</l>
+<l>Et n'écoute personne,</l>
+<l>Quand on s'oppose à son penchant.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Non, non, c'est que, ma Bonne,</l>
+<stage>Bis.</stage>
+<l>Je n'ai pas pu faire autrement.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Il fallait n'en croire que moi ;</l>
+<l>Il fallait mieux suivre ma loi.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Il est vrai, mais ma folie</l>
+<l>Est bien punie ;</l>
+<l>Un moment !...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Un moment</l>
+<l>Fait effet :</l>
+<l>On s'y plaît,</l>
+<l>On s'en fait</l>
+<l>Un amusement.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Pardon, ma Bonne,</l>
+<l>Pardon, ma Bonne,</l>
+<l>Je n'ai pas pu faire autrement.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Oui ! Oui !</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Pardon, ma Bonne,</l>
+<l>Je n'ai pas pu faire autrement.</l>
+<stage>Bis.</stage>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Si Diogène était réputé sage.</stage>
+<l>Par un effet de mon pouvoir magique,</l>
+<l>Pour relever l'éclat de vos appas,</l>
+<l>Je vous ai mis un habit magnifique,</l>
+<l>Nombreux cortège accompagnait vos pas,</l>
+<l>Je n'exigeais de votre obéissance</l>
+<l>Que de sortir du bal avant minuit ;</l>
+<l>Faute d'avoir observé ma défense,</l>
+<l>De mes bontés vous perdez tout le fruit.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : de Monsieur La Ruette. N° 4.</stage>
+<l>Je le sais bien,</l>
+<l>J'ai tout perdu ;</l>
+<l>En moins de rien,</l>
+<l>Tout a disparu :</l>
+<l>Que le sort me traite,</l>
+<l>S'il veut, sans pitié ;</l>
+<l>Non, je ne regrette</l>
+<l>Que votre amitié,</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : De tout temps le jardinage.</stage>
+<l>Vous me serez toujours chère ;</l>
+<l>Ne craignez plus ma colère.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Ah ! Que mon coeur est content !</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Mais par un aveu sincère,</l>
+<l>Je veux savoir le mystère</l>
+<l>De ce long retardement.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : La Fustemberg.</stage>
+<l>Vous m'allez gronder encore.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Non, vous dis-je, ne craignez rien ;</l>
+<l>Il faut bien</l>
+<l>M'apprendre ce que j'ignore ;</l>
+<l>Croyez-moi, c'est pour votre bien.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Je n'en doute pas, Madame,</l>
+<l>Il faut donc vous ouvrir mon âme.</l>
+<l>Qui m'eût dit qu'un bal...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Hé bien ! Ce bal ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Dut m'être si fatal !</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Que vous me causez d'alarmes !</l>
+<l>Mais, comment donc ?</l>
+<l>Quelle raison,</l>
+<stage>Bis.</stage>
+<l>Vous fait verser des larmes ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>J'en ai bien sujet.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Quel est ce secret ?</l>
+<l>Qu'est-ce qu'on vous a fait ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : D'm'avoir instruit de mon bien.</stage>
+<l>J'arrivai dans le Palais</l>
+<l>D'aise transportée ;</l>
+<l>De tout ce que je voyais,</l>
+<l>J'étais enchantée,</l>
+<l>Un Prince...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Ah ! Nous y voilà.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Un Prince s'est trouvé là.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Vous a-t-il fâchée ?</l>
+<l>Ô gué !</l>
+<l>Vous a-t-il fâchée ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : L'honneur dans un jeune Tendron.</stage>
+<l>Le connaissez-vous ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Oui, vraiment.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>N'est-il pas vrai qu'il est charmant ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Si vous voulez même adorable ;</l>
+<l>Laissez-là son mérite à part ;</l>
+<l>Voyons en quoi ce Prince aimable</l>
+<l>Aurait pu vous manquer d'égard.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Les yeux baissés par modestie. N° 5.</stage>
+<l>Les yeux vers moi tournés sans cesse,</l>
+<l>Tendrement il me regardait,</l>
+<l>De ses regards la douceur et l'ivresse.</l>
+<l>M'inspiraient ce qu'il ressentait.</l>
+<stage>Bis.</stage>
+<l>À mes côtés est une place,</l>
+<l>Il s'en saisit ;</l>
+<l>Il s'enhardit,</l>
+<l>Je m'attendris ;</l>
+<l>Je veux le fuir, et je ne puis,</l>
+<l>Je veux fuir et ne puis,</l>
+<stage>Bis.</stage>
+<l>Je veux le fuir, et je ne puis.</l>
+<l>Déjà mon trouble augmentait son audace,</l>
+<l>Quand minuit sonna,</l>
+<l>Et tout finit là.</l>
+<stage>Air : Plus inconstant.</stage>
+<l>Comme un éclair, soudain je prends la fuite ;</l>
+<l>En entendant l'heure qui me chassait ;</l>
+<l>On se met à ma poursuite,</l>
+<l>Mais en vain on me cherchait...</l>
+<stage>Air : Folies d'Espagne.</stage>
+<l>Je n'étais plus ce qu'ils me croyaient être,</l>
+<l>Ils me voyaient sans suite et sans éclat ;</l>
+<l>Comment, hélas ! M'auraient-ils pu connaître !</l>
+<l>Je m'ignorais moi-même en cet état.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Le Pont d'Avignon.</stage>
+<l>Ce changement n'a rien qui doive vous surprendre ;</l>
+<l>Je crains plutôt pour vous un sentiment trop tendre.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Dondaine.</stage>
+<l>Je ne saurais vous le cacher,</l>
+<l>Je ne saurais vous le cacher,</l>
+<l>Ce Prince a trop su me toucher ;</l>
+<l>Je l'aime, je l'aime :</l>
+<l>Le croyez-vous épris pour moi de même ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : De Joconde.</stage>
+<l>Si vous l'aviez trop rebuté...</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Oh ! non.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Je dois le croire ;</l>
+<l>Si vous n'avez rien accordé,</l>
+<l>Qui blesse votre gloire.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Je sais trop ce que je me dois ;</l>
+<l>Pour me laisser surprendre ;</l>
+<l>Il n'a rien obtenu de moi,</l>
+<l>Que ce qu'il m'a su prendre.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Des Francs-Maçons.</stage>
+<l>Et que vous a-t-il pris ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Ma Bonne...</l>
+<l>Que dire, hélas !</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Répondez-moi, je vous l'ordonne ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Quel embarras !</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Et pourquoi donc ces sots scrupules ?</l>
+<l>Surcoût craignez de me tromper.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Il m'a pris une de mes mules ;</l>
+<l>Qu'en fuyant j'ai laissé tomber.</l>
+<stage>Air : Entre l'Amour et la Raison.</stage>
+<l>Je n'en ai plus qu'une à présent;</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Consolez-vous, ma chère enfant,</l>
+<l>On peut réparer ce dommage </l>
+<l>Au fond je n'y vois pas grand mal.</l>
+<l>Que de Beautés sortant du Bal</l>
+<l>Ont souvent perdu davantage !</l>
+<stage>Air : Quand je tiens de ce jus d'Octobre.</stage>
+<l>Vos soeurs en reviennent sans doute,</l>
+<l>Ce bruit annonce leur retour ;</l>
+<l>Rentrez, et quoi qu'il vous en coûte ;</l>
+<l>Tâchez de vaincre votre amour.</l>
+<stage>Elles sortent.</stage>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Les Deux Soeurs.</head>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Non, je n'aimerai jamais que vous.</stage>
+<l>Rien, en vérité n'est si plaisant ;</l>
+<l>Nos appas ont fait fortune assurément :</l>
+<l>Rien, en vérité, n'est si plaisant,</l>
+<l>À chaque moment,</l>
+<l>C'était nouveau Galant.</l>
+<l>Ce gros caissier qui croyait me connaître,</l>
+<l>M'a-t-il tenu des propos assez doux ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Ce Sénateur, en léger Petit-Maître,</l>
+<l>M'a-t-il assez étalé ses bijoux ?</l>
+<l>Rien, en vérité, n'est si plaisant ;</l>
+<l>Nos appas ont fait fortune assurément :</l>
+<l>Rien, en vérité, n'est si plaisant,</l>
+<l>À chaque moment,</l>
+<l>C'était nouveau Galant.</l>
+<stage>Air : Tout roule aujourd'hui dans le monde.</stage>
+<l>Mais cela ne me touche guère ;</l>
+<l>Je dédaigne de tels objets.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Sans crainte de passer pour fière,</l>
+<l>Je porte plus haut mes projets.</l>
+<l>Le destin qui pour moi s'apprête</l>
+<l>Flatte mon coeur ambitieux.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Une plus illustre conquête</l>
+<l>Peut seule contenter mes voeux.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Avec un air de mystère.</stage>
+<l>Un Amant pour moi soupire,</l>
+<l>Dont je dois taire le nom.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Quelqu'un, que je n'ose dire,</l>
+<l>De son coeur m'a fait le don.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Mais à t'en faire un mystère,</l>
+<l>Mon amitié souffrirait.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Pour une soeur aussi chère,</l>
+<l>Puis-je avoir quelque secret ?</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Tout consiste dans la manière.</stage>
+<l>Si j'obtiens ce que je désire ,</l>
+<l>Vous en sentirez les effets.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Si j'atteins le but où j'aspire,</l>
+<l>C'est pour combler tous vos souhaits.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Oui, disputons cet avantage</l>
+<l>Entre nous deux ;</l>
+<l>Le bonheur qu'ainsi l'on partage</l>
+<l>Se goûte mieux.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<stage>Air : Tomber dedans.</stage>
+<l>Quel est ce captif glorieux ,</l>
+<l>Qu'Amour met en votre puissance ?</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Quel est cet amant dont les feux</l>
+<l>Enflent si fort votre espérance ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Devinez.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Non, dites-le moi.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Ma chère, c'est le fils du Roi.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Le fils du Roi !</l>
+<l>Le fils du Roi !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Et oui vraiment, le fils du Roi.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Mon petit doigt me l'a dit.</stage>
+<l>La conquête est glorieuse !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Ne suis-je pas bien heureuse ?</l>
+<l>Il veut me donner sa foi.</l>
+<l>C'est votre tour à me dire,</l>
+<l>Quel amant suit votre empire.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>C'est, ma soeur, le fils du Roi.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<stage>Air : Dieu des Amants.</stage>
+<l>Le fils du Roi !</l>
+<l>Vous raillez, je crois !</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Non, vraiment ; rien n'est plus véritables.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Je n'en crois rien.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Moi, je le crois bien ;</l>
+<l>Votre avis ne détruit pas le mien.</l>
+<l>Vous êtes fort aimable,</l>
+<l>J'en conviendrai ; mais,</l>
+<l>Malgré tous vos attraits,</l>
+<l>Croyez qu'on est capable,</l>
+<l>Quand on le voudra,</l>
+<l>D'effacer ces traits là.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Ce n'est pas vous.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Ce sera moi.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Mais il faut être de bonne foi :</l>
+<l>Jusqu'à présent votre beauté,</l>
+<l>En vérité,</l>
+<l>N'a point trop éclaté.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Petite impertinente !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Eh ! Bien, j'avouerai,</l>
+<l>Partout je publierai,</l>
+<l>Que vous êtes charmante ;</l>
+<l>Sûre qu'en ce point,</l>
+<l>On ne me croira point.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Jupin dès le matin.</stage>
+<l>Vous me poussez à bout,</l>
+<l>Vous cherchez, en tout,</l>
+<l>À combattre mon goût ;</l>
+<l>Votre humeur</l>
+<l>Montre tant d'aigreur,</l>
+<l>Qu'à nous séparer,</l>
+<l>Il faut vous préparer :</l>
+<l>Un excès de fierté,</l>
+<l>De vanité,</l>
+<l>Sans rime ni raison,</l>
+<l>Vous donne un ton ;</l>
+<l>Il semble qu'en ces lieux,</l>
+<l>Jeunes et vieux</l>
+<l>Viennent se brûler aux feux</l>
+<l>De vos yeux :</l>
+<l>Vous voyez cependant,</l>
+<l>Le plus souvent,</l>
+<l>Qu'on vous laisse à l'écart ;</l>
+<l>C'est un hasard,</l>
+<l>Quand quelque freluquet</l>
+<l>Daigne sourire à votre air coquet.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<stage>Air : Plus les amants vivront.</stage>
+<l>Criez tout à loisir :</l>
+<l>Un jour à venir,</l>
+<l>Je saurai répondre ;</l>
+<l>Je vais, pour vous confondre,</l>
+<l>Monter au rang</l>
+<l>Qui m'attend.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>À ce rang désiré ,</l>
+<l>On peut me conduire ;</l>
+<l>Je vous y préviendrai.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Vous me faites rire !</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Cendrillon, que je vois là,</l>
+<l>En jugera.</l>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Les Deux Soeurs, Cendrillon.</head>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<stage>Suite de l'air.</stage>
+<l>Qui de nous deux</l>
+<l>Te paraît la plus belle ?</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Qui de nous deux</l>
+<l>Inspire plus de feux ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Laissez-moi parler.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Taisez-vous, Péronnelle,</l>
+<stage>À Cendrillon.</stage>
+<l>Sans dissimuler...</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Oui, conviens que c'est elle.</l>
+</sp>
+<sp who="LES DEUX SOEURS">
+<speaker>ENSEMBLE.</speaker>
+<l>Ne finirez-vous pas</l>
+<l>Tout ce tracas ?</l>
+<l>Il me fatigue fort ;</l>
+<l>Vous ayez tort,</l>
+<l>Mais, mais, très grand tort,</l>
+<l>D'oser encor</l>
+<l>Prendre un tel essor.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : La mort pour les malheureux.</stage>
+<l>Décide donc entre nous.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Que voulez-vous ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Je te l'ai déjà dit,</l>
+<l>C'est qu'il s'agit...</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>De savoir qui des deux</l>
+<l>Peut mériter le mieux.</l>
+<l>L'hommage d'un Prince amoureux.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Ce Prince est le fils du Roi.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Le fils du Roi !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Il est épris de moi.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Non, c'est de moi ;</l>
+<l>C'est de moi, sur ma foi.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Cela suffit :</l>
+<l>Je sais ce qu'il m'a dit.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE, à Cendrillon.</speaker>
+<l>Dis-nous donc</l>
+<l>Quelque raison.</l>
+<l>Te voilà bien rêveuse !</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON, à part.</speaker>
+<l>Sûrement,</l>
+<l>C'est mon amant ;</l>
+<l>Ne suis-je pas bien chanceuse ?</l>
+<l>Ceci pour moi tourne mal.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Cette nuit nous étions au bal.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON, à part.</speaker>
+<l>Au Bal ! C'est mon inconstant,</l>
+<l>C'est mon perfide amant !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Parle-nous donc, si tu veux.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Je n'oserais...</l>
+<l>Vous avez toutes deux</l>
+<l>Mêmes attraits ;</l>
+<l>Qui voudrait faire un choix,</l>
+<l>Aurait besoin, je crois,</l>
+<l>D'y regarder plus d'une fois :</l>
+<l>Mais qui sait si quelqu'objet,</l>
+<l>Bien moins parfait,</l>
+<l>De ce beau Prince-là,</l>
+<l>N'a pas déjà</l>
+<l>Su captiver le coeur ?</l>
+</sp>
+<sp who="LES DEUX SOEURS">
+<speaker>LES DEUX SOEURS, ensemble.</speaker>
+<l>Non, non, ma soeur :</l>
+<l>Moi seule ai cet honneur. ,</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Certain objet, à tout le monde inconnu,</l>
+<l>Au Bai s'est pourtant vu.</l>
+<l>D'abord le Prince attaché sans cesse à ses pas...</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Hé bien ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Semblait en faire cas.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Avait-elle des appas ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Beaucoup.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Très peu.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Près d'elle, j'en fais l'aveu,</l>
+<l>Vous n'auriez pas beau jeu.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Le méchant esprit!</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Oui, c'est par dépit</l>
+<l>Que vous en parlez.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Vous vous querellez</l>
+<l>Pour un rien.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Tais-toi,</l>
+<l>Il te sied, ma foi,</l>
+<l>D'oser me faire la loi.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>À vos débats,</l>
+<l>Moi, dame, je ne prends aucune part ;</l>
+<l>Ne doit on pas</l>
+<l>L'une pour l'autre avoir quelque égard ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Garde tes leçons ;</l>
+<l>Adieu, nous verrons.</l>
+<l>Qui l'emportera.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Oui, oui, l'on verra :</l>
+<l>Adieu donc, ma soeur ;</l>
+<l>Dans votre grandeur, </l>
+<l>Soyez de meilleure humeur.</l>
+<stage>Elles sortent.</stage>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V.</head>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON, seule.</speaker>
+<stage>Air : Quel amour fut aussi tendre ! De Nina.</stage>
+<l>À me nuire,</l>
+<l>Tout conspire ;</l>
+<l>Ô sort, quelle est ta rigueur !</l>
+<stage>Bis.</stage>
+<l>D'Amour un trait me déchire ;</l>
+<stage>Bis.</stage>
+<l>Et c'est encore un malheur !</l>
+<stage>Bis.</stage>
+<l>Deux rivales se déclarent.</l>
+<l>Que deviendra mon ardeur ?</l>
+<l>Des maux qui sur moi se préparent,</l>
+<l>Le plus sensible à mon coeur</l>
+<l>Serait d'aimer un trompeur,</l>
+<l>À me nuire,</l>
+<l>Tout conspire ;</l>
+<l>Ô sort, quelle est ta rigueur !</l>
+<stage>Bis.</stage>
+<l>D'Amour un trait me déchire !</l>
+<stage>Bis.</stage>
+<l>Et c'est encore un malheur !</l>
+<stage>Bis.</stage>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Cendrillon, La Maraine.</head>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Au bord d'un ruisseau je file.</stage>
+<l>Voyez une infortunée.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Quels nouveaux malheurs ;</l>
+<l>Font naître vos douleurs f</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Ne suis-je donc condamnée ;</l>
+<l>Qu'à vivre toujours dans les pleurs ?</l>
+<l>Vous avez assez vu, Madame,</l>
+<l>Quel objet a touché mon âme.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Hé ! Bien.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Ce funeste vainqueur,</l>
+<l>Que j'adore au fond de mon coeur,</l>
+<l>Peut-être n'est qu'un imposteur ;</l>
+<l>Mes soeurs se disputent l'amant</l>
+<l>Qui cause aujourd'hui mon tourment.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Grand Saint-Martin, ou la Sarabande d'Issé.</stage>
+<l>Vos soeurs ne sont que des ambitieuses :</l>
+<l>D'un seul regard</l>
+<l>Par hasard</l>
+<l>Échappé,</l>
+<l>Leur esprit s'est frappé.</l>
+<l>Sur tous les cours ces Orgueilleuses</l>
+<l>Croient avoir</l>
+<l>Un pouvoir.</l>
+<l>Quand leur Beauté surpasserait la vôtre,</l>
+<l>II est un art qui manque à l'une et l'autre,</l>
+<l>Qui seul peut allumer une constante ardeur ;</l>
+<l>Cet art, c'est la douceur.</l>
+<stage>Air : Du Précepteur d'Amour...</stage>
+<l>C'est la première des vertus</l>
+<l>Dont se doit parer une Belle ;</l>
+<l>C'est la ceinture dont Vénus</l>
+<l>Retient les Amours auprès d'elle.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Reçois dans ton galetas.</stage>
+<l>À juger par leurs discours,</l>
+<l>Mes soeurs ont raison de croire</l>
+<l>Qu'on les aime.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Vains détours</l>
+<l>De sottes qui s'en font accroire.</l>
+<l>D'un Prince qui veut s'amuser,</l>
+<l>Un mot a pu les abuser.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Pourvu que Colin, ah ! Voyez-vous.</stage>
+<l>Mais cependant...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Mais s'il avait</l>
+<l>Une telle manie, ,</l>
+<l>Un jour il se repentirait</l>
+<l>D'avoir fait la folie.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Bon ! Si d'un autre il est l'époux,</l>
+<l>Qu'il s'en repente ou non, voyez-vous,</l>
+<l>Je n'en serais, ne vous déplaise,</l>
+<l>Guère plus à mon aise.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Avec moi vous faites comparaison.</stage>
+<l>Mais comment donc l'Amour en peu de temps ;</l>
+<l>A fait chez vous des progrès surprenants !</l>
+<stage>On entend derrière le Théâtre un bruit de tambour.</stage>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Je m'sentais là-dedans.</stage>
+<l>Qu'est-ce donc que j'entends ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Je vous en rendrai compte ;</l>
+<l>Demeurez un instant &gt;</l>
+<l>Je reviens sur le champ.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>D'un amoureux penchant,</l>
+<l>Ma Bonne me fait honte ;</l>
+<l>Et veux que je surmonte</l>
+<l>Ce qui me fait plaisir</l>
+<l>Encore à ressentir.</l>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII.</head>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON, seule.</speaker>
+<stage>Air : de M. La Ruette. N° 6.</stage>
+<l>Amour, dont je ressens la flamme,</l>
+<l>Épargne un faible coeur qui se livre à tes coups ;</l>
+<l>Les traits dont tu blesses mon âme</l>
+<l>Font-ils l'effet de ton courroux ?</l>
+<l>Fais briller à mes yeux un rayon d'espérance,</l>
+<l>Ou rend-moi mon indifférence ;</l>
+<l>Mon sort me paraîtra plus doux.</l>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Cendrillon, Les deux soeurs, Un Officier du roi, accompagné d'un tambour.</head>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : L'Allemande Suisse.</stage>
+<l>Est-il bien vrai ?</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Oui, sans délai,</l>
+<l>Il faut, Mesdames, que chacune vienne.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Et savez-vous</l>
+<l>Ce que de nous</l>
+<l>Le Roi demande aujourd'hui ?</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Oui.</l>
+<l>Le Prince Azor</l>
+<l>Fait à la fin un effort ;</l>
+<l>Lui qui d'Amour a toujours fui la chaîne,</l>
+<l>Il veut avoir,</l>
+<l>Une épouse dès ce soir,</l>
+<l>Parmi les Belles du canton.</l>
+</sp>
+<sp who="LES DEUX SOEURS">
+<speaker>LES SOEURS.</speaker>
+<l>Bon.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Déjà je vois,</l>
+<l>Je prévois</l>
+<l>Où ce choix</l>
+<l>Peut tomber.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Vous pourriez bien vous tromper,</l>
+<l>Ma Reine.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Je ne suis pas,</l>
+<l>En ce cas,</l>
+<l>Seule ici,</l>
+<l>Qui pourrait en avoir le démenti.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Si.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>À cet Hymen glorieux,</l>
+<l>Vous pouvez bien toutes les deux</l>
+<l>Prétendre ;</l>
+<l>Certaine épreuve on fera,</l>
+<l>Qui sur ce point décidera.</l>
+</sp>
+<sp who="LES DEUX SOEURS">
+<speaker>LES SOEURS.</speaker>
+<l>Ah !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Quelle est cette épreuve-là ?</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Vous ne pouvez en ce moment l'apprendre ;</l>
+<l>Adieu. Ce soir on saura</l>
+<l>Pour qui fera</l>
+<l>Ce prix-là.</l>
+</sp>
+<sp who="LES DEUX SOEURS">
+<speaker>LES DEUX SOEURS.</speaker>
+<l>Ah !</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Faut-il qu'une fi faible plante.</stage>
+<l>À l'insu de ma soeur cadette,</l>
+<l>Monsieur, dites-moi franchement</l>
+<l>Si, dans l'hymen qui se projette,</l>
+<l>On parle de moi.</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Non, vraiment.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Vous badinez ?</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER, à part.</speaker>
+<l>Sur ma parole,</l>
+<l>La pauvre Demoiselle est folle.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<stage>Même air.</stage>
+<l>Sans en rien dire à mon aînée,</l>
+<l>Avouez moi, mon cher Monsieur,</l>
+<l>Que le Prince ; en cette journée,</l>
+<l>Va s'expliquer en ma faveur ?</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Nenni.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Vous n'êtes pas sincère.</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Oh ! parbleu, les deux-font la paire.</l>
+<stage>Air : Ces Filles sont si sottes.</stage>
+<l>Eh ! Quel est ce joli minois,</l>
+<note>Tapinois : qui ne se dit que dans le burlesque. Il est venu en tapinois ; c'est à dire secrètement, sourdement et sans faire de bruit. [F] Voir Molière, Les Pécieuses ridicules et Somaize même titre.</note>
+<l>Qui nous écoute en tapinois ?</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>C'est une pauvre fille.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Qui nous visite quelquefois.</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Elle est, ma foi, gentille !</l>
+<stage>Bis.</stage>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON, à part.</speaker>
+<stage>Air : On n'aime point dans nos forêts.</stage>
+<l>Eh quoi ! Mes soeurs, en ce moment,</l>
+<l>Rougissent de me reconnaître !</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>Approchez donc, la belle enfant ;</l>
+<l>On ne risque rien de paraître,</l>
+<l>Quand on posséde tant d'appas.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE, à Cendrillon.</speaker>
+<l>Voulez-vous bien aller là-bas ?</l>
+<stage>Air : Du manchon.</stage>
+<stage>À l'officier.</stage>
+<l>Pour peu que le coeur vous en dise,</l>
+<l>Soyez avec nous moins discret :</l>
+<l>Comme à nos soins elle est commise,</l>
+<l>Votre hymen serait bientôt fait.</l>
+</sp>
+<sp who="L'OFFICIER">
+<speaker>L'OFFICIER.</speaker>
+<l>J'accepterais des offres si flatteuses,</l>
+<l>Si vous étiez moins curieuses ;</l>
+<l>Mais là-dessus,</l>
+<l>Tous vos efforts sont superflus ;</l>
+<l>Attendez à ce soir,</l>
+<l>Pour tout savoir,</l>
+<l>Attendez à ce soir.</l>
+<stage>Il sort.</stage>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. L'aînée, La Cadette, Cendrillon.</head>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Mariez, mariez-moi.</stage>
+<l>Enfin voici le moment,</l>
+<l>Où mon triomphe s'apprête ;</l>
+<l>La main d'un Prince charmant</l>
+<l>Va devenir ma conquête ;</l>
+<l>Préparons, préparons, préparons tout,</l>
+<l>Pour briller à cette fête ;</l>
+<l>Préparons, préparons, préparons tout,</l>
+<l>Pour l'affermir dans son goût.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<stage>Air : Pour t'avoir, le grivois te guette.</stage>
+<l>Par le secours de la toilette,</l>
+<l>Rendons ma beauté si parfaite,</l>
+<l>Qu'Azor puisse en mes yeux</l>
+<l>Retrouver encor de nouveaux feux.</l>
+<l>Dieux ! S'il répond à ma tendresse,</l>
+<l>Quelle fera mon allégresse !</l>
+<l>Cendrillon, dépêchons ; tôt, tôt,</l>
+<l>Apportez ce qu'il faut,</l>
+<l>Je veux partir bientôt.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : T'as pied dans le margouillis.</stage>
+<l>Oh ! Faites comme il vous plaira ;</l>
+<l>Sa seule affaire</l>
+<l>Est de me plaire ;</l>
+<l>Oh ! Faites comme il vous plaira ;</l>
+<l>Je retiens Cendrillon pour cela.</l>
+<stage>Air : Comme un Coucou.</stage>
+<l>Qu'on apporte ici ma toilette.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Qu'on apporte la mienne aussi.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Je céderais à ma cadette !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Oh ! L'âge ne fait rien ici.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : À l'envers.</stage>
+<l>Par qui faut-il que je commence ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>C'est par moi.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Oh ! Vous voulez prendre l'avance,</l>
+<l>Je le vois.</l>
+<l>Mais quittez ce fol espoir.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Il faut voir.</l>
+<stage>On apporte deux toilettes toutes dressées.</stage>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : On prend femme, c'est l'usage. Noté dans L'Heureux déguisement.</stage>
+<l>Allons vite qu'on m'arrange.</l>
+<stage>Bis.</stage>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Je vous trouve fort étrange.</l>
+<stage>Bis.</stage>
+<l>Cendrillon, venez m'aider,</l>
+<l>Laissez-la s'accommoder.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Vous parlez bien à votre aise :</l>
+<l>Attendez, ne vous déplaise,</l>
+<l>Qu'elle ait posé mes rubans :</l>
+<l>Cendrillon n'a pas le temps.</l>
+<stage>Bis.</stage>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Ah ! Si vous êtes la maîtresse,</l>
+<l>Il est juste qu'on se presse.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>C'est vous qui faites la Princesse ;</l>
+<l>Tout vous choque, tout vous blesse.</l>
+</sp>
+<sp who="ENSEMBLE">
+<speaker>ENSEMBLE.</speaker>
+<stage>Quatre fois.</stage>
+<l>Madame fait la Princesse,</l>
+<l>Madame fait la maîtresse.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Trois fois.</stage>
+<l>Si vous parlez toutes les deux,</l>
+<l>Comment répondre à vos voeux.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Raisonneuse ! </l>
+<stage>Bis.</stage>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Paresseuse !</l>
+<stage>Bis.</stage>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Faut-il, quand on dit un mot,</l>
+<note>Être de tous écots : se mêler de toutes choses. [L]</note>
+<l>Que vous soyez de l'écot ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Me gronderez-vous sans cesse,</l>
+<l>Quoique je n'aie aucun tort ?</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Encore ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Aurez-vous bientôt fini ?</l>
+<l>Songez-vous que l'heure presse ?</l>
+<stage>Bis.</stage>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Si je le sais ? Vraiment oui ;</l>
+<l>Eh ! vraiment oui.</l>
+<l>Mais quel démon vous transporte,</l>
+<l>De la presser de la sorte ?</l>
+<l>Pour finir plus promptement,</l>
+<l>Elle m'assomme la tête,</l>
+<l>La maladroite, la bête !</l>
+<l>Elle m'assomme la tête :</l>
+<stage>À Cendrillon.</stage>
+<l>Allez donc plus doucement,</l>
+<stage>Bis.</stage>
+<l>Plus doucement.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Je ne puis mieux faire,</l>
+<l>Mieux faire.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE, la repoussant.</speaker>
+<l>Ôte-toi de là.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE, la repoussant aussi.</speaker>
+<l>Ôte-toi de là.</l>
+<l>Va-t-en, va-t-en, va-t-en ma chère,</l>
+<l>De tes soins on se passera ;</l>
+<l>Ôte-toi de là, ma chère ;</l>
+<l>Et pour ma soeur garde ce soin,</l>
+<l>Je n'en ai plus aucun besoin.</l>
+<stage>Bis.</stage>
+<stage>La Maraine entre ; les deux soeurs sortent en lui faisant une grande révérence et en chantant.</stage>
+<l>Suivons l'Amour, c'est lui qui nous mène.</l>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X. Cendrillon, La Maraine.</head>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Où s'en vont ces gais bergers.</stage>
+<l>Où vont-elles si gaiement ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Ce n'est point un mystère ;</l>
+<l>Vous savez l'événement,</l>
+<l>À mon amour contraire.</l>
+<l>Azor les mande au Palais.</l>
+<l>Quelle triste nouvelle !</l>
+<l>Pourra-t-il, en voyant tant d'attraits,</l>
+<l>Ne pas m'être infidèle ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Je suis un bon soldat.</stage>
+<l>L'espoir qui les conduit,</l>
+<l>Les séduit ;</l>
+<l>Soyez moins alarmée ;</l>
+<l>Vous verrez leurs projets</l>
+<l>Sans effets</l>
+<l>SanS aller en fumée.</l>
+<stage>Air : Pour voir un peu comment ça f'ra.</stage>
+<l>Ce sont autant de pas perdus ;</l>
+<l>Elles sont bien loin de leur compte ;</l>
+<l>J'en sais plus qu'elles là-dessus,</l>
+<l>Elles n'en auront que la honte. .</l>
+<l>L'épreuve qu'on doit exiger,</l>
+<l>Va les confondre et vous venger.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Vous voulez me faire chante[r].</stage>
+<l>De quelle épreuve parle-t-on ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Je ne puis vous le dire .</l>
+<l>Suffit qu'en cette occasions</l>
+<l>Rien ne saurait vous nuire ;</l>
+<l>Vous en aurez tout l'agrément,</l>
+<l>C'est moi qui vous l'assure.</l>
+<l>Allez au Palais seulement,</l>
+<l>Et tentez l'aventure,</l>
+<stage>Air : Préparons-nous pour la fête nouvelle.</stage>
+<l>II faut aller disputer la victoire :</l>
+<l>Ce jour est celui de la gloire ;</l>
+<l>La Fortune et l'Amour veulent vous couronner.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>À cet espoir flatteur dois-je m'abandonner ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Alarmez vous.</stage>
+<l>Partez vous dis-je, allez en assurance</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Très volontiers. Mais...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Quoi ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Ma bonne.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Eh bien ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Non, je ne ferai pas.</stage>
+<l>Peut me montrer avec plus de décence,</l>
+<l>Ne faut-il pas ?...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Non, non, il ne faut rien.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Non ; je ne ferai pas.</stage>
+<l>Eh ! Quoi ! Vous prétendez que parmi tant de Belles,</l>
+<l>Dont l'art relève encor les grâces naturelles,</l>
+<l>Dans l'état où je suis j'irai me présenter !</l>
+<l>Azor m'oserait-il seulement regarder ?</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Les petits riens.</stage>
+<l>Votre beauté,</l>
+<l>Cet heureux don de la Nature,</l>
+<l>Votre beauté,</l>
+<l>Vous dédommage avec usure.</l>
+<l>N'altérez point par l'imposture</l>
+<l>Cette aimable simplicité ;</l>
+<l>La plus élégante parure,</l>
+<l>C'est la beauté.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>Air : Ne v'là-t-il pas que j'aime ?</stage>
+<l>Je souscris à vos volontés :</l>
+<l>Guidez mon ignorance ;</l>
+<l>Je dois répondre à vos bontés</l>
+<l>Par mon obéissance.</l>
+<stage>Elles sortent.</stage>
+<stage>Le théâtre change, et représente l'appartement du Prince.</stage>
+</sp>
+</div>
+<div n="11" type="scene">
+<head>SCÈNE XI.</head>
+<sp who="AZOR">
+<speaker>AZOR, seul.</speaker>
+<l>Ô toi qui me punis de mon indifférence,</l>
+<l>Amour, Amour, j'implore ta clémence ;</l>
+<l>Mon coeur en ce moment abjure son erreur.</l>
+<l>Ah ! Si mon repentir désarme ta rigueur,</l>
+<l>Fais-moi connaître ce que j'aime ;</l>
+<l>Fais encor plus pour mon bonheur,</l>
+<l>Fais que j'en sois aimé de même.</l>
+</sp>
+</div>
+<div n="12" type="scene">
+<head>SCÈNE XII. Azor, Pierrot.</head>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<stage>Air : Vous me l'avez dit, souvenez-vous en.</stage>
+<l>Vous qui faisiez l'esprit fort ;</l>
+<l>Vous sentez donc votre tort ;</l>
+<l>Vous parliez différemment ;</l>
+<l>Je vous l'ai prédit, souvenez-vous en,</l>
+<l>Je vous ai prédit qu'Amour</l>
+<l>Vous jouerait un mauvais tour.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<stage>Air : Je ne sais pas écrire.</stage>
+<l>Mon ordre a-t-il été suivi ?</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Seigneur, vous ferez obéi ;</l>
+<l>On vient de me l'apprendre.</l>
+<l>Quel sabbat nous aurons ici !</l>
+<l>Toutes nos Dames à l'envi</l>
+<l>Ont promis de s'y rendre.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR, vivement.</speaker>
+<stage>Air : Je ne verrai plus ce que j'aime.</stage>
+<l>Je rêverai donc ma Déesse :</l>
+<l>Un Dieu propice à ma tendresse,</l>
+<l>À mes désirs pressants va la rendre aujourd'hui...</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<stage>Air : Ici sont venus en personne.</stage>
+<l>Par ma foi, vous aurez beau faire ;</l>
+<l>Cet objet qui vous a su plaire</l>
+<l>Ne vous sera jamais rendu.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<l>Pourquoi donc ?</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>C'est quelque chimère,</l>
+<l>Une ombre, un être imaginaire ;</l>
+<l>Hier, quand elle a disparu,</l>
+<l>On a cherché tant qu'on a pu,</l>
+<l>Elle s'est trouvée... introuvable ;</l>
+<l>Pour moi je crois que c'est le Diable</l>
+<l>Qui sous ce minois simple et doux,</l>
+<l>S'est voulu divertir de vous.</l>
+<stage>Air : De l'horoscope accompli.</stage>
+<l>Laissez-donc là cette chaussure ;</l>
+<l>À quoi peut être vous servir ?</l>
+<l>Croyez vous y voir la figure</l>
+<l>Du tendron qui vous fait souffrir ?</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR, tenant le mule.</speaker>
+<l>Vois, Pierrot, quelle gentillesse !</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Je vois plutôt votre faiblesse.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<l>Le joli pied ! Ah ! Qu'il me plaît !</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Oui, mais tient-il ce qu'il promet ?</l>
+<stage>Air : Boire à son tour.</stage>
+<l>Par cet échantillon,</l>
+<l>Vous jugez d'une Belle ;</l>
+<l>Vous perdez la raison ;</l>
+<l>Pardonnez à mon zèle ;</l>
+<l>Mais, en honneur,</l>
+<l>C'est une erreur ;</l>
+<l>Souvent le pied le plus mignon</l>
+<l>Sert à porter, une laid'ron,</l>
+<l>Une laid'ron.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<stage>Air : Que ne suis-je la jonquille ! ou l'Amant frivole.</stage>
+<l>Je me fuis fait à moi-même</l>
+<l>Les reproches les plus forts ;</l>
+<l>Du destin la loi suprême,</l>
+<l>Triomphe de mes efforts.</l>
+<l>Loin de blâmer ma tendresse,</l>
+<l>Sers plutôt, sers, mon ardeur ;</l>
+<l>Et respecte une faiblesse,</l>
+<l>Où j'attache mon bonheur.</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<stage>Air : Lassi, lasson, la son bredondaine.</stage>
+<l>J'y ferai diligence,</l>
+<l>Comptez, comptez sur ma vigilance :</l>
+<l>J'y ferai diligence.</l>
+<stage>On entend un bruit confus de plusieurs femmes derrière le Théâtre.</stage>
+</sp>
+</div>
+<div n="13" type="scene">
+<head>SCÈNE XIII. Plusieurs Femmes derrière le Théâtre, Un Suisse défendant la porte, Azor, Pierrot.</head>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Mais qu'est-ce que j'entends ?</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, repoussant les femmes.</speaker>
+<l>Doucement, doucement, doucement.</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Ah ! Quel charivari,</l>
+<l>Nous allons voir ici !</l>
+<l>Un régiment de Belles,</l>
+<l>En beaux atours, en modes nouvelles,</l>
+<l>Malgré les Sentinelles,</l>
+<l>Entrent dans le moment.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Doucement, doucement, doucement.</l>
+</sp>
+<sp who="LE CHOEUR DES FEMMES">
+<speaker>LE CHOEUR DES FEMMES.</speaker>
+<stage>Air : Ah ! Madame Anroux.</stage>
+<l>C'est l'ordre du Roi ;</l>
+<l>Monsieur, laissez-moi,</l>
+<l>Passer, je vous prie.</l>
+<l>C'est l'ordre du Roi ;</l>
+<l>Je vous en supplie,</l>
+<l>Monsieur, laissez-moi.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Si vous n'y prenir garde,</l>
+<stage>Bis.</stage>
+<l>Moi, de mon hallebarde,</l>
+<l>Je donne un coup à toi.</l>
+</sp>
+<sp who="LE CHOEUR DES FEMMES">
+<speaker>LE CHOEUR DES FEMMES.</speaker>
+<l>C'est l'ordre du Roi;</l>
+<l>Monsieur laissez-moi. ;</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Personne n'y passe.</l>
+</sp>
+<sp who="LE CHOEUR DES FEMMES">
+<speaker>LE CHOEUR.</speaker>
+<l>C'est l'ordre du Roi.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Je ferai main basse,</l>
+<l>Jarni, par mon foi.</l>
+<stage>Toutes les femmes entrent.</stage>
+</sp>
+</div>
+<div n="14" type="scene">
+<head>SCÈNE XIV. La Choeur des femmes, Azor, Pierrot.</head>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<stage>Air : Lassi, Lasson, la sonbredondaine.</stage>
+<l>Voici nos aspirantes ;</l>
+<l>Voyez, voyez ; qu'elles sont charmantes !</l>
+<l>Voici nos Aspirantes ;</l>
+<l>Défendez bien, Seigneur,</l>
+<l>Votre coeur,</l>
+<l>Votre coeur.</l>
+<stage>Air : Sexe charmant dont le partage.</stage>
+<l>Aimez-vous la blonde ou la brune ?</l>
+<l>Ici l'on a de quoi choisir...</l>
+<l>Ne les faites donc pas languir.</l>
+<stage>À part.</stage>
+<l>Pourquoi faut-il n'en prendre qu'une ?</l>
+<l>J'en vois beaucoup qui dès ce soir,</l>
+<l>Accepteraient bien le mouchoir.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>LA SOEUR AÎNÉE, à Azor.</speaker>
+<stage>Air : Je donnerais les revenus.</stage>
+<l>Je viens, Seigneur...</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Avec grande impatience....</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Jouir d'un honneur....</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>J'ai couru, Seigneur...</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Pour moi bien flatteur.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Sitôt votre ordre venu...</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>L'aurais-je jamais cru ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>J'ai fait diligence.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Ce jour précieux...</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Moment trop heureux !</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Comble tous mes voeux.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Quel doux espoir...</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Pour moi quelle gloire...</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>J'ose concevoir !</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>D'être en votre mémoire !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Tant de Belles à la Cour...</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Aussi ma reconnaissance...</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Peuvent briguer votre amour...</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Vous assure du retour.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Que je n'osais me flatter...</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Excusez mon imprudence.</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>D'avoir su le mériter.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<l>Le zèle a su m'emporter.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR, à Pierrot.</speaker>
+<stage>Air : Morgué, la femme qui m'aura.</stage>
+<l>Je n'entends rien à ce jargon.</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Ni moi non plus, je vous répond ;</l>
+<l>Ce sont deux soeurs qui, cette nuit,</l>
+<l>Au bal ont fait du bruit ;</l>
+<l>Qui, d'abord qu'on les regardait,</l>
+<l>Croyait que l'on leur en contait ;</l>
+<l>Qui toujours minaudant ;</l>
+<l>Toujours vous minaudant ;</l>
+<l>Semblaient vous dire ; allons, Seigneur,</l>
+<l>Humanisez donc votre coeur.</l>
+<stage>Bis.</stage>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR, aux soeurs.</speaker>
+<stage>Air : Paris est en grand deuil.</stage>
+<l>Un tel empressement</l>
+<l>Me flatte infiniment...</l>
+<stage>À Pierrot.</stage>
+<l>Tâche de m'en défaire.</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT, aux Soeurs.</speaker>
+<l>Le Prince, en vérité...</l>
+<l>Se trouve... très flatté...</l>
+<stage>À part.</stage>
+<l>Je ne sais comment faire.</l>
+<stage>Air : La Carmagnole.</stage>
+<stage>Au Prince.</stage>
+<l>Nous ne sommes pas</l>
+<l>Hors d'embarras ;</l>
+<l>Toutes vont venir,</l>
+<l>Et vous tenir</l>
+<l>Même langage ;</l>
+<l>Nous ne sommes pas,</l>
+<l>Hors d'embarras ;</l>
+<l>Toutes vont bientôt vous tomber sur les bras.</l>
+<stage>Air : Du Précepteur d'amour.</stage>
+<l>Il faut pour vous débarrasser</l>
+<l>De cette foule ridicule,</l>
+<l>Il faut, vous dis-je, commencer</l>
+<l>À faire l'essai de la mule.</l>
+</sp>
+</div>
+<div n="15" type="scene">
+<head>SCÈNE XV. Les Acteurs Précédents, Cendrillon, Sa Maraine.</head>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : La voici, tôt décampons.</stage>
+<l>Entrez donc.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Non, j'ai trop peur ;</l>
+<l>Je sens palpiter mon coeur.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Qui peut vous causer un tel effroi ?</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>C'est que l'on va se moquer de moi.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Point tant de discours,</l>
+<l>Avancez toujours.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Guidez donc mes pas ;</l>
+<l>Ne me quittez pas.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Ah ! Que de façon !</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Ma Bonne, venez donc.</l>
+</sp>
+<sp who="LE CHOEUR DES FEMMES">
+<speaker>LE CHOEUR DES FEMMES.</speaker>
+<stage>Air : Oh, oh, tourelouribo !</stage>
+<l>Quelle Nymphe se présente !</l>
+<l>Oh, oh, tourelouribo !</l>
+<l>Voyez donc qu'elle est charmante !</l>
+<l>Oh, oh, tourelouribo !</l>
+<l>En honneur, elle m'enchante.</l>
+<l>Oh, oh ,oh, tourelouribo !</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE, à Cendrillon.</speaker>
+<stage>Air : Tarare ponpon.</stage>
+<l>Que venez-vous chercher, petite téméraire ?</l>
+<l>Osez-vous vous montrer avec ces haillons-là ?</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE, à Cendrillon.</speaker>
+<l>Sors, ou crains ma colère.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>Non, elle restera.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR, à Pierrot.</speaker>
+<l>Pierrot, fais-les donc taire.</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Paix-là !</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR, à Cendrillon.</speaker>
+<stage>Air : Des Proverbes.</stage>
+<l>Venez, venez.</l>
+<stage>À part.</stage>
+<l>Que d'appas ! Qu'elle est belle !</l>
+<stage>À Cendrillon.</stage>
+<l>Venez, venez ; bannissez la frayeur.</l>
+<stage>À part.</stage>
+<l>Quel feu nouveau vient m'enflammer pour elle !</l>
+<l>Quel nouveau trait perce mon coeur !</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE, à Azor.</speaker>
+<stage>Air : Dans un Couvent bienheureux.</stage>
+<l>À notre témérité</l>
+<l>Daignerez-vous faire grâce ?</l>
+<l>Et n'est-ce point trop d'audace ?</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<l>Ah ! J'en suis trop enchanté.</l>
+<l>Si quelqu'objet peut s'attendre,</l>
+<l>À m'enchaîner sous ses lois ;</l>
+<l>Vous seule y pouvez prétendre,</l>
+<l>Vous seule fixez mon choix.</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT, à Azor.</speaker>
+<stage>Air : Belle Brune.</stage>
+<l>Et la mule ?</l>
+<l>Et la mule ?</l>
+<l>Seigneur,</l>
+<l>Un peu moins d'ardeur,</l>
+<l>Qui trop avance, recule ;</l>
+<l>Et la mule ?</l>
+<stage>Bis.</stage>
+<stage>À Cendrillon et aux autres.</stage>
+<stage>Air : Le Corbillon.</stage>
+<l>Ce n'est pas assez pour lui plaire,</l>
+<l>D'avoir beaux yeux, belle bouche, beaux bras ;</l>
+<l>Jambe fine et taille légère,</l>
+<l>Sont des beautés qui ne le flattent pas.</l>
+<l>Il faut pour gagner son amitié,</l>
+<l>Un joli petit,</l>
+<stage>Montrant la mule.</stage>
+<l>Un petit joli,</l>
+<l>Un joli gentil petit pied.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<stage>Air : Non, je ne crois pas.</stage>
+<l>Non, je ne saurais</l>
+<l>Risquer à perdre tant d'attraits ;</l>
+<l>Non, non, non, je ne saurais</l>
+<l>Remettre au sort de si chers intérêts.</l>
+<l>Je ne veux devoir qu'à l'Amour,</l>
+<l>Le prix que j'attends en ce jour.</l>
+<l>Ce Dieu lui-même,</l>
+<l>Dans l'objet que j'aime,</l>
+<l>M'assure un bien suprême.</l>
+<l>Non, je ne saurais</l>
+<l>Risquer à perdre tant d'attraits ;</l>
+<l>Non, non, non, je ne saurais</l>
+<l>Remettre au sort de si chers intérêts.</l>
+<stage>À Cendrillon.</stage>
+<stage>Air : D'Églé. Que je vous aime !</stage>
+<l>Oui, je vous aime ;</l>
+<l>Mais quel fera le prix de cette ardeur extrême ?</l>
+<l>Vous pouvez d'un seul mot dissiper mes ennuis.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Seigneur...</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<l>Vous balancez... parlez...</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Non, je ne puis.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<l>Que je vous aime !</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Eh ! Bien, oui, je vous aime.</l>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<stage>Air : Tout est dit.</stage>
+<l>Voilà, ma foi, ce qui s'appelle,</l>
+<l>Mener l'Amour tambour battant ;</l>
+<l>Sans en faire à deux fois, la Belle,</l>
+<l>D'un plein faut, court au dénouement ;</l>
+<l>Mais laissons-les s'assurer de leurs flammes,</l>
+<l>En pareil cas, un témoin toujours nuit ;</l>
+<l>Adieu, Mesdames,</l>
+<l>Tout est dit.</l>
+</sp>
+<sp who="L'AÎNÉE">
+<speaker>L'AÎNÉE.</speaker>
+<stage>Air : Comment donc as-tu réussi ?</stage>
+<l>Cette petite Cendrillon !</l>
+</sp>
+<sp who="LA CADETTE">
+<speaker>LA CADETTE.</speaker>
+<l>Cette petite Cendrillon !</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<l>De deux soeurs est-ce là le ton ?</l>
+<l>Apprenez l'une et l'autre</l>
+<l>À respecter son rang et son nom ;</l>
+<l>Ils valent bien le vôtre.</l>
+<stage>Air : Bouchez, Naïades.</stage>
+<l>Mais vous l'avez trop outragée ;</l>
+<l>Il est temps qu'elle soit vengée,</l>
+<l>Demeurez encor un instant,</l>
+<l>Je vais vous la faire connaître.</l>
+<l>Pour le sort le plus éclatant,</l>
+<l>Sachez que les Dieux l'ont fait naître.</l>
+<stage>Air : J'ai, sans y penser.</stage>
+<l>Si le Prince Azor,</l>
+<l>Voyait encor</l>
+<l>Son inconnue ?...</l>
+<l>Dans ce jeune objet,</l>
+<l>S'il la retrouvait trait pour trait ?...</l>
+<l>Un charme secret</l>
+<l>La dérobait à votre vue ;</l>
+<l>Mais à votre amour,</l>
+<l>Je la rends en ce jour.</l>
+</sp>
+<sp who="AZOR">
+<speaker>AZOR.</speaker>
+<stage>Air : C'est chez vous.</stage>
+<l>Quoi ! C'est vous</l>
+<l>Qui m'inspiriez les transports les plus doux ?</l>
+<l>Quoi ! C'est vous ?...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>Air : Vraiment ma Commère, oui.</stage>
+<l>Reconnaissez-vous ceci ?</l>
+<stage>Montrant l'autre mule.</stage>
+</sp>
+<sp who="PIERROT">
+<speaker>PIERROT.</speaker>
+<l>Vraiment, ma Commère, oui :</l>
+<l>Tenez, voilà la pareille.</l>
+<l>Quelle est donc cette merveille !</l>
+<l>Je me perds dans tout ceci.</l>
+<stage>CHOEUR de M. La Ruette.</stage>
+</sp>
+<sp who="AZOR, CENDRILLON, LA MARAINE">
+<speaker>AZOR, CENDRILLON, LA MARAINE.</speaker>
+<l>Aux plus tendres ardeurs,</l>
+<l>Livrons, livrons nos cours</l>
+<l>Livrons, livrons nos cours</l>
+<l>Livrez, livrez vos cours</l>
+<l>L'amour nous engage,</l>
+<l>L'amour vous engage,</l>
+<l>L'Hymen va nous unir,</l>
+<l>L'Hymen va vous unir,</l>
+<l>Quel plaisir ! Quel plaisir J</l>
+<l>Toujours plus amoureux,</l>
+<l>Serrons, serrons, les noeuds,</l>
+<l>Serrez, serrez, les noeuds,</l>
+<l>Qui vont nous rendre heureux !</l>
+<l>Qui vont vous rendre heureux !</l>
+</sp>
+<sp who="LES DEUX SOEURS">
+<speaker>LES DEUX SOEURS.</speaker>
+<l>Aux plus noires fureurs ;</l>
+<l>Livrons, livrons nos cours ;</l>
+<l>La honte, la rage,</l>
+<l>Est notre partage ;</l>
+<l>Ah ! C'est trop en souffrir !</l>
+<l>Fuyons, fuyons ces lieux,</l>
+<l>Et délivrons nos yeux,</l>
+<l>D'un spectacle odieux.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<stage>RÉCITATIF, par MONSIEUR LA RUETTE. N°1</stage>
+<l>Des rigueurs d'un cruel destin</l>
+<l>Aurai-je toujours à ma plaindre ?</l>
+<l>Des rigueurs d'un cruel destin, </l>
+<l>Aurai-je toujours à me plaindre ?</l>
+<l>Un faible espoir me luit ne vain, </l>
+<l>Je n'en ai pas moins tout à craindre.</l>
+<stage>N°2</stage>
+<l>J'ai joui cette nuit du spectacle enchanteur, </l>
+<l>Qu'étale aux yeux la Cour la plus brillante.</l>
+<l>Un prince à mes genoux exprimait son ardeur.</l>
+<l>Il ne me reste hélas ! De toute ma grandeur</l>
+<l>Qu'un souvenir qui me tourmente.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>N°3.</stage>
+<l>Ah ! Dans quel état je vous vois ! </l>
+<l>Ne cherchez point d'excuse.</l>
+<l>Je devine aisément pourquoi</l>
+<l>Vous n'avez point suivi ma loi.</l>
+<l>Il est vrai ; j'en suis confuse.</l>
+<l>Oh ! Vraiment je le crois, je le crois, </l>
+<l>Mais pourquoi, mais pourquoi </l>
+<l>Ce manque de foi, ce manque de foi ?</l>
+<l>Fillette toujours raisonne,</l>
+<l>Et n'écoute personne,</l>
+<l>Quand on s'oppose à son penchant.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Non, non ; c'est que, ma Bonne, </l>
+<l>C'est que, ma Bonne,</l>
+<l>Je n'ai pas pu faire autrement,</l>
+<l>Je n'ai pas pu faire autrement.</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE.</speaker>
+<stage>N°3.</stage>
+<l>Il fallait n'en croire que moi, </l>
+<l>Il fallait mieux suivre ma loi.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Il est vrai : mais ma folie</l>
+<l>Est bien punie : un moment...</l>
+</sp>
+<sp who="LA MARAINE">
+<speaker>LA MARAINE. N°3.</speaker>
+<l>Un moment fait effet ; on s'y plaît,</l>
+<l>On s'en fait un amusement.</l>
+</sp>
+<sp who="CENDRILLON">
+<speaker>CENDRILLON.</speaker>
+<l>Pardon, ma Bonne, Pardon, ma Bonne,</l>
+<l>Je n'ai pas pu faire autrement.</l>
+<l>Oui, oui. Pardon, ma bonne,</l>
+<l>Je n'ai pas pu faire autrement,</l>
+<l>Pardon, ma Bonne, Pardon, ma Bonne</l>
+<l>Je n'ai pas pu faire autrement.</l>
+<stage>Air : par Mr de la Ruette. n°4</stage>
+<l>Je le sais bien,</l>
+<l>J'ai tout perdu.</l>
+<l>En moins de rien </l>
+<l>tout a disparu :</l>
+<l>Que le sort me traite,</l>
+<l>S'il veut, sans pitié,</l>
+<l>Non, non, je ne regrette</l>
+<l>Que votre amitié,</l>
+<l>Non, non, je ne regrette </l>
+<l>Que votre amitié.</l>
+<stage>Air : par Mr de la Ruette. n°5</stage>
+<l>Les yeux vers moi tournés sans cesse,</l>
+<l>Tendrement il me regardait, </l>
+<l>Il me regardait ;</l>
+<l>De ses regards la douceur et l'ivresse,</l>
+<l>Et l'ivresse, </l>
+<l>M'inspiraient ce qu'il ressentait,</l>
+<l>M'inspiraient ce qu'il ressentait,</l>
+<l>À mes côtés est une place,</l>
+<l>Il s'en saisit ; Il s'enhardit,</l>
+<l>Je m'attendrit, Je m'attendris,</l>
+<l>Je veux le fuit, et je ne puis,</l>
+<l>Je ne veux finir, et ne puis,</l>
+<l>Je veux fuir et ne puis, </l>
+<l>Je veux le fuit, et je ne puis.</l>
+<l>Déjà mon trouble augmentait son audace,</l>
+<l>Quand minuit sonna, Et tout finit là :</l>
+<l>Déjà mon trouble augmentait son audace,</l>
+<l>Quand minuit sonna,</l>
+<l>Et tout finit là, tout finit là, tout finit là.</l>
+<stage>Air : par Mr de la Ruette. n°6</stage>
+<l>Amour, dont je ressens la flamme,</l>
+<l>Épargne un faible coeur qui se livre à tes coups,</l>
+<l>Épargne un faible coeur qui se livre à tes coups,</l>
+<l>Les traits dont tu blesses mon âme</l>
+<l>Sont-ils l'effet de ton courroux,</l>
+<l>Sont-ils l'effet de ton courroux ?</l>
+<l>Fais briller à mes yeux un rayon d'espérance,</l>
+<l>Ou rends moi mon indifférence,</l>
+<l>Mon sort me paraître plus doux.</l>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

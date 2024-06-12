@@ -1,0 +1,1436 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_017</idno>
+<title type="main">LES FÊTES DE L'AMOUR ET DE BACCHUS, PASTORALE</title>
+<title type="collection">Moliyé</title>
+<author>Philippe QUINAULT (1635-1688)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janes</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k83280c"/>
+<title>LES FÊTES DE L'AMOUR ET DE BACCHUS, PASTORALE</title>
+<author>Philippe QUINAULT (1635-1688)</author>
+<publisher>Gallica</publisher>
+<date when="1672"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k83280c"/>
+<title>LES FÊTES DE L'AMOUR ET DE BACCHUS, PASTORALE</title>
+<author>Philippe QUINAULT (1635-1688)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="DEUX_HOMMES_DU_BEL-AIR">
+<persName>DEUX HOMMES DU BEL-AIR</persName>
+</person>
+<person xml:id="DEUX_FEMMES_DU_BEL-AIR">
+<persName>DEUX FEMMES DU BEL-AIR</persName>
+</person>
+<person xml:id="UN_GENTILHOMME_GASCON">
+<persName>UN GENTILHOMME GASCON</persName>
+</person>
+<person xml:id="LE_BARON_D_ARBARAT">
+<persName>LE BARON D'ARBARAT</persName>
+</person>
+<person xml:id="UN_SUISSE">
+<persName>UN SUISSE</persName>
+</person>
+<person xml:id="UN_VIEUX_BOURGEOIS_BABILLARD">
+<persName>UN VIEUX BOURGEOIS BABILLARD</persName>
+</person>
+<person xml:id="UNE_VIEILLE_BOURGEOISE_BABILLARDE">
+<persName>UNE VIEILLE BOURGEOISE BABILLARDE</persName>
+</person>
+<person xml:id="LE_FILS_DU_BOURGEOIS_ET_DE_LA_BOURGEOISE">
+<persName>LE FILS DU BOURGEOIS ET DE LA BOURGEOISE</persName>
+</person>
+<person xml:id="TROUPE_DE_GENS_DE_DIFFÉRENTES_PROVINCES_et_de_TOUTES_SORTES_DE_CONDITION">
+<persName>TROUPE DE GENS DE DIFFÉRENTES PROVINCES et de TOUTES SORTES DE CONDITION</persName>
+</person>
+<person xml:id="POLYMNIE">
+<persName>POLYMNIE</persName>
+</person>
+<person xml:id="MELPOMÈNE">
+<persName>MELPOMÈNE</persName>
+</person>
+<person xml:id="EUTERPE">
+<persName>EUTERPE</persName>
+</person>
+<person xml:id="TIRCIS">
+<persName>TIRCIS</persName>
+</person>
+<person xml:id="LICASTE">
+<persName>LICASTE</persName>
+</person>
+<person xml:id="MÉNANDRE">
+<persName>MÉNANDRE</persName>
+</person>
+<person xml:id="CALISTE">
+<persName>CALISTE</persName>
+</person>
+<person xml:id="CLIMÈNE">
+<persName>CLIMÈNE</persName>
+</person>
+<person xml:id="FORESTAN">
+<persName>FORESTAN</persName>
+</person>
+<person xml:id="SILVANDRE">
+<persName>SILVANDRE</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LES FÊTES DE L'AMOUR ET DE BACCHUS</p></div><div type="liminal"><p>PASTORALE</p></div><div type="liminal"><p>Représentée par l'Académie Royale de Musique.</p></div></div><div type="liminal"><p>M. DC. LXXII. avec privilège de Sa Majesté.</p></div><div type="liminal"><p/></div><div type="liminal"/>À PARIS, À l'entrée de la Porte de l'Académie Royale de Musique, près Luxembourg, vis à vis Bel-air<div type="liminal"><p>Représenté par l'Académie royale de musique, le 17 avril 1782 au Théâtre du Palais-Royal.</p></div><list><head>ACTEURS DU PROLOGUE</head><item>DEUX HOMMES DU BEL-AIR.</item><item>DEUX FEMMES DU BEL-AIR.</item><item>UN GENTILHOMME GASCON.</item><item>LE BARON D'ARBARAT.</item><item>UN SUISSE.</item><item>UN VIEUX BOURGEOIS BABILLARD.</item><item>UNE VIEILLE BOURGEOISE BABILLARDE.</item><item>LE FILS DU BOURGEOIS ET DE LA BOURGEOISE.</item><item>TROUPE DE GENS DE DIFFÉRENTES PROVINCES et de TOUTES SORTES DE CONDITION.</item><item>POLYMNIE.</item><item>MELPOMÈNE.</item><item>EUTERPE.</item></list><list><head>ACTEURS DE LA TRAGÉDIE</head><item>TIRCIS, berger amoureux de Caliste.</item><item>LICASTE, berger, ami de Tircis.</item><item>MÉNANDRE, berger, ami de Tircis.</item><item>CALISTE, bergère aimée de Tircis.</item><item>CLIMÈNE, bergère aimée de Damon.</item><item>FORESTAN, satire, amant de Caliste.</item><item>SILVANDRE, satire, amant de Caliste.</item></list><p/></div>
+<div n="1" type="act">
+<head>PROLOGUE</head>
+<div n="1" type="scene">
+<head/>
+<stage>Le théâtre représente une grande Salle de Spectacle, où l'on voit une troupe de Peuples de différents Provinces, qui forment le début de ce Prologue.</stage>
+<sp who="LE CHOEUR">
+<speaker>LE CHOEUR.</speaker>
+<l>À moi, Monsieur, à moi de grâce, à moi Monsieur,</l>
+<l>Un livre, s'il vous plaît, à votre serviteur.</l>
+</sp>
+<sp who="HOMME DU BEL AIR">
+<speaker>HOMME DU BEL AIR.</speaker>
+<l>Monsieur, distinguez nous parmi les gens qui crient,</l>
+<l>Quelques livres ici, les Dames vous en prient.</l>
+</sp>
+<sp who="AUTRE HOMME DU BEL AIR">
+<speaker>AUTRE HOMME DU BEL AIR.</speaker>
+<l>Hola, Monsieur, Monsieur, ayez la charité </l>
+<l>D'en jeter de nôtre côté.</l>
+</sp>
+<sp who="FEMME DU BEL AIR">
+<speaker>FEMME DU BEL AIR.</speaker>
+<l>Mon_Dieu ! Qu'aux personnes bien faites</l>
+<l>On sait peu rendre honeur céans ?</l>
+</sp>
+<sp who="AUTRE FEMME DU BEL AIR">
+<speaker>AUTRE FEMME DU BEL AIR.</speaker>
+<l>Ils n'ont des livres et des bancs</l>
+<note>Grisette : femme ou fille jeune vêtue de gris. On le dit par mépris de toutes celles qui sont de basse condition, de quelque étoffe qu'elles soient vêtues. Des gens de qualité s'amusent souvent à frequenter des grisettes. [F]</note>
+<l>Que pour Mesdames les Grisettes.</l>
+</sp>
+<sp who="LE GASCON">
+<speaker>UN GASCON.</speaker>
+<l>Aho ! L'homme aux libres, qu'on m'en baille,</l>
+<l>J'ai déjà le poumon usé,</l>
+<l>Bous boyez que chacun mé raille,</l>
+<l>Et je fuis escandalisé</l>
+<l>De boir és mains de la canaille</l>
+<l>Ce qui m'est par bous refusé.</l>
+</sp>
+<sp who="AUTRE GASCON">
+<speaker>AUTRE GASCON.</speaker>
+<note>Cadédis : Jurement qu'on met habituellement dans la bouche des Gascons. On dit aussi cadédiou. Etymologie : Cap, tête, de Dis, de Dieu. [L]</note>
+<l>Eh, cadedis, Monseu, boyez qui l'on peut être,</l>
+<l>Un livret, je bous prie, au Baron Dasbarat ;</l>
+<l>Je pense, mordi, que le fat</l>
+<l>N'a pas l'honneur dé mé connaître.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Monsieur le donneur de papieir,</l>
+<l>Que veul dir sty façon de fifre ?</l>
+<l>Moi l'écorchair tout mon gozieir</l>
+<l>A crieir, </l>
+<l>Sans que je pouvre afoir ein lifre:</l>
+<l>Pardi, mon foi, Monsieur, je pense sous l'être ifre.</l>
+<stage>Le Donneur de livres fatigué par les quatre importuns, se retire en colère.</stage>
+</sp>
+<sp who="VIEUX BOURGEOIS BABILLARD">
+<speaker>VIEUX BOURGEOIS BABILLARD.</speaker>
+<l>De tout ceci franc et net,</l>
+<l>Je suis mal satisfait,</l>
+<l>Et cela sans doute est laid.</l>
+<l>Que notre fille </l>
+<l>Si bien faite et si gentille</l>
+<l>De tant d'amoureux l'objet,</l>
+<l>N'ait pas à son souhait</l>
+<l>Un livre de Ballet</l>
+<l>Pour lire le sujet</l>
+<l>Du divertissement qu'on fait,</l>
+<l>Et que toute notre famille</l>
+<l>Si proprement s'habille,</l>
+<l>Pour être placée au sommet</l>
+<l>De la Salle, où l'on met </l>
+<note>Gens de l'entriguet : gends d'importance. [L]</note>
+<l>Les gens de l'entriguet.</l>
+<l>De tout ceci franc et net</l>
+<l>Je suis mal satisfait,</l>
+<l>Et cela sans doute est laid.</l>
+</sp>
+<sp who="VIEILLE BOURGEOIS BABILLARDE">
+<speaker>VIEILLE BOURGEOIS BABILLARDE.</speaker>
+<l>Il est vrai que c'est une honte,</l>
+<l>Le sang au visage me monte.</l>
+<l>Et ce jetteur de vers qui manquent au capital</l>
+<l>L'entends fort mal,</l>
+<l>C'est un brutal.</l>
+<l>Un vrai cheval,</l>
+<l>Franc animal,</l>
+<l>De faire si peu de Comte</l>
+<l>D'une fille qui fait l'ornement principal</l>
+<l>Du quartier du Palais-Royal,</l>
+<l>Et que ces jours passés un Comte</l>
+<l>Fut prendre la première au bal.</l>
+<l>Il l'entend mal,</l>
+<l>C'est un brutal,</l>
+<l>Un vrai cheval</l>
+<l>Franc animal.</l>
+</sp>
+<sp who="HOMMES ET FEMMES DU BEL AIR">
+<speaker>HOMMES ET FEMMES DU BEL AIR.</speaker>
+<l>Ah quel bruit ! </l>
+<l>Quel fracas !</l>
+<l>Que cahos !</l>
+<l>Quel mélange !</l>
+<l>Quelle confusion !</l>
+<l>Quelle cohue étrange !</l>
+<l>Quel désordre ! </l>
+<l>Quel embarras !</l>
+<l>On y sèche,</l>
+<l>L'on y tient pas.</l>
+</sp>
+<sp who="LE GASCON">
+<speaker>LE GASCON.</speaker>
+<l>Bentre, je fuis à bout.</l>
+</sp>
+<sp who="AUTRE GASCON">
+<speaker>AUTRE GASCON.</speaker>
+<l>J'enrage, Dieu me damne.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Ah que lui faire foif dans sty fal de cians.</l>
+</sp>
+<sp who="LE GASCON">
+<speaker>LE GASCON.</speaker>
+<l>Je murs.</l>
+</sp>
+<sp who="AUTRE GASCON">
+<speaker>AUTRE GASCON.</speaker>
+<l>Je perds la tramontane.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Mon foi, moi le foudrais être hors de dedans.</l>
+</sp>
+<sp who="VIEUX BOURGEOIS BABILLARD">
+<speaker>VIEUX BOURGEOIS BABILLARD.</speaker>
+<l>Allons, ma vie,</l>
+<l>Suivez mes pas,</l>
+<l>Je vous en prie, </l>
+<l>Et ne me quittez pas ; </l>
+<l>On fait de nous trop peu de cas, </l>
+<l>Et je fuis las</l>
+<l>De ce tracas;</l>
+<l>Tout ce fatras,</l>
+<l>Cet embarras,</l>
+<l>Me pèse pas trop sur les bras ;</l>
+<l>S'il me prend jamais envie</l>
+<l>De retourner de ma vie</l>
+<l>À Ballet ni Comédie,</l>
+<l>Je veux bien qu'on m'estropie.</l>
+<l>Allons, ma mie,</l>
+<l>Suivez mes pas,	</l>
+<l>Je vous en prie,</l>
+<l>Et ne me quittez pas,</l>
+<l>On fait de nous trop peu de cas.</l>
+</sp>
+<sp who="VIEILLE BOURGEOIS BABILLARDE">
+<speaker>VIEILLE BOURGEOIS BABILLARDE.</speaker>
+<l>Allons, mon Mignon, mon fils,</l>
+<l>Regagnons notre logis,</l>
+<l>Et sortons de ce taudis</l>
+<l>Où l'on ne peut être assis ;</l>
+<l>Ils seront bien ébaubis?</l>
+<l>Quand ils nous verront partis /</l>
+<l>Trop de confusion règne dans cette salle,</l>
+<l>Et j'aimerais mieux être au milieu de la Halle :</l>
+<l>Si jamais je reviens à semblable régale,</l>
+<l>Je veux bien recevoir des soufflets plus de six.</l>
+<l>Allons, mon mignon, mon fils,</l>
+<l>Regagnons notre logis,</l>
+<l>Et sortons de ce taudis,</l>
+<l>Où l'on ne peut être assis.</l>
+<stage>Le Donneur de livres revient avec les quatre imprimeurs qui l'ont suivi, ce qui oblige encore ceux qui sont placés dans les balcons de s'écrier.</stage>
+</sp>
+<sp who="TOUS ENSEMBLE">
+<speaker>TOUS ENSEMBLE.</speaker>
+<l>À moi, Monsieur, à moi de grâce, à moi, Monsieur,</l>
+<l>Un livre, s'il vous plaît à votre serviteur.</l>
+</sp>
+<stage>Les quatre importuns ayant pris des livres des mains de celui qui les donne, les distribuent aux acteurs qui en demandent ; cependant le donneur de livres danse, et les quatre importuns se joignent avec lui, et forment ensemble la première entrée.</stage>
+</div>
+<div n="2" type="scene">
+<head>PREMIÈRE ENTRÉE. Le donneur de livres, quatre importuns.</head>
+<stage>La muse Polymnie qui préside aux Arts dépendant de la Géométrie, et qui a trouvé l'invention d'introduire sur le théâtre des personnages qui expriment par les actions et par les danses ce que les autres expliquent par des paroles, s'avance environnée d'un nuage qui paraît d'abord fermé, et qui s'ouvrant peu à peu découvre la Muse au milieu de plusieurs ornements de peinture et d'architecture. Elle excite ceux qui ont commencé de chanter d'une manière comique à rechercher avec soin tout ce qui l'on peut retrouver de plus noble et de plus délicat dans le chant.</stage>
+<sp who="POLYMNIE">
+<speaker>POLYMNIE.</speaker>
+<l>Élevez vos concerts</l>
+<l>Au dessus du chant ordinaire ;</l>
+<l>Songez que vous avez à plaire</l>
+<l>Au plus grand ROI de l'Univers.</l>
+<l>Le grand titre de Roi n'est que sa moindre gloire,</l>
+<l>Il est encor plus grand par les travaux guerriers ;</l>
+<l>Et sa propre valeur a cueilli les lauriers</l>
+<l>Dont il est couronné des mains de la Victoire.</l>
+<l>Suivez la noble ardeur </l>
+<l>Qu'il vous inspire ;</l>
+<l>Tout ce qu'on voit dans son Empire</l>
+<l>Se doit sentir de sa grandeur.</l>
+<stage>Melpomène qui préside à la tragédie et Euterpe qui a inventé l'Harmonie pastorale s'avancent sur deux nuages. Melpomène paraît au milieu de plusieurs trophées d'armes ; et Euterpe environnée de festons et de couronnes de fleurs. Elles sont précédées de deux symphonies opposées, dont l'une est très forte, et l'autre extrêmement douce, et qui forment une espèce de combat, tandis que les deux muses viennent se placer aux deux côtés de Polymnie pour la prier d'embellir les divertissements qu'elles veulent préparer.</stage>
+</sp>
+<sp who="MELPOMÈNE">
+<speaker>MELPOMÈNE.</speaker>
+<l>Joignez à mes chants magnifiques,</l>
+<l>La pompe de vos ornements.</l>
+</sp>
+<sp who="EUTERPE">
+<speaker>EUTERPE.</speaker>
+<l>Joignez à mes concerts rustiques,</l>
+<l>Vos agréments</l>
+<l>Les plus charmants.</l>
+</sp>
+<sp who="MELPOMÈNE">
+<speaker>MELPOMÈNE.</speaker>
+<l>Votre secours m'est nécessaire,</l>
+<l>Je cherche à divertir le plus Auguste Roi</l>
+<l>Qui méritât jamais de tenir sous sa loi</l>
+<l>Tout ce que le Soleil éclaire.</l>
+</sp>
+<sp who="MELPOMÈNE et EUTERPE">
+<speaker>MELPOMÈNE et EUTERPE.</speaker>
+<l>C'est à moi, c'est à moi,</l>
+<l>De prétendre à lui plaire,</l>
+</sp>
+<sp who="MELPOMÈNE">
+<speaker>MELPOMÈNE.</speaker>
+<l>C'est moi dont la voix éclatante</l>
+<l>A droit de célébrer les exploits les plus grands,</l>
+<l>Les nobles récits que je chante</l>
+<l>Sont les plus dignes jeux des fameux conquérants.</l>
+</sp>
+<sp who="EUTERPE">
+<speaker>EUTERPE.</speaker>
+<l>C'est un doux amusement</l>
+<l>Que d'aimables chansonnettes ;</l>
+<l>Les douceurs n'en sont pas faites</l>
+<l>Pour les bergers seulement.</l>
+<l>Les tendres chansonnettes</l>
+<l>Que l'on chante à l'ombre des bois</l>
+<l>Sur les Musettes,</l>
+<l>Ne sont pas quelques fois</l>
+<l>Des jeux indignes des grands Rois.</l>
+</sp>
+<sp who="POLYMNIE">
+<speaker>POLYMNIE.</speaker>
+<l>Il faut entre mes soeurs que mon soin se partage :</l>
+<l>Préparez tour à tour vos plus aimables jeux ;</l>
+<l>Pour vous accorder, je m'engage</l>
+<l>À vous seconder toutes deux.</l>
+</sp>
+<sp who="EUTERPE">
+<speaker>EUTERPE.</speaker>
+<l>Commencez de répondre à mon impatience.</l>
+</sp>
+<sp who="MELPOMÈNE">
+<speaker>MELPOMÈNE.</speaker>
+<l>Vos premiers soins sont dûs à ce que j'entreprends.</l>
+</sp>
+<sp who="POLYMNIE">
+<speaker>POLYMNIE.</speaker>
+<l>Terminez tous vos différents.</l>
+<stage>Polymnie dit ces deux vers à Melpomène.</stage>
+<l>Souffrez qu'en sa faveur aujourd'hui je commence,</l>
+<l>Je réserve pour vous mes travaux les plus grands.</l>
+</sp>
+<sp who="LES TROIS MUSES">
+<speaker>LES TROIS MUSES ENSEMBLE.</speaker>
+<l>Que notre accord est doux !</l>
+<l>Que tout ce qui nous fuit s'accorde comme nous.</l>
+</sp>
+<stage>Des héros, des pâtres, et des ouvriers des Arts qui servent aux spectacles, obéissent aux ordres des Muses. Les héros font une manière de combat avec leurs armes, les pâtres jouent avec leurs bâtons, les ouvriers travaillent aux décorations de la Pastorale que l'on prépare, et accordent le bruit de leurs marteaux, scies et rabots, avec l'harmonie des violons et des haut-bois, et tous ensemble forment le seconde entrée.</stage>
+</div>
+<div n="3" type="scene">
+<head>SECONDE ENTRÉE. Quatre héros, quatre Pâtres et quatre ouvriers.</head>
+<stage>Toute la troupe qui avait commencé de chanter d'une manière comique avant l'arrivée des trois muses, se sentant animée par leur présence, répond à leurs chants par des choeurs.</stage>
+<sp who="LES TROIS MUSES">
+<speaker>LES TROIS MUSES ensemble.</speaker>
+<l>Joignons nos soins et nos voix</l>
+<l>Pour plaire au plus grand des Rois.</l>
+</sp>
+<sp who="CHOEURS">
+<speaker>LES CHOEURS répètent.</speaker>
+<l>Joignons nos soins et nos voix</l>
+<l>Pour plaire au plus grand des Rois.</l>
+</sp>
+<sp who="MELPOMÈNE">
+<speaker>MELPOMÈNE.</speaker>
+<l>Chantons la gloire de ses armes.</l>
+</sp>
+<sp who="UN CHOEUR">
+<speaker>UN CHOEUR répète.</speaker>
+<l>Chantons la gloire de ses armes.</l>
+</sp>
+<sp who="EUTERPE">
+<speaker>EUTERPE.</speaker>
+<l>Chantons la douceur de ses lois.</l>
+</sp>
+<sp who="UN CHOEUR">
+<speaker>UN CHOEUR répète.</speaker>
+<l>Chantons la douceur de ses lois.</l>
+</sp>
+<sp who="POLYMNIE">
+<speaker>POLYMNIE.</speaker>
+<l>Faisons tout retentir du bruit de ses exploits.</l>
+</sp>
+<sp who="TOUS LES CHOEURS">
+<speaker>TOUS LES CHOEURS.</speaker>
+<l>Chantons la gloire de ses armes.</l>
+</sp>
+<sp who="MELPOMÈNE">
+<speaker>MELPOMÈNE.</speaker>
+<l>Formons des concerts pleins de charmes.</l>
+</sp>
+<sp who="EUTERPE">
+<speaker>EUTERPE.</speaker>
+<l>Faisons entendre nos hautbois.</l>
+<stage>Les hautbois et les musettes répondent et cependant les héros et les pâtres rentrent sur le théâtre avec les ouvriers qui apportent des ornements qu'ils ont faits pour servir la pièce qui va commencer, et autour desquels les héros et les pâtres dansent, tandis que le smuses et tous les choeurs continuent leurs chants. Ce qui forme un jeu concerté des Muses qui chantent dans leurs machines au milieu des nuages, de la troupe qui leur répond, placée dans les balcons, et des héros, pâtres, et ouvriers, qui dansent sur le théâtre.</stage>
+</sp>
+<sp who="TOUS ENSEMBLE">
+<speaker>TOUS ENSEMBLE.</speaker>
+<l>Faisons tout retentir du bruit de ses exploits.</l>
+</sp>
+<sp who="POLYMNIE">
+<speaker>POLYMNIE.</speaker>
+<l>Préparons des fêtes nouvelles</l>
+</sp>
+<sp who="MELPOMÈNE">
+<speaker>MELPOMÈNE.</speaker>
+<l>Que nos chansons soient immortelles.</l>
+</sp>
+<sp who="EUTERPE">
+<speaker>EUTERPE.</speaker>
+<l>Que nos airs soient doux et touchants.</l>
+</sp>
+<sp who="TOUS ENSEMBLE">
+<speaker>TOUS ENSEMBLE.</speaker>
+<l>Mêlons aux plus aimables chants</l>
+<l>Les danses les plus belles.</l>
+<l>Joignons nos soins et nos voix.</l>
+<l>Pour plaire au plus grand des rois.</l>
+</sp>
+</div>
+</div>
+<div n="1" type="act">
+<head>ACTE I</head>
+<stage>Le Théatre représente une épaisse forêt, où ces chutes d'eaux coulent entre les arbres : on voit dans l'enfoncement deux montagnes séparées par une belle vallée où tombe une rivière par diverses cascades qui produisent plusieurs effets agréables et différents.</stage>
+<div n="1" type="scene">
+<head>SCÈNE I.</head>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Vous chantez sous ces feuillages, </l>
+<l>Doux rossignols pleins d'amour,</l>
+<l>Et de nos tendres ramages,</l>
+<l>Vous réveillez tour à tour</l>
+<l>Les échos de ces boccages :</l>
+<l>Hélas ! Petits oiseaux, hélas !</l>
+<l>Si vous aviez mes maux vous ne chanteriez pas.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Licaste, Ménandre, Tircis.</head>
+<sp who="LICASTE">
+<speaker>LICASTE.</speaker>
+<l>Hé quoi, toujours languissant, sombre et triste ?</l>
+</sp>
+<sp who="MÉNANDRE">
+<speaker>MÉNANDRE.</speaker>
+<l>Hé quoi, toujours aux pleurs abandonné ?</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Toujours adorant Caliste,</l>
+<l>Et toujours infortuné.</l>
+</sp>
+<sp who="LICASTE">
+<speaker>LICASTE.</speaker>
+<l>Dompte, dompte, Berger, l'ennui qui te possède.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Et le moyen, hélas !</l>
+</sp>
+<sp who="MÉNANDRE">
+<speaker>MÉNANDRE.</speaker>
+<l>Fais, Fais-toi quelque effort.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Eh le moyen, hélas ! Quand le mal est si fort ?</l>
+</sp>
+<sp who="LICASTE">
+<speaker>LICASTE.</speaker>
+<l>Ce mal trouvera son remède.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Je ne guérirai qu'à ma mort.</l>
+</sp>
+<sp who="LICASTRE, MÉNANDRE">
+<speaker>LICASTRE et MÉNANDRE, ensemble.</speaker>
+<l>Ah, Tircis !</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Ah, Bergers !</l>
+</sp>
+<sp who="CALISTE, MÉNANDRE">
+<speaker>CALISTE et MÉNANDRE.</speaker>
+<l>Prends sur toi plus d'empire.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Rien ne me peut plus secourir;</l>
+</sp>
+<sp who="CALISTE, MÉNANDRE">
+<speaker>CALISTE et MÉNANDRE.</speaker>
+<l>C'est trop, c'est trop céder.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>C'est trop, c'est trop souffrir.</l>
+</sp>
+<sp who="CALISTE, MÉNANDRE">
+<speaker>CALISTE et MÉNANDRE.</speaker>
+<l>Quelle faiblesse !</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Quel martyre !</l>
+</sp>
+<sp who="CALISTE, MÉNANDRE">
+<speaker>CALISTE et MÉNANDRE.</speaker>
+<l>Il faut prendre courage.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Il faut plutôt mourir</l>
+</sp>
+<sp who="LICASTE">
+<speaker>LICASTE.</speaker>
+<l>Il n'est point de bergère</l>
+<l>Si froide et si sévère,</l>
+<l>Dont la pressante ardeur</l>
+<l>D'un coeur qui persévère,</l>
+<l>Ne vainque la froideur.</l>
+<l>Il est dans les affaires</l>
+<l>Des amoureux mystères,</l>
+<l>Certains petits moments</l>
+<l>Qui changent les plus fières,</l>
+<l>Et font d'heureux amants.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Je le vois, la cruelle,</l>
+<l>Qui porte ici ses pas,</l>
+<l>Gardons d'être vu d'elle,</l>
+<l>L'ingrate, hélas!</l>
+<l>N'y viendrait pas.</l>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Climène, Caliste.</head>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Viens dans notre village :</l>
+<l>Voici le jour</l>
+<l>Qu'on doit célébrer la fête de L'Amour,</l>
+<l>Que cherches-tu dans ce boccage ?</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Je cherche le repos, le silence, et l'ombrage.</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Tu devrais bien plutôt songer</l>
+<l>À t'engager.</l>
+<l>Eh Que peut faire </l>
+<l>Une bergère </l>
+<l>Sans un berger ?</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Ton malheur doit me rendre sage :</l>
+<l>Tu n'as choisi qu'un inconstant.</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Si mon berger devient volage,</l>
+<l>Il m'est permis d'en faire autant.</l>
+<l>On goûte la douceur d'une amour éternelle,</l>
+<l>Quand on fait l'heureux choix d'un fidèle berger,</l>
+<l>Et quand on aime un infidèle,</l>
+<l>L'on a le plaisir de changer.</l>
+<l>Quoi ! L'amour de Tircis ne t'a point attendrie ?</l>
+<l>Lorsqu'on en veut parler, tu n'écoutes jamais ?</l>
+<l>Ne rêve plus où je m'en vais.</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Laisse-moi dans la rêverie.</l>
+<l>Ah ! Que sous ce feuillage épais</l>
+<l>Il est doux de rêver en paix !</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Je n'entre point dans un mystère</l>
+<l>Que tu veux réserver :</l>
+<l>Mais un coeur sans affaire</l>
+<l>Ne donne point tant à rêver.</l>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV.</head>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Ah ! Que sur notre coeur</l>
+<l>La sévère loi de l'honneur</l>
+<l>Prend un cruel empire !</l>
+<l>Je ne fais voir que rigueurs pour Tircis,</l>
+<l>Et cependant sensible à ses cuisants soucis.</l>
+<l>De sa langueur en secret je soupire,</l>
+<l>Et voudrais bien soulager son martyre ;</l>
+<l>C'est à vous seuls que je le dis,</l>
+<l>Arbres, n'allez pas le redire.</l>
+<l>Puisque le Ciel a voulu nous former</l>
+<l>Avec un coeur qu'Amour peut enflammer,</l>
+<l>Quelle rigueur impitoyable</l>
+<l>Contre des traits si doux nous force à nous armer ?</l>
+<l>Et pourquoi sans être blâmable</l>
+<l>Ne peut-on pas aimer</l>
+<l>Ce que l'on trouve aimable ?</l>
+<l>Hélas ! Petits oiseaux, que vous êtes heureux</l>
+<l>De ne sentir nulle contrainte,</l>
+<l>Et de pouvoir suivre sans crainte</l>
+<l>Les doux emportements de vos coeurs amoureux !</l>
+<l>Mais le sommeil sur ma paupière</l>
+<l>Verse de ses pavots l'agréable fraîcheur,</l>
+<l>Donnons-nous à lui toute entière,</l>
+<l>Nous n'ayons point de loi sévère</l>
+<l>Qui défende à nos sens d'en goûter la douceur.</l>
+<stage>La bergère Caliste s'endort sur un gazon.</stage>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Tircis, Licaste, Ménandre, Caliste, endormie.</head>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Vers ma belle ennemie</l>
+<l>Portons sans bruit nos pas,</l>
+<l>Et nous réveillons pas</l>
+<l>Sa rigueur endormie.</l>
+</sp>
+<sp who="MÉNANDRE, LICASTE, TIRCIS">
+<speaker>MÉNANDRE, LICASTE et TIRCIS, ensemble.</speaker>
+<l>Dormez, Dormez beaux yeux adorables vainqueurs,</l>
+<l>Et goûtez le repos que vous vous ôtez aux coeurs.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Silence, petits oiseaux,</l>
+<l>Vents n'agitez nulle chose .</l>
+<l>Coulez doucement ruisseaux,</l>
+<l>C'est Caliste qui repose.</l>
+</sp>
+<sp who="MÉNANDRE, LICASTE, TIRCIS">
+<speaker>TOUS TROIS.</speaker>
+<l>Dormez, Dormez beaux yeux adorables vainqueurs,</l>
+<l>Et goûtez le repos que vous vous ôtez aux coeurs.</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE, s'éveillant.</speaker>
+<l>Ah ! Quelle peine extrême !</l>
+<l>Suivre partout mes pas ?</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Que vouslez-vous qu'on suive, hélas!</l>
+<l>Que ce qu'on aime.</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Berger, que voulez-vous ?</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Mourir belle bergère, </l>
+<l>Mourir à vos genoux,</l>
+<l>Et finir ma misère,</l>
+<l>Puisqu'en vain à vos pieds, on me voit soupirer,</l>
+<l>Il y faut expirer.</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Ah! Tircis, ôtez-vous, j'ai peur que dans de jour,</l>
+<l>La pitié dans mon coeur n'introduise l'amour.</l>
+</sp>
+<sp who="LICASTE, MÉNANDRE">
+<speaker>LICASTE et MÉNANDRE.</speaker>
+<l>Soit amour, soit pitié,</l>
+<l>Il sied bien d'être tendre ;</l>
+<l>C'est pas trop vous défendre,</l>
+<l>Bergers, il faut le rendre</l>
+<l>À la longue amitié.</l>
+<l>Soit amour, soit pitié,</l>
+<l>Il sied bien d'être tendre ;</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>C'est trop, c'est trop de rigueur,</l>
+<l>J'ai mal traité votre ardeur</l>
+<l>Crucifiant votre personne,</l>
+<l>Vengez-vous de mon coeur,</l>
+<l>Tircis, je vous le donne.</l>
+</sp>
+<sp who="TIRCIS">
+<speaker>TIRCIS.</speaker>
+<l>Ô ciel ! Bergers ! Caliste ! Ah je suis hors de moi !</l>
+<l>Si l'on meurt de plaisir je dois perdre la vie.</l>
+</sp>
+<sp who="LICASTE">
+<speaker>LICASTE.</speaker>
+<l>Digne prix de ta foi !</l>
+</sp>
+<sp who="MÉNANDRE">
+<speaker>MÉNANDRE.</speaker>
+<l>Ô ! Sort digne d'envie !</l>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Forestan, Silvandre, Caliste, Tircis.</head>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Quoi ! Tu me fuis, Ingrate, et je te vois ici</l>
+<l>De ce berger à moi faire une préférence ?</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Quoi, mes soins n'ont rien pu sur ton indifférence,</l>
+<l>Et pour ce langoureux ton coeur s'est adouci ?</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Le destin le veut ainsi,</l>
+<l>Prenez tous deux patience.</l>
+</sp>
+<sp who="FOSRESTAN">
+<speaker>FOSRESTAN.</speaker>
+<l>Aux amants qu'on pousse à bout,</l>
+<l>L'amour fait verser des larmes ;</l>
+<l>Mais ce n'est pas notre goût,</l>
+<l>Et la bouteille a des charmes</l>
+<l>Qui nous consolent de tout.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Notre amour n'a pas toujours</l>
+<l>Tout le bonheur qu'il désire. </l>
+<l>Mais nous avons un secours,</l>
+<l>Et le bon vin nous fait rire</l>
+<l>Quand on rit de nos amours.</l>
+</sp>
+<sp who="TOUS">
+<speaker>TOUS.</speaker>
+<l>Champêtres Divinités, </l>
+<l>Faunes, Driades, sortez</l>
+<l>De vos paisibles retraites ;</l>
+<l>Mêlez vos pas à nos sons. </l>
+<l>Et tracez sur les herbettes.</l>
+<l>L'image de nos chansons.</l>
+</sp>
+<stage>Quatre faunes sortent avec de petits tambours, et quatre driades avec des festons de fleurs. Ils forment ensemble une entrée qui finit le premier acte.</stage>
+</div>
+<div n="6" type="scene">
+<head>TROISIÈME ENTRÉE.</head>
+<stage>Quatre faunes, quatre driades.</stage>
+</div>
+</div>
+<div n="3" type="act">
+<head>ACTE II</head>
+<stage>Le théâtre représente un vieux château qui était autrefois la demeure des Seigneurs du prochain village, et qui tombe entièrement en ruines. On y voit en plusieurs endroits des arbres et des ronces, et dans l'enfoncement, au travers d'une arcade à demie rompue, on découvre les vestiges de trois grandes allées de cyprès à perte de vue.</stage>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE.</head>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Je ne puis souffrir l'outrage</l>
+<l>Que Caliste fait à ma foi :</l>
+<l>Dans le fonds de mon coeur j'enrage</l>
+<l>Qu'elle aime un autre que moi.</l>
+<l>Deux enchanteurs m'ont fait entendre</l>
+<l>Qu'ils ont le secret de me rendre</l>
+<l>Tel qu'il faut être pour charmer ;</l>
+<l>Caliste aura beau se défendre,</l>
+<l>Je la contraindrai de m'aimer.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Forestan, Deux magiciens, Trois sorcières, Six démons dansants, et sept autres démons volants.</head>
+<stage>C'est dans cette scène que les lutins déguisés font une cérémonie magique pour feindre d'embellir Forestan, et pour se moquer de lui. Deux magiciens paraissent chacun une baguette à la main, ils frappent, la Terre en dansant, et font sortir six démons qui se joignent avec eux. Trois sorcières sortent aussi de dessous terre, et faisant asseoir Forestan au milieu d'elles, mêlent leur chants aux danses des Magiciens et des Démons, pour former une manière d'enchantement.</stage>
+</div>
+<div n="3" type="scene">
+<head>QUATRIÈME ENTRÉE. Deux magiciens, Six démons.</head>
+<sp who="LES TROIS SORCIÈRES">
+<speaker>LES TROIS SORCIÈRES, ensemble.</speaker>
+<l>Déesse des appas,</l>
+<l>Ne nous refuse pas</l>
+<l>La grace qu'implorent nos bouches :</l>
+<l>Nous t'en prions par tes rubans,</l>
+<l>Par tes boucles de diamants,</l>
+<note>Mouche : Petit morceau de taffetas noir, de la grandeur d'environ l'aile d'une mouche, que les dames se mettent sur le visage. Une boîte à mouches. [L]</note>
+<l>Ton rouge, ta poudre, tes mouches,</l>
+<l>Ton masque, ta coiffe et tes gants.</l>
+</sp>
+<sp who="UNE SORCIÈRE">
+<speaker>UNE SORCIÈRE, seule.</speaker>
+<l>Ô toi ? Qui peux rendre agréables </l>
+<l>Les villages les plus mal faits,</l>
+<l>Répand, Vénus, de tes attraits</l>
+<l>Deux ou trois doses charitables</l>
+<l>Sur ce museau tondu tout frais.</l>
+<stage>Les démons habillent Forestan d'une manière bizarre et ridicule, tandis que les magiciens et les autres démons dansent, les trois sorcières chantent.</stage>
+</sp>
+<sp who="LES TROIS SORCIÈRES">
+<speaker>LES TROIS SORCIÈRES, ensemble.</speaker>
+<l>Ah qu'il est beau</l>
+<l>Le jouvenceau,</l>
+<l>Ah qu'il est beau.</l>
+<l>Qu'il va faire mourir de belles :</l>
+<l>Auprès de lui les plus cruelles</l>
+<l>Ne pourront tenir dans leur peau.</l>
+<l>Ah qu'il est beau</l>
+<l>Le jouvenceau,</l>
+<l>Ah qu'il est beau !</l>
+<l>Ho, ho, ho, ho, ho, ho... </l>
+<l>Qu'il est joli ! </l>
+<l>Gentil, poli !</l>
+<l>Qu'il est joli ! </l>
+<l>Est-il des yeux qu'il ne ravisse !</l>
+<note>Narcisse : Fils du fleuve de Céphise et de la nymphe Liriope, était d'une beauté remarquable. Aprsè avoir méprisé l'maour de la nymphe Echo, il devint amoureux de sa propre image, qui était reflétée par sa propre image, et, de chgrin de ne pouvoir la posséder, se noya dans le source où il l'apercevait. </note>
+<l>Il passe en beauté feu Narcisse</l>
+<note>Blondin : qui a les cheveux blonds, ou une perruque blonde. "Les coquettes aiment fort les blondins, ce sont de vrais séducteurs de femmes." Molière [F]</note>
+<l>Qui fut un blondin accompli.</l>
+<l>Qu'il est joli ! </l>
+<l>Gentil, poli !</l>
+<l>Qu'il est joli ! </l>
+<l>Hi, hi, hi, hi, hi, hi... </l>
+<stage>Les trois sorcières qui chantent s'enfoncent dans la Terre, les deux magiciens et les six démons qui dansent disparaissent, et dans le même temps quatre autres démons qui partent de quatre côtés différents, croisent dans l'air, et trois autres petits démons qui sortent de Terre, et qui tous trois s'élèvent en rond, après avoir fait trois tours en volant, se vont perdre dans les nuages au milieu du théâtre.</stage>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III.</head>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Qu'un beau visage </l>
+<l>A d'avantage !</l>
+<l>Tout lui rit, Tout lui fait la cour :</l>
+<l>Que l'on verra dans ce boccage</l>
+<l>De bergères mourir d'amour</l>
+<l>Et de bergers crever de rage !</l>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Silvandre, Forestan.</head>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Forestan, Forestan, es-tu là ?</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Beau comme je dois être</l>
+<l>Il va me voir sans me connaitre.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Ô ! Forestan ? Ah ! Te voilà.</l>
+<l>Pourquoi t'amuser de la sorte ?</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Qu'importe, qu'importe !</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Hé quoi ! Ne veux-tu pas aller</l>
+<l>Où nous devons nous assembler ?</l>
+<l>Ton impatience est peu forte.</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Qu'importe, qu'importe !</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Veux-tu souffrir en ce jour</l>
+<l>Que le faible dieu d'amour</l>
+<l>Sur le Dieu du vin l'emporte ?</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Qu'importe, qu'importe !</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Allons ; c'est trop railler.</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>À qui crois-tu parler ?</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Quel badinage ! </l>
+<l>Tu n'es pas sage ;</l>
+<l>La fête de Bacchus commencera bientôt.</l>
+<l>Allons, sans tarder davantage,</l>
+<l>Allons-y boire comme il faut.</l>
+<stage>Foringestan affecte de faire l'agréable, et quitte son ton naturel de basse pour chanter en fausset.</stage>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Il est bien doux de boire ;</l>
+<l>On peut en faire gloire.</l>
+<l>Quand on n'a pas de quoi charmer :</l>
+<l>Bacchus sait consoler un amant misérable ;</l>
+<l>Mais quand on est aimable,</l>
+<l>Il n'est rien si doux que d'aimer.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Que veux-tu dire ?</l>
+<l>D'où vient ce caprice nouveau ?</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Regarde, considère, admire.</l>
+<l>Ah qu'il est beau !</l>
+<l>Ho, ho, ho, ho, ho, ho... </l>
+<l>Ah qu'il est beau.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Dis-moi donc je te prie</l>
+<l>De quelle folle rêverie</l>
+<l>Ton cerveau s'est rempli ?</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Qu'il est joli ! </l>
+<l>Hi, hi, hi, hi, hi, hi... </l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Consulte la Fontaine</l>
+<l>La plus prochaine,</l>
+<l>Mire-toi dans son eau.</l>
+<stage>Forestan s'approche d'une Fontaine qui paraît au milieu du théâtre, et dans le moment qu'il se baisse pour le regarder dans l'eau, il en sort deux sirènes qui lui présentent un grand miroir. Forestan s'y voit aussi laid qu'il était avant la cérémonie magique ; et dans la rage qu'il a de la tromperie qu'on lui a faite, il veut frapper de sa massue les deux sirènes qui se moquent de lui, mais elles évitent ses coups, en se plongeant et en se perdant dans la Fontaine, qui disparaît en un moment.</stage>
+<l>Ah qu'il est beau !</l>
+<l>Ho, ho, ho, ho, ho, ho... </l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Je suis digne de railleries ;</l>
+<l>On m'a fait une fourberie :</l>
+<l>Mais, si je la mets en oubli...</l>
+<l>Non, non, les imposteurs n'auront pas lieu de rire.</l>
+<stage>Deux sorcières affreuses paraissent aux deux côtés du théâtre, et présentent chacun un miroir à Forestan.</stage>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Regarde, considère, admire.</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Ah ! Je vais vous payer de m'avoir embelli.</l>
+<stage>Forestan s'avance vers une des sorcières, et la veut frapper de sa massue, mais la sorcière évite le coup en s'envolant, le Satire ne frappe que l'air, et sa massue lui échappe des mains. Il court vers l'autre sorcière, il l'attrape, mais dans le moment qu'il se jette sur elle, et qu'il la tient, il ne lui demeure entre les mains qu'une figure de sorcière qui lui fait la grimace, et lui présente un miroir, tandis qu'un petit lutin qui était enfermé dedans, s'envole en se moquant du Satire.</stage>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV.</head>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Qu'il est joli !</l>
+<l>Hi, hi, hi, hi...</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>C'est un tour es Lutins errants dans ce boccage</l>
+<l>Dont il faut que je sois vengé.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Hé, hé, hé, hé, hé, hé...</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Tu ris quand je suis outragé ?</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE, riant.</speaker>
+<l>Hé, hé, hé, hé, hé, hé...</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Ne m'insulte point davantage ;</l>
+<l>Va rire ailleurs ;</l>
+<l>Je suis dans une rage</l>
+<l>Qui pourrait bien tourner sur les méchants railleurs.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Ami, me veux-tu croire,</l>
+<l>Ne songeons plus qu'à boire ;</l>
+<l>Fuyons l'amour, et le chagrin,</l>
+<l>Suivons Bacchus, courons au vin.</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Au vin, au vin, au vin, au vin,</l>
+</sp>
+<sp who="SILVANDRE, FORESTAN">
+<speaker>SILVANDRE et FORESTAN, ensemble.</speaker>
+<l>Fuyons l'amour et le chagrin,</l>
+<l>Suivons Bacchus, courons au vin.</l>
+<l>Au vin, au vin, au vin, au vin,</l>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Damon, Silvandre, Forestan</head>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>Ma bergère a changé, je veux changer comme elle.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Suis les lois de Bacchus, tu t'en trouveras bien.</l>
+</sp>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>Heureux qui peut aimer une beauté fidèle !</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Plus heureux qui peut n'aimer rien.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Viens avec nous goûter la vie ;</l>
+<l>Quitte une volage beauté,</l>
+<l>Comme elle t'a quitté:</l>
+<l>Profite de sa perfidie,</l>
+<l>Viens jouir de la liberté.</l>
+</sp>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>C'est pour servir Cloris que je quitte Climène,</l>
+<l>Et mon coeur sans aimer ne saurait vivre un jour ,</l>
+<l>Qui s'engage une fois peut bien changer de chaine ;</l>
+<l>Mais, il est mal aisé d'échapper à l'Amour.</l>
+</sp>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Sous l'amoureux empire,</l>
+<l>On n'est point sans tourment ;</l>
+<l>Je te plains pauvre amant,</l>
+<l>Langui, gémi, soupire ;</l>
+<l>Nous allons rire, </l>
+</sp>
+<sp who="SILVANDRE, FORESTAN">
+<speaker>SILVANDRE et FORESTAN, ensemble.</speaker>
+<l>Fuyons l'amour et le chagrin,</l>
+<l>Suivons Bacchus, courons au vin.</l>
+<l>Au vin, au vin, au vin, au vin,</l>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Damon, Climène.</head>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>Ma volage s'avance.</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Voici mon infidèle amant.</l>
+</sp>
+<sp who="DAMON, CLIMÈNE">
+<speaker>DAMON et CLIMÈNE.</speaker>
+<l>Vengeons-nous de son inconstance.</l>
+<l>Ô ! La douce vengeance</l>
+<l>Qu'un heureux changement !</l>
+</sp>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>Quand je plaisais à tes yeux</l>
+<l>J'étais content de ma vie,</l>
+<l>Et ne voyais Rois ni Dieux</l>
+<l>Dont le sort me fit envie.</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Lorsqu'à toute autre personne </l>
+<l>Me préférait ton ardeur.</l>
+<l>J'aurais quitté la couronne</l>
+<l>Pour régner dessus ton coeur.</l>
+</sp>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>Une autre a guéri mon âme, </l>
+<l>Des feux que j'avais pour toi.</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Une autre a vengé ma flamme</l>
+<l>Des faiblesses de ta foi.</l>
+</sp>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>Cloris qu'on vante si fort</l>
+<l>M'aime d'une ardeur fidèle,</l>
+<l>Si ses yeux voulaient ma mort,</l>
+<l>Je mourrais content pour elle.</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Mirtil si digne d'envie,</l>
+<l>Me chérit plus que le jour,</l>
+<l>Et moi je perdrais la vie</l>
+<l>Pour lui montrer mon amour.</l>
+</sp>
+<sp who="DAMON">
+<speaker>DAMON.</speaker>
+<l>Mais si d'une douce ardeur</l>
+<l>Quelque renaissance trace</l>
+<l>Chassait Cloris de mon coeur</l>
+<l>Pour te remettre en sa place ?</l>
+</sp>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Bien qu'avec pleine tendresse </l>
+<l>Mirtil me puisse chérir,</l>
+<l>Avec toi, je le confesse,</l>
+<l>Je voudrais vivre et mourir.</l>
+</sp>
+<sp who="DAMON, CLIMÈNE">
+<speaker>DAMON et CLIMÈNE, ensemble.</speaker>
+<l>Ah ! Plus que jamais aimons-nous,</l>
+<l>Et vivons et mourons en des liens si doux.</l>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Troupe de bergers et de bergères, Damon, Climène.</head>
+<stage>Une troupe de bergers et de bergères qui voient Damon et Climène raccommodés en témoignent leur joie.</stage>
+<sp who="TROUPE DE BERGERS ET DE BERGÈRES">
+<speaker>TROUPE DE BERGERS ET DE BERGÈRES.</speaker>
+<l>Amants, que vos querelles</l>
+<l>Sont aimables et belles ;</l>
+<l>Qu'on y voit succéder</l>
+<l>De plaisirs, de tendresse !</l>
+<l>Querellez-vous sans cesse,</l>
+<l>Pour vous racommoder.</l>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Arcas, Damon, Climène, Troupe de bergers et de bergères.</head>
+<sp who="ARCAS">
+<speaker>ARCAS.</speaker>
+<l>Venez, que rien ne vous arrête,</l>
+<l>Ne perdez point d'heureux moments ;</l>
+<l>Venez tous voir la fête</l>
+<l>Que l'on apprête</l>
+<l>À l'honneur du Dieu des Amants :</l>
+<l>Les plaisirs où l'Amour convie</l>
+<l>Sont les plus charmants de la vie,</l>
+<l>Il en faut jouir tant qu'on peut,</l>
+<l>On ne les a pas quand on veut.</l>
+</sp>
+</div>
+</div>
+<div n="3" type="act">
+<head>ACTE III</head>
+<stage>Le théâtre se change et représente une grande allée d'arbres d'une extrême hauteur, lesquels mêlent leurs branches les unes avec les autres, et forment une manière de voûte de verdure, où plusieurs pasteurs jouant de différents instruments, se retrouvent placés ; un grand nombre de bergers et de bergères paraissent sous cette voûte et commencent la fête de l'Amour, par ces chansons où les danses se mêlent de temps en temps.</stage>
+<div n="1" type="scene">
+<head>SCÈNE I. Troupes de pasteurs, de bergers et de bergères.</head>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Ici l'ombre des ormeaux</l>
+<l>Donne un teint frais aux herbettes,</l>
+<l>Et les bords de ces ruisseaux.</l>
+<l>Brillent de mille fleurettes</l>
+<l>Qui se mirent dans les eaux.</l>
+<l>Prenez bergers, vos musettes.</l>
+<note>Chalumeau : se dit aussi d'un instrument de musique champêtre, soit d'un, soit de plusieurs tuyaux de blé, soit de quelque matière déliée. [F]</note>
+<l>Ajustez vos chalumeaux,</l>
+<l>Et mêlons nos chansonnettes</l>
+<l>Aux chants de petits oiseaux.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>CINQUIÈME ENTRÉE. Quatre bergers, quatre bergères.</head>
+<sp who="CLIMÈNE">
+<speaker>CLIMÈNE.</speaker>
+<l>Le zéphire entre ces eaux,</l>
+<l>Fait mille courses secrètes,</l>
+<l>Et les rossignols nouveaux,</l>
+<l>De leur douces amourettes,</l>
+<l>Parlent aux tendres rameaux.</l>
+<l>Prenez Bergers, vos musettes,</l>
+<l>Ajustez vos chalumeaux,</l>
+<l>Et mêlons nos chansonnettes</l>
+<l>Aux chants de petits oiseaux.</l>
+</sp>
+<stage>Les bergers et les bergères continuent de mêler les danses aux chansons.</stage>
+<sp who="CLORIS">
+<speaker>CLORIS.</speaker>
+<l>Ah ! Qu'il est doux, belle Silvie,</l>
+<l>Ah ! Qu'il est doux de s'enflammer !</l>
+<l>Il faut retrancher de la vie,</l>
+<l>Ce qu'on en passe sans aimer.</l>
+<l>Ah ! Qu'il est doux, belle Silvie,</l>
+<l>Ah ! Qu'il est doux de s'enflammer !</l>
+</sp>
+<sp who="SILVIE">
+<speaker>SILVIE.</speaker>
+<l>Ah ! Les beaux jours qu'Amour nous donne</l>
+<l>Lorsque sa flamme unit les coeurs !</l>
+<l>Est-il ni gloire, ni couronne</l>
+<l>Qui vaille ses moindres douceurs ?</l>
+<l>Ah ! Qu'il est doux, belle Silvie,</l>
+<l>Ah ! Qu'il est doux de s'enflammer !</l>
+</sp>
+<sp who="ARCAS">
+<speaker>ARCAS.</speaker>
+<l>Qu'avec peu de raison on se palint d'un martyre</l>
+<l>Que suivent de si doux plaisirs !</l>
+</sp>
+<sp who="TIRCIS, ARCAS">
+<speaker>TIRCIS et ARCAS.</speaker>
+<l>Un moment de bonheur dans l'amoureux empire,</l>
+<l>Répare dix ans de soupirs.</l>
+</sp>
+<sp who="CHOEURS">
+<speaker>TOUS ENSEMBLE.</speaker>
+<l>Chantons tous de l'Amour le pouvoir adorable,</l>
+<l>Chantons dans ces lieux,</l>
+<l>Ses attraits glorieux,</l>
+<l>Il est le plus aimable,</l>
+<l>Et le plus grand des Dieux.</l>
+<stage>La perspective s'ouvre, et laisse paraître dans le fond du théâtre un autre manière de voûte de treille, sous laquelle une multitude de suivants de Bacchus sont placés, les uns dans des tonneaux, et les autres sur une espèce d'Amphithéâtre couvert de pampres de vigne, qui tous jouent de différents instruments, tandis que plusieurs autres satires et silvains s'avancent au milieu du théâtre pour interrompre la fête de l'Amour, et pour en célébrer une plus solennelle à la gloire de Bacchus.</stage>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE II. Troupes de satires, de bacchantes, et de silvains, jouant de différents instruments, chantants, et dansants, Silvandre, Aminte, Forestan, Troupes de bergers et de bergères, et de suivants de l'Amour.</head>
+<sp who="SILVANDRE">
+<speaker>SILVANDRE.</speaker>
+<l>Arrêtez, arrêtez, c'est trop entreprendre,</l>
+<l>Un autre Dieu dont nous suivons les lois,</l>
+<l>S'oppose à cet honneur qu'à l'Amour osent rendre,</l>
+<l>Vos musettes et vos voix ;</l>
+<l>À des titres si beaux Bacchus seul peut prétendre,</l>
+<l>Et nous sommes ici pour défendre ses droits.</l>
+</sp>
+<sp who="CHOEURS">
+<speaker>CHOEURS.</speaker>
+<l>Nous suivons de Bacchus le pouvoir adorable</l>
+<l>Nous suivons en tous lieux,</l>
+<l>Ses attraits précieux ;</l>
+<l>Il est le plus aimable</l>
+<l>Et le plus grand des Dieux.</l>
+<stage>Les suivants de Bacchus qui dansent font un combat contre les danseurs du parti de l'Amour, tandis que les bergers et les satires disputent en chantant en faveur du Dieu que chacun veut honorer.</stage>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SIXIÈME ENTRÉE. Quatre satires, quatre bacchantes.</head>
+<sp who="AMINTE">
+<speaker>AMINTE.</speaker>
+<l>C'est le printemps qui rend l'âme</l>
+<l>À nos champs semés de fleurs :</l>
+<l>Et c'est l'Amour et la flamme</l>
+<l>Qui font revivre nos coeurs.</l>
+</sp>
+<sp who="FORESTAN">
+<speaker>FORESTAN.</speaker>
+<l>Le soleil chasse les ombres,</l>
+<l>Dont le ciel est obscurci,</l>
+<l>Et des âmes les plus sombres,</l>
+<l>Bacchus chasse le souci.</l>
+</sp>
+<sp who="CHOEURS DE BACCHUS">
+<speaker>CHOEURS DE BACCHUS.</speaker>
+<l>Bacchus est révéré sur la terre et sur l'onde.</l>
+</sp>
+<sp who="CHOEURS DE L'AMOUR">
+<speaker>CHOEURS DE L'AMOUR.</speaker>
+<l>Et l'Amour est un Dieu qu'on révère en tous lieux.</l>
+</sp>
+<sp who="CHOEURS DE BACCHUS">
+<speaker>CHOEURS DE BACCHUS.</speaker>
+<l>Bacchus à son pouvoir a soumis tout le Monde.</l>
+</sp>
+<sp who="CHOEURS DE L'AMOUR">
+<speaker>CHOEURS DE L'AMOUR.</speaker>
+<l>Et l'Amour a dompté les hommes et les Dieux.</l>
+</sp>
+<sp who="CHOEURS DE BACCHUS">
+<speaker>CHOEURS DE BACCHUS.</speaker>
+<l>Rien peut-il égaler sa douceur sans seconde ?</l>
+</sp>
+<sp who="CHOEURS DE L'AMOUR">
+<speaker>CHOEURS DE L'AMOUR.</speaker>
+<l>Rien peut-il égaler ses charmes précieux ?</l>
+</sp>
+<sp who="CHOEURS DE BACCHUS">
+<speaker>CHOEURS DE BACCHUS.</speaker>
+<l>Fi, fi, de l'Amour et de ses feux.</l>
+</sp>
+<sp who="PARTI DE L'AMOUR">
+<speaker>PARTI DE L'AMOUR.</speaker>
+<l>Ah ! Quel plaisir d'aimer !</l>
+</sp>
+<sp who="PARTI DE BACCHUS">
+<speaker>PARTI DE BACCHUS.</speaker>
+<l>Ah ! Quel plaisir de boire !</l>
+</sp>
+<sp who="PARTI DE L'AMOUR">
+<speaker>PARTI DE L'AMOUR.</speaker>
+<l>À qui vit sans amour la vie est sans appas.</l>
+</sp>
+<sp who="PARTI DE BACCHUS">
+<speaker>PARTI DE BACCHUS.</speaker>
+<l>C'est mourir que de vivre et de ne boire pas.</l>
+</sp>
+<sp who="PARTI DE L'AMOUR">
+<speaker>PARTI DE L'AMOUR.</speaker>
+<l>Aimables fers !</l>
+</sp>
+<sp who="PARTI DE BACCHUS">
+<speaker>PARTI DE BACCHUS.</speaker>
+<l>Douce victoire !</l>
+</sp>
+<sp who="PARTI DE L'AMOUR">
+<speaker>PARTI DE L'AMOUR.</speaker>
+<l>Ah ! Quel plaisir d'aimer !</l>
+</sp>
+<sp who="PARTI DE BACCHUS">
+<speaker>PARTI DE BACCHUS.</speaker>
+<l>Ah ! Quel plaisir de boire !</l>
+</sp>
+<sp who="LES DEUX PARTIS">
+<speaker>LES DEUX PARTIS, ensemble.</speaker>
+<l>Non, non, c'est un abus.</l>
+<l>Le plus grand Dieu de tous</l>
+</sp>
+<sp who="PARTI DE L'AMOUR">
+<speaker>PARTI DE L'AMOUR.</speaker>
+<l>C'est l'Amour.</l>
+</sp>
+<sp who="PARTI DE BACCHUS">
+<speaker>PARTI DE BACCHUS.</speaker>
+<l>C'est Bacchus.</l>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE III et DERNIÈRE.</head>
+<stage>Le berger Licaste se mêle entre les deux partis, et les accorde.</stage>
+<sp who="LICASTE">
+<speaker>LICASTE.</speaker>
+<l>C'est trop, c'est trop, bergers, hé pourquoi ces débats ?</l>
+<l>Souffrons qu'en un parti la Raison nous assemble :</l>
+<l>L'Amour a des douceurs ; Bacchus a des appas,</l>
+<l>Ce sont deux Déïtés qui sont fort bien ensemble;</l>
+<l>Ne les séparons pas.</l>
+</sp>
+<sp who="LES DEUX CHOEURS">
+<speaker>LES DEUX CHOEURS, ensemble.</speaker>
+<l>Mêlons donc leurs douceurs aimables,</l>
+<l>Mêlons nos voix dans ces lieux agréables,</l>
+<l>Et faisons répéter aux Échos d'alentour,</l>
+<l>Qu'il n'est rien de plus doux que Bacchus et l'Amour.</l>
+<stage>Tandis que les voix et les instruments des deux choeurs s'unissent, tous les danseurs des deux partis forment ensemble la dernière entrée, et terminent agréablement les Fêtes de l'Amour et de Bacchus.</stage>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SEPTIÈME et DERNIÈRE ENTRÉE.</head>
+<stage>Quatre bergers, quatre bergères, quatre satires, et quatre Bacchantes.</stage>
+</div>
+</div>
+</body>
+</text>
+</TEI>

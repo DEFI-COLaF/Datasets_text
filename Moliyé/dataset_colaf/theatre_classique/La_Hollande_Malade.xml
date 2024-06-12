@@ -1,0 +1,1460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_028</idno>
+<title type="main">LA HOLLANDE MALADE, COMÉDIE EN UN ACTE</title>
+<title type="collection">Moliyé</title>
+<author>Raymond POISSON (1630?-1690)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janes</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target=""/>
+<title>LA HOLLANDE MALADE, COMÉDIE EN UN ACTE</title>
+<author>Raymond POISSON (1630?-1690)</author>
+<publisher>Gallica</publisher>
+<date when="1672"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target=""/>
+<title>LA HOLLANDE MALADE, COMÉDIE EN UN ACTE</title>
+<author>Raymond POISSON (1630?-1690)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="LA_HOLLANDE">
+<persName>LA HOLLANDE</persName>
+</person>
+<person xml:id="BELINE">
+<persName>BELINE</persName>
+</person>
+<person xml:id="MARILLE">
+<persName>MARILLE</persName>
+</person>
+<person xml:id="GOULEMER">
+<persName>GOULEMER</persName>
+</person>
+<person xml:id="FRELINGUE">
+<persName>FRELINGUE</persName>
+</person>
+<person xml:id="BADZIN">
+<persName>BADZIN</persName>
+</person>
+<person xml:id="LA_FLAMANDE">
+<persName>LA FLAMANDE</persName>
+</person>
+<person xml:id="L_HOTE">
+<persName>L'HÔTE</persName>
+</person>
+<person xml:id="I._BOURGUEMESTRE">
+<persName>I. BOURGUEMESTRE</persName>
+</person>
+<person xml:id="II.BOURGUEMESTRE">
+<persName>II.BOURGUEMESTRE</persName>
+</person>
+<person xml:id="MÉDECIN_FRANÇAIS">
+<persName>MÉDECIN FRANÇAIS</persName>
+</person>
+<person xml:id="MÉDECIN_ESPAGNOL">
+<persName>MÉDECIN ESPAGNOL</persName>
+</person>
+<person xml:id="MÉDECIN_ANGLAIS">
+<persName>MÉDECIN ANGLAIS</persName>
+</person>
+<person xml:id="MÉDECIN_ALLEMAND">
+<persName>MÉDECIN ALLEMAND</persName>
+</person>
+<person xml:id="PACOLE">
+<persName>PACOLE</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LA HOLLANDE MALADE</p></div><div type="liminal"><p>COMÉDIE en UN ACTE</p></div></div><div type="liminal"><p>M. DC. LXXII. Avec Privilège du Roi.</p></div><div type="liminal"><p>DE MONSIEUR POISSON</p></div><div type="liminal"/>À PARIS, Chez JEAN RIBOU, au Palais de la Salle Royale, à l'Image Saint-Louis<div type="liminal"><p>Représentée pour la première fois en août 1672 à L'Hôtel de Bourgogne. </p></div><list><head>ACTEURS</head><item>LA HOLLANDE.</item><item>BELINE, sa suivante.</item><item>MARILLE, servante de la Hollande.</item><item>GOULEMER, Matelot. </item><item>FRELINGUE, Hollandaise.</item><item>BADZIN, Hollandais.</item><item>LA FLAMANDE.</item><item>L'HÔTE.</item><item>I. BOURGUEMESTRE.</item><item>II.BOURGUEMESTRE.</item><item>MÉDECIN FRANÇAIS.</item><item>MÉDECIN ESPAGNOL.</item><item>MÉDECIN ANGLAIS.</item><item>MÉDECIN ALLEMAND.</item><item>PACOLE, servante.</item></list><p>La Scène est à Amsterdam.</p></div>
+<div n="1" type="act">
+<head>LA HOLLANDE MALADE</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Goulemer, Frelingue, Badzin, Marille.</head>
+<stage>Il paraît un cabaret à bière, et Goulemer et Frelingue sont à une table, et Marille et Badzin à l'autre, buvant et fumant.</stage>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Buvons ce pot. À vous ?</l>
+</sp>
+<sp who="FRELINGUE">
+<speaker>FRELINGUE.</speaker>
+<l>C'est ce que je demande.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Comment va la santé de Madame Hollande.</l>
+</sp>
+<sp who="FRELINGUE">
+<speaker>FRELINGUE.</speaker>
+<l>Chacun dit que son mal prend un fort mauvais cours.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Comment ?</l>
+</sp>
+<sp who="FRELINGUE">
+<speaker>FRELINGUE.</speaker>
+<l>C'est qu'on la voit empirer tous les jours.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Elle a le mal de mer, et la fièvre la terre.</l>
+</sp>
+<sp who="FRELINGUE">
+<speaker>FRELINGUE.</speaker>
+<l>Elle a le mal de mer, elle a le mal de terre,</l>
+<l>Elle a... Que sais-je enfin ? Elle n'est pas trop bien ;</l>
+<l>Cent drogues qu'on lui fait, ne lui servent de rien.</l>
+<l>Si l'on la peut sauver, la cure sera belle.</l>
+<l>Taisons nous ; ces gens-là sont je crois de chez elle.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Chacun la tient fort mal.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Oui, je la viens de voir.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Elle doit prendre encor un lavement ce soir ;</l>
+<l>On la fera mourir.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Je pense qu'on y tâche.</l>
+<l>Pourquoi ce lavement ? On dit qu'elle est si lâche,</l>
+<l>Qu'elle laisse aller tout.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>De moment en moment</l>
+<l>Elle en prend, mais c'est bien contre son sentiment.</l>
+<l>Ces lavements sont faits d'une poudre étonnante,</l>
+<l>Qui lui fait rendre tout.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Elle est fort violente.</l>
+<l>Entre-t-il pas dedans du salpêtre et du plomb ?</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Je ne sais. L'on dirait de la poudre à canon.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>C'est cela. Ce mal la prit avec violence.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>C'est un air empesté, qui vient (dit-on) de France.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Ce n'était que fumée et que feu tout le jour,</l>
+<l>Nous ne nous vîmes point non plus que dans un four,</l>
+<l>Sur mer il faut chômer la Fête toute entière,</l>
+<l>On ne trouve point là de porte de derrière.</l>
+<l>Quand cent coups de canon vous fracassent vos mâts,</l>
+<l>Qu'il a mis sur le pont des trente hommes à bas,</l>
+<note>Bou-boue : mot inconnu de Furetière et Littré. Sans doute asssimilable à l'onomatopée boum-boum. </note>
+<l>Et sans cesse bou-boue, et des coups effroyables</l>
+<l>Qui jettent votre mat à tous les mille Diables,</l>
+<l>Ou que quelque brûlot s'accroche à votre bord,</l>
+<l>C'est là qu'il faut périr. La frayeur prend d'abord.</l>
+<l>Le brûlot fait effet, le feu prend à la poudre,</l>
+<l>Et tout d'un coup boudoue, ah c'est le coup de foudre ;</l>
+<l>Les brûlots, les canons, les hommes, les vaisseaux,</l>
+<note>Palcorbleu : Sorte de juron.</note>
+<l>Palcorbleu vous sautez tous comme des crapauds.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>On dit bien, quand on vit la comète paraître,</l>
+<note>Bissêtre : Malheur ; accident causé par l'imprudence de quelqu'un. [F] Voir Molière, L'Etourdi, v. 1808.</note>
+<l>Que les Français un jour nous feraient du bissêtre,</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<note>Mordienne : Sorte de juron. On dit de même morguienne. [L]</note>
+<l>Ils sont mordienne tous des vrais frappe-d'abord.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Chacun perdit il bien des hommes dans son bord ?</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>J'en vis tuer quarante au nôtre.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>La misère !</l>
+<l>Étiez-vous là ?</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Nenni, c'était mon petit frère.</l>
+<l>Notre bord reçut d'eux, trois cents coups de canon,</l>
+<l>Ou n'en reçut pas un. Ah c'était tout de bon,</l>
+<l>Jamais vaisseau ne peut le rechaper plus belle,</l>
+<l>Je crus qu'ils en voulaient faire de la cannelle.</l>
+<l>II semble à ces gens-là qui n'ont jamais rien vu,</l>
+<l>Que chacun soit comme eux. À vous ?</l>
+</sp>
+<sp who="FRELINGUE">
+<speaker>FRELINGUE.</speaker>
+<l>C'est assez bu.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Peut-on voir tant de gens tués sur un navire ?</l>
+<l>Je frémis seulement de l'avoir ouï dire.</l>
+<l>Où les enterre-t-on ces morts cependant ?</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Enterrez dans la mer.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Le Cimetière est grand,</l>
+<l>Madame Hollande était et grasse et potelée.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Elle en a pour sa graisse, elle s'en est allée.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Mais maigrir tout d'un coup !</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Il n'est rien de pareil ;</l>
+<l>Elle a fondu d'abord comme beurre au Soleil.</l>
+<l>Elle est toujours debout.</l>
+</sp>
+<sp who="FRELINGUE">
+<speaker>FRELINGUE.</speaker>
+<l>Debout ? Doit-on permettre...</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>À peine trouve-t-elle une place à se mettre ;</l>
+<l>Son mal la prend partout.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Qu'on change en peu de temps.</l>
+<l>Elle n'est plus d'humeur à brocarder les gens.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Oui, c'était sa coutume, elle la paye bonne.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>C'est qu'il ne faut jamais se railler de personne.</l>
+<l>Les Gens ne disent rien quand on les a piqués :</l>
+<l>Mais après, comme on voit, les moqueurs sont moqués.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Fusse Nostradamus, aurait-il pu comprendre,</l>
+<l>Que des maux si fâcheux dussent jamais la prendre,</l>
+<l>Dans le meilleur état qu'elle ait jamais été ?</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>On ne pouvait pas être en meilleure santé.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Pacole, Badzin, Marille, L'Hôte, Goulemer, Frelingue.</head>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Marille, venez donc ? Vite l'on vous demande.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Qui presse donc si fort ?</l>
+</sp>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Hé Madame Holande.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Est-ce qu'elle est plus mal ?</l>
+</sp>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Eh non pas autrement,</l>
+<l>Mais elle ne sent pas son mal assurément.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Écoute donc, viens ça, qu'en penses-tu, Pacole ?</l>
+</sp>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Je pense que son mal la fait devenir folle.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Est-ce que ta l'as-vue en quelque égarement ?</l>
+</sp>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Vraiment oui, mais cela n'a duré qu'un moment.</l>
+<l>Ah sa pauvre cervelle était bien dévoyée !</l>
+<l>Elle s'est mise à rire à gorge déployée ;</l>
+<l>Puis elle a fait un saut qui nous a tous surpris.</l>
+<l>Nous l'avons vue après reprendre ses esprits.</l>
+<l>Béline en vient d'avoir une frayeur extrême.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Ce mal ne l'avait point encor prise de même.</l>
+<l>Mais Béline est donc là qui ne la quitte pas.</l>
+</sp>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Oui ; Mais venez-vous-en.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE, emmène Frelingue.</speaker>
+<l>Je marche fur tes pas.</l>
+</sp>
+<sp who="BADZIN">
+<speaker>BADZIN.</speaker>
+<l>Cà.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE, à Badzin qui rentre.</speaker>
+<l>Payez là-dedans. Hélas ! Que c'est dommage !</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Qu'avons-nous ?</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Vous avez pour dix sols de fromage,</l>
+<l>Quatre sols en bière, et pour deux sols de pain,</l>
+<l>J'oubliais pour chacun sept sols de Bran-de-Vin,</l>
+<l>Ce sont quarante sols tous justes de dépense.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Oui ? Racontez un peu, vous vous trompez, je pense.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Vous avez pour chacun sept sols de Bran-de-Vin,</l>
+<l>Nous ne comptons je crois que pour deux sols de pain,</l>
+<l>Quatorze sols en bière, et dix sols de fromage,</l>
+<l>Pour avoir recompté, quarante sols.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Courage.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Cela fait quatre-francs.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Êtes-vous hébété ?</l>
+<l>Comment ? Quarante sols pour avoir recompté !</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Autant.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Je les payerais ?</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Qui donc ? Belle demande !</l>
+<l>Ignorez-vous encor la mode de Hollande?</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Oui, ma foi, je l'ignore.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Oh soyez-en instruit :</l>
+<l>Ajoutons à cela quatre-francs pour le bruit.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Pour le bruit quatre francs !</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>J'oubliais pour le beurre</l>
+<l>Vingt fols. Ce sont neuf-francs qu'il me faut tout-à-l'heure.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Quatre francs pour 1c btuit J</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Êtes-vous Hollandais ?</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Oui : mais vous me prenez je crois pour un Français;</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Voulez vous ras payer?</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Je ne veux pas débattre !</l>
+<l>Mais quatre francs c'est trop.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Je n'en puis rien rabattre.</l>
+<l>Avec vos bou-bouë, hé qu'est-ce que cela ?</l>
+<l>Un Français eut payé vingt francs de ce bruit-là :</l>
+<l>Et plaignez-vous encor ? Vous savez qu'en Hollande</l>
+<l>Il faut sans contester payer ce qu'on demande,</l>
+<l>Et que jamais aussi nous n'avons le défaut</l>
+<l>De compter comme en France, un sol plus qu'il ne faut.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Je le sais bien. Pourtant je doute fort qu'en France</l>
+<l>Un Français trouvât là pour neuf francs de dépense.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Enfin les Français sont à leur mode de là ;</l>
+<l>Et la nôtre est ainsi. Neuf francs donc ?</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Les voilà.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Allons. Si ceci dure, il faut fermer boutique.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Pourquoi ?</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Depuis deux mois je n'ai plus de pratique ;</l>
+<note>Chaland : Bateau plat de moyenne grandeur, dont on se sert pour amener à Paris les marchandise qui descendent la rivière. [F]</note>
+<l>Le grand mal de Madame attriste mes chalands.</l>
+</sp>
+<sp who="GOULEMER">
+<speaker>GOULEMER.</speaker>
+<l>Et votre marchandise aigrit en peu de temps.</l>
+<l>Elle veut du débit.</l>
+</sp>
+<sp who="L'HÔTE">
+<speaker>L'HÔTE.</speaker>
+<l>Diable oui. J'appréhende ;</l>
+<l>J'entends d'ici les cris de Madame Hollande.</l>
+<stage>Ils rentrent, et le théâtre se change en la Chambre de Madame Hollande.</stage>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. La Hollande, Béline, Marille.</head>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE, menée par dessous le bras, et mise dans une chaise.</speaker>
+<l>Ah, Beline, mon mal pénètre jusqu'aux os.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Si vous pouviez un peu demeurer en repos...</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Demeurer en repos ! Le puis-je, misérable,</l>
+<l>Lorsque j'ai des voisins qui font un bruit de Diable ?</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Vos forces sont encor grandes.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je le sais bien ;</l>
+<l>Mais ces forces pourtant ne me servent de rien.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>En ces sortes de maux les forces sont utiles.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Elles agissent peu, les membres font débiles,</l>
+<l>Et je puis bien hélas ? dire avec douleur,</l>
+<l>Que j'ai des forces, mais que je manque de cour.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Vous sautiez bien tantôt.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Ha que l'on me soutienne,</l>
+<l>Je sauterai bien mieux avant que l'Hiver vienne.</l>
+<l>N'a-t-on rien qui me put fortifier le coeur ?</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Oui, Madame, il vous faut prendre quelque liqueur.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Un peu de vin d'Espagne, il m'est bon...</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Ce Breuvage</l>
+<l>Est le seul qui vous peut donner quelque courage.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Oui, s'il n'est point aigri, ni gâté, j'en boirai,</l>
+<l>Il me fortifiera je crois, j'en userai.</l>
+<l>Ah, ah, un vin d'Espagne, attend-on que je meure ?</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>On vous le va quérir, Madame, tout à l'heure.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Quand mon mal commença, j'en prenais tous les jours,</l>
+<l>Il n'a pu cependant en arrêter le cours.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Mais le tonnerre ici s'est toujours fait entendre,</l>
+<l>Il peut être tourné.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je n'en pourrais pas prendre.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Hé bien, s'il est gâté, prenez-le par en bas.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Qu'entends-tu par en bas ?</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Oui.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je ne t'entends pas.</l>
+<l>Est-ce ce vin d'Espagne ?</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<note>Clystère : Terme de médecine. C'est un remède ou injection liquide qu'on introduit dans les intestins par le fondement pour les rafraîchir, pour lâcher le ventre, pour humecter ou amollir les matières, pour irriter la faculté expultrice, dissiper les vents, aider à l'accouchement etc. [F]</note>
+<l>Oui, prenez-le en clystère.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Hé bien fais-le porter chez mon apothicaire,</l>
+<l>Qu'il l'apporte au plutôt : mais Marille, il faut bien</l>
+<l>Qu'il me prête un canon, car j'ai perdu le mien.</l>
+<l>Qu'il était doux, Marille, et que j'en crains un autre !</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Jamais canon ne fit moins de mal que le vôtre.</l>
+<stage>Marille rentre.</stage>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Pacole, Le Hollande, Beline.</head>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Madame, Flandre est là, qu'on n'entend presque pas,</l>
+<l>Avec son baragouin, vous demande là-bas.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>La persécution est grande. Hé bien, qu'elle entre.</l>
+<l>Ha le ventre, le ventre. Ah ventre, ventre, ventre,</l>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. La Flamande, La Hollande, Beline.</head>
+<sp who="LA FLAMANDE" xml:lang="fra-deu">
+<speaker>LA FLAMANDE.</speaker>
+<l>Je li viens point vous voir pour li fer vous jurer,</l>
+<l>Mon Dame je li viens pour li vous assurer...</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Hé je ne jure point, c'est qu'avec des tenailles.</l>
+<l>Des Démons, que je crois, m'arrachent les entrailles.</l>
+</sp>
+<sp who="LA FLAMANDE" xml:lang="fra-deu">
+<speaker>LA FLAMANDE.</speaker>
+<l>Quoye donc, c'est stimal, mon Dam, qui vous l'avez,</l>
+<l>Gel vous croye abil fort, si vous vous l'en sauvez.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Ha je m'en doute bien.</l>
+</sp>
+<sp who="LA FLAMANDE" xml:lang="fra-deu">
+<speaker>LA FLAMANDE.</speaker>
+<l>On le peut vous bien plaindre,</l>
+<l>Et je le croye bien fort que vous li devez craindre.</l>
+<l>Je l'ai bien eu sté mal, c'est li plus grand dy tous.</l>
+<l>Gi li fus pourtant pas malad si tant que vous.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Quand vous prit-il ce mal ?</l>
+</sp>
+<sp who="LA FLAMANDE" xml:lang="fra-deu">
+<speaker>LA FLAMANDE.</speaker>
+<l>Gi m'en l'étais moquée :</l>
+<l>Dans l'an soixanty-sep gi l'en fus attaquée.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je m'en moquais de même, et ne le croyais pas ;</l>
+<l>Te l'aurais défié, mais il m'a mise à bas.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Et si bas, que chacun doute qu'elle en relève.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>C'est un mal empesté dont tout mon monde crève.</l>
+</sp>
+<sp who="LA FLAMANDE" xml:lang="fra-deu">
+<speaker>LA FLAMANDE.</speaker>
+<l>Il est michant sti mal, jel save bien mon foi,</l>
+<l>Il m'emporte d'un coup quatre l'enfants di moi.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>J'attends des médecins de grande expérience,</l>
+<l>Qui me soulageront.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Qui la tueront, je pense ;</l>
+<l>Ils sont tous étrangers. L'Epagnol et l'Anglais,</l>
+<l>Et l'Allemand encor, bref jusques au Français,</l>
+<l>Quelques-uns de ceux-là la tueront, je m'assure,</l>
+</sp>
+<sp who="LA FLAMANDE" xml:lang="fra-deu">
+<speaker>LA FLAMANDE.</speaker>
+<l>Desté consulty-là gil tir point bon laugure ;</l>
+<l>Gil trouve grand vostri mal, gel voye qu'il vous a mis</l>
+<l>Dans l'esprit de li voir tretous vos l'ennemis.</l>
+<l>Mon Dam, songez-li bien à tous vos grands affaires,</l>
+<l>Les Médecins di hors, qu'il entre lis Notaires ;</l>
+<l>Le servelle li tourn, li toum li jugement,</l>
+<l>Et l'on prouve jamais li fair di testament.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<note>Prône : Espèce de sermon qu'on fait tous le sDimanches dans le sEglises paroissiales, pour avertir les paroissiens des fêtes, des jeûnes de la semaine, et faire des publications (...). Se dit aussi d'un discours ennuyeux et d'une longue remontrance. [F]</note>
+<l>Madame s'il vous plaît, finissez votre prône.</l>
+</sp>
+<sp who="LA FLAMANDE" xml:lang="fra-deu">
+<speaker>LA FLAMANDE.</speaker>
+<l>Desti mal-là mon face il devient blanc tout jaune :</l>
+<l>Et comme vostri mal qu'il est contagieux,</l>
+<l>Gil veux point que mes yeux il y voye vos yeux:</l>
+<l>Toute ces médicins li sont bourreaux, mon Dame.</l>
+<l>Ils vont faire mourir vous, Dieu prenne vous votre âme</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>L'impertinente Masque ! Ah que j'en ai souffert !</l>
+<l>Pour me désespérer, elle était de concert :</l>
+<l>La petite Guenon avec son flux de bouche</l>
+<l>De Flamand Francisé, dirait-on qu'elle y touche ?</l>
+<l>Ah, ah, le maudit mal ! Ah je me sens fort bas,</l>
+<l>Eh tous ces médecins ?</l>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Marille, Pacole, La Hollande, Beline.</head>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Ils arrivent là-bas.</l>
+</sp>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Deux bourguemestres-là...</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Qu'ils aillent tous aux Diables,</l>
+<l>Je ne puis plus souffrir ces monstres effroyables.</l>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Deux bourguemestres, La Hollande, Belinde.</head>
+<sp who="PREMIER BOURGUEMESTRE">
+<speaker>PREMIER BOURGUEMESTRE.</speaker>
+<l>Hé Madame, tout-beau.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Vos conseils odieux </l>
+<l>N'ont-ils pas attiré tout le mal dans ces lieux !</l>
+<l>Si vos esprits grossiers eussent prévu ces choses,</l>
+<l>Tout cela n'eut été peut-être que des roses,</l>
+<l>Je serais en repos ; et ce mauvais air-ci,</l>
+<l>Ne serait pas venu m'étouffer jusqu'ici,</l>
+<l>Et me tirer enfin les entrailles du ventre.</l>
+</sp>
+<sp who="SECOND BOURGUEMESTRE">
+<speaker>SECOND BOURGUEMESTRE.</speaker>
+<l>Pouvons-nous empêcher, Madame, que l'air n'entre ?</l>
+<l>Un air subtil encor comme l'est celui-là.</l>
+<l>Nous n'avons point d'emplâtre à mettre à tout cela,</l>
+<l>Et ces affaires-ci sont bien embarrassantes.</l>
+<l>Vous nous dites encor des paroles piquantes,</l>
+<l>Vous pourriez bien pour nous avoir plus de bonté,</l>
+<l>Et faire moins d'outrage à notre dignité.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Ehque ces Médecins viennent-cn diligence)</l>
+</sp>
+<sp who="PREMIER BOURGUEMESTRE">
+<speaker>PREMIER BOURGUEMESTRE.</speaker>
+<l>Mais notre mal, Madame, est plus grand qu'on ne pense,</l>
+<l>Puisqu'il n'est que trop vrai que le sort nous a mis</l>
+<l>Au point de recourir à tous nos ennemis.</l>
+<l>Mais qui nous force à faire une celle bévue :</l>
+<l>Devons-nous endurer, Madame, qu'on vous tue ?</l>
+<l>Prétendez-vous avoir des consolations,</l>
+<l>En mandant des bourreaux de toutes Nations ?</l>
+<l>S'ils peuvent approcher un jour votre personne,</l>
+<l>En est-il quelqu'un d'eux qui ne vous empoisonne.</l>
+<l>Qui n'avance vos jours, et ne soit envieux</l>
+<l>De ce que vous avez rarement besoin d'eux ?</l>
+<l>De voir votre santé d'une telle durée,</l>
+<l>Que tout l'air infecté ne la point altérée ?</l>
+<l>Qu'eux-mêmes affligés, ils ont cent fois dit tous,</l>
+<l>Que la santé n'était au Monde que pour vous ?</l>
+</sp>
+<sp who="SECOND BOURGUEMESTRE">
+<speaker>SECOND BOURGUEMESTRE.</speaker>
+<l>Plus votre mal est grand, plus leur âme est ravie :</l>
+<l>Prenons un autre biais pour vous sauver la vie,</l>
+<l>Mais prenons-le chez nous, et que vos assassins</l>
+<l>S'en retournent chez eux faire les médecins.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Que vous me fatiguez d'inutiles harangues !</l>
+<l>Hé laissez en repos vos ignorantes langues.</l>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI.I. Pacole, Médecins français, Médecin Anglais, Les Bourguemestres, La Hollande, Beline.</head>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Le Médecin Français, et l'Auglais sont ici.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Voilà déjà l'Anglais.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Le Français !</l>
+</sp>
+<sp who="PACOLE">
+<speaker>PACOLE.</speaker>
+<l>Le voici.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Ha ! ha !</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Qu'avez-vous donc ?</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Vos transports sont extrêmes.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Hé qui le peut savoir, Messieurs, mieux que vous-mêmes !</l>
+</sp>
+<sp who="PREMIER BOURGUEMESTRE">
+<speaker>PREMIER BOURGUEMESTRE.</speaker>
+<l>Pouvons-nous bien souffrir ces nations chez nous ?</l>
+</sp>
+<sp who="SECOND BOURGUEMESTRE">
+<speaker>SECOND BOURGUEMESTRE.</speaker>
+<l>S'ils nous pouvaient crever...</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Taisez-vous ?</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Taisez-vous ?</l>
+</sp>
+<sp who="PREMIER BOURGUEMESTRE">
+<speaker>PREMIER BOURGUEMESTRE.</speaker>
+<l>Nous parler de la sorte ! Apprenez à connaître</l>
+<l>Un Bourguemestre ici ? Sachez qu'il est le maître,</l>
+<l>Qu'il a le plein pouvoir, et que l'étant tous deux,</l>
+<l>Vous ne sauriez avoir trop de respect pour eux ?</l>
+<l>Qu'ils vous renverseraient de leur vent, de leur souffle ?</l>
+<l>Voyez, Madame, et puis....</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<note>Maroufle : Term injurieux qu'on donne aux gens gros de corps et d'esprit. Il est bas. [F]</note>
+<l>Taisez vous, gros maroufle ?</l>
+</sp>
+<sp who="PREMIER BOURGUEMESTRE">
+<speaker>PREMIER BOURGUEMESTRE.</speaker>
+<l>Une telle insolence excite mon courroux.</l>
+<l>Vous m'appeliez maroufle, Insolent ?</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS, lui donnant un soufflet.</speaker>
+<l>Taisez-vous ?</l>
+</sp>
+<sp who="SECOND BOURGUEMESTRE">
+<speaker>SECOND BOURGUEMESTRE.</speaker>
+<l>Un soufflet devant moi ! Devant Madame Hollande !</l>
+<l>Madame, peut-on voir hardiesse plus grande ?</l>
+<l>Ici, le plus huppé tremble en parlant à nous,</l>
+<l>Hé...</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Taisez-vous gros âne ?</l>
+</sp>
+<sp who="SECOND BOURGUEMESTRE">
+<speaker>SECOND BOURGUEMESTRE.</speaker>
+<l>Insolent !</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS, lui donnant un soufflet.</speaker>
+<l>Taisez vous ?</l>
+<stage>Les deux bourguemestres sortent en saluant Madame Hollande tristement, la main sur leur joue.</stage>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Vous en usez ainsi, Meilleurs ? Je vous le cède.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Selon le mal, il faut appliquer le remède.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Mais sans apothicaire, et sans chirurgien,</l>
+<l>Vous le faites vous-même, et vous rappliquez bien.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Il faut à certains maux des remèdes extrêmes.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Ceux que vous me ferez, Messieurs, sont-ce les mêmes ?</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Hé nous venons ici, Madame, exprès pour vous,</l>
+<l>Et nous vous apportons des remèdes plus doux,</l>
+<l>Tout ce qui maintenant pourra vous satisfaire,</l>
+<l>Ou nous vous le ferons, ou vous le ferons faire.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Hé dépêchez.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Avant que de rien ordonner,</l>
+<l>Mon avis est, qu'il faut la faire promener.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Madame, levez-vous ? Mon avis est le vôtre.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je ne crois pas pouvoir mettre un pied devant l'autre.</l>
+<l>Vite, vite, ma chaise. Ah que j'ai mal au cour !</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Voici le Médecin Espagnol. Serviteur.</l>
+<stage>Disant ce dernier mot, il tire la chaise de Madame Holande, qui tombe.</stage>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. La Hollande, Le Médecin espagnol, Le Médecin français; Le Médecin anglais.</head>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL la relève, et elle se laisse encore tomber devant.</speaker>
+<l>Monsieur, Madame Hollande est je pense tombée.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<stage>Les Médecins la relèvent encor, et la remettent dans sa chaise, et lors ce demi-vers se dit.</stage>
+<l>Monsieur, relevez-là. Je crois qu'elle est pâmée.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<note>Catholicon : Terme de pharmacie. C'est un électuaire moi, ainsi appelé comme qui dirait universel et purgeant toutes le humeurs. Est aussi le nom d'une satire ingénieuse faite du temps de la Ligue. [F] La Hollande est un pays majoritairement protestant.</note>
+<note>Catholicum : Jeu de mot entre catholique et et le remède purgatif catholicon ; La Hollande est un pays majoritairement protestant.</note>
+<l>Hé je lui vais donner de mon catholicon.</l>
+<l>Il est miraculeux.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Elle revient.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Bon, bon,</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Êtes-vous mieux, Madame ?</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Hé la voila remise.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>De mon Catholicum avalez cette prise.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Hélas ! Elle se meurt, Monsieur, c'est du poison.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Elle est fort mal, Monsieur.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Quoi ? Mon Catholicum</l>
+<l>Donne la vie.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Hélas ! Il a fait le contraire.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Mais comment diable encor cela se peut-il faire ?</l>
+<l>Voila depuis deux ans que j'en donne à la Cour,</l>
+<l>Pour la troisième sois qu'il m'a joué ce tour.</l>
+<l>Mais son pouls est fort bon.</l>
+<stage>Il tient le bras de Beline, croyant tenir celui de la Malade.</stage>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>C'est mon bras, elle est morte.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Je le croyais le sien, ou le diable m'emporte.</l>
+<l>Je m'étonnais aussi qu'elle eut le pouls si bon.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Vous me serriez les bras d'une étrange façon !</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Elle revient.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Messieurs !</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Les plus nobles parties</l>
+<l>N'agissent presque plus, n'ont plus ces sympathies</l>
+<l>Ni cette égalité dedans leurs fonctions,</l>
+<l>Et cela cause en vous ces agitations,</l>
+<l>Tous vos membres étant de Provinces Unies,</l>
+<l>Mais qui ne l'étant plus, toutes ces harmonies</l>
+<l>&gt;Ne sont plus qu'un chaos : Enfin tout est péri,</l>
+<note>Charivari : Bruit confus que font des gens du peuple avec des poêles, des bassins et des chaudrons pour faire injure à quelqu'un. On fait les charivaris en dérision des gens d'un âge fort inégal qui se marient.</note>
+<l>D'un concert que c'était, c'est un charivari,</l>
+<l>Les esprits y manquants, la gangrène succède,</l>
+<l>Il faut pour lors courir au périlleux remède,</l>
+<l>Il faut dis-je, extirper, et jouer des couteaux.</l>
+<l>Ainsi se corps formé par des membres si beaux,</l>
+<l>Qui semblait défier la mauvaise influence,</l>
+<l>Tout d'un coup est détruit, et tombe en décadence,</l>
+<l>Pour n'avoir point usé de ces précautions</l>
+<l>Qui préviennent le mal par des purgations.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Un autre médecin qui se croit grand génie,</l>
+<l>Pour montrer ce qu'il sait, m'attend à l'agonie.</l>
+<l>C'est un Allemand.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Oui, n'ayez aucun souci,</l>
+<l>Ce sera fait de vous, avant qu'il soit ici,</l>
+<l>Il a la goûte.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Lui ?</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Pour le moins je m'en doute,</l>
+<l>À voir comme il cause, il faut qu'il ait la goûte,</l>
+<l>Et quand il faut guérir un mal si violent,</l>
+<l>C'est un faible secours, qu'un remède si lent :</l>
+<l>Le voici.</l>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE DERNIÈRE. La Hollande, Le M. Allemand, Le M. Français, Le M. Anglais, Le M. Espagnol, Beline.</head>
+<sp who="L'ALLEMAND">
+<speaker>L'ALLEMAND, fourré partout, venant sort lentement.</speaker>
+<l>J'ai la goûte aux pieds, ne vous déplaise.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Elle mourra devant qu'il puisse être à sa chaise.</l>
+<l>L'un après l'autre enfin voyons donc ce qu'elle a,</l>
+<l>Et tâchons, s'il se peut, à la tirer de là.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Voyons la langue un peu.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Ma mort est assurée.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Ah la méchante langue ! Elle est toute ulcérée ;</l>
+<l>Le plus fort gargarisme est inutile là ;</l>
+<l>Nous n'avons que le feu pour dessécher cela.</l>
+</sp>
+<sp who="L'ALLEMAND">
+<speaker>L'ALLEMAND.</speaker>
+<l>Le pouls intermittent un fort mauvais augure :</l>
+<l>Elle ne la fera pas longue, je m'assure.</l>
+</sp>
+<sp who="BELINE">
+<speaker>BELINE.</speaker>
+<l>Peut-elle encor durer quelque temps ?</l>
+</sp>
+<sp who="L'ALLEMAND">
+<speaker>L'ALLEMAND.</speaker>
+<l>Eh pas trop.</l>
+<l>On voit bien que ce mal l'emmène au grand galop,</l>
+<l>Il est fort violent, la Nature est peu forte ,</l>
+<l>Et je ne doute point du tout qu'il ne l'emporte.</l>
+<l>Oui, le mal est trop grand, pour la pouvoir guérir,</l>
+<l>Je m'en vais, ne pouvant ici la secourir.</l>
+<stage>Il rentre.</stage>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Mais je ne la vois point encor désespérée,</l>
+<l>Son mal ne marque point une mort assurée.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Mon espoir est en vous, ne m'abandonnez pas.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Je ne vous quitte point jusqu'à votre trépas ;</l>
+<l>Je l'ai promis, Madame, et je tiendrai parole.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Hé c'est dans mon malheur tout ce qui me console.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Votre mal toutefois, Madame a pris un cours,</l>
+<l>Qu'on ne peut arrêter qu'avec un grand secours,</l>
+<l>Et même il n'est pas sûr, quelque grand qu'il puisse être,</l>
+<l>Qu'il le pût être assez pour en être le maître :</l>
+<l>Mais je vous veux servir sans intérêt, ainsi</l>
+<l>Je ne prétends de vous qu'un simple grand merci.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Que pourrais-je donner ? Je suis dans l'impuissance.</l>
+<l>Chacun sait qu'autrefois j'étais dans l'opulence :</l>
+<l>Qu'une personne alors fut pauvre à n'avoir rien,</l>
+<l>Qu'elle eut avidité de se voir quelque bien,</l>
+<l>Hélas ! Elle n'avait, pour être satisfaite,</l>
+<l>Que s'en venir chez moi, sa fortune était faite.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Vous n'avez point usé de régime du tout,</l>
+<l>Madame, votre mal nous pousse tous à bout ;</l>
+<l>Votre clou, votre poivre, et vos épiceries,</l>
+<l>N'ajoutent rien rien de bon à vos intempéries,</l>
+<l>Vos fromages encor irritent ce mal là,</l>
+<l>Et vous ne vous pouviez passer de tout cela.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je pense que les eaux me seraient salutaires.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Les Minérales ? Point, elles vous sont contraires.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>J'entends parler des eaux de ce Pays.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Ah bon.</l>
+<l>Oui, les eaux du pays seraient fort de saison,</l>
+<l>En grande quantité sans doute elles conservent,</l>
+<l>Et nuisent autrement bien plus qu'elles ne servent.</l>
+<l>Mais le soleil ici brûle et dessèche tout,</l>
+<l>Où les prendre ? Il n'est rien dont il ne vienne à bout :</l>
+<l>Et cet astre brûlant qui vous est si contraire,</l>
+<l>Donne un peu trop à plomb dessus votre hémisphère.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Examinons un peu tout ce bas ventre-ci.</l>
+<l>Penchez-vous sur le dos ? Vous êtes bien ainsi.</l>
+<l>Que de malignité là-dedans est enclose !</l>
+<l>11est aisé de voir et le mal et la cause :</l>
+<l>Mais que ferons-nous là, Messieurs ? Vous voyez bien</l>
+<l>Par ce qui vous paraît, que le tout n'en vaut rien,</l>
+<l>Que ce bas ventre est plein de choses étrangères,</l>
+<l>Qui n'ont déjà que trop enflammé les viscères.</l>
+<l>À ces sortes de maux, le remède effectif,</l>
+<l>Est de lui faire prendre un fort grand vomitif.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Un vomitif, Monsieur ! Je ne puis plus rien prendre.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>C'est l'unique remède : il faut crever ou rendre,</l>
+<l>Madame, et prenant tout ce qu'on vous donnera,</l>
+<l>Je ne sais même encor si l'on vous sauvera.</l>
+<l>Le mauvais vent qui vient du côté de la Terre,</l>
+<l>Livre à votre santé cette mortelle guerre,</l>
+<l>Et celui de la mer qui vous fut excellent,</l>
+<l>N'est aujourd'hui pour vous qu'un mal très pestilent.</l>
+<l>Ainsi je suis certain, si cc mal ne vous tue,</l>
+<l>Que la mer vous doit être à jamais défendue,</l>
+<l>Et le poisson surtout, c'est pour vous un poison,</l>
+<l>Gardez-vous d'en manger en aucune saison.</l>
+<l>Votre pêche aux harengs encor, quoi qu'on en die,</l>
+<l>Cause une bonne part de votre maladie.</l>
+<l>Il faut lui provoquer un grand vomissement.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Et lui tirer du sang, mais copieusement.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Quoi me tirer du sang encor ? Quelle ordonnance !</l>
+<l>Je n'attendais pa smoins d'un médecin de France.</l>
+<l>Je me sens affaiblie, et ne puis faire un pas,</l>
+<l>On m'en a tant tiré, que l'on m'a mise à bas.</l>
+<l>Médecin dangereux !</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>La langue de vipère !</l>
+<l>Toute prête à mourir, elle ne se peut taire ;</l>
+<l>Des injures toujours, elle n'a point cessé.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>C'est qu'elle veut finir comme elle a commencé.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Le chagrin me dévore. Hélas ! Que faut-il faire ?</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Votre mal n'étant pas un mal fort ordinaire,</l>
+<l>Il vous faut un remède aussi hors du commun.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>ïi n'en est point pour moy.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Bon, nous en avons un</l>
+<l>Qui contre votre mal est souverain, Madame.</l>
+<l>Vous avez, dites-vous, quelque chagrin dans l'âme.</l>
+<l>Vous estes triste ?</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Hélas ! Plus qu'on ne peut penser.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Monsieur l'Anglais et moi nous vous ferons danser.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Danser !</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>C'est le remède à votre maladie :</l>
+<l>La joie est l'antidote à la mélancolie.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Que mes violons donc viennent dans le salon.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Hé nous vous ferons bien danser sans violon.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Vous vous moquez.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Point, point. Êtes-vous la première</l>
+<l>Que Monsieur le Français traite de la manière ?</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Un petit violon, Messieurs, j'en ai de bons.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Oui, vous avez chez vous de plaisants violons ?</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je ne saurais danser, ma faiblesse est trop grande.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Vous danserez pourtant, Madame la Hollande,</l>
+<l>C'est l'unique moyen de vous guérir.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Hé bien,</l>
+<l>Puisque vous le voulez, éprouvons ce moyen,</l>
+<l>Mon cour pour ce remède a de la répugnance,</l>
+<l>Et c'est, à dire vrai, malgré moi que je danse.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Là, vous voilà fort bien, il vus observera.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Et quand vous broncherez, il vous relèvera.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Jouez.</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Les bons appuis pour la pauvre Hollande !</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Hé jouez donc, Messieurs, puisqu'on vous le demande ?</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE, après avoir dansé avec les Médecins.</speaker>
+<l>Ha mes membres sont morts.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Les sentez-vous pas tous?</l>
+</sp>
+<sp who="LA HOLLANDE">
+<speaker>LA HOLLANDE.</speaker>
+<l>Je ne les sens non plus que s'ils étaient à vous.</l>
+<l>Messieurs, je ne puis plus, soutenez-moi, la tête !</l>
+<l>Je ne me suis jamais trouvé à telle fête :</l>
+<l>Avant que de danser, Messieurs, je chancelais ;</l>
+<l>Cependant j'ai dansé plus que je ne voulais.</l>
+<l>Ma langue s'épaissit.</l>
+<stage>Elle dit cette moitié de vers en bégayant.</stage>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<note>Esquinancie : Terme de médecine. Inflammation de la gorge. [L]</note>
+<l>Voilà l'esquinancie.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>L'Art de la Médecine, et de la Pharmacie,</l>
+<l>Ne la peuvent sauver.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<l>Le mal augmentera.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Pour moi, je ne sais pas ce que l'on en fera.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS.</speaker>
+<l>Ma foi, ni moi non plus.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL.</speaker>
+<l>Ses maux sont déplorables.</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS.</speaker>
+<note>Incurables : Maison fondée pour les pauvres malades, dont la guérison est désespérée. [F]</note>
+<l>Que l'on la fasse donc porter aux Incurables.</l>
+<l>Messieurs, séparons-nous.</l>
+</sp>
+<sp who="MARILLE">
+<speaker>MARILLE.</speaker>
+<l>Hélas ! Quel crève-cour !</l>
+</sp>
+<sp who="LE FRANÇAIS">
+<speaker>LE FRANÇAIS, à l'Espagnol.</speaker>
+<l>Serviteur.</l>
+</sp>
+<sp who="L'ANGLAIS">
+<speaker>L'ANGLAIS, à l'Espagnol.</speaker>
+<l>Serviteur.</l>
+</sp>
+<sp who="L'ESPAGNOL">
+<speaker>L'ESPAGNOL au Médecin Anglais et le dernier serviteur an Peuple.</speaker>
+<l>Serviteur, Serviteur.</l>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

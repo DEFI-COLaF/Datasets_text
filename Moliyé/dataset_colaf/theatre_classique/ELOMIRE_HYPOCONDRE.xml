@@ -1,0 +1,3994 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_014</idno>
+<title type="main">ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
+<title type="collection">Moliyé</title>
+<author>LE BOULANGER DE CHALUSSAY</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janes</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target="http://memoirevive.besancon.fr/ark:/48565/a011411194376fdlVLU/1/1"/>
+<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
+<author>LE BOULANGER DE CHALUSSAY</author>
+<publisher>Gallica</publisher>
+<date when="1670"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target="http://memoirevive.besancon.fr/ark:/48565/a011411194376fdlVLU/1/1"/>
+<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
+<author>LE BOULANGER DE CHALUSSAY</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="ELOMIRE">
+<persName>ELOMIRE</persName>
+</person>
+<person xml:id="ISABELLE">
+<persName>ISABELLE</persName>
+</person>
+<person xml:id="LAZARILLE">
+<persName>LAZARILLE</persName>
+</person>
+<person xml:id="CASCARET">
+<persName>CASCARET</persName>
+</person>
+<person xml:id="BARI">
+<persName>BARI</persName>
+</person>
+<person xml:id="L_ORVIETAN">
+<persName>L'ORVIETAN</persName>
+</person>
+<person xml:id="ALCANDRE">
+<persName>ALCANDRE</persName>
+</person>
+<person xml:id="ÉRASTE">
+<persName>ÉRASTE</persName>
+</person>
+<person xml:id="EPISTENEZ">
+<persName>EPISTENEZ</persName>
+</person>
+<person xml:id="ORONTE">
+<persName>ORONTE</persName>
+</person>
+<person xml:id="CLIMANTE">
+<persName>CLIMANTE</persName>
+</person>
+<person xml:id="CLEARQUE">
+<persName>CLEARQUE</persName>
+</person>
+<person xml:id="CLARICE">
+<persName>CLARICE</persName>
+</person>
+<person xml:id="LUCINDE">
+<persName>LUCINDE</persName>
+</person>
+<person xml:id="ALPHÉE">
+<persName>ALPHÉE</persName>
+</person>
+<person xml:id="LUCILLE">
+<persName>LUCILLE</persName>
+</person>
+<person xml:id="CALISTE">
+<persName>CALISTE</persName>
+</person>
+<person xml:id="CONVIÉS">
+<persName>CONVIÉS</persName>
+</person>
+<person xml:id="DEUX_MUSICIENS">
+<persName>DEUX MUSICIENS</persName>
+</person>
+<person xml:id="UN_EXEMPT_DU_GUET">
+<persName>UN EXEMPT DU GUET</persName>
+</person>
+<person xml:id="LE_BALAFRÉ">
+<persName>LE BALAFRÉ</persName>
+</person>
+<person xml:id="SANS_MALICE">
+<persName>SANS MALICE</persName>
+</person>
+<person xml:id="AUTRES_ARCHERS">
+<persName>AUTRES ARCHERS</persName>
+</person>
+<person xml:id="SIX_FEINTS_TURCS">
+<persName>SIX FEINTS TURCS</persName>
+</person>
+<person xml:id="LE_DRAGOMAN">
+<persName>LE DRAGOMAN</persName>
+</person>
+<person xml:id="UN_SUISSE">
+<persName>UN SUISSE</persName>
+</person>
+<person xml:id="ANTOINE_valet_des_Médecins">
+<persName>ANTOINE, valet des Médecins</persName>
+</person>
+<person xml:id="FLORIMONT">
+<persName>FLORIMONT</persName>
+</person>
+<person xml:id="ROSIDOR">
+<persName>ROSIDOR</persName>
+</person>
+<person xml:id="ELOMIRE_2">
+<persName>ELOMIRE</persName>
+</person>
+<person xml:id="ANGÉLIQUE">
+<persName>ANGÉLIQUE</persName>
+</person>
+<person xml:id="AUTRES_COMÉDIENS_ET_COMÉDIENNES">
+<persName>AUTRES COMÉDIENS ET COMÉDIENNES</persName>
+</person>
+<person xml:id="LE_PORTIER_des_comédiens">
+<persName>LE PORTIER des comédiens</persName>
+</person>
+<person xml:id="LE_CHEVALIER">
+<persName>LE CHEVALIER</persName>
+</person>
+<person xml:id="LE_COMTE">
+<persName>LE COMTE</persName>
+</person>
+<person xml:id="LE_MARQUIS">
+<persName>LE MARQUIS</persName>
+</person>
+<person xml:id="UN_VALET">
+<persName>UN VALET</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>ELOMIRE HYPOCONDRE</p></div><div type="liminal"><p>OU LES MÉDECINS VENGÉS</p></div><div type="liminal"><p>COMÉDIE</p></div></div><div type="liminal"><p>M. DC. LXX. AVEC PRIVILÈGE DU ROI.</p></div><div type="liminal"><p>Par Monsieur LE BOULANGER DE CHALUSSAY</p></div><div type="liminal"><head>EXTRAIT DU PRIVILÈGE DU ROI</head><p>Par grâce et Privilège du Roi. donné à St Germain-en-Laye, le 1er jour de décembre 1669, signé, par le Roi en son Conseil, Bouchard, et scellé. Il est permis au sieur de Chalussay de faire imprimer, vendre et débiter deux Pièces de théâtre de sa composition, l'une en prose, intitulée : L'Abjuration du Marquisat, et l'autre en vers, intitulée : Élomire hypocondre, ou les Médecins vengés, part le marchand libraire que bon lui semblera, pendant le temps et l'espace de cinq années, à compter du jour que chaque pièce sera achevée d'imprimer pour la première fois, avec défenses à toutes personnes de les imprimer, vendre ni débiter sans avoir droit de lui par écrit, à peine de confiscation des Exemplaires, de tous dépens, dommages et intérêts, et de 1500 livres d'amende applicable à l'Hôpital de la ville de Paris, à condition qu'il sera mis deux exemplaires des dites pièces dans la bibliothèque publique de Sa Majesté, un dans son Cabinet et un dans celle de Monseigneur le Chancelier, ainsi qu'ils est plus au long mentionné dans lesdites lettres.</p><p>Registre sur le Livre de la Communauté des Marchands Libraires et Imprimeurs de cette ville, et conformément à l'Arrêt de la Cour du 8 avril 1653 aux charges et conditions portées sur le présent privilège. Fait le 3 décembre 1669.</p><p>Signé ANDRÉ SOUBRON, Syndic.</p></div>Achevé d'imprimé ce 4 janvier 1670. Les exemplaires ont été fournis.À PARIS, chez CHARLES DE SERCY, au Palais, au sixième pilier de la Grand Salle, à la Bonne Foi Couronnée.<div type="liminal"><p/></div><div type="liminal"><head>PRÉFACE</head><p>Tous les curieux savent qu'Élomire voulant exceller dans le Comique et surpasser tous les plus habiles en ce genre d'écrire, a eu dessein d'imiter cet Amour de la Fable, qui, ayant inutilement décoché toutes ses flèches et lancé tous ses traits dans le coeur d'une Belle difficile à vaincre, s'y lança enfin lui-même pour n'y plus trouver de résistance. Car il est constant que tous ces portraits qu'il a exposés en vue à toute la France, n'ayant pas eu une approbation générale comme il pensait, et au contraire, ceux qu'il estimait le plus ayant été frondés en bien des choses par la plus part des plus habiles, dont il a rejeté la cause sur les originaux qu'il avait copiés, il s'est enfin résolu de faire le sien et de l'exposer en public, ne doutant point qu'un tel chef-d'oeuvre ne dut charmer toute la terre. Il a donc fait son portrait, cet illustre peintre, et il a même promis plus d'une fois de l'exposer en vue, et sur le même théâtre où il avait exposé les autres ; car il y a longtemps qu'il a dit, en particulier et en public, qu'il s'allait jouer lui-même et que ce serait là que l'on verrait un coup de maître de sa façon. J'attendais avec impatience et comme les autres curieux un spectacle si extraordinaire et si souhaité, lorsque j'ai appris que pour des raisons qui ne me sont pas connues, mais que je pourrais deviner, ce fameux peintre a passé l'éponge sur ce tableau ; qu'il en a effacé tous les admirables traits ; et qu'on n'attend plus la vue de ce portrait qu'inutilement. J'avoue que cette nouvelle m'a surpris et qu'elle m'a été sensible ; car je m'étais formé une si agréable idée de ce portrait fait d'après nature, et par un si grand ouvrier, que j'en espérais beaucoup de plaisir : mais enfin j'ai fait comme les autres, je me suis consolé d'une si grande perte, et afin de le faire plus aisément, j'ai ramassé toutes ces idées, dont j'avais formé ce portait dans mon imagination, j'en ai fait celui que je donne au public. Si Élomire le trouve trop au-dessous de celui qu'il avait fait, et qu'une telle copie défigure par trop un si grand original, il lui sera facile de tirer raison de ma témérité, puisqu'il n'aura qu'à refaire ce portrait effacé, et à le mettre au jour. S'il le fait ainsi, le public m'aura beaucoup d'obligation par le plaisir que je lui aurai procuré, et s'il ne le fait pas, il ne laissera pas de m'en avoir un peu, puisque la copie d'un merveilleux original perdu, n'est pas une chose peu curieuse. Au reste, qu'on ne croie pas que le grand nombre d'acteurs puisse empêcher la représentation de cette Comédie ; car outre que la plupart de ceux qui paraissent au commencement ne paraissent point dans la suite, et par conséquent, qu'ils puissent faire plus d'un personnage chacun, il est encore à observer que les deux tiers ne parlent point ou fort peu ; que ce sont des personnages muets qui ne servent qu'à l'embellissement de la scène et à l'explication du sujet, et qu'on a de ces sortes d'acteurs tant qu'on veut et partout.</p></div><list><head>LES PERSONNAGES DE LA COMEDIE</head><item>ELOMIRE.</item><item>ISABELLE, femme d'Élomire.</item><item>LAZARILLE, valet d'Élomire.</item><item>CASCARET, laquais d'Isabelle.</item><item>BARI, Opérateur.</item><item>L'ORVIETAN, Opérateur.</item><item>ALCANDRE, Médecin.</item><item>ÉRASTE, Médecin.</item><item>EPISTENEZ, Médecin.</item><item>ORONTE, Médecin.</item><item>CLIMANTE, Médecin.</item><item>CLEARQUE, Médecin.</item><item>CLARICE, femme de Médecin.</item><item>LUCINDE, femme de Médecin.</item><item>ALPHÉE, femme de Médecin. </item><item>LUCILLE, femme de Médecin.</item><item>CALISTE, femme de Médecin.</item><item>CONVIÉS, à la Comédie et au bal. </item><item>DEUX MUSICIENS, représentant Esculape et Mome.</item><item>UN EXEMPT DU GUET.</item><item>LE BALAFRÉ, Archer du Guet.</item><item>SANS MALICE, Archer du Guet.</item><item>AUTRES ARCHERS.</item><item>SIX FEINTS TURCS.</item><item>LE DRAGOMAN.</item><item>UN SUISSE.</item><item>ANTOINE, valet des Médecins.</item></list><list><head>LES PERSONNAGES DE LA COMÉDIE EN COMÉDIE.</head><item>FLORIMONT, comédien.</item><item>ROSIDOR, comédien. </item><item>ELOMIRE, comédien.</item><item>ANGÉLIQUE, comédienne.</item><item>AUTRES COMÉDIENS ET COMÉDIENNES.</item><item>LE PORTIER des comédiens.</item><item>LE CHEVALIER.</item><item>LE COMTE.</item><item>LE MARQUIS.</item><item>UN VALET.</item></list><p>La scène est à Paris. La scène de la comédie en comédie est dans la salle des Comédies du Palais-Royal.</p></div>
+<div n="1" type="act">
+<head>ACTE I</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Élomire, Isabelle, Lazarille.</head>
+<stage>La scène de cet acte est dans la chambre d'Élomire, qui doit doit être fort parée.</stage>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Toi qui, depuis l'Hymen qui nous unit tous deux,</l>
+<l>N'eus que d'heureuses nuits, et que des jours heureux ;</l>
+<l>Toi qui fut mon plaisir, toi dont je fus la joie,</l>
+<l>Apprends le dur revers que le Ciel nous envoie :</l>
+<l>Et pour me soulager en de si grands travaux,</l>
+<l>Compagne de mes biens, viens l'être de mes maux.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Quel mal avez-vous donc ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ah ! J'en ai mille ensemble.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Quels maux ; et depuis quand : dites vite, je tremble.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE</speaker>
+<l>N'as-tu point remarqué que depuis quelque temps</l>
+<l>Je tousse, et ne dors point ?</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Non.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je crois que tu mens. </l>
+<note>Embonpoint : Pleine santé qui est accompagné d'un peu trop de graisse.[F]</note>
+<l>Et ce frais embonpoint dont brillait mon visage, </l>
+<l>Comment le trouves-tu ?</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Tout de même.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je gage </l>
+<l>Contre toi qu'il s'en faut pour le moins les trois quarts.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE, à part.</speaker>
+<l>Que dit-il, justes Dieux ! Ah ! les vilains regards ?</l>
+<l>Il est fou.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Lazarile, ai-je pas le teint blême !</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILlE</speaker>
+<l>Oui, Monsieur.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Le miroir me l'a dit tout de même ;</l>
+<l>Et ces bras qui naguère étaient de vrais gigots,</l>
+<l>Comment les trouves-tu ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARIlLE</speaker>
+<l>Ce ne sont que des os, </l>
+<l>Et je crois que bientôt, plus secs que vieux squelettes </l>
+<note>Castagnette : Instrument dont se servent les Maures, les espagnols et les bohémiens pour accompagner leurs danses, leurs sarabandes et leurs guitares. [F]</note>
+<l>On s'en pourra servir au lieu de castagnettes.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Lazarile.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Madame ?</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Apprenez qu'un valet</l>
+<note>L'orriginal du vers 22 pour une graphie du dernier mot en "balet".</note>
+<l>Qui se moque d'un maître, a souvent du balais ;</l>
+<l>Et si vous ne voulez proscrire vos épaules,</l>
+<note>Gaule : Grande perche menues et longue avec laquelle on abat des noix, ou des pommes pour faire du cidre. [F]</note>
+<l>Taisez-vous, et sachez que nous avons des gaules.</l>
+<l>Quoi ! Votre maître est maigre, et pâle, dites-vous ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>S'il n'est tel à mes yeux, qu'on m'assomme de coups.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Est-il tel à vos yeux, s'il est autre à ma vue ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<note>Berlue : Éblouissement de la vue par une trop grande lumière, qui fait voir longtemps après les objets d'une autre couleur qu'ils ne sont. Se dit figurément en choses spirituelles des conceptions de l'esprit. [F]</note>
+<l>Mais, ma femme, peut-être, avez-vous la berlue ?</l>
+<l>Car, enfin, Lazarile...</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Et Lazarile et vous, </l>
+<l>Si vous vous croyez maigre et pâle, êtes deux fous. </l>
+<l>Vous dormez comme un porc, vous mangez tout de même ; </l>
+<l>Qui diantre donc pourrait vous rendre maigre et blême.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>J'aurai donc la couleur telle que tu voudras ;</l>
+<l>Et même si tu veux, je serai gros et gras :</l>
+<l>Mais que m'importe-t-il, je me crois bien malade,</l>
+<l>Et qui croit l'être, l'est.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Mais qui se persuade </l>
+<l>D'être malade alors qu'il est sain comme vous, </l>
+<l>Est dans le grand chemin de l'hôpital des fous.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Madame dit fort bien ; et si je ne m'abuse, </l>
+<l>Il faudra vous y mettre...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ô la plaisante buse !</l>
+<l>Quand, comme il vous paraît, j'aurais l'esprit gâté,</l>
+<l>Est-ce que l'on met là les fous de qualité ?</l>
+<l>Y vit-on de la Cour jamais mener personne ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Mon maître n'est pas fou, comment diable, il raisonne ?</l>
+<l>Il dit vrai, j'en connais à la Cour plus de six,</l>
+<l>Qui sont plus fous que lui.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>J'en connais plus de dix ; </l>
+<l>Et je les nommerais s'il était nécessaire.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Ah ! Mon cher Élomire, apprenez à vous taire ; </l>
+<l>Je connais votre mal : pour avoir trop parlé, </l>
+<l>Quelque ennemi vous a, sans doute, ensorcelé.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Comment, ensorcelé ? Je suis donc sans remède ?</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Qui vous a fait le mal, vous peut donner de l'aide.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Oui bien, si le morceau n'est donné pour toujours : </l>
+<l>Car autrement, mon maître est sans aucun secours.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais quand ce sorcier-là pourrait m'être propice, </l>
+<l>Comment le voudrait-il, s'il eut tant de malice ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>S'il était honnête homme ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Honnête homme et sorcier ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Il est d'honnêtes gens, Monsieur, de tous métiers, </l>
+<l>Comme de tous métier, il en est aussi d'autres.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais s'il est contre nous, peut-il être des nôtres ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>On ramène souvent les gens au bon chemin ;</l>
+<l>Et je vous en réponds, s'il n'est pas médecin :</l>
+<l>Mais s'il est tel, ma foi, l'attente est ridicule,</l>
+<l>Je n'en connais pas un moins têtu que sa mule.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ah ! Je suis donc perdu, Lazarile.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Pourquoi ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>C'en est un ; qu'en dis-tu, ma femme ?</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Je le crois : </l>
+<l>Mais pourquoi diantre aussi, vous mites-vous en tête </l>
+<l>De jouer ces gens là ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Que veux-tu ? J'étais bête : </l>
+<l>Mais quoi ! J'ai fait la faute, et je la paye bien.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Bon courage, Monsieur ; peut-être n'est-ce rien : </l>
+<l>L'on voit beaucoup de gens prendre pour sortilège </l>
+<l>Ce qui n'est que poison.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais comment le saurais-je ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Vous en allez bientôt être tout éclairci ;</l>
+<l>L'Orviétan et Barry s'en vont venir ici :</l>
+<l>Je les en ai priés ce matin par votre ordre ;</l>
+<l>Si ceux-là n'y font rien, personne n'y peut mordre ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je le sais mieux que toi, nous avons autrefois</l>
+<l>Étudié sous eux, et des jours plus de trois :</l>
+<l>Et sans eux, ce talent que j'ai pour le comique ;</l>
+<l>Ce talent dont je charme, et dont je fais la nique</l>
+<l>Aux plus fameux bouffons, eut avant le berceau,</l>
+<l>En malheureux morné, rencontré son tombeau.</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Le Ciel l'eust-il permis ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais, ma chère Isabelle,</l>
+<l>Sans lui nous verrions-nous une chambre si belle :</l>
+<l>Ces meubles précieux sous de si beaux lambris ;</l>
+<l>Ces lustres éclatants, ces cabinets de prix ;</l>
+<l>Ces miroirs, ces tableaux, cette tapisserie,</l>
+<note>Savonnerie : Lieu où l'on fait du savon. À Paris c'est un lieu ainsi nommé, où l'on fait des tapisseries maintenant [fin XVIIème]. [F]</note>
+<l>Qui seule épuisa l'art de la Savonnerie :</l>
+<l>Enfin, tous ces bijoux qui te charment les yeux,</l>
+<l>Sans ce divin talent seraient-ils en ces lieux ?</l>
+</sp>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Non, ils n'y seraient pas, mais nous vous verrions sage,</l>
+<l>Et cela suffirait dans notre mariage :</l>
+<l>Car enfin, dites-moi, sans ces maudits talents,</l>
+<l>Auriez-vous entrepris et les Dieux et les gens ?</l>
+<l>Et sans cette entreprise, aussi folle qu'impie,</l>
+<l>Auriez-vous ces accès qui passent la folie ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je n'entrepris de trop que les seuls médecins,</l>
+<l>Puisque pour s'en venger, ils sont mes assassins :</l>
+<l>Mais qui ne l'eût pas fait en une conjoncture</l>
+<l>Où nous vîmes leur art berné par la nature,</l>
+<l>Lorsque sans son secours, que même il n'offrait pas, </l>
+<l>Elle tira Daphné des portes du trépas.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Cascaret, Elmire, Isabelle, Lazarille.</head>
+<sp who="ISABELLE">
+<speaker>ISABELLE.</speaker>
+<l>Que veux-tu, Cascaret ?</l>
+</sp>
+<sp who="CASCARET">
+<speaker>CASCARET.</speaker>
+<l>C'est Monsieur qu'on demande.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Qui ?</l>
+</sp>
+<sp who="CASCARET">
+<speaker>CASCARET.</speaker>
+<l>Deux hommes, dont l'un a la barbe fort grande </l>
+<l>L'autre fort courte.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Bon ; Monsieur, ce sont nos gens.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Lazarile.</speaker>
+<l>Va les faire monter.</l>
+<stage>Lazarille sort.</stage>
+<stage>À Isabelle.</stage>
+<l>Vous entrez là dedans ?</l>
+<note>Placet : Tabouret, petit siège de femme, ou d'enfant, qui n'a ni bras, ni dossier.</note>
+<stage>Isabelle et Lazarile étant sortis, Élomire arrange un fauteuil, une chaise à dos et un placet.</stage>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Bary, L'Orvietan, Élomire.</head>
+<stage>Tous refusent le fauteuil et la chaise à dos, et veulent prendre le placet par cérémonie, en se faisant de grandes révérences les uns aux autres.</stage>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>L'humilité trop ravalée</l>
+<l>Cache souvent beaucoup d'orgueil :</l>
+<l>C'est pourquoi dans une assemblée</l>
+<l>Le plus grand doit d'abord s'emparer du fauteuil</l>
+<l>Le plus petit, tout au contraire,</l>
+<l>Toujours honteux de sa misère,</l>
+<l>Ne doit se placer qu'au bas bout,</l>
+<l>Et ne parler jamais que nu-tête et debout.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Par cette règle qui décide</l>
+<l>Ce point entre nous débattu,</l>
+<l>Celui de vous deux qui préside</l>
+<l>Doit prendre ce fauteuil, ou passer pour têtu :</l>
+<l>Car je ne puis sans méconnaître</l>
+<l>Que l'un et l'autre fut mon maître,</l>
+<l>Ni sans mériter mille coups,</l>
+<l>Me seoir ni me couvrir, sans m'éloigner de vous.</l>
+</sp>
+<sp who="L'ORVIETAN">
+<speaker>L'ORVIETAN.</speaker>
+<l>La chosse a bien chanché de face, </l>
+<l>Depuis le temps dont fou parlez : </l>
+<l>Fou n'étiez lors qu'une limace </l>
+<l>Et qu'un pauvre serpent ; maintenant fou folez : </l>
+<l>Ma fou folez à tire d'ailes,</l>
+<l>Les Taparins et les Padelles</l>
+<l>Ne seraient que fos écoliers,</l>
+<l>Dont la Cour, chaque jour, fou coufre de lauriers.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Il est vrai qu'avec quelque gloire</l>
+<l>L'on me voit paraître à la Cour ;</l>
+<l>Et sans par trop m'en faire accroire</l>
+<l>Je sais faire figure en ce brillant séjour :</l>
+<l>Mais quelque rang que l'on m'y donne,</l>
+<l>Et quelque éclat qui m'environne,</l>
+<l>Je ne prendrai point le dessus,</l>
+<l>Si je vois qui je suis, je sais ce que je fus.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>L'humilité, je vous l'avoue,</l>
+<l>Quand elle part du fond du coeur</l>
+<l>Fraîchement sorti de la boue,</l>
+<l>Mérite qu'on l'estime et qu'on lui fasse honneur :</l>
+<l>Mais à parler sans artifice,</l>
+<l>Je croirais avecque justice,</l>
+<l>Devoir tenir mon quant-à-moi,</l>
+<l>Si j'étais comme vous, le premier fou du Roi.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, à Bary.</speaker>
+<l>Dites bouffon, Monsieur, le nom de fou nous choque.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Ah ! L'ignare, rntre nous, ce terme est univoque ;</l>
+<l>Qui dit fou, dit bouffon ; qui dit bouffon, dit fou.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Quoi, comme qui dirait, ou chou-vert, ou vert-chou ? </l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Tout de même...</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>En ce cas, mon maître est l'un et l'autre ; </l>
+<l>Car c'est un grand bouffon.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Taisez-vous, valet nôtre ; </l>
+<l>Je ne demeure pas bien d'accord de ce fait.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY, s'asseyant brusquement dans le fauteuil.</speaker>
+<l>Je vais vous le prouver et fort clair et fort net.</l>
+<l>Soyez-vous.</l>
+<stage>L'Orvietan prend brusquement la chaise à dos et Élomire le placet.</stage>
+<l>Apprenez, mes illustres confrères,</l>
+<l>Que tout notre art consiste en deux points nécessaires :</l>
+<l>Le premier, c'est d'apprendre à grimacer des mieux ;</l>
+<l>L'autre, à bien débiter ces grands charmes des yeux,</l>
+<l>Ces gestes contrefaits, cette grimace affreuse,</l>
+<l>Dont on fait toujours rire une troupe nombreuse.</l>
+<l>Dedans ce premier point, nous ne sommes que fous ;</l>
+<l>Mais, dans l'autre, bouffons.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>De grâce, expliquez-vous,</l>
+<l>Je ne vous entends point ?</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Par exemple, Élomire </l>
+<l>Veut se rendre parfait dans l'art de faire rire ;</l>
+<l>Que fait-il, le matois, dans ce hardi dessein ?</l>
+<note>Scaramouche : Personnage bouffon de l'ancienne comédie italienne habillé de noir de la tête aux pieds. [L]</note>
+<l>Chez le grand Scaramouche il va soir et matin.</l>
+<l>Là, le miroir en main, et ce grand homme en face,</l>
+<l>Il n'est contorsion, posture, ni grimace,</l>
+<l>Que ce grand écolier du plus grand des bouffons,</l>
+<l>Ne fasse, et ne refasse en cent et cent façons.</l>
+<l>Tantôt pour exprimer les soucis d'un ménage,</l>
+<l>De mille et mille plis il fronce son visage ;</l>
+<l>Puis joignant la pâleur à ces rides qu'il fait,</l>
+<l>D'un mari malheureux il est le vrai portrait.</l>
+<l>Après, poussant plus loin cette triste figure,</l>
+<l>D'un cocu, d'un jaloux, il en fait la peinture ;</l>
+<l>Tantôt à pas comptés, vous le voyez chercher</l>
+<l>Ce qu'on voit par ses yeux, qu'il craint de rencontrer :</l>
+<l>Puis s'arrêtant tout court, écumant de colère,</l>
+<l>Vous diriez qu'il surprend une femme adultère,</l>
+<l>Et l'on croit, tant ses yeux peignent bien cet affront,</l>
+<l>Qu'il a la rage au coeur, et les cornes au front.</l>
+<l>Ensuite...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>C'est assez, je l'entends et l'avoue,</l>
+<l>Je suis fou quand j'apprends, et bouffon quand je joue.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Justement. Mais en quoi vous pouvons-nous servir ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>En connaissant mes maux, et les pouvant guérir.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Vous n'en pouvez douter, sans une erreur extrême,</l>
+<l>Je vous garantis sain, fussiez-vous le mal même,</l>
+<l>Et l'Orvietan, sans doute, est de mon sentiment.</l>
+</sp>
+<sp who="L'ORVIETAN">
+<speaker>L'ORVIETAN.</speaker>
+<l>Oui, s'il s'achit ici de poison seulement.</l>
+<l>Ma foussiez-fou larté d'aspic et de vipères,</l>
+<l>Lio forte et l'arsenic proulast-il fos fiscères ;</l>
+<l>Déjà fos intestins en foussent-ils ronchez,</l>
+<l>Et foussiez-fou mordou de cent chians enrachez ;</l>
+<l>Ne craindé pu la mort, ni que le mal empire,</l>
+<l>Foici moi, l'Orvietan, et cela c'est tout dire.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Mais, Messieurs, si mon maître était ensorcelé ?</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Je le guéris, te dis-je, et fut-il endiablé :</l>
+<l>Mieux je guéris les maux, plus ils sont incurables.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Dieu bénisse des gens si bons et si capables !</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Quel est donc votre mal ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Il est tel, mes amis, </l>
+<l>Que sans vous je suis mort, et peut-être encor pis.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Et peut-être encor pis ? La mort est, ce me semble, </l>
+<note>Pressis : [ou précis] Suc, ou jus imprimé de quelque viande, de quelques. Se dit figurément en morale, d'un extrait de ce qu'il y a de bon dans un livre. [F] </note>
+<l>Le suc et le pressis de tous les maux ensemble : </l>
+<l>On remédie à tout, dit-on, fors qu'à la mort.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Il est vrai ; sachez donc enfin quel est mon sort. </l>
+<l>Mon amour, Médecin, cette illustre satire</l>
+<l>Qui plut tant à la Cour, et qui la fit tant rire ;</l>
+<l>Ce chef-d'oeuvre qui fut le fléau des médecins,</l>
+<l>Me fit des ennemis de tous ces assassins,</l>
+<l>Et dû depuis leur haine, à ma perte obstinée,</l>
+<l>A toujours conspiré contre ma destinée.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Ce n'est pas sans sujet qu'on dit à ce propos,</l>
+<l>Plures médecinam, nutrire nefandos.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ce n'est pas sans sujet, en effet, car moi-même</l>
+<l>J'éprouve chaque jour cette malice extrême :</l>
+<l>Écoutez. L'un d'entre eux, dont je tiens ma maison,</l>
+<l>Sans vouloir m'alléguer prétexte ni raison,</l>
+<l>Dit qu'il veut que j'en sorte, et me le signifie :</l>
+<l>Mais n'en pouvant sortir ainsi, sans infamie,</l>
+<l>Et d'ailleurs ne voulant m'éloigner du quartier,</l>
+<l>Je pare cette insulte augmentant mon loyer.</l>
+<l>Dieu sait si cette dent que mon hôte m'arrache,</l>
+<l>Excite mon courroux, toutefois je le cache ;</l>
+<l>Mais quelque temps après que tout fut terminé,</l>
+<l>Quand mon bail fut refait, quand nous l'eûmes signé,</l>
+<l>Je cherche à me venger, et ma bonne fortune</l>
+<l>M'en fait trouver d'abord la rencontre opportune :</l>
+<l>Nous avions résolu, mes compagnons et moi,</l>
+<l>De ne jouer jamais, excepté chez le Roi.</l>
+<note>Séquelle : nom collectif qui se dit d'une suite de personnes, ou de choses, qui vont ordinairement ensemble, ou qui sont attachés au partir, au sentiment, aux intérêts de quelqu'un. [F]</note>
+<l>Devant ce médecin, ni devant la séquelle :</l>
+<l>Pourtant, soit à dessein de nous faire querelle ;</l>
+<l>Soit par d'autres motifs, la femme de ce fat</l>
+<l>Vint pour nous voir jouer, mais elle prit un rat :</l>
+<l>Car la mienne aussitôt en étant avertie,</l>
+<note>Branle : Est une espèce de danse de plusieurs personnes, qui se tiennent par la main, et qui se mènent tour-à-tour. [FC]</note>
+<l>Lui fit danser d'abord, un branle de sortie. </l>
+<l>Comme alors je croyais que tout m'était permis,</l>
+<l>Je négligeai d'en dire un mot à mes amis.</l>
+<note>Here : Homme qui est sans bien ou sans crédit. [F]</note>
+<l>Las ! J'aurais prévenu, par là, ce que ce hère,</l>
+<l>Pour venger cet affront, ne manqua pas de faire.</l>
+<l>Je fis donc ce faux pas ; tandis ce raffiné</l>
+<l>Prévint toute la Cour dont je me vis berné.</l>
+<l>Car par un dur arrêt qui fut irrévocable,</l>
+<l>On nous ordonna presque une amende honorable.</l>
+<l>Je vais, je viens, je cours, mais j'ai beau tempêter,</l>
+<l>On me ferme la bouche, et loin de m'écouter,</l>
+<l>Taisez-vous, me dit-on, petit vendeur de baume,</l>
+<note>Esculape : Dieu romain de la médecine (Asclepios en grec). Selon le mythe grec, il est le fils d'Apollon et de Coronis.</note>
+<note>Morne : Qui est sombre, triste et taciturne. [F]</note>
+<l>Et croyez qu'Esculape est plus grand Dieu que Morne.</l>
+<l>Après ce coup de foudre, il fallut tout souffrir ;</l>
+<l>Ma femme en enragea, je faillis d'en mourir ;</l>
+<l>Et ce qui fut le pis, pendant ma maladie,</l>
+<l>Fallut de mes bourreaux, souffrir la tyrannie.</l>
+<l>Ma femme les manda, sans m'en rien témoigner.</l>
+<l>D'abord qu'ils m'eurent vus, « faut saigner, faut saigner, »</l>
+<l>Dit notre bredouilleur. « Ah ! N'allons pas si vite,</l>
+<l>L'on part toujours à temps, quand on arrive au gîte, »</l>
+<l>Dit Monsieur le lambin, « c'est là bien décider, »</l>
+<l>Dit un autre, « il ne faut ni saigner ni tarder,</l>
+<l>Si l'on tarde, il est mort, si l'on saigne, hydropique ;</l>
+<note>Emétique : est un remède qui purge avec violence par haut et par bas. fait de la poudre et du beurre d'antimoine préparé, dont on a séparé les sels corrosifs par plusieurs lotions. [F]</note>
+<l>Et notre peu d'espoir n'est plus qu'en l'émétique ; »</l>
+<l>Chacun des trois s'obstine et soutient son avis,</l>
+<l>Et tous trois, tour à tour, enfin furent suivis :</l>
+<l>L'on saigna, l'on tarda, l'on donna l'émétique,</l>
+<l>Et je fus fort longtemps leur plus grande pratique.</l>
+<l>À la fin je guéris, mais s'il faut l'avouer,</l>
+<l>Ce fut par le plaisir que j'eus de voir jouer</l>
+<l>Mon amour, médecin, par mes médecins mêmes ;</l>
+<l>Car malgré mes chagrins et mes douleurs extrêmes,</l>
+<l>J'admirai ma copie en ces originaux,</l>
+<l>Et je tirai mon mal d'où j'avais pris mes maux.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>C'est ainsi qu'un miracle en a produit un autre.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Si j'ai fait mon miracle, il faut faire le vôtre ?</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Nous vous l'avons promis non pas « semel », mais « bis ». </l>
+<l>Mais, baste ; « Operibus credita, non verbis ».</l>
+</sp>
+<sp who="L'ORVIETAN">
+<speaker>L'ORVIETAN.</speaker>
+<l>« Res faciunt fidem, non verba », dit Flamine.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Soit, voilà de mes maux la première origine ;</l>
+<l>Écoutez la seconde. Aussitôt que mon coeur </l>
+<l>Eut repris tant soit peu de force et de vigueur ;</l>
+<l>Et que de mon esprit la fâcheuse pensée </l>
+<l>Des suites de la mort, se fut un peu passée, </l>
+<l>Je pris tant de plaisir à voir tous les matins,</l>
+<l>Mes grotesques docteurs prêcher sur mes bassins, </l>
+<note>Purée : Jus ou suc qu'on tire des pois. [L]</note>
+<l>Et humer à plein nez leur fumante purée.</l>
+<l>Que de ma guérison j'ai la preuve assurée ;</l>
+<l>Car ma force redouble, et je deviens plus frais, </l>
+<l>Et plus gros et plus gras que je ne fus jamais. </l>
+<l>Lors je monte au théâtre, où par de nouveaux charmes,</l>
+<note>L'Amour médecin est une comédie de Molière.</note>
+<l>Mon Amour médecin fait rire jusqu'aux larmes,</l>
+<l>Car en le confrontant à ses originaux,</l>
+<l>Je l'avais corrigé jusqu'aux moindres défauts.</l>
+<l>Ainsi, d'un nouveau bruit cette merveille éclate ;</l>
+<l>Chacun y court en foule épanouir sa rate ;</l>
+<l>Et quoi qu'à trente sols, il n'est point de bourgeois </l>
+<l>Qui ne le veuille voir, du moins cinq ou six fois.</l>
+<l>Jugez mes chers amis, si je ris dans ma barbe,</l>
+<note>Dauber : Fig. et familièrement, railler quelqu'un, mal parler de lui, l'injurier. [L]</note>
+<l>De voir ainsi dauber la casse et la rhubarbe ;</l>
+<l>Et si, voyant grossir chaque jour mon gousset</l>
+<l>De ce douzain bourgeois j'ai le coeur satisfait.</l>
+<l>Je l'eus, n'en doutez point, et de toute manière ;</l>
+<l>Mais que la joie est courte, alors qu'elle est entière,</l>
+<l>Et qu'on voit rarement, du soir jusqu'au matin,</l>
+<l>Durer sans changement le cours d'un beau destin.</l>
+<l>Je vivais donc ainsi dans une paix profonde ;</l>
+<l>Plus heureux que mortel qui fut jamais au monde,</l>
+<l>Quand un soir, revenant du théâtre chez moi,</l>
+<l>Un fantôme hideux que de loin j'entrevois,</l>
+<l>Se plante sur ma porte, et bouche mon allée :</l>
+<note>Faire le fin : se piquer de ruse, d'adresse, de finesse. Ce lourdaud veut faire le fin. [L]</note>
+<l>Je n'en fais point le fin, mon âme en fut troublée ;</l>
+<l>Et troublée à tel point, qu'étant tombé d'abord,</l>
+<l>On ne me releva que comme un homme mort.</l>
+<l>Je revins ; mais hélas ! Depuis cette aventure,</l>
+<l>J'ai souffert plus de maux qu'un damné n'en endure ;</l>
+<l>Et, sans exagérer, je vous puis dire aussi</l>
+<l>Qu'homme n'a plus que moi, de peine, et de souci.</l>
+<l>Vous en voyez l'effet de cette peine extrême ;</l>
+<l>En ces yeux enfoncés, en ce visage blême ;</l>
+<l>En ce corps qui n'a plus presque rien de vivant,</l>
+<l>Et qui n'est presque plus qu'un squelette mouvant.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Où souffrez-vous le plus, au fort de ces tortures ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Partout également, jusques dans les jointures :</l>
+<l>Mais ce qui plus m'alarme, encor qu'il le dut moins,</l>
+<note>Tintouin : Sensation trompeuse d'un bruit analogue à celui d'une cloche qui tinte, et dû à un état morbide du cerveau ou à une lésion du nerf auditif. [L]</note>
+<l>C'est une grosse toux, avec mille tintouins,</l>
+<note>Corner : Bourdonner, en parlant des oreilles percevant un bruit qui n'a rien de réel. Les oreilles me cornent. [L]</note>
+<l>Dont l'oreille me corne.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Ô les grandes merveilles ?</l>
+<l>Les cornes sont toujours fort proches des oreilles.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>J'aurais des cornes, moi ? Moi je serais cocu ?</l>
+</sp>
+<sp who="L'ORVIETAN">
+<speaker>L'ORVIETAN.</speaker>
+<l>On ne dit pas qu'encor, fou le soyez actu ;</l>
+<l>Mais étant marié, c'est chose très certaine,</l>
+<l>Que fous lestes, du moins, en puissance prochaine.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ah ! Trêve de puissance et d'acte, s'il vous plaît,</l>
+<l>Et de grâce, laissez le monde comme il est ;</l>
+<l>Je ne suis point cocu, ni ne le saurais être,</l>
+<l>Et j'en suis, Dieu merci bien assuré.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Peut-être.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Sans peut-être ; qui forge une femme pour soi,</l>
+<l>Comme j'ai fait la mienne, en peut jurer sa foi.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<note>Agnès : personnage de l'Ecole des Femmes de Molière (1662).</note>
+<note>Arnolphe : personnage de l'Ecole des Femmes de Molière. (1662)</note>
+<l>Mis quoi que par Arnolphe, Agnès ainsi forgée,</l>
+<l>Elle l'eut fait cocu, s'il l'avait épousée !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Arnolphe commença trop tard à la forger ;</l>
+<l>C'est avant le berceau qu'il y devait songer ;</l>
+<l>Comme quelqu'un l'a fait.</l>
+</sp>
+<sp who="L'ORVIETAN">
+<speaker>L'ORVIETAN.</speaker>
+<l>On le dit.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Et ce dire </l>
+<l>Est plus vrai qu'il n'est jour...</l>
+</sp>
+<sp who="BARY, L'ORVIETAN">
+<speaker>BARY ET L'ORVIETAN, s'éclatant de rire en même temps.</speaker>
+<l>Ah ! Ah ! Ah !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Pourquoi rire ?</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Bons Dieux, qui ne rirait ? Quoi vous comédien, </l>
+<l>Vous piquerez d'un nom, dont mille gens de bien </l>
+<l>Se moquent tous les jours !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Qui le voudra s'en moque ; </l>
+<l>Je n'en fais point le fin : le nom de sot me choque.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Mais,de grâce, parlons un peu sans passion.</l>
+<l>Homme fit-il jamais votre profession,</l>
+<l>Qui femme eut pour lui seul ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, brusquement.</speaker>
+<l>Et pourquoi pour les autres ?</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY.</speaker>
+<l>Parce que parmi vous toutes choses sont vôtres : </l>
+<l>Point de mien, point de tien, non plus qu'au siècle d'or.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, haussant la voix.</speaker>
+<note>Tabarin : Bouffon très grossier, valet et associé de Mondor. Ce Mondor était un charlatan et vendeur de Baume, qui au commencement du dernier siècle [XVIIème NdR] établissait son théâtre sur des tréteaux, dans la place Dauphine [proche du Pont-Neuf] : il ne demeurait pas toujours à Paris, mais courait avec Tabarin dans les autres villes du royaume. [Leiris]</note>
+<l>Bon pour les Tabarins et leur maître Mondor ;</l>
+<l>Bon pour leurs descendants, qui par tout le royaume</l>
+<l>Courent ainsi que vous y débiter leurs baumes ;</l>
+<l>L'onguent pour la brûlure, et le contre-poison.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY, haussant la voix et se mettant en colère.</speaker>
+<l>Élomire, morbleu !... Point de comparaison ;</l>
+<l>Le nom d'Operateur est d'un trop haut étage,</l>
+<l>Pour être ravalé par un... Sang bleu ! j'enrage !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, du même ton.</speaker>
+<l>Je n'enrage pas moins, ventre, et si ce n'était</l>
+<l>Que vous êtes chez moi, le gourdin trotterait.</l>
+</sp>
+<sp who="L'ORVIETAN">
+<speaker>L'ORVIETAN, du même ton.</speaker>
+<l>Le gourdin trotterait ! Dis donc sur tes épaules,</l>
+<l>Tarte à la crème !</l>
+<stage>En disant tarte à ta crème, il prend un bout du chapeau d'Élomire et lui fait faire un tour sur sa tête.</stage>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, transporté de colère à ce tour de chapeau.</speaker>
+<note>Gaule : baton. [L]</note>
+<l>Ah tête, à moi mes gens, des gaules ! </l>
+<l>Lazarille, fondons sur ces croque-crapaud !</l>
+<stage>Élomire se veut jeter sur l'Orvietan et sur Bary à ces mots : et Lazarille se met entre eux, et retient Élomire.</stage>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Ah ! Songez à vos maux :</l>
+<l>Et vous ressouvenez que par cette colère,</l>
+<l>Vous perdez un secours qui vous est nécessaire.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, voulant se jeter sur Bary et sur l'Orvietan, malgré Lazarile.</speaker>
+<l>N'importe que je perde, en dussai-je mourir,</l>
+<l>Je veux venger l'affront que je viens de souffrir.</l>
+</sp>
+<sp who="BARY">
+<speaker>BARY, d'un ton menaçant.</speaker>
+<note>Caboche : Tête, en style trivial. [L]</note>
+<l>Et bien donc, tu mourras, frénétique caboche ;</l>
+<l>Mais quoique ton trépas déjà soit assez proche,</l>
+<l>Il n'arrivera point qu'en l'Hôpital des fous,</l>
+<l>Tu ne sois couronné, comme le roi de tous.</l>
+<stage>Bary et l'Orvietan sortent.</stage>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, étant resté seul avec Lazarille, et demeure tout d'un coup comme interdit et confus.</speaker>
+<l>Cent fois plus étourdi qu'un homme que la foudre</l>
+<l>A sans briser ses os, renversé sur la poudre ;</l>
+<l>Interdit et confus du faux pas que j'ai fait ;</l>
+<l>Je commence déjà d'en ressentir l'effet ;</l>
+<l>Oui, j'aperçois déjà que tous mes maux redoublent,</l>
+<l>Que ma raison s'égare, et que mes sens se troublent.</l>
+<l>Et si ton amitié ne vient à mon secours ;</l>
+<l>Lazarille, tu vois le dernier de mes jours.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Mais pourquoi quereller, et par un pur caprice,</l>
+<l>Des gens venus exprès pour vous rendre service ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ah ne connais-tu pas ma trop jalouse humeur,</l>
+<l>Elle emporte mon âme avec tant de fureur,</l>
+<l>Que d'abord qu'on me parle ou de femme ou de cornes,</l>
+<l>Ma raison est sans force, et ma rage sans bornes.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Sans ce faible, on vous eut guéri dans un Pater ;</l>
+<l>Mais, uno avulso, non deficit alter ;</l>
+<l>Comme dit doctement, votre ami Carmeline :</l>
+<l>Quittez donc cet air triste, et cette humeur chagrine ;</l>
+<l>Car sans être connu, par mon invention,</l>
+<l>Vous aurez aujourd'hui la consultation</l>
+<l>Des trois plus grands docteurs qui soient dans le Royaume ;</l>
+<l>Mais ne les traitez pas en débiteurs de baume ;</l>
+<l>Ils sont tous médecins, et de la Faculté ;</l>
+<l>Vous savez ce qu'on doit à cette qualité.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je sais ce qu'on lui rend et ce qu'on lui doit rendre ;</l>
+<l>Et par là, je ne sais ce que j'en dois attendre ;</l>
+<l>Mais n'importe, en l'état où je me vois réduit,</l>
+<l>Je me soumets à tout, fut-ce sans aucun fruit.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Allons donc ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je le veux : allons, aimable drille ; </l>
+<l>Si je guéri jamais, je te donne ma fille.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Votre fille pourrait, possible être plus mal ;</l>
+<l>Mais...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Sans mais, rien ne vaut un valet si loyal.</l>
+</sp>
+</div>
+</div>
+<div n="2" type="act">
+<head>ACTE II</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Alcandre, Geraste, Epistenez, Antoine, Le Suisse.</head>
+<stage>La scène de cet acte est devant et dedans une grande maison, à la porte de laquelle il y a un Suisse, et où arrivent les trois médecins sur leurs mules pour voir Élomire déguisé en Turc, sous le nom du Bassa Sigale.</stage>
+<sp who="ANOINE">
+<speaker>ANTOINE.</speaker>
+<l>Suisse, est-ce ici l'Hôtel de Monseigneur Sigale ?</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Dis Bassa, point Monsgneur ; ma queu-sti parpe sale ?</l>
+</sp>
+<sp who="ANTOINE">
+<speaker>ANTOINE.</speaker>
+<l>Ce sont ses médecins qui viennent le guérir.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Martecins ? Pon, mon foi, pour fare ly mourir. </l>
+<l>Martecins pons pouriots ; comme il disait, mon fame. </l>
+<l>Quand dy leu drogueman, il y voumit son lame.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<note>Suisse : Domestique chargé de garder la porte d'un hôtel, ainsi appelé parce qu'autrefois ce domestique était pris ordinairement parmi les Suisses (on dit présentement plutôt portier ou concierge ; on met une s minuscule) [L]</note>
+<l>Ouvrez suisse, ouvrez vite ; après tout à loisir,</l>
+<l>Vous cuverez le vin qui vous fait discourir.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l>Moi livre ? Point pour tout : ton chival n'est qu'un peste ;</l>
+<l>Moi point mal à mon pied ; moi point mal à mon teste.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Antoine, entrez dedans, et parlez à quelqu'un.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, présentant sa hallebarde à Antoine qui veut entrer dans la maison.</speaker>
+<l>Parti, si lentre toi ; moi ti...</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE, à part.</speaker>
+<l>Quel importun ?</l>
+<l>Sans doute, il nous fera perdre quelque pratique.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, jouant de la hallebarde et faisant un petit saut après.</speaker>
+<l>Moi pou les martecins fair touchour trique, nique ?</l>
+<l>Frisque, fraque, et pon fin pour moi suisse, mon foi.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE, voyant des Turcs dans la cour.</speaker>
+<l>Holà, gens du Bassa ; venez et parlez-moi ?</l>
+<stage>À part.</stage>
+<l>J'en vois six, et, parbleu pas un d'eux ne s'avance ;</l>
+<l>Mais, enfin, les voici ; Dieux ! Quelle contenance !</l>
+<stage>Les six Turcs viennent, font de grandes révérences aux médecins sans rien dire, s'étant mis en haie devant la porte.</stage>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Six Turcs, Alcandre, Géraste, Epistenez, Antoine, Le Suisse.</head>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE, aux Turcs faisant les révérences.</speaker>
+<l>Trêve de révérence, et parlez, s'il vous plaît : </l>
+<l>Est-il heure d'entrer, votre maître est-il prêt ?</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, à Alcandre.</speaker>
+<l>Toi l'est fou martecin, n'entendre point ton langue.</l>
+<stage>Le Dragoman paraît.</stage>
+<l>Ma foicy ly Dracman, fiche à li ton harangue.</l>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Le Dragoman, Les Six Turcs, Alcandre, Geraste, Epistenez, Antoine, Le Suisse.</head>
+<sp who="ANTOINE">
+<speaker>ANTOINE.</speaker>
+<note>Dragoman : Terme de relation qui signifie Trucheman. Ce mot est extrêmement général en Orient parmi le peuple, pour signifier un Interprète qui sert à faciliter le commerce des occidentaux avec les orientaux. [F]</note>
+<l>Monsieur le Dragoman, peut-on voir le Bassa ? </l>
+<l>Voici les médecins.</l>
+</sp>
+<sp who="LE DRAGOMAN">
+<speaker>LE DRAGOMAN.</speaker>
+<stage>Dès qu'il parle, l'un des Turcs ouvre vite la grande porte, où tous les six s'étant mis trois des deux côtés, les médecins entrent sur leurs mules dans la Cour, dont la porte se referme aussitôt que les Turcs et le Dragoman sont aussi rentrés.</stage>
+<l>Mustapha, </l>
+<l>Baroc, Mil-duc, Dalec. Messieurs, votre arrivée </l>
+<l>Profite à Monseigneur, comme aux champs la rosée.</l>
+<stage>Une toile se tire, où il paraît une chambre bien parée, dans laquelle Élomire et Lazarille paraissent habillés en Turcs. Élomire étant assis sur un carreau, les jambes croisées, et Lazarille debout.</stage>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Élomire, Lazarille.</head>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Et bien, n'aurez-vous pas la consultation</l>
+<l>Que vous souhaitez tant, par mon invention ?</l>
+<l>Et sans être connu des bâtards d'Hippocrate,</l>
+<l>Ne leur pourrez-vous pas montrer et foi, et rate,</l>
+<l>Et tripes et boudins ; c'est-à-dire, en un mot,</l>
+<l>Leur dire tous vos maux, jusqu'à ceux du garrot.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Qu'entends-tu par ces maux du garrot, il me semble</l>
+<note>Amble : Allure spécifique du cheval, comme le galop et le trop.</note>
+<l>Que cela sent le trot, et le galop, et l'amble ;</l>
+<l>C'est-à-dire la bête, et je ne la suis pas.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Combien donc s'en faut-il ? Par ma foi pas deux pas.</l>
+<note>Pécore : Terme d'injure. Personne stupide. [L]</note>
+<l>Oui, vous êtes cent fois moins homme que pécore,</l>
+<l>Monsieur, je vous l'ai dit, et je le dis encore :</l>
+<l>Ce faible soupçonneux, enfin, vous rendra fou ;</l>
+<l>Et si j'y suis trompé, qu'on me casse le cou.</l>
+<l>Quoi, dès qu'on dit un mot qui vous semble équivoque,</l>
+<l>Vous y trouvez à mordre, et votre esprit s'en choque !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais quand on dit qu'un homme en tient sur le garrot, </l>
+<l>Qu'est-ce à dire en français, sinon qu'il est un sot ? </l>
+<l>Et sot, en cet endroit, n'a-t-il pas un sens double ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Mon maître, sur ma foi, peu de chose vous trouble ;</l>
+<l>Vous trouveriez, je pense, à tondre sur un oeuf :</l>
+<l>Mais, pour notre repos, fussiez-vous déjà veuf :</l>
+<l>Aussi bien, sans cela, je vous crois sans remède,</l>
+<l>Dans ce faible fâcheux, qui si fort vous possède.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Tel est l'ordre fatal de mes cruels destins.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Mais si, comme il se peut, Messieurs vos médecins</l>
+<l>Vont toucher cette corde ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>En ce cas, Lazarile, </l>
+<l>Il faudra tout souffrir, quoique fasse ma bile.</l>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Le Dragoman, Élomire, Lazarile.</head>
+<sp who="LE DRAGOMAN">
+<speaker>LE DRAGOMAN.</speaker>
+<l>Seigneur, tes médecins sont là-bas ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Fais monter.</l>
+<stage>Le Dragoman sort.</stage>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, ayant mis trois sièges au côtés d'Élomire. </speaker>
+<l>Monsieur, contraignez-vous ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je te vais contenter.</l>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Alcandre, Géraste, Epistenez, Élomire, Lazarile.</head>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, ayant fait asseoir les médecins à ses côtés.</speaker>
+<l>Votre gloire, Messieurs, doit être sans seconde,</l>
+<l>Qu'un homme tel que moi vienne du bout du monde,</l>
+<l>Et même du plus beau de tous ses bouts divers,</l>
+<l>Chercher ce qu'en vous seuls on trouve en l'Univers ;</l>
+<l>C'est-à-dire, un remède à des maux incurables.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Nous ne guérissons point, Seigneur, des maux semblables</l>
+<l>Et si les tiens sont tels, il n'était pas besoin</l>
+<note>Hautesse : Titre qu'on donne au sultan ; en cet emploi, on met une majuscule. [L]</note>
+<l>Que ta Hautesse vint nous chercher de si loin.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Si je les nomme ainsi, c'est que je les mesure</l>
+<l>Aux cuisantes douleurs que sans cesse j'endure :</l>
+<l>Car en comparaison de ces vives douleurs,</l>
+<l>Tous les maux des enfers ne sont rien que des fleurs.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Quels que soient ces grands maux, si l'art et la nature</l>
+<l>Y peuvent quelque chose, on en verra la cure ;</l>
+<l>Car nous te pouvons dire ici, sans vanité,</l>
+<l>Que tu vois en nous trois toute la Faculté ;</l>
+<l>C'est-à-dire, en un mot, tout le savoir du monde,</l>
+<l>Touchant notre science et sublime et profonde.</l>
+<l>Mais, Seigneur, je m'étonne, et non pas sans raison</l>
+<l>Qu'ayant été nourri loin de notre horizon,</l>
+<l>Tu nous parles français, et mieux qu'un Français même.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>J'en ferais tout autant, si j'étais en Bohème,</l>
+<l>En Pologne, en Suède, en Prusse, en Danemark,</l>
+<l>À Venise, au milieu de la place Saint-Marc,</l>
+<l>En Espagne, en Savoie, en Suisse, en Angleterre ;</l>
+<l>Enfin, dans tous les lieux qu'on habite sur terre.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE, demi-bas.</speaker>
+<l>Voilà de la monnaie à duper bien des gens.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarile.</speaker>
+<l>Ils m'appellent trompeur.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas à Élomire.</speaker>
+<l>St ! st !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas.</speaker>
+<l>Ah ! je t'entends.</l>
+<stage>[Haut.]</stage>
+<l>Messieurs, revenons donc à notre maladie.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Est-ce la lèpre ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Non.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Quoi donc, l'épilepsie ?</l>
+<l>Ces maux-là sont communs, dit-on, dans le Levant ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Quelque communs qu'ils soient, j'en suis pourtant exempt :</l>
+<l>Grâce au ciel, je suis net, et jamais je ne tombe.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Dis-nous donc sous quel mal ta Hautesse succombe ?</l>
+<l>Car, excepté ceux-là, je n'en connus jamais</l>
+<l>Aucun qui méritât les plaintes que tu fais :</l>
+<note>Gravelle : Maladie qui consiste en des urines chargées de cette gravelle devenue assez grosse pour causer des douleurs vives à mesure qu'elle va des reins dans la vessie. [L]</note>
+<l>Car tous ces autres maux, comme goutte et gravelle,</l>
+<l>Nous les traitons ici de pure bagatelle ;</l>
+<l>Et si quelqu'un de nous ne les guérissait pas</l>
+<l>En moins de quatre jours, on n'en ferait nul cas.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Tous ces maux-là chez nous sont pourtant incurables.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Vraiment, vos médecins sont donc bien peu capables,</l>
+<l>Et j'avoue à présent que c'est avec raison</l>
+<l>Que ta Hautesse cherche ailleurs sa guérison.</l>
+<stage>Alcandre et Geraste prennent chacun un bras d'Elomire, et lui tâtent le pouls.</stage>
+<l>Çà donc, un peu le bras ; ce pouls n'est pas trop juste.</l>
+<stage>Parlant à Geraste.</stage>
+<l>Monsieur, qu'en dites-vous ?</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>La, la...</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>D'un sang adulte : </l>
+<l>Proviennent quelquefois ces inégalités,</l>
+<l>Ne nous y trompons pas ?</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Ho, ho, Monsieur, tâtez : </l>
+<l>Cette inégalité paraît bien davantage.</l>
+<stage>Élomire pâlit de peur à ces mots.</stage>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>En effet, je la vois jusques sur son visage :</l>
+<l>Il était tout à l'heure et vif et coloré,</l>
+<l>Et je le vois tout pâle, et tout défiguré.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Ta Hautesse sent-elle au fond de ses entrailles</l>
+<l>De nouvelles douleurs ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, interdit de peur.</speaker>
+<l>Oui, Non.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Tu nous railles ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Non, je ne raille point.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Dis donc, que ressens tu ? </l>
+<l>As-tu plus de douleurs, es-tu plus abattu ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, interdit de plus en plus.</speaker>
+<l>Oui, Non ; je ne sais.</l>
+</sp>
+<sp who="ERASTE">
+<speaker>ERASTE, à Alcandre.</speaker>
+<l>Quelque accès qui redouble,</l>
+<l>Vient d'émouvoir sa bile, et c'est ce qui le trouble.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, tout transi de peur.</speaker>
+<l>Ah ! Je me meurs !</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Seigneur, parle donc, réponds-nous ?</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Courage, ce n'est rien ; je retrouve son pouls.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>En effet, je le sens, et fort ferme et fort juste :</l>
+<l>Voyez même son teint, et comme il se rajuste.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, reprenant coeur à ces paroles.</speaker>
+<l>Vous dites vrai, Messieurs, je me porte bien mieux.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE, à Alcandre.</speaker>
+<l>Ce symptôme dénote un corps bien bilieux.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE, à Geraste.</speaker>
+<l>Vous croyez donc, Monsieur, qu'il vienne de la bile ?</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Oui, vraiment, il en vient, et de la plus subtile.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>S'il venait de la bile, il aurait plus duré,</l>
+<l>Et même, son esprit se serait égaré.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Ne l'a-t-il pas été ? Ces oui, non...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, d'un ton menaçant.</speaker>
+<l>Messieurs, trêve</l>
+<l>D'égarement.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas à Élomire.</speaker>
+<l>St ! st !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarille.</speaker>
+<l>Lazarille, je crève ! </l>
+<l>Ils m'ont fait tant de peur, que j'ai pensé mourir, </l>
+<l>Et me traitent de fou.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas.</speaker>
+<l>Songez à vous guérir ; </l>
+<note>Molière écrivit la comédie "La Malade imaginaire" le 10 février 1673, musique de Marc-Antoine Charpentier. L'achevé d'imprimer d'Élomire Hypocondre est le 4 janvier 1670.</note>
+<l>Vous en pourrez un jour faire une comédie.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, aux médecins.</speaker>
+<l>Çà, Messieurs, dites donc, quelle est ma maladie, </l>
+<l>En savez-vous la cause ?</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>On était sur ce point, </l>
+<l>Tout à l'heure.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Pourquoi n'y revenez-vous point ?</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Quand tu parles, Seigneur, c'est à nous à nous taire ; </l>
+<l>Et tu t'entretenais avec ton secrétaire.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je ne lui parle plus à présent.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Donc, Seigneur, </l>
+<l>Je disais que ton mal provenait d'une humeur </l>
+<l>Bilieuse ; et Monsieur soutenait le contraire, </l>
+<l>Quand pour ne t'interrompre, il a fallu nous taire.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Le contraire est aussi, ma foi, bien évident ;</l>
+<l>Car qui dit bilieux, dit jaloux et mordant,</l>
+<l>Et sa Hautesse n'est pourtant ni l'un ni l'autre.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ce sentiment est juste, et fort conforme au nôtre.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Il ne l'est pas au mien ; mais peut-être, Seigneur,</l>
+<l>N'approuveras-tu pas une si libre humeur ; </l>
+<l>Auquel cas je me tais.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je me tairai moi-même, </l>
+<l>Plutôt que d'ignorer d'où vient mon mal extrême ; </l>
+<l>Car comme je recherche ici la vérité, </l>
+<l>Je veux que l'on me parle avec sincérité.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Ta Hautesse a raison ; car qui veut qu'on le trompe, </l>
+<l>Dit l'un de nos auteurs, mérite qu'on le rompe : </l>
+<l>C'est-à-dire, qu'on laisse enraciner ses maux, </l>
+<l>Jusqu'à pourrir sa chair, et ses nerfs, et ses os.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Parlez donc librement, avec toute assurance</l>
+<l>D'avoir, si je guéris, une ample récompense.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Je disais donc, Seigneur, et je te le redis,</l>
+<l>Que tout ce qu'il allègue est contre mon avis.</l>
+<l>Il dit, pour soutenir que ce n'est point la bile</l>
+<note>Chyle : Terme de médecine. Suc blanc qui se fait des viandes digérées. [F]</note>
+<l>Qui cause tous tes maux, en corrompant ton chyle,</l>
+<l>Que tu ne fus jamais médisant, ni jaloux :</l>
+<l>Peut-on parler ainsi, sans être au rang des fous ?</l>
+<l>Dites-moi, mon confrère, en bonne conscience,</l>
+<l>Avecques sa Hautesse avez-vous pris naissance ?</l>
+<l>Est-ce vous qui l'avez conduite jusqu'ici :</l>
+<l>D'où la connaissez-vous, pour en parler ainsi ?</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Oh ! La belle incartade, et la bonne ânerie :</l>
+<l>Ne connaissons-nous rien par physionomie ?</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Vraiment si c'est par là que vous jugez des maux,</l>
+<l>Et que vous les pensez, il est bien des lourdauds ;</l>
+<l>Car vous ne manquez pas, comme on sait, de pratique.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Non, je n'en manque pas, et c'est ce qui vous pique</l>
+<l>Volontiers.</l>
+</sp>
+<sp who="GERASTE">
+<speaker>GERASTE.</speaker>
+<l>Nullement ; mais, Monsieur, revenons, </l>
+<note>Panurge : personnage de Pantagruel de François Rabelais.</note>
+<l>Comme dit galamment Panurge, à nos moutons.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>C'est bien dit ; car déjà j'étais las de querelle.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Ces petits différents ne viennent que du zèle</l>
+<l>Que nous avons, Seigneur, pour ceux que nous traitons.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ce zèle est indiscret ; car tandis nous souffrons.</l>
+<stage>S'adressant à Epistenez.</stage>
+<l>Mais vous, Monsieur, d'où vient un si profond silence ? </l>
+<l>Vous n'avez pas encor dit un mot.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Quand je pense</l>
+<l>À tout ce que je vois sur ton visage écrit,</l>
+<l>Un tel étonnement vient saisir mon esprit,</l>
+<l>Que j'en suis stupéfait.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Alcandre et à Geraste.</speaker>
+<l>Autre physionomie ?</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Oui, Seigneur, c'en est un, et des grands du Royaume ; </l>
+<l>Je crois qu'auprès de lui le Maltais ne sait rien.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Le Maltais ? Je me trompe, ou je le connais bien.</l>
+<l>Oui, jadis j'en vis un qu'on nommait de la sorte ;</l>
+<l>Mais celui-là passait pour grand fourbe à la porte :</l>
+<l>On nomme ainsi, Messieurs, la Cour du grand seigneur.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Celui dont nous parlons est fort homme d'honneur,</l>
+<l>Fort savant, fort expert ; mais Monsieur le surpasse.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Epistenez.</speaker>
+<l>De grâce, sachons donc, Monsieur, ce qui se passe</l>
+<l>Dans un si bel esprit, tandis que vos regards</l>
+<l>Roulent tout égarés sur moi de toutes parts.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Ah ! S'il m'était permis, Seigneur, de tout te dire,</l>
+<l>Tu guérirais d'un mal qui tous les jours empire.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, se levant brusquement, les médecins se lèvent aussi.</speaker>
+<l>De quel mal ? Dites vite ; ah ! Si j'en puis guérir,</l>
+<l>Votre fortune est faite.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ, à part, mais un peu haut.</speaker>
+<l>En dussai-je mourir, </l>
+<l>Je m'en vais tout lui dire ; hélas ! Que vais-je faire ? </l>
+<l>Qui dit vrai chez les Grands, peut-il jamais leur plaire ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Oui, vous me plairez ; je vous...</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>N'en jure point ; </l>
+<l>D'autres que toi, Seigneur, m'ont manqué sur ce point, </l>
+<l>Qui ne me semblaient pas d'humeur plus inégale.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Quoi ! Vous traitez ainsi le grand Bassa Sigale ?</l>
+<l>Et ce grand rejeton du sang des Ottomans,</l>
+<l>Sera cru sans parole, ainsi que vos Normands ?</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Tu me commandes donc, Seigneur, que je te die</l>
+<l>Ce que de ta personne, et de ta maladie,</l>
+<l>Les règles de mon art me viennent d'expliquer ?</l>
+<l>Et tu promets de plus de ne pas t'en piquer ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Oui, je vous le promets ; et je jure, au contraire,</l>
+<l>Que vous me fâcheriez, si vous le vouliez taire.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Sur ta parole donc, je te dirai, Seigneur,</l>
+<l>Pour montrer que mon art n'est point un art pipeur,</l>
+<l>Et que sur lui tu peux fonder tes espérances,</l>
+<l>Touchant ta guérison, que vainement tu penses</l>
+<l>Passer dans mon esprit pour ce Bassa fameux</l>
+<l>Dont tu portes le nom.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, brusquement et haut.</speaker>
+<note>Gueux : Indigent, qui est réduit à mendier. [FC]</note>
+<l>Qui suis-je donc, Un gueux ?</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Je vois qu'avec raison j'avais voulu me taire ;</l>
+<l>Car tu parles d'un ton qui n'est pas sans colère :</l>
+<l>Demeurons-en donc là, c'est le plus assuré.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Non, Monsieur, je ne fus jamais plus modéré,</l>
+<l>Si j'ai parlé d'un ton trop haut pour vos oreilles,</l>
+<l>Je le rabaisserai.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Tu dis toujours merveilles, </l>
+<l>Seigneur, mais...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Point de mais ; soit pour, ou contre moi :</l>
+<l>Parlez, j'écoute tout, j'en engage ma foi : </l>
+<l>Et si vous me voyez dans la moindre colère </l>
+<l>Taisez-vous pour me perdre, et pour vous satisfaire.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Je l'ai donc dit, Seigneur, que mon art met au jour</l>
+<l>Le tour ingénieux que tu fais à la Cour,</l>
+<l>En t'y faisant passer pour le Bassa Sigale.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Qui suis-je donc au vrai ?</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Ce point est un dédale, </l>
+<l>Où malgré tout mon art, je me trouve égaré : </l>
+<l>Car après qu'à loisir je t'ai considéré </l>
+<l>Au front, aux yeux, au nez, à la barbe, à la bouche, </l>
+<l>Et raisonné partout, sur tout ce qui te touche, </l>
+<l>Je vois bien que tu viens de ce riche pays </l>
+<l>Où les Juifs ramassés demeurèrent jadis.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarile.</speaker>
+<l>Il dit vrai, je suis né dedans la Friperie,</l>
+<l>Qu'autrement à Paris l'on nomme Juiverie.</l>
+<l>Lazarile, cet homme est habile en son art.</l>
+<l>Poursuivez, s'il vous plaît.</l>
+<stage>Haut à Epistenez.</stage>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Mais aussi, d'autre part, </l>
+<l>Quand j'observe ton air, ta démarche et ta taille, </l>
+<l>Je n'y trouve pour toi nulle marque qui vaille, </l>
+<l>Et n'était que ton front prend contre eux ton parti, </l>
+<l>Je ne te croirais rien qu'un faquin travesti. </l>
+<l>Mais d'un tel faquinisme, en vain je vois la marque, </l>
+<l>Ce front que je te dis est le front d'un monarque, </l>
+<l>Et mon art est trompeur, ce que je ne crois pas, </l>
+<l>Ou tu t'es vu naguère au rang des potentats : </l>
+<l>De ces diversités ne sachant point la cause.</l>
+<l>Je n'en parlerai point.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Bon, parlons d'autre chose.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Te plaira-t-il, Seigneur, que ce soit de ton mal.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>C'est comme je l'entends, s'il vous plaît.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>L'animal, </l>
+<l>Disent tous nos auteurs, est sujet à cent choses ; </l>
+<note>Vers 656, l'original porte "le brutte seul", nous n'avaons pas repérer le masculin à brute.</note>
+<note>Brute : Bête à uatre pieds qui se nourrit en broutant de l'herbe.On dit aussi, une bête brute et figurément d'un homme sans esprit, que c'est une bête brute. [F]</note>
+<l>Mais dans la brute seule, on en connaît les causes : </l>
+<l>Et la raison en est, disent ces grands auteurs, </l>
+<l>Qu'en la brute, aucun mal ne vient que des humeurs.</l>
+<l>Et comme ces humeurs sont toutes corporelles, </l>
+<l>On connaît aisément ces causes par les selles ;</l>
+<l>Car ces corps, une fois l'un à l'autre attachés,</l>
+<l>Ne se quittent jamais, sans être entretachés.</l>
+<l>C'est alors qu'entassant remède sur remède,</l>
+<l>Un médecin triomphe, et que le mal lui cède ;</l>
+<l>Car pour grand qu'il puisse être, il en aie dessus,</l>
+<note>Sublata causa, tollitur effectus : Locution latin, La cause supprimée, l'effet supprimée.</note>
+<l>Puisqu'ablata causa, tollitur effectus.</l>
+<l>Mais dans l'homme, Seigneur, il en va d'autre sorte,</l>
+<l>Les maux entrent chez lui par bien plus d'une porte,</l>
+<l>Et ces portes étant différentes en tout,</l>
+<l>Si l'on n'y prend bien garde, on n'en vient point à bout.</l>
+<l>Je m'explique, et pour mieux faire entendre ces choses,</l>
+<l>Je soutiens qu'un seul mal a souvent plusieurs causes.</l>
+<l>Par exemple, un poumon respire un mauvais air ;</l>
+<l>Un air salpêtrueux, propre à former l'éclair,</l>
+<l>Sans doute un tel poumon, par telle nourriture,</l>
+<l>Serait en peu de temps réduit en pourriture,</l>
+<l>Si, d'abord qu'on commence à s'en apercevoir,</l>
+<l>Un savant médecin qui fait bien son devoir,</l>
+<l>Ne lui changeait cet air, le changeant de demeure.</l>
+<l>Puisque c'est le secret pour guérir de bonne heure,</l>
+<l>Personne ne saurait contester là-dessus,</l>
+<l>Puisqu'ablata causa, tollitur effectus.</l>
+<l>Mais si l'on joint à l'air qui ce poumon entiche,</l>
+<l>Une seconde cause, en vain on le déniche.</l>
+<l>Et l'on lui fait changer et d'air et de maison,</l>
+<l>Si cette cause dure il est sans guérison :</l>
+<l>Par exemple, à Paris, l'air salé de nos boues,</l>
+<l>Me piquant les poumons, déjà rougit mes joues ;</l>
+<note>Enticher : Commencer à gâter, à corrompre. En ce sens il n'est usité qu'au participe passé. [L]</note>
+<l>Mais au lieu de choyer mes poumons entichés,</l>
+<l>Ils deviennent, enfin, flétris et desséchés,</l>
+<l>Par l'effort que sans cesse ils font sur un théâtre.</l>
+<l>Lors j'ai beau changer d'air, pour y mettre une emplâtre,</l>
+<l>Mes poumons entichés ne guériront jamais,</l>
+<l>Si je ne quitte aussi le métier que je fais.</l>
+<l>Mais si je quitte ensemble, et ville et comédie,</l>
+<l>Je vois bientôt la fin de cette maladie.</l>
+<l>Personne ne saurait contester là-dessus,</l>
+<l>Puisqu'ablata causa, tollitur effectus.</l>
+<l>À ces causes, Seigneur, j'en peux joindre encore une</l>
+<l>Qui, dans ce siècle ci n'est que par trop commune ;</l>
+<l>Mais, quand cette troisième est jointe aux autres deux,</l>
+<l>On peut dire qu'un mal est des plus périlleux :</l>
+<l>Par exemple, attaqué de cette maladie,</l>
+<l>On augmente son mal, faisant la comédie,</l>
+<l>Parce que les poumons trop souvent échauffés,</l>
+<l>Ainsi que je l'ai dit, s'en trouvent desséchés ?</l>
+<l>Et l'on en peut guérir, pourvu que l'on s'abstienne</l>
+<l>D'abord de comédie, et de comédienne.</l>
+<l>Mais alors que ce mal dans un comédien,</l>
+<l>Augmente jour et nuit, parce qu'il ne vaut rien,</l>
+<l>Qu'il choque Dieux et gens dedans ses comédies,</l>
+<l>Le ciel seul peut alors guérir ses maladies :</l>
+<l>Et tous les médecins de notre Faculté</l>
+<l>Ne lui sauraient donner un seul brin de santé.</l>
+<l>Ce que je te dis là, d'un bouffon de théâtre,</l>
+<l>Seigneur, n'est proprement qu'une image de plâtre</l>
+<l>Que j'expose à tes yeux, afin de t'expliquer</l>
+<l>Les principes des maux que tu peux t'appliquer.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Quand il me connaîtrait, fidèle Lazarille,</l>
+<l>Pourrait-il mieux parler ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas à Élomire.</speaker>
+<l>Sans doute,il est habile. </l>
+<l>De pareils médecins ne sont pas du commun.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>Par ce discours, Seigneur, te serais-je importun ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Au contraire, poussez, s'il vous plaît.</l>
+</sp>
+<sp who="EPISTENEZ">
+<speaker>EPISTENEZ.</speaker>
+<l>De la thèse, </l>
+<l>Puisque tu le permets, je viens à l'hypothèse ; </l>
+<l>Et je dis, ces Messieurs le diront du bonnet, </l>
+<l>Qu'on ne te peut guérir, si tu ne parles net. </l>
+<l>Oui, si tu ne nous dis l'histoire de ta vie, </l>
+<l>C'est en vain que tu veux contenter ton envie,</l>
+<l>Au contraire on pourra par un beau quiproquo, </l>
+<note>Ad patres : locution latine, mourir.</note>
+<note>Incognito : locution latine, Sans être connu.</note>
+<l>T'envoyer ad patres, Seigneur, incognito.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, en colère.</speaker>
+<l>Je ferai bien, sans vous, un si fâcheux voyage ; </l>
+<l>N'en savez-vous pas plus ?</l>
+</sp>
+<sp who="ALCANDRE et ERASTE">
+<speaker>ALCANDRE et ERASTE, ensemble.</speaker>
+<l>Non.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, brusquement.</speaker>
+<l>Pliez donc bagage : </l>
+<l>Vite ; car de moi jamais vous ne saurez </l>
+<l>Que ce que par votre art vous en devinerez. </l>
+<l>Allez à la bonne heure, allez : mon secrétaire </l>
+<l>Va vous faire à chacun donner votre salaire. </l>
+<stage>Les médecins et Lazarile sortent, et Élomire continue étant seul.</stage>
+<l>Fut-il jamais malheur à mon malheur égal ? </l>
+<l>Quoi ! Je cherche et je trouve un remède à mon mal :</l>
+<l>On me l'offre, et je n'ai pour sortir de misère,</l>
+<l>Qu'à raconter ma vie, et je ne le puis faire.</l>
+<stage>Lazarile rentre, Élomire continue.</stage>
+<l>Ah ! Mon cher Lazarile, approche, approche-toi ;</l>
+<l>Viens partager mes maux, et les plaindre avec moi,</l>
+<l>Puisque, pour mon malheur, je suis sans espérance</l>
+<l>D'y trouver, de ma vie, aucune autre allégeance.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Qui cause donc en vous un si grand désespoir ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Tu l'ignores, après ce que tu viens de voir ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>J'ai fort peu de mémoire, ou j'ai vu peu de chose, </l>
+<l>Qui d'un tel désespoir puisse être ainsi la cause.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Quoi ! Tu n'as pas appris de ces trois médecins,</l>
+<l>Les plus doctes qui soient parmi ces assassins,</l>
+<l>Qu'ils ne sauraient guérir la moindre maladie,</l>
+<note>Soufre-douleur : Personne qu'on n'épargne point, et qu'on expose à toutes sortes de fatigues. [L]</note>
+<l>Si le souffre-douleurs ne leur conte sa vie ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Mais si je vous fais voir un autre médecin,</l>
+<l>Qui, sans que vous parliez, sans voir votre bassin ;</l>
+<l>Sans vous tâter le pouls, tout votre mal devine,</l>
+<l>En voyant seulement un peu de votre urine :</l>
+<l>Et si ce médecin vous guérit à l'instant,</l>
+<l>Des remèdes qu'il donne, en serez-vous content ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Quoi ! Par l'urine seule il devine les causes,</l>
+<l>Et les effets des maux ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Il fait bien d'autres choses.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Et comment donc s'appelle un homme si fameux ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<note>Beux : il existe une petite commune de dans le département de la Moselle au sud-est de Metz. Ce lieu est si éloigné de tout qu'il semble improbable dans une pièce parisienne.</note>
+<l>On le nommait jadis le médecin de Beux ;</l>
+<l>Mais depuis quelque temps sa haute renommée</l>
+<l>M'a fait changer de nom, le changeant de contrée,</l>
+<l>Et l'on nomme à présent ce médecin savant,</l>
+<note>Sennelay : est un lieu dit dépendant de la commune de Coinces, à 20Km nord-ouest d'Orléans. </note>
+<l>Du bourg de Sennelay l'Esculape vivant.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Quoi ! De ce Sennelay, pour qui, sur notre Seine, </l>
+<l>Quatre bateaux couverts voguent chaque semaine ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Ce Sennelay-là même, et ces bateaux couverts </l>
+<l>Sont tout pleins chaque jour de remèdes divers</l>
+<l>Que ce grand médecin envoie à ses malades, </l>
+<l>Lorsque de leur urine il a vu des rasades.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Allons donc, Lazarille, allons à Sennelay.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Il est ici.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Lui-même ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Oui.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais, dis-tu vrai ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE.</speaker>
+<l>Il est si vrai, Monsieur, qu'avant qu'il soit une heure,</l>
+<l>Vous aurez le plaisir de le voir, ou je meure :</l>
+<l>Quittons donc le turban, et, sous d'autres habits.</l>
+<note>Rominagrobis : nom donné par plaisanterie au chat. [L]</note>
+<l>Allons voir promptement ce Rominagrobis.</l>
+</sp>
+</div>
+</div>
+<div n="3" type="act">
+<head>ACTE III</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Oronte, Climante, Cléarque, Clarice, Lucinde, Alphée, Lucille.</head>
+<stage>La scène de cet acte est dans une chambre, ou Oronte, feint médecin de Sennelay est assis devant une table sur laquelle il y a six fioles pleines, chacune avec un écriteau, arrangées de suite ; et Climante, Clearque, Clarice, Lucinde, Alphée, Lucille feints malades, sont assis sur des sièges un peu éloignés de la table.</stage>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Quoi ! Ce maître moqueur qui n'épargnait personne, </l>
+<note>Panneau : Fig. et familièrement. Piége. [L]</note>
+<l>Donne dans le panneau de la sorte ?</l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE.</speaker>
+<l>Il y donne </l>
+<l>Mille fois au-delà de ce que je vous dis ; </l>
+<note>Dom Quichotte : héros du roman picaresque espagnol écrit par Cervantes.</note>
+<l>Dom Quichot et Sancho furent moins fous jadis ; </l>
+<l>Et je crois que devant qu'en son bon sens il rentre</l>
+<note>Dauber : signifie figurément, Médire de quelqu'un, le railler en son absence. [F]</note>
+<l>Nous pourrons sur ma foi le dauber dos et ventre : </l>
+<l>Nos confrères déjà l'ont berné comme il faut ; </l>
+<l>Battons le fer comme eux, cependant qu'il est chaud.</l>
+<l>Que chacun donc s'apprête à bien jouer son rôle,</l>
+<note>Drôle : Se dit d'un homme ou d'un enfant qui, ayant quelque chose de décidé, de déluré, ne laisse pas d'exciter quelque inquiétude, et sur lequel d'ailleurs on s'attribue quelque supériorité. [L]</note>
+<l>Sitôt que Lazarille aura livré le drôle ;</l>
+<l>Il n'y manquera pas, puisqu'il nous l'a promis :</l>
+<l>Les voici justement : ils n'ont pas beaucoup mis.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Élomire, Lazarille (tous deux vêtus en Espagnol et se mettant à genoux devant Oronte, une fiole a la main, Oronte, Climante, Cléarque, Clarice, Lucinde, Alphée, Lucille.</head>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Extirpateur des maux qui n'ont point de remède,</l>
+<l>Souffrez qu'à vos genoux nous implorions votre aide,</l>
+<l>Et ne permettez pas que tombant par lambeaux,</l>
+<l>Nous descendions tout vifs dans de tristes tombeaux.</l>
+<l>Nous sommes étrangers ; mais pourtant assez riches</l>
+<l>Pour remplir vos désirs fussiez-vous des plus chiches :</l>
+<l>Car si vous nous pouvez exempter du trépas,</l>
+<note>Ducat : Monnaie d'or fin dont la valeur varie de dix à douze francs, selon les pays ; il porte ordinairement d'un côté la tête du prince dans les États duquel il a été frappé, et de l'autre côté ses armes. [L]</note>
+<l>Nous vous donnons chacun un millier de ducats.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Si vous étiez Français, vous sauriez mon histoire, </l>
+<l>Et par là vous sauriez que mon but est la gloire : </l>
+<l>Rengainez donc, Messieurs, vos milliers de ducats, </l>
+<l>Je n'en ferai pas moins pour ne les prendre pas.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, mettant la main à la poche, et faisant semblant d'en vouloir tirer un sac d'argent.</speaker>
+<l>Hé ! de grâce...</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, prenant la rôle d'Élomire.</speaker>
+<l>Non, non ; donnez-moi votre urine ;</l>
+<l>La fiole est de jauge.</l>
+<stage>En regardant la fiole.</stage>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, donnant aussi sa fiole.</speaker>
+<note>Chopine : petite mesure de liqueur qui contient la moitié d'une pinte. [F]</note>
+<l>Elle tient bien chopine, </l>
+<l>Et la mienne ne tient, sur ma foi, guère moins : </l>
+<l>Je ne mérite pas qu'elle occupe vos soins ; </l>
+<l>Mais, puisque vous voulez...</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, mettant les urines sur la table.</speaker>
+<l>Il faut qu'elle repose ; </l>
+<l>Après de vos douleurs nous vous dirons la cause : </l>
+<l>Cependant de ceux-ci voyons quels sont les maux.</l>
+<stage>Oronte prend une des fioles en main, et continue.</stage>
+<l>L'homme par la raison est roi des animaux ;</l>
+<l>Mais dès qu'il lui résiste, ou qu'elle l'abandonne,</l>
+<l>C'est un roi dépouillé, sans sceptre et sans couronne ;</l>
+<l>Car en lâchant la bride à ses désirs brutaux,</l>
+<l>Il devient le sujet de ses propres vassaux.</l>
+<l>De cette vérité j'ai vu beaucoup d'exemples ;</l>
+<l>Mais je n'en vis jamais à mon sens de plus amples</l>
+<l>Que ceux que je remarque en ces urines-ci.</l>
+<l>Vous en aurez l'esprit tout à l'heure éclairci.</l>
+<l>Climante ?</l>
+<stage>Il dit ce nom lisant l'écriteau de la fiole.</stage>
+<l>Qui de vous porte ce nom ? </l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE.</speaker>
+<l>Moi-même.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Écoutez le récit de votre mal extrême ;</l>
+<l>Apprenez-en la cause, et bénissez les Dieux</l>
+<l>Qui m'ont de Sennelay fait venir en ces lieux.</l>
+<l>Monsieur, vous vous croyez éthique et pulmonique ;</l>
+<l>Mais vous vous abusez : vous êtes frénétique ;</l>
+<l>Autrement hypocondre, et la cause, en un mot,</l>
+<l>Vient de ce que j'ai dit.</l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE, brusquement.</speaker>
+<l>Quoi, je serais un sot ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Si vous aviez toujours eu la raison pour guide,</l>
+<l>Ou si vous n'aviez pas si fort lâché la bride</l>
+<l>Aux désirs enragés de mordre Dieux et gens,</l>
+<l>Vous ne vous verriez pas, au plus beau de vos ans,</l>
+<l>Avec enfants et femme, et comblé de richesses,</l>
+<l>Dévoré nuit et jour par de mornes tristesses :</l>
+<l>Car ces noires vapeurs qui vous troublent si fort,</l>
+<l>N'ont contre un innocent qu'un impuissant effort.</l>
+<l>Je sais bien, et cela sans doute est quelque chose,</l>
+<l>Qu'accablé de l'effet, vous maudissez la cause,</l>
+<l>Et que vous voudriez, repentant du passé,</l>
+<note>Gausser : Terme familier. Se railler. Autre emploi dans les Femmes Savantes de Molière, vers 1677.[L]</note>
+<l>Avoir été sans vie, ou n'avoir point gaussé ;</l>
+<l>Mais comme le passé jamais ne se révoque,</l>
+<l>D'un si vain repentir tout le monde se moque,</l>
+<l>Et de tous les mortels que vous avez joué,</l>
+<l>Aucun n'est sans plaisir de vous voir bafoué.</l>
+<l>L'un qui vous voit passer près de lui dans la rue,</l>
+<l>Vous montre au doigt à l'autre, et cet autre vous hue :</l>
+<l>Puis, toussant tour à tour, et sur différents tons,</l>
+<l>Vous font tousser vous-même, et de tous vos poumons ;</l>
+<l>Si vous les maudissez, ils vous traitent de même,</l>
+<l>Dont le dépit vous cause une douleur extrême,</l>
+<l>Et par cette douleur, sans un très prompt secours,</l>
+<l>Vous allez voir dans peu le dernier de vos jours.</l>
+<l>Voilà, Monsieur, l'état de votre maladie ;</l>
+<l>Il ne tiendra qu'à vous que je n'y remédie :</l>
+<l>Car je ne mets qu'au rang de mes moindres travaux,</l>
+<l>D'avoir cent et cent fois guéri de pareils maux.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à part.</speaker>
+<l>Je crois que c'est de moi qu'il parle.</l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE, s'étant jeté aux pieds d'Oronte.</speaker>
+<l>Grand génie,</l>
+<l>Qui par ma seule urine avez connu ma vie ;</l>
+<l>Qui par elle voyez jusqu'au fond de mon coeur ;</l>
+<l>Et qui par elle, enfin, connaissez ma douleur,</l>
+<l>Vous voyez à vos pieds un impie, un infâme,</l>
+<l>Qui ne mérite rien que le fer et la flamme :</l>
+<l>Mais, de grâce, grand homme, imitez le soleil ;</l>
+<l>Aussi bien, comme lui, vous êtes sans pareil :</l>
+<l>Et comme également il répand sa lumière</l>
+<note>Pourpre : Couleur des tenus des sénateurs romains et des cardinaux. Métaphore de la puissance et de la notoriété.</note>
+<l>Sur la pourpre et la bure, et l'or et la poussière,</l>
+<l>Agissant comme lui, répandez vos bontés</l>
+<l>Sur moi, sans prendre garde à mes impiétés.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Vous êtes repentant, et fut-ce à la potence,</l>
+<l>Quiconque devient tel recouvre l'innocence :</l>
+<l>Aussi, soyez certain, que quand vous seriez Roi.</l>
+<l>Vous ne pourriez jamais plus attendre de moi.</l>
+<l>Remettez-vous ; tandis, voyons cette autre urine.</l>
+<l>Cléarque ?</l>
+<stage>Il lit ce nom sur la fiole qu'il prend, après avoir remis l'autre.</stage>
+</sp>
+<sp who="CLEARQUE">
+<speaker>CLEARQUE.</speaker>
+<l>C'est de moi, Monsieur.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>À votre mine,</l>
+<l>Quand vous n'auriez rien dit, je l'aurais deviné ;</l>
+<l>Car je n'en vis jamais d'un plus déterminé.</l>
+<l>La cause de vos maux est certes différente,</l>
+<l>En certaine façon, de celle de Climante :</l>
+<l>Mais l'espèce en étant pareille, leurs effets</l>
+<l>Se ressemblent si fort, que ce sont deux portraits</l>
+<l>D'un même original, faits d'une main savante :</l>
+<l>Climante est donc Cléarque, et Cléarque Climante :</l>
+<l>Je veux dire, en un mot, et voici mes témoins,</l>
+<stage>Il montre la fiole de Cléarque et celle de Climante.</stage>
+<l>Que si Climante est fou, vous ne l'êtes pas moins :</l>
+<l>Ainsi n'ayant qu'un mal, vous n'aurez qu'un remède ;</l>
+<l>Mais soyez assuré du succès.</l>
+</sp>
+<sp who="CLEARQUE">
+<speaker>CLEARQUE, faisant une profonde révérence.</speaker>
+<l>Dieu vous aide !</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, prenant une antre fiole, lisant son écriteau.</speaker>
+<l>Clarice ?</l>
+</sp>
+<sp who="CLARICE">
+<speaker>CLARICE.</speaker>
+<l>C'est mon nom.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Si vos yeux trop fripons </l>
+<l>N'avaient pas attiré cet amas de garçons, </l>
+<l>Qui vous ont fait passer pour reine des coquettes, </l>
+<l>Vous ne vous verriez pas en l'état où vous êtes :</l>
+<l>Mais quand on a blanchi sous ce honteux harnois, </l>
+<l>On a tout le loisir de s'en mordre les doigts : </l>
+<l>On en soupire, on pleure, on en devient malade, </l>
+<l>Ou si l'on ne l'est pas, on se le persuade ; </l>
+<l>Mais dès lors que l'on croit être ce qu'on n'est pas, </l>
+<l>On est folle, Clarice, et folle à maints carats. </l>
+<l>Vous guérirez pourtant, et redeviendrez sage ; </l>
+<l>Mais comme ces Messieurs vous resterez en cage. </l>
+<stage>Il prend une autre fiole, et en lisant l'écriteau, il dit tout haut.</stage>
+<l>Lucinde ?</l>
+</sp>
+<sp who="LUCIDE">
+<speaker>LUCINDE.</speaker>
+<l>C'est de moi.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>La mort d'un jeune amant </l>
+<l>Vous a fait perdre ensemble et joie et jugement ; </l>
+<l>Et c'est ce qui vous fait errer parmi le monde, </l>
+<l>Sous l'habit et le nom de triste vagabonde :</l>
+<l>Mais allez, je réponds de votre guérison, </l>
+<l>Et vous recouvrerez la joie et la raison : </l>
+<l>Ne le voulez-vous pas ?</l>
+</sp>
+<sp who="LUCIDE">
+<speaker>LUCINDE.</speaker>
+<l>Oui, de grand coeur.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, prenant une antre fiole.</speaker>
+<l>Alphée ?</l>
+<l>Ah ! Ma foi, nous tenons une folle fieffée :</l>
+<l>C'est une précieuse.</l>
+</sp>
+<sp who="ALPHÉE">
+<speaker>ALPHÉE.</speaker>
+<l>Ô Dieux ! Qui vous l'a dit ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Votre urine, ma fille, et cela me suffit ;</l>
+<l>Car, grâce au ciel, je suis un peu naturaliste.</l>
+</sp>
+<sp who="ALPHÉE">
+<speaker>ALPHÉE.</speaker>
+<note>Ulinasliste : pour Urinaliste. Le personnage remplace les R par les L. Spécialiste des urines et du canal urinaire. Furetière dit à Urinal : "Ce mot s'emploie dans le style burlesque, pour signifier le conduit par où passe l'urine.".</note>
+<l>Mais que ne dites-vous plutôt ulinaliste ?</l>
+<note>Sose : chose. Alphée remplace les R par des L.</note>
+<l>Ce telme convient mieux à la sose.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Il est vrai ;</l>
+<l>Et le monde m'appelle ainsi dans Sennelay :</l>
+<l>Mais, de grâce, depuis que l'illustre Élomire</l>
+<l>A dépeint votre engeance, et nous en a fait rire ;</l>
+<l>Depuis que son théâtre a retenti des mots,</l>
+<l>Dont vous charmiez jadis les sottes et les sots ;</l>
+<l>Se peut-il que, passant pour folles enragées,</l>
+<l>Vous ne vous soyez pas encore corrigées,</l>
+<l>Et qu'il s'en trouve encor, aujourd'hui, parmi nous,</l>
+<l>Une qui devrait être à l'hôpital des fous ?</l>
+</sp>
+<sp who="ALPHÉE">
+<speaker>ALPHÉE.</speaker>
+<l>Quoi, Monsieul, ce bouffon pal, de sottes glimaces,</l>
+<l>Dont il fait mal au coeul plus que sales limaces,</l>
+<l>Palce qu'en les faisant il écume en velat, </l>
+<l>Nous lirlela chez vous poul folles au Calat ?</l>
+<l>Je m'etonnelois peu qu'un caque d'ignolance</l>
+<l>Eust poul ce glimacier paleille defelence;</l>
+<l>Mais que de Sennelay le médecin fameux,</l>
+<l>Donne dans le panneau, comme un petit molveux,</l>
+<l>Qu'il estime un autheul, qu'il le loue et l'admile,</l>
+<l>Palce qu'en lecitant ses vels, il l'a fait lile,</l>
+<l>Pal des contolsions dignes d'un possedé,</l>
+<l>Celtes, je suis à bout pal un tel plocedé :</l>
+<l>Encol s'il nous cachait sous ses gestes glotesques,</l>
+<l>Quelques beaux tlaits d'esplit en paloles bullesques,</l>
+<l>Aplès qu'on aulait ly de ses contolsions,</l>
+<l>Ses livles nous plailaient, lolsque nous les lilions :</l>
+<l>Mais de glace, Monsieul, quelle est la comédie,</l>
+<l>Encol qu'il n'en ait fait aucune où l'on ne die</l>
+<l>Qu'il faut clever de lile, où l'on puisse tlouver</l>
+<l>Le moindle tlait d'esplit que l'on doive admiler.</l>
+<note>L'Ecole des femmes est une comédie de Molière.</note>
+<l>Pal exemple, ce LE de l'École des femmes,</l>
+<l>Ce LE, qui fit tant lile, et qui chalma tant d'âmes ;</l>
+<l>Ce LE, qui mit cet homme au lang des beaux esplits,</l>
+<l>L'avez-vous jamais pu lile dans les eclits,</l>
+<l>Sans degout, sans chaglin, sans une holeul extleme,</l>
+<note>Chat mort : "Le petit chat est mort" fait référence au personnage d'Agnès dans l'Ecole des Femmes Acte II, scène 6, v. 461.</note>
+<l>Non plus que son chat molt, et sa talte à la cleme ?</l>
+<l>Cependant, dites-vous pal de bonnes laisons,</l>
+<note>Petites maisons : On dit aussi, qu'il faut mettre un homme aux petites maisons, quand il est fou, ou quand il fait une extravagance signalée ; à cause qu'il y a à Paris un Hôpital de ce nom où on enferme ces fous. [F]</note>
+<l>Cet auteul nous condamne aux petites-maisons,</l>
+<l>Et palce qu'il a dit que nous en estions dignes,</l>
+<l>Vous nous mettez au lang des folles plus insignes.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarille.</speaker>
+<l>Ah ! La méchante bête.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas à Élomire.</speaker>
+<l>Elle a pourtant bien dit.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas.</speaker>
+<l>Très mal ; mais écoutons.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Si je suis interdit, </l>
+<l>Jusqu'à ne pouvoir pas former une parole, </l>
+<l>Ne vous étonnez pas, belle et savante folle ; </l>
+<l>J'en demeure d'accord, vous m'avez confondu :</l>
+<l>En effet, qui croirait qu'un esprit tout perdu </l>
+<l>D'histoires, de romans, enfin qu'une hypocondre, </l>
+<l>Par ses raisonnements aurait pu me confondre ? </l>
+<l>Pourtant, vous l'avez fait, oui j'avoue avec vous </l>
+<l>Qu'Élomire ne doit sa gloire qu
+	++'à des fous, </l>
+<l>Et qu'un esprit bien fait, quel qu'il soit, dégénère, </l>
+<l>D'abord que ses écrits commencent à lui plaire. </l>
+<l>Je demeure d'accord que pour se réjouir, </l>
+<l>On le peut aller voir, et qu'on le peut ouïr ; </l>
+<l>Mais il faut que celui qui va voir Élomire, </l>
+<note>Fagotin : Petit fagot préparé avec des morceaux de bois blanc qu'on fend en une multitude de bûchettes pour allumer le feu. Par extension, bouffon d'un théâtre de foire. [L] </note>
+<l>La voie en fagotin ; c'est-à-dire pour rire : </l>
+<l>Vos beaux raisonnements n'empêchent pourtant pas,</l>
+<l>Qu'aux petites maisons vous n'alliez à grands pas ; </l>
+<l>Élomire a son faible, et vous avez le vôtre : </l>
+<l>Mais je vous guérirai. Voyons un peu cette autre.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas, tandis qu'Oronte prend une autre fiole.</speaker>
+<l>Lazarille, quel homme !</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas.</speaker>
+<l>Écoutez jusqu'au bout.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, lisant l'écriteau de la fiole qu'il tient. </speaker>
+<l>Lucille, voulez-vous que je vous dise tout ?</l>
+</sp>
+<sp who="LUCILLE">
+<speaker>LUCILLE.</speaker>
+<l>Non, Monsieur, vous voyez assez par mon urine, </l>
+<l>Que je ne suis pas moins folle que ma voisine :</l>
+<l>Traitez-moi, s'il vous plaît, de même.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Je le veux.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarille, tandis qu'Oronte prend sa fiole.</speaker>
+<l>Lazarile, je suis au comble de mes voeux : </l>
+<l>C'est mon tour à glisser.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, lisant le nom écrit sur la fiole d'Élomire.</speaker>
+<l>Don Guzman d'Alicante. </l>
+<l>Vous mentez, cette urine est encor de Climante.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Foi d'Espagnol malade, elle est mienne.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Tant pis.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Pourquoi, tant pis ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Pourquoi ? Parce que je le dis. </l>
+<l>Encor un coup, tant pis, vous dis-je.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais, de grâce, </l>
+<l>À ce fâcheux tant pis, que faut-il que je fasse ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Ignorez-vous, Monsieur, ce que Climante a fait,</l>
+<l>Quand à mes pieds il a confessé son forfait,</l>
+<l>Et témoigné tout haut son repentir extrême ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, se levant et se jettent aux pieds d'Oronte.</speaker>
+<l>Ah ! De grâce, Monsieur, traitez-moi donc de même,</l>
+<l>Et puisque comme lui j'en suis au repentir,</l>
+<l>Veuillez-moi comme à lui vos bontés départir ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Ce juste repentir qu'exprime votre bouche,</l>
+<l>À vous dire le vrai, si vivement me touche,</l>
+<l>Que je jure ma foi, qu'avant qu'il soit deux jours,</l>
+<l>Vous verrez comme lui l'effet de mon secours.</l>
+<l>Mais parlons de cet autre ?</l>
+<stage>Il prend la fiole de Lazarille, et lit.</stage>
+<l>Alphonse de la Rote ?</l>
+<note>Marotte : Espèce de sceptre qui est surmonté d'une tête coiffée d'un capuchon bigarré de différentes couleurs, et garnie de grelots ; c'est l'attribut de la Folie, et c'était celui des fous des rois. Fig. et familièrement. Objet de quelque folie. [L]</note>
+<l>Homme ne mérita jamais mieux la marotte ;</l>
+<l>Parce qu'il croit que l'un de ses amis est fou,</l>
+<l>Et qu'il veut l'empêcher de courre en loup-garou.</l>
+<l>Sa guérison lui tient tellement dans la tête,</l>
+<l>Qu'il en est hypocondre et plus que demi-bête.</l>
+<l>Il mérite pourtant que j'aie soin de lui ;</l>
+<l>Car un ami si tendre est fort rare aujourd'hui.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarille.</speaker>
+<l>Quel homme, cher ami ; quoi ! Par la seule urine</l>
+<l>Il n'est rien qu'il ne sache, et rien qu'il ne devine.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas.</speaker>
+<l>Je vous l'avais bien dit.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Je connais donc vos maux, </l>
+<l>Ou, pour mieux m'expliquer, vos fantasques cerveaux ;</l>
+<l>Car je n'en vois pas un dedans cette assemblée, </l>
+<l>Qui ne se portât bien sans sa tête fêlée.</l>
+<l>Nous n'avons donc ici qu'à guérir ces cerveaux ; </l>
+<l>Puisqu'en eux seulement résident tous vos maux :</l>
+<l>Et comme le plus grand est la mélancolie, </l>
+<l>Dans laquelle votre âme est presque ensevelie, </l>
+<l>Je la veux réveiller en vous divertissant, </l>
+<l>Et dissiper par là cet air assoupissant :</l>
+<note>Vin de Beaune : Vin réputé. Les vins de Beaune sont des vins dit de Bourgogne. Beaune apparaît dans de nombreuses appellations.</note>
+<l>J'ai fait venir ici d'un certain vin de Beaune, </l>
+<note>Aune : Mesure ancienne de 3 pieds 7 pouces 10 lignes 5/6, équivalant à 1m,182. [L]</note>
+<l>Pour qui j'achèterais un gosier long d'une aulne : </l>
+<l>Car tandis qu'on l'avale, on sent un tel plaisir, </l>
+<l>Qu'on voudrait qu'il durât jusqu'au dernier soupir ; </l>
+<l>D'une agréable odeur, qui n'a point de pareille, </l>
+<l>Il vous charme d'abord qu'il sort de la bouteille ; </l>
+<l>Et le vif incarnat, dont il frappe les yeux, </l>
+<l>N'a pas un moindre éclat que le rouge des Cieux :</l>
+<l>Son esprit qui pétille en tombant dans le verre, </l>
+<l>Forme mille rubis, dont le petit tonnerre, </l>
+<note>Glou-glou : onomatopée pour la déglutition d'un liquide.</note>
+<l>S'accordant au glou-glou de ce jus précieux.</l>
+<l>Charme l'oreille, après qu'il a ravi les yeux. </l>
+<l>Ce vin que je vous dis est le premier remède </l>
+<l>Que je veux appliquer au mal qui vous possède ;</l>
+<l>Car vos maux tout d'abord s'en trouvant adoucis,</l>
+<l>Vous verrez dissiper tous ces fâcheux soucis </l>
+<l>Qui fomentent en vous, l'humeur mélancolique, </l>
+<l>Nous joindrons à ce vin, tant soit peu de musique,</l>
+<l>Un peu de symphonie, et par ces doux accords</l>
+<l>Je changerai d'abord vos esprits et vos corps. </l>
+<l>Mon deuxième remède est une comédie, </l>
+<l>Propre comme ce vin à votre maladie :</l>
+<l>Je vous la ferai voir d'où je vais vous traiter ;</l>
+<l>On dit qu'elle est divine, et je ne n'en puis douter ;</l>
+<l>Car l'auteur est illustre, et l'histoire si belle,</l>
+<l>Que les siècles passés n'en ont point vu de telle.</l>
+<l>Et ce qui doit encor augmenter ce régal,</l>
+<l>C'est qu'il sera suivi d'un magnifique bal,</l>
+<l>Où nous irons masqués. C'est ce que je prépare</l>
+<l>Pour premier appareil.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas.</speaker>
+<l>Que ce remède est rare, </l>
+<l>Lazarille, et surtout, qu'il est doux et charmant.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Passons donc, pour cela, dans cet appartement.</l>
+</sp>
+</div>
+</div>
+<div n="4" type="act">
+<head>ACTE IV</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Élomire, Lazarille, Oronte, Climante Cléarque, Clarice, Lucinde, Alphée, Lucille.</head>
+<stage>À cette scène, le théâtre paraît comme il est lors qu'on est prêt de commencer la comédie, la toile n'étant pas encore tirée : et d'un côté il y a une façon de loge dans laquelle sont les acteurs de cette scène, pour voir la comédie.</stage>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Dès qu'on aura tiré cette tapisserie,</l>
+<l>Sans peine vous verrez d'ici la comédie.</l>
+<l>Cependant, nul de vous ne se porte-t-il mieux ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Votre régal, Monsieur, m'a rendu si joyeux,</l>
+<l>Et je me sens déjà si propre à ce remède,</l>
+<l>Que je ne doute point que mon mal ne lui cède.</l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE.</speaker>
+<l>Nos visages, Monsieur, vous en disent autant ; </l>
+<l>Car je n'en vois pas un qui ne soit très content.</l>
+<stage>Dans ce temps là, on tire la toile, et l'on voit une salle, dans laquelle il y a un théâtre, et une compagnie pour voir jouer la comédie, et les violons commence à jouer. Ce qui rompt cette première scène.</stage>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Bon, l'on ouvre ; voyez la belle compagnie.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Oronte, un peu bas.</speaker>
+<l>Quel titre donne-t-on à cette comédie ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>"Le Divorce comique".</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Il est bon et nouveau.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Silence, et vous verrez quelque chose de beau.</l>
+<stage>Les violons cessent, et on commence la comédie qui suit.</stage>
+</sp>
+</div>
+</div>
+<div n="5" type="act">
+<head>DIVORCE COMIQUE</head>
+<stage>COMÉDIE EN COMÉDIE, ACTE PREMIER ET DERNIER.</stage>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Florimont, Rosidor.</head>
+<stage>La scène est dans la salle de comédie du Palais-Royal.</stage>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>Oui, je l'ai résolu, je vais quitter la troupe ;</l>
+<l>Tu me diras en vain qu'elle a le vent en poupe</l>
+<l>Qu'elle seule a la vogue, et que dedans Paris,</l>
+<l>Pour toute autre aujourd'hui l'on n'a que du mépris.</l>
+<l>Cet honneur qu'on lui fait, mais dont elle est indigne,</l>
+<l>Passe, dans mon esprit, pour un affront insigne ;</l>
+<l>Aussi, loin de souffrir un encens si peu dû,</l>
+<l>Comme on me l'a donné, je l'ai toujours rendu.</l>
+<l>Ne t'en flatte donc point ; mais, si tu m'en veux croire,</l>
+<l>Ferme l'oeil à l'éclat d'une si fausse gloire ;</l>
+<l>Et pour trouver la vraie, allons, allons ailleurs</l>
+<l>Chercher des compagnons et des destins meilleurs.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>À te dire le vrai, je m'étonne moi-même</l>
+<l>Du merveilleux éclat de ce bonheur extrême :</l>
+<l>Car enfin, comme toi, je connais nos défauts.</l>
+<l>Mais qu'importe ? Le nombre autorise les sots,</l>
+<l>Et quiconque leur plaît, ne doit point être en peine</l>
+<l>Des défauts des acteurs, ni de ceux de la scène.</l>
+<l>La foule suit toujours leur applaudissement ;</l>
+<l>Et quiconque à la foule, à la gloire aisément.</l>
+<l>Je sais bien que tu dis que cette gloire est fausse ;</l>
+<l>Qu'il la faut mépriser ; mais pour moi je m'en gausse ;</l>
+<l>Ma véritable gloire, est où j'ai du profit :</l>
+<l>J'en ai dans cette troupe, et cela me suffit.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Et cela te suffit : ah ! Peux-tu bien sans honte,</l>
+<l>Dire que de l'honneur tu fais si peu de compte ?</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>En faire moins de cas que du moindre intérêt,</l>
+<l>N'est qu'agir à la mode.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Et la mode t'en plaît ?</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>Puisqu'elle est aujourd'hui la règle de la vie,</l>
+<l>Je ne rougirai point, quand je l'aurai suivie.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>La règle de la vie ? Et qu'est donc la raison ?</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>La raison ni l'honneur ne sont plus de saison ;</l>
+<l>Et bannis pour jamais de la terre où nous sommes,</l>
+<l>L'intérêt en leur place y gouverne les hommes.</l>
+<l>C'est lui seul qui les règle, et lui seul qui fait tout,</l>
+<l>Et qui meut l'Univers de l'un à l'autre bout :</l>
+<l>Mais quand de cet honneur on ferait quelque compte ;</l>
+<l>Faut-il, pour en manquer, que je meure de honte.</l>
+<l>Et la profession dont nous sommes tous deux</l>
+<l>Ne permet-elle pas d'être moins scrupuleux.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Je l'avoue entre nous, autrefois le théâtre</l>
+<l>Voyait traiter d'égaux l'acteur et l'idolâtre ;</l>
+<l>Et l'un et l'autre, alors l'opprobre des mortels,</l>
+<l>Étaient haïs du peuple, et bannis des autels.</l>
+<l>Mais depuis qu'un héros, dont notre histoire est pleine,</l>
+<l>A purgé le théâtre et corrigé la scène :</l>
+<stage>C'est le Cardinal de Richelieu. [NdA]</stage>
+<l>Depuis qu'il a chassé les infâmes farceurs,</l>
+<l>Nos plus grands ennemis sont nos adorateurs :</l>
+<l>Tout le monde à l'envi nous caresse et nous loue,</l>
+<l>Et nous sommes tout d'or, nous qui n'étions que boue.</l>
+<l>Mais, hélas ! Je crains fort que d'un revers fatal,</l>
+<l>Nous ne tombions bientôt dans notre premier mal.</l>
+<l>Et que par le progrès des pièces d'Élomire,</l>
+<l>Nous n'éprouvions encor quelque chose de pire.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>Il est vrai qu'Élomire a de certains appas,</l>
+<l>Dans les farces qu'il fait, que les autres n'ont pas.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Et c'est de ces appas de qui nous devons craindre</l>
+<l>Ce mal dont par avance, on me voit déjà plaindre ;</l>
+<l>Car pour peu que le peuple en soit encor séduit,</l>
+<l>Aux farces pour jamais le théâtre est réduit.</l>
+<l>Ces merveilles du temps, ces pièces sans pareilles,</l>
+<l>Ces charmes de l'esprit, des yeux et des oreilles,</l>
+<l>Ces vers pompeux et forts ; ces grands raisonnements,</l>
+<l>Qu'on n'écoute jamais sans des ravissements :</l>
+<l>Ces chefs-d'oeuvre de l'art, ces grandes tragédies,</l>
+<l>Par ce bouffon célèbre en vont être bannies,</l>
+<note>Tabarin : Bouffon très grossier, valet et associé de Mondor. Ce Mondor était un charlatan et vendeur de Baume, qui au commencement du dernier siècle [XVIIème NdR] établissait son théâtre sur des tréteaux, dans la place Dauphine [proche du Pont-Neuf] : il ne demeurait pas toujours à Paris, mais courait avec Tabarin dans les autres villes du royaume. [Leiris]</note>
+<l>Et nous, bientôt réduits à vivre en Tabarins,</l>
+<l>Allons redevenir l'opprobre des humains.</l>
+<l>La peur de retomber dans ce malheur infâme,</l>
+<l>Ne saurait sans horreur se montrer à mon âme ;</l>
+<l>Et tout autant de fois qu'elle attaque mon coeur,</l>
+<l>Malgré toute sa force, elle s'en rend vainqueur.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>Quoiqu'en quelque façon, ta peur soit légitime,</l>
+<l>Faire rire pourtant, n'est pas un si grand crime ;</l>
+<l>Et j'en connais beaucoup parmi nos courtisans,</l>
+<l>Qui seraient peu prisés, s'ils n'étaient fort plaisants :</l>
+<l>Aussi, loin qu'en cela, je condamne Élomire,</l>
+<l>Avec beaucoup de gens je l'estime et l'admire ;</l>
+<l>Mais l'insolent orgueil de cet esprit altier,</l>
+<l>Ses mépris pour tous ceux qui sont de son métier ;</l>
+<l>Et l'air dont il nous traite à présent qu'il compose,</l>
+<l>Fait que chacun de nous le censure et le glose,</l>
+<note>Maroufle : Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. [F]</note>
+<l>Et ce maître maroufle en est en tel courroux,</l>
+<l>Qu'à peine peut-il plus souffrir aucun de nous.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Comme je hais la farce et son Tabarinage,</l>
+<l>Il ne me parle plus qu'il ne me fasse outrage,</l>
+<l>Mais pourvu qu'il réglât son style de farceur ;</l>
+<l>Qu'il n'y mêlât plus rien qui fut contre l'honneur ;</l>
+<l>Je lui pardonnerais volontiers ses caprices :</l>
+<l>Mais je ne veux plus être accusé pour ses vices ;</l>
+<l>Le scandale qu'ils font est désormais trop grand,</l>
+<l>Et quiconque le suit, en doit être garant.</l>
+<l>Enfin, c'est aujourd'hui qu'il faut qu'il se déclare.</l>
+<l>Il changera ce style, ou chacun se sépare.</l>
+<l>La plupart de la troupe est de mon sentiment,</l>
+<l>Et nous nous assemblons pour cela seulement.</l>
+<l>Mais je le vois paraître avec nos camarades ;</l>
+<l>Préparons-nous d'ouïr de plaisantes bravades.</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Élomire, Angélique, Plusieurs autres comédiens et comédiennes, un valet, Florimont, Rosidor.</head>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, se faisant apporter un siège, et s'asseyant.</speaker>
+<l>Un siège, et qu'on m'écoute ; on sait que je suis prompt.</l>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<l>Ne faut-il point aussi vous regarder au front,</l>
+<l>Et de même qu'Agnès, faire la révérence ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Trêve de raillerie, et qu'on fasse silence ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Autrement ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Autrement, quelqu'un en pâtira.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR, à Florimont.</speaker>
+<l>Le plaisant fagotin ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT, bas à Rosidor.</speaker>
+<l>Voyons ce qu'il dira :</l>
+<l>De l'humeur qu'il paraît, j'en attends des merveilles.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR, à Élomire.</speaker>
+<l>Que ne parlez-vous donc, nous ouvrons les oreilles ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, faisant apporter des sièges.</speaker>
+<l>Seyez-vous ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT, bas.</speaker>
+<l>Qu'il est fat !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Le divin Salomon,</l>
+<l>Dont l'esprit fut plus grand que celui du démon :</l>
+<l>Ce savant qui sut tout jusqu'aux vertus des herbes,</l>
+<l>Ne fut jamais plus vrai qu'en l'un de ses proverbes,</l>
+<l>Qui dit qu'il vaudrait mieux qu'une cité périt.</l>
+<l>Que de voir sur la terre un gueux qui s'enrichit.</l>
+<l>Ô divine parole ! Admirable sentence,</l>
+<l>Dont moi-même aujourd'hui je fais l'expérience ;</l>
+<l>Puisqu'après que mes soins ont revêtu des gueux,</l>
+<l>Je me vois mépriser et gourmander par eux.</l>
+<l>C'est vous, ô champignons, élevés sur ma couche ;</l>
+<l>Vous pour qui j'ai tiré tant de jours et de nuits,</l>
+<l>Vous pour qui j'ai veillé jusqu'au pain de ma bouche ;</l>
+<l>C'est vous, ingrats, c'est vous qui me comblez d'ennuis,</l>
+<l>Et qui me faites voir d'une insulte superbe,</l>
+<l>L'infaillibilité de ce divin proverbe.</l>
+<l>Rougissez, rougissez ingrats, de tant de biens,</l>
+<l>Dont je vous ai comblés, même aux dépens des miens :</l>
+<l>Mais pour tant de bienfaits vous êtes sans mémoire,</l>
+<l>Il faut pour vous confondre en dire ici l'histoire.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Écoutons,</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>En quarante, ou quelque peu devant, </l>
+<l>Je sortis du collège, et j'en sortis savant ;</l>
+<l>Puis venu d'Orléans, où je pris mes licences, </l>
+<l>Je me fis avocat, au retour des vacances. </l>
+<l>Je suivis le barreau pendant cinq ou six mois, </l>
+<l>Où j'appris à plein fond l'ordonnance et les lois. </l>
+<l>Mais, quelque temps après, me voyant sans pratique, </l>
+<note>Cujas : Jurisconsulte français, brillant représentant de l'École historique du droit romain.</note>
+<l>Je quittai là Cujas, et je lui fis la nique. </l>
+<l>Me voyant sans emploi, je songe où je pouvais </l>
+<l>Bien servir mon pays, des talents que j'avais ; </l>
+<l>Mais ne voyant point où, que dans la comédie, </l>
+<l>Pour qui je me sentais un merveilleux génie, </l>
+<l>Je formai le dessein de faire en ce métier </l>
+<l>Ce qu'on n'avait point vu, depuis un siècle entier ; </l>
+<l>C'est-à-dire, en un mot, ces fameuses merveilles, </l>
+<l>Dont je charme aujourd'hui les yeux et les oreilles.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR, bas à Florimont.</speaker>
+<l>Ne t'étonnes-tu point, qu'il n'ait dit les esprits ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT, bas à Rosidor.</speaker>
+<l>Il se serait trompé plus de moitié du prix.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Florimont et à Rosidor.</speaker>
+<note>Marmoter : mot bas qui signifie parler entre les dents, remuer les lèvres sans se faire entendre. [F]</note>
+<l>Que marmotez-vous là ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Rien du tout.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Qu'on m'écoute ?</l>
+<l>Ayant donc résolu de suivre cette route,</l>
+<l>Je cherchai des acteurs qui fussent comme moi,</l>
+<l>Capables d'exceller dans un si grand emploi ;</l>
+<l>Mais me voyant sifflé par les gens de mérite,</l>
+<l>Et ne pouvant former une troupe d'élite,</l>
+<l>Je me vis obligé de prendre un tas de gueux,</l>
+<l>Dont le mieux fait était bègue, borgne ou boiteux.</l>
+<l>Pour des femmes, j'eusse eu les plus belles du monde,</l>
+<l>Mais le même refus de la brune et la blonde,</l>
+<l>Me jeta sur la rousse, où malgré le gousset,</l>
+<l>Grâce au poudre d'alun, je me vis satisfait.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR, bas a Angélique.</speaker>
+<l>Angélique, il t'en veut ?</l>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, bas à Rosidor.</speaker>
+<l>J'en ignore la cause.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, en colère.</speaker>
+<l>Quoi ! Malgré ma défense, incessamment on cause ?</l>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, à Élomire.</speaker>
+<l>Je me tais ; mais tantôt...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Bien ; tantôt nous verrons ; </l>
+<l>Cependant, taisez-vous, lorsque nous parlerons. </l>
+<l>Donc, ma troupe ainsi faite, on me vit à la tête, </l>
+<l>Et, si je m'en souviens, ce fut un jour de fête : </l>
+<l>Car jamais le parterre, avec tous ses échos, </l>
+<l>Ne fit plus de ah ! ah ! Ni plus mal à propos. </l>
+<l>Les jours suivants n'étant ni fêtes ni dimanches, </l>
+<l>L'argent de nos goussets ne blessa point nos hanches : </l>
+<l>Car alors excepté les exempts de payer, </l>
+<l>Les parents de la troupe, et quelque batelier, </l>
+<l>Nul animal vivant n'entra dans notre salle, </l>
+<l>Dont, comme vous savez, chacun troussa sa malle. </l>
+<l>N'accusant que le lieu d'un si fâcheux destin, </l>
+<note>Port Saint-Paul : Ancien port disparu situé sur la rive Droite de la Seine face à l'île Saint-Louis entre le pont de Sully et le Pont Marie.</note>
+<l>Du port Saint-Paul, je passe au faubourg Saint-Germain. </l>
+<l>Mais, comme même effet suit toujours même cause, </l>
+<l>J'y vantai vainement nos vers et notre prose : </l>
+<l>L'on nous siffla d'abord, et, malgré mon caquet, </l>
+<l>Il fallut derechef trousser notre paquet. </l>
+<l>Piqué de cet affront, dont s'échauffa ma bile, </l>
+<l>Nous prîmes la campagne, où la petite ville, </l>
+<l>Admirant les talents de mon petit troupeau, </l>
+<l>Protesta mille fois que rien n'était plus beau : </l>
+<l>Surtout, quand sur la scène on voyait mon visage, </l>
+<l>Les signes d'allégresse allaient jusqu'à la rage :</l>
+<l>Car ces provinciaux, par leurs cris redoublés,</l>
+<l>Et leurs contorsions, paraissaient tout troublés.</l>
+<l>Dieu sait, si me voyant ainsi le vent en poupe,</l>
+<l>Je devais être gai, mais le soin de la soupe,</l>
+<l>Dont il fallait remplir vos ventres et le mien :</l>
+<l>Ce soin, vous le savez, hélas ! l'empêchait bien :</l>
+<l>Car, ne prenant alors que cinq sols par personne,</l>
+<l>Nous recevions si peu, qu'encore je m'étonne</l>
+<l>Que mon petit gousset, avec mes petits soins,</l>
+<note>v. 1246, il manque un pied.</note>
+<l>Aient pu si longtemps suffire à nos besoins.</l>
+<l>Enfin, dix ans entiers coulèrent de la sorte,</l>
+<l>Mais au bout de ce temps la troupe fut si forte,</l>
+<l>Qu'avec raison je crus, pouvoir dedans Paris</l>
+<l>Me venger hautement, de ses sanglants mépris.</l>
+<l>Nous y revînmes donc, sûrs d'y faire merveille,</l>
+<note>Thomas (1625-1709) Corneille et Pierre Corneille (1606-1682) sont frères.</note>
+<l>Après avoir appris l'un et l'autre Corneille :</l>
+<l>Et tel était déjà le bruit de mon renom,</l>
+<l>Qu'on nous donna d'abord la salle de Bourbon.</l>
+<note>Héraclius est une tragédie de Pierre Corneille. Joués le 28 avril 1659 au théâtre du Petit-Bourbon situé le long de la Seine proche du Château du Louvre. L'Hôtel fut détruit en octobre 1660. </note>
+<l>Là, par Héraclius, nous ouvrons un théâtre,</l>
+<l>Où je crois tout charmer, et tout rendre idolâtre ;</l>
+<l>Mais, hélas ! Qui l'eût cru, par un contraire effet,</l>
+<l>Loin que tout fut charmé, tout fut mal satisfait ;</l>
+<l>Et par ce coup d'essai, que je croyais de maître,</l>
+<l>Je me vis en état de n'oser plus paraître.</l>
+<l>Je prends coeur, toutefois, et d'un air glorieux,</l>
+<l>J'affiche, je harangue, et fais tout de mon mieux ;</l>
+<l>Mais inutilement je tentai la fortune :</l>
+<l>Après Héraclius, on siffla Rodogune ;</l>
+<l>Cinna le fut de même, et le Cid tout charmant</l>
+<l>Reçut, avec Pompée, un pareil traitement.</l>
+<l>Dans ce sensible affront, ne sachant où m'en prendre,</l>
+<l>Je me vis mille fois sur le point de me pendre ;</l>
+<l>Mais d'un coup d'étourdi que causa mon transport,</l>
+<l>Où je devais périr, je rencontrai le port :</l>
+<l>Je veux dire qu'au lieu des pièces de Corneille,</l>
+<note>L'Étourdi ou les Contretemps de Molière fut joué en novembre 1658.</note>
+<l>Je jouai L'Étourdy, qui fut une merveille :</l>
+<l>Car à peine on m'eut vu la hallebarde au poing :</l>
+<l>À peine on eut ouï mon plaisant baragouin,</l>
+<l>Vu mon habit, ma toque, et ma barbe et ma fraise,</l>
+<l>Que tous les spectateurs furent transportés d'aise,</l>
+<l>Et qu'on vit sur leurs fronts s'effacer ces froideurs</l>
+<l>Qui nous avaient causé tant et tant de malheurs.</l>
+<l>Du parterre au théâtre, et du théâtre aux loges,</l>
+<l>La voix de cent échos fait cent fois mes éloges,</l>
+<l>Et cette même voix demande incessamment,</l>
+<l>Pendant trois mois entiers, ce divertissement.</l>
+<l>Nous le donnons autant, et sans qu'on s'en rebute,</l>
+<l>Et sans que cette pièce approche de sa chute.</l>
+<note>Le Dépit amoureux, comédie de Molière aurait été créé en 1656 en province et fut jouée en 14 juin 1659 au Petit-Bourbon.</note>
+<l>Mon Dépit amoureux suivit ce frère ainé,</l>
+<l>Et ce charmant cadet fut aussi fortuné :</l>
+<l>Car quand du Gros René l'on aperçut la taille ;</l>
+<note>Dondon : Femme ou fille qui a beaucoup d'embonpoint et de fraîcheur. [L]</note>
+<l>Quand on vit sa dondon rompre avec lui la paille ;</l>
+<l>Quand on m'eut vu sonner mes grelots de mulets,</l>
+<l>Mon bègue dédaigneux déchirer ses poulets,</l>
+<l>Et remener chez soi la belle désolée,</l>
+<l>Ce ne fut que ah! ah! dans toute l'assemblée,</l>
+<l>Et de tous les côtés chacun cria tout haut,</l>
+<l>C'est là faire et jouer des pièces comme il faut.</l>
+<l>Le succès glorieux de ces deux grands ouvrages,</l>
+<l>Qui m'avaient mis au port, après tant de naufrages,</l>
+<l>Me mit le coeur au ventre, et je fis un cocu,</l>
+<l>Dont si j'avais voulu, j'aurais pris un écu :</l>
+<l>Je veux dire un écu par personne au parterre,</l>
+<l>Tant j'avais trouvé l'art de gagner et de plaire.</l>
+<l>Que vous dirai-je, enfin, le reste est tout constant,</l>
+<l>Dix pièces, oui morbleu, dix pièces, tout autant,</l>
+<l>Ont depuis ce temps-là sorti de ma cervelle :</l>
+<l>Mais dix pièces, morbleu, de plus belle en plus belle :</l>
+<l>De sorte qu'à présent, si je n'en suis l'auteur,</l>
+<l>Quelque pièce qu'on joue, on en a mal au coeur ;</l>
+<note>L'Hôtel de Bourgogne est le nom d'une salle de spectacle sise anciennement à l'emplacement de la rue Mauconseil et absorbée par le rue Etienne Marcel. Elle fut utilisée dès 1546 comme salle de spectacle. C'est aussi le nom d'une troupe qui y jouait. Elle excellait dans la tragédie.</note>
+<l>Et fut-elle jouée à l'Hôtel de Bourgogne,</l>
+<l>L'auteur n'en est qu'un fat, et l'acteur qu'un ivrogne.</l>
+<l>Que d'honneurs, compagnons, après tant de mépris,</l>
+<l>Qui de vous avec moi n'en serait pas surpris !</l>
+<l>Mais qui ne le serait encore davantage,</l>
+<l>De voir qu'en moins de rien, des gueux à triple étage,</l>
+<note>Caiman : Mendiant qui gueuse par fainéantise, et faut de vouloir travailler. [F]</note>
+<l>Des caimans vagabonds, morts de faim, demi-nus,</l>
+<l>Soient devenus si gros, si gras, et si dodus,</l>
+<l>Et soient si bien vêtus des pieds jusques au crâne,</l>
+<note>Panne : Étoffe fabriquée à la façon du velours et de même largeur, mais dont le poil est plus long et moins serré. [L]</note>
+<l>Que le moindre de vous porte à présent la panne :</l>
+<l>Vous me devez ces biens, ingrats, dénaturés :</l>
+<l>Mon esprit et mes soins vous les ont procurés,</l>
+<l>Et lâches, toutefois, loin de le reconnaître,</l>
+<l>En valets révoltés vous traitez votre maître ;</l>
+<l>Vous le voulez contraindre à suivre vos avis,</l>
+<l>Et vous ne seriez plus, s'il les avait suivis.</l>
+<note>Fripe-sauce : Mauvais cuisinier. [L]</note>
+<l>Répondez maintenant, répondez fripe-sauce ;</l>
+<l>L'histoire que je conte est-elle vraie ou fausse ?</l>
+<l>N'entreprenez-vous pas de me donner la loi ?</l>
+<l>Et de vous, toutefois, qui se peut plaindre ?</l>
+</sp>
+<sp who="TOUTE LA TROUPE">
+<speaker>TOUTE LA TROUPE, ensemble, fort haut.</speaker>
+<l>Moi ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, en bouchant ses oreilles.</speaker>
+<note>Dom Japhet d'Arménie, comédie de Paul Scarron (1653), est l'histoire d'un vaniteux qui est dupé par tout le monde.</note>
+<l>Ah ! Pour un Dom Japhet, ils me prennent sans doute ; </l>
+<l>Mais qu'on parle autrement, si l'on veut que j'écoute :</l>
+<l>Bas, et l'un après l'autre ; ou...</l>
+</sp>
+<sp who="TOUTE LA TROUPE">
+<speaker>TOUTE LA TROUPE, ensemble, et fort haut.</speaker>
+<l>Qui commencera ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, en colère.</speaker>
+<l>Le diable, si l'on veut ; oui parle qui voudra.</l>
+</sp>
+<sp who="TOUTE LA TROUPE">
+<speaker>TOUTE LA TROUPE, ensemble, et fort haut.</speaker>
+<l>Donc...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, Interrompant, se bouchant derechef les oreilles.</speaker>
+<l>Donc, me voilà sourd : hé, de grâce, Angélique, </l>
+<l>Parle, aussi bien j'ai dit quelque mot qui te pique.</l>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<l>Oui, oui, je suis piquée, et c'est avec raison :</l>
+<l>Non pas comme tu crois, pour cette exhalaison</l>
+<l>Dont ta langue m'accuse avec tant d'insolence ;</l>
+<l>Car tu mens, et ce mot suffit pour ma défense :</l>
+<l>Mais ce qui m'a piquée, et qui me pique au vif,</l>
+<l>C'est de voir que le fils... je ne dis pas d'un juif ;</l>
+<l>Quoique juif et fripier soit quasi même chose :</l>
+<l>C'est, dis-je, qu'un tel fat nous censure et nous glose,</l>
+<l>Nous traite de canaille, et principalement</l>
+<l>Mes frères, qui l'ont fait ce qu'il est maintenant :</l>
+<l>J'entends comédien, dont il tire la gloire</l>
+<l>Qu'il nous vient d'étaler, racontant son histoire.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Tes frères ? Qui, ce bègue et ce borgne boiteux ?</l>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<l>Eux-mêmes, oui maroufle, eux-mêmes, ce sont eux ;</l>
+<l>Mais les ingrats, dis-tu, n'ont jamais de mémoire,</l>
+<l>Il faut pour te confondre, en dire ici l'histoire :</l>
+<note>En 1640, Molière a 18 ans. Il est né le 15 janvier 1622. </note>
+<l>En quarante, ou fort peu de temps auparavant,</l>
+<l>Il sortit du collège, âne comme devant :</l>
+<l>Mais son père ayant su que moyennant finance,</l>
+<l>Dans Orléans un âne obtenait sa licence,</l>
+<note>Fieux : Terme patois qui se dit quelquefois pour fils en plaisantant. [L]</note>
+<l>Il y mena le sien ; c'est-à-dire ce fieux</l>
+<note>Rogue : Terme familier. Arrogant avec une nuance de rudesse en plus. [L]</note>
+<l>Que vous voyez ici, ce rogue audacieux.</l>
+<note>Pécune : ou pequeune. Vieux mot qui signifiait autrefois de l'argent. [F]</note>
+<l>Il l'endoctora donc, moyennant sa pécune ;</l>
+<l>Et croyant qu'au barreau ce fils ferait fortune,</l>
+<l>Il le fit avocat, ainsi qu'il vous a dit,</l>
+<l>Et le para d'habits qu'il fit faire à crédit :</l>
+<l>Mais, de grâce, admirez l'étrange ingratitude,</l>
+<l>Au lieu de se donner tout à fait à l'étude,</l>
+<l>Pour plaire à ce bon père, et plaider doctement,</l>
+<l>Il ne fut au Palais qu'une fois seulement.</l>
+<note>Drôle : Se dit d'un homme ou d'un enfant qui, ayant quelque chose de décidé, de déluré, ne laisse pas d'exciter quelque inquiétude, et sur lequel d'ailleurs on s'attribue quelque supériorité. [L]</note>
+<l>Cependant, savez-vous ce que faisait le drôle ?</l>
+<l>Chez deux grands charlatans il apprenait un rôle,</l>
+<note>L'Orvietan : nom d'un charlatan (opérateur) du XVIIème venu d'Orviete en Italie et qui vendait une remède du même nom. C'est aussi un personnage de cette pièce.</note>
+<l>Chez ces originaux, l'Orvietan et Bary,</l>
+<l>Dont le fat se croyait déjà le favori.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Pour l'Orvietan, d'accord ; mais pour Bary, je nie</l>
+<l>D'avoir jamais brigué place en sa compagnie.</l>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<l>Tu briguas chez Bary le quatrième emploi :</l>
+<l>Bary t'en refusa ; tu t'en plaignis à moi :</l>
+<l>Et je me souviens bien qu'en ce temps-là, mes frères</l>
+<l>T'en gaussaient, t'appelant le mangeur de vipères.</l>
+<l>Car tu fus si privé de sens et de raison,</l>
+<l>Et si persuadé de son contre-poison,</l>
+<l>Que tu t'offris à lui pour faire ses épreuves :</l>
+<l>Quoiqu'en notre quartier nous connussions les venues.</l>
+<l>De six fameux bouffons crevés dans cet emploi.</l>
+<l>Ce fut là que chez nous on eut pitié de toi.</l>
+<l>Car mes frères voulant prévenir ta folie,</l>
+<l>Dirent qu'il nous fallait faire la comédie :</l>
+<l>Et tu fus si ravi d'espérer cet honneur,</l>
+<l>Où, comme tu disais, gisait tout ton bonheur,</l>
+<l>Qu'en ce premier transport de ton âme ravie,</l>
+<l>Tu les nommas cent fois ton salut et ta vie.</l>
+<l>Toutefois, double ingrat, aux dépens de ta foi,</l>
+<l>Tu n'as que des mépris et pour eux et pour moi.</l>
+<l>Et parce que tu crois avoir le vent en poupe,</l>
+<l>Tu traites de hauteur, et nous, et notre troupe.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Pourquoi non, suis-je pas le maître de vous tous ?</l>
+</sp>
+<sp who="TOUTE LA TROUPE">
+<speaker>TOUTE LA TROUPE, ensemble et haut.</speaker>
+<l>Le maître double fat, en est-il parmi nous ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ah vous recommencez à brailler tous ensemble ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Camarades, songeons à ce qui nous assemble ;</l>
+<l>Et quittant la querelle, et l'injure et le bruit,</l>
+<l>Laissez-moi chapitrer Élomire avec fruit.</l>
+<l>Apprends de grâce apprends, que ce n'est point l'envie</l>
+<l>Qui nous fait censurer tes pièces et ta vie,</l>
+<l>Élomire, et sois sûr que notre unique but</l>
+<l>Est notre propre honneur, et ton propre salut.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mon salut ? Je suis donc dans un péril extrême ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<note>Tarte à la crême : l'expression est l'origine d'une effet comique de l'École des femmes et critiqué dans la Critique de l'École des femmes.</note>
+<l>Oui, grâce aux saletés de ta tarte à la crème ;</l>
+<note>L'Imposteur est le sous-titre de la comédie du Tartuffe. </note>
+<l>Grâce à ton Imposteur, dont les impiétés</l>
+<note>Fagot : Se dit aussi des choses. Un livre qui sent le fagot, livre qui pourrait faire brûler son auteur. [L]</note>
+<l>T'apprêtent des fagots déjà de tous côtés.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<note>Cotret : Fagot de bois court et de médiocre grosseur. [L]</note>
+<l>Hé ! Ce sont des cotrets.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Trêve de raillerie ; </l>
+<l>Le cotret pourrait bien être de la partie : </l>
+<l>Mille gens de la cour que tu joues...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, d'un air méprisant, branlant ta tête.</speaker>
+<l>Ces gens...</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Ces gens ont les bras longs, et les coups fort pesants.</l>
+<l>Gardes de les sentir. Mais, sans plus m'interrompre,</l>
+<l>Saches que tout à l'heure, il faut changer ou rompre.</l>
+<l>Banni donc du théâtre et ta prose et tes vers,</l>
+<l>Ou t'apprêtes tout seul à ces justes revers.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais après que jouer, les pièces de Corneille !</l>
+<l>Tu sais qu'on nous y siffle, y fissions-nous merveille.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Merveilles, justes Dieux ! En fîmes-nous jamais ? </l>
+<l>Et comment le pouvoir, aux rôles que tu fais ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je fais le premier rôle ; et le fais d'importance ;</l>
+<l>Quelque sujet qu'il traite.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>As-tu cette créance ? </l>
+<l>Et ton orgueil peut-il t'aveugler à ce point, </l>
+<l>Que de faire si mal, et de ne le voir point ? </l>
+<l>Quoi ? Dans le sérieux tu crois faire merveilles ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Quoi tu peux démentir tes yeux et tes oreilles ?</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>T'en veux-tu rapporter à tes meilleurs amis ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>D'accord.</l>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Le portier des Comédiens, Élomire, Angélique, Plusieurs autres et comédiennes, Le Valet, Florimont, Rosidor.</head>
+<sp who="LE PORTIER">
+<speaker>LE PORTIER.</speaker>
+<l>Le Chevalier, le Comte et le Marquis </l>
+<l>Sont là-bas ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Qui dis-tu !</l>
+</sp>
+<sp who="LE PORTIER">
+<speaker>LE PORTIER.</speaker>
+<l>Ces trois Messieurs sans queue, </l>
+<l>Dont les couleurs des gens sont feuille-morte et bleue.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ah, je sais, fais monter.</l>
+<stage>Le portier s'en va, Élomire continue parlant à Florimont.</stage>
+<note>Fin du vers 1425, on lit "connoisseux", le mot conviendrait est connaisseurs mais la rime avec "veux" serait perdue.</note>
+<l>Ce sont des connaisseux, </l>
+<l>Surtout le chevalier.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Eh bien, si tu le veux, </l>
+<l>Ils pourront sur-le-champ vider notre querelle.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>J'y consens ; et je sois berné, si j'en appelle.</l>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE QUATRIÈME ET DERNIÈRE. Le Chevalier, Le Comte, Le Marquis, Élomire, Angélique, Plusieurs autres comédiens et comédiennes, Le Valet, Florimont, Rosidor.</head>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Vous ne pouviez jamais venir plus à propos,</l>
+<l>Pour nous servir d'amis, et nous mettre en repos.</l>
+<l>Sans vous, nous étions près de rompre notre troupe.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>La rompre, dans un temps qu'elle a le vent en poupe,</l>
+<l>Ce serait, ce me semble assez mal aviser ;</l>
+<l>Mais d'où vient ce divorce.</l>
+</sp>
+<sp who="LORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Et qui le peut causer</l>
+<l>Qu'Élomire !</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, en raillant.</speaker>
+<l>Élomire a toujours fait merveilles</l>
+<l>Il a scandalisé des yeux, et des oreilles.</l>
+<l>Perverti des esprits, et corrompu des moeurs ;</l>
+<l>Enfin, c'est un démon, si l'on croit ces docteurs.</l>
+<l>Le diable les confonde, eux et leur calomnie.</l>
+<l>Mais il s'agit ici d'un point de comédie,</l>
+<l>Qui m'importe bien plus que tous ces sots discours.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Quel est-il ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ces rêveurs qui m'insultent toujours, </l>
+<l>Disent qu'au sérieux, je ne suis qu'une bête : </l>
+<l>Et cette impertinence est si fort dans leur tête, </l>
+<l>Que le diable, je crois, ne l'en ôterait pas.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Quoi c'est là ce grand point qui cause vos débats ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Lui-même.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<note>Grabuge : Vieux mot qui signifie, débat et différents domestiques. [F]</note>
+<l>Eh bien! Il faut terminer ces grabuges.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>De grâce, faites-le ; nous vous en faisons juges.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Juges d'un point comique : ah ! c'est nous faire honneur.</l>
+<l>D'autant plus qu'il s'agit de juger d'un acteur ;</l>
+<l>Et d'un acteur, encor, tel que l'est Élomire.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>C'est-à-dire fort grand, dans les pièces pour rire ;</l>
+<l>Moyennant que le drôle en soit pourtant l'auteur ;</l>
+<l>Car, aux pièces d'autrui, je suis son serviteur ?</l>
+<l>De sa vie, il n'entra dans le sens d'aucun autre.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>C'est là ton sentiment ; mais ce n'est pas le nôtre.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER, à Élomire.</speaker>
+<l>Récite donc des vers, et des plus sérieux.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>J'en vais dire à tirer les larmes de vos yeux. </l>
+<l>Écoutez, je vais dire une fort belle stance ; </l>
+<l>Surtout observez bien mon geste et ma cadence.</l>
+<stage>Élomire, déclame.</stage>
+<l>Noire Déesse de la nuit,</l>
+<l>Pourquoi redoubles-tu tes voiles ;</l>
+<l>Et, nous cachant jusqu'aux étoiles, </l>
+<l>Nous laisses-tu, si peu de lumière et de bruit ?</l>
+<l>Jamais depuis que le silence</l>
+<l>Accompagna l'obscurité,</l>
+<l>L'on ne vit si peu de clarté</l>
+<l>Se joindre à leur intelligence :</l>
+<l>Ici rien ne paraît que ténèbres, qu'horreur ;</l>
+<l>Mais las ! Pardonne à mon erreur ;</l>
+<l>Puisque je vois les maux que ma Climène endure,</l>
+<l>Triste Nuit, c'est à tort que je t'appelle obscure.</l>
+<l>Pourquoi donc...</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER, interrompant Élomire.</speaker>
+<l>Plus de stance ; ah ! ce n'est pas ton fait.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Tout de bon ?</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Tout de bon.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>En effet !</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>En effet.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Disons donc d'autres vers qui soient plus magnifiques,</l>
+<l>Et que mon action rende plus pathétiques.</l>
+<stage>Élomire recommence à réciter des vers, avec plus de gestes qu'auparavant.</stage>
+<l>Que dites-vous, Climene ! Ah ! Plutôt l'Univers</l>
+<l>Retourne en son chaos, que tout soit à l'envers ;</l>
+<l>Que tout périsse ensemble, et le Ciel et la Terre,</l>
+<l>Plutôt que tant soit peu je vous puisse déplaire.</l>
+<l>Mais que dis-je, insensé ? Ne vous déplais-je pas.</l>
+<l>Ne vous fuis-je pas seul souhaiter le trépas ?</l>
+<l>Un autre que Tircis cause-t-il votre peine ;</l>
+<l>Et ne suis-je pas seul votre fléau, Climène.</l>
+<l>Oui Climène, c'est moi dont le coupable amour</l>
+<l>Vous veut faire quitter Filidas et le jour :</l>
+<l>C'est moi qui fais l'ennui dont votre coeur soupire,</l>
+<l>Et qui fais tous les maux sous lesquels il expire ;</l>
+<l>Ah ! Si je pouvais vaincre un si fier ennemi ;</l>
+<l>Ou tout du moins, briser mes chaînes à demi ?</l>
+<note>vers 1491, on lit "qui" moins explicite que "que" dans l'expression moderne.</note>
+<l>Si cette passion que mon âme transporte,</l>
+<l>Était un peu plus lente, était un peu moins forte :</l>
+<l>Et que dans ces élans, je pusse sans ma mort,</l>
+<l>Vous céder, en faisant un généreux effort ;</l>
+<l>Que vous venez bientôt, adorable Climène,</l>
+<l>Quelle horreur a Tircis, de causer votre peine ;</l>
+<l>Combien pour tous vos maux il endure de mal,</l>
+<l>Et jusqu'à quel excès il aime son rival !</l>
+<l>Mais cette passion, cet amour et ces chaînes,</l>
+<l>Sont des chevaux fougueux qui n'ont ni mors ni rênes,</l>
+<l>Ils m'emportent partout avec tant de raideur,</l>
+<l>Que ma chute peut seule apaiser leur fureur.</l>
+<l>Tombons donc ! Aussi bien ma chute est légitime,</l>
+<l>Puisque je ne saurais l'éviter sans un crime ;</l>
+<l>Oui...</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER, l'interrompant.</speaker>
+<l>Fais-tu de ton mieux, Élomire ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Pourquoi ?</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Parce que tu le dois ; sinon, prends garde à toi.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, étonné.</speaker>
+<l>Quoi, je ne fais pas bien ?</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Comment, bien, au contraire ; </l>
+<l>Je ne t'ai, sur ma foi, jamais vu si mal faire. </l>
+<l>Que t'en semble, Marquis ?</l>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<l>Que m'en semblerait-il,</l>
+<l>Pour en juger ainsi, faut-il être subtil ?</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Et toi, comte ?</l>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<l>Pour moi, je suis sur des épines, </l>
+<l>Quand je l'entends parler, ou que je vois ses mines.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ne jugez pas encor ; quatre vers seulement,</l>
+<l>Vous vont désabuser.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Dis-les donc promptement.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<stage>Il recommence à réciter avec encore plus de mauvais gestes.</stage>
+<l>Après tout, qui vous porte à m'être si cruelle ?</l>
+<l>Filidas est-il plus amoureux, plus fidèle ;</l>
+<l>Est-il plus beau que moi, vous mérite-t-il mieux ?</l>
+<l>N'ai-je pas comme lui de quoi plaire à vos yeux ;</l>
+<l>Mais quand ce Filidas vous plairait davantage ;</l>
+<l>Quand du plus beau des Dieux il aurait le visage,</l>
+<l>Et quand il en aurait toutes les qualités,</l>
+<l>N'étant pas Roi, ce choix fait tort à vos beautés.</l>
+<l>Ah..</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER, interrompant derechef Élomire, et brusquement.</speaker>
+<note>Mascarille est un personnage des Précieuses ridicules de Molière. Il se fait passer pour un Marquis mais il n'est que le valet de Lagrange. C'est un personnage type de la comédie au même titre que Crispin et Sganarelle.</note>
+<l>De grâce, tais-toi ; crois-moi, cher Mascarille, </l>
+<l>Fais toujours le docteur, ou fais toujours le drille,</l>
+<l>Car enfin, il est temps de te désabuser,</l>
+<note>Faquiniser : Transformer en faquin ; Fig. Un homme de néant, mélange de ridicule et de bassesse. [L]</note>
+<l>Tu ne naquis jamais que pour faquiniser ;</l>
+<l>Ces rôles d'amoureux ont l'action trop tendre ;</l>
+<l>Il faut par un regard, savoir se faire entendre,</l>
+<l>Et par le doux accord d'un mot et d'un soupir,</l>
+<l>Toucher ses auditeurs de ce qu'on feint souffrir,</l>
+<l>Mais si tu te voyais, quand tu veux contrefaire</l>
+<l>Un amant dédaigné qui s'efforce de plaire ;</l>
+<l>Si tu voyais tes yeux hagards et de travers ;</l>
+<l>Ta grande bouche ouverte, en prononçant un vers,</l>
+<l>Et ton col renversé sur tes larges épaules,</l>
+<l>Qui pourraient à bon droit être l'appui de gaules ;</l>
+<l>Si, dis-je...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, interrompant le chevalier.</speaker>
+<l>Cela dit qu'il faut faquiniser, </l>
+<l>Eh bien, faquinisons ; mais comment apaiser </l>
+<l>Ces critiques docteurs, qui me traitent d'impie,</l>
+<l>Et de maître d'école, en fait de vilenie ?</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Il n'est rien plus aisé ? Tu n'as qu'à retrancher </l>
+<l>Tout ce que dans tes vers tu t'es vu reprocher.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je m'en garderai bien.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Et pourquoi ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Pourquoi ? Parce :</l>
+<l>Il en resterait plus que pour faire une farce.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Eh bien, la farce est bonne après le sérieux :</l>
+<l>Tu la joueras toi-même, et la joueras des mieux.</l>
+<l>Et même avecque gloire : a-t-on, dans ce royaume,</l>
+<note>Gros Guillaume : Nom de scène d'un farceur de l'Hôtel de Bourgogne, nommé Robert Guérin, surnommé La Fleur, auparavant boulanger.</note>
+<l>Jamais vu des acteurs pareils à Gros-Guillaume,</l>
+<note>Gauthier Garguille : Ce farceur se nommait Hugues Guérin ou Guéru, dit Flechelles : il débuta dans la Troupe du Marais vers l'an 1598, et passa ensuite dans celle de l'Hôtel de Bourgogne. [Léris]</note>
+<l>Gautier et Turlupin ? De leur temps toutefois,</l>
+<l>Le sérieux était le grand goût des Français.</l>
+<note>Bellerose (Pierre le Messier) : Comédien tragique français associé au Théâtre de l'Hôtel de Bourgogne. Il créa de nombreux rôle de Pierre Corneille. Il se retira en 1643 selon Leiris. </note>
+<l>Mais après qu'on avait admiré Bellerose,</l>
+<l>Ces trois fameux bouffons triomphaient par leur prose,</l>
+<l>Et l'innocent plaisir, dont ils charmaient les coeurs,</l>
+<l>Les faisait adorer de tous les spectateurs.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Parbleu, l'avis me plaît, j'en veux faire de même ;</l>
+<l>Et je vais tout châtrer, jusqu'à Tarte à la crème.</l>
+<l>Pour ces rôles transis, les prenne qui voudra ;</l>
+<l>Je ferai désormais tout ce qu'on résoudra.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Nous ferons donc pleurer, et puis tu feras rire.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>J'accepte le parti.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<l>Mais garde-toi d'écrire</l>
+<l>Rien de sale et d'impie, et qui choque les moeurs ;</l>
+<l>Autrement, sans quartier.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>Il l'a promis, Messieurs.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je l'ai déjà juré ; derechef, je le jure :</l>
+<l>Je ne ferai plus rien capable de censure.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT.</speaker>
+<note>Hôtel de Bourgogne : troupe concurrente de cette de Molière qui jouait alors au Théâtre du Palais-Royal. </note>
+<l>En ce cas, nous allons faire enrager l'Hôtel.</l>
+</sp>
+<sp who="ROSIDOR">
+<speaker>ROSIDOR.</speaker>
+<l>Et nous crever de monde.</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER.</speaker>
+<l>En effet, rien de tel </l>
+<l>Ne se verra jamais.</l>
+</sp>
+<sp who="FLORIMONT">
+<speaker>FLORIMONT, parlant au Chevalier, au Comte et au Marquis.</speaker>
+<l>Nous serons redevables,</l>
+<l>De cet heureux succès, à vos soins favorables.</l>
+<l>Aussi, Messieurs...</l>
+</sp>
+<sp who="LE CHEVALIER">
+<speaker>LE CHEVALIER, s'en allant avec le Comte et le Marquis.</speaker>
+<l>Adieu ; mais avertissez-nous,</l>
+<l>Alors que vous jouerez de la sorte chez vous.</l>
+<l>Je le dis derechef, j'en attends des merveilles,</l>
+<l>Et j'en veux régaler mes yeux et mes oreilles.</l>
+<stage>Ils sortent tous trois et tous les comédiens ensuite : après quoi, on cache le théâtre avec la toile, comme il était auparavant ; ce qui finit Le Divorce comique, et fait continuer la scène du quatrième acte par le Véritable Élomire, et les autres qui sont dans la loge.</stage>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas.</speaker>
+<l>Lazarille, j'en tiens !</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas.</speaker>
+<l>Il n'en faut dire rien.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas.</speaker>
+<l>Non, mais si je guéris, je m'en souviendrai bien ;</l>
+<l>Et l'auteur apprendra dans peu, par sa satire,</l>
+<l>Qu'on rit à ses dépens, quand on rit d'Élomire :</l>
+<l>Car j'aurai ma revanche, ou bientôt je mourrai.</l>
+</sp>
+<sp who="ALPHÉE">
+<speaker>ALPHÉE.</speaker>
+<l>Eh bien, gland médecin du fameux Sennelay,</l>
+<l>Vous voyez maintenant que je ne suis pas seule</l>
+<l>Qui, contle Mascalile ait déployé sa gueule.</l>
+<l>L'autheul de cette pièce, ainsi que vous voyez,</l>
+<l>Ne l'a pas mal daubé, du clane jusqu'aux pieds ;</l>
+<l>Mais ce qui me lavit, dedans cette satile,</l>
+<l>C'est que tout en est vlay, et que tout y fait lile.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarille.</speaker>
+<l>Elle ment ; si j'osais...</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas a Élomire.</speaker>
+<l>Gardez-vous de causer.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Voici l'heure du bal, allons nous déguiser.</l>
+</sp>
+</div>
+</div>
+<div n="6" type="act">
+<head>ACTE V</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Alcandre, Caliste, Les Conviés au bal, Un Laquais.</head>
+<stage>Cette scène est dans une salle préparée pour un bal, où il y a compagnie, et des violons.</stage>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE, à un laquais.</speaker>
+<l>Qu'on donne ordre, Laquais, de faire entrer les masques ?</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE.</speaker>
+<l>Quelle est leur mascarade ?</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Elle est des plus fantasques : </l>
+<l>Et comme ils ont en main chacun un instrument,</l>
+<l>Sans doute ils donneront du divertissement :</l>
+<note>vers 1591, on lit "crotesques" au lieu de "grotesque". Crotesque est absent du Dictionnaire Furetière et du Littré mais présent dans la légende d'une estampe du XVIIème sicècle : "Habit crotesque de paysan dansant à l'Opéra" [BnF RESERVE FOL-QB-201 (66)].</note>
+<l>Les voici ; peut-on voir de plus parfaits grotesques ?</l>
+</sp>
+<sp who="CALISTE">
+<speaker>CALISTE, voyant entrer les masques.</speaker>
+<note>Esculape et Môme : Esculape est le Dieu de la Médecine, Môme ou Momus celui du Sarcasme et de la Moquerie.</note>
+<l>C'est Esculape et Môme ; ô Dieux ! Qu'ils sont grotesques ?</l>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Deux musiciens représentant Esculape ET Mome, Oronte, Climante, Cléarque, Élomire, Lazarille, Clarice, Lucinde, Alphée, Lucille tous masquez et tenant en main chacun un instrument, Alcandre, Caliste, Les Conviés.</head>
+<stage>Esculape et Morne chantent en forme de dialogue le récit qui suit et les autres le répètent.</stage>
+<sp who="ESCULAPE, MOME">
+<speaker>ESCULAPE et MOME.</speaker>
+<stage>RÉCIT DE LA MASCARADE.</stage>
+<l>Rien n'égale la santé,</l>
+<l>Belles, chérissez-là par dessus toutes choses :</l>
+<l>Elle fait de votre beauté</l>
+<l>Tous les lys et toutes les roses :</l>
+<l>Sans elle vous n'auriez que de faibles appas,</l>
+<l>Encor ne les verrions-nous pas.</l>
+<l>Je suis le Dieu qui la donne</l>
+<l>À tous les autres Dieux, même à celui qui tonne ;</l>
+<l>Et si vous me voyez ici,</l>
+<l>C'est pour vous la donner aussi.</l>
+</sp>
+<sp who="MOME">
+<speaker>MOME.</speaker>
+<l>Esculape est un pipeur,</l>
+<l>N'écoutez point sa voix, adorables mortelles :</l>
+<l>Si vous êtes de belle humeur</l>
+<l>Vous demeurerez toujours belles :</l>
+<l>La joie est la santé que demandent vos yeux ;</l>
+<l>Elle seule charme les Dieux :</l>
+<l>Je suis celui qui la donne</l>
+<l>Aux Déesses du ciel, pour plaire au Dieu qui tonne :</l>
+<l>Et si vous me voyez ici,</l>
+<l>C'est pour vous la donner aussi.</l>
+</sp>
+<sp who="ESCULAPE">
+<speaker>ESCULAPE.</speaker>
+<l>Quoi ! Ce Tabarin des Cieux,</l>
+<l>Ce Mome qui cent fois reconnut ma puissance,</l>
+<l>Viendra m'insulter en ces lieux,</l>
+<l>Et ne craindra point ma vengeance ?</l>
+<l>Non, non, ne souffrons point de cet enfariné,</l>
+<l>Sus, amis, pour être berné,</l>
+<l>Qu'aux médecins on le donne : </l>
+<l>Cet ordre plaît aux Dieux, même à celui qui tonne, </l>
+<l>Et si vous nous voyez ici, </l>
+<l>C'est parce qu'il leur plaît aussi.</l>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. L'exempt, Le Balafré, Sans-malice, Plusieurs Autres Archers, Esculape, Mome, Oronte, Climante, Clearque, Élomire, Lazarille, Clarice, Lucinde, Alphée, Lucille, Alcandre, Caliste, Les Conviés.</head>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<note>En haie : en ligne.</note>
+<l>Archers, en haie, et tous vis-à-vis de la porte ;</l>
+<l>Mais qu'on garde surtout que personne ne sorte.</l>
+<stage>À Alcandre qui va à lui.</stage>
+<l>Demeurez là, Monsieur ; mais qu'on ne craigne rien.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE, à l'Exempt.</speaker>
+<l>Guet, me connaissez-vous ?</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Oui, je vous connais bien, </l>
+<l>Et je sais ce qu'on doit aux gens de votre sorte.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Pourquoi donc à mon nez vous saisir de ma porte ?</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Parce qu'un assassin est parmi ces masqués,</l>
+<l>Que je veux l'avoir vif ou mort.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Vous vous moquez ; </l>
+<l>Je connais trop tous ceux qui sont dans cette bande.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT, montrant son bâton.</speaker>
+<l>Connaissez ce bâton, Monsieur, et qu'on lui rende</l>
+<l>Du respect ; ou sachez que vous en répondez.</l>
+<stage>Arrachant brusquement le masque à Oronte.</stage>
+<l>Allons, le masque bas ; vite, vous marchandez ?</l>
+<stage>Connaissant Oronte.</stage>
+<l>Quoi ! Vous, mon médecin ? Vous-même ; vous, Oronte ?</l>
+<l>Vous en masque ? Ah ! Ma foi, vous devriez avoir honte ; </l>
+<l>Vous en masque, grands Dieux, avec des assassins ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Vous nommez donc ainsi Messieurs les médecins ? </l>
+<l>Car ceux que vous voyez le sont tous, et leurs femmes.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT, s'adressant à Élomire et à Lazarille, qui se sont démasqués, avec tous les autres.</speaker>
+<l>Ceux-là ne le sont pas ; qu'êtes-vous bonnes âmes ? </l>
+<l>Car vos visages ont un certain air...</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Croyez </l>
+<l>Que vous parleriez mieux si vous me connaissiez.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Prenez garde, Monsieur, c'est le Bassa Sigale.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Qui ? Ce fourbe qui fuit, de peur qu'on ne l'empale ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je n'eus jamais ce nom, ni cette qualité.</l>
+</sp>
+<sp who="ALCANDRE">
+<speaker>ALCANDRE.</speaker>
+<l>Sous ce nom-là, pourtant, vous m'avez consulté,</l>
+<l>Si vous ne l'êtes pas, vous êtes un grand fourbe :</l>
+<l>Voyez-vous ce petit bout d'homme qui se courbe </l>
+<l>Derrière lui, c'était son secrétaire...</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, se redressant.</speaker>
+<l>Eh bien ;</l>
+<l>J'étais son secrétaire, et je ne suis plus rien :</l>
+<l>Concluez ? </l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Sur ma foi, ce petit homme est drôle ; </l>
+<l>Dans une comédie, il jouerait un bon rôle. </l>
+<stage>Se tournant vers Élomire.</stage>
+<l>Mais de grâce, Monsieur, qu'êtes-vous ? Car, enfin,</l>
+<l>Je sais qu'il est entré céans un assassin ;</l>
+<l>Qu'il cachait, comme vous, son visage d'un masque, </l>
+<l>Et tenait comme vous un gros tambour de basque.</l>
+<l>Je ne crois pas, Monsieur, qu'après un tel rapport</l>
+<l>De l'assassin, à vous, je puisse avoir grand tort, </l>
+<note>La Conciergerie hébergeait une prison.</note>
+<l>Quand je vous traînerai dans la Conciergerie, </l>
+<l>D'autant plus que pas un de cette compagnie</l>
+<l>Ne sait ni votre nom, ni quel est le pays </l>
+<l>D'où vous êtes, et dont certes, je m'ébahis. </l>
+<l>Quoi ! Malgré tout cela, vous n'ouvrez pas la bouche ?</l>
+</sp>
+<sp who="LE BALAFRÉ">
+<speaker>LE BALAFRÉ.</speaker>
+<l>C'est sans doute, Monsieur, que le remords le touche,</l>
+<l>C'est notre homme ; et je vais, si vous le trouvez bon, </l>
+<l>Le lier pieds et poings.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Direz-vous votre nom ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Hélas ! Monsieur, je suis un Espagnol malade,</l>
+<l>Qui...</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Fourbe, en cet état va-t-on en mascarade ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Oui, Monsieur, l'on fait plus, l'on boit à rouges bords,</l>
+<l>On rit, on chante, on joue, on s'égaye le corps,</l>
+<l>Quand c'est de Sennelay le grand urinaliste,</l>
+<l>Qui traite un hypocondre, et non pas un chimiste.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Quoi ! Pour faire le fou, vous pensez m'abuser ? </l>
+<l>Ah ! Ma foi, je m'en vais vous faire dégoiser, </l>
+<l>Devant qu'il soit deux jours, de la belle manière ;</l>
+<l>Ou nous verrons tarir fontaines et rivière : </l>
+<l>Oui, fourbe, nous saurons bientôt votre dessein ;</l>
+<l>Nous vous saurons tirer la vérité du sein. </l>
+<l>Balafré, qu'on le lie ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Oronte.</speaker>
+<l>Ô Dieux ! Est-il possible,</l>
+<l>Qu'un homme tel que vous ait le coeur insensible ? </l>
+<l>Quoi donc ? De Sennelay, merveilleux médecin, </l>
+<l>Vous me souffrez nommer fou, perfide, assassin, </l>
+<l>Archi-fourbe : pour fou, passe, ma maladie </l>
+<l>Est telle, dites-vous, par ma mélancolie : </l>
+<l>Mais pour ces autres noms, vous savez comme moi </l>
+<l>Que je ne les ai point.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Cet homme est fou, ma foi ? </l>
+<l>Qu'est-ce que Sennelay ? Qu'est-ce qu'urinaliste ? </l>
+<l>Qu'est-ce que votre mal ? N'êtes-vous point l'uliste ? </l>
+<l>Ces gens-là, d'ordinaire, ont un langage obscur </l>
+<l>Qu'on entend justement comme l'entend un mur.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Clitandre.</speaker>
+<l>Climante, vous savez...</l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE.</speaker>
+<l>Quoi, que je suis Climante ; </l>
+<l>Si vous en voulez plus, vous voulez que je mente.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Mais, Monsieur, vous savez si je suis l'assassin</l>
+<l>Que l'on cherche ? </l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE.</speaker>
+<l>Je sais que je suis médecin </l>
+<l>De Paris ; et de plus, qu'Oronte l'est de même : </l>
+<l>Mais d'où vient qu'à ces mots vous devenez tout blême ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas à Lazarille.</speaker>
+<l>Je suis mort, Lazarille.</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, bas.</speaker>
+<l>Espérez jusqu'au bout : </l>
+<l>Mais qu'on ne sache point qui vous êtes, surtout.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, bas. </speaker>
+<l>Je m'en garderai bien.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT, à Élomire.</speaker>
+<l>Que venez-vous de dire ?</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>ELOMIRE, en toussant bien fort.</speaker>
+<l>Rien du tout.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Vous mentez.</l>
+</sp>
+<sp who="LE BALAFRÉ">
+<speaker>LE BALAFRÉ.</speaker>
+<l>Monsieur, c'est Élomire : </l>
+<l>Oui c'est lui, je le viens de connaître à sa toux.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Lui ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Lui-même, qui sort de l'hôpital des fous : </l>
+<l>Je dis de l'hôpital du grand urinaliste.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à Oronte.</speaker>
+<l>Vous m'avez donc joué, Monsieur ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<note>Jean-Baptiste est le prénom de Molière.</note>
+<l>Oui, Jean-Baptiste ; </l>
+<l>Oui, Bassa ; oui, Guzman ; nous vous avons joué.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Par ma foi, j'en suis quitte à peu ; Dieu soit loué :</l>
+<l>Je me croyais déjà dans la Conciergerie,</l>
+<l>Et de là dans la place, où...</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<note>Badauderie : Entretiens et actions de badauder ; Faire le badaud ; Entretiens et actions de badauder. [L]</note>
+<l>Badauderie ?</l>
+<l>Vous vous entendez tous, et je m'entends aussi.</l>
+<l>Balafré, qu'on le lie, et qu'on l'ôte d'ici.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Ah ! Tous les médecins ont pour moi tant de haine,</l>
+<l>Que si j'étais coupable, ils le diraient sans peine.</l>
+<l>Oui, sans doute, ils seraient ravis de m'accuser,</l>
+<l>Et pas un d'eux, Monsieur, ne voudrait m'excuser.</l>
+</sp>
+<sp who="LE BALAFRÉ">
+<speaker>LE BALAFRÉ, liant les bras d'Élomire.</speaker>
+<l>Allons, causeur, allons ; aide moi Sans-Malice ?</l>
+</sp>
+<sp who="LE BALAFRÉ">
+<speaker>ELOMIRE, se voyant lié.</speaker>
+<l>Fit-on jamais, ô Dieu ! Une telle injustice !</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, gaussant Élomire.</speaker>
+<l>Le pauvre homme ! Messieurs, vous lui rompez les bras ?</l>
+<l>Prenez garde, il les a, dit-on, fort délicats ?</l>
+<l>Peut-être qu'au sortir de la Conciergerie,</l>
+<l>Il en aura besoin : choyez-les, je vous prie ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, à l'exempt, se jetant à ses pieds.</speaker>
+<l>Monsieur, ayez pitié...</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Pitié d'un assassin ?</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE.</speaker>
+<l>Je le serais, Monsieur, si j'étais médecin ?</l>
+<l>Mais je ne le suis pas, vous le savez vous-même.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Il nous nomme assassins, ô l'impudence extrême !</l>
+<l>Que ne dirait-il point, s'il était hors d'ici ?</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Messieurs, il parlera fort peu de temps ainsi ;</l>
+<l>Moyennant quelques pots de belle eau toute pure, </l>
+<l>Je le ferai bientôt changer de tablature ;</l>
+<l>Mais c'est trop épargner un insolent causeur ;</l>
+<l>Qu'on marche.</l>
+</sp>
+<sp who="ELOMIRE">
+<speaker>ELOMIRE, se voyant traîné.</speaker>
+<l>Lazarile, à moi ?</l>
+</sp>
+<sp who="LAZARILLE">
+<speaker>LAZARILLE, le suivant.</speaker>
+<l>J'y suis, Monsieur.</l>
+</sp>
+<sp who="TOUS">
+<speaker>TOUS LES ACTEURS ensemble, voyant qu'on entraîne Élomire.</speaker>
+<l>Le pauvre homme ?</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE, après qu'Élomire et ceux qui le mènent ne paraissent plus.</speaker>
+<l>Ma foi, c'est par trop, ce me semble : </l>
+<l>Il croit aller en grève.</l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE.</speaker>
+<l>Et si vrai, qu'il en tremble.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>S'il en mourait ?</l>
+</sp>
+<sp who="CLEARQUE">
+<speaker>CLEARQUE.</speaker>
+<l>Qu'importe, il meurt bien d'autres fous</l>
+<l>En nos mains.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Mais, enfin, que dirait-on de nous ? </l>
+</sp>
+<sp who="CLEARQUE">
+<speaker>CLEARQUE.</speaker>
+<l>On en dirait, ma foi, ce qu'on en voudrait dire ; </l>
+<l>Mais quoi que l'on en dît, je n'en ferais que rire.</l>
+<stage>L'exempt rentre, Cléarque continue.</stage>
+<l>L'exempt revient ?</l>
+</sp>
+<sp who="CLIMANTE">
+<speaker>CLIMANTE, à l'Exempt.</speaker>
+<l>Eh bien ! L'as-tu fait expirer ?</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Donnez-moi, s'il vous plaît, le temps de respirer :</l>
+<l>J'ai tant ri, que j'en ai presque perdu l'haleine,</l>
+<l>Ayant mis notre fou dans la chambre prochaine,</l>
+<l>Avec son Lazarille et notre Balafré :</l>
+<l>Je les ai laissés seuls ; et puis étant rentré</l>
+<l>Sans être vu, j'ai ouï ce que je vais vous dire.</l>
+<l>Illustre Balafré, dit tout bas Élomire,</l>
+<l>L'occasion est chauve, et qui ne la prend pas,</l>
+<note>Fat : Sot, niais. [L]</note>
+<l>Alors qu'il la rencontre, est mis au rang des fats.</l>
+<l>Monsieur, je n'entends rien à ces belles paroles ;</l>
+<note>Pistoles : Pièce d'or qui n'était point battue au coin de France et qui valait onze livres et quelques sous. [L]</note>
+<l>Mais je sais ce qu'on fait quand on tient des pistoles,</l>
+<note>vers 1749, on lite "le Balafre" et deux vers plus loin "Le Balafré", la graphie est homogénéïsée.</note>
+<l>Lui répond le Balafré ; et si vous en doutiez,</l>
+<l>Il ne tiendrait qu'à vous que vous ne le vissiez.</l>
+<note>Il est probable que Ourse au féminin, le soit pour la rime.</note>
+<l>Élomire à ces mots, lui met en main sa bourse :</l>
+<l>Le Balafré la prend, disant Je suis votre ourse,</l>
+<l>Suivez-moi : cela dit, le drôle fait le saut</l>
+<l>De la fenêtre en bas, l'étage est assez haut :</l>
+<l>Quoiqu'il soit le premier, toutefois Élomire,</l>
+<l>Et c'est ceci, ma foi, qui m'a le plus fait rire,</l>
+<l>Autant pressé de joindre un si grand conducteur,</l>
+<l>Qu'aveuglé de l'excès de sa mortelle peur,</l>
+<l>Le suit si prestement, et par la même route,</l>
+<l>Qu'il tombe sur son guide ; il l'eût crevé, sans doute,</l>
+<l>Si notre balafré, plus dur que n'est le fer,</l>
+<l>Ne l'eût d'un coup de reins fait retourner en l'air.</l>
+<l>Élomire retombe, et soudain se redresse,</l>
+<l>Et gagne le taillis d'une belle vitesse.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Et le bon Lazarille ?</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Il est encore ici.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Notre vengeance est due à ses soins.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>Dieu merci, </l>
+<l>Nous le pouvons payer aux dépens d'Élomire ; </l>
+<l>Car nous avons sa bourse.</l>
+</sp>
+<sp who="ORONTE">
+<speaker>ORONTE.</speaker>
+<l>Il aura donc fait rire</l>
+<l>À ses frais, ceux qu'il a tant de fois outragés.</l>
+</sp>
+<sp who="L'EXEMPT">
+<speaker>L'EXEMPT.</speaker>
+<l>C'est assez : allons boire aux médecins vengés.</l>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

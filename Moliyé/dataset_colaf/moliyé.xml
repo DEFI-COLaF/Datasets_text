@@ -6105,6 +6105,106 @@ Fig. À tout hasard. [L]</note>
     <teiHeader>
       <fileDesc>
         <titleStmt>
+          <title>LES PRISONNIERS DE GUERRE</title>
+          <author>ROUSSEAU, Jean-Jacques</author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+          <date when="2024-05-30"/>
+          <availability>
+            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>LES PRISONNIERS DE GUERRE</title>
+            <author>ROUSSEAU, Jean-Jacques</author>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <group>
+        <text>
+          <body>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Par mon foy, monsir, moi l'y comprendre rien à sti pays l'Ongri ; le fin l'être pon, et les hommes méchants : l'être pas naturel, cela.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Oh ! Moi point quitter fous ; moi fouloir pas être plus libre que mon maître.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Moi point souffrir que fous l'affliche touchours, touchours : fous poire comme moi, fous consolir tout l'apord.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Oh ! Fous l'afre été pris combattant pravement. Les ennemis que fous afre tués l'être encore pli malates que fous.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Pien, pien : fous l'être pientôt tiré te sti prisonnache ; monsir fotre père afre écrit qu'il trafaillir pour faire échange fous.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Pardi ! Moi l'être pien content t'aller tant seulement à celles qu'il fera encore. Mais fous l'être pli amoureux, pisque fous fouloir tant partir.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Là, te cette temoiselle Claire, te cette cholie fille te notre bourgeois ; à qui fous faire tant te petits douceurs. </p>
+<stage>À part.</stage>
+<p xml:lang="fra-deu">Oh ! Chons pien d'antres doutances, mais il faut faire semplant te rien.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">À propos te belles, savre-fous que l'être après-timain que notre prital te bourgeois épouse le fille de monsir Goternitz ?</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Que la mariache de monsir Macker avec mamecelle Sophie, qui était différé chisque à l'arrivée ti frère te la temoicelle, doit se terminer dans teux jours, parce qu'il autre été échangé, pli tôt qu'on n'avre cru, et qu'il arriver aucherdi.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Par mon foi, je l'afre appris toute l'heure en pivant pouteille avec un falet te la maison.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD, à part.</speaker>
+<p xml:lang="fra-deu">Diaple ! L'y être in noufelle te trop, à ce que che fois. </p>
+<stage>Revenant.</stage>
+<p xml:lang="fra-deu">Monsir, che safre point où l'être la poutique te sti noufelle.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<note>St St : Terme indéclinable, dont on se sert pour commander le silence. [F]</note>
+<p xml:lang="fra-deu">St, st, monsir, monsir !</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Oh ! Moi fenir, pisque fous point aller.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Monsir, afec la permission te montame, l'être ain piti l'écriture.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Chistement.</p>
+</sp>
+            <sp who="JACQUARD" xml:lang="fra-deu">
+<speaker>JACQUARD.</speaker>
+<p xml:lang="fra-deu">Tiantre ! Non ; mamecelle Claire m'afre chargé te ne la donne fous qu'en grand secrètement.</p>
+</sp>
+          </body>
+        </text>
+      </group>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
           <title>CENDRILLON, OPÉRA-COMIQUE.</title>
           <author>Louis ANSEAUME (1721-1784)</author>
         </titleStmt>

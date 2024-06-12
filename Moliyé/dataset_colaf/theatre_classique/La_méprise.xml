@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_012</idno>
+<title type="main">LA MÉPRISE, opuscule dramatique.</title>
+<title type="collection">Moliyé</title>
+<author>SACY, Claude-Louis-Michel de (1746-1794)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janes</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target=""/>
+<title>LA MÉPRISE, opuscule dramatique.</title>
+<author>SACY, Claude-Louis-Michel de (1746-1794)</author>
+<publisher>Gallica</publisher>
+<date when="1778"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target=""/>
+<title>LA MÉPRISE, opuscule dramatique.</title>
+<author>SACY, Claude-Louis-Michel de (1746-1794)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="LE_DUC">
+<persName>LE DUC</persName>
+</person>
+<person xml:id="LE_MARQUIS">
+<persName>LE MARQUIS</persName>
+</person>
+<person xml:id="LE_COMTE">
+<persName>LE COMTE</persName>
+</person>
+<person xml:id="LE_BARON">
+<persName>LE BARON</persName>
+</person>
+<person xml:id="FRANÇOIS_Ier">
+<persName>FRANÇOIS Ier</persName>
+</person>
+<person xml:id="UN_INSPECTEUR_DES_BATIMENTS">
+<persName>UN INSPECTEUR DES BATIMENTS</persName>
+</person>
+<person xml:id="BOUCHET">
+<persName>BOUCHET</persName>
+</person>
+<person xml:id="L_ABBÉ_DE_RIMEVILLE">
+<persName>L'ABBÉ DE RIMEVILLE</persName>
+</person>
+<person xml:id="UN_SUISSE">
+<persName>UN SUISSE</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LA MÉPRISE</p></div><div type="liminal"><p>OPUSCULE DRAMATIQUE</p></div></div><div type="liminal"><p>M. DCC LXXVIII. Avec Approbation et Privilège du Roi.</p></div><div type="liminal"><p>De SACY, Claude-Louis-Michel de</p></div>À PARIS, Chez DEMONVILLE. Imprimeur-Librairie de l'Académie Française, rue Saint-Severin, aux Armes de Dombes.<div type="liminal"><p/></div><list><head>PERSONNAGES</head><item>LE DUC.</item><item>LE MARQUIS.</item><item>LE COMTE.</item><item>LE BARON.</item><item>FRANÇOIS Ier.</item><item>UN INSPECTEUR DES BATIMENTS.</item><item>BOUCHET.</item><item>L'ABBÉ DE RIMEVILLE.</item><item>UN SUISSE.</item></list><p>La scène est dans la Galerie de Fontainebleau.</p><note>Édition tirée de Claude-Louis-Michel de Sacy, La Rivalité inutile, opuscule dramatique, dans Opuscules dramatiques, ou Nouveaux amusements de campagne, tome premier, Paris, Chez Demonville, Imprimeur-Libraire de l'Académie française, 1778, p. 165-182. </note></div>
+<div n="1" type="act">
+<head/>
+<div n="" type="scene">
+<head>SCENE PRÊMIERE. Le Duc, Le Marquis, Le Comte, Le Baron, Bouchet, L'Abbé de Rimeville, Un Suisse.</head>
+<stage>On attend le moment où le Roi va passer à son appartement ; les Courtisans parlent ensemble ; Bouchet ouvre la porte et veut entrer ; le Suisse le repousse.</stage>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">Qui être fous, qui fouloir entrer fans façon afec fote roppe noire ?</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Je suis Jean Bouchet, Historiographe d'Aquitaine.</p>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">Ostocraphe entrer pas : sortir fous, pour mon consigne.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<note>BOUCHET, Jean : écrivain français du XVème siècle, né à Poitiers en 1476, mort en 1550, exerçait la profession de procureur. Il composa un grand nombre d'ouvrages singulier en vers et en prose, qui sont encore recherches par les bibliographes. (...) On a aussi de lui des ouvrages historiques ; Annales d'Aquitaine, Antiquités du Poitou, Généalogie des Rois de France, Panégyrique du Chevalier sans reproche. Il est le premier qui ait fait alterner les rimes féminines et masculines. [B]</note>
+<p>Je suis François ; j'aime le Roi ; je suis venu de Poitiers pour le voir ; s'il savait qu'un de ses sujets a fait soixante-dix lieues pour le voir, et qu'il s'en retourne sans l'avoir vu, il en serait fâché.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS, d'un ton railleur.</speaker>
+<p>Oh ! Sans doute ; le Roi serait fâché, désolé, désespéré, s'il ne voyait pas un Historien, unn poète tel que vous ; il y perdrait beaucoup, et me dirait : Amize , diem perdidi. Suisse, ne privez pas le Roi du bonheur de voir Monsieur Bouchet. Laissez-le entrer : place, Messieurs , place à l'Historiographe d'Aquitaine.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Je souffre volontiers cette raillerie ; ce n'est pas acheter fort cher le plaisir de voir le plus vaillant Roi de la terre. Plaisantez, Messieurs, riez, tandis que je jouirai, en voyant François Ier. Au reste, si celui qui aime plus le Roi est le plus digne de l'approcher , j'ai quelque droit à cet honneur, le seul que je vous envie. Quant à vos titres , je les respecte autant que l'ordre social l'exige.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Eh ! Non ; vous avez tort de les respecter, vous avez tort : rien n'est grand que de faire des vers ; un Madrigal est fort au-dessus d'une victoire ; il y a plus de mérite à inventer un nouveau mètre en poésie, qu'à réformer tout l'État ; un Général n'est pas comparable à un poète, ni un Ministre à un Historien.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Cette ironie est déplacée, Monsieur : je n'ai jamais préféré l'Homme de Lettres à l'Homme d'État, à l'Homme de guerre, au laboureur, au commerçant : mais je crois que les Lettres sont le premier de tous les Arts agréables.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>L'ami Bouchet , en qualité d'Historien, se regarde comme le dispensateur de la gloire : il se place modestement sur un tribunal élevé au- dessus de tous les trônes ; de là il juge en dernier ressort les Rois, les Ministres, les Généraux , et Dieu fait comme il les juge.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Le Roi devrait interdire l'entrée de sa Cour à tous ces petits importants Lettrés, qui viennent solliciter des pension , et enlever à de vieux Militaires le prix de leur courage.</p>
+</sp>
+<sp who="L'ABBÉ DE RIMEVILLE">
+<speaker>L'ABBÉ DE RIMEVILLE.</speaker>
+<p>Je me flatte que la proscription ne sera pas générale, et que vous ferez quelques exceptions.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>On vous en doit une sans doute, Monsieur l'Abbé. Le couplet que vous fîtes le jour de mon mariage est délicieux. Vous m'y compariez à César ; cela est peut-être un peu fort : mais du reste, le couplet est divin.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Et les Stances qu'il m'adressa le jour de la naissance de ma fille , où il la comparait à Vénus sortant des eaux.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Et la Chanson qu'il composa le jour que je vous reçus tous trois dans mon Château. Avouez que c'était l'encens le plus délicat.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Et l'Oraison funèbre de mon grand oncle où il n'est question que de moi.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Voilà l'Homme de Lettres qu'il faut protéger : aussi est-il accablé des bienfaits du Roi et de ceux de l'Église ; mais la générosité de François Ier n'est pas épuisée, et nous ne souffrirons pas qu'un Historiographe d'Aquitaine lui enlève le prix de ses travaux.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Eh ! Messieurs , qui vous dit que je suis venu ici pour solliciter des grâces. La faveur de voir le Roi est la seule que je brigue ; la faveur d'en être vu est celle que vous cherchez.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Mais voyez cet excès d'insolence. C'est la protection du Chancelier du Prat qui inspire tant d'audace à ces petits Messieurs. Mais j'espère que bientôt la disgrâce de ce Ministre... Il court de certains bruits... Le Roi parut hier le voir d'un mauvais oeil... S'il peut tomber, j'espère que les Jean Bouchet ne se présenteront plus à la Cour.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS, d'un ton ironique.</speaker>
+<p>Messieurs , je prends la défense de Monsieur Jean Bouchet. Qu'avons-nous fait, vous et moi, qui nous donne le droit de mépriser un tel homme ? Nous avons pris des villes ; nous avons contribué au gain des batailles ; nous avons rétabli l'ordre dans nos Gouvernements ; nous avons gardé la personne du Roi ; et qui n'en eût pas fait autant ? Mais qui de nous, s'il vous plaît aurait écrit les annales d'Aquitaine ?</p>
+</sp>
+<sp who="L'ABBÉ DE RIMEVILLE">
+<speaker>L'ABBÉ DE RIMEVILLE.</speaker>
+<p>Ce n'est pas un ouvrage merveilleux, et je fais plus cas d'un joli couplet que de tout ce fatras historique.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Paix, Messieurs, voilà le Roi !</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS, riant.</speaker>
+<p>A-t-on prévenu le Roi que Monsieur Bouchet venait le visiter ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON, d'un ton ironique.</speaker>
+<p>Oh ! Sans doute. Soyez persuadé que le Roi ne s'occupera que de lui, ne verra que lui.</p>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. François Ier, Un Inspecteur des
+Batiments, Le Duc, Le Marquis, Le Comte, Le Baron, Bouchet, L'Abbé de Rimeville, Plusieurs Gardes.</head>
+<stage>François Ier traverse la galerie, saluant les uns, souriant aux autres ; il s'arrête devant Bouchet, et le regarde d'un oeil-fixe, mais avec bonté.</stage>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier, en montrant Bouchet.</speaker>
+<p>Voilà l'homme qu'il nous faut ; je m'en tiens à celui-là ; il y a bien des choses dans cette tête-là ! Cette main-là tiendra bien le gouvernail.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC, aux Courtisans.</speaker>
+<p>Est-ce le gouvernail de l'État, le timon de l'État qu'il veut dire ?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Écoutons.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier.</speaker>
+<note>DUPRAT, Antoine (1463-1535) : Cardinal, Chancellier de France.</note>
+<p>Cet homme-là vaut mieux que Duprat, beaucoup mieux ; on ne peut pas les comparer. Venez, mon ami, approchez.</p>
+<stage>Il amène Bouchet dans l'embrasure d'une croisée pour le mieux voir au jour ; l'éloignement doit être tel que François Ier soit supposé n'être pas entendu du groupe de courtisans qui restent de l'autre côté du Théâtre.</stage>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Cet homme-là va être ministre, peut-être Chancelier ; et je l'ai persiflé ! Les gens de robe pardonnent rarement.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Eh ! Moi, n'ai-je pas voulu aussi le plaisanter ? Ma foi, le seul parti que j'aie à prendre , c'est de me retirer dans mon Gouvernement, et je suis fort heureux s'il me le laisse.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>C'est un poète, et en louant ses vers, nous pouvons tout réparer.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Pensez -vous qu'il se méprendra à nos ironies ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Eh oui : tous ces poètes ne sont-ils pas aveuglés par leur amour-propre ?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Pour moi, je ne crains rien ; je l'ai défendu envers et contre tous.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier, après avoir longtemps examiné la figure de Bouchet.</speaker>
+<p>Oui : encore une fois, voilà le modèle qu'il faut prendre.</p>
+<stage>À l'Inspecteur des Bâtiments.</stage>
+<p>À quoi songiez-vous de me proposer la figure de Duprat, pour faire un Neptune ? Une petite barbe frisée, des yeux hors de tête. Le Chancelier ne ressemble en rien au Dieu des Eaux. Mais voyez ce front chauve.</p>
+<stage>En montrant Bouchet.</stage>
+<p>Ces rides respectables , cette chevelure négligée, cette barbe longue tombante ; comme le ciseau de Gougeon rendra cela ! Mon ami, je vous retiens pour servir de modèle à un Neptune que je veux placer dans une de mes pièces d'eau. Ayez cette complaisance. Je vous dédommagerai de la perte de votre temps. Qui êtes-vous ? Quel est votre état ?</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Sire, je suis Homme de Lettres. Mon nom est Jean Bouchet.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier.</speaker>
+<p>Quoi ! C'est vous qui avez écrit l'Histoire d'Aquitaine, et dont les Poésies ont si agréablement occupé mes loisirs ? Et quel est l'état de votre fortune ? Avez-vous des pensions ?</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Sire, je n'en ai point, et je n'en ai pas besoin.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier.</speaker>
+<p>Oh ! Je veux que vous en ayez une, je le veux.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Sire, je jouis d'un patrimoine honnête, et si je l'osais , je demanderais pour un de mes compatriotes les bienfaits que Votre Majesté veut répandre sur moi. C'est un jeune artiste né avec les plus heureuses dispositions. Mais son extrême indigence l'a forcé d'abandonner ses pinceaux.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier.</speaker>
+<p>Faites-le venir, je veux qu'il me soit présenté par vous ; il peut compter sur tous les secours dont il aura besoin.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Le Roi lui parle en confidence, il va se venger de nous.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>II faut, ou le perdre dans l'esprit du Roi, ou lui faire des excuses ; il n'y a pas de milieu.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Le dernier parti me paraît le plus sage.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier, à Bouchet.</speaker>
+<p>Mais, dites-moi, quand vous êtes entré, il m'a semblé que ces courtisans vous plaisantaient. Je ne le souffrirais pas. Outrager les Lettres, c'est m'insulter.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET.</speaker>
+<p>Sire, on m'avait refusé la porte : ces Messieurs me l'ont fait ouvrir ; c'est à eux que je dois le bonheur inestimable de voir Votre Majesté ; c'est à eux que je dois l'honneur d'en être aperçu, de lui parler. Sans eux, Sire, je n'aurais pas eu le plaisir de détourner sur un de mes Compatriotes les bienfaits de Votre Majesté. Ah ! Je leur dois une éternelle reconnaissance. J'ose dire même , grand Roi, que vous leur en devez aussi, puisque sans eux Votre Majesté ignorerait, qu'au milieu de ses États un Artiste a besoin de sa bienfaisance pour cultiver un art auquel il est appelé par la nature.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier, à Bouchet.</speaker>
+<p>Vous me charmez, vous m'étonnez, homme de bien ; ne restez pas long-temps à ma Cour, vous y perdriez bientôt cette candeur qui m'enchante.</p>
+<stage>À l'Inspecteur des bâtiments, assez haut pour être entendu des Courtisans.</stage>
+<p>Encore une fois, je m'en tiens à cet homme-là, je n'en veux point d'autre. Mon cher Bouchet trouvez-vous à six heures dans le Parc vers la grande pièce d'eau.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Mon cher Bouchet ! Entendez-vous ?</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Il lui donne un rendez-vous dans le Parc !</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Il n'en faut plus douter : il est Chancelier. Nous sommes perdus.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Voyez-vous ces Gens de Lettres ; tout en déclamant contre la Cour, tout en vantant le mépris des honneurs et des richesses, cela intrigue, cela cabale, cela parvient, cela nous écrase.</p>
+<stage>À l'Abbé de Rimeville. </stage>
+<p>Mais à quoi rêvez-vous.</p>
+</sp>
+<sp who="L'ABBÉ DE RIMEVILLE">
+<speaker>L'ABBÉ DE RIMEVILLE.</speaker>
+<p>À une Ode que je veux adresser au nouveau Chancelier sur son élévation.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Laissez-moi du moins en faire une strophe ; je vous donnerai les idées, et vous les rimerez.</p>
+</sp>
+<sp who="FRANÇOIS Ier">
+<speaker>FRANÇOIS Ier, en s'en allant.</speaker>
+<p>Messieurs, traitez Bouchet avec les égards qu'on doit au mérite. Les hommes, tels que lui, sont très rares, surtout à la Cour,</p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Le Duc, Le Marquis, Le Baron, Le Comte, Bouchet, L'Abbé de Rimeville.</head>
+<stage>Bouchet s'avance vers les Courtisans, qui lui font tous de profondes révérences, et l'abordent d'un air inquiet et respectueux.</stage>
+<sp who="LE DUC">
+<speaker>LE DUC, à Bouchet.</speaker>
+<p>Le Roi vient de vous rendre justice, Monsieur; j'en félicite et François Ier, et l'État, beaucoup plus que vous-même. La place de Ministre est une source de chagrins ; le repos de la Patrie lui coûte le sien : mais le plaisir de faire le bien est une grande indemnité pour une âme telle que la vôtre.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET, à part.</speaker>
+<p>Comment ! Ils s'imaginent que je viens d'être nommé Ministre ! Amusons-nous un moment de leur erreur.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Toute la France s'applaudira de votre élévation. Il y avait longtemps que les honnêtes gens murmuraient contre ce Monsieur Duprat, qui voulait diriger tout, même la guerre. Il ne récompensait point les vrais services : ce n'est pas des miens que je parle, je ne l'ai jamais importuné pour moi ; et lorsqu'il me disait que j'ai beaucoup contribué à la victoire de Marignan, que j'ai enlevé deux convois près de Pavie, que mon Gouvernement est un des mieux tenus de tous, je lui répondais que tous ces services étaient assez payés par l'honneur de les avoir rendus au Roi.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS, bas à Bouchet.</speaker>
+<p>Entre nous, je n'ai pas peu contribué à la disgrâce de Monsieur Duprat. Vous aviez-là un rival bien dangereux ; mais quelques mots que j'ai dits au Roi...</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET, au Marquis.</speaker>
+<p>Vous haïssiez donc bien ce Monsieur Duprat ?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Oh ! De toute mon âme. Et qui ne haïrait pas un homme qui remplissait si mal une place dont vous seul étiez digne ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>C'est un grand bonheur pour la Noblesse, qu'on ait choisi pour Ministre un homme profond dans l'histoire ; du moins on ne verra plus tant de Noblesse véreuse, tant d'hommes nouveaux, dont l'origine est aussi obscure que leur mérite.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS, bas à Bouchet.</speaker>
+<p>Il veut vous plaisanter sur votre naissance, pour moi je ne connais d'autre noblesse que le mérite ; vous savez avec quel zèle je vous ai tantôt défendu contre eux.</p>
+</sp>
+<sp who="L'ABBÉ DE RIMEVILLE">
+<speaker>L'ABBÉ DE RIMEVILLE.</speaker>
+<p>Monseigneur, permettez moi de vous dédier un Recueil de mes OEuvres, précédé d'une Ode sur votre élévation.</p>
+</sp>
+<sp who="BOUCHET">
+<speaker>BOUCHET, à l'Abbé de Rimeville.</speaker>
+<p>Je pardonne à ces Messieurs d'avoir encense un homme qu'ils ont cru Ministre ; ils sont Courtisans, flatter est leur métier. Mais vous, Monsieur, sachez que la flatterie est indigne d'un Homme-de-Lettres ; sa profession est de chercher la vérité, sa gloire est de la dire, et ce n'est qu'aux morts qu'il doit son encens. Et vous, Messieurs, quoiqu'à la Cour la flatterie soit passée en usage, vieux guerriers, hommes estimables dans les combats, ne rougissez-vous point du rôle que vous jouez ici ? J'arrive, vous me croyez pauvre et sans crédit, vous m'insultez ; vous me croyez Ministre , vous me comblez d'éloges. Eh bien, insultez-moi encore ; je ne suis point Ministre, une équivoque a causé votre erreur. Le Roi ne m' a point choisi pour succéder à Monsieur Durat , mais pour servir de modèle à une statue. Adieu.</p>
+</sp>
+<sp who="LE DUC">
+<speaker>LE DUC.</speaker>
+<p>Oh ! Parbleu, voilà une méprise singulière. Hâtons-nous de la mettre en chanson, afin de mettre du moins les rieurs de notre côté.</p>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_023</idno>
+<title type="main">LES VENDANGES, COMÉDIE</title>
+<title type="collection">Moliyé</title>
+<author>DANCOURT, Florent CARTON dit</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janes</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target=""/>
+<title>LES VENDANGES, COMÉDIE</title>
+<author>DANCOURT, Florent CARTON dit</author>
+<publisher>Gallica</publisher>
+<date when="1694"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target=""/>
+<title>LES VENDANGES, COMÉDIE</title>
+<author>DANCOURT, Florent CARTON dit</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-dia">
+<idno type="langue">fra-dia</idno>
+<idno type="script">Latin</idno>
+<name>Early Modern Dialectal French</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="LUCAS">
+<persName>LUCAS</persName>
+</person>
+<person xml:id="MARGOT">
+<persName>MARGOT</persName>
+</person>
+<person xml:id="CLAUDINE">
+<persName>CLAUDINE</persName>
+</person>
+<person xml:id="ÉRASTE">
+<persName>ÉRASTE</persName>
+</person>
+<person xml:id="L_OLIVE">
+<persName>L'OLIVE</persName>
+</person>
+<person xml:id="LE_COLLECTEUR">
+<persName>LE COLLECTEUR</persName>
+</person>
+<person xml:id="TROUPE_de_VENDANGEURS_et_de_VENDANGEUSES">
+<persName>TROUPE de VENDANGEURS et de VENDANGEUSES</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LES VENDANGES</p></div><div type="liminal"><p>COMÉDIE</p></div></div><div type="liminal"><p>M. DC. XCIV. AVEC PRIVILÈGE DU ROI.</p></div><div type="liminal"><p>De Mr DANCOURT</p></div>À PARIS, chez Thomas GUILLLAIN, proche les Augustins, à la descente du Pont-Neuf, à l'image Saint Louis.<div type="liminal"><p>Représentée pour la première fois le 30 septembre 1694 au Théâtre de la rue des Fossés Saint-Germain.</p></div><list><head>ACTEURS</head><item>LUCAS, riche Vigneron.</item><item>MARGOT, femme de Lucas.</item><item>CLAUDINE, nièce de Lucas.</item><item>ÉRASTE, amoureux de Claudine.</item><item>L'OLIVE, Valet d'Éraste.</item><item>LE COLLECTEUR.</item><item>TROUPE de VENDANGEURS et de VENDANGEUSES.</item></list><p>La Scène est à Bourgenville, auprès de Mantes.</p></div>
+<div n="1" type="act">
+<head/>
+<div n="1" type="scene">
+<head>SCÈNE I. Margot, Claudine.</head>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Qu'est-ce donc que tu as, Claudine ?Tu es bien de mauvaise humeur, mon enfant.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Tenez, ma tante, voulez-vous que je vous dise ma pensée ? Je ne suis pas contente de me marier.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Tu n'es pas contente ? Tu es donc folle ! Et tu es la première à qui ça fasse peur.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Je sis la première, si vous voulez : si mon oncle me voulait faire plaisir…</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé bien ?</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<note>Voirement : Qui marque quelque reflexion. Mais voirement, pour dire, Mais à propos, Mais quand j'y pense. Ce mot est bas. [F]</note>
+<p>Il romprait tout net ce mariage-là, ma tante.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<note>Coq : Familièrement, personnage le plus riche ou le plus important d'un lieu. Il est le coq de son village. [L]</note>
+<note>Bailler : Donner, mettre en main. [F]</note>
+<p>Mais voirement, fille, tu perds l'esprit. On te baille un Collecteur, le coq du Village : il nous a rabattu vingt écus de taille pour t'avoir, et tu veux que je l'y manquions de parole.</p>
+<note>Taille : était autrefois un droit seigneurial, et l'on voit dans les coutumes, que plusieurs héritages tenus roturièrement devaient tailles. La plupart des Seigneurs avaient droit de tailles aux quatre cas, ce qu'on appellait aussi droit de loyaux aides. [F]</note>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Oui, fort bien, ma tante, vous me donnez donc pour vingt écus ! Je vous suis bien obligée ! Oh, je vaux davantage, s'il vous plaît et quand mon oncle me devrait tuer, je ne serai jamais la femme du Collecteur.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé ! De quoi t'avises-tu de dire ça si tard ? Tu le voulais bien il n'y a que deux jours, j'allîmes ensemble à Paris acheter les étoffes ; on s'est mis en dépenses.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Hé bien, ma tante, vela justement ce que c'est, puisqu'il faut vous le dire, je n'avais jamais été à Paris ; vous m'y avez menée, je ne veux plus du Collecteur.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Le beau raisonnement ! Elle ne veut plus du Collecteur, parce qu'on l'a menée à Paris : quelle cervelle !</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Oh, je l'ai fort bonne, et je ne prétends pas toute ma vie n'être q'une paysanne, moi.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Comment donc ?</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Je veux devenir Madame, afin que vous le sachiez.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Devenir Madame, miséricorde ! Ah ! Le vilain Paris, on dit bien vrai, que l'air de ce pays-là ne vaut rien pour les jolies filles de Village.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Ma chère tante, laissez-moi devenir Madame, je vous prie.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé, comment feras-tu, malheureuse, pour te faire Madame ?</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>N'êtes-vous point traîtresse ! Je vous le dirai, ma tante ; mais, si vous jasez…</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Je ne jaserai point, dis.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Vous vous souvenez bien de cette grande boutique, dans cette grande rue où vous achetâtes du brocard pour me faire une jupe ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé bien ?</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Hé bien, ma tante, il y avait un beau jeune Monsieur tout doré.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Celui qui nous regardit tant ?</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>C'était moi qu'il regardait, ma tante, ce n'était pas vous ; et tenez, je suis sûre qu'il était plus aise de me voir, que toutes les Madames qu'il a jamais vues.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Mais, il ne nous disait mot, Claudine.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>C'est qu'il n'osait pas à cause de vous ; mais, il nous a fait suivre, et depuis ce matin, il est dans le Village.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Oh, mon enfant, je sommes perdues.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Point, ma tante, il me veut faire Madame, je lui ai déjà parlé, c'est lui qui me l'a dit.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Il se moque de toi.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Point, vous dis-je. Voici mon oncle, ne lui parlez de rien : quand il n'y sera plus, je vous dirai encore autre chose : mais, si vous êtes une causeuse, vous ne saurez plus rien.</p>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Margot, Lucas.</head>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Morgué : Sorte de juron de paysan. [L]</note>
+<p xml:lang="fra-dia">Oh çà, Margot, tu étais avec notre nièce. Morgué, dis donc ? Depuis queuques jours à qui en a-t-elle ? Elle enrageait d'être fille, elle n'avait pas tort ; elle avait la rage d'être mariée, on la marie, et elle enrage encore : il faut qu'elle soit bien enragée, cette créature-là.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Tiens, Lucas, veux-tu franchement que je te dise la chose ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Pargué : Parguenne, parguienne, Jurements patois de l'ancienne comédie, pour pardieu. [L]</note>
+<note>Goutte : Goutte se joint à la négation pour lui donner plus d'énergie, comme pas, point, et anciennement mie (ces mots exprimant une petite quantité en général et voulant dire qu'il n'y a goutte, pas, point, miette de la chose dont il s'agit) [L]</note>
+<p xml:lang="fra-dia">Pargué tu me feras plaisir, car je n'y entends goutte.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Mais ça te fâchera peut-être ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Bon, palsanguenne, est-ce que rien me fâche, dis.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Elle a peur d'être malheureuse en ménage.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Hé pourquoi, malheureuse ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Que fait-on ? Ce Collecteur est peut-être un ivrogne comme toi ; comprends-tu, Lucas ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">N'est-ce que ça ? La vela bien malade !</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Assurément, est-ce que tu crois que je ne veux pas bien du mal à mon père et à me mère, de m'avoir mariée avec un homme qui ne fait que boire ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oh, pour ça, Margot, vous êtes une ingrate ; car je remercie tous les jours notre Curé de m'avoir marié, moi.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Tu crois te moquer, mais…</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Je ne me moque point, vous êtes une fort jolie femme, Margot, mais vous n'êtes pas bonne.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Je ne sis pas bonne, que veux-tu dire ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Stanpendant : ou Stapendant. Stapendant est pour ce temps pendant, ou pendant ce temps-là. [T]</note>
+<p xml:lang="fra-dia">Tu me fais toujours queuque pièce, et stanpendant ça ni fait rien, je t'aime assez comme ça ; je t'aimerais trop si tu étais milleure, et les maris qui aimont trop leurs femmes, ne s'en trouvont pas mieux le plus souvent. Tiens, Margot, ta mauvaise himeur me fait queuque fois plaisir, le diable m'emporte.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<note>Çamon : Oui vraiment, oui ma foi. [L]</note>
+<p>Ç'amon, voirement, tu te soucies bien de quelle humeur je sis, tu ne songes qu'au vin.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Pargué, c'est mon métier de le faire venir, Margot, il faut bien que j'y songe, il est bien raisonnable que j'en boive.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé bien, mais que n'en bois-tu chez toi ? Tu es depuis le matin jusques au soir au cabaret.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oh, pour ça, Margot, ce n'est pas ma faute, c'est la tienne.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>C'est la mienne ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oui, tu n'aimes pas le monde, je connais trop de gens, et tu es fâchée que j'aie des amis, toi, Margot.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Vela de beaux contes, tu as des amis, mais tu paies toujours.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">C'est pour qu'ils m'aimiont davantage. Ils venont me chercher pour entretenir connaissance, moi, je paie pour entretenir l'amitié ; ça n'est-il pas juste ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Fort bien, ne vas-tu pas t'enivrer encore aujourd'hui ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Acoute, Margot, je fons demain vendange, vela le vin nouveau, il faut vider le vieux, j'ons besoin de futailles.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Oui, fort bien, et le cousin Dubois s'enivrera à tes dépens pour entretenir connaissance.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Pinte : Vaisseau qui sert à mesurer les liqueurs, et quelquefois des choses sèches. Une pinte de vin, d'eau, d'huile. La pinte contient deux chopines, ou la moitié d'une quarte. La pinte de Paris est environ la sixiéme partie du congé Romain, et contient le poids de deux livres d'eau commune. [F]</note>
+<p xml:lang="fra-dia">Chut, Margot, ne parle de lui qu'avec respect, c'est le docteur du pays, que le cousin Dubois. Tu me fais songer qu'il m'attend pour une petite affaire, je vais lui payer une pinte.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Quoi ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Paix, Margot, ça me baillera de l'esprit, laisse faire.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Que veux-tu dire.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Bricole : De bricole ou par bricole, loc. adv. Indirectement, d'une manière imprévue. [L]</note>
+<p xml:lang="fra-dia">Il n'y a rien qui baille de l'esprit comme d'abreuver des gens qui en avont, il y a tout plein de parsonnes riches qui s'en trouvont bien ; et quoiqu'ils ne disions de bons mots que par bricole, stanpendant, Margot, nan les admire. Mais que demandons ces gens-ci ; vela des garçons de bonne façon.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>N'as-tu pas envie de les mener boire ?</p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Margot, Lucas, Éraste et l'Olive en Paysans.</head>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>À votre physionomie brillante et enluminée, il n'est pas mal aisé de deviner que vous êtes Monsieur Lucas.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">À votre service de bian bon coeur.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>C'est le bruit de votre réputation, Monsieur Lucas, qui nous attire en ce pays-ci.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Ma réputation, Margot ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT, à part.</speaker>
+<p>Je crois, Dieu me pardonne, que c'est ce Monsieur de Paris qui veut faire Claudine Madame.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Il est vrai pour cela, que la réputation de Monsieur Lucas est extrêmement en réputation, et Monsieur Lucas a la réputation d'avoir toujours le meilleur vin de France, aussi je meurs d'envie d'en boire, ou le diable m'emporte.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Vous ne me sauriez faire plus de plaisir. Margot, que l'on tire du milleur, et qu'on en apporte à ces Messieurs.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT, à part.</speaker>
+<p>La nièce Claudine n'est pas menteuse. Il ne faut rien dire.</p>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE IV. Lucas, Éraste, l'Olive.</head>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Ce n'est pas la seule envie de goûter votre vin, qui nous fait vous rendre visite : nous venons voir comment vous faites, Monsieur Lucas, vous êtes dans le temps des vendanges ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Palsangué : Jurement de paysan, dans l'ancienne comédie. [L]</note>
+<p xml:lang="fra-dia">Palsangué vous ne pouviez mieux venir, je commencerons demain. Mais qui êtes-vous, s'il vous plaît ? Vous avez bonne mine, franchement, et je n'ons point de garçons dans le Village qui en approchions.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Quand nos habillements ne suffiraient pas à nous faire connaître, il serait difficile de cacher notre condition. Pour vous parler franchement, nous sommes nés comme vous l'un et l'autre en bonne et franche paysannerie.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Apprentif : Celui qui est novice dans les arts et les sciences. [F]</note>
+<p xml:lang="fra-dia">Oh bian pargué, je vous en aime mieux. Touchez donc là sans façons, frères ; je vous ai pris d'abord pour des apprentifs Conseillers, qui venont pendant les vacances faire les libartins dans les Villages.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Nous ? Nous sommes de bons enfants qui ne cherchons qu'à nous réjouir. Nous aimons le bon vin préférablement à toutes choses : mais comme nous nous ferions un scrupule d'en boire, si nous n'aidions pas à le faire, c'est pour cela que nous venons vous offrir nos services.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Nous avons la conscience fort délicate, et nous voulons gagner le vin que nous buvons, nous autres.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Margué, je sis comme vous, je me baille de la peine pour le faire venir, mais j'en veux boire à proportion.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Il n'y a rien de plus juste.</p>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Lucas, Éraste, l'Olive, Margot avec un pot et des verres.</head>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oh bian donc, sans sarimonie, vela le lait dont je nous nourrissons : à votre santé.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Grand merci.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Cru : Terroir considéré comme ce qui fait croître les végétaux et leurs produits. Vin du cru, vin fait sur le lieu même où il est bu. [L]</note>
+<p xml:lang="fra-dia">Hé bian, qu'en dites-vous ? Il est de notre cru.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Voilà d'excellent vin, Monsieur Lucas, et il n'y a qu'honneur et plaisir à travailler à vos vignes, à ce que je vois.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Bouter : mettre. [L]</note>
+<note>À même : Loc. adverb. À la chose même. [L]</note>
+<p xml:lang="fra-dia">Oh, palsangué je vous bouterons à même. Mais combien voulez-vous gagner par jour, s'il vous plaît ? Queuque bonne mine que vous ayez, je ne veux pas bailler un sou davantage, je vous en avertis : la mine ne sert de rien en vendange ; et les parsonnes qui ont la meilleure façon, ne sont pas toujours ceux qui faisons le plus de besogne.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Nous ne sommes point intéressés, vous avez de bon vin, nous en boirons avec vous tant que dureront les vendanges, nous ne vous demandons point autre chose.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Palsangué vous êtes de braves gens : touchez-là, c'est une chose faite.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Mais nous gîterons aussi chez vous, Monsieur Lucas ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Je l'entends bien comme ça : la grange est grande, j'ons de la paille fraîche. Les nuits sont un tantinet froides : mais quand j'aurons bien bu, j'aurons la poitrine chaude, c'est le plus principal, n'est-ce pas ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Assurément.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Duire : Dresser, accoûtumer à quelque chose. Il ne se dit plus guère en ce sens qu'au participe. Signifie aussi, être propre à quelqu'un, l'accommoder. [F]</note>
+<p xml:lang="fra-dia">Oh ça, j'ai une petite affaire avec le cousin Dubois, je vais la terminer, et je reviens vous joindre. En attendant vela notre minagère qui a les clefs de la cave ; si le vin vous duit, ne l'épargnez pas, et tâchez de mettre Margot en train, ça me ferait bien rire.</p>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Éraste, l'Olive, Margot.</head>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Si Madame Margot était d'humeur à se mettre en train, il y aurait presse à boire avec elle.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Pas tant que vous croyez, je n'avons pas le vin tendre.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Monsieur Lucas est bienheureux d'être le mari d'une si aimable personne.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Oh voirement, vous le trouveriez bien plus heureux, s'il était le mari de notre nièce Claudine.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>L'Olive.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>On vous reconnaît, Monsieur.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>L'autre jour dans cette grande boutique, vous ne me regardiez presque pas, et Claudine me l'a fort bien su dire.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Oh pour cela, mon coeur et mes regards étaient également partagés entre l'une et l'autre, je vous assure.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Point, point, vous trouvîtes Claudine la plus gentille ; et franchement, vous avez raison. Oh je sis bien changée en ménage : si vous m'aviez vue quand j'étais fille, vous m'auriez pour le moins autant regardée que Claudine, oui.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<note>Regardure : Vieux mot. Action de regarder. Regard, aspect. [T]</note>
+<p>Par ma foi, fille ou femme, je vous trouve de fort belle regardure, moi, et si vous voulez, pendant que mon maître regardera Claudine… Car c'est là mon maître, afin que vous le sachiez, et je ne suis que le valet de chambre de ce paysan-là, au moins.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<note>Gentil : Par extension, joli, mignon, qui plaît, en parlant des personnes (l'idée de bonne race, qui est le sens propre de gentil, ayant amené celle d'agrément, d'élégance) [L]</note>
+<p>Oh vraiment, je vous ai bien reconnus tous deux, mais avec tout ça, il n'est pas si gentil avec sthabit-là, qu'avec sti qu'il avait l'autre jour, et je ne m'étonne pas si nos filles aimont mieux les Monsieux de Paris, que les garçons de Village ; stanpendant comme vous voyez, au pourpoint près, c'est bien la même chose.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Assurément.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Écoutez, vous avez bien fait de ne point venir ici avec un habit de Monsieu, on en eût murmuré ; et quoique Lucas ne soit pas défiant, il ne vous eût jamais pris pour travailler à nos vaignes.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Oh diable ! S'il savait quelle espèce de Vendangeurs nous sommes, nous ne coucherions pas dans la grange, sur ma parole.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Je vous en réponds.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Oh ça, ma chère Margot, puisque vous avez deviné la passion que j'ai pour votre nièce, je veux bien vous en faire confidence, sûr que vous ne refuserez pas de m'y rendre service.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé comment vous rendre service ? Quand on aime les parsonnes, c'est pour le mariage, ou pour autrement. Si c'est pour autrement que vous aimez Claudine, je fis votre servante, ça ne se peut pas : si c'est pour le mariage, il y a encore rien à faire.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Il n'y a rien à faire pour le mariage ? Que voulez-vous dire ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Il faudra l'aimer pour autrement, ce sera votre pis aller, je vois bien cela.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Expliquez-vous donc, Margot, je vous prie.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Est-ce que Claudine ne vous l'a pas dit ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Non vraiment.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé bien tenez, la vela, qu'elle vous le dise.</p>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Margot, Claudine, Éraste, l'Olive.</head>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Vous voyez, aimable Claudine, un homme que votre tante met au désespoir.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Qu'est-ce qu'il y a donc ? Est-ce qu'elle vous gronde ? A-t-elle dit quelque chose à mon oncle ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Elle me veut persuader, Claudine, que vous ne pouvez être à moi.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Hé pourquoi mentez-vous, ma tante ? Vous êtes traîtresse, je m'en étais bien doutée, vraiment.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Qu'est-ce que ça signifie, je suis traîtresse ? N'es-tu pas promise au Collecteur, que veux-tu dire ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Vous êtes promise à quelqu'un, Claudine ?</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Qu'est-ce que cela fait ? Je ne suis pas livrée : vous n'avez qu'à me prendre avant lui, cela finira la dispute.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Oh, pourvu que vous y consentiez, Claudine, je me moque de ses prétentions.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Lucas ne vaudra jamais lui manquer de parole.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Oh, qu'à cela ne tienne, j'ai dans la tête une petite idée pour faire faire à Monsieur Lucas tout ce que nous voudrons.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Oui, laissez-les faire seulement, ma tante, les Messieurs de Paris ne sont pas des bêtes.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Lucas est diablement entêté. Il y a plus de dix ans que je fais ce que je puis pour l'empêcher d'aller au cabaret, je n'en saurais venir à bout. Quand il s'est mis quelque chose en tête, rien ne l'en fait démordre.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Oh vraiment, mon oncle n'aime pas tant le Collecteur que le cabaret, ma tante : il y a bien à dire.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Nous viendrons à bout de lui, vous dis-je, et je prétends aussi par le même moyen lui faire passer le goût du cabaret, ne vous mettez pas en peine.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<note>Cure : Traitement, pansement de quelque maladie ou blessûre. [FC]</note>
+<p>Si vous faites ça, vous ferez une belle cure.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Je le ferai vous dis-je, pourvu que de votre côté vous vouliez faire tout ce que je vous dirai.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Si je le voudrais faire ! J'avalerais de la poison pour corriger Lucas, tant je l'aime.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Dites-moi un peu avant toutes choses, est-il jaloux, Monsieur Lucas ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Jaloux ? Non, je ne lui baille pas sujet de l'être.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Tant pis, vraiment, il faut qu'il le devienne.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Qu'il le devienne ? À Dieu ne plaise, c'est bien assez qu'il soit ivrogne.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>L'un le corrigera de l'autre, laissez-moi faire.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Hé bien, que faut-il que je fasse ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Que vous lui donniez ce la jalousie. Un peu de jalousie guérit bien l'homme de la débauche.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Écoutez un peu ce n'est guère ; et comme les parsonnes de Village sont malaisées à émouvoir, m'est avis qu'il faudrait que la médecine soit forte.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Cela dépendra de vous, vous êtes la maîtresse.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Mais de quoi servira cette jalousie-là, pour m'empêcher d'épouser le Collecteur ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Comment, de quoi elle servira ? Je veux qu'elle vous fasse épouser mon maître.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Je ne comprends point ton dessein.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Je vous le ferai comprendre. Que Margot fasse semblant seulement d'être éperdument amoureuse de vous, je réponds du reste.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Comment semblant ? S'ils allaient s'aimer tout de bon ? Je ne veux pas de ce semblant-là, moi, cherchez quelque autre chose.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Paix, tais-toi, voici le Collecteur.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>J'ai bien affaire de lui, qu'il se promène.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Garde-toi bien de lui faire la mine, il est soupçonneux, il se douterait de quelque chose. Et vous, promenez-vous, à l'entour d'ici, sans faire semblant de nous connaître.</p>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Margot, Claudine, Le Collecteur.</head>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Sarviteur, notre tante, ou peu s'en faut ; car il ne s'en faut plus que de petites sarimonies que je voudrais bien qui fussians faites : notre oncle Lucas veut remettre ça après vendanges, ce n'est morgué pas de mon avis au moins, Claudine. Mais palsangué qu'est-ce donc que vous avez. Est-ce que vous êtes fâchée d'attendre ? Vous n'avez qu'à parler, l'oncle aura beau dire, je serons mariés quand il vous plaira.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Réponds-lui donc ?</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Que voulez-vous que je lui réponde ? Rien ne presse.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Si fait pargué, je suis hâté, moi. J'aurons bien de la joie quand je serons tous deux dans notre ménage.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE, à part.</speaker>
+<p>Nous n'y sommes pas encore.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Au moins, Claudine, il faut songer drès à présent à bien élever les enfants que je ferons, s'il vous plaît.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE, à part.</speaker>
+<p>Quel animal !</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Il faudra bien prendre garde quand elles seront grandes à ne pas les marier contre leur inclination.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Oh pour cela, je crois que c'est un enfer que le mariage, quand on marie des filles malgré elles.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Vraiment, j'ai vu mon père et ma mère se battre comme des enragés, parce qu'ils ne s'aimiont pas quand ils s'épousirent.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE, à Margot.</speaker>
+<p>Je n'y puis plus tenir, ma tante.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT, bas.</speaker>
+<p>Patience.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Tout petit que j'étais, j'ai reçu plus de deux cents coups de poing en ma vie, en voulant les empêcher de s'en bailler.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Parguenne, si par malheur vous êtes fils de votre père, vela une belle espérance pour notre Nièce !</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Oh, je ne nous battrons pas, nous ; car je nous aimerons. Queu plaisir j'aurons quand je serons grand père !</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Vous avez raison, c'est le bel âge.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<note>Chagraine : déformarion pour chagrinée. Qui ressemble à du chagrin, qui est inégal et raboteux comme du chagrin. [T]</note>
+<p>Je ne mourrai jamais content, que je n'ayons marié les enfants de nos petits enfants. Je veux morgué vivre longtemps, moi, Claudine. Mais, qu'avez-vous donc, encore un coup, vous êtes chagraine ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Écoutez, plus on lui dit qu'alle l'est, plus alle la devient ; laissez-la en repos.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<note>Chêmer : Terme populaire, qui se dit particulièrement des enfans qui ont du chagrin, du dégoût, ou quelque mal inconnu qui les fait crier, et les empêche de prendre nourriture et de profiter. [T]</note>
+<p>Mais palsangué, vela qu'est étrange : ce qui est différé n'est pas perdu ; elle m'aura, pourquoi se chême-t-elle. Oh bian morgué je veux la réjouir. Il y a sous l'Orme des hautbois et des musettes qui faisons danser nos Vendangeux, je vas les quérir ; je veux pour la divartir qu'ils veniant danser avec elle. Sans adieu, ma tante.</p>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. Margot, Claudine,</head>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Il a bien fait de s'en aller ; car, je m'en serais allée, moi.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>St, st, le Collecteur n'y est plus, rapprochez.</p>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X. Margot, Claudine, Éraste, l'Olive.</head>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<note>L'original porte "ruste" a lieu de "rustre".</note>
+<p>Que j'ai souffert pendant cet entretien, belle Claudine, et qu'il est cruel de céder un seul moment de votre conversation à un rustre comme celui-là.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>J'en ai pensé mourir de chagrin, cet homme-là m'est insupportable ; et depuis que vous m'avez dit que vous m'aimiez, je le hais encore bien davantage. Que ses discours m'ont ennuyée !</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Pour vous dédommager de cet ennui, allez faire ensemble un tour de jardin, cette conversation ne vous ennuiera pas tant que l'autre.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Mais, quoi ! Seule…</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Mon Maître est sage, et votre Tante ira vous rejoindre.</p>
+</sp>
+</div>
+<div n="11" type="scene">
+<head>SCÈNE XI. Margot, l'Olive.</head>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Oh ça, Madame Margot, il faut ici de la résolution.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>À propos de quoi, de la résolution ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Il faut risquer que Lucas vous frotte pour rendre service à votre Nièce.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>N'est-ce que ça ! Vela bien de quoi ? Je nous sommes déjà frottés plus de cent fois depuis que je sommes en ménage, que faut-il faire ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Paraître bien amoureuse de mon Maître ; mais, il est question d'outrer la chose, au hasard d'être rossée comme je vous dis.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Vous moquez-vous ? C'est moi qui rosse Lucas, vous dis-je.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Je vous en félicite.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<note>Bancelle : Petit banc long et étroit comme celui qu'on met aux tables des petits cabarets.[F]</note>
+<p>La dernière fois qu'il s'enivrit, il s'endormit sur une bancelle : une de mes camarades et moi je lui attachîmes les bras et les jambes, et je le frotîmes comme tous les diables.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Et quand il fut lâché ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Je le détachîmes, quand il dormit ; et le lendemain, je lui fîmes accroire qu'il avait rêvé.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<note>Déssalé(e) : Fig. et familièrement. Un homme dessalé, un homme fin, rusé. [L]</note>
+<p>La peste, quelle déssalée !</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>J'entends Lucas.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Laissez-moi préparer la chose, et allez trouver mon Maître : nous venons de convenir ensemble du personnage qu'il faut que vous fassiez, il vous fera répéter votre rôle.</p>
+</sp>
+</div>
+<div n="12" type="scene">
+<head>SCÈNE XII. L'Olive, Lucas.</head>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS, à demi ivre.</speaker>
+<p xml:lang="fra-dia">La, la, la, la, la.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Monsieur Lucas se porte un peu mieux que quand il nous a quittés.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Ah, ah, Monsieur le Vendangeux, vous vela tout seul, où est votre camarade ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Je ne sais, il est avec votre ménagère Margot, et avec cette Nièce que vous allez marier, je pense. Pour moi qui n'aime que le vin, je laisse-là les femmes.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Pargué je vous aime bian de cette himeur-là. Aussi c'est une méchante engeance que les femmes.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Assurément.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Tenez, morgué, pour avoir seulement rêver de la mienne ; je me réveillis tout moulu de coups. Croiriez-vous cela ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Cela est admirable.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oh, c'est une méchante carogne, que Margot, alle me fait enrager à la maison. Aussi en revanche quand je n'y suis pas, et franchement je n'y sis guères, je m'en baille à coeur joie.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Vous faites fort bien.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Gobarger : Goberger ; Se moquer, ou se réjouir. Il est populaire dans les deux sens. [FC]</note>
+<p xml:lang="fra-dia">Queuque sot se fâcherait contre elle ; mais moi, point du tout, rien ne me fâche, je me gobarge de tout ; sans souci, c'est là ma devise, et vela ma chanson : accoutez.</p>
+<l>Quand Margot fait la diablesse,</l>
+<l>J'ai pour m'en garer un bon secret ;</l>
+<note>S'en courir : pour courir. A été usité dans le XVIIe siècle. Des grammairiens ont condamné cette locution comme fautive c'est à tort ; elle est aussi correcte que s'en aller ou s'enfuir. [L]</note>
+<l>Je m'en cours droit au cabaret,</l>
+<l>Où je n'engendre point de tristesse,</l>
+<l>Et je n'entends point le bruit qu'alle fait.</l>
+<l>Ah morgué l'heureuse magnière !</l>
+<l>N'est-ce pas avoir bon esprit,</l>
+<l>Que de savoir mettre à profit</l>
+<l>Les défauts de sa minagère ?</l>
+<p xml:lang="fra-dia">Hé bien, morgué, qu'en dites-vous ? N'est-ce pas l'entendre ? C'est le cousin Dubois qui a fait la chanson, n'est-elle pas drôle ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Oui vraiment, et cela est admirable. Comme toutes choses ont deux faces !</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Comment donc, deux faces ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>C'est que Margot a un cousin, qui de son côté a fait aussi pour elle une chanson à peu près sur les mêmes rimes que la vôtre.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Margot a un cousin qui a fait une chanson ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Oui, parbleu ; je vais vous la dire.</p>
+<l>Sitôt que Margot querelle,</l>
+<l>Lucas en mari discret,</l>
+<l>Pour éviter noise avec elle,</l>
+<l>S'en court tout droit au cabaret,</l>
+<l>Et le galant vient voir la belle.</l>
+<l>Lucas n'a-t-il pas un beau secret !</l>
+<l>Il changera sa manière,</l>
+<l>S'il m'en croit.</l>
+<l>Une femme peut tout faire</l>
+<l>Pendant que son mari boit.</l>
+<p>Hé bien, Monsieur Lucas, que vous en semble ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Parguenne, je ne connais point ce cousin-là ; mais, sa chanson en a menti. Il ne viant point de galant voir Margot ; alle est diablesse, mais alle ne m'en baille point à garder, je bouterais ma main au feu pour elle.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Vous auriez chaud, monsieur Lucas : ne jurez de rien, elle ne vous croit pas si prêt à revenir : cachons-nous un peu, nous en apprendrons plus que vous n'en voudrez savoir.</p>
+</sp>
+</div>
+<div n="13" type="scene">
+<head>SCÈNE XIII. L'Olive et Lucas cachés, Margot, Éraste.</head>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<note>Loup-cervier : Animal sauvage qui tient du chat et du léopard, qui a de la vitesse, et qui est ennemi du cerf. [F]</note>
+<p>Allez, vous êtes pire qu'un loup-çarvier, de me vouloir faire un tour comme sti-là.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<note>Hem : Interjection. Mot Latin devenu Français, qui sert pour appeler quelqu'un, ou lui faire signe. [F]</note>
+<p>Monsieur Lucas, hem ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Faire pièce à quelqu'un : lui faire une malice, en user mal avec lui. [L]</note>
+<p xml:lang="fra-dia">C'est votre camarade le Vendangeux qui lui a fait pièce, car alle pleure.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Baillez-moi queuque raison du moins. Pourquoi vous marier ? Pourquoi ne m'aimer pas, moi qui vous aime tant ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Comment donc, morguenne, qu'est-ce ça signifie ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>La chanson n'a pas trop menti, Monsieur Lucas.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Il faut voir, baillons-nous patience.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Vous ne me répondez non plus qu'une souche, coeur dur, coeur ingrat, coeur parfide.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<note>Carogne : Terme injurieux, qui se dit entre les femmes de basse condition, pour se reprocher leur mauvaise vie, leurs ordures, leur puanteur. [F]</note>
+<p xml:lang="fra-dia">La carogne ! Où diable a-t-elle pêché ce jargon, et queu temps prend-t-elle pour l'apprendre ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Le temps que vous passez au cabaret, Monsieur Lucas.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Dis-moi donc queuque chose, ou je t'étranglerai, serpent.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Que voulez-vous que je vous dise ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Tatigué comme alle le bourre, vela une maîtresse femme, n'est-il pas vrai ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Oui, vraiment.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Tu es bienheureux que je t'aime autant que je le fais, je t'aurais dévisagé pour ta parfidie.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Alle le relance tout comme moi ; je ne sis pas le seul, Dieu marci. Queu Diablesse ! Le vela morgué bian embarrassé.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Oui vraiment, et vous ne l'êtes guères, vous.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Inhumain que tu es !</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Ma chère Madame Margot, vous avez beau m'aimer, cela n'a rien de solide : il faut que je songe à un établissement, permettez de grâce…</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Madame Margot ! Tu m'appelles Madame, et tu en tutaies d'autres à ma barbe, barbare ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Barbe, barbare ! Où prend-t-elle tout ce qu'alle dit, cette masque-là ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Que voulez-vous que je fasse ? Monsieur Lucas me reçoit chez lui, il me fait boire de son vin, il me donne sa grange, il me retient pour travailler à ses vignes, Madame Margot, je suis honnête homme.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Il a morgué raison, ce n'est pas sa faute.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Tu es honnête homme, et tu ne m'aimes point : cela se peut-il imaginer, tigre ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Tigre ! Je m'en vais morgué me montrer, elle le débaucherait peut-être à la fin, si on la laissait faire.</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE, à part.</speaker>
+<p>Voilà l'affaire en assez bon train ; allons faire venir Claudine pour le dénouement.</p>
+</sp>
+</div>
+<div n="14" type="scene">
+<head>SCÈNE XIV. Lucas, Margot, Éraste.</head>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Ne te marie point, sitôt, petit monstre, ne te marie point ; Lucas mourra, c'est un ivrogne, je nous marierons ensemble.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Margot !</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>C'est un sac à vin qu'il faut qu'il crève.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Holà donc, Margot.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Si je puis une fois l'entarrer, drès le lendemain je serai ra femme.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Je me donne au diable si tu m'entarres, je me porte à marveilles. Me voilà, Margot, regarde-moi donc ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Ah ! C'est vous, notre homme, j'en sis bian aise.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Et j'en suis morgué bien fâché, moi. À qui en as-tu donc ? Je crois, Dieu me pardonne, que tu rêves comme je rêvis l'autre jour, Margot ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Non vraiment, je ne rêve point. Tiens, Lucas, voilà un vaurien à qui j'ai baillé mon coeur, il me l'emporte. Est-ce que tu souffriras ça, mon pauvre Lucas ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Non, morgué, je ne le souffrirai pas, je veux qu'il te le rende.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Oh, non, non, puisque je lui ai baillé, je ne veux point le reprendre.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Mais, je me donne au diable, Margot, tu n'y songes pas. Me vela, te dis-je, je suis ton mari, tu me reconnais, et tu vas toujours le même train.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Il ne m'aime point, Lucas, et je l'aime plus que ma vie.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Mais, tais-toi donc, Margot, il ne faut pas que je sache rian de ça, moi. N'as-tu point de honte ?</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Non, je n'en ai point, je veux que tout le Village le sache, moi. Il me fait pièce ; mais j'aurai la consolation de m'en plaindre.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Mais palsangué, Margot, vela le Collecteur. Es-tu folle ?</p>
+</sp>
+</div>
+<div n="15" type="scene">
+<head>SCÈNE XV. Le Collecteur, Lucas, Margot, Éraste.</head>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Ah palsanguenne vela la bande joyeuse, les Vendangeux et les Vendangeuses venont sur mes talons, j'allons nous divartir comme des Princes.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Promets-moi donc que tu m'aimeras, petit parfide.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Oh, oh, qu'est-ce que c'est donc ça, Monsieur Lucas ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Ce n'est rian, ce n'est rian, ne prenez pas garde à ça. Quand Margot se met des folies dans la tête, il faut que ça ly passe.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Tatigué queux folies !</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Ce ne sont point des folies, je n'aime que lui, il a mon coeur ; et tant que j'aurai queuque espérance de devenir veuve je ne veux point qu'il se marie.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>L'espérance d'être veuve, monsieur Lucas ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Morgué, que voulez-vous que je fasse ? Je sis trop bon ; il faudrait la battre, je sais bien ça.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Comment, morguenne, y a-t-il tant de façons ? C'est ce drôle-là, qu'il faut assommer, baillez-moi une fourche.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE, lui présentant un pistolet.</speaker>
+<p>Doucement, Monsieur le collecteur.</p>
+</sp>
+<sp who="LE COLLECTEUR-LUCAS">
+<speaker>LE COLLECTEUR et LUCAS.</speaker>
+<p>Des pistolets ? Alarme, alarme.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Si vous faites le moindre bruit, je tuerai quelqu'un.</p>
+</sp>
+<sp who="LE COLLECTEUR-LUCAS">
+<speaker>LE COLLECTEUR et LUCAS.</speaker>
+<p>Miséricorde.</p>
+</sp>
+</div>
+<div n="16" type="scene">
+<head>SCÈNE XVI. Lucas, Margot, le Collecteur, l'Olive, Claudine, Éraste.</head>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE, le pistolet à la main.</speaker>
+<p>Le premier qui branle, je fais main basse.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Morgué queux Vendangeux ! La peste !</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Mon pauvre Monsieur Lucas, je suis fâché de cette aventure ! Je suis homme de condition, j'aime votre nièce : mais dans la vue de l'épouser.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>C'est Claudine à qui ils en voulont ?</p>
+</sp>
+<sp who="L'OLIVE">
+<speaker>L'OLIVE.</speaker>
+<p>Paix, taisez-vous, Monsieur le rustre ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Je me suis introduit chez vous sous ce déguisement : votre femme a pris de l'amour pour moi ; vous êtes malheureusement témoin d'une scène un peu fâcheuse, je vous l'avoue : consentez que j'épouse Claudine, et je vous rends le coeur de Margot.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Est-ce que tu y consentiras, Lucas. Me feras-tu ce chagrin-là, mon enfant ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oui palsangué, je te le ferai, en dusses-tu crever, Margot.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Qu'est-ce à dire ? Claudine est à moi, vous me l'avez promise ?</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oh morgué, je vous la dépromets j'aime mieux qu'il épouse ma nièce que ma femme.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Mais Claudine n'est pas de cet avis-là, elle.</p>
+</sp>
+<sp who="CLAUDINE">
+<speaker>CLAUDINE.</speaker>
+<p>Si fait, vraiment, je l'aime bien mieux que vous ; vous voulez vivre trop longtemps, et j'ai peur de m'ennuyer en ménage. </p>
+<stage>On entend une symphonie champêtre.</stage>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Ah, ah ! Que voulons ces gens-ci ? Je sommes bian en train de rire, ma foi.</p>
+</sp>
+<sp who="LE COLLECTEUR">
+<speaker>LE COLLECTEUR.</speaker>
+<p>Ils ne voulont rien, je les avais amenés pour nous divartir : mais je les remmène, et je ne sis pas d'himeur à payer les violons pour faire danser les autres.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Sans emportement, Monsieur le Collecteur, prenez vous-même part à la fête, il ne vous en coûtera rien, je vous assure. Ce sont des gens à moi, Monsieur Lucas, que j'ai amenés de Paris, pour contribuer aux plaisirs de Claudine pendant les vendanges. Ils se sont joints à quelques personnes du Village : voyons ce que produira ce mélange, et que tout le monde prenne part à ma joie.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Acoutez, pour moi je ne me saurais réjouir si Margot ne me rend son coeur, franchement.</p>
+</sp>
+<sp who="MARGOT">
+<speaker>MARGOT.</speaker>
+<p>Je ne te le rendrai point qu'ils ne soient tout à fait mariés, et à condition encore que tu n'iras plus au cabaret.</p>
+</sp>
+<sp who="LUCAS" xml:lang="fra-dia">
+<speaker>LUCAS.</speaker>
+<p xml:lang="fra-dia">Oh, pour stila, je t'en réponds, puisqu'il te faut garder, je ne te quitterai plus, laisse-moi faire.</p>
+</sp>
+</div>
+<div n="17" type="scene">
+<head>DIVERTISSEMENT DES VENDANGEURS.</head>
+<sp who="PREMIÈRE PAYSANNE">
+<speaker>Première Paysanne.</speaker>
+<l>Claudine, quel est ton bonheur !</l>
+<l>Un biau Monsieur plein de flamme</l>
+<l>Te sauve d'être la femme</l>
+<l>D'un magot de Collecteur.</l>
+<l>Claudine, quel est ton bonheur !</l>
+<l>Il est digne, par mon âme,</l>
+<l>Que tu l'aimes de bon coeur,</l>
+<l>Il va te faire Madame.</l>
+<l>Claudine, quel est ton bonheur !</l>
+</sp>
+<sp who="PREMIER PAYSAN">
+<speaker>Premier Paysan.</speaker>
+<l>Ah ! Qu'ils feront un bon ménage !</l>
+<l>Si dans le temps du vin nouviau</l>
+<l>Ils achèveront le mariage,</l>
+<l>Je viderons plus d'un tonniau :</l>
+<l>À leurs noces je ferons rage ;</l>
+<l>Que je boirons de vin sans iau !</l>
+<l>Tope à qui en boutra dans sa piau.</l>
+<l>Ah ! Qu'ils feront un bon ménage !</l>
+<l>Si dans le temps du vin nouviau</l>
+<l>Ils achèveront le mariage.</l>
+<l>Est-il un présage plus biau ?</l>
+<stage>Entrée de Paysans et de Paysannes.</stage>
+</sp>
+<sp who="SECOND PAYSAN">
+<speaker>Second Paysan.</speaker>
+<l>Il n'est que d'être en Vendange</l>
+<l>Pour boire et pour faire l'amour ;</l>
+<l>On boit tout le long du jour,</l>
+<l>Et toute la nuit dans la grange</l>
+<l>La folle Vénus a son tour.</l>
+<l>Il n'est que d'être en Vendange</l>
+<l>Pour boire et pour faire l'amour ;</l>
+</sp>
+<sp who="SECONDE PAYSANNE">
+<speaker>Seconde Paysanne.</speaker>
+<l>Garçons et fillettes,</l>
+<l>Aiguisez vos serpettes.</l>
+<l>Profitez de l'Automne et de votre Printemps,</l>
+<l>Quand vous serez à l'hiver de vos ans,</l>
+<l>Adieu panier, Vendanges seront faites.</l>
+<stage>Entrée des Paysans.</stage>
+</sp>
+<sp who="PREMIER PAYSAN">
+<speaker>Premier Paysan.</speaker>
+<l>Notre Village a ses plaisirs</l>
+<l>Comme une grande Ville.</l>
+</sp>
+<sp who="PREMIÈRE PAYSANNE">
+<speaker>Première Paysanne.</speaker>
+<l>On n'entend point de vains soupirs</l>
+<l>Dans ce séjour tranquille.</l>
+</sp>
+<sp who="SECONDE PAYSANNE">
+<speaker>Seconde Paysanne.</speaker>
+<l>L'Automne au gré de nos désirs</l>
+<l>En Vendange est fertile.</l>
+</sp>
+<sp who="SECOND PAYSAN">
+<speaker>Second Paysan.</speaker>
+<l>Quand le chaud fait peur aux Zéphyrs,</l>
+<l>La cave est notre asile.</l>
+</sp>
+<sp who="ENSEMBLE">
+<speaker>Tous ensemble.</speaker>
+<l>Notre Village a ses plaisirs</l>
+<l>Comme une grande Ville.</l>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>
