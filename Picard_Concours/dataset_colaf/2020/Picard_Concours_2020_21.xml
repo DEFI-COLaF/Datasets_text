@@ -1,0 +1,2256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_21</idno>
+                <title type="main"> Echl'escret d'chol qu'al sorit toudis</title>
+                <title type="collection">Picard Concours</title>
+                <author>Régis, LESIEUX </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Echl'escret d'chol qu'al sorit toudis</title>
+                    <author>Régis, LESIEUX </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="50">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_21_p1.png"/>
+                <fw type="numbering"><lb/>N°21</fw>
+                <head><lb/>Echl'escret d'chol qu’al sorit toudis</head>
+                <div>
+                    <head><lb/>Ene métchène perfoaite</head>
+                    <p><lb/>Chol Lee-Ann al étoait ène jornalisse indépindante: al foaisoait dz
+                        erportages vidéo pou des grandes gazettes<lb/>anméritchaines. Al étoait
+                        à tcheuze d’ho toudis in route à virvourander drochi drolà pis al avoait
+                        in tiot dronne<lb/>qu’a s’in sarvoait pou li prinne edz angues ed vueye
+                        espéciales su ches thinmes qu’al erbéyoait. Quante qu’al<lb/>avoait
+                        défini in erportage, al tchittoait sin tiot dronne dins s’cambe, qu’ale
+                        étoait grande assez pou li sarvir étou<lb/>d’estudio d’montage pou sn
+                        ouvrage. Al avoait lonmé sin dronne conme si qu’il éroait té sin tiot :
+                        Babeagle (Tiot<lb/>aigue).</p>
+                    <p><lb/>Al restoait dins in grand apartmint dins New-York, acq des grandes
+                        plaches pis des muralles gaïantes ed tchèques<lb/>mètes d’heuture.</p>
+                    <p><lb/>Chol Lee-Ann al étoait ène chélibataire ed ches tans d’asteur : ha
+                        vut dire qu’al avoait in « amisse espécial»<lb/>eutermint dit « in amisse
+                        foqu’pou cotronner »; al foaisoait foqu’dévoler ch’dragon acq li ed tans en
+                        tans. Al étoait<lb/>trop indépindante pou li s’erloyer définitivmint à
+                        quéqu’in. Pis al avoait trop tcherre à méner ches gins alintour ed<lb/>li
+                        : rapport à ho, sn amisse espécial i povoait nin durer Lee-Ann pus eq
+                        tchèques hures par moès.</p>
+                    <p><lb/>Ainsin, sin tiot dronne Babeagle, il étoait conme in tiot idéal pou li
+                        : toudis à suire es ordes, toudis brave quante<lb/>qu’al li dmandoait
+                        tchèque cose, toudis sins li s’aloter dins s’cambe in coep qu’al étoait
+                        d’ertour d’erportage.</p>
+                    <p><lb/>Peut qu’manquer, ha foaisoait lonmint qu'chol Lee-Ann qu’ale voloait
+                        avoèr étou ène métchène.</p>
+                    <p><lb/>Rapport qu’esn amisse espécial qu’il étoait point vramint in anmoureux
+                        clachique acq eltchel qu’al porroait<lb/>départir es viye, a s’sintoait
+                        étou fort seu dins sin grand apartmint à ch’mitant d’New-York, acq toutes
+                        ches grandes<lb/>batisses alintour d’es prope grande batisse. Al pinsoait
+                        ainsin qu’al porroait pourfiter d’ène métchène pou li<lb/>camanetter acq
+                        li, tout l’tans, edvant d’d’aller à sn ouvrage obin dré qu’al éroait
+                        ervénu d’esn ouvrage.</p>
+                    <p><lb/>Pis a s’avoait dit qu’in s’acatant ches sarvices d’ène métchène, al
+                        séroait infin débarachèye ed toutes ches taques<lb/>donmechtiques qu’al
+                        avoait nin tcherre à foaire.</p>
+                    <p><lb/>Al o ainsin traché aprins chom meilleuse métchène possibe su
+                        chl’intarnet, ène qu’al saroait tour tout foaire pis<lb/>tout li amoutrer
+                        pis, coèr in coep, trébin proler</p>
+                    <p><lb/>Al povoait mi pus attinne ech jour duqu’a d’alloait arriver. Ch’o 'té
+                        in merdi per matin, ch’jour qu’il o cangé<lb/>s’viye.</p>
+                    <p><lb/>Chom métchène Lee-Ann al étoait egzastémint conme eq chol Lee-Ann
+                        qu’al el voloait : toute tiote, ronde... Al<lb/>povoait point ène buque
+                        contchurincher s’bielltèye à li. Eus noirte coleur al trantchoait acq sin
+                        sorire timide. Os<lb/>éroait dit qu’h’étoait tchécun probabelmint d’ech
+                        Sénégal, ed chon noirte Afrique duqu’o perle francès. A<lb/>s’lonmoait
+                        Alexandrinne. Ches tiotès files in Afrique francofonne il ont sovint des
+                        viux noms francès. Al avoait<lb/>foqu’in oeul. Al esplitchroait pus tard
+                        qu’al avoait vénu au monne ainsin, acq foqu’in oeul.</p>
+                    <p><lb/>Mains pou Lee-Ann, tout il étoait conme a s’l’avoait émaginer. Al
+                        avoait asteur es métchène, qu’a d’alloait povoèr<lb/>ecmander conme in
+                        varlet à mon d'ches gins ergintés.</p>
+                    <fw type="runningTitle">Echl'escret d'chol qu'al sorit toudis.-</fw>
+                    <fw type="numbering">1/15.</fw>
+                </div>
+                <div>
+                    <pb facs="Picard_Concours_2020_21_p2.png"/>
+                    <p><lb/>Chov viye au prison<lb/>Dré ch’preume jour pis parèlmint par après,
+                        chol Lee-Ann al o bouté s’métchène dins s’cambe, duqu’y avoait
+                        in<lb/>cartchuleu erloyé per wifi à in saquant d’canméros qu’i miloaitte
+                        ches 4 plaches d’esn apartmint. Sin cartchuleu il<lb/>étoait méné acq el
+                        voèx d’sin moaite : chol Lee-Ann al butchoait ainsin ralmint su sin
+                        cleftier : al ecmandoait sin<lb/>cartchuleu in li perlant, conme in varlet
+                        ectronnique!</p>
+                    <p><lb/>Chol Lec-Ann al o étou fort habile impétché chl’Alexandrinne ed
+                        vidier s’cambe, hermis quante qu’a<lb/>l’aconduisoait dins s’cusène obin
+                        dins s’plache-à-ban. Echl’Alexandrinne a s’o ainsin ertrouvé tout rade
+                        conme<lb/>au prison, attatchèye per in long combe d’afourage ectrique.</p>
+                    <p><lb/>In puque, drè sn arrivèye, chol Lee-Ann al o perlé à
+                        chl’Alexandrinne conme à in tchien pis al i dmandoait sovint<lb/>des coses
+                        fort simpes, qu’al éroait point ieu bson d’ène métchène pou li zzé
+                        foaire. Par egzimpe, echl’Alexandrinne<lb/>al dévoait li bailler l’hure
+                        qu’il étoait, al dévoait li dire ch’tan qu’i foaisoait à l’cour, al
+                        dévoait li dire ches<lb/>nouvielles per matin pis per soèr, al dévoait
+                        s’otchuper d’sin canepin pi li ramintuver ses rindez-vous
+                        tout<lb/>l’tans......</p>
+                    <p><lb/>Quant qu’al rintroait d’esn ouvrage à vièpe, chol Lee-Ann a d’alloait
+                        direcmint dins c’cambe, al boutoait sin dronne<lb/>dins sin racoin conme à
+                        l’accoutumèye pis a s’débilloait fort habile edvant chl’Alexandrinne,
+                        conme ho, sans ène<lb/>buque d’ahontage. Echl’Alexandrinne al étoait conme
+                        forchèye ed prinne part à ho pis d’raviser chl’espectaque ed<lb/>chol
+                        Lee-Ann mernute, qu’a s’rindoait minme pus compte qu’es métchène qu’a
+                        l’ravisoait. H’est vrai qu’ale étoait<lb/>bellotte, chol Lee-Ann, acq sin
+                        bieu tiot corps ed fanme ed quarante chonq innèyes, acq ses têtes d’ène
+                        bielle talle<lb/>mains qu’i tchéyoaité légèrmint, acq es choune sans
+                        caveu qu’al étoait conme in bieu tiot trait vertical qu’i<lb/>décopoait
+                        ainsin ch’bos d’sin buche.</p>
+                    <p><lb/>A s’boutoait tout l’tan pindant d’longuès mineutes edvant sin long
+                        miloèr in forme ed rectangue, pis a s’tornoait<lb/>dins tous ches sins pou
+                        li vir, si qu’toute qu’il étoait conme i feuloait. Sin tchul il étoait
+                        fort bieu étou pis chor<lb/>roeulette ed sin tchul al desséparoait
+                        parfaitmint in dux sin cantieu.</p>
+                    <p><lb/>Echl’Alexandrinne al ravisoait ho tous ches jours aprins chl’ouvrage ed
+                        Lee-Ann.</p>
+                    <p><lb/>Pis al dévoait par après el vir es pourméner conme ho mernute dins
+                        sn’apartmint. Conme qu’al avoait in aboutage<lb/>à tous ches canméros
+                        grache à ch’cassi d’ech cartchuleu d’choc cambe, al povoait vir chol
+                        Lee-Ann d’aller d’ène<lb/>plache à ène eute, conme ho, sans
+                        rhabillure.</p>
+                    <p><lb/>Quante qu’al voloait foaire el pétcheume, chol Lee-Ann, toudis mernute,
+                        a d’alloait tcherre es métchène dins<lb/>s’cambe, a l’boutoait dins in
+                        racoin d’es cusène, a l’rattatchoait acq ech combe ectrique, pis
+                        chl’Alexandrinne al<lb/>dévoait tracher dins s’tiête pis dire tout heut dz
+                        erchettes. Alfoès al dévoait bailler dz erchettes d’echz
+                        Anmériques,<lb/>alfoès al dévoait bailler dz erchettes d’Urope, coèr
+                        d’eutes foès, h’étoait dz erchettes d’Afrique obin d’Ansie
+                        qu’al<lb/>dévoait bailler. Es métchène al étoait nin fort bielle mains
+                        al avoait ène grande chervelle pis a s’ramintuvoait<lb/>d’toute. H’est pou
+                        ho qu’al savoait sitant d’erchettes.</p>
+                    <p><lb/>Mains al povoait nin foaire chop pétcheume li-minme. Y avoait foqu’chol
+                        Lee-Ann qu’al avoait ch’droèt<lb/>d’marmitonner. Pis aprins, chol Lee-Ann
+                        al matchoait toute seu, dans s’bielle plache, in ravisant ch’posse,
+                        aprins<lb/>avoèr raconduit pis rattatché s’métchène dins s’cambe.
+                        Stapindant, chl’Alexandrinne al voyoait toudis toute,<lb/>grache à ches
+                        canméros erloyèyes à ch’cartchuleu. Ha, chol Lee-Ann, a l’savoait point
+                        !</p>
+                    <p><lb/>A ch’momint d’d’aller à schlofe pis d’s’adover, chol Lee-Ann al
+                        edmandoait toudis à s’métchène d’li lire tchèques<lb/>pages d’in live,
+                        conme ho, tout heut.... Alfoès, al voloait acouter dom meusique, adon al
+                        ecmandoait à chom<lb/>métchène ed bouter ches canchons qu’al avoait
+                        tcherre.</p>
+                    <p><lb/>Pis aprins chol Lee-Ann al disoait à quelle hure qu’al voloait t’ête
+                        dérinvillèye ... pis a s’adovoait infin.</p>
+                    <p><lb/>Echl’Alexandrinne al avoait ch’droèt d’deurmir seulmint in coep qu’sin
+                        moaite qu’a s’avoait incleumi.</p>
+                    <p><lb/>Per matin, aprins qu’al o dérinvillé sin moaite acq ène fort douche
+                        meusique, echl’Alexandrinne al dévoait dire<lb/>tout heut à sin moaite
+                        ch’tan qu’i d’alloait foaire, ches dernes nouvielles pis drochi étou ches
+                        rindez-vous dins sin<lb/>canepin ectronnique. Adon chol Lee-Ann a
+                        s’désatchoait d’sins lit, forchèmint mernute, pis al edmandoait
+                        à<lb/>s’métchène ed foaire découler ch’jus qu’al avoait aperté ech jour
+                        d’avant. Sans vidier choc cambe, chom métchène<lb/>al povoait foaire ho,
+                        coèr in coep, grache à ch’wifi, rapport qu’ech molin à café ectronnique
+                        qu’il étoait erloyé<lb/>étou à ène intique wifi. Pis chol Lee-Ann al
+                        prindoait s’métchène dins chop plache-à-ban duqu’al
+                        l’rattatchoait<lb/>nateurèlmint acq ech combe d’afourage éctrique, pis
+                        h’étoait erparti pou chl’espectaque ed chol Lee-Ann mernute,<lb/>edvant,
+                        pindant pis aprins chod douche. Chob basse-campe al étoait étou dins chop
+                        plache-à-ban pis ha<lb/>l’inbarachoait nin d’foaire poupoute edvant
+                        s’métchène. Echl’Alexandrinne al dévoait indurer tout ho pis al
+                        avoait<lb/>adon foqu’à ch’momint-lo ch’droèt à in tiot pis habile
+                        erlavage. Mains h’étoait chol Lee-Ann qu’a l’erlavoait<lb/>intièrmint.
+                        H’étoait vramint abachant!</p>
+                    <p><lb/>Maugré tout ho, chl’Alexandrinne al avoait tour ène bielle voèx,
+                        agréabe à intinne, sans ène buque d’ersintimint.<lb/>Os éroait dit qu’al
+                        sorioait toudis quante qu’al s’edvisoait.</p>
+                    <fw type="runningTitle">Echl'escret d'chol qu’al sorit toudis.-</fw>
+                    <fw type="numbering">2/15.</fw>
+                </div>
+                <div>
+                    <pb facs="Picard_Concours_2020_21_p3.png"/>
+                    <head><lb/>Echl’agibièltèye ertrouvèye</head>
+                    <p><lb/>Quante eq chol Lee-Ann qu’al dégrioloait sus chl’intarnet dins
+                        s’cambe-qu’hétoait ch’seu momint qu’a s’ sarvoait<lb/>d’ech cleftier d’sin
+                        cartchuleu -, chl’Alexandrinne, edpus ch’racoin d’choc cambe duqu’al
+                        dévoait dmorer, al<lb/>voyoait toute étou.</p>
+                    <p><lb/>Chol Lee-Ann al passoait pis rapassoait sin tan in line à toudis acater
+                        d’eutes rhabillures pis espécialmint des<lb/>queuches. Al acatoait étou
+                        trébin d’maronnes pis d’serre-têtes ed toutes ches coleurs pis d’toutes
+                        ches sortes qu’ale<lb/>épreuvoait forchémint dvant ch’miloèr d’es cambe
+                        dré qu’il arrivoaité. H’étoait coèr in espectaque sans parfin
+                        pou<lb/>chl’Alexandrinne.</p>
+                    <p><lb/>Echl’Alexandrinne al connochoait asteur tanmint bin chan qu’chol Lec-Ann
+                        qu’al avoait ch’pus tcherre qu’al<lb/>povoait adviner li-minme ches coses eq
+                        sin moaite qu’al voloait. Chol Lee-Ann al avoait mi pus à s’sarvir
+                        d’ech<lb/>cleftier d’sin cartchuleu. Sovint, chol Lee-Ann al ecmandoait
+                        minme direcmint à chl’Alexandrinne ches<lb/>conmissions qu’al dévoait
+                        foaire. Adon chom métchène al ecmandoait ho in line pis tout il arrivoait
+                        sans qu’chol<lb/>Lee-Ann qu’al euche mi à hindger ène buque.</p>
+                    <p><lb/>Ech boutique in line qu’al avoait ch’pus tcherre i s’lonmoait «Chol
+                        qu’al sorit toudis », rapport qu’al povoait<lb/>vramint y trouver tout chan
+                        qu’al avoait faim d’acater.</p>
+                    <p><lb/>Echl’Alexandrinne al avoait ermertché qu’ech pus grand plaisi d’Lee-Ann
+                        il étoait d’hutcher chz agints d’ech<lb/>« sarvice pratique », pou leu
+                        berler dsus, minme quante qu’al étoait bénache d’esn acatis. Al avoait
+                        jusse tcherre à<lb/>agonner ches paures impoyès qu’il étoaité ed l’eute
+                        coeuté d’ech téléfonne. Al povoait alfoès lzes décasser pis
+                        lzes<lb/>bourieuder acq des mots sitant durts qu’echz agints i
+                        définissoaité per braire......</p>
+                    <p><lb/>Tout duchmint, chl’Alexandrinne a s’o aperchu qu’al connochoait quasi
+                        toute su sin moaite : asseuré qu’al<lb/>connochoait tous racoins d’sin
+                        corps mains asteur étou tous ches racoins d’esn anme: tout chan qu’al
+                        matchoait,<lb/>cmint qu’a s’arangeoait, chan qu’al acoutoait, chan qu’al
+                        ravisoait, chan qu’al lisoait, duqu’al dégrioloait su<lb/>chl’intarnet,
+                        chan qu’al foaisoait toute choj jornèye.... Chov viye ed sin moaite al
+                        avoait mi pus d’escret : h’étoait<lb/>dévnu conme in grand live
+                        défreumé....</p>
+                    <p><lb/>Piot-à-piot, chl’Alexandrinne al o prind fiate in li-minme pis al o
+                        volu épreuver d’erprinne esn agibieltèye.</p>
+                    <p><lb/>In coep qu’sin moaite qu’al étoait nin lo pis qu’al avoait tchitté
+                        dins s’cambe sin dronne, chl’Alexandrinne al o<lb/>aderché à prinne
+                        controle d’ech cartchuleu Lee-Ann in émitant s’voèx.... Pis par après, al
+                        o étou prind controle<lb/>d’echl’iPad Lee-Ann in s’sarvant d’Siri, qu’h’est
+                        in busintchilage qu’i parmet d’ecmander tn iPhone obin tn’iPad<lb/>acq et
+                        voèx. Conme ech dronne qu’il étoait méné per chl’iPad, ch’Alexandrinne
+                        al o pu démarer chl’osieu às<lb/>éliches... Il étoait tiot adon il
+                        étoait possibe pou li d’viroler sans russe in d’dins chl’apartémint.</p>
+                    <p><lb/>A chl’ecminchmint, chl’Alexandrinne al i o cmandé d’d’aller dins tous
+                        ches plaches d’echl’apertémint. Al o<lb/>esploré in détal tous ches
+                        racoins, acq choc canméro ahotchèye su ch’dronne......</p>
+                    <p><lb/>Pis par après, al o overt ène ed ches ferniètes qu’al étoait étou
+                        cmandèye per ch’cartchuleu tout unimint in li<lb/>dmandant acq es
+                        voèx.<lb/>Pis lo, pou ch’preume coep dpus in saquant d’smainnes, al o pu
+                        vidier ch’batimint duqu’al étoait au prison pis<lb/>viroler tchèques
+                        mineutes pa-dsus li grâche à ch’dronne.<lb/>Maugré qu’al étoait toudis
+                        erloyèye acq ech combe d’afourage ectrique, echl’Alexandrinne a s’o ainsin
+                        dit qu’al<lb/>povoait asteur foaire quasi tout chan qu’al voloait, sitant
+                        qu’a d’alloait point long d’echl’apartmint Lee-Ann acq<lb/>ech dronne, pou
+                        li nin perde echl’erloyage acq ches cmandes wifi d’echl’iPad.</p>
+                    <fw type="runningTitle">Echl'escret d'chol qu’al sorit toudis.-</fw>
+                    <fw type="numbering">3/15.</fw>
+                </div>
+                <div>
+                    <pb facs="Picard_Concours_2020_21_p4.png"/>
+                    <head><lb/>Echl’ervanque</head>
+                    <p><lb/>Quant qu’al o rintré à sn apartémint à vièpe, ech jour-lo, chol
+                        Lee-Ann al o ieu conme in drole d’ersintimint : toute<lb/>il étoait conme
+                        à l’accoutumèye mains al trouvoait qu’tchèque cose il avoait cangé.</p>
+                    <p><lb/>Al o déclatché à rire quante qu’al o vu qu’ech patchet qu’al avoait
+                        erchu d’ « Chol qu’al sorit toudis » y avoait dux<lb/>jours d’ho qu’il
+                        avoait té erlivré coèr in coep. In constinote al avoait' té totalmint
+                        bénache ed chan qu’al avoait<lb/>acaté mains conme à sn abitude, al
+                        avoait hutché ch’ « sarvice pratique » pou li s’foaire plaisi pis al avoait
+                        berlé<lb/>tanmint fort conter echl’agint in line ech jour d’edvant
+                        qu’echl’agint i nn’avoait tcheu in favélote : h’étoait sin<lb/>collègue
+                        agint qu’il avoait dévu définir echl’hutchage téléfonnique. H’étoait
+                        vramint in esploè pou chol Lee-Ann<lb/>d’avoèr aderché à décasser
+                        tchécun ainsin!</p>
+                    <p><lb/>Adon chol Lee-Ann al o erprind s’routène : débillage dins s’cambe,
+                        foaisage ed chop pétcheume, matchage dins<lb/>chob bielle plache, ravisage
+                        d’ech posse, acoutage ed canchons dins sin lit pis incleumage....</p>
+                    <p><lb/>Stapindant, à ch’mitant d’ech soèr, aladon qu’sin moaite qu’al
+                        deurmoait fort parfondémint, chl’Alexandrinne al<lb/>o cmandé à chl’iPad,
+                        tour acq es voèx fort soriante, ed démarrer sin dronne in mode escret ; ha
+                        vut dire qu’echz<lb/>éliches qu’i tornoaitté sans foaire trébin
+                        d’carpint. Os éroait dit qu’des mouques qu’il étoaité in route à
+                        brouire,<lb/>werre puque qu’ho.....</p>
+                    <p><lb/>Acq esn agrape ahotchèye d’sus li, ch’Babeagle il o sui chz ordes
+                        d’echl’Alexandrinne pi il o overt echl’huche ed<lb/>choc cambe pi il o
+                        d’allé dins choc cusène. Su in d’ches meubes ed choc cusène, y avoait
+                        quatte grands coutieux<lb/>étampis dins in bieu morchieu d’boès tallé pou
+                        zz erténir.</p>
+                    <p><lb/>Ech « Babeagle » il o prind in coutieu grâche à sn agrape pis il o
+                        ervirolé dins ch’sins d’choc cambe.</p>
+                    <p><lb/>In coep qu’il étoait dins ch’cambe, i s’o bouté jusse pa-dsus chol
+                        Lee-Ann tout lonque ech plafond, à quatte mète<lb/>ed chop plainne. Chol
+                        Lee-Ann al étoait in route à deurmir su sin dos.</p>
+                    <p><lb/>Echl’Alexandrinne al o adon alleumé ch’quinquet d’ech cambe, qu’il
+                        étoait étou erloyé per ch’wifi, pou li prinne<lb/>part à chl’espectaque
+                        qu’i d’alloait vénir.</p>
+                    <p><lb/>In coep qu’il o ieu intindu chl’orde baillé per chov voèx tour
+                        soriante d’echl’Alexandrinne, ch’Babeagle il o tchitté<lb/>tcherre ech
+                        preume grand coutieu qu’il o attierri à ch’mitant d’ech buche Lee-Ann : il
+                        o trantché choj jonne fanme<lb/>d’in coep pis ch’sanque il o cminché à
+                        djiler......</p>
+                    <p><lb/>Chol Lee-Ann a s’o dérinvillé tout rade, conme butchèye per ène
+                        angouche point croyabe à sin buche. A l’o toutché<lb/>pou li
+                        s’aperchuvoèr qu’al pardoait trébin d’sanque pis a s’o éboulé à berler
+                        tanmint qu’al avoait mau.</p>
+                    <p><lb/>A l’adon qu’al coichoait pis qu’al berloait, chl’ Alexandrinne al o
+                        cmandé à ch' Babeagle d’ertorner dins choc<lb/>cusène pou li erprinne in
+                        eute coutieu. Ha li o prind seulmint tchèques ségondes.</p>
+                    <p><lb/>Chol Lec-Ann al o torné s’tiête vers chl’Alexandrinne in coep qu’al o
+                        ieu comprind qu’h’étoait li qu’al avoait<lb/>ahansé tout ho. « Décesse
+                        tout ho, qu’al tchémandoait chol Lee-Ann! Pourquoé qu’té m’foais ho?
+                        Ecmint<lb/>qu’h’est-ti possibe? Ti, Alexandrinne ! » Pis lo, a s’o éboulé
+                        à cratcher du sanque.....</p>
+                    <p><lb/>Asteur ech Babeagle il avoait ervénu pis i s’étoait ertrouvé coèr in
+                        coep pa-dsus chol Lee-Ann. Pis il o tchitté<lb/>tcherre ech deusse coutieu
+                        qu’il o toutché ch’coep-chi chog gargatte Lee-Ann. Conme ho, al povoait mi
+                        pus berler.</p>
+                    <p><lb/>In troisiinme coep, chl’Alexandrinne al o cmandé à ch' Babeagle
+                        d’ertomer dins choc cusène pou li erprinne in<lb/>eute coutieu.</p>
+                    <p><lb/>Chol Lec-Ann al o pu vir duqu’ech troèsiinme coutieu qu’il d’alloait
+                        l’butcher : s’bouque. Minme si qu’al povoait<lb/>fort diffichilmint raspirer
+                        acq eus gargatte trantchèye, chol Lee-Ann al wardoait coèr es bouque
+                        grande overte<lb/>conme pou li épreuver d’prinne ed l’air.</p>
+                    <p><lb/>Pis h’est lo qu’ech derne coutieu qu’il o tcheu, in li s’infitchiant
+                        dins s’bouque pis in l’escofiant tout rade.<lb/>Echz ziux Lee-Ann il ont
+                        dmoré tout grand défreumés maugré qu’al étoait asteur morte.</p>
+                    <fw type="runningTitle"><lb/>Echl'escret d'chol qu’al sorit toudis.-</fw>
+                    <fw type="numbering"><lb/>4/15.</fw>
+                </div>
+                <div>
+                    <pb facs="Picard_Concours_2020_21_p5.png"/>
+                    <head><lb/>Echl’intchète per ches cadoreux</head>
+                    <p><lb/>Ene collègue-fanme ed Lec-Ann, chol Lindsay -qu’al étoait étou sn
+                        amisse ed leu jonne tan -al avoait rindez¬<lb/>vous acq li ech jour aprins
+                        qu’al avoait défuncté.</p>
+                    <p><lb/>Al povoait nin croère eq chol Lec-Anne qu’al séroait à l’artage ech
+                        jour-lo. H’étoait in erportage fort important pis<lb/>al s’avoait ingagé
+                        à arriver timpe au matin.</p>
+                    <p><lb/>A l’o hutché su sin fin portabe quasi dix coeps : point ène buque ed
+                        rinflique! Rin du toute!</p>
+                    <p><lb/>A tcheuze qu’al éroait djo dévu arriver y o dux hures d’ho,
+                        s’collègue a s’o rindu à sn apartmint pou li vir chan<lb/>qu’i
+                        s’passoait.</p>
+                    <p><lb/>Al o sonné pis butché à chl’huche almins vingt coeps : toudis point
+                        ène buque ed rinflique !!</p>
+                    <p><lb/>Al o adon d’allé à ch’conchierge pou li dmander d’raviser si qu’toute
+                        i d’alloait bin.</p>
+                    <p><lb/>Quante qu’il o ieu overt echl’huche, y avoait in chilinche total dins
+                        chl’apartémint.</p>
+                    <p><lb/>Ech conchierge pis chol Lindsay i leus ont acminé direcmint vers chob
+                        cambe.</p>
+                    <p><lb/>Echl’huche al étoait overte.</p>
+                    <p><lb/>Pis lo il ont démuché chl’espectaque ed queuchmar : su ch’lit,
+                        ch’corps mernut ed Lec-Ann, trécopé per troès<lb/>grands coutieux
+                        d’cusène dins ène bache ed sanque gaïante.</p>
+                    <p><lb/>Chol Linsay al o erconnu chl’Alexandrinne, qu’chol Lee-Ann qu’al
+                        perloait trébin d’li. Os éroait ieu doutance ed<lb/>rin!</p>
+                    <p><lb/>Chol Lindsay al o hutché ches cadoreux tout rade : il ont arrivé
+                        tchinsse mineutes pus tard!</p>
+                    <p><lb/>Ech conmichoair princhipa i l’o dmandé à chz agints d’chop poliche
+                        chiintifique ed raviser dins tous ches racoins<lb/>d’echl’apartmint si qu’y
+                        éroait des sinnes obin des traches minmes fort tiotes ed perzinche umainne
+                        qu’i séroité<lb/>point ceusses ed chol Lee-Ann. Rin du toute !</p>
+                    <p><lb/>Ech conmichoair il o adon ermertché qu’ech cassi d’ech cartchuleu qu’il
+                        étoait coèr overt.</p>
+                    <p><lb/>Il o ravisé in molé drochi drolà su ch’burieu d’ech cartchuleu pis i
+                        l’o comprind grache à chz iconnes ed ches<lb/>busintchilages qu’i voyoait
+                        qu’chol Lee-Ann qu’al dévoait inrégistrer chan qu’ches canméros qu’i
+                        filmoaité. In<lb/>constinote, chol Lee-Ann al wardoait toudis ches dux
+                        dernes jornèyes filmèyes dins chor raminvrance d’ech<lb/>cartchuleu.
+                        Pitète qu’i d’alloait ainsin comprinne chan qu’i s’avoait passé.</p>
+                    <p><lb/>I li o follu tchèques mineutes pou li comprinne eq choy voèx qu’al
+                        avoait cmandé à ch'dronne ed tchitter tcherre<lb/>ches coutieux su chol
+                        Lee-Ann qu’al vénoait d’echl’Alexandrinne.</p>
+                    <p><lb/>Mains lo, ha avoait n’tiête en tcheuye!</p>
+                    <p><lb/>Echl’Alexandrinne, h’étoait nin in gin conme ti pis mi, mains h’étoait
+                        in simpe apparel conme chos sarvante-à¬<lb/>voèx « EchoSpoto qu’ène
+                        boutique in line contchurinte ed « Chol qu’al sorit toudis » qu’i vind.
+                        Eutermint dit, il<lb/>étoait d’edvise d’in varlet ectronnique obin d’ène
+                        métchène ectronnique eq sin vrai nom dins ch’conmerche<lb/>qu’h’est «
+                        Alexa » pis qu’o cmande normalmint in disant tout heut « Alexa, foais
+                        tchèque cose.....».</p>
+                    <p><lb/>Peut qu’manquer, « Alexandrinne » h'étoait ch’surpitchet qu'chol
+                        Lec-Ann qu’al dévoait avoèr baillé à<lb/>s’métchène ectronnique.</p>
+                    <p><lb/>Mains tout ho ha esplitchoait point pourquoé qu'chom métchène
+                        ectronnique-eq ch’est foqu’in apparel sans viye<lb/>-qu’al avoait prind
+                        ch’controle d’ech dronne pou li escofier chol Lee-Ann. In constinote, in
+                        sarvant-à-voèx conme<lb/>« Echo Spot », h’est foqu’ène métchène
+                        ectronnique qu’al foait normalmint foqu’suire echz ordes qu’al
+                        erchut<lb/>d’gins conme ti pis mi. Pis h’est toute!</p>
+                    <p><lb/>Pou ch’conmichoair, y avoait tchèque cose qu’il étoait fort drole dins
+                        tout ho.</p>
+                    <p><lb/>Il o ainsin continwer sz ertrachages pi il o ravisé dins chz
+                        inrégistrémints vidéo coèr I jour pus timpe in trachant<lb/>dins
+                        ch’tubin d’ech burieu d’ech cartchuleu duqu’echz inrégistrémints dpus ed
+                        dux jours qu’il étoaité. Pis lo il o<lb/>tcheu su chz écanges
+                        téléfonniques inter chol Lee-Ann pis chl’agint d’ech sarvice pratique
+                        qu’al avoait sitant<lb/>durtémint burieudé.</p>
+                    <p><lb/>I s’o dit qu’i dévoait y avoèr in loyin inter tout ho.</p>
+                    <p><lb/>Echz agints d’chop poliche chiintifique il ont ainsin déchidé
+                        d’intchéter ch’minme jour tchèques hures pus tard<lb/>dins ch’sarvice
+                        pratique ed « Chol qu’al sorit toudis » dins Seattle pis il ont ertrouvé
+                        chl’agint qu’il avoait perlé<lb/>acq chol Lee-Ann tchèques jours pus tôt.
+                        I s’lonmoait «John ».</p>
+                    <p><lb/>Dré qu’il o vu ches cadoreux d’aller vers sin burieu, ch’John il o
+                        panitché pis il o épreuvé d’s’infwir rapport qu’il<lb/>avoait comprind
+                        qu’i d’alloaité fort habile foaire ech loyin inter li pis chl’escofiage ed
+                        chol Lee-Ann. Mains ches<lb/>cadoreux il ont définit per l’estoper pis per
+                        l’bouter au prison.</p>
+                    <fw type="runningTitle"><lb/>Echl'escret d'chol qu’al sorit toudis.-</fw>
+                    <fw type="numbering"><lb/>5/15.</fw>
+                    <pb facs="Picard_Concours_2020_21_p6.png"/>
+                    <p><lb/>Tchèques jours pus timpe, ech John i s’avoait in consture sinti tanmint
+                        abaché par chol Lee-Ann quante qu’a<lb/>l’avoait décassé per téléfonne
+                        qu’il avoait déchidé d’el mourdrir in prindant contrôle ed chom
+                        métchène ectrique<lb/>dins choc cambe à mon d’chol Lec-Ann pis par après
+                        in cmandant à sin dronne ed l’escofier acq troès coutieux.</p>
+                    <fw type="runningTitle">Echl'escret d'chol qu'al sortt toudis.-</fw>
+                    <fw type="numbering">6/15.</fw>
+                </div>
+                <div type="liminal">
+                    <pb facs="Picard_Concours_2020_21_p7.png"/>
+                    <head><lb/>Pour nn’in définir.</head>
+                    <p><lb/>D’après intinne dire, edpus tchèque tan, ch’boutique in line « Chol
+                        qu’al sorit toudis » i milroait ses pratiques<lb/>touteoute ches canméros
+                        d’ches sarvants-à-voèx ectronniques qu’i leu vind, pou li connoaite chan
+                        qu’il ont tcherre.<lb/>Adon i leu pourpose des coses à acater quante qu’i
+                        dégrioltés su sin wèpe in leu amoutrant des réclames chiblèyes<lb/>su
+                        ches minmes coses qu’il o erpéré in lzes milant.</p>
+                    <p><lb/>Chom morale ed nous histoère drochi h’est qu' « Chol qu’al sorit toudis
+                        », acq esn affoaire ed conmerche in line<lb/>qu’i décesse nin d’forchir pis
+                        étou asteur acq ches métchènes ectronniques qu’al nous vind, al o prind
+                        ch’contrôle<lb/>ed nous viye pis al put nous berziller complètmint.</p>
+                    <p><lb/>Acq des sarvants-à-voèx ainsin, os ont totalmint pardu nous viye
+                        privèye rapport eq « Chol qu’al sorit toudis »<lb/>qu’al resse asteur in
+                        d’dins nous moaison pis qu’al nous mile ed timpe au matin dusqu’à tard à
+                        vièpe.</p>
+                    <p><lb/>Il est tan d’nous étampir pis d’erprinne ech contrôle ed nous
+                        viye.</p>
+                    <p><lb/>Boutons à l’cour tout chan qu’i put suire chan qu’o foait, chan qu’o
+                        dit, chan qu’oz o tcherre, cmint qu’ovit........</p>
+                    <p><lb/>Erdévnons libes, conme avant !</p>
+                    <p><lb/>Ermerque: chi-dsous in egzampe ed sarvante-à-voèx vinduye per Amazon,
+                        ch’contchurint d’ech boutique in line<lb/>« Chol qu’al sorit toudis » qu’il
+                        est in boutique in line eq j’o émaginé. Ej m’o sarvi d’ech modèle « Echo
+                        Spot»,<lb/>conme protagonisse princhipa d’emn histoère « Echl’escret d’chol
+                        qu’al rit toudis ». Tout ersanage acq des<lb/>personnages qu’il ont egzisté
+                        obin qu’il egzisté il est parfaitmint vrai.</p>
+                    <figure>
+                        <p><lb/>echospot<lb/>Un appareil Echo églégant, compact et doté d'un
+                            écran</p>
+                    </figure>
+                    <figure/>
+                    <fw type="runningTitle"><lb/>Echl'escret d'chol qu'al sorit toudis.-</fw>
+                    <fw type="numbering"><lb/>7/15.</fw>
+                </div>
+                <div type="liminal">
+                    <pb facs="Picard_Concours_2020_21_p8.png"/>
+                    <head><lb/>Vogabulaire-<foreign xml:lang="met-fr">vocabulaire</foreign></head>
+                    <table>
+                        <row>
+                            <cell>Picard</cell>
+                            <cell>
+                                <foreign xml:lang="met-fr"> Français</foreign></cell>
+                        </row>
+                        <row>
+                            <cell> « Chol qu’al sorit</cell>
+                            <cell> toudis »<foreign xml:lang="met-fr">«Celle qui sourt toujours
+                                    »</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>A ch’mitant</cell>
+                            <cell><foreign xml:lang="met-fr">Au mlieu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>A l’adon qu</cell>
+                            <cell><foreign xml:lang="met-fr">Alors que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>A l’artage</cell>
+                            <cell><foreign xml:lang="met-fr">En retard</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>A l’cour</cell>
+                            <cell><foreign xml:lang="met-fr">Dehors</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>A tcheuze d’</cell>
+                            <cell><foreign xml:lang="met-fr">A cause de</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>A tcheuze qu</cell>
+                            <cell><foreign xml:lang="met-fr">Du fait que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Abachant</cell>
+                            <cell><foreign xml:lang="met-fr">Humiliant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Abaché</cell>
+                            <cell><foreign xml:lang="met-fr">Humilié</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Abitude</cell>
+                            <cell><foreign xml:lang="met-fr">Habitude</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Aboutage</cell>
+                            <cell><foreign xml:lang="met-fr">Accès</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Acatant</cell>
+                            <cell> </cell>
+                        </row>
+                        <row>
+                            <cell>Acaté </cell>
+                            <cell><foreign xml:lang="met-fr">Acheté</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Acatis </cell>
+                            <cell><foreign xml:lang="met-fr">Achats</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Acatoait</cell>
+                            <cell><foreign xml:lang="met-fr">Achetait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Aconduisoait</cell>
+                            <cell><foreign xml:lang="met-fr">Accompagnait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Acoutage</cell>
+                            <cell><foreign xml:lang="met-fr">Ecoute</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>acouter</cell>
+                            <cell><foreign xml:lang="met-fr">Ecouter</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>acoutoait</cell>
+                            <cell><foreign xml:lang="met-fr">Ecoutait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>acq</cell>
+                            <cell><foreign xml:lang="met-fr">Avec</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>aderché</cell>
+                            <cell><foreign xml:lang="met-fr">Réussi</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>adover</cell>
+                            <cell><foreign xml:lang="met-fr">Endormer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>adovoait</cell>
+                            <cell><foreign xml:lang="met-fr">Endormait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Adviner</cell>
+                            <cell><foreign xml:lang="met-fr">Devenir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Agibièltèye</cell>
+                            <cell><foreign xml:lang="met-fr">Liberté</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>>Agint</cell>
+                            <cell><foreign xml:lang="met-fr">Agent</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Agonner</cell>
+                            <cell><foreign xml:lang="met-fr">Faire souffir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Agrape</cell>
+                            <cell><foreign xml:lang="met-fr">Croche</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ahansé</cell>
+                            <cell><foreign xml:lang="met-fr">Organisé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ahontage</cell>
+                            <cell><foreign xml:lang="met-fr">Honte</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ahotchèye</cell>
+                            <cell><foreign xml:lang="met-fr">Accrochée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Aladon qu</cell>
+                            <cell><foreign xml:lang="met-fr">Alors que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>alleumé ch’quinquet</cell>
+                            <cell><foreign xml:lang="met-fr">Allumé la lumière</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Almins</cell>
+                            <cell><foreign xml:lang="met-fr">Au moins</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>aloter</cell>
+                            <cell><foreign xml:lang="met-fr">Bouger, secouer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Amisse</cell>
+                            <cell><foreign xml:lang="met-fr">Ami(e)</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Amisse foqu’pou cotronner</cell>
+                            <cell><foreign xml:lang="met-fr">Fuck-friend</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Amoutrer</cell>
+                            <cell><foreign xml:lang="met-fr">Montrer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Angouche</cell>
+                            <cell><foreign xml:lang="met-fr">Douleur</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Angues</cell>
+                            <cell><foreign xml:lang="met-fr">Angles</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Anme</cell>
+                            <cell><foreign xml:lang="met-fr">Ame</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Anméritchaine</cell>
+                            <cell><foreign xml:lang="met-fr">Américaine</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Anmoureux</cell>
+                            <cell><foreign xml:lang="met-fr">Amoureux</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>apartémint</cell>
+                            <cell><foreign xml:lang="met-fr">Appartement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>apartmint</cell>
+                            <cell><foreign xml:lang="met-fr">Appartement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>aperchu</cell>
+                            <cell><foreign xml:lang="met-fr">Aperçu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>aperchuvoèr</cell>
+                            <cell><foreign xml:lang="met-fr">Apercevoir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>aperté</cell>
+                            <cell><foreign xml:lang="met-fr">Préparé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Apparel</cell>
+                            <cell><foreign xml:lang="met-fr">Appareil</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>arangeoait</cell>
+                            <cell><foreign xml:lang="met-fr">Préparait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Arrivèye</cell>
+                            <cell><foreign xml:lang="met-fr">Arrivée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Arrivoait</cell>
+                            <cell><foreign xml:lang="met-fr">Arrivait</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle">Echl'escret d’chol qu’al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>8/15.</fw>
+                    <pb facs="Picard_Concours_2020_21_p9.png"/>
+                    <table>
+                        <row>
+                            <cell><lb/>Arrivoaité</cell>
+                            <cell><foreign xml:lang="met-fr">Arrivaient</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Asseuré qu</cell>
+                            <cell><foreign xml:lang="met-fr">Il est certain que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Attachèye</cell>
+                            <cell><foreign xml:lang="met-fr">Attachée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Attinne</cell>
+                            <cell><foreign xml:lang="met-fr">Attendre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Avoait 'té</cell>
+                            <cell><foreign xml:lang="met-fr">Avait été</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>baillé</cell>
+                            <cell><foreign xml:lang="met-fr">Donné</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Bailler</cell>
+                            <cell><foreign xml:lang="met-fr">Donner</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Basse-cambe</cell>
+                            <cell><foreign xml:lang="met-fr">Toilettes</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Bellotte</cell>
+                            <cell><foreign xml:lang="met-fr">Mignone</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>berlé conter</cell>
+                            <cell><foreign xml:lang="met-fr">Crié contre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Berler</cell>
+                            <cell><foreign xml:lang="met-fr">crier</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Berloait</cell>
+                            <cell><foreign xml:lang="met-fr">Criait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Berziller</cell>
+                            <cell><foreign xml:lang="met-fr">Détruire, casser,
+                                abîmer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Bielle plache</cell>
+                            <cell><foreign xml:lang="met-fr">Salon</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Bielltèye</cell>
+                            <cell><foreign xml:lang="met-fr">Beauté</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Boès</cell>
+                            <cell><foreign xml:lang="met-fr">Bois</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Bos</cell>
+                            <cell><foreign xml:lang="met-fr">Bas</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Bouque</cell>
+                            <cell><foreign xml:lang="met-fr">Bouche</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Bourieuder</cell>
+                            <cell><foreign xml:lang="met-fr">Violenter</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>bouté</cell>
+                            <cell><foreign xml:lang="met-fr">mis</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Boutique in line</cell>
+                            <cell><foreign xml:lang="met-fr">Magasin en ligne</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Boutoait</cell>
+                            <cell><foreign xml:lang="met-fr">mettait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Boutons</cell>
+                            <cell><foreign xml:lang="met-fr">Mettons</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Braire</cell>
+                            <cell><foreign xml:lang="met-fr">Pleurer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Brave</cell>
+                            <cell><foreign xml:lang="met-fr">Gentil, sage</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Brouire</cell>
+                            <cell><foreign xml:lang="met-fr">Bruire</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Buche</cell>
+                            <cell><foreign xml:lang="met-fr">Ventre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>burieudé</cell>
+                            <cell><foreign xml:lang="met-fr">Violenté</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>busintchilage</cell>
+                            <cell><foreign xml:lang="met-fr">Logiciel</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Butcher</cell>
+                            <cell><foreign xml:lang="met-fr">Frapper</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Butchèye</cell>
+                            <cell><foreign xml:lang="met-fr">Frappée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Butchoait</cell>
+                            <cell><foreign xml:lang="met-fr">Frappait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cadoreux</cell>
+                            <cell><foreign xml:lang="met-fr">Gendarme</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Camanetter</cell>
+                            <cell><foreign xml:lang="met-fr">Discutter</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cambe</cell>
+                            <cell><foreign xml:lang="met-fr">Chambre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Canepin</cell>
+                            <cell><foreign xml:lang="met-fr">Calepin</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cangé</cell>
+                            <cell><foreign xml:lang="met-fr">Changé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Canméro</cell>
+                            <cell><foreign xml:lang="met-fr">Caméra</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cantieu</cell>
+                            <cell><foreign xml:lang="met-fr">Fesses</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Carpint</cell>
+                            <cell><foreign xml:lang="met-fr">Bruit</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>cartchuleu</cell>
+                            <cell><foreign xml:lang="met-fr">Ordinateur</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cassi</cell>
+                            <cell><foreign xml:lang="met-fr">Ecran</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Chẽlibataire</cell>
+                            <cell><foreign xml:lang="met-fr">Célibataire</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Chiintifique</cell>
+                            <cell><foreign xml:lang="met-fr">Scientifique</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Chilinche</cell>
+                            <cell><foreign xml:lang="met-fr">Silence</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Choune</cell>
+                            <cell><foreign xml:lang="met-fr">Sexe féminin</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Clachique</cell>
+                            <cell><foreign xml:lang="met-fr">Classique</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cleftier</cell>
+                            <cell><foreign xml:lang="met-fr">Clavier</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>cmande</cell>
+                            <cell><foreign xml:lang="met-fr">Commande</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>cmandé</cell>
+                            <cell><foreign xml:lang="met-fr">commandé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>cmandèye</cell>
+                            <cell><foreign xml:lang="met-fr">Commandée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>cminché</cell>
+                            <cell><foreign xml:lang="met-fr">>Commencé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Coèr in coep</cell>
+                            <cell><foreign xml:lang="met-fr">A nouveau</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Coeuté</cell>
+                            <cell><foreign xml:lang="met-fr">Côté</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Coichoait</cell>
+                            <cell><foreign xml:lang="met-fr">souffrait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Combe d’afourage ectrique</cell>
+                            <cell><foreign xml:lang="met-fr">Câble d’alimentation
+                                    électrique</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>comprind</cell>
+                            <cell><foreign xml:lang="met-fr">Comprend</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Comprinne</cell>
+                            <cell><foreign xml:lang="met-fr">Comprendre</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle"><lb/>Echl'escret d’chol qu’al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>9/15.</fw>
+                    <pb facs="Picard_Concours_2020_21_p10.png"/>
+                    <table>
+                        <row>
+                            <cell>Conchierge</cell>
+                            <cell><foreign xml:lang="met-fr">Concierge</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>conmerche</cell>
+                            <cell><foreign xml:lang="met-fr">Commerce</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Conmichoair</cell>
+                            <cell><foreign xml:lang="met-fr">Commissaire</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Conmissions</cell>
+                            <cell><foreign xml:lang="met-fr">Commissions, courses</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Connochoait</cell>
+                            <cell><foreign xml:lang="met-fr">Connaissait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Contchurinte</cell>
+                            <cell><foreign xml:lang="met-fr">Concurrente</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Continwer</cell>
+                            <cell><foreign xml:lang="met-fr">Continuer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cratcher</cell>
+                            <cell><foreign xml:lang="met-fr">Cracher</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Croère</cell>
+                            <cell><foreign xml:lang="met-fr">Croire</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Cusène</cell>
+                            <cell><foreign xml:lang="met-fr">Cuisine</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>D'aller à schlofe</cell>
+                            <cell><foreign xml:lang="met-fr">Aller se coucher</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>D'alloait tcherre</cell>
+                            <cell><foreign xml:lang="met-fr">Allait tomber</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>D'après intinne dire</cell>
+                            <cell><foreign xml:lang="met-fr">A ce que l'on dit, d'après ce que l'on
+                                    dit</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>D'ertour</cell>
+                            <cell><foreign xml:lang="met-fr">De retour</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Débarachèye</cell>
+                            <cell><foreign xml:lang="met-fr">Débarassée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Débillage</cell>
+                            <cell><foreign xml:lang="met-fr">Déshabillage</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>débilloait</cell>
+                            <cell><foreign xml:lang="met-fr">déshabillait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>décassé</cell>
+                            <cell><foreign xml:lang="met-fr">cassé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Décasser</cell>
+                            <cell><foreign xml:lang="met-fr">Casser</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Décesse</cell>
+                            <cell><foreign xml:lang="met-fr">Cesse</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>déchidé</cell>
+                            <cell><foreign xml:lang="met-fr">Décidé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>déclatché à rire</cell>
+                            <cell><foreign xml:lang="met-fr">Eclaté de rire</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Décopoait</cell>
+                            <cell><foreign xml:lang="met-fr">Découpait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>découler</cell>
+                            <cell><foreign xml:lang="met-fr">couler</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>défini</cell>
+                            <cell><foreign xml:lang="met-fr">fini</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Définir</cell>
+                            <cell><foreign xml:lang="met-fr">Finir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Définissoaité</cell>
+                            <cell><foreign xml:lang="met-fr">Finissaient</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Définitivmint</cell>
+                            <cell><foreign xml:lang="met-fr">Définitivement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Défreumé</cell>
+                            <cell><foreign xml:lang="met-fr">Ouvert</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>défuncté</cell>
+                            <cell><foreign xml:lang="met-fr">décédé, mort</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Dégriolait</cell>
+                            <cell><foreign xml:lang="met-fr">Glissait, surfait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>départir</cell>
+                            <cell><foreign xml:lang="met-fr">partager</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>dérinvillé</cell>
+                            <cell><foreign xml:lang="met-fr">réveillé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>dérinvillèye</cell>
+                            <cell><foreign xml:lang="met-fr">Réveillée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Derne</cell>
+                            <cell><foreign xml:lang="met-fr">dernier</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>désatchoait</cell>
+                            <cell><foreign xml:lang="met-fr">détachait, tirait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Desséparoait</cell>
+                            <cell><foreign xml:lang="met-fr">Séparait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Deurmir</cell>
+                            <cell><foreign xml:lang="met-fr">Dormir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Deurmoait</cell>
+                            <cell><foreign xml:lang="met-fr">Dormait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Dévoait</cell>
+                            <cell><foreign xml:lang="met-fr">Dévait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>dévoler ch'dragon</cell>
+                            <cell><foreign xml:lang="met-fr">Avoir des relations
+                                sexuelles</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>dévu</cell>
+                            <cell><foreign xml:lang="met-fr">Du</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>diffichilmint</cell>
+                            <cell><foreign xml:lang="met-fr">Difficilement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Direcmint</cell>
+                            <cell><foreign xml:lang="met-fr">Directement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Djiler</cell>
+                            <cell><foreign xml:lang="met-fr">Couler</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Dmandant</cell>
+                            <cell><foreign xml:lang="met-fr">Demandant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>dmandé</cell>
+                            <cell><foreign xml:lang="met-fr">Demandé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Dmandoait</cell>
+                            <cell><foreign xml:lang="met-fr">Demanait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>dmoré</cell>
+                            <cell><foreign xml:lang="met-fr">Resté</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Donmechtique</cell>
+                            <cell><foreign xml:lang="met-fr">Domestique</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Douche</cell>
+                            <cell><foreign xml:lang="met-fr">Douche</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Dré qu'</cell>
+                            <cell><foreign xml:lang="met-fr">Dès que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Drochi</cell>
+                            <cell><foreign xml:lang="met-fr">Ici</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Drochi drolà</cell>
+                            <cell><foreign xml:lang="met-fr">d'ici de-là</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle"><lb/>Echl'escret d'chol qu’al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>10118.</fw>
+                    <pb facs="Picard_Concours_2020_21_p11.png"/>
+                    <table>
+                        <row>
+                            <cell>éboulé à</cell>
+                            <cell><foreign xml:lang="met-fr">Mis à</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ecange</cell>
+                            <cell><foreign xml:lang="met-fr">Echange</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ecmander</cell>
+                            <cell><foreign xml:lang="met-fr">Commander</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ecmandoait</cell>
+                            <cell><foreign xml:lang="met-fr">Commandait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ecminchmint</cell>
+                            <cell><foreign xml:lang="met-fr">Commencement, début</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ed queuchmar</cell>
+                            <cell><foreign xml:lang="met-fr">Cauchemardesque</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ed tans in tans</cell>
+                            <cell><foreign xml:lang="met-fr">De temps en temps</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Edmandoait</cell>
+                            <cell><foreign xml:lang="met-fr">demandait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Edvant d'</cell>
+                            <cell><foreign xml:lang="met-fr">Avant de</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Egzastémint</cell>
+                            <cell><foreign xml:lang="met-fr">Exactement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>éliche</cell>
+                            <cell><foreign xml:lang="met-fr">Elice</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Eltchel (acq eltchel)</cell>
+                            <cell><foreign xml:lang="met-fr">Lequel</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Emaginer</cell>
+                            <cell><foreign xml:lang="met-fr">Imaginer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Emitant</cell>
+                            <cell><foreign xml:lang="met-fr">Imitant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>épreuvé</cell>
+                            <cell><foreign xml:lang="met-fr">Essayé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Epreuver</cell>
+                            <cell><foreign xml:lang="met-fr">Essayer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Epreuvoait</cell>
+                            <cell><foreign xml:lang="met-fr">Essayait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erboyoait</cell>
+                            <cell><foreign xml:lang="met-fr">Considérait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erchette</cell>
+                            <cell><foreign xml:lang="met-fr">Recette</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erchu</cell>
+                            <cell><foreign xml:lang="met-fr">Reçu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erginté</cell>
+                            <cell><foreign xml:lang="met-fr">Riche</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erlavage</cell>
+                            <cell><foreign xml:lang="met-fr">toilette</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erlavoait</cell>
+                            <cell><foreign xml:lang="met-fr">Lavait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erlivré</cell>
+                            <cell><foreign xml:lang="met-fr">à nouveau livré</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erloyage</cell>
+                            <cell><foreign xml:lang="met-fr">Action de relier</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erloyé</cell>
+                            <cell><foreign xml:lang="met-fr">Relié</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erloyer</cell>
+                            <cell><foreign xml:lang="met-fr">Relier</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erloyèye</cell>
+                            <cell><foreign xml:lang="met-fr">Reliée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erloyèyes</cell>
+                            <cell><foreign xml:lang="met-fr">Reliées</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ermerque</cell>
+                            <cell><foreign xml:lang="met-fr">Nota bene</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ermertché</cell>
+                            <cell><foreign xml:lang="met-fr">ermarqué</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Eroait té</cell>
+                            <cell><foreign xml:lang="met-fr">Aurait été</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Eroait bson</cell>
+                            <cell><foreign xml:lang="met-fr">Aurait besoin</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Eroait ieu doutance ed</cell>
+                            <cell><foreign xml:lang="met-fr">Se serait douté de
+                                rien</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erparti</cell>
+                            <cell><foreign xml:lang="met-fr">Reparti</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erpéré</cell>
+                            <cell><foreign xml:lang="met-fr">Repéré</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erportage</cell>
+                            <cell><foreign xml:lang="met-fr">reportage</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>erprind</cell>
+                            <cell><foreign xml:lang="met-fr">reprend</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erprinne</cell>
+                            <cell><foreign xml:lang="met-fr">Reprendre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Erténir</cell>
+                            <cell><foreign xml:lang="met-fr">Retenir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ertorner</cell>
+                            <cell><foreign xml:lang="met-fr">Retourner</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>>Ertrachage</cell>
+                            <cell><foreign xml:lang="met-fr">Recherche</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ertrouvé</cell>
+                            <cell><foreign xml:lang="met-fr">etrouvé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ertrouvèye</cell>
+                            <cell><foreign xml:lang="met-fr">Retrouvée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ervanque</cell>
+                            <cell><foreign xml:lang="met-fr">Revanche</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ervénu</cell>
+                            <cell><foreign xml:lang="met-fr">Revenu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ervénu</cell>
+                            <cell><foreign xml:lang="met-fr">Revenu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ervirolé</cell>
+                            <cell><foreign xml:lang="met-fr">Volé à nouveau</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Escofiage</cell>
+                            <cell><foreign xml:lang="met-fr">Action de tuer
+                                quelqu’un</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Escofiant</cell>
+                            <cell><foreign xml:lang="met-fr">Tuant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Escret</cell>
+                            <cell><foreign xml:lang="met-fr">Secret</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Espectaque</cell>
+                            <cell><foreign xml:lang="met-fr">Spectacle</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Esplichoait</cell>
+                            <cell><foreign xml:lang="met-fr">Expliquait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Esplitchroait</cell>
+                            <cell><foreign xml:lang="met-fr">Expliquerait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Esploè</cell>
+                            <cell><foreign xml:lang="met-fr">Exploit</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Estoper</cell>
+                            <cell><foreign xml:lang="met-fr"> Stopper</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Estudio</cell>
+                            <cell><foreign xml:lang="met-fr">Studio</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Etampir</cell>
+                            <cell><foreign xml:lang="met-fr">Dresser lever</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle"><lb/>Echl'escret d’chol qu’al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>11/15.</fw>
+                    <pb facs="Picard_Concours_2020_21_p12.png"/>
+                    <table>
+                        <row>
+                            <cell>Etoait d’edvise d’</cell>
+                            <cell><foreign xml:lang="met-fr">S’agissait de</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Etoaité</cell>
+                            <cell><foreign xml:lang="met-fr">Etaient</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Eutermint dit</cell>
+                            <cell><foreign xml:lang="met-fr">Autrement, sinon</foreign></cell>
+                        </row>
+                        <row>
+                            <cell><lb/>Eutermint</cell>
+                            <cell><foreign xml:lang="met-fr">Autrement dit</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>faim d</cell>
+                            <cell><foreign xml:lang="met-fr">Envie de</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Favéolte</cell>
+                            <cell><foreign xml:lang="met-fr">Syncope</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ferniète</cell>
+                            <cell><foreign xml:lang="met-fr">Fenêtre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Feuloait</cell>
+                            <cell><foreign xml:lang="met-fr">Fallait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Filmoaité</cell>
+                            <cell><foreign xml:lang="met-fr">Filmaient</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ein portabe</cell>
+                            <cell><foreign xml:lang="met-fr">Smartphone</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Foaire dégouter</cell>
+                            <cell><foreign xml:lang="met-fr">Faire couler</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Foaire eul pétcheume</cell>
+                            <cell><foreign xml:lang="met-fr">Faire la cuisine</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Foaire poupoute</cell>
+                            <cell><foreign xml:lang="met-fr">Faire ses besoins</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Foaisage</cell>
+                            <cell><foreign xml:lang="met-fr">Action de faire quelque
+                                chose</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Foaisoait</cell>
+                            <cell><foreign xml:lang="met-fr">Faisait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Foès</cell>
+                            <cell><foreign xml:lang="met-fr">Fois</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Forchèye</cell>
+                            <cell><foreign xml:lang="met-fr">Forcée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Gaïant</cell>
+                            <cell><foreign xml:lang="met-fr">Géant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Gargatte</cell>
+                            <cell><foreign xml:lang="met-fr">Gorge</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Gazette</cell>
+                            <cell><foreign xml:lang="met-fr">Journal</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Hermis</cell>
+                            <cell><foreign xml:lang="met-fr">Hormis</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Heuture</cell>
+                            <cell><foreign xml:lang="met-fr">Hauteur</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Hindger</cell>
+                            <cell><foreign xml:lang="met-fr">Faire un geste</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>huche</cell>
+                            <cell><foreign xml:lang="met-fr">Porte</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Hutchage</cell>
+                            <cell><foreign xml:lang="met-fr">Appel</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>hutché</cell>
+                            <cell><foreign xml:lang="met-fr">Appelé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Hutcher</cell>
+                            <cell><foreign xml:lang="met-fr">Appeler</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Iconne</cell>
+                            <cell><foreign xml:lang="met-fr">Icône</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>impétché</cell>
+                            <cell><foreign xml:lang="met-fr">Empêché</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Impoyé</cell>
+                            <cell><foreign xml:lang="met-fr">Employé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>In coep qu</cell>
+                            <cell><foreign xml:lang="met-fr">Une fois que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>In constinote</cell>
+                            <cell><foreign xml:lang="met-fr">En effet</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>In puque</cell>
+                            <cell><foreign xml:lang="met-fr">En plus</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>In route à</cell>
+                            <cell><foreign xml:lang="met-fr">En train de</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle"><lb/>Echl'escret d'chol qu’al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>12/18.</fw>
+                    <pb facs="Picard_Concours_2020_21_p13.png"/>
+                    <table>
+                        <row>
+                            <cell>lonmé</cell>
+                            <cell><foreign xml:lang="met-fr">Nommé, appelé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Lonmint</cell>
+                            <cell><foreign xml:lang="met-fr">Longtemps</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>lonmoait</cell>
+                            <cell><foreign xml:lang="met-fr">Appelait, nommait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Loyin</cell>
+                            <cell><foreign xml:lang="met-fr">Lien</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Marmintonner</cell>
+                            <cell><foreign xml:lang="met-fr">Mitonner</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Maronne</cell>
+                            <cell><foreign xml:lang="met-fr">Pantalon, culotte</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Matchage</cell>
+                            <cell><foreign xml:lang="met-fr">Action de manger</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Matchoait</cell>
+                            <cell><foreign xml:lang="met-fr">Mangeait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>mau</cell>
+                            <cell><foreign xml:lang="met-fr">Mal</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Maugré que</cell>
+                            <cell><foreign xml:lang="met-fr">Malgré que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>méné</cell>
+                            <cell><foreign xml:lang="met-fr">Mené dirigé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Méner</cell>
+                            <cell><foreign xml:lang="met-fr">Mener, diriger</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Merdi</cell>
+                            <cell><foreign xml:lang="met-fr">Mardi</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Mernute</cell>
+                            <cell><foreign xml:lang="met-fr">Nue</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Métchène</cell>
+                            <cell><foreign xml:lang="met-fr">Servante</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Meusique</cell>
+                            <cell><foreign xml:lang="met-fr">Musique</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>milant</cell>
+                            <cell><foreign xml:lang="met-fr">Epiant, observant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Mile</cell>
+                            <cell><foreign xml:lang="met-fr">Epie, observe</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Miloaitte</cell>
+                            <cell><foreign xml:lang="met-fr">Epiaient, observaient</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Miloèr</cell>
+                            <cell><foreign xml:lang="met-fr">Miroir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Milroait</cell>
+                            <cell><foreign xml:lang="met-fr">Epierait, observerait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Mitant</cell>
+                            <cell><foreign xml:lang="met-fr">Milieu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Moaison</cell>
+                            <cell><foreign xml:lang="met-fr">Maison</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Moaite</cell>
+                            <cell><foreign xml:lang="met-fr">Maître</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Moës</cell>
+                            <cell><foreign xml:lang="met-fr">Mois</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Morchieu</cell>
+                            <cell><foreign xml:lang="met-fr">Morceau</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Mourdrir</cell>
+                            <cell><foreign xml:lang="met-fr">Assassiner</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Muralle</cell>
+                            <cell><foreign xml:lang="met-fr">Mur</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Nateurelmint</cell>
+                            <cell><foreign xml:lang="met-fr">Naturellement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Nouvielles</cell>
+                            <cell><foreign xml:lang="met-fr">Nouvelles</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Orde</cell>
+                            <cell><foreign xml:lang="met-fr">Ordre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>osieu</cell>
+                            <cell><foreign xml:lang="met-fr">Oiseau</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>otchuper</cell>
+                            <cell><foreign xml:lang="met-fr">Occuper</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ouvrage</cell>
+                            <cell><foreign xml:lang="met-fr">Travail</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>>overt</cell>
+                            <cell><foreign xml:lang="met-fr">Ouvert</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Pa-dsus</cell>
+                            <cell><foreign xml:lang="met-fr">Par-dessus</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>panitché</cell>
+                            <cell><foreign xml:lang="met-fr">Paniqué</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Par egzimpe</cell>
+                            <cell><foreign xml:lang="met-fr">Par exemple</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Pardoait</cell>
+                            <cell><foreign xml:lang="met-fr">Perdait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Parelmint</cell>
+                            <cell><foreign xml:lang="met-fr">Pareillement, de la même
+                                    manière</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Parfondémint</cell>
+                            <cell><foreign xml:lang="met-fr">Profondément</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>parmet</cell>
+                            <cell><foreign xml:lang="met-fr">Permet</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Passoait pis rapassoait</cell>
+                            <cell><foreign xml:lang="met-fr">Passait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Patchet</cell>
+                            <cell><foreign xml:lang="met-fr">Paquet</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>perlant</cell>
+                            <cell><foreign xml:lang="met-fr">Parlant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Perle</cell>
+                            <cell><foreign xml:lang="met-fr">Parle</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Perloait</cell>
+                            <cell><foreign xml:lang="met-fr">parlait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Perzinche</cell>
+                            <cell><foreign xml:lang="met-fr">Présence</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Pétcheume</cell>
+                            <cell><foreign xml:lang="met-fr">Cuisine</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Peut qu’manquer</cell>
+                            <cell><foreign xml:lang="met-fr">En fait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Pinsoait</cell>
+                            <cell><foreign xml:lang="met-fr">Pensait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Piot-à-piot</cell>
+                            <cell><foreign xml:lang="met-fr">Peu à peu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Plache</cell>
+                            <cell><foreign xml:lang="met-fr">Pièce</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Plache-à-ban</cell>
+                            <cell><foreign xml:lang="met-fr">Salle de bain</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Plainne</cell>
+                            <cell><foreign xml:lang="met-fr">Sol</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Point ène buque ed</cell>
+                            <cell><foreign xml:lang="met-fr">Pas une once de</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Porroait</cell>
+                            <cell><foreign xml:lang="met-fr">Pourrait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Posse</cell>
+                            <cell><foreign xml:lang="met-fr">Poste</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle">Echl'escret d'chol qu’al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>13/15.</fw>
+                    <pb facs="Picard_Concours_2020_21_p14.png"/>
+                    <table>
+                        <row>
+                            <cell>Possibe</cell>
+                            <cell><foreign xml:lang="met-fr">Possible</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Pourfiter</cell>
+                            <cell><foreign xml:lang="met-fr">Profiter</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>pourméner</cell>
+                            <cell><foreign xml:lang="met-fr">Promener</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>pourpose</cell>
+                            <cell><foreign xml:lang="met-fr">Propose</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Povoait</cell>
+                            <cell><foreign xml:lang="met-fr">Pouvait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Povoèr</cell>
+                            <cell><foreign xml:lang="met-fr">Pouvoir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Pratique</cell>
+                            <cell><foreign xml:lang="met-fr">client</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Princhipa</cell>
+                            <cell><foreign xml:lang="met-fr">Principal</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>prind fiate</cell>
+                            <cell><foreign xml:lang="met-fr">Prend confiance</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Prindoait</cell>
+                            <cell><foreign xml:lang="met-fr">prenait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Prinne</cell>
+                            <cell><foreign xml:lang="met-fr">Prendre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Prinne part à</cell>
+                            <cell><foreign xml:lang="met-fr">Prendre part à</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Probabelmint</cell>
+                            <cell><foreign xml:lang="met-fr">Probablement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Proler</cell>
+                            <cell><foreign xml:lang="met-fr">Parler, bavarder</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Quasi</cell>
+                            <cell><foreign xml:lang="met-fr">Presque</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Queuche</cell>
+                            <cell><foreign xml:lang="met-fr">Chaussure</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Racoin</cell>
+                            <cell><foreign xml:lang="met-fr">coin</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>raconduit</cell>
+                            <cell><foreign xml:lang="met-fr">Reconduit,
+                                réaccompagne</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ralmint</cell>
+                            <cell><foreign xml:lang="met-fr">Rarement</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ramintuver</cell>
+                            <cell><foreign xml:lang="met-fr">Souvenir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ramintuvoait</cell>
+                            <cell><foreign xml:lang="met-fr">Souvenait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Raminvrance</cell>
+                            <cell><foreign xml:lang="met-fr">Mémoire</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Rapport qu</cell>
+                            <cell><foreign xml:lang="met-fr">Du fait que, eu égard au fait
+                                    que</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Raspirer</cell>
+                            <cell><foreign xml:lang="met-fr">Respirer</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>rattatché</cell>
+                            <cell><foreign xml:lang="met-fr">Attaché à nouveau</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>rattatchoait</cell>
+                            <cell><foreign xml:lang="met-fr">Attachait à nouveau</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ravisage</cell>
+                            <cell><foreign xml:lang="met-fr">Action de regarder</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ravisant</cell>
+                            <cell><foreign xml:lang="met-fr">Regardant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>ravisé</cell>
+                            <cell><foreign xml:lang="met-fr">Regardé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Raviser</cell>
+                            <cell><foreign xml:lang="met-fr">Regarder</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Ravisoait</cell>
+                            <cell><foreign xml:lang="met-fr">Regardait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Resse</cell>
+                            <cell><foreign xml:lang="met-fr">Habite</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Restoait</cell>
+                            <cell><foreign xml:lang="met-fr">Habitait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>rhabillure</cell>
+                            <cell><foreign xml:lang="met-fr">Habits</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Rindez-vous</cell>
+                            <cell><foreign xml:lang="met-fr">Rendez-vous</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>rindoait</cell>
+                            <cell><foreign xml:lang="met-fr">Rendait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>rindu</cell>
+                            <cell><foreign xml:lang="met-fr">Rendu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Rinflique</cell>
+                            <cell><foreign xml:lang="met-fr">Réponse</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>rintré</cell>
+                            <cell><foreign xml:lang="met-fr">Rentré</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Rintroait</cell>
+                            <cell><foreign xml:lang="met-fr">Rentrait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Roeulette ed sin tchul</cell>
+                            <cell><foreign xml:lang="met-fr">Raie des fesses</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Routène</cell>
+                            <cell><foreign xml:lang="met-fr">Routine</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>russe</cell>
+                            <cell><foreign xml:lang="met-fr">Difficulté</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Sanque</cell>
+                            <cell><foreign xml:lang="met-fr">Sang</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>sarvant</cell>
+                            <cell><foreign xml:lang="met-fr">Servant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Sarvice pratique</cell>
+                            <cell><foreign xml:lang="met-fr">Service client</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Sarvices</cell>
+                            <cell><foreign xml:lang="met-fr">Services</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>sarvir</cell>
+                            <cell><foreign xml:lang="met-fr">Servir</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>sarvoait</cell>
+                            <cell><foreign xml:lang="met-fr">Servait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Savoait</cell>
+                            <cell><foreign xml:lang="met-fr">Savait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Séroait</cell>
+                            <cell><foreign xml:lang="met-fr">Serait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Serre-têtes</cell>
+                            <cell><foreign xml:lang="met-fr">Soutien-gorge</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Sinne</cell>
+                            <cell><foreign xml:lang="met-fr">Signe</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>sintoait</cell>
+                            <cell><foreign xml:lang="met-fr">Sentait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Sorire</cell>
+                            <cell><foreign xml:lang="met-fr">Sourire</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Sovint</cell>
+                            <cell><foreign xml:lang="met-fr">Souvent</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>stapindant</cell>
+                            <cell><foreign xml:lang="met-fr">Cependant</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Suire</cell>
+                            <cell><foreign xml:lang="met-fr">Suivre</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle"><lb/>Echl'escret d'chol qu’al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>14/15.</fw>
+                    <pb facs="Picard_Concours_2020_21_p15.png"/>
+                    <table>
+                        <row>
+                            <cell>surpitchet</cell>
+                            <cell><foreign xml:lang="met-fr">Surnom</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Talle</cell>
+                            <cell><foreign xml:lang="met-fr">talle</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tans d’asteur</cell>
+                            <cell><foreign xml:lang="met-fr">Epoque actuelle</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Taque</cell>
+                            <cell><foreign xml:lang="met-fr">Tache</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchécun</cell>
+                            <cell><foreign xml:lang="met-fr">Quelqu’un</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchémandoait</cell>
+                            <cell><foreign xml:lang="met-fr">Démandait, quémandait,
+                                    suppliait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchèque cose</cell>
+                            <cell><foreign xml:lang="met-fr">Quelque chose</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>tcherre</cell>
+                            <cell><foreign xml:lang="met-fr">Tomber</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>tcheu</cell>
+                            <cell><foreign xml:lang="met-fr">Tombé</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>tcheu in favélote</cell>
+                            <cell><foreign xml:lang="met-fr">Tombé en syncope</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tcheuye</cell>
+                            <cell><foreign xml:lang="met-fr">Queue</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchéyoaité</cell>
+                            <cell><foreign xml:lang="met-fr">Tombaient</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchinze</cell>
+                            <cell><foreign xml:lang="met-fr">Quinze</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>tchitté tcherre</cell>
+                            <cell><foreign xml:lang="met-fr">Laissé tomber</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchitter tcherre</cell>
+                            <cell><foreign xml:lang="met-fr">Laisser tomber</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchittoait</cell>
+                            <cell><foreign xml:lang="met-fr">Laissait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tchul</cell>
+                            <cell><foreign xml:lang="met-fr">Cul</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Téléfonne</cell>
+                            <cell><foreign xml:lang="met-fr">téléphone</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Téléfonnique</cell>
+                            <cell><foreign xml:lang="met-fr">Téléphonique</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tête </cell>
+                            <cell><foreign xml:lang="met-fr">sein</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Thinme</cell>
+                            <cell><foreign xml:lang="met-fr">Thème</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tiête</cell>
+                            <cell><foreign xml:lang="met-fr">Tête</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>torné</cell>
+                            <cell><foreign xml:lang="met-fr">Tourné</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>tornoait </cell>
+                            <cell><foreign xml:lang="met-fr">Tournait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tomoaitté</cell>
+                            <cell><foreign xml:lang="met-fr">Tournaient</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>tous ches</cell>
+                            <cell><foreign xml:lang="met-fr">Chaque</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tout heut</cell>
+                            <cell><foreign xml:lang="met-fr">Tout haut</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tout l’tans</cell>
+                            <cell><foreign xml:lang="met-fr">Tout le temps</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tout lonque</cell>
+                            <cell><foreign xml:lang="met-fr">Tout contre</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>toutché</cell>
+                            <cell><foreign xml:lang="met-fr">Touché</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Touteoute</cell>
+                            <cell><foreign xml:lang="met-fr">Au travers de</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Trache</cell>
+                            <cell><foreign xml:lang="met-fr">Trace</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>traché aprins</cell>
+                            <cell><foreign xml:lang="met-fr">Cherché</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Tracher</cell>
+                            <cell><foreign xml:lang="met-fr">Chercher</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Trantchèye</cell>
+                            <cell><foreign xml:lang="met-fr">Tranchée</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Trantchoait</cell>
+                            <cell><foreign xml:lang="met-fr">Tranchait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Trébin</cell>
+                            <cell><foreign xml:lang="met-fr">beaucoup</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Trouvoait</cell>
+                            <cell><foreign xml:lang="met-fr">Trouvait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Umainne</cell>
+                            <cell><foreign xml:lang="met-fr">Humaine</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Varlet</cell>
+                            <cell><foreign xml:lang="met-fr">Valet, serviteur</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>vénu au monne</cell>
+                            <cell><foreign xml:lang="met-fr">Né</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Vidier</cell>
+                            <cell><foreign xml:lang="met-fr">Quitter</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>viroler</cell>
+                            <cell><foreign xml:lang="met-fr">Voler </foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Virvourander</cell>
+                            <cell><foreign xml:lang="met-fr">Promener</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Viye</cell>
+                            <cell><foreign xml:lang="met-fr">Vie</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>voèx</cell>
+                            <cell><foreign xml:lang="met-fr">Voix</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>volu</cell>
+                            <cell><foreign xml:lang="met-fr">Voulu</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Voyoait</cell>
+                            <cell><foreign xml:lang="met-fr">Voyait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Vramint</cell>
+                            <cell><foreign xml:lang="met-fr">Vraiment</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Vuye</cell>
+                            <cell><foreign xml:lang="met-fr">Vue</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Wardoait</cell>
+                            <cell><foreign xml:lang="met-fr">Gardait</foreign></cell>
+                        </row>
+                        <row>
+                            <cell>Werre puque qu’ho</cell>
+                            <cell><foreign xml:lang="met-fr">Guerre plus que cela</foreign></cell>
+                        </row>
+                    </table>
+                    <fw type="runningTitle"><lb/>Echl'escret d'chol qu'al sorit toudis.—</fw>
+                    <fw type="numbering"><lb/>15/15.</fw>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

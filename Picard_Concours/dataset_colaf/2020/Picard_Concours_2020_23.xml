@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_23</idno>
+                <title type="main"> Courrières, mars 1906</title>
+                <title type="collection">Picard Concours</title>
+                <author>Cécile, MEURILLON</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Courrières, mars 1906</title>
+                    <author>Cécile, MEURILLON</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="95">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_23_p1.png"/>
+                <fw type="numbering"><lb/>N°23</fw>
+                <dateline><lb/>COURRIERES, lundi 12 mars 1906.</dateline>
+                <p><lb/>Min hiercheux, min bello, min Joseph Therry, sam’di, t’es desceindu au fond
+                    d’eul<lb/>fosse eud' Méricourt, ouvrer dans l’veine Cécile.</p>
+                <p><lb/>In eto fin benaches, mariés d’puis deux ans mais c’matin-là, in étot fort
+                    en bisbille.<lb/>T’as quitté l'coron tout en rach' et mi j’avo envie just'
+                    envie d’braire. In s’étot<lb/>disputé, parc' que j’croyo qu't’éto acoquiné
+                    'vec 'ne poule eud' la haute, el'lolotte<lb/>que tout l’monde raviss', el fill'
+                    eud' l’ingénieur. Avec c’pataquès, t’es parti sin<lb/>t'briquet, min fièr'
+                    crott' eud' mari. J'm’en mettro des torgnoles.</p>
+                <p><lb/>Mi ed' ti j’suis bleue, donc l’soir in aurait ri, eune grande chope, eune
+                    bonne baisse,<lb/>nous v'là raccommodés.</p>
+                <p><lb/>plus jamais t'eu remont'ras d'cett' foutue gal'rie.</p>
+                <p><lb/>Tes yeux bleus, tes beaux muscl', tin sourir' d’galibot; el mine a tout
+                    mingé; not'<lb/>présent, not' avenir, et c’lui deuch’tiot coco, qui pousse din
+                    m’panche. Même<lb/>el pain d’alouette, qu’tu lui rapport'ras jamais. Ni
+                    saindoux, ni fromache, ni câlin, ni<lb/>bécot, ni eud' ti, ni eud' mi.</p>
+                <p><lb/>Ass't'heure, t'sais, min Joseph, mein keur y'est tout in miett'.</p>
+                <fw type="numbering">1</fw>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_23_p2.png"/>
+                <head xml:lang="met-fr"><lb/>Annexe: Lexique.</head>
+                <list>
+                    <item><lb/>hiercheux :<foreign xml:lang="met-fr"> qualifie une catégorie de
+                            mineur qui poussaient les wagonnets de<lb/>charbon et triaient les blocs
+                            de coke.</foreign></item>
+                    <item><lb/>ouvrer:<foreign xml:lang="met-fr"> travailler.</foreign></item>
+                    <item><lb/>Veine Cécile à Méricourt:<foreign xml:lang="met-fr"> point de
+                            départ de la catastrophe de Courrières, le 10 <lb/>mars 1906 (par une
+                            explosion suite à un incendie).</foreign></item>
+                    <item><lb/>benache :<foreign xml:lang="met-fr"> heureux.</foreign></item>
+                    <item><lb/>être en bisbille;<foreign xml:lang="met-fr"> être
+                            fâché.</foreign></item>
+                    <item><lb/>coron:<foreign xml:lang="met-fr"> maison d’habitation de
+                            mineurs.</foreign></item>
+                    <item><lb/>rach':<foreign xml:lang="met-fr"> rage.</foreign></item>
+                    <item><lb/>s’acoquiner:<foreign xml:lang="met-fr"> se lier avec quelqu’un de peu
+                            fréquentable.</foreign></item>
+                    <item><lb/>poule:<foreign xml:lang="met-fr"> femme (plutôt irrespectueux)
+                            provocante, qui cherche à se faire remarquer.</foreign></item>
+                    <item><lb/>lolotte :<foreign xml:lang="met-fr"> idem, synonyme de
+                            poule.</foreign></item>
+                    <item><lb/>ravisse:<foreign xml:lang="met-fr"> regarde.</foreign></item>
+                    <item xml:lang="met-fr"><lb/>l'ingénieur est le responsable de la Fosse.</item>
+                    <item><lb/>(faire un) pataquès:<foreign xml:lang="met-fr"> (faire toute une)
+                            histoire de quelque chose sans importance.</foreign></item>
+                    <item><lb/>briquet:<foreign xml:lang="met-fr"> casse-croûte du
+                            mineur.</foreign></item>
+                    <item><lb/>torgnole:<foreign xml:lang="met-fr"> gifle, coup.</foreign></item>
+                    <item><lb/>j'suis bleue:<foreign xml:lang="met-fr"> je suis folle
+                            amoureuse.</foreign></item>
+                    <item><lb/>baisse:<foreign xml:lang="met-fr"> gros baiser.</foreign></item>
+                    <item><lb/>raccommodé:<foreign xml:lang="met-fr">
+                        réconcillé.</foreign></item>
+                    <item><lb/>galerie:<foreign xml:lang="met-fr"> voie de communication
+                            souterraine, horizontale ou faiblement inclinée<lb/>dans les
+                            mines.</foreign></item>
+                    <item><lb/>galibot:<foreign xml:lang="met-fr"> jeune manoeuvre, dans les mines
+                            de charbon du Nord de la France.</foreign></item>
+                    <item><lb/>deuch'tiot coco:<foreign xml:lang="met-fr"> du petit
+                            bébé.</foreign></item>
+                    <item><lb/>panche:<foreign xml:lang="met-fr"> ventre.</foreign></item>
+                    <item><lb/>pain d’alouette:<foreign xml:lang="met-fr"> le pain d’alouette, c’est
+                            les tartines que la mère a confectionné et<lb/>mis dans une petite
+                            boite pour la faim du père pendant le travail et quand les<lb/>pauses
+                            lui permettront.<lb/>Lorsque le père n’avait pas tout mangé, il le
+                            rapportait dans la famille en disant à<lb/>ses enfants “ c’est
+                            l’alouette qui me l’a donné". Les enfants attendaient
+                            souvent<lb/>impatiemment chaque début de soirée, ce pain
+                            d’alouette.</foreign></item>
+                    <item><lb/>fromache:<foreign xml:lang="met-fr"> fromage.</foreign></item>
+                </list>
+                <fw type="numbering">2</fw>
+                <pb facs="Picard_Concours_2020_23_p3.png"/>
+                <list>
+                    <item><lb/>bécot : <foreign xml:lang="met-fr">petit baiser.</foreign></item>
+                    <item><lb/>ass't'heure; <foreign xml:lang="met-fr">aujourd’hui,
+                            maintenant.</foreign></item>
+                    <item><lb/>miett': <foreign xml:lang="met-fr">miette. Dans la mine, le toit
+                            d’une galerie "miette" quand des petits cailloux<lb/>tombent et laissent
+                            prévoir la chute d’un bloc plus important.</foreign></item>
+                </list>
+                <fw type="numbering">3</fw>
+            </div>
+        </body>
+    </text>
+</TEI>

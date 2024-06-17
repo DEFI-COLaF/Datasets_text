@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_19</idno>
+                <title type="main"> L'club des blinques tiètes</title>
+                <title type="collection">Picard Concours</title>
+                <author>Casimir, HELLE</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> L'club des blinques tiètes</title>
+                    <author>Casimir, HELLE</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="50">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="50">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_19_p1.png"/>
+                <fw type="numbering"><lb/>N°19</fw>
+                <head><lb/>L'club des blinques tiètes</head>
+                <p><lb/>D'puc l’timps qu’alle ch’est inscrite au club des blinques<lb/>tiètes,
+                    eunne fim’m alle et toudis partie, in vadroulle.in<lb/>voyache.</p>
+                <p><lb/>Pout vn’ir asse mason,i faut téléphoner pou êtt' sur d’elle<lb/>trouver.
+                    Alle et in réunion, partit in ess' curtion, au bin in<lb/>répétition. Y'a
+                    qu’les mos d’hiver qu’in peu l’vire ass' mason<lb/>alle prépare cheulle
+                    fam’eusse exposition.</p>
+                <p><lb/>Rapell te y'a inne paire d’innées pou s’nanivsersaire, in y<lb/>avot
+                    aquaté in bio vélo rouche, ch’est ach’teur qu’ié tout<lb/>rouillé, qu’alle
+                    voudrot monter d’sus pour aller baladée. Elle,<lb/>qui n’avot jamé fé 10
+                    mêtes à pieds, y faut vire pour les<lb/>blinques tiétes touche qu’alle
+                    fé.</p>
+                <p><lb/>Ach’teur aux blinques tiétes ed timps in timps ch’est<lb/>l’auberche
+                    espagnole, alle minche aveuques ses copines du<lb/>couscous des tadgines, là
+                    inne ravis se point alle tape dins<lb/>tous les plas, seul'min ch’find’min alle
+                    né point bin et ch’est<lb/>mis qui l’a.</p>
+                <p><lb/>Alle a in planique pus fournis qu’in ministe; Lundi ch’est<lb/>gyim tonic.
+                    l’mardi ch’est répétition théâtre alle passe des<lb/>heures d’in l’salle ed
+                    bin, alle met du rouche du noir et pi du<lb/>viert in dirot in indien s’ul
+                    chintier d’la guerre.</p>
+                <p><lb/>Aveuque cheulle couche ed couleur qu’alle met s’uss figure<lb/>in pourrot
+                    arfaire les portes, les ferniettes, les murs.<fw type="numbering"><lb/>1</fw>
+                    <pb facs="Picard_Concours_2020_19_p2.png"/><lb/>Sin compter l’rouche qu’alle met su
+                    ses ortelles crochues, et<lb/>ses gimpes qui qu’inj' ed couleur sin arrêt.</p>
+                <p><lb/>Les gins du pat lin l’appel' lacoirelles,i parret qu’ché com' cha<lb/>ed
+                    mère in fille.</p>
+                <p><lb/>Infin, jé pu kaire alle vir com'cha qué d’elle vire à
+                    cheulle<lb/>télé.</p>
+                <p><lb/>Pal timps fère inne tiote siesse crapuleusse aprés dénenni<lb/>raviser
+                    les feux l’amour y a réunion d’cheulle société.</p>
+                <p><lb/>l’a qu’el diminche qué j’lé pou mi tout ceux. Ch’est l’pus biau<lb/>momint
+                    d’cheulle sémine, l’soir asse blotit cont mi, ch’a m’fé<lb/>tout drôle, ej su
+                    tout artourné, jé dé catouilleux d’in tout min<lb/>corps,ché com'si qu’ej
+                    fréquintrot cor.</p>
+                <p><lb/>Am' fé deusses baisses à bouquette, pu alle s’indor cha<lb/>ch’est les
+                    blinques tiétes qui arpassent.</p>
+                <p><lb/>L'diminche alle sieute chelle météo, ch’né pas part minque<lb/>d’iau, mé
+                    d’ch’lindi ch’est marche all mare à gorrio.</p>
+                <p><lb/>Jé biau i dire d’aller d’doch’min, anne répond « ti va tin dins<lb/>tin
+                    gardin»</p>
+                <p><lb/>El'mieux, ch’est qu’ind alle s’met à d’viser toilettes, alle
+                    dit<lb/>qu’alle vat à tros, qu’alle n’as pus riri ass' mette.</p>
+                <p><lb/>Pou elle i faut canger tout cha ch’est trop long au bin trop<lb/>court ché
+                    démodé ,inne vos pu cha d'nos jours.</p>
+                <p><lb/>All' met des liginnes alors qu’alle et énorme, cha ni vat point<lb/>in vaut
+                    toutes ché formes, à coté d’mi quier tout tiot pou<lb/>fère sin poids ien
+                    fodrot 3 com' mi.</p>
+                <fw type="numbering"><lb/>2</fw>
+                <pb facs="Picard_Concours_2020_19_p3.png"/>
+                <p><lb/>Vl’a ti pas qu’alle à ra’mné alle mason, un vieux cas alle<lb/>l’apelle
+                    min minou alors qu’ié lé corn' in poux.</p>
+                <p><lb/>Quint alle et in rache alle dit qu’alle à toudis été<lb/>m'esciaffe,
+                    qu’ébonne saquois ch’est pour tiles mauvaisses<lb/>pour mi.</p>
+                <p><lb/>Lotte jour j’y dit « Té sé ej su aller à cheulle visite pour
+                    printe<lb/>emm' artréte ,ach’teur inne moute pu ses papiers,i nas
+                    qu’a<lb/>moutrer sin torsse y vot cha au nompe ed poils blins “<lb/>Amme répond
+                    « Tarros du intver ett ' maronne tarrot surmin<lb/>eu inne pinssion
+                    d’invalidité «.</p>
+                <p><lb/>Alle va s’fère armettre des inplans dintères, alors qué mi<lb/>j’aros
+                    b’sin d’leunettes, qu’ind ji dit cha amme répond...<lb/>« Pou m’conter
+                    fleurette t’as pas b’sion ed l’eunette »<lb/>Parfos jemme déminte si alle à
+                    tout s’tiète «</p>
+                <p><lb/>Ed cheulle génération bilouquette, alle a passé alle<lb/>génération
+                    cafougnette.</p>
+                <p><lb/>L’ott' jour inne démonstratriste vintot les mérites d’inne<lb/>crin mes
+                    inti âches anne d’a aquaté 4 bocals, ach’teur alle<lb/>vat au lit plein d'
+                    crin'mes sus figure, alle in met plein les<lb/>draps les couvertures.</p>
+                <p><lb/>Sin tint ed jonne fill’le ch’as s’ras difficile mi j’cros qu’alle
+                    ara<lb/>bio mette l’boite intière inne l’artrouva guère.</p>
+                <p><lb/>J’enne vau qu’une solution l’arcicler.</p>
+                <fw type="numbering"><lb/>3</fw>
+                <pb facs="Picard_Concours_2020_19_p4.png"/>
+                <p><lb/>Hier ass' arvétiot dins l’m’iro amme dit...........</p>
+                <p><lb/>« Tenne trouf' point qu’jé inne grosse potrine »</p>
+                <p><lb/>Pour mi chà va tin qu’té passe alle cheulle porte !</p>
+                <p><lb/>Egoiste chass vot bin qu'ennez point ui qui les portent.</p>
+                <p><lb/>All' masons esse su toudis tout ceuxmé quind alle rintre alle<lb/>a du
+                    bonheur plein ses yux.</p>
+                <p><lb/>J’devros ett' jaloux d’cheuulle société qui print m’fimme in<lb/>timps
+                    compté mé tout compt fé....... Chacun sin dada, cha<lb/>évite ed fére voler
+                    cheux plats.</p>
+                <p><lb/>Mes infints, n’arconnotent pu leu mère dins l’timps alle étot<lb/>putôt
+                    casanière in vieillissint ch’est putot fleur d’amourette.<lb/>Alle a rageunie
+                    d’vaint ins, acheteur alle met des mini<lb/>jupettes com ale dit «l faut qu’cha
+                    respire et qu’ché bon<lb/>poul sing .Mi j’eux bin,mé jé peur qu’ass' frot
+                    morte par un<lb/>kien.</p>
+                <p><lb/>Sull' feulle ed présince all société, amne met pu sin nom<lb/>d’famill' «
+                    Marie Morio»</p>
+                <p><lb/>Alle met sin nom d’scinne « Mariline Monero » L’ssuccés y<lb/>monte ass
+                    tiéte.</p>
+                <p><lb/>Ach'teur inne veut pus mette ed bas alle dit « J’vas mette<lb/>des collants
+                    ch’est pu pratique »</p>
+                <p><lb/>L'problinme, ch’est qu’aveuque des bas alle pouvot pêter in<lb/>douce.</p>
+                <p><lb/>Ach’teur, quint alle pète dins ses collants, ses mollets ed cop<lb/>y
+                    gonffent ed cinq pousses.</p>
+                <fw type="numbering"><lb/>4</fw>
+                <pb facs="Picard_Concours_2020_19_p5.png"/>
+                <p><lb/>Alle et décalée</p>
+                <p><lb/>Ch'nos passés amm' dit « l’propriétère j’a aucor téléphoné<lb/>pou i
+                    payer sin l’oyié »</p>
+                <p><lb/>j'i dit « qmint veut tu qu’inii pé sin loyié in n’arriff point
+                    à<lb/>péier l’not!»</p>
+                <p><lb/>Alle et tel’min radine qu’é quind alle arveitte cheulle messe<lb/>alle
+                    télé l’diminche au momin cheulle quette alle étint l’poste<lb/>peur ed payer.
+                    Alle et décalée!</p>
+                <p><lb/>Au pritimp passé in s’promenot dévint l’mer à Wimereux.<lb/>«Pouff alle
+                    qué à l’iau alle s’mé à crier « j’en ne sé point<lb/>nager !! j’enne sé
+                    point nager !!!</p>
+                <p><lb/>J'i répond « Mi non pu jenne sé poïnt nager, ché point
+                    pour<lb/>cha,gé'ch' cri comme un baudet»</p>
+                <p><lb/>Din tout cha j’ni comprind qué dale, ch’est difficile d’elle suiff<lb/>Mé
+                    j’min fou eumm' amour !</p>
+                <p><lb/>« Quin lorkesse s'arrêtra d’jué, ej dins rais aucor!»</p>
+                <p><lb/>« Quin les avions n’vol’rons pus, ej vol’rais tous ceux! »</p>
+                <p><lb/>« Quin l’timps s’arrêtra, j’tarais kerre aucor J’enne sé point<lb/>du ni
+                    commun d’accord!»</p>
+                <fw type="numbering"><lb/>5</fw>
+            </div>
+            <div xml:lang="met-fr">
+                <pb facs="Picard_Concours_2020_19_p6.png"/>
+                <head><lb/>Le club des blanches têtes</head>
+                <p><lb/>Depuis le temps qu’elle c’est inscrit dans le club des blanches<lb/>têtes,
+                    elle est toujours partie en promenade, en voyage.</p>
+                <p><lb/>Pour venir à sa maison il faut téléphoner prendre rendez vous
+                    pour<lb/>être certain de la trouver. Elle est partie en réunion, en
+                    excursion<lb/>ou en répétition.</p>
+                <p><lb/>Il n’y a que les mois d’hiver que l’on peut la voir à sa maison,
+                    là<lb/>elle prépare la fameuse exposition.</p>
+                <p><lb/>Rappelle toi, il y a quelques années pour son anniversaire on lui<lb/>avait
+                    acheté un beau vélo rouge, c’est maintenant qu’il est rouillé,<lb/>qu’elle
+                    voudrait monter dessus pour allés se promener alors qu’il<lb/>fallait l’emmener
+                    partout en auto, maintenant elle ne peut plus faire<lb/>sans son vélo.</p>
+                <p><lb/>Si vous la rencontrez au détour d’un chemin, il vaut mieux vous<lb/>reculer
+                    car elle vous rentre dedans.</p>
+                <p><lb/>Elle, qui ne pouvait faire dix mètres à pieds il faut voir, pour
+                    les<lb/>blanches tête tout ce qu’elle fait.</p>
+                <p><lb/>Dans le club, de temps en temps c’est l’auberge Espagnole, elle<lb/>mange
+                    avec ses copines du couscous des tagines, là elle ne regarde<lb/>pas elle tape
+                    dans tous les plats, le lendemain elle se plaint qu’elle<lb/>n’est pas bien, et
+                    c’est moi qui l’ait.</p>
+                <p><lb/>Elle a un planning plus fourni que le ministre de la culture, le<lb/>lundi
+                    c’est gym douce le mardi matin l’après midi c’est répétition<lb/>théâtre,
+                    elle passe des heures dans la salle de bain, elle se met sur<lb/>sa figure du
+                    rouge, du vert, on dirait un indien sur le sentier de le<lb/>guerre, avec la
+                    couche de couleur on pourrait refaire les portes, les<lb/>fenêtres, les
+                    murs.</p>
+                <p><lb/>Je vous l’assure que, lorsqu’elle m’embrasse ça laisse des traces.<fw
+                        type="numbering"><lb/>1</fw><pb facs="Picard_Concours_2020_19_p7.png"/><lb/>Les
+                    gens du village l’appelle l’aquarelle, il paraît que sait comme<lb/>cela de
+                    mère en fille.</p>
+                <p><lb/>Pas le temps de faire une petite sieste après déjeuner ni regardez<lb/>les
+                    feux de l’amour c’est réunion à la société.</p>
+                <p><lb/>Il n’y a que le samedi et le dimanche que je l’aie pour moi seul.<lb/>C’est
+                    le plus beau moment de la semaine, le soir elle se blottit<lb/>contre moi, çà
+                    me fait tout drôle, je suis tout retourné j’ai des<lb/>frissons dans tout mon
+                    corps, c’est comme si je fréquenterais<lb/>encore.</p>
+                <p><lb/>Elle me fait deux baisers sur mes lèvres,puis elle s’endort comme<lb/>une
+                    masse,ça ce sont les blanches têtes qui repassent.</p>
+                <p><lb/>Le dimanche elle regarde la météo, ce n’est pas par manque d’eau<lb/>mais
+                    le lundi c’est marche à la mare à Bigorneaux.</p>
+                <p><lb/>J’ai beau lui dire d’aller doucement, elle me répond « Toi vas dans<lb/>ton
+                    jardin »</p>
+                <p><lb/>Le mieux c’est quand elle se met à parler de toilette, elle dit<lb/>qu’elle
+                    va à trou, qu’elle n’a plus rien à se mettre.</p>
+                <p><lb/>Pour elle il faut changer tout cela, c’est trop long, trop cour,
+                    c’est<lb/>démodé on ne voit plus ça de nos jours.</p>
+                <p><lb/>Elle met des leggings alors qu’elle est énorme ça ne lui va pas,
+                    on<lb/>voit toutes ses formes, à coté de moi qui est tout petit pour
+                    faire<lb/>son poids il en faudrait trois comme moi.</p>
+                <p><lb/>Elle a rapporté à la maison un vieux chat elle l’appelle mon
+                    minou<lb/>alors qu’il est lait comme un pou, ça me fait penser à un copain
+                    de<lb/>l’école que l’on appelait « Brin de chat ».</p>
+                <fw type="numbering"><lb/>2</fw>
+                <p><pb facs="Picard_Concours_2020_19_p8.png"/><lb/>Quand elle est en colère, elle me
+                    dit qu’elle a toujours été mon<lb/>esclave que les bonnes choses c’est pour
+                    moi ,les mauvaises pour<lb/>elle.</p>
+                <p><lb/>Hier je lui dis que je suis allé à la visite médicale en vue
+                    de<lb/>prendre ma retraite inutile de montrer ses papiers, maintenant
+                    on<lb/>montre son torse c’est au nombre de poils blancs que l’on
+                    définit<lb/>l’âge. Elle me répond « Tu aurais du enlever ton pantalon tu
+                    aurais<lb/>sûrement eu une pension d’invalidité. »</p>
+                <p><lb/>Tout les jours je l’attends comme un jeune amant sitôt qu’elle<lb/>arrive
+                    je suis heureux elle dit si bien mon amoureux en me faisant<lb/>des baisers
+                    langoureux.</p>
+                <p><lb/>Vous ne connaissez pas la dernière, elle a vu sur internet
+                    qu’elle<lb/>pouvait assurer son chat par la mutuelle des animaux familiers,
+                    on<lb/>y verra tout alors qu’il est laid comme un pou.</p>
+                <p><lb/>Elle va se faire remettre des implants dentaires alors que moi<lb/>j’aurais
+                    besoin de changer mes lunettes quand je lui dit cela elle<lb/>répond » Pour me
+                    compter fleurette tu n’as la besoin de lunettes »<lb/>Parfois je me demande si
+                    elle a encore toute sa tête.</p>
+                <p><lb/>Elle voudrais aller en croisière alors qu’elle ne supporte pas la<lb/>mer,
+                    je lui dit qu’elle risque de vomir ses boyaux, elle me répond<lb/>« Tinquiette
+                    je mettrai des pampers où il faut ».</p>
+                <p><lb/>Dernièrement, une démonstratrice vantait les mérites d’une
+                    crème<lb/>anti-âge elle a acheté quatre bocaux, maintenant elle va au lit
+                    avec<lb/>plein de crème sur sa figure, elle en met plein les draps
+                    les<lb/>couvertures.</p>
+                <fw type="numbering"><lb/>3</fw>
+                <pb facs="Picard_Concours_2020_19_p9.png"/>
+                <p><lb/>Il parait que c’est bon pour retrouver un teint de jeune fille,
+                    elle<lb/>aura beau mettre la boite entière elle ne la retrouvera guère. Je
+                    ne<lb/>vois qu’une solution la recyclée.</p>
+                <p><lb/>Hier elle se mirait dans le miroir « Tu ne trouve pas que j’ai
+                    une<lb/>grosse poitrine «<lb/>« Pour moi ça va tant que tu passe à la porte
+                    «<lb/>« Egoîste, ça se voit que ce n’est pas toi qui les portent »</p>
+                <p><lb/>Elle était fixée sur sa bouche « Je voudrais des lèvres pulpeuses
+                    ».<lb/>Bien sur elle n’en fait qu’à sa tête, et vas y du bistouri il faut voir
+                    le<lb/>tableau. Il lui on tellement remonté ses lèvres que maintenant
+                    sa<lb/>lui bouche les trous de son nez.</p>
+                <p><lb/>Depuis ce temps elle est tout raplapla, elle devrait faire de la
+                    pub<lb/>pour Banania.</p>
+                <p><lb/>Du nouveau cet été elle a fait une épilation maillot, maintenant
+                    ça<lb/>me fait tout drôle Dégritte Bétancourt elle est passé à
+                    morne<lb/>plaine.</p>
+                <p><lb/>A la maison je suis toujours seul, mais quand elle rentre elle a
+                    du<lb/>bonheur plein les yeux, je devrais être jaloux de cette société
+                    qui<lb/>prend ma femme en temps complet, tout compte fait chacun son<lb/>dada et
+                    çà évite de faire voler les plats.</p>
+                <p><lb/>Mes enfants ne reconnaissent plus leur mère, dans le temps elle<lb/>était
+                    plutôt casanière en vieillissant c’est plutôt fleur d’amourette.<lb/>Elle a
+                    rajeunie de vingt ans, maintenant elle mes des mini jupettes<lb/>,comme elle dit
+                    il faut que ça respire, que c’est bon pour le<lb/>sans, moi je veux bien, mais
+                    j’ai peur quelle se ferait mordre par un<lb/>chien.</p>
+                <p><lb/>Sur la feuille de présence, elle ne met plus son nom de famille<lb/>Marie
+                    Maurio, elle met son nom de scène.... Mariline Monero<fw type="numbering"
+                        ><lb/>4</fw>
+                    <pb facs="Picard_Concours_2020_19_p10.png"/><lb/>le succès lui monte à la tête.
+                    Elle ne veux plus mettre de bas elle<lb/>dit »je vais mettre des collants c’est
+                    plus pratique « le problème<lb/>c’est qu’avec des collants elle pouvait péter
+                    en douce maintenant<lb/>quand elle péte dans ses collants ses mollets gonflent
+                    de quatre<lb/>pousses.</p>
+                <p><lb/>Elle est décalée</p>
+                <p><lb/>Le mois passé elle me dit « Le propriétaire m’a encore
+                    téléphoné<lb/>pour lui payer son loyer.. Je lui dit.....Comment veut tu lui
+                    payer<lb/>son loyer, on n’arrive point à payer le nôtre.</p>
+                <p><lb/>Elle est tellement radine que quand elle regarde la messe à la télé
+                    le<lb/>dimanche, au moment de la quette elle éteint le poste peur
+                    de<lb/>payer.</p>
+                <p><lb/>Au printemps, on se promenait devant la mer à Wimeureux «<lb/>Pouf, elle
+                    glisse et tombe à l’eau .Elle se met à crier « Je ne sais<lb/>pas nager ! «
+                    Moi non plus je ne sais pas nager ce n’ai pas la<lb/>peine de crier comme cela
+                    «</p>
+                <p><lb/>Dans tout cela, je ni comprends plus rien, c’est difficile de la
+                    suivre..</p>
+                <p><lb/>Quand l’orkestre s’arrêtera de jouer; Je danserais encore</p>
+                <p><lb/>Quand les avions ne voleront plus : Je volerais tout seulement</p>
+                <p><lb/>Quand le temps s’arrètteras :<lb/>Je t’aimerais encore</p>
+                <p><lb/>D’accord</p>
+                <fw type="numbering"><lb/>5</fw>
+            </div>
+        </body>
+    </text>
+</TEI>

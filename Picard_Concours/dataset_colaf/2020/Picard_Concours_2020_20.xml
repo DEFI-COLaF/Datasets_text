@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_20</idno>
+                <title type="main"> Batiste</title>
+                <title type="collection">Picard Concours</title>
+                <author>Georges, BAILLET </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Batiste</title>
+                    <author>Georges, BAILLET </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="50">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="50">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_20_p1.png"/>
+                <fw type="numbering"><lb/>N°20</fw>
+                <head><lb/>Batiste</head>
+                <p><lb/>Y’étoé assis, lo such banc au pied d’éch tchot fu au bout éd l’échtèe.
+                    Sin<lb/>nom chétoé Batiste mais on l’awé toujours aplè ch’Tist. Matlou
+                    arhtrétè<lb/>yétoé lo assis tout seu cha n’étoé point pourtant és
+                    n’habitute mais édpis<lb/>huit jours i s’élvoé au matin après i partoé
+                    s’assir au bout éd’léchtèe tout<lb/>seu i répondoé toujours a chés gins
+                    pér un tchot seigne éd tête i n’aloé<lb/>pus vire ses camérates à ch’coin
+                    minteux.ch’Tist yawé étè tout s’vie<lb/>d’un caractére égal, toujours émap
+                    aveuc tout m’monde mais cho chétoé<lb/>d’vant, d’van qu’és vie bachtchule
+                    d’un seul queup.</p>
+                <p><lb/>Y’étoé lo assis comme tous les jours, arhbeillant droét d’van li san
+                    vir<lb/>arhien. Ch’Tist y’arhbéilloét un vol d’émieulèttes qui tournoétent
+                    a’s<lb/>sortie d’éch port in tournant chés émielettes dérouloètent és vie
+                    comme<lb/>in film au cinéma, tout tchoté y’étoét su’ch tchè a l’arivèe
+                    d’chés<lb/>canotes surtout quant la “Gloire’éch canote éd Chaille capape,
+                    in<lb/>chalutier d’vingt mètres, s’améroé à tchè, Chaille s’awét prind
+                    d’amitiè<lb/>pour éch tchot nazu qui étoét, i li foézoét foér in molé
+                    d’travail à bord.<lb/>In li donnant s’nanfi pi inne codiére éd pichons,i li
+                    disoét toujours, à<lb/>douze ans si t’a tin sertificat éch t’imberque comme
+                    mouche pour ék<lb/>t’aprinche ch’métier d’matlou, mais surtout apprinds bien
+                    à l’école<lb/>après tu pourros in travaillant dur pour dévnir mouète ti
+                    oussi.is cho chétoé<lb/>d’vant, d’van qu’és vie bachtchule d’un seul
+                    queup.<lb/>Alors ch’Tist,ya travaillè ya aprind ses l’sons ch’moète d’école
+                    né<lb/>l’arhconnoésoé pus yétoé dévnu sin méilleux écolier, bien seur à
+                    douze<lb/>ans ya étè arhchu aveuc des félicitations, quant la gloire a sa
+                    amérèe à<lb/>tchè ch’Tist y’étoé lo aveuc sin bieu diplôme qu’és mére
+                    à l’awée foét<lb/>incadrer. Alors chaille in li métant s’main sus n’épeule
+                    ya dit tu vos<lb/>aller ach magasin d’mérine tu qu’mandros in grémint complet
+                    bottes,<lb/>grande véreusse, soroé tu dis éd mètte cho sus min compte<pb
+                        n="Picard_Concours_2020_20_p2.png"/><lb/>mi éj min vot aller vire és
+                    syndic pour ét mette sus ch’rôle d’étchipache<lb/>din trois jours o partons
+                    pour inne mérèe d’inne ésmaine départ à quatre<lb/>du matin, soé à
+                    l’heure. chaille sa arhtournè pi ya étè surveiller sin<lb/>pichon.</p>
+                <p><lb/>Cch’tist ya comprin qu’asteur i nétoé pus in infant sus tchè
+                    mais<lb/>ch’mouche d’la « Gloire » pi ék Chaille chétoé ch’moète, qui
+                    aloé<lb/>fouloére travailler, obéir pi aprènne. Es part éd partichache
+                    y’aloé<lb/>fouloére ék ganier.</p>
+                <p><lb/>I 's souvnoé dé’s premiére mérèe chés émieulèttes tournoètent
+                    outotir<lb/>dé'ch fu comme aujourd’hui y’a qu’minchè s’naprintichache
+                    aveuc<lb/>chaille, on né l’aploé point capape pour arhien y’étoé exigeant
+                    mais<lb/>juste, surtout aveuc ch’Tist. Pus tard ch’Tist ya comprint quant ya vu
+                    és<lb/>sourire éd chaille quant ya yeu sin brevet d’capacitè, pour yètte
+                    mouète<lb/>ya comprin ék chaille l’awé formè al mér comme sin fiu, a partir
+                    dé’<lb/>jour lo capape la incouragè a prinde in commendemint in li<lb/>disant
+                    « asteur j’nè pus rien a t’aprinne, on cherche dés jeunes mouètes<lb/>comme
+                    ti, j’è pérlè à monsieur Pierre éch l’armateur i m’a dit
+                    qu’tu<lb/>présente à sin bureau.</p>
+                <p><lb/>Ché comme cho qué ch’Tist ya yeu sin premier comandmin sur « la<lb/>Petite
+                    Julie». A’s première mérèe y’étoé su’ch grand banc aveuc tout<lb/>chés
+                    canotes éd la côte éch vint d’amont y’a tournèe au sud d’un
+                    seul<lb/>cueup.Ch’est seigne éd grous mauvais temps (vint d’amont ravalè
+                    yé<lb/>pire qu’inne vaque inragèe) disoètent chés viux matlous, tous
+                    chés<lb/>canotes sont rintrès au port a part « la petite Julie »ék sin
+                    mouète ch’Tist<lb/>ya foé mette in cap, chonk jours éd grous temps, chonk
+                    jours ék chés<lb/>matlous y’ont restè din ch’roof a part échtio qui étoé
+                    d’quart chTist n’a<lb/>casimint point tchitè s’paserelle pendant chonk jours la
+                    « petite Julie» a<lb/>la capeillèe din inne mer déchénèe souvint couverte
+                    pér in queup d’mér<lb/>mais toujours foésant face in s’arhdréchant.Ch’tist
+                    à s’passerelle y’a<lb/>sinti ch’temps calmir</p>
+                <p><lb/>Y’a criè a l’étchipache prépéré ché’t traille pi hors tchul o z’allons
+                    foér<lb/>in trait, chés matlous sont arhbéillè pi sans dire arhien y’ont
+                    obéis al mér<lb/>on distchute point in ordre dé' ch moète, deux heures
+                    après quant y’ont<lb/>virè lu traille éch tchul yétoé telmint plein éd
+                    pichon pi du bieu pichon<pb facs="Picard_Concours_2020_20_p3.png"/><lb/>Qué chtist
+                    lu z’a dit a’r rablantchie ch’pichon wéyache, hors tchul on<lb/>z’allont foére
+                    des traits d’inne heure, cha vouloé dire ya du pichon,<lb/>aveuc des traits
+                    cours éch pichon vo moins soufrir, yé pus bieu à la<lb/>vente, mais
+                    l’étchipache sawétent qui n’éroètent yeu qu’vingt minutes<lb/>pour dormir in
+                    tardeu traits y’ont travaillè comme cho tant qu’lu cale<lb/>soéche pleine
+                    d’pichon quant Ch’tist ya donnè l’orde « arimè chète<lb/>traille on rinte »A
+                    part ch’l’homme éd quart tout l’étchipache sa affalè<lb/>din lu cabène sans
+                    s’débiller i’n nin pouwètent té pus.</p>
+                <p><lb/>A terre sus tchè chés fèmmes y’atindoètent angoéssèes in
+                    s’pleignant<lb/>« confier in canote à in oussi jeune moète ché point
+                    résonape ! chés nos<lb/>z’homme qui sont à’m mére » in molé pus loin
+                    l’armateur y’intérogoé<lb/>Chaille Capape « qu’en pensez vous ?»<lb/>Chaille
+                    y’a répondu « ch’ Tist ché mi qui y’a tout appind, ch’Tist ché<lb/>mi a vingt
+                    ans »</p>
+                <p><lb/>din ch’port tout chés canotes l’érdjoètent lus amares pour aller
+                    foére<lb/>ch’é’r rablantchie.ché lo qu’on à vue appéraître « la petite
+                    julie »basse<lb/>su ché yeu, tcértchè d’pichon. a peine amérèe l’armateur
+                    y’étoé à bord<lb/>Ch’Tist li dit dépéché vous d’ramner in étchipe éd
+                    dochers l’étchipache<lb/>Yé réduit, not cale à lé pleine, ék du bieu
+                    pichon l’armateur ya prind ses<lb/>dispositions pour aller vite, chonk jours
+                    sans rien a la vente, chés<lb/>maréyeurs vont s’batte pour awére du pichon
+                    chés prix montent<lb/>ch’l’armateur in s’frottant ses mains y’annonce ché
+                    ché’p pus grosse<lb/>mérèe d’lénnèe, ch’plus grous tonnage aveuc éch
+                    record éd prix.<lb/>Ch’tist convoque l’étchipache a’ch café du port pour
+                    payé l’apéritif<lb/>annoncer lu part, Pi donner l’orde éd départ din deux
+                    jours.</p>
+                <p><lb/>In sortant d’éch café i rinconte Flore qui n’awé point vu d’pi
+                    bien<lb/>lontant, li si calme, li qu’arhien ne peut troubler, inne minute i
+                    reste lo<lb/>cleué sus plache yawé d’van li ché’p pus belle matelote éd
+                    toute la côte.<lb/>Tu t’souviens d’mi? qu’a li dmande bien seur qui li dit tu
+                    v’noé aveuc<lb/>tin pére au partichache quant j’étoé mouche sus la «gloire »
+                    bin ché<lb/>justemint min pére qui ma conseillè dé v’nir ét vire, voila
+                    j’è invie<lb/>d’vinde du pichon mais in débutant j’nè point d’sous min pére
+                    m’a dit<lb/>qui n’awé qu’ti qui pouwé m’aider éch voudroé qu’tu m’avanche
+                    yeune<lb/>ou deux tchaisses éd pichon éch té pairè quant j’ai z’érè
+                    vindu.</p>
+                <pb facs="Picard_Concours_2020_20_p4.png"/>
+                <p><lb/>Mi oussi j’è étè aidè pour débuter, vo à bord prind ch’pichon ék tu
+                    veux<lb/>dit qu’on mette cho sus min conte Tu m’péro pus tard j’é’n sus
+                    point<lb/>préssè. J’appéreille din deux jours pour inne mérèe d’huit jours
+                    éj rint<lb/>pour ché’d ducasse comme intérêt j’é té d’mande ché’p
+                    premiére danse<lb/>après o s’ront tchite. Flore a lève sus l’pointe éd ses
+                    pieds a li colle deux<lb/>groux bés pi in s’arhtournant a’s sauve tout courant,
+                    ch’tist rinte a<lb/>moison dés mère pour és laver, minger in molé mais
+                    surtout dormir és<lb/>mére qui awé tout prépérè l’arhbè minger pi quant
+                    ya étè coutchè a la<lb/>étè l’vire dormir soulagè dé’p peur qua la yeu à
+                    ché’d darhnière mérèe<lb/>mais fiè́re d’chés résultats d’ sin fiu</p>
+                <p><lb/>Quant in rintrant après lu mérèe d’huit jour, Flore à l’étoé sus tchè
+                    pour<lb/>li payer ses dettes, tu m’péro pus tard qui ya dit ch’Tist, marci qu’a
+                    li dit<lb/>Flore, passe au soér a’m moison pour m’amner au bal éch té doé
+                    ché’p<lb/>premiére danse</p>
+                <p><lb/>Au bal yon dansè ché’p premiére danse pi toutes ché danses qui
+                    yan<lb/>suivi in s’arhbeillant z’yux din les z’yux j’usqu’a minuit. Ch’tist
+                    ya<lb/>ramnè Flore à moéson d’sin pére ché lo qui lu z’on racolè d’in bé
+                    qui<lb/>n’finichoé point in partant ch’tist dit tu sè Flore quant éch min vo
+                    rintré<lb/>d’ém prochaine mérèe si tu n’é point sus tchè j’é’n tin
+                    voudrè point éch<lb/>continurè a’t vinde min pichon. Mais si pér bonheur té
+                    lo ! alors dit a tin<lb/>pére qué ch’veut aller li d’mander és fille pour la
+                    vie.</p>
+                <p><lb/>Huit jours après quant la « petite Julie » à peine amérèe a tché
+                    ch’tis<lb/>seutè à terre Flore sa ahotchè à sin cou a’li foé in bé
+                    montrant à tous<lb/>chés gins Qu’asteur y’étoétent uni. vient vire min pére
+                    i t’atint, laiche<lb/>min aller m’laver! à non qu’a dit Flore tu’n s’ro janmoé
+                    si bieu qu’din<lb/>tes z’habits d’matlou rimplis d’écailles éd pichon.ché
+                    comme cho<lb/>qu’troès moés après tout l’étchipache éd la « petite Julie
+                    »yétoétent au<lb/>mériache aveuc chés deux témoins Chail capape pi monsieur
+                    Pierre éch<lb/>l’armateur.</p>
+                <p><lb/>In an aprés on wéywé les mêmes au baptême éd chés jumeaux in
+                    fiu<lb/>Batiste qu’on n’a applè tout suite éch tchot Tist,inne fille Florinne
+                    aussi<lb/>belle qu’és mére.</p>
+                <pb facs="Picard_Concours_2020_20_p5.png"/>
+                <p><lb/>Lo din l’tète d’éch Tist tous chés énnèes d’bonheur défiltent<lb/>é'
+                    l’lancemint d’la « Flore » sin chalutier éd vingt sept métres
+                    gréillè<lb/>aveuc tous chés appérèils modernes cha li pérmétoé d’foère
+                    des mérèes<lb/>d’tchinze jours du large éd la Norvège j’usqu’a ches mérs
+                    d’Irlande<lb/>Pendant des énnèes ché li qui tous les ans ramnoé ch’pus
+                    grous<lb/>tonnache éd pichon</p>
+                <p><lb/>In même temps Flore a la dévloppè din commèrce éd pichon qui
+                    yé<lb/>dévnu in maison éd mérèe al expédié sin pichon tout partout même
+                    à<lb/>Péris.</p>
+                <p><lb/>Quant lus z’infants yont yeu lu bac Florinne a l’est parti foére inne
+                    école<lb/>éd commerce, sin frére éch tcho Tist yé parti au Havre pour awér
+                    sin<lb/>diplôme éd « capitaine de pèche ».aveuc lu diplôme in poche Florinne
+                    à<lb/>la prind éd direction déch commerce d’es mére. éch tchot Tist
+                    ya<lb/>imbértchè aveuc sin pére ch’qui yawé foé souvint pendant
+                    ses<lb/>vacances, ya tout suite rimplachè sin pére a’p passerelle. éch Tist
+                    aveuc<lb/>Flore yont peut s’arhposer, lu infants foézoèttent mécher lus
+                    z’affoires<lb/>Flore pi ch’Tist yont print du boin temps bien méritè yont
+                    woyagè, yont<lb/>foés ch’qui n’awètent poins peut foère pendant lu vie
+                    d’travail. Tous les<lb/>jours on z’és woéilloé bros d’dus bros d’ous foére
+                    lu tour su ch’tchè<lb/>saluant tous chés gins</p>
+                <p><lb/>Pi asteur ch’Tist yétoé lo tout seu comme in âme in pêne!</p>
+                <p><lb/>In passant à cotè d’li deux mattelotes in l’arhbeillant y’ont dit<lb/>-mé
+                    quoè qui yo ch’Tist !</p>
+                <p><lb/>-bin yé comme cho édpis l’intérmint<lb/>-qu’é l’intermint ?</p>
+                <p><lb/>-l’intermint d’Flore és fèmme</p>
+                <div type="liminal">
+                    <pb facs="Picard_Concours_2020_20_p6.png"/>
+                    <head xml:lang="met-fr"><lb/>Lexique pour Baptiste</head>
+                    <list>
+                        <item><lb/>Affalè: <foreign xml:lang="met-fr">se coucher lourdement en
+                                étant très fatigué</foreign></item>
+                        <item><lb/>Bés : <foreign xml:lang="met-fr">baisés</foreign></item>
+                        <item><lb/>Cabène :<foreign xml:lang="met-fr">couchette</foreign></item>
+                        <item><lb/>Codiére éd pichon: <foreign xml:lang="met-fr">part de
+                                poisson</foreign></item>
+                        <item><lb/>Emieulètte : <foreign xml:lang="met-fr">mouette</foreign></item>
+                        <item><lb/>foère in trait : <foreign xml:lang="met-fr">pêcher en trainant
+                                le chalut</foreign></item>
+                        <item><lb/>Hors tchul : <foreign xml:lang="met-fr">mettre le chalut à la
+                                mer</foreign></item>
+                        <item><lb/>Mette in cap:<foreign xml:lang="met-fr"> mètre le bateau face au
+                                vent</foreign></item>
+                        <item><lb/>:Molé: <foreign xml:lang="met-fr">peu</foreign></item>
+                        <item><lb/>Nazu : <foreign xml:lang="met-fr">enfant</foreign></item>
+                        <item><lb/>Partichache :<foreign xml:lang="met-fr"> partage des
+                                gains</foreign></item>
+                        <item><lb/>Rablantchie : <foreign xml:lang="met-fr">les heures suivant un
+                                coup de vent<lb/>Racoler: embrasser</foreign></item>
+                        <item><lb/>Réduit: <foreign xml:lang="met-fr">fatigué</foreign></item>
+                        <item><lb/>Role d’étchipage: <foreign xml:lang="met-fr">papier officiel
+                                comprenant le nom des marins de<lb/>l’équipage</foreign></item>
+                        <item><lb/>sindic: <foreign xml:lang="met-fr">fonctionnaire s’occupant des
+                                marins pêcheurs</foreign></item>
+                        <item><lb/>Tchot fu : <foreign xml:lang="met-fr">petit
+                            phare</foreign></item>
+                        <item><lb/>Tchoté: <foreign xml:lang="met-fr">petit</foreign></item>
+                        <item><lb/>Traille: <foreign xml:lang="met-fr">chalut (queuche en baie de
+                                Somme)</foreign></item>
+                        <item><lb/>Trait :<foreign xml:lang="met-fr">action de pêche en trainant le
+                                chalut</foreign></item>
+                        <item><lb/>Vint d’amont: <foreign xml:lang="met-fr">vent du
+                            Nord</foreign></item>
+                    </list>
+                </div>
+                <div xml:lang="met-fr">
+                    <pb facs="Picard_Concours_2020_20_p7.png"/>
+                    <head><lb/>Baptiste</head>
+                    <p><lb/>Il était assis sur le banc au pied du petit phare au bout de la
+                        jetée.son nom était<lb/>Baptiste, mais on l’avait toujours appelé
+                        ch’Tist. Marin retraité il était assis seul<lb/>ce n’était pourtant pas
+                        son habitude, mais depuis une semaine il se levait tôt le<lb/>matin et
+                        partait s’assoir au bout de la jetée seul, il répondait toujours au
+                        salut<lb/>des gents par un petit signe de tête, il n’allait plus voir ses
+                        camarades au coin<lb/>menteur ! Ch'Tist qui avait été d’un caractère
+                        égal toute sa vie, toujours<lb/>aimable avec tout le monde. Mais cela
+                        c’était avant, avant que sa vie bascule<lb/>d’un seul coup.</p>
+                    <p><lb/>Il était la, assis comme tous les jours, regardant droit devant lui
+                        sans rien voir.<lb/>en tournant les mouettes déroulaient sa vie comme au
+                        cinéma. Tout petit il<lb/>était sur le quai à l’arrivée des bateaux,
+                        surtout quant « la Gloire » le bateau de<lb/>« chaille capape »un chalutier
+                        de vingt mètres s’amarrait à quai chaille' s’était<lb/>pris d’amitié
+                        pour le petit gamin qu’il était, il lui faisait faire un peu de travail
+                        à<lb/>bord en lui donnant son argent de poche et une part de poisson, il
+                        lui disait « si<lb/>tu as ton certificat d’étude, je t’embarque comme
+                        mousse, pour que tu<lb/>apprennes le métier de marin, mais surtout
+                        travailles bien à l’école après tu<lb/>pourras en faisant des efforts
+                        devenir patron de pêche toi aussi »</p>
+                    <p><lb/>Alors ch'Tist a travaillé, il a appris ses leçons, l’instituteur ne le
+                        reconnaissait<lb/>plus il était devenu le meilleur élève de la classe.
+                        Bien sur à douze ans il a été<lb/>reçu avec les félicitations. Quant la
+                        gloire s’est amarrée à quai ch’Tist était la<lb/>avec son beau diplôme
+                        que sa mère avait fait encadrer. Chaille avec un sourire<lb/>lui met la
+                        main sur l’épaule en lui disant « tu vas aller au magasin de marine,
+                        tu<lb/>demanderas un gréement complet, bottes, grande vareuse, suroit tu
+                        dis de<lb/>mettre tout cela sur mon compte, j’irai voir le syndic pour
+                        t’inscrire sur le rôle<lb/>d’équipage dans trois jours nous partons pour
+                        une marée d’une semaine<lb/>départ à quatre du matin, soit à l’heure »
+                        Chaille s’est retourné, il est allé<lb/>surveiller son poisson Ch’Tist a
+                        compris que maintenant il n’était plus un enfant<lb/>sur le quai, mais le
+                        mousse de la « gloire »que Chaille était le patron de pêche<lb/>et qu’il
+                        fallait travailler, obéir et apprendre, la part de salaire il fallait la
+                        gagner</p>
+                    <pb facs="Picard_Concours_2020_20_p8.png"/>
+                    <p><lb/>Il se souvenait de sa première marée, les mouettes tournaient au tour
+                        du phare<lb/>comme aujourd’hui il commençait son apprentissage avec
+                        Chaille, on ne<lb/>l’appelait pas « capape » pour rien c’était un patron de
+                        pêche exigeant mais<lb/>juste, surtout avec ch’Tist. Plus tard ch’Tist a
+                        compris quant il a vu le sourire de<lb/>Chaille le jour où il a obtenu son
+                        diplôme de capacité pour être patron de<lb/>pêche, il a compris que
+                        Chaille l’avait formé à la mer comme son fils. A partir de<lb/>ce jour
+                        Capape l’a encouragé à prendre un commandement en lui<lb/>disant «
+                        maintenant je n’ai plus rien à t’apprendre, on cherche des
+                        jeunes<lb/>patrons de pêche comme toi, j’ai parlé à Monsieur Pierre
+                        l’armateur il m’a dit<lb/>que tu te présente à son bureau.</p>
+                    <p><lb/>C’est comme cela que ch’tist a eu son premier commandement sur la<lb/>«
+                        petite-Julie ». A sa première marée il était sur le grand banc avec tous
+                        les<lb/>bateaux de la côte. le vent du Nord a tourné brusquement au Sud
+                        d’un seul<lb/>coup en passant par l’ouest C’est l’annonce d’un coup de vent
+                        (vent du Nord<lb/>passe au sud est pire qu’une vache enragée) disait les
+                        vieux marins. Tous les<lb/>bateau sont rentrés au port sauf « la
+                        petite-Julie » que son patron ch’Tist a fait<lb/>mettre en cap, cinq jours
+                        de gros mauvais temps, cinq jours que les marins sont<lb/>resté calfeutré
+                        dans le poste d’équipage sauf celui qui était de quart à
+                        la<lb/>passerelle</p>
+                    <p><lb/>Ch'Tist n’a presque pas quitté sa passerelle pendant les cinq jours, la
+                        « Petite<lb/>Julie » a fait face dans une mer déchaînée souvent couverte
+                        par une Grosse<lb/>vague, mais toujours se redressant. Ch’Tist à la
+                        passerelle a senti le premier<lb/>que le temps calmissait, il a crié a
+                        l’équipage « préparez le chalut et hors cul<lb/>nous allons faire un
+                        trait. Les marins se sont regardés et sans rien dire, ils ont<lb/>obéis,
+                        en mer on ne discute pas un ordre du patron, deux heures après
+                        quant<lb/>ils ont viré le chalut il était tellement plein de poissons et
+                        du beau poisson! que<lb/>ch'tist a dit lors ce que le vent se calme le
+                        poisson voyage, hors cul nous allons<lb/>faire des traits d’une heure, cela
+                        voulait dire il y a beaucoup de poisson, avec<lb/>des traits cours le
+                        poisson vat moins souffrir il sera plus beau a la vente, mais<lb/>les marins
+                        savaient qu’ils n’auraient eu que vingt minutes pour dormir entre<lb/>deux
+                        traits.ils ont travaillé comme cela tant que la cale soit pleine de
+                        poisson.<lb/>Quant ch'tist a donné l’ordre « arrimez le chalut, on rentre »
+                        a part l’homme de<pb facs="Picard_Concours_2020_20_p9.png"/><lb/>quart tous se
+                        sont affalé dans leur couchette sans se déshabiller ils
+                        étaient<lb/>complètement épuisés.</p>
+                    <p><lb/>A terre sur le quai les femmes attendaient angoissées, en tremblant
+                        elles<lb/>disaient « confier un bateau à un aussi jeune patron ce n’est pas
+                        raisonnable!<lb/>Ce sont nos hommes qui sont en mer » un peu plus Loin
+                        l’armateur interrogeait<lb/>Chaille capape « qu’en pensez vous ?» Chaille a
+                        répondu « ch’tist c’est moi qui<lb/>lui a tout appris, Ch’tist c’est moi a
+                        vingt ans ».<lb/>Dans le port tous les bateaux larguaient les amarres pour
+                        aller faire l’accalmie.<lb/>C’est la que l’on a vu apparaitre la « petite
+                        Julie »basse sur l’eau, chargée de<lb/>poisson. A peine amarrée l’armateur
+                        était à bord, Ch’tist lui dit dépêchez vous<lb/>de ramener une équipe
+                        de docker pour décharger le poisson l’équipage est<lb/>épuisé la cale
+                        est pleine, que du beau poisson. L’armateur a pris ses<lb/>dispositions pour
+                        aller vite, cinq jours sans rien à la vente, les mareyeurs vont<lb/>se
+                        battre pour avoir du poisson. Les prix montent ! l’armateur en se frottant
+                        les<lb/>mains annonce, c’est la plus grosse marée de l’année le plus gros
+                        tonnage avec<lb/>le record de prix. Chtist convoque l’équipage au café du
+                        port pour payer<lb/>l’apéritif annoncer leur gain et donner l’ordre de
+                        départ dans deux jours.</p>
+                    <p><lb/>En sortant du café il rencontre Flore qu’il n’avait pas vu depuis bien
+                        long tant,<lb/>lui si calme, lui que rien ne peut troubler une minute il
+                        reste la, cloué sur place<lb/>il avait devant les yeux la plus belle
+                        matelote de toute la côte.</p>
+                    <p><lb/>elle lui demande, tu te souviens de moi ? bien sur qui lui dit tu venais
+                        avec ton<lb/>père au partage quant j’étais mousse sur la « Gloire » voila
+                        c’est justement mon<lb/>père qui m’a conseillé de venir te voir, j’ai
+                        envie de vendre du poisson mais en<lb/>débutant je n’ai pas d’argent mon
+                        père m’a dit qu’il n’y avait que toi qui<lb/>pouvait m’aider je voudrai que
+                        tu m’avance une ou deux caisses de poisson je<lb/>te paierai quant je les
+                        aurai vendu.</p>
+                    <p><lb/>Moi aussi j’ai été aidé pour commencer, va à bord prend le poisson
+                        que tu veux<lb/>dis que l’on mette cela sur mon compte tu me paieras plus
+                        tard je ne suis pas<lb/>pressé. J’appareille dans deux jours pour une
+                        marée de huit jours je rentre pour<lb/>la ducasse comme intérêt je te
+                        demande la première danse après nous serons<lb/>quitte. Flore se lève sur
+                        la pointe des pieds lui colle deux gros baisers sur les<lb/>joues et en se
+                        retournant se sauve en courant, Ch’tist rentre chez sa mère pour<lb/>se
+                        laver manger un peu mais surtout dormir sa mère qui avait tout preparé le
+                            <pb facs="Picard_Concours_2020_20_p10.png"/><lb/>regarde manger puis il est
+                        allé se coucher, sa mère est allé le voir dormir elle<lb/>était
+                        soulagée de l’angoisse de la dernière marée et fière de la performance
+                        de<lb/>son fils</p>
+                    <p><lb/>Quant en rentrant de sa marée d’une semaine, Flore était sur le quai
+                        pour lui<lb/>payait ses dettes, il lui a dit tu me paieras plus tard, merci
+                        a répondu Flore<lb/>passe chez moi ce soir pour m’emmener au bal je te dois
+                        la première danse. au<lb/>bal ils ont dansé la première danse et toutes
+                        les autres qui ont suivi en se<lb/>regardant dans les yeux jusqu’à minuit.
+                        C’tist a reconduit Flore chez son père ils<lb/>se sont embrassé d’un
+                        baisé qui n’en finissait pas, en partant C’tist dit « tu sais<lb/>Flore
+                        quant je vais rentrer de ma prochaine marée si tu n’es pas sur le quai
+                        je<lb/>ne t’en voudrai pas, je continuerai à te vendre mon poisson. Mais si
+                        par<lb/>bonheur tu es la! Dis à ton père que je veux lui demander la main
+                        de sa fille.</p>
+                    <p><lb/>Huit jours après quant la « petite Julie » à peine amarrée à quai
+                        Chtist a sauté à<lb/>terre, Flore s’est accrochée à son coup elle l’a
+                        embrassé longuement pour<lb/>montrer à tous que maintenant ils étaient
+                        unis, « vient voir mon père il<lb/>t’attend » laisse moi aller me laver !
+                        dit C’tist, à non dit Flore tu ne serras<lb/>jamais aussi beau que dans tes
+                        habits de marin décorés d’écailles de poisson.<lb/>C’est comme cela que
+                        trois mois plus tard l’équipage de la « petite Julie »était<lb/>au mariage
+                        avec les deux témoins Chail capape et monsieur Pierre l’armateur.<lb/>Un an
+                        après on voyait les mêmes au baptême des jumeaux un fils, Baptiste
+                        que<lb/>l’on a tout de suite appelé éch tcho Tist et une fille Florine
+                        aussi belle que sa<lb/>mère.</p>
+                    <p><lb/>Dans la tête de Ch’tist tous les années de bonheur défilent, le
+                        lancement de la<lb/>« Flore » son chalutier de vingt sept mètres avec tous
+                        les équipements<lb/>modernes qui lui permettaient de faire des marées de
+                        quinze jours du large de<lb/>la Norvège jusqu’a la mer d’Irlande, pendant
+                        des années c’est lui qui tous ans<lb/>ramenait le plus gros tonnage de
+                        poisson dans le port. Pendant ce temps Flore<lb/>développait son commerce
+                        de poisson qui était devenu une maison de marée<lb/>elle expédiait son
+                        poisson partout même à Paris.</p>
+                    <p><lb/>Quant leurs enfant ont eu leur BAC Florine est partie dans une école
+                        de<lb/>commerce son frère tcho Tist est entré au Havre à l’école de la
+                        marine<lb/>marchande pour avoir son diplôme de capitaine de pêche leurs
+                        diplômes en<lb/>poche, Florine a pris la direction du commerce de sa mère
+                        et tchot Tist a<pb facs="Picard_Concours_2020_20_p11.png"/><lb/>embarqué avec
+                        son père ce qu’il avait fait souvent pendant les vacances, il a<lb/>très
+                        vite remplacé son père a la passerelle. Ech Tist avec Flore ont pu
+                        se<lb/>reposer, leurs enfants développaient le commerce et la pêche avec
+                        des<lb/>nouvelles formes de travail. Flore et ch'Tist ont voyagé ils ont
+                        fait tout ce qu’ils<lb/>n’avaient pas pu faire pendant leur vie de travail,
+                        tous les jours on les voyait se<lb/>tenant par le bras se promener sur le
+                        quai pour saluer tout le monde</p>
+                    <p><lb/>Et maintenant ch'Tist était la tout seul comme une âme en peine, en
+                        passant<lb/>devant lui deux matelotes en le regardant ont demandé</p>
+                    <p><lb/>-qu'elle maladie a attrapé ch'Tist ?</p>
+                    <p><lb/>-il est comme cela depuis l’enterrement !</p>
+                    <p><lb/>-quel enterrement ?<lb/>l’enterrement de Flore sa femme</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

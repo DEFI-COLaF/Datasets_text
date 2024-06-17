@@ -1,0 +1,912 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_02</idno>
+                <title type="main"> Toccata et Fugue</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jacques, DEFOLIE</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Toccata et Fugue</title>
+                    <author>Jacques, DEFOLIE</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="95">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_2_p1.png"/>
+                <fw type="numbering"><lb/>N°2</fw>
+                <fw type="numbering"><lb/>1</fw>
+                <head><lb/>TOCCATA et FUGUE</head>
+                <p><lb/>Eine plache ed villache carrée, éclairée par ein bieu solel d’été, dins
+                    eine fin ed matinée d’ein juilet<lb/>in train ed finir. Alle assez étindue
+                    pour atcheullir deux ringées d’arbes. Edz' acacias qu’is<lb/>dispinsent ed
+                    l’ombe convnab’mint pis qu’is in font ch' tour. Cha permet ainsi à ch' café
+                    d’el'<lb/>Plache d’avoér eine terrasse déhors. Point loin ed lo eine Mairerie
+                    ed briques rouches pis in fache,<lb/>eine église avuc sin clotcher in béton
+                    pis ed briques ed l’aprés Grande djerre. Eine grande fléque<lb/>qu’o voét ed
+                    tout partout in arrivant. Tout cha o été construit aprés l’ djerre ed 14/18
+                    qu’alle o<lb/>démanglé ch' villache à quasimint chint pour chint. Y o étou
+                    l’ poste pis ches batimints ed ches<lb/>école dont chti d’el maternelle qu’alle
+                    donne dsus l' plache qu’o délonme Victor Hugo. Fut ein<lb/>temps, mais cha
+                    r’monte à fin loin, dsus l’plache lo s' juait des parties ed longue paume, ed
+                    balle à<lb/>l’ main ou ed ballon au poing. Ch’étoait des roaides batalles,
+                    avuc ches eutes poéyis ed ches<lb/>alintours, qu’alles sont coére dins ches
+                    mémoéres ed ches viux. Achtheure, pus parsonne n' jue à<lb/>ches jux lo. L'
+                    mode alle est passée ed juer à des jux qu’is étoétent conme eine tradition.
+                    Ch'<lb/>progrés i l’amin-ne point equ des boénes coses...</p>
+                <p><lb/>Ein chirque, ein ed ches tchouts chirques qui déimbulent in molé tout
+                    partout dins ches bieux<lb/>jours, l’est in train ed s’installer dsus l' plache
+                    lo. A grand rinfort ed coeups ed masse dsus des<lb/>pieux ed ferralle qu’os
+                    infonche dins ch’sol. Eine tchotte dizain-ne d’honmes travallent
+                    d’arrache¬<lb/>pyid, chti lo torche nu, l’eute in tricot ed pieu. Dsous ch'
+                    l’ergard inflanmé ed ches nasus d’el<lb/>tchotte ville qu’is sont vnus s’coller
+                    lo, conme des mouques dsus eine taque ed chuque, sitôt ches<lb/>preumes coeups
+                    ed masse. Des roulottes pis des tracteurs, avuc des couleurs qu’alles<lb/>ont
+                    été, sins doute ein jour, milantes, clatchantes, is sont ringés dins ein
+                    tchuin d’el' plache avuc l'<lb/>roulotte d’el tchaisse qu’est djo mis à
+                    l’indroét qu’o été défini à l’avanche conme dvant dvnir<lb/>l’intrée. Tout
+                    cha ch’est défraîqui avuc eine peinture qu’alle s’écalle par-chi, par-lo. Des
+                    lettes<lb/>méniérées annonchent equ ch’est ech chirque Zinder qu’est lo, in
+                    train ed s’installer. Meume l'<lb/>toéle d’ech capitieu, equ dréchent ches
+                    honmes à des mats d’ein bleu picheux, alle est terne, fanée,<lb/>rapiéchée
+                    grossiéremint avuc des coutures à gros points. Ch’capitieu d’où qu’ches
+                    honmes<lb/>installent deux ringées ed gradins in bous, peinturés à l’peinture
+                    verte, blantchis d’usure pis pleins<lb/>ed peuchiére. Pis is montent ech rond
+                    magique d’ech chirque " l’piste’ avuc edz élémints<lb/>préfabritchés don
+                    qu’o voét nett’mint equ ch’est usé par l’imploé intinsif qu’in o été foait.
+                    Tout<lb/>cha, cha sint à plein nez ech pauve chirque pour des gins point trop
+                    riches. Ch’pindint eine<lb/>affiche avuc des couleurs provotchantes d’où qu’ech
+                    bleu-violet i s’mélinge avuc du gane-oringé<lb/>soulingné ed rouche annonche
+                    des liméros “d’ernonmée mondiale’. Eine affiche espéciale donne<lb/>eine
+                    indication préchise “L'présinche esclusife d’ech clown meusicien RÉMISOL !
+                    L'grande<lb/>vedette ed ches music-halls d’ech monne intii"</p>
+                <p><lb/>L'intrée seupposée d’ech chirque, foaite ed potieux d’ein rouche et blanc
+                    rlavé, alle est intourée ed<lb/>deux pannieux. L’ein, ch’est ch' portrait ed
+                    tout prés d’ech clown. Ch’est point eine photo, ch’est<lb/>ed l’imprimure. Eine
+                    brongne qu’alle rit, barboulée ed blanc, ed noér, ed rouche. Avuc dsus
+                    s’tête<lb/>ein capieu riditchule ed tchottesse pis ein gros nœud ed croate
+                    d’ein gane s’rin d’ech puss bieu<lb/>effet. Troés photos font vir ch'
+                    ’l’artisse’ intouré d’instrumints ed musique d’où ch' qu’o voét
+                    eine<lb/>soée musicale, eine trompette, eine sorte ed piano, ein accordéyon,
+                    ein saxophone. I y o étou eine<lb/>série ed voérres ed différintes talles
+                    avuc eine fléque inditchant "RÉMISOL ech roé ed<lb/>l’harmonica ed voérre".
+                    L’eute pannieu annonche l'présinche ed ches Ramirez, ch' coupe volant,<lb/>pis
+                    ed Rotor, dresseu avuc ses célébes tchiens savants. Pis coére ed Nadia
+                    l’étchuyére, campionne<lb/>mondial’mint conneue. Tout cha ch’est écrit in
+                    gros, bitaclé ed couleurs. Point dzoin d’erbéyer<lb/>granmint pour vir equ
+                    tout cha, cha sert edpus longtimps.</p>
+                <p><lb/>L’ermontée alle s’est passé à finir ed mette l' darniére main à tout
+                    ch' qu’i y avoait à mette in<lb/>plache. Ches éfants is sont rintrés mond leu
+                    moéson pour ch' l’erpos ed midi, leus yux pleins ed<pb
+                        n="Picard_Concours_2020_2_p2.png"/>
+                    <fw type="numbering"><lb/>2</fw>
+                    <lb/>reuve pis leus langues pleinnes ed dmindes ed permission d’aller vir ech
+                    l’espectaque. Permission<lb/>qu’is éront du mau à avoér in distchutant pis in
+                    insistant dsus ch' prix ed ches plaches.</p>
+                <p><lb/>- Chinq z’uros, ch’est point tcher, manman... Et pis j’ai yeu ed boénes
+                    notes à l’école...</p>
+                <p><lb/>Cheux lo qu’is ont point yeu l' boéne réponse, is r’mettront cha ch'
+                    soér. Quainte eine voéture,<lb/>djeulant ed tous ses heut-parleus plachés
+                    dsus sin toét, alle fro ch' tour ed ville. Eine musique<lb/>qu’alle vous
+                    échouie avuc des flonflons, des ronfl’mints ed timbours pis ed chymbales,
+                    attir’ro<lb/>l’attintion ed cheux lo qu’is sont point au courant d’el’
+                    présinche d’ech chirque. L’tchotte ville,<lb/>brutalmint tiré ed ses tchottes
+                    habiteudes, sort dsus ch’pos ed ches portes pis alle erbéye l’voéture<lb/>au
+                    clintchant passé ed mode pis ed couleurs ternies qui cirtchule par dvant leu
+                    moéson in<lb/>z’abrutissant ed sons sindjuliers. Eine voéx ed stintor alle
+                    esz' assalle ed mots aussi élogiux<lb/>esz'eins qu’ches z’eutes.</p>
+                <p><lb/>- Ech Chirque Zinder, chirque européin réputé dins ch' monne intier, vous
+                    invite à vnir erbéyer<lb/>ein espectaque ed grand chirque dsus l’ plache
+                    Victor Hugo. Cha cminchro à vingt heures trinte<lb/>préchises. Os voérez ech
+                    grand clown musicien Rémisol. Ches Ramirez, ches trapézisses volants<lb/>dins
+                    leus dingéreux liméro, Rotor pis ses tchiens savants, l’étchuyére Nadia pis
+                    ses gvaux<lb/>cosaques pis bién d’eutes coses. Tout cha pour chinq z’uros...
+                    Tarif à mitan pour ches familes<lb/>nombreuses. Vnez tertous, assister à eine
+                    séance qu’alle restro dins vou mémoéres... Oubeliez<lb/>point ! Cha cminche
+                    à huit heures et dmie...</p>
+                <p><lb/>L'musique alle erprind pour s’arrêter tchéques escondes pus tard pis l'
+                    meume voéx ed répéter<lb/>ches meumes phrases avuc tchéques bruits bizarres,
+                    des crachot’mints qui s’in vont ed pavilons in<lb/>forme d’intonnoér, ches
+                    heut-parleus d’ech siéque darnier. I feut croére equ
+                    l’ardjumint<lb/>conchernant chés familes nombreuses o yeu raison ed ches
+                    imbarros ed sartains. Pasque ein molé<lb/>par dvant l’heure inditchée o voét
+                    des familes intiéres sortir ed leu moéson pis s’in aller vers l’<lb/>plache
+                    inditchée. Des groupes is s’forment in cours ed route. Biéntôt tout ch' monne
+                    lo dvise<lb/>insanne in passant à l’tchaisse, d’où qu’eine grosse fanme
+                    blonne, outrageus’mint matchilée,<lb/>intchaisse l’sonme due avuc eine risée
+                    conmerchialle qu’el' dur’té ed sin ergard i démint. Deux<lb/>honmes in veste
+                    bleuse fatidjée font edz' allers-rtours d’el' tchaisse à ch' capitieu pour
+                    diider ches<lb/>espectateurs dusqu’à ches gradins d’où qu’is sz’es lachent
+                    s’installer à leu diise. Tchéques ringées<lb/>ed cayelles pliantes in bous
+                    pis fer à l' peinture décrépite font eine seurte d’indroét privilégié
+                    pour<lb/>ches parsonnalités. Tout cha ch’est éclairé par edz' impoules ed bos
+                    voltache qu’alles répindent<lb/>eine leumiére gane, chiche, oschillant inter
+                    leumiére pis clair-obstchur. Au-dsus d’ech qui doét éte<lb/>l’intrée ed ches
+                    artisses, dsus eine sorte d’estrade, sont pertchés quate musiciens in veste
+                    bleuse<lb/>égalmint puss equ fatidjée. Is jutent in sourdin-ne edz airs
+                    vieusis d’où qu’eine érelle intrainée<lb/>seurprind bién des feusses notes.
+                    Deux projecteurs s’alleument pis ein ridieu bleu, à l’couleur
+                    si<lb/>estchintée qu’alle foait quasimint blanque, i s’ouve. Ch’est ein msieur
+                    Loéyal, à grosse panche, qui<lb/>annonche ech tout preume liméro aprés
+                    avoér salué " tout ch' monne qu’est lo pour vir ein<lb/>espectaque eunique in
+                    sin ginre".</p>
+                <p><lb/>Ech début d’ech l’espectaque ch’est minabe, puss qu’à mitan raté, par edz
+                    "artisses" qu’is in n’ont<lb/>qu’ech nom. Ein jongleu qui lache tchaire ses
+                    ingins eine foés dsus deux, ein illusionnisse qui rate<lb/>tout ch' qui foait,
+                    meume ech' qui doét éte sin coeup princhipal. Dsous des rires pour
+                    cmincher,<lb/>pasqu’o pinse à ein gag. Dsous ches sifflets insuite pis ches
+                    gronn’mints ed ches espectateus qui<lb/>cminchent à meurmeurer des tchouts
+                    “Rimboursez". Ech msieur Loéyal, ervient inter chés<lb/>liméros, gros, avuc
+                    eine grosse brongne rouche pis eine moustaque noére, ervêtu
+                    d’eine<lb/>ertchinpéte rouche usée dusqu’à l’trame, un capieu heut d’forme à
+                    ch’milant évanoui, ein patalon<lb/>noér qu’est vert d’usure. L' foés chi i
+                    l’annonche avuc cine prétintion évidinte:</p>
+                <p><lb/>- Pis vlo... Pourr vous charrmer... Pourr vous émouvoérr... Pourr vous
+                    foairre rirre pis brrraire...<lb/>Ech grrand, ch' l’imminse, l’illeustrrissime
+                    clown musical RE... Ml... SOL...</p>
+                <p><lb/>I djeule ech nom o in roulant ches "r’' ed méniére riditchule. Chaque
+                    coeupure d’ech nom l’est<lb/>accompangnée d’ein roul’mint ed timbour poussiu
+                    pis d’ein coeup ed chymbale qui foait ein<lb/>buzin ed castrole. Tout partout
+                    cha clatche ed rire quainte ech clown i rinte in piste...</p>
+                <pb facs="Picard_Concours_2020_2_p3.png"/>
+                <fw type="numbering"><lb/>3</fw>
+                <p><lb/>Ch’est l’ meume tête que dsus ch' pannieu ed l’intrée. Ein fidjure
+                    surcartchée ed blanc, avuc eine<lb/>bouque avuc des grosses lipes rouches,
+                    surlingnées ed noér, qu’alle rit dusqu’à ches érelles, ech<lb/>nez rouche in
+                    boule conme i feut equ cha fuche pis des sourciux in acchint chirconflesque.
+                    Ein<lb/>l’est noér, l’eute bleu avuc ein eul au burre noér évidint. Dsous sin
+                    minton, ein gros nœud ed<lb/>croate d’ein gane provotchant l’est dsus sin cou
+                    nu. Des cavieux ed lainne rouche is s’déssaquent<lb/>d’ech titchout capieu.
+                    Eine longue ertchinpette verte dont ches pans is train’tent à terre,
+                    ein<lb/>patalon à carrieux marron et rouche tirbouchon-ne dsus des coeuchures
+                    d’ein dmi-méte ed long.<lb/>Y in o eine qu’alle balle fsant vir ein gros
+                    peuche. Ch’est riditchule à rbéyer mais cha foait braire<lb/>ed rire. D’ein ed
+                    ches pans d’el ertchinpette ech clown i sort ein tchout pliant qu’i déploée in
+                    fsant<lb/>sannant d’es pincher ses doégts aprés l’avoér tourné pis ratourné
+                    dins tous ches sins. I tchait dsus<lb/>sin tchul in s’assoéyant dsus. Dsous
+                    ches rires ed ches espectateurs. I s’eryeuve pis, ed l’eute pan<lb/>ed sin
+                    casatchin, i sort eine soée pis ein artchet pis i s’assit coére ein coeup.
+                    Sins ein mot, i<lb/>cminche à juer eine mélodie pleine d’eine telle doucheur
+                    equ des z’yux is s' moullent. O rconnoait<lb/>l'méditation ed Thaïs amond ches
+                    gins qu’is s’y connoéstent. Pindint qu’i jue, des varlets ed piste<lb/>is
+                    aminnent edz' eutes instrumints qu’is postent à coté ed li. Dont eine tchotte
+                    tabe dsus l’tchelle<lb/>granmint ed voérres is sont posés. Ech morchieu fini
+                    ch’est eine véritabe ovation qu’alle suit. Ech<lb/>clown i s' yeuve, prind sin
+                    saxo pis ch’est ein air ed jazz bién connu “Tchotte fleur' qui vient<lb/>foaire
+                    bouger des pyids pis butcher des mains in m’sure. Sins s’arréter, sins tnir
+                    compte ed ches<lb/>applaudiss’mints, i porsuit à l' trompette avuc ches
+                    variations dsus ch' Carnaval ed Vnise. Ches<lb/>espectateus is sont figés,
+                    conme eine taque ed saindoux quainte i géle, dvant l’intrain d’ech
+                    clown<lb/>pis étou par ech son d’eine purté point conmeune. Ches bravos qui
+                    suivtent sannent l' lacher ed<lb/>marbe. I s’approche ed la tabe d’où qu’i y o
+                    ches voérres pis, dins ein silinche à coeuper au<lb/>coutieu, i passe sin
+                    doégt dsus chatchun. Ein son quasi argintin s’foait intinde. Ein assistant li
+                    o<lb/>am’né ein pot d’ieu, pis avuc, pour tchéques eins ed ches voérres, i
+                    l’ajuste ech son. Pis, aprés<lb/>avoér décontracté ses doégts in sz’es
+                    fsant cratcher, i l’intame ein nouvieu morchieu. Eine<lb/>musique d’eine
+                    légér’té, d’ein raffin mint incroéyabe, réson-ne dsous ch' capitieu. Ch’est
+                    d’abord<lb/>eine vielle canchon dormoére qu’alle dvise d’ein tchout garchon qui
+                    n' vut point dormir. Pis i<lb/>rlanche avuc eine eute canchon qu’alle dit
+                    “Freume tes jolis z’yux" pis infin ein estrait d’el’ valse<lb/>trisse ed
+                    Sibelius. Ch’est d’eine doucheur infinie pis l’foés-chi ches mouquoérs ed
+                    granmint ed<lb/>monne is s’ déssaquent ed ches poques. Ch’est eine timpéte
+                    d’applaudiss’emints, ed cris, ed<lb/>bravos, qui foait suite à l’longue série
+                    d’airs trisses. In s' bachant pour saluer ech clown i lâche ein<lb/>prout
+                    monumintal. I s’décatourne pour rbéyer d’où qui vient ech bruit lo mauséant
+                    pis mnache<lb/>ein ed ches varlets ed piste avuc s’n’artchet. L’eute i foait nan
+                    avec s’main pour dire “ch’est point<lb/>mi" pis i tind sin doégt pour montrer
+                    ch' clown in s' pinchant sin nez. Ch’est ch' qui déclinche<lb/>coére eine
+                    rigolade dins tous ches ringées pis ches bravos qui partent ed tout partout.
+                    Achtheure<lb/>ches gins is braitent à l' foés ed rire pis ed l’émoé ed
+                    t’t’à l’heure. Ch' clown i s’plinte par dvant<lb/>toute eine série
+                    d’accordéyons posés dsus eine tabe. I foait sannant d’avoér du mau à coésir
+                    l’ein<lb/>ou l’eute, tind s’main vers l’ein, foait nan d’és' tête, pis vers
+                    ein eute. I tchestionne, avuc des<lb/>mouvmints ed téte, ches espectateurs
+                    qu’is li réponnent ouais à n’importe qué choéx tant qu’is<lb/>ont hâte
+                    d’intinde ech l’artisse. Ou bien i foait comprinde equ chest top lourd ou point
+                    assez....</p>
+                <p><lb/>Ches gins is ritent ed ses mimiques...</p>
+                <p><lb/>D'ein seul coeup, i prind ch' pus grand ed ches accordéyons, ein espécial
+                    avuc des touches conme<lb/>ein piano. Ch' clown, in ein rien ed temps, met ches
+                    bertelles à ses épeules pis, tout d’ suite, sins<lb/>attinde ch’est ch'
+                    tourbilon ed ches "Perles ed cristal" equ suit, sins ein arrét, "L' Czardas
+                    ed<lb/>Monti". Deux morchieux ed virtuose. Pis, aprés ein tchout momint, conme
+                    pour erprinde sin<lb/>souffe, dins ein silinche total, montent ches prémiéres
+                    m’sures d’el toccata et fugue in ré mineur<lb/>ed Jean Sébastien Bach. Pus ein
+                    bruit, pus in souffe, cha dvient quasi r’ligieux dins ch'
+                    chirque.<lb/>N’étoaient ech lieu pis ch' l’instrumint, ein critique musical
+                    diroait qu’el’méniére ed juer alle<lb/>dépasse tout ch' qu’os o l’habiteude
+                    d’intinde. Tchéques amateurs ed musique, dins l' salle,<lb/>s’erbéyent pis
+                    écangent edz' ergards ébeubis. Cmint qu' cha s' foait-y equ, dins ein chirque
+                    aussi<lb/>minabe, aussi pitoéyabe, ein parel talint puche s’ertreuver ? Is ont
+                    point l'réponse... Ch' liméro <pb facs="Picard_Concours_2020_2_p4.png"/>
+                    <fw type="numbering"><lb/>4</fw>
+                    <lb/>d’ech clown i finit dsus ch' long point d’orgue d’el fugue. Alorss, après
+                    ein temps suspindu ed<lb/>tchéques escondes, l' foule alle s’yeuve pis alle
+                    applaudit à tout rompe. Ches bravos, ches vivats,<lb/>ches sifflets à
+                    l’améritchaine, cha part ed tous ches cotés. Ch' clown i salue maladroét’mint
+                    pis,<lb/>dsus ein darnier salut, eine bertelle ed sin patalon alle lâche. I
+                    s’ertreuve in caneçon violet à tchout<lb/>poés blancs in plein mitan d’el
+                    piste, d’où qu’i s’infuit in tnant sin vêtmint à deux mains. Au<lb/>momint ed
+                    sortir, i foait conme si qu’i s’inchpoait ses pyidsdins ch' tapis pis i
+                    s’rétale ed tout sin<lb/>long. Ch’est eine réeussite totale pis ches bravos is
+                    durent longtimps, fin longtimps mais Remisol i<lb/>l’ervient point... D’ech
+                    coeup lo o prête qu’ein molé attintion à l’annonche d’ech passache
+                    ed<lb/>Nadia l’étchuyére qu’os erbéye à peinne. Quainte alle tchait ed sin
+                    gvau dins ch’cours ed sin<lb/>liméro, cha foait braire ed rire coére ein
+                    coeup. Parsonne n’ermarque ches larmes qu’alle o dins<lb/>ses yux tant qu’ech
+                    souvnir d’ech liméro d’par dvant, chti d’ech clown, i l’agit coére pis foait
+                    qu’oz<lb/>est inclin à point vir qu’alle est putot malapatte. Sin liméro fini
+                    alle sort dins l’indifférinche totale.</p>
+                <p><lb/>Msieur Loéyal rinte in piste sitot equ l’étchuyére alle in sort avuc
+                    tchéques coeups ed sifflets pis<lb/>ed maigues bravos equ li baillent des gins
+                    point trop sins tchoeur. Ein long roul’mint ed timbour,<lb/>aussi raté qu’ech
+                    préchédint, avuc ech meume coeup ed chymbale fêlée sanne vouloér
+                    annoncher<lb/>ein liméro qui doét éte dingéreux.</p>
+                <p><lb/>- M'dames, m’sieurs, ches tchouts z’éfants, vlo ein ed' ches cleus ed nou
+                    espectaque...</p>
+                <p><lb/>- Si ch’est l’ meume qu’o déchiré min tchul d’ patalon, ch’est point l’
+                    peinne... Ch’est foait....</p>
+                <p><lb/>Eine timpéte ed rires escoue ch' capitieu. Msieur Loéyal i foait chti qu’o
+                    point intindu pis i<lb/>l’insiste sins broncher.</p>
+                <p><lb/>- Ej' vous annonche achtheure l'venue ed ches Ramirez volants, des
+                    trapézisses conme os in foait<lb/>pus. L’honme oésieu pis s' part’naire...
+                    Ches Ramirez...<lb/>Rinte alorss ein couple, dins ein costume moulant, arginté
+                    pour l’ fanme, in patalon parelmint<lb/>moulant, parel’mint arginté pour
+                    l’honme qu’est torche nu. Ch' qui permet ed vir qu’i l’o été<lb/>athlétique
+                    à eine époque mais equ l’âge cha l’o épaissi. L’fanme, fin matchilée, alle
+                    o coére eine<lb/>silhouette agréabe avuc ed belles pis longues gambes mais ein
+                    eul averti peut sintir equ l’âge, lo<lb/>étou, l’est vnu canger eine bieuté
+                    sartaine. Alle salue l’foule avuc eine sartaine grâce tandiss equ<lb/>l’honme
+                    n’o qu’eine tchotte inclinaison ed tête. Ches deux is s’approchent ed deux
+                    cordes<lb/>deschindant d’ech chinte Is interprin-nent l’montée dusqu’in heut
+                    d’ech ti-chi, leus gambes à<lb/>l’étcherre. Arrivés in heut, is s’font fache
+                    chatchun dsus ein trapéze pis aprés eine série ed<lb/>balinch’mints l’ fanme
+                    alle s' jette dins ch' vide in direction ed l’honme. Alle foait deux
+                    pirouettes<lb/>pis l’honme i l’rattrape. Pis ech liméro s’poursuit, classique,
+                    avuc des vriles, des seuts périleux<lb/>avant ou arriére avuc des momints
+                    d’émotion qu’ein roul’mint ed timbour piteux vient rinforcher.<lb/>Au bout
+                    d’ein momint, ein cerchieu deschind d’ech chinte pis vient s’mette dins ch'
+                    miyieu d’ech<lb/>cherque d’el’ piste, inter ches deux artisses. Pindant ch'
+                    temps lo ches deux trapézisses erprin-<lb/>nent leu souffe chatchun dsus sin
+                    pertchoér. Ech roul’mint ed taimbour coére pus foéreux s'
+                    foait<lb/>insistant, o sint equ ch’est ch' grand momint. L' fanme alle s'
+                    balanche ed pus in puss pis, d’ein<lb/>seul coeup, alle s’élanche dins ch'
+                    vide, foait deux seuts périleux avant, croche ech cerchieu, li<lb/>donne ein
+                    grand ballant pis, aprés ein eute seut périleux arriére, alle est rattrapé
+                    par l’honme.<lb/>Rétabliss’mint, pis ch’est l’honme qui s’lanche bros in
+                    croéx. Seut ed l’ange equ cha s’appelle.<lb/>Doube seut périleux, des mains
+                    qu’alles agreuillent ech cerchieu...</p>
+                <p><lb/>-OH!</p>
+                <p><lb/>Ch’est ch' cri qui sort ed tout ches poétrinnes. Bién des fanmes muchent
+                    leus yux avuc leus mains<lb/>ou cheux ed leus nazus. L’corde d’ech cerchieu alle
+                    o cassé pis Ramirez l’est rétalé in bos, dins ch'<lb/>mitan d’el piste conme
+                    ein mann’tchin désartitchulé. Du seing sort par sin nez pis cminche
+                    à<lb/>couler d’es n’érelle. Troés quate parsonnes sautent dsus l’ piste.
+                    N’dins y o ech docteur Cassel pis<lb/>sin confrére ech docteur Rouan.
+                    Berlimont, ch' capitaine ed ches pompiis, in chivil, donne djo<lb/>edz' ordes à
+                    sin téléphone portabe. Ches deux cadoreux présints à l’erprésintation
+                    cminchtent à<lb/>foaire évatchuer ech chirque...</p>
+                <pb facs="Picard_Concours_2020_2_p5.png"/>
+                <fw type="numbering"><lb/>5</fw>
+                <p><lb/>-Sortez! Allez-vous in ! Ch’est ein acchidint, restez point lo... Y o pus
+                    rién à vir...</p>
+                <p><lb/>A l’intour d’ech trapézisse y o djo granmint ed mon-ne. Dins ein tchuin,
+                    blanque conme eine<lb/>taque ed cran, s’part’naire alle est épaveudée. Msieur
+                    Loéyal i s' déminne conme ein diabe dins ein<lb/>bénitier. Tellmint qu’i l’in
+                    dvient riditchule pis equ Berlimont finit par li dire ed s’arrêter, ed
+                    foute<lb/>l' camp. Ches deux méd’cins is s’sont rbéyés d’ein coeup d’eul pis
+                    leu singne ed tête négatif n'<lb/>lâche autchun espoér à cheux qui sont
+                    lo.</p>
+                <p><lb/>Prévnus par ches cadoreux présints, d’eutes gindarmes is arrivtent pis
+                    avuc eine binde ed<lb/>plastique blanque pis rouche qu’is déroulent, is
+                    délimitent ein espache in éloégnant tous cheux lo<lb/>qu’is ont rién à
+                    foaire dins ch' périméte lo. L' trapézisse, elle, alle est v’nue ch' pus
+                    prés possibe<lb/>d’ech corps ed Ramirez. Aprés avoér foait tout douch’mint
+                    ech singne ed croéx, alle s’est<lb/>éloégnée sout'nue par l'tchaissiére
+                    qu’est vnue tout courant. Autchune ed ches deux fanmes n'<lb/>brait...</p>
+                <p><lb/>-Tiens, oz êtes lo, Marlier... ?</p>
+                <p><lb/>Ch’est avuc ches mots lo qu’ech capitaine ed gindarm’rie Robin s’adréche à
+                    ein honme in chivil<lb/>qu’est dins ch' périméte ed sétchurité. Chti chi i
+                    rtire vite foait ses mains qu’i l’avoait dins ses<lb/>poques pis i l’amorche ein
+                    sannant ed garde à vous. Pis, délibérémint, i rinfique ses mains
+                    dins<lb/>ches poques ed sin blouson ed feux daim pis i prind eine allure puss
+                    détindue. Ch’est d’ein ton ein<lb/>molé motcheu qu’i relatche à ch'
+                    capitaine:</p>
+                <p><lb/>- Bé ouais, min capitaine. J’étoais "forchémint' lo... J’ai assisté à
+                    ch' l’espectaque. Pis quainte<lb/>l’honme i l’est tcheut, in tant qu’incien
+                    gindarme, msieur le Maire i m’o dmindé ed vnir l’assister. I<lb/>l’est OPJ
+                    conme tertous ches maires, mais li pis l’ pratique...</p>
+                <p><lb/>- Cmint qu’oz ’êtes vnu dusqu’à ichi... ?</p>
+                <p><lb/>- Mais, à pyid, min capitaine...</p>
+                <p><lb/>- J'en' dvise point ed cha, mais ed vou présinche dsus ches lieux de
+                    l’acchidint ?</p>
+                <p><lb/>- Mes inciens conmérades is m’ont rconnu. Pis, conme j’accompagnoais ech
+                    maire d’el localité..<lb/>D’éte ein incien cadoreux, cha aide par
+                    momint...</p>
+                <p><lb/>- Oz allez point mette vou nez dins dz’affoaires qu’alles vous rbéyent
+                    pus...</p>
+                <p><lb/>- J’in ai-t-y l’air, min capitaine...</p>
+                <p><lb/>Ech ton l’est tojours ein molé motcheu. Cha vient d’ein honme grand, coére
+                    mince, à cavieux<lb/>blonds equ chindent tchéques cavieux blancs. Rién dins
+                    s’dédjaine n’signale ein incien gindarme,<lb/>o le prinroait putôt pour ein
+                    imploéyé ed banque, ein cade moéyin. Ein visache ein molé carré,<lb/>avuc
+                    ein front heut, ein minton ein molé lourd, edz' yux bleus au dsus d’ein nez
+                    droét qu’is<lb/>erflétent eine sartaine interliginche. Sins éte d’eine
+                    réelle bieuté ch’est eine fidjure qu’alle minque<lb/>point ed charme. Dsous
+                    s’n’air fin détindu s’muche ein fur’teu, ein intchéteu qu’o foait
+                    ses<lb/>preufes. Pour l' momint, i tient respectueus’mint tête à l’ein ed ses
+                    inciens officiis avuc l’tchel i<lb/>s’est jamoais vraimint bién intindu.
+                    Ch’capitaine, ch’est ein honme ed talle moéyenne, ein molé<lb/>invloppé qui
+                    sanne vouloér tout cminder. I don-ne edz ordes pis des contrordes sins
+                    décesser.<lb/>Marlier s’écarte ein molé pis d’ein ergard aidju rbéye cha equ
+                    Robin vient ed li présinter conme<lb/>ein acchidint. I prind note d’el position
+                    d’ech corps pis, ed loin, trache, i sait point quoé li-eume.<lb/>Ein acchidint
+                    dins ein chirque cha arrive des foés. Souvint nan! Mais dins ein parel chirque
+                    d’où<lb/>equ tout sanne éte in état ed délab’mint avanché, d’ein intertien
+                    douteux, quoé ed puss normal.<lb/>Ech cerchieu l’est tcheut djére loin d’ech
+                    corps qu’o vient d’ercouvrir d’eine catelongue. Eine d’el'<lb/>gindarm’rie
+                    pasqu’alle est prope. Marlier s’appreuche d’ech corps pis souyeuve l’couverture
+                    pour<lb/>rbéyer l’ victime. I s’pinche bién in avant pis respire à fond. Eine
+                    odeur qu’i connoait bién li<lb/>r’monte à sin nez. Alcool! Ech trapézisse i
+                    sint l’alcool. Lint’mint Marlier s’eryeuve, ercouve ech<lb/>corps pis vient à
+                    coté d’el corde qu’alle soutnoait ech cerchieu. Sins y toucher, i rbéye
+                    attintivmint<lb/>ch' bout de l’corde. Ch’est eine vielle corde à l’incienne,
+                    foaite ed chanve torsadé. Ein truc solide,<lb/>foait ed quate torons ed huit ou
+                    dix brins torsadés. Pour casser cha, i l’o fallu qu’alle fuche djo<lb/>fortmint
+                    usée. Point ed trop pour résister à ch' poéds d’el' trapézisse mais assez
+                    pour qu’alle casse<lb/>à ch' momint d’où qu’ech trapézisse i l’attrape. Avuc
+                    l’élan pis ech grand ballant... Dsus l’corde, i<pb
+                        n="Picard_Concours_2020_2_p6.png"/><fw type="numbering"><lb/>6</fw><lb/>y o
+                    ein long fil ed coleur blanque. Marlier s' bache pis i mile attintiv’mint. Cha
+                    peut ête du canve<lb/>ou eine eute matiére. S' charvelle alle inr’giste tous
+                    ches détals lo pis alle esz’es met ed coté dins<lb/>ein tchuin. Ed tout ches
+                    méniéres, "l’sciéntifique’ alle est lo pis alle vo ryeuver tout cha. I reste
+                    in<lb/>contimplation dvant l’ cassure d’el corde. Ch’est vraimint usé mais él'
+                    l’usure lo ch’est point aisé à<lb/>comprinde. Impossibe ed point r’martcher
+                    cha au momint ed l’installation. Ein ed ches cadoreux<lb/>li fsant singne ed
+                    sortir ed lo, i s’in vo. In cmin, i croése ch' msieur Loéyal tojours avuc
+                    s’<lb/>rtchinpette rouche. I l’o tchitté sin capieu déglindjé.</p>
+                <p><lb/>- Disez-vir msieur, ech cerchieu, tchéche qui l’installoait... ?</p>
+                <p><lb/>Msieur Loéyal, l’est telmint déturbé par ech' qu’i li arrive, qu’i n'
+                    pinse meume point à dminder à<lb/>qué tite ech chivil lo li pose des
+                    tchestions.</p>
+                <p><lb/>- Ch’étoait Topart, infin Ramirez, qu’installoait ses agrés li-meume.
+                    Conme l' pupart ed ches<lb/>volants is l' font dins ein chirque...</p>
+                <p><lb/>- Cha s' pourroait-i qu’i l’ait point vu l’usure d’el corde...</p>
+                <p><lb/>- Ej sais point, ch’étoait sin roéyon, point l’miéne...</p>
+                <p><lb/>- Disez-vir, Ramirez, infin Topart pisqu’i s’agit ed li, i buvoait point ein
+                    tchout molé par dvant ed<lb/>monter là heut ?</p>
+                <p><lb/>- Des foés. Cha li arrivoait ed timps in timps, quainte i l’avoait
+                    peur...</p>
+                <p><lb/>- Pasqu’i l’avoait peur?</p>
+                <p><lb/>- Os savez, i l’étoait pus tout joéne. Ch’est ein métier d’où qui foait
+                    point boin vieusir. Pis, ein ed<lb/>ses fréres s’est tué conme cha, i y o pas
+                    mal ed timps. Is fsoétent ein liméro in duo... Alorss, des<lb/>foés, cha li
+                    r’vnoait...</p>
+                <p><lb/>- Disez-vir, cha fsoait longtimps qu’i fsoait ch' liméro avuc s' partnaire
+                    ?<lb/>- Pourquoé qu’os m’edmindez cha ?</p>
+                <p><lb/>- Conme cha. Pour vir. Pasque foaire prinde des risques à s'
+                    compaigne...</p>
+                <p><lb/>- Ch’est point s' compaigne, juste eine partnaire, conme os l’avez dit t’t'
+                    à l’heure.</p>
+                <p><lb/>Msieur Loéyal s’in vo avuc ein air malhéreux. Dviser avuc ch’t’honme lo
+                    cha li a foait rpinser<lb/>qu’achtheure i vo li falloér treuver d’eutes
+                    liméros sins doute coére pus mawais equ cheux qu’i<lb/>l’avoait dusqu’ichi.
+                    Marlier l’est resté à l’meume plache, point loin d’ech lieu ed l’acchidint. A
+                    ein<lb/>ed ches sciéntifiques qui passe dins ches paraches, i dminde:</p>
+                <p><lb/>- Dis-vir, ch’est quoé ech fil blanc dsus l'corde?<lb/>- Ah ! T’os vu cha
+                    ti ! Ej' sais point si ej' doés te l' dire. Robin nous o don-né l’orde ed
+                    point t'<lb/>don-ner autcheune information. I râle ed savoér equ t’habites
+                    ichi, dins ch’patelin lo... Allez,<lb/>t'intchiétes, ch’est du crin ed gvau...
+                    Pis des gvaux, ch’est point ch' qui minque ichi...</p>
+                <p><lb/>- Dis vir, pis l' corde ? Ch’est d' l’usure ?</p>
+                <p><lb/>- O diroait... O diroait étou qu’o l’o aidé à s’user... Mais, mi, ej'
+                    t’ai rién dit...</p>
+                <p><lb/>Ainsi don ch’qu’étoait dusqu’à présint ech lieu d’ein accidint, cha
+                    dvient ech lieu d’ein possibe<lb/>crime ou d’ein suichide... Ch’est eine
+                    possibilité qu’i feut invisager. Marlier reumine à toute<lb/>vitéche. Robin,
+                    i doét s’poser ches meumes tchestions. D’où l’orde formel qu’il o don-né à
+                    ses<lb/>seubordonnés ed conmunitcher autchune information à Marlier. I
+                    connoait s' puissanche ed<lb/>raisonn’mint pis i souhaite vraimint point qu’ech
+                    darnier i treuve l’solution d’ech probleume par<lb/>dvant li. Des pinsées
+                    parsonnelles ed l’incien gindarme i ressort deux seuppositions. Toutes
+                    ches<lb/>deux avuc ein point conmun. Si y o ein crime, i l’o été conmis par
+                    tchéqu’ein dins ch' métier. Si<lb/>ch’est ein suichide, i y o equ
+                    Ramirez-Topart qui pouvoait l’organiser in cartchulant ch’qu’i falloait<lb/>user
+                    ed corde pour qu’alle tienne ech coeup pindant ech grand ballant d’es partnaire
+                    pis qu’alle<lb/>casse dsus l’siéne. Mais, pasqu’i y o ein mais, pis ch’est lo
+                    qu’i n’connoait point tout d’ech<lb/>probleume, ch’est ch' pourquoé. O n’es'
+                    suichide point sins raison, conme o berzille point<lb/>tchéqu’ein sins raison.
+                    Ch’est don par lo qu’i vo falloér creuser...</p>
+                <p><lb/>Planté quasimint au mitan d’el piste, point loin d’ech lieu d’où qu’ein
+                    honme l'est défuncté,<lb/>Marlier in est lo ed ses pinsées quainte ein gros
+                    buzin s' foait intinde déhors. D’abord ch’est des<lb/>cris aidjus ed fanme
+                    épeurée pis des voéx qu’alles brallent au scours ! D’ein bond, Marlier
+                    l’est<lb/>déhors. I cavale du coté ed l’indroét d’où equ vient ch'
+                    l’ermue-ménache. I voét in passant qu’ech<pb facs="Picard_Concours_2020_2_p7.png"
+                        /><fw type="numbering"><lb/>7</fw><lb/>clown l’est dsus ech pos d’es porte
+                    ed roulotte pis qu’i l’est point coére dématchilé. Ein<lb/>attroup’mint prés
+                    d’eine eute roulotte l’foait s’approcher rapidmint. Msieur Loéyal est lo, s'
+                    grosse<lb/>brongne leunaire trimblotante, d’el’suée dégoulinant ed sin visache
+                    blanc conme du plâte. I l’o<lb/>pardu s’fidjure rouche ed boin vivant. Voéyant
+                    Marlier à coté ed li, pis l' pinsant tojours<lb/>polichier, i dit dins ses
+                    dints :</p>
+                <p><lb/>- Cha ch’est ch' boutchet ! Nadia, l’étchuyére... Alle s’est suichidée...
+                    Alle s’est pindue...</p>
+                <p><lb/>I met sin mouquoér dsus ses yux in ayant l’air d’avoir du mau à prinde cha
+                    conme i l’o prind ch'<lb/>coeup ed Trafalgar ed t'tà l’heure. Tout à coté,
+                    tchéques parsonnes intourent ed leus soins l’<lb/>trapézisse tojours in
+                    costume ed piste. Alle est in pleinne crise ed nerfs. Alle chinglote fort pis
+                    alle<lb/>hurle in meume temps in s’tordant ses mains. In djeulant des “Marie,
+                    Marie..." Sin désespoér l’est<lb/>fin grand pis cha foait peinne à vir.
+                    Marlier i rinte dins l’roulotte. I voét eine joéne fanme, coére in<lb/>tnue
+                    ed piste, pindue par eine cheinture ed robe ed cambe agreuillée à ein piton
+                    qui dvoait sarvir à<lb/>crotcher eine lampe à pétrole, dins des timps point
+                    si loin equ cha. Ein tabouret ed tchuisine,<lb/>avuc ein dssus ed formica rouche
+                    usé, est tcheut à ches pyids d el' joéne fanme. Eine feulle ed<lb/>papii alle
+                    est posée in évidinche dsus ein tchout meube. Dssus y o ches mots lo d’écrits
+                    :</p>
+                <p><lb/>- Pardonnez-mi...</p>
+                <p><lb/>Ch’est tout. Si cha n’ersanne point à ein suichide, ch’est à s’poser des
+                    tchestions. Marlier rbéye<lb/>attintiv’mint tout autour ed li. I voét rién
+                    qui viénne rinverser ech fait qu’ein suichide fuche<lb/>possibe. I vo pour
+                    sortir quainte i l’est boustchulé par ech capitaine Robin, rouche,
+                    époumonné,<lb/>hors d’halinne, d’avoér couru. Marlier i l’o eine tchotte
+                    risée in pinsant equ ch’est lo ch’résultat ed<lb/>point s’intertnir.</p>
+                <p><lb/>- Oz étes coère lo, Marlier...</p>
+                <p><lb/>- Nan, min capitaine, ej' sus "djo" lo...<lb/>- Ej' vous dispinse ed vou
+                    z’ironie, Marlier. Oz avez touché à rién, j’espére ?</p>
+                <p><lb/>- Voéyons, min capitaine, os m’connaissez...</p>
+                <p><lb/>- Just'mint, just’mint.. Ej' vous rappelle qu’oz êtes chivil achtheure pis
+                    qu’oz avez rién à foaire<lb/>ichi...</p>
+                <p><lb/>- Mais ej' m’in alloais quainte oz étes rintrés. I y o pus rién à foaire
+                    pour l' pauve gamine lo...</p>
+                <p><lb/>Marlier tchitte l’roulotte aprés avoér salué, ed deux doégts portés à
+                    sin front, ein Robin qu’o du<lb/>mau à rtreuver sin souffe. Ch’est tchéques
+                    métes pus loin qu' l’incien cadoreux s’rind compte qu’i<lb/>l’o ein tchout bout
+                    ed reubin ed plastique sombe collé à ch' bos ed sin patalon. I l’inyeuve
+                    pis<lb/>conme cha, sans y pinser, i l’met dins s’poque ed cmise. Eine cmise
+                    qu’alle o été rég’mintaire i y o<lb/>bién edz' énnées in arriére.
+                    Achtheure, avuc ches neuvelles tnues, cha n’existe pus, o s' ballade pus<lb/>in
+                    bros ed cmise... Des pulls in bleu fonché ou in bleu clair, tant qu’à ch'
+                    képi... Eine castchette<lb/>molle qu’o pus ed forme...</p>
+                <p><lb/>Ch' chirque i l’est rparti troés jours après avuc tchéques amindes pour
+                    ch’patronpis sins doute<lb/>d’eutes innuis à suire. Deux foés, Marlier l’est
+                    rtourné dsus ches lieux. Ech chirque lo, i l’est mort<lb/>ech soér lo. I n' li
+                    reste pus equ deux ou troés liméros pitoéyabes seuf chti d’ech clown
+                    virtuose.<lb/>Chti-chi i répéte sins arrêt dins s’roulotte. O l’intind juer
+                    ed tous ses instrumints quasimint tout<lb/>l'journée. I s’est montré eine
+                    foés quainte Marlier étoait lo. Matchillé conme pour
+                    eine<lb/>erprésintation. Ch’est Msieur Loéyal qui li o dit</p>
+                <p><lb/>- Os savez ch’est ein type ein molé espécial. I l’est meuet pis tojours
+                    matchilé.Ej'n’ai vu sin<lb/>visache qu’eine foés, quainte i l’est vnu dminder
+                    ed l’imbauche... Y o quatre ans. L’est canadien.<lb/>Régis Lafontaine qu’i
+                    s’appelle, né dins ch’ Québec... Pis, tous les jours, i répéte, au moins
+                    deux<lb/>foés, troés heures durant. Ch’est eine ed ches rares conditions qu’i
+                    l’o dmindé. Avuc chelle lo : én'<lb/>point donner ein coeup d’main à
+                    l’installation d’ech chirque. Pour seuv’garder ses mains pis ses<lb/>doégts qui
+                    disoait... Quainte j’ai intindu cha qu’i sait foaire avuc... Ed tout les
+                    méniéres, i porte<lb/>tojours des gants, seuf quainte i jue... Tojours pour
+                    protéger ses mains...</p>
+                <p><lb/>- Disez-vir, i doét vous dminder eine forteune ech gars lo conme
+                    cachet?</p>
+                <pb facs="Picard_Concours_2020_2_p8.png"/>
+                <fw type="numbering"><lb/>8</fw>
+                <p><lb/>- Nan, point tell’mint. Ch'qui vut par dsus toute ch’est ête trintchile.
+                    Slon cha equ j’ai comprinds, i<lb/>l’éroait yeu ein probleume ed famile.
+                    Alorss... Ein tchout cachet, nourri, logé pis eine granne<lb/>liberté pour
+                    foaire sin liméro conme i vouloait, slon qu’i l’est in forme ou point... I n’in
+                    dminde<lb/>point puss. Ej' l’ai jamoais vu malcontint dpus quatre ans qu’i l’est
+                    avuc nous. Quainte o travalle<lb/>dins nou chirque, i feut point ête
+                    gourmand...</p>
+                <p><lb/>- Disez-vir, qué tête qu’i l’o sins matchilache ?</p>
+                <p><lb/>- L'tête ed m’sieur tout l'monne. O croérait mie à l'vir qu’i l’o autint
+                    ed talent. T'nez, j’avoais<lb/>prinds eine photocopie d’es carte ed séjour, ej'
+                    vos vous l’ foaire vir...</p>
+                <p><lb/>In effet, ech clown i l’o l’tête ed mossieur tout l'monne. Eine fidjure
+                    longue, ein front heut. Ein<lb/>pli amer d’es bouque li don-ne eine brongne
+                    trisse. Mais cha s’dit equ ches boins clowns ch’est<lb/>point des gins djais.
+                    Robin li o dmindé ses papiers conme à tertous. Si i l’est coére lo, ch'
+                    clown,<lb/>ch’est qu’i l’est in régue conme esz' eutes. Ch’est l' trapézisse
+                    qu’alle s’est otchupée ed toute pour l’<lb/>tchotte Nadia. Alle est partie avuc
+                    ech corps mais alle ervienro point... Ch’est Msieur Loéyal qui li<lb/>o dit cha
+                    in soupirant. Marlier i l’o continué.</p>
+                <p><lb/>- Disez-vir, vou clown, ch’est normal qu’i s’balade tojours matchilé ?</p>
+                <p><lb/>- Os savez, ein parel matchilage cha dminde granmint ed temps à foaire pis
+                    à défoaire. Au moins<lb/>troés heures à chaque coeup. In puss, i l’est
+                    métitchuleux au possibe. I feut qu’ech matchilage i<lb/>fuche toujours
+                    exactmint l’meume. Alorss conme cha nous arrive des foés ed foaire
+                    cine<lb/>matinée... Pis Msieur Loéyal pousse coére ein gros soupir.</p>
+                <p><lb/>- Ouais, ej' comprinds... Disez-vir, quoé qu’chest qu’oz allez foaire ed
+                    ches gvaux... ?</p>
+                <p><lb/>- Is sont à mi, infin à m’fanme. Nadia ch’étoait eine parinte éloégnée
+                    à elle. Alle vouloait foaire du<lb/>chirque dpus qu’alle étoait tchotte. Alle
+                    étoait à l’essai... Infin... Alle apprenoait ch' métier. Oh !<lb/>Ej' sais
+                    bién equ ch’étoait point ein grand liméro mais i feut bién cmincher... Nadia
+                    ch’étoait point<lb/>sin vrai nom, alle s’app’loait Marie-Louise, mais os o
+                    point voulu erfoaire ches affiches...</p>
+                <p><lb/>-Tchéche cha on?</p>
+                <p><lb/>- Bé.. Ch’est m' fanme! Ech chirque ch’est à elle. Mi ej' sus equ m’sieur
+                    Loéyal. Pour ech reste<lb/>ch’est elle qu’alle déchide ed toute. Seuf pour
+                    l’imbauche d’où qu' lo j’ai quaind meume min mot à<lb/>dire. Alle est point
+                    aisée m' fanme, alle est fin dure...</p>
+                <p><lb/>- Ouais, j' comprinds. Disez-vir, ches gvaux ? Ch’est des vrais gvaux
+                    cosaques ?</p>
+                <p><lb/>- Conme mi ej' sus t’améritchain... Ch’est pour foaire bién dsus
+                    l’affiche...</p>
+                <p><lb/>- Disez-vir, ches Ramirez? Oz avez imbeuchés cmint ?</p>
+                <p><lb/>- Li, l’est arrivé y o à peu prés chinq ans. I l’avoait ed boins
+                    sartificats. Princhipal’mint d’ech<lb/>chirque Zanetti. Pis étou d’ech chirque
+                    Merano equ ch’est ein grand chirque. Elle, alle fsoait ein<lb/>liméro ed corde
+                    in solo par dvant qu’i l’arrive. Alle est lo dpus... Cha foait six-sept
+                    énnées. Is<lb/>s’sont mis d’accord pour foaire ches Ramirez volants. Mais alle
+                    ainme point ches honmes, alorss...<lb/>Si os voéyez cha qu’ej vux dire... Mais,
+                    j’ai djo dvisé ed tout cha à vou capitaine...</p>
+                <p><lb/>Marlier n’o rién dit dsus ses erlations avuc Robin. Ni qu’i l’intchétoait
+                    pour sin compte parsonnel.<lb/>I l’étoait conme ein tchien ed cache qu’o prind
+                    l' trache d’ein ieuve ou d’eine binde ed perdrins.<lb/>Feut qu’il alle à
+                    l’erbout. Marlier ch’est tout parel...</p>
+                <p><lb/>Ch' capitaine Robin o laché ech chirque rpartir. L'intchéte in cours
+                    s’avéroait, slon li des pus<lb/>simpes. Deux suichides...</p>
+                <p><lb/>Rbondissmint dins l’affoaire d’ech chirque Zinder.</p>
+                <p><lb/>Ch' gros tite à la eune d’ech Courrier Picard attire l’attintion tchéques
+                    jours jours aprés. Slon ech<lb/>journalisse qu’o écrit ch' l’artique,
+                    l’affoaire alle s’est éclairchie d’ein jour nouvieu.</p>
+                <p><lb/>"Ed z'événemints point attindus sont apparus aprés ches résultats ed
+                    ches autopsies<lb/>pratitchés dsus ches deux corps. Chelle foaite dsus I'
+                    joéne Nadia o foait vir qu’alle o été<lb/>victime d’ein viol don ch'
+                    trapézisse est ch’coupabe. Ch' darnier, qu’est déchédé ed deux<lb/>fractures
+                    du crane, i s’appelle point Ramirez pis coére moins Topart conme l’avoait
+                        dit<pb facs="Picard_Concours_2020_2_p9.png"/><fw type="numbering"
+                    ><lb/>9</fw><lb/>ch' directeur d’ech chirque Zinder. In réalité, ch't'honme
+                    lo, ex-vedette d’'el'<lb/>gymnastique, l’est point ein inconnu ed ches sarvices
+                    ed poliche. I l'o été implitché dins<lb/>eine eute affoaire ed viol, y o ein
+                    molé puss ed vingt ans. Pour cha, il'o été condan-né à<lb/>dix-huit ans ed
+                    réclusion. I l’étoait sorti ed prison dpus six ans. Sins doute o-t-y mis fin
+                    à<lb/>ses jours aprés ch' deuxiéme crime pour écapper à eine neuvelle
+                    condan-nation qu’alle<lb/>éroait été coére puss lourde. Seurtout equ I'
+                    joéne fanme violée alle s’est suichidée par<lb/>l'suite. Telles sont ches
+                    conclusions d’ech capitaine Robin, ed la gindarmerie, qu’o
+                    mné<lb/>I'intchéte..."</p>
+                <p><lb/>Marlier i vient ed finir ed lire l’artique avuc eine risée dins l'
+                    moustaque qu’i l’o point quainte s'<lb/>fanme li tind tchéque chose qu’i
+                    l’idintifie point tout d’suite.</p>
+                <p><lb/>- Quainte tu m’don-nes tchéque chose à r’laver, foais in seurte qu’i y
+                    euche pus rién dins ches<lb/>poques. Ch’est quoé cha ?</p>
+                <p><lb/>I rbéye ch' truc don i s'rappelle pus cha qu' ch’est. Ein reubin ed
+                    plastique d’eine boéne<lb/>tchinzinne ed chintimétes. Eine binde ed
+                    magnétophone equ cha li sanne, qu’i l’o ramassé...</p>
+                <p><lb/>- Boin Diu...! Ch’est in sortant d’mond l’étchuyére equ j’ai ramassé
+                    cha... Quoé qu' cha put bién<lb/>mucher ? Feut qu’ej treuve si cha muche
+                    tchéque cose...</p>
+                <p><lb/>Alorss, pour savoér ed quoé qu’i rtourne, i s’in vo vir sin viux copain
+                    Louis à Morisel d’ein coeup<lb/>ed vélo. Ein incien d’el moéson poulaga conme
+                    is ainment à se l’ dire in rigolant. In rtraite conme<lb/>li. Ein boin gros
+                    conme o disoait dins l’ temps ed l’incien cadoreux. Chint tchilos equ
+                    soutient<lb/>eine carcasse ed prés d’ein méte quater vingt dix. Eine fidjure
+                    ronne avuc ein doube minton<lb/>éclairée par deux yux marrons ein molé
+                    globuleux. Ein nez épaté dsus eine bouque gourminde,<lb/>des cavieux poève et
+                    sél coeupés fin ros. Mais dsous eine apparinche boinhonme s’muche
+                    ein<lb/>caractére posé, préchis, métitchuleux qui foait qu’i n’minque
+                    autchun détal pis qu’ein séjour à l’<lb/>scyintifique o aidjisé. Avuc
+                    Marlier is fsoétent eine étchipe erdoutabe pis erdoutée Ch’est ein<lb/>incien
+                    radio, mordu d’inr’gistremint pis d’ordinateur. Alorss Marlier li esplique
+                    ch’qu’i vut savoér<lb/>pis pourquoé.</p>
+                <p><lb/>- Tu comprinds, Louis. Si y o tchéque chose d’inr'gistré dsus ch'
+                    brimborion ed plastique lo ch’est<lb/>pététe important de l’ savoér. Dis-vir,
+                    tu peux m' foaire cha quaind meume...</p>
+                <p><lb/>-T’es bieu ti ! T’es lo equ tu m’edmindes ed sacrifier eine cassette pour
+                    tchéque chose equ tu sais<lb/>meume point si cha equ t’os dins tes pattes
+                    ch’est inr’gistré...</p>
+                <p><lb/>-Ej' te l'rimbouss’rais t' cassette, viux rapiat...</p>
+                <p><lb/>Louis foait ein montage métitchuleux d’ech bout ed binde ed magnétophone.
+                    Pis eine foés ch'<lb/>traval foait ches deux is acoutent attintiv’mint ch' qui
+                    y o dsus l’binde. Aprés ein momint sins rién<lb/>arrive ech passage rcollé.
+                    Is intindent alorss ein bruit bizarre qu’is idintifient point tout d’
+                    suite.<lb/>Pis eine voéx qu’alle hurle “Salaud, salaud". Pis pus rién, ech
+                    vide. Is écoutent, is écoutent eine<lb/>foés, deux foés, troés, quate foés
+                    pis pindiant pus d’ein quart d’heure. Ech bruit bizarre sanne ête<lb/>ein
+                    titchout momint ed musique. Conme ein accord ed fin d’ morchieu...</p>
+                <p><lb/>- Cha sert à rién tin truc... Tu dvroais l’foute in l’air...</p>
+                <p><lb/>Des smin-nes alles ont passées. Marlier cminche à oubelier tout ch' qu’est
+                    arrivé. Mais ch’est<lb/>seul’mint muché dins ein tchuin d’es mémoére. Tout
+                    in bricolant dins s’n’atlyi i met sin viux<lb/>poste ed radio in marche. Ch'
+                    qu’i l’intind li rappelle tchéque cose. Ch’est ed l’orgue pis ch' l’air
+                    lo<lb/>li est point inconnu. Ech point d’orgue final l’est fin long. A l' fin
+                    d’ech morcieu eine voéx ein<lb/>molé méniérée annonche:</p>
+                <p><lb/>- Os wons d'intinde ech final d'el' toccata et fugue in té mineur Bwv 565
+                    ed Jean<lb/>Sébastien Bach (Ivoéx alle prononche Barh) à l'allemande, sins
+                    doute pour foaire bién).<lb/>Ch’étoait jué par l'ergretté Maurice Hell à
+                    ch'clavier ed l’orgue d’el' cathédrale<lb/>d’Anmiens. Hier matin, ech corps
+                    sins vie d’ech célébe organisse o été treuvé à ch' volant<lb/>de s'
+                    voéture. Alle étoait tcheute dins ch' fond d’ein ravin d’ech col d’el'
+                    Coeudiére dins !'<lb/>Drôme. O pinse qu’ech conducteur l'o yeu ein malaise pis
+                    qu'i I'o perdu ch contrôle ed<lb/>sin véhitchule. Ch’est à l'suite d’ech viol
+                    de s’file pis ed sin suichide equ l’otganisse <pb
+                        n="Picard_Concours_2020_2_p10.png"/><fw type="numbering"><lb/>10</fw>
+                    <lb/>talintueux avoait disparu dpus eine vingtain-ne d’énnées sins qu’o seuche
+                    ch'qu'i l’étoait<lb/>dmu. Ch’est ein grand virtuose, espécialisse ed Barh',
+                    qui vient ed tchitter ch'monne ed<lb/>la musique pis ch’est in honmage à
+                    ch/grand virtuose equ ch’étoait qu’os avons diffusé l'<lb/>page qu’i juait à
+                    chatchun ed ses concerts... Aprés l’honmage à ein grand artisse os
+                    allons<lb/>écouter...</p>
+                <p><lb/>Marlier l’est resté dins l'position qu’il avoait à ch' début ed
+                    l’annonche. I l’intind pus l'radio qu’est<lb/>dvnue eine sorte de buzin ed fond.
+                    I n’sait point pourquoé mais ech nom qui vient d’ête dit<lb/>réson-ne ed
+                    méniére partitchuliére dins s’n’érelle. I réfléchit ed toutes ses forches
+                    pourquoé<lb/>qu’ech nom lo o foait son-ner tchéque cose dins s’n’esprit. Ein
+                    drinn’drinn’, conme ein singnal<lb/>d’alarme... Sin cervieu répéte ech nom ed
+                    Maurice Hell conme eine rindjaine... I plante lo ech<lb/>traval qu’i l’étoait
+                    in train ed cmincher pis s’in vo rapid’mint dins s’tchuisine. Ech Courrier
+                    Picard<lb/>d’ech jour l’est dsus l' tabe, il prind pis i l’ouve.
+                    Ménutieus’mint, i l’erbéye chaque artique pis i<lb/>tchait in arrêt dsus eine
+                    photo ed tchout format in huitiéme page. Fsant ech capieu d’ein artique<lb/>ein
+                    titre:</p>
+                <p><lb/>"Disparition ed Maurice Hell"</p>
+                <p><lb/>Ch' qu’il lit ch’est l'répétition d’ech qui vient d’intinde à l'radio à
+                    tchéques détals prés. D’ein pos<lb/>mécanique, conme ein robot Marlier,
+                    tchitte l’ tchuisine in inmnant ech journal avuc li. I vo dins<lb/>ch' qu’i
+                    l’appelle sin burieu, ein tchout tchuin qu’i s’est aménagé dins eine cambe ed
+                    l’étage. D’ein<lb/>tiloér i sort ein tchout magnétophone, i l’ouve pis i
+                    rbéye n' dins, l’erfreume pis i l’appuie dsus l’<lb/>touche d’où qu’ch’est
+                    martché “play". Ech bruit bizarre qu’i l’acoute pis racoute coére
+                    pusieurs<lb/>foés. Ch’est ch' final d’el toccata qu’i vient d’intinde... A
+                    l’accordéyon... Pour li y o pus ed doutes...<lb/>L' voéx, ch’est celle d’ech
+                    soé-disant meuet... L' voéx ed... RÉMISOL... Ed Maurice Hell. I l’in<lb/>est
+                    seur pis sartain! I l’o janmoais intindu mais i l’est seur ed li. I foait ein
+                    liméro ed téléphone...</p>
+                <p><lb/>- Dis-vir Louis... J’ai tout comprins... Ramirez... Rémisol... Ech crin ed
+                    gvau dsus l’corde... I n’y o<lb/>point equ ches gvaux qu’is ont des crins...
+                    J’ai comprins pourquoé equ l’étchuyére alle est tcheute<lb/>pindant sin
+                    liméro pis pourquoé alle bréyoait. Tout est dsus l’ binde qu’os avons
+                    écoutée insan¬<lb/>ne... Infin, quasimint toute ! Mais si, ej' t’asseure, j’me
+                    fous point ed ti. Passe à l’ moéson vite<lb/>foait, je t’esplitch’rais... J'
+                    te jure que j’me fous point ed ti... Quoé, Robin ? Ej' dis janmoais rién
+                    ed<lb/>mes inciens chefs... Rigole point, tu vux... Tout l' monne peut
+                    s’berlurer... Ramirez, ch’est point<lb/>ein acchidint... Arrive ! Os ming’rons
+                    insan-ne...</p>
+                <p><lb/>Is sont lo tous les deux dins ch' que l' fanme ed Marlier alle appelle "ech
+                    salon". Ein canapé, deux<lb/>cadots, eine tabe bache pis dins ch' tchuin ech
+                    pus sombe, loin d’el' ferniéte, eine tévision. Dsus l'<lb/>tabe bache ein vase
+                    avuc tchéques fleurs. Louis l’est dins ein ed ches cadots qu’i rimplit,
+                    pasque<lb/>dpus qu’i l’est in rtraite i l’o coére prind tchéques tchilos in
+                    trop. Ein molé rougeaud, ein molé<lb/>panchu, mais blanc pis noér ed
+                    poéilles pis ed cavieux coeupés ros. I l’écoute avuc attintion sin<lb/>copain
+                    Marlier qu’i l’admire sécrét’mint. Chti-chi l’est assis dins ch’canapé in
+                    fache ed Louis pis i<lb/>l’esplique ch' qui l’o amné à ach’ver à s' méniére
+                    ches événmints qui s’sont passés dins ch' chirque<lb/>Zinder.</p>
+                <p><lb/>- Dins ch' chirque, j'étoais assis dins ches preumes ringées, adonc assez
+                    prés d’el' piste. J’avoais m'<lb/>téte yeuvée conme tertous dins ch' chirque.
+                    Ej' suivoais ches évolutions ed ches trapézisses. J’ai<lb/>vu l'corde s’casser
+                    pis Ramirez tchaire. Ej' sus arrivé à coté ed li avuc ches méd’cins pis,
+                    tout<lb/>d’suite, j’ai comprins qu’i l’étoait défunté. J’ai vu l’corde
+                    cassée par dvant tout l’monne. I y avoait<lb/>tchéque cose qui m’avoait
+                    intridjé. Quoé ? J'te l’dirais aprés... Insuite, i y o ech suichide ed
+                    Nadia...<lb/>Au fait, alle s’apploait point Nadia mais Marie Louise... Lo,
+                    coére ein coeup, j’étoais ch’preume<lb/>dsus l’plache. In sortant ed lo, l'
+                    binde ed magnétophone alle est vnue s’coller dsus ech bos ed<lb/>min patalon.
+                    Alectricité estatique ? Si tu vux... Mais ch’est cha qui vo m’amner à
+                    treuver<lb/>l’solution. Ches résultats ed l’intchéte ed Robin pis s’n’étchipe
+                    is vont m’éclairchir bién des points,<lb/>equ j’éroais yeu du mau à
+                    connoaite eutremint. Les tchels ? Ech passé ed Ramirez par éximpe,
+                    ech<lb/>viol ed Nadia. Cha, ches gars ed Robin is me l’éroétent point dit.
+                    Robin leu z’avoait donné edz'<pb facs="Picard_Concours_2020_2_p11.png"/><fw
+                        type="numbering"><lb/>11</fw><lb/>ordes. Cha qu’ej sais, ej' l’ai lu dins
+                    ch' Courrier. Pour mi, l’corde coeupée alle pouvoait l’ête equ<lb/>par
+                    tchéqu’ein d’ech chirque, ein professionnel, si tu vux... Seulmint, i y o ein
+                    détal equ parsonne<lb/>n’o dévoélé. Ramirez buvoait, sartainemint puss
+                    qu’ech patron d’ech chirque i m’ l’o dit. Ouais, i<lb/>buvoait... A coeuse ed
+                    cha i l’inspectoait pus ses agrés conme i l’éroait du. Tchéqu’ein
+                    avoait<lb/>cminché à limer tchéques fils d’el corde d’ech cerchieu, par ech
+                    dedins. Cha avoait cminché dpus<lb/>longtimps compte tnu d’el' patine ed
+                    sartains fils coeupés. Tchéques-eins par jour seulmint, sins<lb/>autchun
+                    doute. Ein vrai traval ed froumion, ed patiénche. Pour equ cha n’s’ermarque
+                    point, ch'<lb/>tchéqu’ein lo r’sserroait l’corde avuc ein crin ed gvau blanc. A
+                    pin-ne visibe dins ch’conte-jour<lb/>d’ech chinte. Seurtout par tchéqu’ein qui
+                    boét. Ein professionnel qui savoait à peu prés ech poéds<lb/>d’el'
+                    trapézisse pis qui pouvoait déimbuler dins ch’chirque sins attirer
+                    l’attintion. J’ai comprins ech<lb/>reste qu’in intindant l’radio pis in lisant
+                    cha...</p>
+                <p><lb/>Marlier tind ech journal à Louis in li fsant vir ech texte qu’i l’o
+                    intouré d’ein cherque avuc ein<lb/>martcheur. Chti-chi lit d’ein trait pis
+                    yeuvant ches sourcius i tchestionne meuettemint s’n’ami.</p>
+                <p><lb/>-Tu n’voés point ? Ch’est Maurice Hell... Ou Rémisol si t’ainmes miux...
+                    Rémisol Maurice Hell<lb/>ch’est du parel au meume, à l’invers... Ch'
+                    Topart-Ramirez i l’o violé s' file qu’alle s’est suichidée<lb/>insuite. Y o
+                    puss ed vingt ans. Hell o disparu tout d’suite aprés. Sins doute est-i parti au
+                    Canada,<lb/>pasqu’i l’est ervnu d’ là bos avuc des papiis à ch' nom ed Régis
+                    Lafontaine. Quainte est-ch' qu’i l’<lb/>est rvnu ? Sins autchun doute, à peu
+                    prés au momint d’où qui savoait equ Ramirez dvoait éte<lb/>libéré. I
+                    savoait étou equ Ramirez, ex-gymnasse ed grand rnom, s' dirigeroait vers ein
+                    métier ed<lb/>chirque, conme ch’est tout ch’qu’i savoait foaire. Cmint qu’i l’o
+                    rtreuvé, j’in sais rién, mais i l’o<lb/>rtreuvé. Pindint qu’i l’étoait au
+                    Canada, Hell, sins doute, o gaingné s’vie in juant ed l’orgue. I
+                    l’o<lb/>apprind étou à juer d’eutes instrumints. Conme tout boin musicien, i
+                    l’o atchis eine sartaine<lb/>virtuosité. In tous cas, seuffisammint pour juer
+                    dins ein chirque ed darniére zone, conme ech<lb/>chirque Zinder. Avuc eine
+                    tchotte poéye pis eine sartaine liberté ed mouv’mint i l’o pu vive
+                    point<lb/>loin ed Ramirez. Chti-chi l’connaissoait pététe mais ch’est point
+                    seur dins m’n’esprit. Hell avoait<lb/>réussi à avoér ch' droét d’es foaire
+                    vir equ matchilé dins l’journée. Pour equ Ramirez i<lb/>l’arconnoaiche point
+                    si des foés i l’avoait djo vu in photo dsus ein disque. Cha m’o foait rpinser
+                    à<lb/>cha equ j’ai vu dins ein film améritchain. Barnum ou ch' Plus grand
+                    chirque du monne, ej' m’in<lb/>ramintruve pus d’ech tite. J’ai comprinds equ
+                    ch’est li qu’o limé patiémmint, brin par brin, l’corde<lb/>d’ech cerchieu. Cha
+                    durait dpus des moés Ech crin ed gvau ? I l’avoait dsous s’main avuc
+                    ech<lb/>l’artchet qui li sarvoait pour l’ soée musicale. Pour chirtchuler
+                    trantchil’mint, i s’dématchiloait<lb/>pindint equ Ramirez i répétoait sin
+                    liméro. Ch' msieur Loéyal i m’o dit equ sin matchilache cha li<lb/>prenoait
+                    troés heures à foaire pis à défoaire. Ch’est point vrai. Avuc l’habitude cha
+                    prind ein<lb/>boéne heure point puss. J’ai dmindé, t’t’à l’heure, pindint qu'
+                    tu vnoais, à ein copain qu’o foait du<lb/>théyate. Conme parsonne
+                    l’connoaissoait, mis à part ech patron, i pouvoait aller pis vnir dins
+                    ches<lb/>momints d’affluinche sins s’foaire ermartcher. Tout ch' monne i
+                    l’étoait persuadé qu’i répétoait<lb/>dins s’roulotte. Ch’est point pasqu’oz
+                    intind l’ musique qu’ech jueux i l’est forchémint lo. JEjsus<lb/>sartain qu’i
+                    l’avoait ein magnétophone darnier cri pis qu’i l’inrgistroait ch’qu’i
+                    répétoait vraimint.<lb/>Pour s’in servir quainte i vouloait rsortir. Tertous
+                    is éroétent pu témoégner qu’i l’étoait lo, alorss<lb/>equ li l’étoait loin
+                    de s’roulotte...</p>
+                <p><lb/>— Attinds ein molé... Tout cha ch’est bién bieu mais eine binde ed
+                    magnétophone cha dure equ<lb/>quarante chinq minutes maximum. T’es in train de
+                    t' berlurer, Marlier...</p>
+                <p><lb/>Ch’est Louis qui met ches coses au point.</p>
+                <p><lb/>- Quoé, quarante-chinq mineutes ? L' londjeur d’eine fache d’eine cassette?
+                    Mais ti, mordu equ<lb/>t'es, t’os coére des magnétophones à flasques qu’is
+                    ont edz' heures d’inrgistremint. Alorss ? Quoé<lb/>qu' t’in pinses ? J’in
+                    rviens à Hell, si tu vux bién. Ein jour, i y o sins doute point longtimps,
+                    i<lb/>répétoait pis i l’inr’gistroait s’répétition quainte i l’o vu Ramirez
+                    foaire tchéque cose qui l’o foutu<lb/>in rage. Pététe qu’i dvoait tripoter
+                    Nadia alias Marie-Louise qu’alle dvoait s’définde... Ch’est là<lb/>qu’i l’o
+                    djeulé “Salaud" pis qu’i l’o déchidé ed finir ech traval qu’i l’avoait
+                    cminché. Par prudinche,<lb/>i l’o coeupé l' binde ed magnétophone pour
+                    inyeuver cha qu’el' rage alle li o foait dire. Pour point<lb/>qu’os intinde es
+                    voéx. Ch’est in allant vir si Nadia étoait amond elle, sins doute pour l'
+                        prévnir,<pb facs="Picard_Concours_2020_2_p12.png"/><fw type="numbering"
+                        ><lb/>12</fw><lb/>qu’i l’o pardu ech tchout bout ed binde. L'tchel i s’a
+                    collé à min patalon par l' suite. I pouvoait<lb/>point savoér equ Ramirez
+                    viol’roait l' joéne file. Pourquoé qu’alle o foait sin liméro ? Sins
+                    doute<lb/>qu’el' patronne, l' tchaissiére qu’alle doét avoér ein tchœur ed
+                    pierre, l’y o obligé. Tradition ed<lb/>ches chirques mais étou ech fait
+                    qu’alle débutoait dins ch' métier. Si alle erfusoait, ch’étoait
+                    l’porte<lb/>immédiat’mint. Nadia, alle avoait des raisons ed vouloér rester.
+                    Des raisons ed tchoeur... L' joéne<lb/>file alle étoait in coupe avuc l'
+                    trapézisse! Alle s’est sintie coére puss violée à coeuse ed cha.<lb/>Ch’est
+                    pour cha qu’alle s’est suichidée. D’où l’crise ed nerfes d’el' trapézisse equ
+                    j’avais point<lb/>comprind dsus l’momint. Pis étou l’absinche ed larmes quainte
+                    alle avoait été rbéyer ech corps ed<lb/>Ramirez. Cha, ej' l’ai vu ed mes
+                    propes yux, j' m’étoais éton-né d’eine parelle réaction dvant
+                    sin<lb/>partnaire défunté. A matin, par hasard, à l’radio j’ai intindu
+                    Maurice Hell à l’orgue. I juait l’meume<lb/>cose qu’ech qu’il o jué dins
+                    ch’chirque. Pis ch' l’espiqueur l’o dit equ l’air lo, i l’juait dins tous
+                    ses<lb/>concerts. Dins tous ses concerts ! Tu cminches t’y à comprinde ? Pis
+                    conme y avoait s’photo<lb/>dins ch’ Courier d’où qu’o dvise ed li, j’ai arconnu
+                    l’homne. Cmint ? Ech patron d’ech chirque<lb/>m’avoait foait vir ses papiis avuc
+                    ech nom ed Lafontaine né au Québec. Sins doute feux. J’ai<lb/>écouté eine
+                    foés ed puss ech bout d’final inr’gistré qu’os avons rtreuvé, j’ai intindu l’
+                    meume<lb/>méniére ed juer ch' final lo. J’sus donc arrivé à l' conclusion
+                    equ pour Ramirez cha n’est point ein<lb/>suichide. I l’o été occhis par tu
+                    sais tchéche achtheure... Conme Hell i s’est foutu in l’air avuc
+                    s'<lb/>carette...</p>
+                <p><lb/>- L’action de l’ justice alle est éteindue... conclut Louis. Tu vos in
+                    dviser à Robin ?</p>
+                <p><lb/>- Non, ch’est point l' peinne. Tu viens ed dire ti-meume, equ l’action ed la
+                    justice alle est éteindue.<lb/>Maurice Hell i s’est r’vingé à tite parsonnel.
+                    I pouvoait point savoér qu’in meume temps, i<lb/>ving roait Nadia. Pour eine
+                    foés qu’i treuve à peu prés l’solution, lachons Robin dédjuster
+                    s'<lb/>victoére... Mais ej peux t'dire eine cose, ej' m’in ramintruvrais
+                    longtimps d’el' toccata et fugue ed<lb/>Bach...!</p>
+                <p><lb/>- Marlier! Quainte oz érez fini d’ermuer vou ramintuveries ed viux
+                    cadoreux, os pourrons pététe<lb/>passer à tabe... Tout cha, cha vo éte trop
+                    tchuit...</p>
+                <p><lb/>Ch’est l' fanme ed Marlier qu’alle s' foait intinde... Conme ch’est ein
+                    cordon bleu rater tchéque<lb/>cose pasque trop tchuit, ch'est conme ein
+                    crime..</p>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_2_p13.png"/>
+                <fw type="numbering"><lb/>13</fw>
+                <head><lb/>Signifienche (Douer 242)</head>
+                <list>
+                    <item><lb/>Artchet <foreign xml:lang="met-fr">archet</foreign></item>
+                    <item><lb/>Tchaire <foreign xml:lang="met-fr">tomber</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Valse triste (Sibelius 1865/1957 (œuvre
+                            pour virtuose)</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Méditation de Thaïs (J. Massenet
+                            1842/1912(œuvre pour virtuose)</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Petite fleur (Sidney Bechet 1897/1959
+                            œuvre jazz pour virtuose)</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Carnaval de Venise (J.B. Arban 1825/1889
+                            œuvre pour virtuose)</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Fermes jolis yeux (F. Buxeuil 1903/19?
+                            chanson et berceuse)</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Perles de cristal (G. Hamel 1869/1917
+                            oeuvre)</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Tocata en ré Bwy 565 (.S. Bach
+                            1685/1750)</foreign></item>
+                    <item><lb/><foreign xml:lang="met-fr">Malapatte maladroite<lb/>Czardas de Monti
+                            (1868/1922 (œeuvre pour virtuose)</foreign></item>
+                    <item><lb/>Déturbé<foreign xml:lang="met-fr">perturbé</foreign></item>
+                    <item>Occhis<foreign xml:lang="met-fr">décédé</foreign></item>
+                    <item>Sciéntifique <foreign xml:lang="met-fr">scientifique</foreign></item>
+                    <item>Etchuyére <foreign xml:lang="met-fr">écuyère</foreign></item>
+                    <item>Ratourne<foreign xml:lang="met-fr">retourne</foreign></item>
+                    <item>Atlyi<foreign xml:lang="met-fr">atelier</foreign></item>
+                    <item>Alectricité élctricité <foreign xml:lang="met-fr">Estatique
+                            statique</foreign></item>
+                    <item> Flasque<foreign xml:lang="met-fr"> bande magnétophone sur support
+                            plat</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

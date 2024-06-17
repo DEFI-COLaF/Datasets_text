@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_37</idno>
+                <title type="main"> Chés darins</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jean-Louis, TETART</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Chés darins</title>
+                    <author>Jean-Louis, TETART</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="97">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="3">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_37_p1.png"/>
+                <fw type="numbering"><lb/>N 37</fw>
+                <head><lb/>Chés Darins</head>
+                <p><lb/>In les appelo chés mucheux. I z’habitotent chés muches, chés creutes,
+                    chés treus dins ch'cran.<lb/>I z'avotent nin toudis vécu dins chés muches.
+                    Foque edpus qu’eul bompe al avo toute berzillé.<lb/>Cha avo kminché par
+                    l’esplosion d’un “missile d’essai’ mon chés Coréens. Pi chés
+                    méricains,<lb/>pi chés chinois, pi chés russes, pi chés frinçais, pi chés
+                    inglais, pi chés eutes. Tertous ceutis qui<lb/>z'avotent un-ne bompe, un canon,
+                    un fusil ou core un baton. Chés gins iz ’avotent pardu l’sens<lb/>commun
+                    ch’éto un-ne werre, un-ne werre partoute, chés werres ! ln moins d’un-ne
+                    ennée, i<lb/>n’avo pu grind kose edbout</p>
+                <p><lb/>Pi un-ne bompe un molé pu forte qu’el z'eutes al avo splosé. In n'o point
+                    iu l’timps d'cacher<lb/>chti qui l’avo cainvolé. In tro jours i n’avo pu rien
+                    d’vivant dzur l’terre. Des monts d’cailleus,<lb/>des férailles tortues. Pu
+                    d’arbes, pu d’herbe. Pu d’vaques, pu d’monieus. Pu d’mouques, pu<lb/>rien.</p>
+                <p><lb/>Foque deux groupes ed gins i z’avotent survécu. Chés wagneus pi chés
+                    campernouleus. Chés<lb/>wagneus i z’avotent ahansé chés muches d’èche grind
+                    platieu, là-heut. Des grindes muches,<lb/>d’où qui n’avo iu des boutèles ed
+                    vin. Achteure i n’avo mi pu rien, chés wagneux i z’avotent<lb/>toute guerlafé.
+                    Chés wagneus i z’avotent pu foaire des prouvisions, pi i z’avotent foait
+                    aveuc<lb/>sou qu’elle bompe al avo laissé. Dins des treu rimplis d’ieu, i
+                    z’avotent déteupé des puchons.<lb/>Des récapés d'chés rivières d’in-heut.
+                    Des puchons i suffit d’nin prinde qu’un molé pi d’les<lb/>laisser s’erproduire.
+                    Pi à m’zure in arrife à nourrir chés gins. D’un-ne douzaine au départ,
+                    chés<lb/>wagneus i z’étotent chonquante achteure.</p>
+                <p><lb/>Ch'prumier a s’avoir dit qu’in devo sortir pour d’aller vire si chés werres
+                    i z’étotent définies,<lb/>ch’éto karl, ch’fiu à Pierre, chti qui possédo
+                    chés quate muches d’chés wagneus. I n’avo bien<lb/>chonquante ou soissainte
+                    ennées qu’in n’avo pu intindu des splosions, qu’in n’avo pu vu per<lb/>chés
+                    huis d'chés creutes parsonne passer.</p>
+                <p><lb/>Dins chés terres, i n'feuso pu jamais grind nute, i n'feuso mi pu jour
+                    conme avant. Un-ne<lb/>leumière faibe, un tiot jour. Karl i l’avo parti quat'
+                    es solé i l’avo lui un molé pu fort, cho arrife<lb/>quat' i cange d’sens. Pi i
+                    l’éto erv’nu gramint d’timps pu tard. Probabe pu d’un-ne sémaine,
+                    ou<lb/>pétète deus, ou pétète pusse. Pierre, sin père, i n’voulo nin qu’i
+                    l’erparte, i voulo qui resse.<lb/>Karl, li, i l’avo canger, i l’avo parlé aveuc
+                    chés honmes, l ieu avo spliqué qu'l l’avo déteupé un-<lb/>ne eute tribu.
+                    Un-ne tribu pu tiote qu’al pouvo leu fournir des campernoules. Qu’aveuc
+                    des<lb/>puchons pi des campernoules, i n’erraint pu jamoais faim, pi qu’i
+                    s’raint pu fort. Pi qu’chés<lb/>campernouleus i z’avotent des feumes. Pi...</p>
+                <p><lb/>Pi chés werres al z’ont r'kminché. Chés wagneus i zont prind des coutieus
+                    pi des bâtons pour<lb/>d’aller taper chés campernouleus pi ieu prinde des
+                    campernoules, pi chés feumes.</p>
+                <p><lb/>Chés campernouleus i Z'étotent installés dins un-ne grinde muche, au fond
+                    d'chel vallée. Eul<lb/>rivière al passo à l’intrée d’el muche. Cha favoriso
+                    l’culture d’campernoules. i n’a un-ne<lb/>choquantaine d’ennées, quat chés
+                    campernouleus i s’avotent réfugiés aveuc des prouvisions,<lb/>chés
+                    campernoules i z’avotent poussé sans rien foaire. Quat' chés prouvisions el
+                    z’avotent té<lb/>maquées, touis pi ses gins ! z’avottent mier chés
+                    campernoules. Des campernoules d'Péris,<pb facs="Picard_Concours_2020_37_p2.png"
+                    /><lb/>des plurottes pi des mroules d’terre. Des mroules d’terre, cha r’san-ne
+                    à des mroules, des<lb/>mroules d’avant chés werres. Dins chel muche, in n’in
+                    pousse eussi un campernoule un molé<lb/>bleuse. Un maouais campernoule, chel
+                    mamanite. I n’feut point l’mier ! Sinon t'as du mo à<lb/>t'panche pi ète
+                    défunctes. Chés campernouleus i z’ont foait aveuc. I z’ont ahansé leu
+                    muche,<lb/>in foaisant des gardins à campernoules. en dégrattant l’terre à
+                    l’intrée d’el creutte pi en in<lb/>foaisant des tiotes royettes d’où qu’in met
+                    des caveus d’campernoules. un caveu<lb/>d’campernoule ch’est l’filament blanc
+                    qh’chés campernoules i zont pa d’sous eus. Pi à m’zure,<lb/>chés
+                    campernouleus i s’sont espécialisés dins chel culture lo. Pi i z’ont invinté
+                    des ercettes<lb/>d’cuisine d’campernoules. pi i z’ont agrindi l’tribu. Surtoute
+                    des files qu’al sont nées. Mier des<lb/>campernoules ch’o doit foaire vnir des
+                    files putot qu’des fius. Achteure chés campernouleus<lb/>i sont trente, vinte
+                    et chonq files et feumes, foque chonq honmes. Deus vius et trois jones</p>
+                <p><lb/>Quat' chés campernouleus i z’ont vu arrifer chés wagneus, i n’es'sont mi
+                    déméfiés. Karl i l’avo<lb/>passé chonq jours aveux chés campernouleus. I
+                    l’avo meume foait des rl’èques à l’tiote Nardia.<lb/>Charg, l'fiu à touis, i
+                    l’avo meume busié qu’i r’viendro pour li vive aveuc l’tjote. Ch'o fero
+                    un<lb/>honme ed pusse dins l'muche. Pi un honme qu’i vivo déhors, dins chés
+                    terres inconnues. Dins<lb/>chés terres qu’in n’oso mi pu i aller. Keuse chés
+                    werres, keuse chés bompes, keuses chés<lb/>splosions. Charg i s’in ramintuvo.
+                    ! l’éto tiottain quat' Louis, sin père, i l’avo du s’mucher aveuc<lb/>des gins
+                    dins l’creutte. I s’ramintuvo d’un-ne mason aveuc des z’arbes. Achteure pu
+                    d’arbes,<lb/>pu rien déhors</p>
+                <p><lb/>Pu rien d’eute qu’èche Karl. Karl i l’o r’vnu. Li pi ses comarates.</p>
+                <p><lb/>Karl pi sin bâton, Karl pi ses comarates et pi leus bâtons et pi leus
+                    coutieus. Chés werres al<lb/>n’ont nin r'kminchées. Charg i l’o préféré
+                    obéir à Karl. Karl et ses comarates i z’ont prind l’mitan<lb/>d’chés
+                    campernoules pi i’eu in feudra d’zeutes. Karl et pi ses comarates i z’ont prind
+                    eussi chés<lb/>feumes. Nardia pi tertoutes chés jones feumes. Pi i feudra core
+                    donner des campernoules<lb/>quat' es solé i cange d’sens pour li luire, pi
+                    quat' i r’vient dins sin sens, pi core, pi core.</p>
+                <p><lb/>Cho foait gramint d’timps qu’Charg i l’ouvre pour chés wagneus aveuc chés
+                    campernouleus<lb/>qui sont core lo. Quate honmes pi deus vièles feumes.
+                    Achteure qu’i sont miu nourris, chés<lb/>wagneus i sont gramint pu forts. Leus
+                    feumes al font des fius. I sont au moins un cent. Karl i<lb/>l'est ch' chef. I
+                    l’o deus coutieus à li et pi un bâton pu long qu’chti d’el z'eutes. ll’o drot
+                    à pusse<lb/>d’puchon pi d’campernoules qu’el z’eutes. Quat'i vient vire chés
+                    campernouleus, i li feut un<lb/>cadot, mi pu un-ne caïère. D’zur s’cahouète i
+                    l’o un rond d’fer aveuc des bleuses cailleus. Pi i<lb/>c'minde à tertous.</p>
+                <p><lb/>Charg i li foait des courbettes à Karl, mais i li warde un kien d’es'
+                    kienne. I n'sait mi sou qu'cho<lb/>veut dire “warder un kien d’es' kienne", mais
+                    i s’ramintuve qu’sin père i l’diso. I s’ramintuve<lb/>chés longes dins
+                    ch'l’arbe aveuc un-ne planque, pi li qu’i l’est assis dzur l’planque, pi
+                    s’mère<lb/>qu’al le pousse in cantant. S’mère. Manman. Toute i s’brouille pas
+                    d’vant ses yus. Conme ed<lb/>d’ieu qu’al sort d’ses yus. Charg i l’ervoie sin
+                    père pi s’manman, i s’imbrachent. I s’ramintuve<lb/>chés arbes, pi ch'l’herbe.
+                    Achteure toute i l’est gris. Ch'l’herbe al éto verde. Verde ch’est
+                    bieu.<lb/>Quat' ifreume ses yus, ch’est verde pi core bleuse conme i l’éto
+                    l'ciel.</p>
+                <p><lb/>Charg erbaie partir les honmes à Karl. I sont vnus prinde des campernoules.
+                    Charg i jeu z’a<lb/>foait del soupe d’campernoules en pusse. deus grinds
+                    cuviers. Karl i s'ro fin bénache. Tertous<pb facs="Picard_Concours_2020_37_p3.png"
+                    /><lb/>chés wagneus i s’ront fin bénaches. I z’ont gramint ker l’soupe
+                    d’campernoules à Charg. I vont<lb/>ête gramint bénache chés wagneus. Charg i
+                    l’o mis un molé d’mamanites dins l’soupe, meume<lb/>un-ne boènne louchie! I
+                    vont foaire panchie aveuc l’soupe à Charg. Tertous i vont défuncter.<lb/>Fini
+                    pour chés campernouleus d’ouvrer pour chés wagneus.</p>
+                <p><lb/>Fini pour chés campernouleus. Achteure Chargi sert l'soupe à chés
+                    campernouleus. D'taleur i<lb/>n'erra mi pu rien dzur terre, foque queques
+                    puchons pi queques campernoules.</p>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_37_p4.png"/>
+                <head><lb/>Chés darins :</head>
+                <list>
+                    <item><lb/>- Cainvoler :<foreign xml:lang="met-fr"> jeter, jeter au
+                            loin.</foreign></item>
+                    <item>- Guerlafer :<foreign xml:lang="met-fr"> boire, boire sans
+                        soif.</foreign></item>
+                    <item>- Déteuper :<foreign xml:lang="met-fr"> déterrer, mettre au
+                            jour.</foreign></item>
+                    <item>- Campernouleu :<foreign xml:lang="met-fr"> myciculteur, fungiculteur
+                            (personne qui cultive les champignons).</foreign></item>
+                    <item>- Plurote :<foreign xml:lang="met-fr"> pleurote.</foreign></item>
+                    <item>- Mroule:<foreign xml:lang="met-fr"> morille, morchella (champignon
+                            ascomycète de la famille des morchellacés).</foreign></item>
+                    <item>- Tiote royette :<foreign xml:lang="met-fr"> ruelle.</foreign></item>
+                    <item>- Des rl'èques:<foreign xml:lang="met-fr"> des baisers.</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

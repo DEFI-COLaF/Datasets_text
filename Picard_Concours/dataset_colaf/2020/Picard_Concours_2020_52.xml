@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_52</idno>
+                <title type="main"> Edwige l'tiot' chouette</title>
+                <title type="collection">Picard Concours</title>
+                <author>Claudine, SELLIER </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Edwige l'tiot' chouette</title>
+                    <author>Claudine, SELLIER </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="75">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="23">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="rus" usage="1">
+                    <idno type="langue">rus</idno>
+                    <idno type="script">latin</idno>
+                    <name>Russe</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="ita" usage="1">
+                    <idno type="langue">ita</idno>
+                    <idno type="script">latin</idno>
+                    <name>Italien</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_52_p1.png"/><fw type="runningTitle"><lb/>Section CONTE</fw>
+                <fw type="numbering"><lb/>N°52</fw>
+                <head><lb/>EDWIGE
+                L' TIOT' CHOUETTE</head>
+                <p><lb/>Edwige, l’tiote chouette, étot triste. Elle s’rindot bein
+                compte qu’elle ne cantot pas aussi<lb/>bein que l’rossignol et l’mésange. Elle
+                décide de prindr' des cours de cant dans d’autr's<lb/>pays et quitte s' n’arb'
+                favori. Tout d’abord elle arriv' en Russie car elle avot ouï dire que<lb/>dans
+                c'pays in intindot les plus belles voix. Ch’est dins l' forêt sombre de Moscou
+                qu’elle<lb/>rencontre l’ours Micha.</p>
+                <p><lb/>Bonjour l’ours, j’viens t' d' vir car in dit
+                qu' les voix Russes sont les plus belles et<lb/>j’voudros apprint'.</p><p xml:lang="met-fr"><lb/>Mais ici ce
+                n’est pas un théâtre, répond Micha, vois la forêt sombre où je vis et
+                s’il<lb/>m’arrive de chanter, c’est au son d’un tambourin, le folklore du pays <quote xml:lang="rus">«
+                    Kalinka,<lb/>kalinka, kalinka maïa, v sadouyaté la malinka maïa.. »</quote></p><p><lb/>Vraimint,
+                        je n’pourrai pas canter cha su' m’ sapin français, alors quo faire ?</p><p xml:lang="met-fr"><lb/>Pars en
+                Afrique, là aussi il y a beaucoup de chants mais avant de nous quitter,<lb/>buvons
+                le verre de l’amitié. Une petite vodka te réchauffera pour ta longue
+                route.</p><p><lb/>Ch’est dins l’savane qu’elle vot arriver Simba le lion. Elle li explique
+                    sin problèm' de<lb/>justesse ed cant.</p><p></p><p xml:lang="met-fr"><lb/>Simba d’un air majestueux: Oui, je suis
+                ici le R.O.l. Je m’appelle Simba et personne<lb/>ne peut mieux chanter que
+                        moi!</p><p><lb/>Fais mi intint' ta voix !</p><p><lb/>Alors là, Simba se met à rugir avec la
+                force d’un vieux lion dépleumé. Les branqu’es des<lb/>arp’es s’couchot’ent sous
+                            sin souffle puissant.</p><p xml:lang="met-fr"><lb/>Tu vois ici, lui dit-il, dans la savane il n’est pas
+                question de cui-cui. Un lion rugit et<lb/>puis.... Tu me fatiques dans ma sieste et
+                                je n’aime pas ça.</p><p><lb/>De toute façon el caleur n'convient pas à Edwige, elle
+                quitte c'pays trop brûlant pour ses<lb/>tiot'es pleumes. Elle décide d’aller en
+                Chine, au pays du soleil levant. Ya beaucop<lb/>d’osieaux mais ch’est le singe
+                                    Chintok qui l’accueille à l’orée du bos.</p><p xml:lang="met-fr"><lb/>Que cherches-tu petite chouette ? dit
+                                        le singe</p><p><lb/>J’veux rincontrer mes frères et sœurs ailés pour qui m’appren't à
+                                        canter.</p><p xml:lang="met-fr"><lb/>Mais c'est impossible, ne sais-tu pas qu’ici c'est nous les singes qui
+                avons le chant le<lb/>plus puissant, les cui-cuis ici ne sont pos
+                    entendus.</p><ab><lb/>../...</ab><pb facs="Picard_Concours_2020_52_p2.png"/><p><lb/>Aussitôt
+                dit, Chintok s’met à crier en sautant comm' eine puce et Edwige, le bout
+                des<lb/>ailes sur les orell’s fait mine de partir.</p><p xml:lang="met-fr"><lb/>- Attends! dit Chintok ici on
+                    quitte ses amis après une tasse de thé</p><p><lb/>Et il lui offre la cérémonie de
+                        c’tisane infâme qu’in appelle « thé » sur un plateau.</p><p xml:lang="met-fr"><lb/>Pourquoi ne vas-tu pas
+                en ltalie ? on y chante l’amour comme nulle part ailleurs, tu<lb/>trouveras ce que
+                            tu cherches.</p><p><lb/>Merci, j’minvolerai dès la tombée de la nuit.</p><p><lb/>Ch’est au petit
+                jour qu’Edwige arriv' en ltalie. Les barques des péqueux ont incor
+                leurs<lb/>lanternes allumées et font des centaines d’yeux de hiboux le long des
+                quais où les<lb/>hommes déchargent les pissons. Edwige s’est réfugiée dans un
+                jardin public sur ein'e<lb/>branqu'. Ch’est là l’pays du cant d’amour ? tant de
+                                bruit, in crorot un vol d’étourneaux in<lb/>migration.</p><p><foreign xml:lang="met-fr"><lb/>Attends la nuit et tu
+                                    verras !</foreign> dit une voix en-dessous de l’arp'</p><p><lb/>Qui es-tu ? dit Edwige</p><p xml:lang="met-fr"><lb/>Moi ?
+                Caruso, le chat préféré des dames du parc. On me caresse, me nourrit et
+                pour<lb/>remercier je chante tous les soirs au clair de lune.<lb/>Enfin, donc té
+                                        peux m’apprind' à canter ?</p><p><lb/><quote xml:lang="ita">« O sole Miaou... qué bella cosq.. »</quote> il s’arrête.
+                <foreign xml:lang="met-fr">Mais j’y pense, tu es une chouette<lb/>donc un oiseau ! et je ne peux pas être ton
+                    ami</foreign></p><p><lb/>Edwige étonnée: Ah ? et pourquoé ?</p><p xml:lang="met-fr"><lb/>Parce que les chats mangent les
+                        oiseaux un jour ou l’autre, c’est écrit...</p><p><lb/>Edwige désapointée : Alors
+                j’rentre chez mi en France artrouver min sapin. Tant<lb/>pis ! jé n’saurai toudis
+                            pas canter juste.</p><p><lb/>Edwige arriv dins la nuit, bein triste de s’voyach' raté.
+                Elle artrouv le parfum de sa forêt,<lb/>l’humus des feull’s, des champignons, la
+                sève des pins qui lui est quère et heureuse elle<lb/>se blottit contre eine
+                                branqu' et se met à hulluler toute la nuit « hou..hou.. hou.. ».</p><p><lb/>Au petit matin
+                :- Edwige, ch'est ti ? où ch'est qu’étot ?Tu sais bein qu’té nous es quère
+                !</p><p><lb/>Ch’est vrai, vous m’avez cherchée ? dit la chouette toute artournée</p><p><lb/>Bein
+                ouais, l’forêt étot triste sans tin cant, y' a qu’ti ichi pour canter la
+                nuit.</p><p><lb/>—Merci l’zamis, ch’est bein ichi dins l'Nord Pas-de-Calais qu’/'ai
+                artrouvé l’amitié!</p></div>
+        </body>
+    </text>
+</TEI>

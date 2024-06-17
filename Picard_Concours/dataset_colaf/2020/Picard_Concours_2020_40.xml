@@ -1,0 +1,1023 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_40</idno>
+                <title type="main"> Les vacances à Berck</title>
+                <title type="collection">Picard Concours</title>
+                <author>Bernard, DOURLENS</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Les vacances à Berck</title>
+                    <author>Bernard, DOURLENS</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="80">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="20">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div type="liminal" xml:lang="met-fr">
+                <pb facs="Picard_Concours_2020_40_p1.png"/>
+                <head><lb/><hi rend="italic">AVERTISSEMENT</hi></head>
+                <fw type="numbering"><lb/>N°4O</fw>
+
+                <p><lb/><hi rend="italic"> Je suis désolé, et vous prie de m’en excuser; j’ai
+                        déjà réduit considérablement le texte initial et il m’aurait
+                        été<lb/>Je suis tout à fait conscient d’avoir excédé la longueur
+                        maximale autorisée des textes pour le concours, j’en<lb/>impossible de le
+                        raccourcir davantage sans en dénaturer le ressenti et le parfum des
+                        souvenirs.</hi></p>
+            </div>
+            <div>
+                <head><lb/>LES VACANCES A BERCK</head>
+                <head><lb/><hi rend="italic">(SOUVENIRS D’ENFANCE DES ANNEES 60)</hi></head>
+                <div type="chapter">
+                    <head><lb/>DEPART ET ARRIVEE</head>
+                    <p><lb/>Quand in n’avot pas core d’auto, à Berck in y allot qu’eune fos par an,
+                        in vacances au mois d’août, avec chés<lb/>cars Dumont. Ché sûr qu'
+                        chétot eune vraie expédition ; i' avot presque 5 heures éd' bus !</p>
+                    <p><lb/>In partot à 6 (mes parints pis mes 3 frères) à pied délle maison
+                        pour déchinde au Cercle à Bruay prinde<lb/>l’autobus éd' Berck qui partot
+                        à Th du matin ; i' avot personne dins chés rues à ch' t’heure là et
+                        chés magasins i<lb/>zétotent pas cor' ouverts ; cha faijot drôle.
+                        Arrivés derrière Prisunic, in allot attinde éch' car Dumont. Un biau bus
+                        éd'<lb/>couleur crême avec des appuie-tête arcouverts d’un drap blanc et
+                        des cendriers derrière chés sièges, qui zétotent<lb/>inclinabes, él'
+                        grand luxe. Ch' matin là, in avot pas un coup d’oeulle pour chés zautobus
+                        artésiens ou chés Citroëns qui<lb/>zallotent à Lens : nous in allot à
+                        Berck ! à la mer!...</p>
+                    <p><lb/>Tous chés gins i zattindottent comme nous su' ch' trottoir avec leus
+                        valisses ; i' avot des jeaunnes qui zavotent<lb/>déjà mis leur maillot d’
+                        bain avec un pull over et qui ténotent dins eune main ch' ballon dins sin
+                        filet, et l’pelle, ch'<lb/>l’épuisette et ch' séau dins l’aute. Chés cars
+                        Dumont i zétotent jamais in retard; ch' chauffeur, i' avot eune
+                        belle<lb/>quémiche blanque à manches courtes, eune cravate et des lunettes
+                        éd' solelle et in pouvot pas l’confonde avec cheux<lb/>des artésiens qui
+                        faijotent élle navette pour Béthune, avec leu tablier gris, leu bérêt et
+                        leu mégot dins l’coin d' leur<lb/>bouque...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Un autobus artésien et un
+                                car Dumont tournant au Prisunic de Bruay</hi></head>
+                    </figure>
+                    <p><lb/>Quand tou i’étot querqué et qu' tous chés gins i zétotent monté,
+                        ch' bus i démarrot : que silence ! In n’intindot<lb/>minme pas ch’ moteur ;
+                        et in sintot pas chés trous sur élle route. Après ch’ premier arrêt à
+                        Saint Pol, in arrivot su<lb/>l’grand plache d’ Hesdin qu' chés marchands
+                        d’frites i zétotent déjà à l’ouvrache à 10h du matin : in s’arrêtot
+                        1/2 heure.<lb/>I n’a qui z’in profitotent pour aller boire un verre. Pis
+                        Montreul ; là auss, 1/4 d’heure d’arrêt ; i’étot 11h, él' solel
+                        i<lb/>comminchot à taper, i’avot des fleurs tout partout. des guirlandes
+                        avec des drapeaux, des gins habillés in diminche. In<lb/>déchindot chinq
+                        minutes pour prinde l’air et in ouvrot grand ses niflettes pour essayer
+                        d’sintir l’air éd la mer, du sabe.<lb/>et délle crème à bronzer...</p>
+                    <pb facs="Picard_Concours_2020_40_p2.png"/>
+                    <figure>
+                        <head><lb/><hi rend="italic">Place de l’hôtel de ville à
+                            Saint-Pol</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Place d’armes à
+                            Hesdin</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Place de
+                            Montreuil</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Arrêt du car Dumont à
+                                Montreuil</hi></head>
+                    </figure>
+                    <p><lb/>Dernière étape : Montreul —Berck; in passant devant Bagatelle, pis ch'
+                        camp d’aviation, d' dù qu’in pouvot<lb/>vire décoller des viux coucous qui
+                        trainotent des banderoles avec des mots écrits in grand : «<hi
+                            rend="italic"> Bonnes vacances à<lb/>tous! </hi>», « <hi rend="italic"
+                            >Lisez la voix du nord</hi> !». In traversot tout Berck, et ch' car i
+                        faijot des tours et des ratatours avant d' vénir<lb/>s’garer devant l’gare
+                        routière in marche arrière. Tout l’ monde i dépavot pour déchinde;
+                        fallot pas perde eune minute,<lb/>récupérer chés sacs dins ché filets,
+                        pis chés valisses dins chés coffes et su ch’toit. Tout l’monde i donnot un
+                        coup<lb/>d’main; et quand in avot tout. in restot là debout intre chés
+                        zautobus : « <hi rend="italic">Tout l’monde y est là ? In a tout ?
+                            Chés<lb/>pelles ? Chés zépuisettes ? et ch’ballon ? Alors in y
+                            va...</hi> »</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Berck plage : la gare
+                                routière</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Berck plage: la rue de la
+                                gare</hi></head>
+                    </figure>
+                    <p><lb/>In sortant d' la gare. in avot cangé d' planète ! Des belles baraques
+                        avec des balcons, des cafés, des terrasses<lb/>avec chés stores étalés
+                        tellemint qu’i zétotent inondées d’solelle. des odeurs mélangées d'
+                        gatiaux, d' poulets rôtis, et<lb/>d' bronzécran... Avec nos valisses in
+                        passot devant chés gins attablés à chés bistrots qui prénotent
+                        l’apéritif : in nous<lb/>aurot pris pour des pieds noirs qui rintrotent
+                        d’Algérie, sauf qu’in étot blancs comme des linches... et in s’in allot
+                        à<lb/>pied arjoinde note location rue Estienne d’Orves, eune pétite rue in
+                        face éd' l’église, à côté délle rue d' l’Impératrice,<lb/>qui étot
+                        à peine à dix minutes d’ la mer. l’avot pas d’surprise passe que tous les
+                        ans in allot dins l’minme location, au<lb/>2ème étache. Après avoir
+                        poussé l’porte in verre et in fer forgé, in introt dins un vestibule qu’y
+                        faijot pas clair et qui<lb/>sintot l’ rinfermé, avec au fond, derrière ch'
+                        l’escalier in bos qui montot à chés zétaches, eune espèce d’arrière
+                        cour<lb/>avec chés poubelles. Chés propriétaires i zétotent pas causants
+                        ; i nous donnotent l’ clé et in montot chés escaliers in<pb
+                            n="Picard_Concours_2020_40_p3.png"/><lb/>claquant bien nos godasses sur
+                        chés marches in bos pour faire vire qu’in étot arrivés. In étot tout seu
+                        su ch' pallier ;<lb/>min père i’ouvrot l’porte et in s’intiquot à 6 là
+                        d’dins : eune cuisine et deux pétites chambes. Mes grands frères
+                        i<lb/>zallotent tout d' suite vire à l’ferniette délle cuisine, raviser
+                        ch' balcon délle maison d’in face, dù qu’y avot toudis des<lb/>maguettes
+                        qui s' faijotent bronzer in maillot d’ bain ou qui mettotent leu vernis à
+                        ongues...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Location rue Estienne
+                                d’Orves</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">« maison d' en face
+                            »</hi></head>
+                    </figure>
+                    <p><lb/>Bon, in étot arrivés ; tout i' allot bien : chés maguettes i
+                        zétotent là, l’boutelle éd' gaz alle étot pleine, et i'avot<lb/>dé
+                        l’iau à ch' robinet. Chés waters, i zétotent in bas dins l’ cour. I
+                        restot pus qu’à ringer ses affaires dins chés armoires<lb/>mais cha allot
+                        vite passe qu’in n’avot pas grand cosse. Ém' mère alle allot acater à
+                        minger, nous in allot faire un tour<lb/>sur l’esplanatte et l’rue Carnot.
+                        Là aussi tout i' allot bien; i' avot rien d' cangé : ch' marchand d'
+                        glaces, l' patisserie à<lb/>ch' coin d' l’église qui vindot des Néluzco
+                        et des meringues au café, ch' Cornet d’Amour, chés magasins d' juets
+                        dé<lb/>l’rue Carnot, la mer, tout i' étot in plache.</p>
+                    <p><lb/>Et surtout, sur l’esplanatte, ch' drapeau qui étot planté au-d’sus dé
+                        ch' cente éd' secours i flottot gaiemint au<lb/>vint au mitan d' chés
+                        cerf-volants, et i' étot vert ! I restot pus qu’à s' dépècher d' rintrer
+                        mette sin caleçon d' bain.<lb/>Chés vacances à Berck, i pouvotent
+                        commincher.</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">L’esplanade et le drapeau
+                                vert</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><hi rend="italic">la rue Carnot et les
+                            magasins</hi></head>
+                    </figure>
+                </div>
+                <div type="chapter">
+                    <head><lb/>PROGRAMME _DU _MATIN</head>
+                    <p><lb/>Alors chétot quoi l’programme des vacances à Berck ? Ben plage au
+                        matin, plage après-midi, pis minger eune<lb/>glace au soir devant la plage.
+                        Cha pourrot paraîte monotone mais chés journées alles zétotent jamais
+                        parelles; d’abord<lb/>à cause éd' chés marées, qu’alles zétotent basses
+                        ou hautes et jamais à l’ minme heure. Pis aussi à cause dé ch’temps.</p>
+                    <p><lb/>Si chétot marée basse, j' m’ in allos pieds nus avec ém' pelle, m' n'
+                        épuisette et min séiau à crevettes. Chés<lb/>trottoirs i zétotent
+                        arcouverts éd' crottes éd' tchiens et cha sintot l’ pichatte. Alors fallot
+                        faire attintion dù qu’in mettot<lb/>ses pieds. Eune seconde éd'
+                        distraction et brin ! in sintot qu’in avot marché dins quéque cosse éd'
+                        mou mais i' étot<lb/>trop tard ; i’avot pus qu’à aller trimper ses pieds
+                        dins ch’ caniveau. Sur l’esplanatte, i fallot courir ou marcher su'
+                        l’<lb/>pointe des pieds tellemint qu' par terre cha brûlot ... J'
+                        déchindos chés escaliers devant ch' poste êd' secours. Ou cor<lb/>la rue
+                        Carnot et les magasins<pb facs="Picard_Concours_2020_40_p4.png"/><lb/>miux, j'
+                        laissos glicher ém' pelle tout cha in bas délle digue qu' cha faijot un
+                        potin du diabe et mi. j’déchindos su' l’<lb/>rampe in fer à califourchon.
+                        Et j' récupéros mes affaires in bas dins ch' sabe.</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">L’esplanade, la digue et
+                                l’escalier</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">La plage et le Bar des Sables
+                                RIVET</hi></head>
+                    </figure>
+                    <p><lb/>Après i' restot pus qu’à courir jusqu’à chés bâches. Dins chés
+                        premières, i’avot pas assez d’iau ; alors fallot<lb/>aller pus lon pour in
+                        trouver eune pus profonte. Poser sin séiau après l’avoir rimpli d’iau et
+                        hop ! à l’ouvrache.</p>
+                    <p><lb/>Péquer des crevettes, chétot pas si simpe ; i fallot courir in
+                        poussant ch' l’épuisette qui raclot ch' fond passe<lb/>que chés bestioles
+                        alles nageotent à toute blinde dins tous les sens et sûremint qu’alles
+                        zavottent pas invie d' passer à l'<lb/>castrole !.. ; et des fos, in
+                        ramenant ch' filet au bord, patatras, in butot sur eune boche éd' sabe, ch'
+                        l’ épuisette alle<lb/>s’arrêtot net, ch' filet i s’artournot et du coup,
+                        y' avot pus rien d’ dins, qu' des algues et des coquillaches
+                        vides...<lb/>Quand in arrivot à l’armonter su' l’rive, chétot pas non pus
+                        facile d' les artrouver dins chés algues et tous chés<lb/>saloperies qu’in
+                        avot ramassées... In n’ attrapot pas gramint finalemint et cha allot pus
+                        vite d' aller les zacater à chés<lb/>marchands qui les vindotent su
+                        ch’trottoir à chés coins d’rue...</p>
+                    <p><lb/>Su l' coup d' midi min père i' arrivot tranquillemint et in allot à l’
+                        vraie mer, dù qu’y avot des vagues. J’allos<lb/>m' baigner et li i restot
+                        tout habillé au bord avec ses pieds dins l’iau. I m’surveillot in faijant
+                        des grands sinnes:<lb/>« <hi rend="italic">Arviens! t’es trop loin</hi> »
+                        alors que ch' batiau d' chés maites nageurs i' étot des kilomètes pus
+                        lon... Des fos j' faijos<lb/>sennant d’ pas l’intinde, ou cor miux, d' pas
+                        comprinde. Alors i' armontot ses bords d’ pantalon sur ses g’noux et
+                        i<lb/>vénot m' quère, pas fort contint : « <hi rend="italic">T’obéis pas!
+                            t’iras pus !</hi> », « <hi rend="italic">Si ché comme cha, in rinte
+                            !</hi>»... Mais cha m' faijot<lb/>ni caud ni frod. In sortant dé l’iau
+                        j’avos frod, et j’ m’inroulos dins l' grande serviette. In arpartot à pied,
+                        in traversant<lb/>chés bâches dù que l’iau alle étot bouillante; alors
+                        des fos. jé m' rasseyos d’dins tellemint qu' chétot bon. Pis<lb/>armonter
+                        chés marches à ch' poste éd' secours, m’assir su' ch' muret in granit
+                        pour mette mes claquettes qu' min père<lb/>i m’avot rapportées et in
+                        rintrot comme cha à pied à l' location. Quand chétot diminche, in
+                        s’arrêtot à l' patisserie pour<lb/>acater des gâtiaux.</p>
+                    <p><lb/>Les jours qu' chétot marée haute. j' m’in allos in caleçon d’ bain
+                        avec juste eune serviette su' m' épaule et m'<lb/>pelle dins m' main. Mais
+                        j’allos pas m’ baigner tout seu, j’avos pas l’ drot ; alors, in attindant
+                        min père, j' bâtichos un<lb/>catiau d' sabe. Là aussi, avant d’'
+                        commincher à creuser ch' sabe, fallot d’abord creuser ses méninches : si
+                        in<lb/>comminchot trop près d' la mer, i' étot importé avant minme d’ête
+                        fini ; et si in comminchot trop lon, l’iau alle arrivot<lb/>jamais jusque
+                        là... Alors fallot bien calculer, et armonter ses manches (jé n’avos pas)
+                        pour creuser à toute vitesse.<lb/>D’abord tracer un rond avec élle pelle,
+                        pour donner l’ taille délle construction. Et après, creuser eune tranchée
+                        tout<lb/>autour in balançant ch' sabe dins ch’rond. Pis élargir élle
+                        tranchée et ainsi d’ suite jusqu’à arriver à eune belle hauteur.<lb/>D'
+                        temps en temps. j' sautos d’sus à pieds joints pour tasser ch' sabe et j’
+                        continuos in tapant avec ém' pelle. Et<lb/>j’arcreusos pour rajouter du
+                        sabe. Fallot toudis garder un oeulle sur la mer qui pouvot arriver sans
+                        crier gare. Des fos<lb/>min père, qui étot déjà arrivé, i' m' donnot un
+                        coup d’ main.</p>
+                    <p><lb/>Quand ch' catiau, des fos un batiau, i’étot fini, j' montos in haut
+                        pour l’ aplatir et creuser un trou d’dins pour<lb/>faire eune banquette avec
+                        un aute trou pus profond pour mette ses pieds. Pis arsortir creuser un canal
+                        jusqu’à chés<lb/>vagues qui zarrivotent pour faire arriver l’iau tout
+                        autour et s' sintir comme dins un catiau du moyen ache intouré
+                        d'<lb/>fossés rimplis d’iau. Si i restot du temps avant l’ catastrophe
+                        annonchée, j’allos quère des coquillaches et des coutiaux<lb/>(chétot pus
+                        dur à trouver) pour faire éllé décoration. Et après i’ avot pus qu’à
+                        s’assir éd' dins et à attinde. L’iau alle<lb/>arrivot duchemint par vagues
+                        in faijant l' tour; des pans intiers i s’écroulotent. J’étos intouré
+                        d’iau mais chétot du<lb/>solide, cha ténot l’ coup. Pis eune vague pus
+                        grosse que z’autes vénot tout importer ! Mais j’allos pas m' laisser
+                        faire<lb/>sans moufter alors, dins un dernier sursaut d’orgueul, j' montos
+                        sur chés ruines et j’finichos mi minme él' traval... Et<lb/>j'pouvos aller
+                        m' baigner.</p>
+                    <pb facs="Picard_Concours_2020_40_p5.png"/>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Châteaux de sable en bord de
+                                mer</hi></head>
+                    </figure>
+                    <p><lb/>Après cha in rintrot minger à pied ; chétot souvint des pâtes avec
+                        des bifteaks hachés. L' gazinière alle étot<lb/>toute pétite et i' avot
+                        pas d’ quoi pour faire délle grande cuisine : et pis in n’avot pas faim.
+                        Après minger, in déchindot<lb/>su ch' trottoir, pour juer aux mappes ou à
+                        l’ batalle su' l’pierre délle porte d’intrée. I fallot atteinde 3 heures %
+                        passe<lb/>que si in allot à la plage avant in risquot d’abord eune
+                        insolation pis après eune hydrocution. Autant dire qu’in
+                        n’avot<lb/>auquinne chance d’in réchapper. Alors in attindot in passant l'
+                        temps.</p>
+                </div>
+                <div type="chapter">
+                    <head><lb/>L’APRES-MIDI</head>
+                    <p><lb/>A 3 heures 1/2 tapantes, in s’in allot tous à la plache. Au bout délle
+                        rue devant l’églisse, in artrouvot nos amis<lb/>les Gosselin : chétot pas
+                        des vacanciers, i zhabitotent à Berck. Li i’étot cuisinier au Cottage des
+                        Dunes alors i vénot à<lb/>la plage qu' ses jours éd' congé. Mais s'
+                        femme alle vénot souvint avec nous, cha faijot délle compagnie pour
+                        ém'<lb/>mère. Alle avot deux grands garchons du même âche qu' mes grands
+                        frères et ché comme cha qui s’étotent connues.<lb/>Mais chés grands, i'
+                        avot longtemps qu’i vénotent pus à la plage avec nous.</p>
+                    <p><lb/>In armontot l’esplanade et in arrivot à chés escaliers devant ch' bar
+                        RIVET ; mi j' déchindos in glichant<lb/>l' long dé l’rampe. Chétot
+                        risqué passe que si in partot d' coin et qu’in accrochot un piquet délle
+                        fameusse rampe, in<lb/>pouvot valdinguer su' l’ digue in pierre et
+                        s’artrouver in sang in bas avant minme d’avoir réalisé chu qui nous
+                        étot<lb/>arrivé !... Alors j' y allos quand minme mollo. In bas j'artiros
+                        mes claquettes et mes soquettes. Si y' avot du vint, in<lb/>s’installot
+                        derrière chés cabines. Sinan. in allot s’assir su' ch sabe sec, à côté
+                        d' chés tentes.</p>
+                    <p><lb/>Souvint, à not' plache in artrouvot des amis d' Bruay, les Masson; i
+                        zavotent aussi 3 garchons, deux du<lb/>même âche qu' mes grands frères et
+                        un aute du mien. Et après, chés grands qui vénotent nous arjoinde. Des
+                        fos, in étot<lb/>eune bonne quinzaine assis comme cha su' ch' sabe. Et i n'
+                        avot toudis un pour vénir m’imbêter et m' faire des<lb/>misères.</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">La « fine
+                            équipe»</hi></head>
+                    </figure>
+                    <p><lb/>Quand j’étos tranquille, qu’in m’imbétot pas, in arrivant j’
+                        comminchos par creuser un grand trou avec ém'<lb/>pelle qu' in véyot pus
+                        qué m' tiète qui dépassot. Des fos, au fond, y' avot dé l’iau qui
+                        armontot si chétot marée haute.<lb/>Après, j' faijos eune banquette au
+                        mitan pour s’assir et eune tablette à ras devant ch’trou. Eune fos fini,
+                        j’allos quère<lb/>dé l’iau dins eune bâche avec min séau, et cacher
+                        aussi des coquillaches. Avec cha, j' fabriquos des boules éd sabe<pb
+                            n="Picard_Concours_2020_40_p6.png"/><lb/>mouillé, que j’creusos avec
+                        min canif fantaisie (qu' j’avos acaté au Mont Noir) pour in faire des
+                        paniers ou bien aut<lb/>cosse; que j’décoros après avec des coquillaches
+                        et délle poude éd' couleur qu’in acatot à ch' marchand d' juets
+                        délle<lb/>rue Carnot dins des pétits sachets. Ou alors in faijot
+                        dégouliner des macarons d' sabe sur chés boules, tout chu
+                        qu’in<lb/>voulot. Après, in mettot chés boules à l’étalache devant ch'
+                        trou su' l’ tablette et i’ avot pus qu’à atteinde chés clients.<lb/>Chés
+                        boules, in les vindot intre 2 et 10 coquillaches, pour chés pus belles. In
+                        étot au moins eune dizaine éd' jeaunnes à<lb/>juer à cha; chacun i' avot
+                        sin trou et i vindot ses boules. In apprénot à marchander, à faire des
+                        affaires. Après, avec<lb/>mes coquillages gagnés, j’allos vire à chés
+                        zautes trous pour acater des boules. Tout cha cha durot bien 2 heures.
+                        Et<lb/>après i n’avot toudis un qui donnot l’signal pour tout casser :
+                        alors in allot s' jéter dins chés trous des zautes pour tout<lb/>casser,
+                        chés boules, tout. Et après cha qu’in étot déjà in nache, in pouvot
+                        aller s' baigner.</p>
+                    <p><lb/>In faijot la course pour arriver à la mer ; in traversant chés baches.
+                        in in profitot pour éclabousser chés filles et<lb/>chés jeaunnes nasiers
+                        qui barbototent dins l’iau caude!... Des fos la mer alle étot tellemint lon
+                        qu’in devot s’arrêter<lb/>pour arprinde s' respiration... Arrivés à la
+                        mer, in courot core pus fort pour s' jéter tout d' suite dins chés
+                        vagues;<lb/>fallot pas passer pour des nunuches. Cha faijot un grand coup d’
+                        frod mais tant pire, in s' récauffot vite et après in<lb/>voulot pus
+                        sortir. Dins l’iau, in nageot, in juot au ballon, in s'éclaboussot. Pis in
+                        arféjot la course pour arvénir à nos<lb/>parints ; qui nous zattindotent
+                        avec chés tartines éd' confiture... I' avot pas intérêt à l' laisser
+                        quère dins ch' sabe<lb/>passe que chés tartines chétot calculé au pus
+                        juste et i’avot pas d' rabiot.</p>
+                    <p><lb/>Après cha, pou s' récauffer, in juot au foot su' ch' sabe mouillé;
+                        quand i' avot du vint, mes frères i m'<lb/>mettotent gardien d' but comme
+                        cha chétot mi qui courot après ch’ ballon quand i tirotent à côté (cha
+                        arrivot<lb/>souvint !...) ; pis in faijot eune partie d’boules avec chés
+                        parints su ch' sabe sec. Min père i lançot ch' cochonnet dins<lb/>un trou
+                        pis s' boule juste après qu’alle vénot s’coller d’sus ; « <hi
+                            rend="italic">nan alle est pas collée!</hi>» « <hi rend="italic">si
+                            alle est collée!</hi> » « <hi rend="italic">nan<lb/>i’a un grain d’sabe
+                            intre les deux !!</hi>»; alors j’allos vire éd' tout près, in courant,
+                        pis m’ jéter à g’noux juste à côté dins<lb/>un nuache éd' sabe ! Et
+                        après cha, l’ boule alle l’étot pus, collée ! «<hi rend="italic">J'té
+                            l’avos dit ! alle est pas collée !!... </hi>». In étot<lb/>cuits du
+                        solel, rouches comme des écrevisses. In ramassot chés zaffaires et in
+                        armontot au soir in s' trainant comme<lb/>des limuchons; pus d’forches;
+                        claqués ; ratiboisés. In arrivot minme pus à monter chés marches...</p>
+                    <p><lb/>J'arrive pas à m' rappeler qu' des fos i pleuvot ; Berck chétot que du
+                        solel, jamais un nuache; in in véyot des<lb/>fos à l’horizon qui étot du
+                        côté d' Montreul ou Boulonne... Quand y' avot un gros zorache, chétot
+                        putôt l’après-midi.<lb/>su l’coup d’ chinq heures. Mes parints i
+                        zarmontotent s' mette à l’abri derrière chés cabines ou devant chés
+                        magasins<lb/>d' l’esplanatte qui zavotent des grands stores. Mais avec mes
+                        frères in allot s' baigner comme cha in étot déjà frèques.<lb/>Que
+                        bonheur d’ête dins l’iau jusqu’à sin cou avec chés gouttes qui quéyotent
+                        tout autour in faijant des éclaboussures.<lb/>Mais si cha durot trop
+                        longtimps, chés maites nageurs i mettotent ch' drapeau rouche, ch' dinky i
+                        vénot nous dire éd<lb/>sortir. les zautes au bord i souflotent dins leus
+                        sifflets comme des dératés alors in armontot arjoinde nos parints et
+                        s’<lb/>mette à l’abri.</p>
+                    <p><lb/>In arvénant, qu' in passot devant l' pharmacie centrale, min père i
+                        manquot jamais d' raviser ch' baromète qui<lb/>trônot dins l' vitrine :
+                        chétot un gros rouleau in laiton avec eune aiguille qui traçot deux
+                        linnes, eune bleue et eune<lb/>rouche, sur du papier millimétré : si alle
+                        déchindot, chétot pas bon sinne pour chés jours à vénir ... Mi j’y
+                        comprenos<lb/>rien alors j' ravisos juste élle tête éd' min père.</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">La pharmacie au coin de la
+                                rue Carnot</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">le baromètre de la
+                                pharmacie</hi></head>
+                    </figure>
+                    <p><lb/>In s’arposot au soir dins l' location in soupant ; in n’allot jamais au
+                        bistrot, jamais sur eune terrasse ; chés sous<lb/>i zétotent comptés et
+                        in pouvot pas s’permette. Et i fallot in garder pour ch' meilleux momint
+                        délle soirée : l' glache.</p>
+                </div>
+                <div type="chapter">
+                    <pb facs="Picard_Concours_2020_40_p7.png"/>
+                    <head><lb/>AU SOIR</head>
+                    <p><lb/>Là aussi i’avot deux solutions : soit in juot aux cartes ou au milles
+                        bornes (y’avot pas d' télé bien sûr) dins l’<lb/>location; et i z’in
+                        désignotent un pour aller quère chés glaches amont Dandréa. Et cha
+                        quéyot toudis sur mi passe que<lb/>j’étos ch' pus jeaunne et min tiot
+                        frère li i' étot trop pétit. Mais cha m’déringeot pas. Dandréa, chétot
+                        ch' glacier rue d’<lb/>l’ Impératrice qui étot au coin délle rue, in face
+                        éd' l’églisse. L' boutique alle étot étroite mais chétot chés
+                        meilleures<lb/>glaces éd' Berck, cor meilleures qu’au Cornet d’Amour ;
+                        chelles à la fraise i’avot des vrais morchiaux d’ fraises éd'<lb/>dins; et
+                        au praliné, jé n' n’ai pus jamais mingé des zaussi bonnes éd' tout' m’
+                        vie ! J’acatos chés cornets pis des Gelco<lb/>pour min père et m’mère. Et
+                        jé m dépéchos d’ rintrer in courant pour pas qu' cha fonde. Mes frères i
+                        m’ ravisotent<lb/>arvénir par l' ferniette et i n’avot toudis un qui vénot
+                        quand minme m’ouvrir elle porte in bas, qu' j’avos des glaces<lb/>plein mes
+                        mains. In les mingeot assis autour dé l' tappe éd' cuisine, avec chés
+                        fnêtes ouvertes ; et chés glinnes in face<lb/>su' ch balcon....</p>
+                    <p><lb/>L' aute solution, chétot d’arsortir pour aller faire un tour ; tout le
+                        monde i sortot au soir quand y' avot fait bien<lb/>caud dins l’ journée et
+                        y' avot un monde fou sur l’esplanate ; chés gins i zétotent in maillot d’
+                        corps et in veillot chés<lb/>coups d’solel dins leur dos pis sur leus bras.
+                        I n’avot qui zétotent violets !... Après deux trois zallers retours su'
+                        l’<lb/>digue, in allot faire la queue au Cornet d’Amour. Et in mingeot note
+                        glace assis su' ch' mur in ravisant passer chés<lb/>gins qui mingeotent des
+                        glaces eux aussi. Tout le monde chuchot des glaces. Minme chés tchiens qui
+                        léquotent par<lb/>terre chés cornets qu’y n’avot qu’i zavotent laissé
+                        quère; souvint cheux là, in les intindot braire passe qu' i
+                        zavotent<lb/>passé leu tour; au prix qu' cha coûtot, i’étot pas question
+                        d’in racater eune aute...</p>
+                    <p><lb/>Dins tou cha j' étot passé dix heures et i fajot noir ; mais tous
+                        chés lumières i restotent allumées ; chés<lb/>terrasses alles zétotent
+                        pleines; quéquefos y’avot des animations d' la Voix du Nord, d' Nord Matin
+                        et minme dé chi<lb/>Parisien qui étot sorti d' prijon... Ou cor des
+                        fêtes, des ducasses.... In rintrot à pied dins note rue à l’écart qui
+                        étot<lb/>calme passe que i’avot pas d' commerçants ni d’ bistrots. Et in
+                        allot s' coucher.</p>
+                    <p><lb/>Au d’sus d' chés couvertures. Et sans mette éd' pyjama...</p>
+                </div>
+                <div type="chapter">
+                    <head><lb/>L' JOURNEE A _BAGATELLE</head>
+                    <p><lb/>Ah! l’ journée à Bagatelle, in l’attindot chelle là !... Là aussi,
+                        que expédition : min père i' allot d' bonne heure<lb/>acater du pain à l’
+                        boulangerie pis du pâté et des cornichons. M’ mère alle préparot ch'
+                        pique nique avec élle nappe et<lb/>chés serviettes. In s’in allot à pied
+                        et in route in artrouvot les Gosselin et les Masson. In étot eune quinzaine
+                        comme<lb/>cha à faire la route. Chés parints i restotent derrière à
+                        blablater et nous chés gosses in juot au ballon devant. In<lb/>longeant l’
+                        route qui passot devant l’aérodrome, in ravisot décoller chés avions pour
+                        chés baptèmes de l’air (cha nous<lb/>faijot pas rêver passe que minme in
+                        rêve, in savot qu’in n’irot jamais). Et in arrivot à l’intrée d'
+                        bagatelle, qu' souvint<lb/>i' avot déjà du monde et fallot faire la queue
+                        à chés caisses.</p>
+                    <p><lb/>In comminchot par visiter l' ménagerie; surtout chés cages à faisans
+                        ; y n’avot des dorés, des zargentés, des<lb/>blancs, des d' tous les
+                        couleurs. Pis des paons qui faijotent la roue. Des glennes aussi d' tous les
+                        sortes et minme des<lb/>combattantes, des sales bêtes qui zétotent dins
+                        des cages à part passe qu’alles s’ battotent au sang... Y avot aussi
+                        des<lb/>loups j' cros bien et des bisons ; des lamas qu’in s’approchot pas
+                        d' trop passe qu' in avot lu Tintin « Quand lui pas<lb/>content. lui
+                        toujours faire comme çà... »; des kangourous, des lions, un guépard
+                        aussi....</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Bagatelle avec mes frères en
+                                56</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">les daims</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">les paons et les
+                            rennes</hi></head>
+                    </figure>
+                    <pb facs="Picard_Concours_2020_40_p8.png"/>
+                    <p><lb/>Bon in étot à peine arrivés et in n’avot déjà plein ses ziux ! Et
+                        après in allot monter à chés manèches. Chétot<lb/>comme au Mont Noir et
+                        Dadizeele : des tonniaux qu’in n’avot pas l’drot d’y aller mais qu’in
+                        ravisot chés trompe-la¬<lb/>mort qui z' y rintrotent plein gaz et s'
+                        faijotent éjecter aussi sec : chés balanchoires : ch' grand batiau qui
+                        fallot ête des<lb/>dizaines montés d’dins pour arriver à l’ faire
+                        basculer : tout le monde i courot du minme côté pou l’ faire déchinde
+                        et<lb/>eune fos au pus bas, i poussotent tous éd' l’aute côté pour l’
+                        faire basculer ; après cha comminchot à aller vite, ch'<lb/>batiau i
+                        montot presque à l' verticale et i’avot intérêt à bien s' ténir à ch'
+                        bastingache ! l’avot aussi toutes sortes éd'<lb/>tourniquets et d'
+                        balanchoires. Ch' tapis « roulant », eune passerelle avec des planques in
+                        bos suspindues qu'i fallot<lb/>courir vite éd' d’sus pour pas rester
+                        coinché in bas; des grands toboggans; des bidets à bascule. Ch' pétit
+                        train, mais<lb/>li in montot pas d’dins passe qu’i fallot core donner des
+                        sous in plus.</p>
+                    <figure/>
+                    <p><lb/>In courot tout partout d’un manèche à un aute ; y n’avot pour tous les
+                        âches. Chés grands i montotent in haut<lb/>d' chés grands toboggans et
+                        chés pétits sur des pétites balanchoires avec des bidets. Mes frères, in
+                        les véyot arvénir éd<lb/>temps en temps pour demander des sous ou minger
+                        un choco BN. Mes parints, eux, i restotent assis sur chés bancs à<lb/>nous
+                        surveiller.</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Les petits chevaux
+                                balançoires en 56</hi></head>
+                    </figure>
+                    <pb facs="Picard_Concours_2020_40_p9.png"/>
+                    <p><lb/>A midi, in mingeot comme cha s' tartine éd' pâté à l’ombe assis par
+                        terre dins l’herbe. Et l’après midi in<lb/>continuot à courir tout partout
+                        et à s’incrinquer sur tout c' qui passot. Pis i' arrivot l’heure d’aller à
+                        chés zautos à<lb/>pédales ; chétot à l’écart, au bout dé ch' parc,
+                        sur des circuits. Pétits, in montot dins des zautos à pédales sur un
+                        pétit<lb/>circuit pour chés jeaunnes : là, in risquot pas grand cosse. L'
+                        pus dur chétot d’ démarrer in appuyant fort sur chés<lb/>pédales, mais
+                        souvint i n’avot un qui nous poussot ; pis d’arriver au bout délle longue
+                        route droite et d' réussir à<lb/>tourner au bout. Chés tout pétits i z’y
+                        arrivotent pas et in véyot accourir chés parints pour les aider. Chés pus
+                        grands.<lb/>eux, i z’accélérotent au lieu d' freiner et souvint i
+                        manquotent éd' s’artourner dins ch' virache...</p>
+                    <p><lb/>Quand in étot cor pus grands, in pouvot aller su ch' grand circuit et
+                        s’essayer à chés bidets ; chétot des pétites<lb/>carettes à 2 reulles
+                        qu’in pouvot s’assir su' l’ banquette, tirées par un bidet in bos qu’i
+                        avot, li, qu’eune seulle reulle. Et<lb/>in l’dirigeot in tirant sur sin
+                        harnais. Chétot pas facile à manœuvrer, mais parelle, d’année in année,
+                        in progressot. Et<lb/>chés grands, eux, i montotent sur des biclous pus
+                        bizarres és' zuns que z' autes : des avec eune grande reulle devant
+                        et<lb/>eune pétite derrière, ou cor des reulles qui tournotent pas rond,
+                        pis tout cha. Tout l’monde i rigolot. Quand in arrivot à<lb/>la fin dé
+                        ch’tour, in essayot d' faire demi-tour pour rester cor un tiot peu mais in
+                        s’faijot rappeler à l’orde ; alors in<lb/>pédalot l' pus duchemint possibe
+                        in zigzaguant pour faire durer pus longtemps...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Avec mon frère en
+                            63</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">les chevaux à pédales en
+                                57</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">et en 63</hi></head>
+                    </figure>
+                    <p><lb/>Au soir, in sortant, in étot bien mates ; in ravisot eune dernière fos
+                        chés faisans pis chés daims pour leur dire<lb/>ar voir : des fos, in buvot
+                        eune orangeatte su' l’terrasse dé ch' café restaurant qui étot à
+                        l’intrée ; et i fallot core faire<lb/>la route pour rintrer ; i’avot
+                        pusieurs kilomètes. Chés grands i partotent in avant et nous in s' trainot
+                        comme in pouvot<lb/>derrière chés parints qui continuotent à blablater.
+                        Et là ch' ballon i restot dins sin filet. Contints d’avoir passé
+                        eune<lb/>journée à Bagatelle; mais tristes aussi qu’i allot falloir
+                        atteinde un an pour y artourner...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="met-fr">A la sortie de Bagatelle :
+                                les restaurants, cafés et terrasses</hi></head>
+                    </figure>
+                </div>
+                <div type="chapter">
+                    <head><lb/>LA BAIE DE L’AUTHIE</head>
+                    <p><lb/>Quand y' avot trop d’vint et qu' tous chés plaches derrière chés
+                        cabines i zétotent prises, in allot à l' baie d’<lb/>l’Authie. In passant
+                        par élle digue ou alors par l' route dé ch’phare qui étot toudis
+                        arcouverte éd' sabe. Tant qu’in étot<lb/>sur élle route cha allot mais au
+                        bout délle digue, y’avot pus qu' des gros rochers et juste un pétit
+                        passache avec du sabe<lb/>qu’in pouvot passer qu’in file indienne. Et après
+                        cha, i restot chés zépis : des zamonchellemints d’branques tout
+                        noires.<lb/>d’piquets et d’ filets, qu’in a jamais su vraimint à quoi qu'
+                        cha pouvot bien servir ; in tout cas cha faijot maux à ses<lb/>panards. Et
+                        après, in arrivot au pied d' chés dunes, qu’y n’avot à perte éd' vue ;
+                        mais in s’arrêtot à chés premières. In<lb/>s’anichot au pied d’eune qui
+                        étot pus grande que z’autes et comme cha in étot à l’abri du vint.</p>
+                    <pb facs="Picard_Concours_2020_40_p10.png"/>
+                    <figure/>
+                    <p><lb/>Pour s’amuser, in montot tout in haut et in ardéchindot in courant ou
+                        in faijant des roulades. Y' avot pas grand<lb/>cosse à faire à l’baie d'
+                        l’Authie : la mer in pouvot pas trop y aller qu’y avot trop d' courant à
+                        cause délle rivière; et<lb/>pour arriver à chés bâches, i fallot
+                        patauger dins l' bourrelique qu’in s’infonçot jusqu’à ses g’noux et minme
+                        des fos<lb/>qu’in y laissot ses claquettes in plastique. Alors in n’y allot
+                        pas. In restot dins chés dunes. Taper dins ch' ballon in<lb/>faijant des
+                        candelles pour essayer d’ l’invoyer in haut dins chés zherbes. Faire voler
+                        sin cerf volant qu’in avot fabriqué<lb/>avec du papier journal et des
+                        roseaux loyés in croix avec délle fichelle. Explorer l’in haut d' chés
+                        dunes avec chés<lb/>zoyats qui piquotent à ses pieds et chés crottes éd'
+                        lapins. Pis gramint d’papier journal ...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Dunes de la baie de l'Authie
+                                avec mes frères en 58</hi></head>
+                    </figure>
+                    <p><lb/>Nan finalemint y’avot pas grand cosse à faire à l’ baie d' l' Authie
+                        quand in étot tiots. Pus tard, j’iros à l'<lb/>pêque au grappin su l'
+                        nouvelle digue et core pus tard in féra des feux d' camp dins l’nuit
+                        anichés dins chés dunes in<lb/>tout pétit comité in ravisant les
+                        zétoiles .... Et core pus tard i n’aura pus qu' pour chés phoques...</p>
+                </div>
+                <div type="chapter">
+                    <head><lb/>L'DUCASSE</head>
+                    <p><lb/>L' ducasse éd' berck alle étot à côté délle gare routière. Un
+                        diminche matin, qu’in faijot un tour in arvénant<lb/>délle messe, d’un
+                        seul coup in véyot chés manèches et chés loteries qui zavotent poussé
+                        comme cha dins l'nuit ; « in<lb/>pourra aller à l'ducasse c’soir, M’man ?
+                        hein ? hein M’man ?... » « Ouais in verra; si t’es sache... ». In y allot
+                        au<lb/>soir qu’i comminchot à faire noir in poussant l’porte dé ch'
+                        paradis : des lumières. délle musique, des hauts-parleurs.<lb/>chés
+                        klaxons d’auto tamponnantes...</p>
+                    <p><lb/>Jé m’rappelle surtout d’eune loterie avec eune vielle roue in bos
+                        qu’alle paraîchot findue d’tout partout et qui,<lb/>eune fos qu’alle s'
+                        mettot à tourner, y' avot pou l’freiner eune espèche éd' pétite
+                        balayette su ch' côté qui faijot<lb/>prittttt... ; su' ch’' comptoir, y'
+                        avot des grandes cartes à juer in bos collées d’sus et in acatot des
+                        anneaux in bos aussi<lb/>qu’in posot sur chés cartes comme cha au hasard ;
+                        pis l’femme alle faijot tourner l’ roue et si in avot misé sur
+                        élle<lb/>bonne, in gagnot un kilo d’ chuque ou eune boite éd' conserve ou
+                        eune boutelle éd' mousseux. Comme in y allot à<lb/>gramint avec mes
+                        frères et les Gosselin, in acatot assez d’anneaux pour arcouvrir tous chés
+                        cartes. comme cha in étot à<lb/>peu près sûr qu’i n’aurot au moins un
+                        qu' i allot gagner... Jé n’sais pus si cha valot l’ coup finalemint ...
+                        Sûremint,<lb/>passe qu’in étot contints, in avot gagné !!</p>
+                    <pb facs="Picard_Concours_2020_40_p11.png"/>
+                    <figure/>
+                    <p><lb/>Et chés zavions. Ah ! i zétotent là !... Courir pour in trouver un d'
+                        libe, s’incrinquer d’dins et s' accrocher à<lb/>ch' manche à balai; y'
+                        avot qu’un seul manche pour deux plaches alors chti qui arrivot in
+                        deuxième, i li restot qu’à<lb/>raviser et atteinde ch' tour suivant. Ch'
+                        manèche i comminchot à tourner et tout d' suite j’tiros l’ manette à fond
+                        vers<lb/>mi mais min spitfire i s’involot pas : les zautes non pus
+                        d’ailleurs ; pis. d’un seul coup. in montot, in montot, l’<lb/>carlingue
+                        alle ballot complètemint à gauche et i' avot intérêt à bien s’accrocher
+                        à ch' manche pour pas passer par d’sus<lb/>bord; surtout qu’in n’avot pas
+                        d' parachutes ! In plus, i devot y' avoir des trous d’airs passe qu’un étot
+                        s’coués<lb/>comme des arbes à preunnes. I n’avot qui restotent tout ch'
+                        tour in bas, i zavotent pas compris qu’i fallot tirer su ch'<lb/>manche! in
+                        veyot ché parints qui gesticulotent in criant « tire ch' manche vers ti !!
+                        pus fort !!... » mais y' avot rien à<lb/>faire, chétot des zapprintis.
+                        Eune fos in haut, qu’in frôlot chés nuaches pis la lune, in lâchot ch'
+                        manche brutalemint et<lb/>in déchindot in piqué ! Pis un artirot d’sus, in
+                        l' lâchot... L’aute à côté i comminchot à canger d’ couleur et
+                        à<lb/>s’accrocher à chés bords. Jé m' rappelle éd' des avions qui
+                        zavotent un bouton qu’un appoyant d’ sus cha faijot<lb/>comme des rafales
+                        éd' mitrailleuses; si y' avot un double zéro ou un messerchmitte boche
+                        devant mi, jé l' poursuivos<lb/>in tirant mais j’ai jamais réussi à n'
+                        abatte un !... Pis d’un seul coup, in avot biau tirer su' ch' manche, in
+                        déchindot<lb/>tout duchemint, ch’tour i étot fini...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Les petis avions... de
+                                jour</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">...et de nuit</hi></head>
+                    </figure>
+                    <p>A peine déchindus in courot à chés zautos tamponnantes; i’avot toudis un
+                        monde fou là-d' dins; quand in<lb/>intindot l’ sirène in comminchot à
+                        courir sur élle piste au miyeu d’ chés carettes in arpérant cheux qui
+                        zallotent<lb/>déchinde; in s' mettot à pusieurs et quand i n’avot un qu' i
+                        avot réussi à monter dins eune, i criot après l’aute pour !'<lb/>faire
+                        monter. Après, i restot pus qu’à arpérer eune auto avec des maguettes qui
+                        savottent pas conduire pour les<lb/>coincher dins un coin ; ou au contraire
+                        juer les chevaliers servants...</p>
+                    <figure/>
+                    <pb facs="Picard_Concours_2020_40_p12.png"/>
+                    <p><lb/>In partant in acatot un paquet d' nougat sans amandes pour mémère
+                        (alle avot pus d’dints) et des fos aussi<lb/>eune barbe à papa qu’in
+                        mingeot autant avec sin nez qu' avec és' bouque !!... In rintrant in passot
+                        ses mains à<lb/>ch’robinet tellemint qu' alles collotent. Et in ouvrot ch'
+                        paquet d' nougat in cachette pour in minger un ou deux : chés<lb/>meiyeux
+                        chétot chés marrons au café et chés roses à l’framboisse. In i laissot
+                        chés verts à l’pistache pis chés blancs à<lb/>l’vanille. Mémère alle
+                        s’in rindra pas compte... et pis minme qu’alle le verrot, alle dirot
+                        rien.</p>
+                </div>
+                <div type="chapter">
+                    <head><lb/>L'JOURNEE A STELLA</head>
+                    <p><lb/>L' journée à Stella, chétot l'journée à min père; eune journée
+                        pour li tout seu, sans femme, sans gosses :<lb/>eune vraie journée
+                        d’vacances comme i n’avot jamais. I partot avec sin camaratte Victor au
+                        matin pour aller à<lb/>Merlimont pis jusqu’à Stella par la plage. Ch'
+                        rendez-vous i' étot au matin d’ bonne heure dins un pétit bistrot
+                        d’eune<lb/>rue derrière l’auditorium, l' temps d' prinde un café avec un
+                        skidam ou un g’niève pou s' donner du courache avant d'<lb/>mette in
+                        route.</p>
+                    <p><lb/>L' jour qu' jé l'véyos s’apprêter au matin pour partir, j' brayos
+                        pour aller avec li mais j’étos trop pétit alors j'<lb/>restos là avec
+                        ém' mère. J’ai souvenir quand minme d’y ête allé eune fos avec eux,
+                        quand j’étos pus grand. Aller à<lb/>Stella à pied ! chétot possibe?
+                        Déjà Merlimont, qu’in l’aperchuvot à peine à l’horizon, cha faijot eune
+                        trotte... Alors<lb/>Stella !...</p>
+                    <p><lb/>In sortant du bistrot, in avot déchindu sur la plage comme d’habitude
+                        par ch' poste éd' secours ; chétot marée<lb/>basse et in étot partis
+                        tout drot au bord d' la mer. Déjà, d' bonne heure comme cha y' avot pas
+                        grand monde mais eune<lb/>fos arrivés à chés premières dunes, y' avot
+                        pus personne... ; que du vint et des mouettes ; in marchot duchemint ;
+                        la<lb/>route alle étot longue; i fallot in garder pour après.</p>
+                    <p><lb/>A un momint, après chés derniers flambards, in étot tombés sur des
+                        péqueux qui zattrapottent chés pichons à l’<lb/>main ! J’avos jamais vu
+                        cha; in ravisot et i nous avotent appelé pour leu donner un coup d' main. I
+                        n’avot déjà plein<lb/>comme nous qui pateaugeotent avec dé l’iau jusqu’à
+                        leux g’noux à courir après chés pichons. Elle velle, à marée<lb/>basse,
+                        i zavotent posé des filets in carré sur des grands piquets avec ch' ti du
+                        côté des dunes ouvert. Dins l’nuit, la<lb/>mer alle étot armontée avec
+                        chés pichons in passant au-d’ sus d’ chés filets; et in ardéchindant,
+                        chés pichons i<lb/>restotent prisonniers dins ch’carré à trois côtés...
+                        J' avos dé l’iau jusqu’à mes g’noux et ché pichons i glichotent
+                        dins<lb/>mes mains; jé n’servos pas à grand cosse; mais pétit à pétit,
+                        l’iau alle s’in allot et y’avot pus qu’à les ramasser avec<lb/>des
+                        épuisettes sur ch' sabe et à les verser dins des grands séiaux...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic"><lb/>Berck, les «
+                                flambards»</hi></head>
+                    </figure>
+                    <p><lb/>Arrivés à Merlimont, in étot allés boire eune tasse éd' jus avec
+                        des amis à Victor. Pis continué la route jusqu’à<lb/>Stella, toudis sur
+                        la plage in longeant la mer. Arrivés là à Ih, in avot mingé dins un
+                        restaurant qu' monsieur Gosselin i<lb/>avot ses intrées ; et après cha, in
+                        s’étot minme pas arrêté pour visiter, minme pas s’assir sur un banc pour
+                        raviser chés<lb/>gins sur la plage, in étot arpartis au bord d' la mer
+                        pour rintrer à Berck in plein solel tout habillés! Mi j’étos in
+                        short<lb/>mais min père et sin camaratte i zavottent gardé leu pantalon
+                        avec juste chés bords armontés sur leux mollets et leu<lb/>blouson ouvert.
+                        In arrivant sur la plage que tous chés gins i zétotent tout nus in maillot
+                        d’ bain assis à rien faire, ou à<lb/>juer au ballon ou aux boules, j’avos
+                        l’impression d’ête Christophe Colomb avec s'n' équipée débarquant in
+                        Amérique...</p>
+                    <pb facs="Picard_Concours_2020_40_p13.png"/>
+                    <p>
+                        <lb/>Avant d’arjoinde ém' mère et Madame Gosselin qui zétotent assis à
+                        l' plache habituelle devant ch' poste éd<lb/>secours, in étot allés boire
+                        un verre à trois à ch' bar Rivet qui étot sur la plage : eux un côte du
+                        Rhône et mi eune<lb/>orangeatte. J’étos fier d’ête allé avec eux, d'
+                        faire partie d' chés grands. Minme si pour attrapper min verre su ch'
+                        bar,<lb/>j’avos dù monter sur un tabouret...</p>
+                    <p><lb/>pour aller m' baigner. J' m’étos indormi su ch' sabe, comme cha, tout
+                        habillé, comme un viau...</p>
+                    <p><lb/>Arvénu sur la plage, j’avos pas jué au ballon avec min frère ; j’avos
+                        minme pas eu l' forche dé m' déshabiller<lb/>m’avot quère, jé n’sais pas
+                        pourquoi : peut-ête parce que ses deux grands garchons i z’ien faijotent
+                        vire éd' tous les<lb/>J’ai su pus tard qu' chétot Monsieur Gosselin qu' i
+                        avot insisté à min père pour qu’i m’prinne avec eux. I<lb/>couleurs et
+                        que comme j’étos cor tiot, cha i rappelot des bons souvenirs d’avant. I
+                        arsennot physiquemint à Francis<lb/>Blanche, un pétit gros à lunettes,
+                        avec les minmes mimiques et des gros éclats d’rire qu' sin vinte i faijot
+                        du yoyo. In<lb/>savot jamais si i’étot sérieux ou si i rigolot ; i' étot
+                        du genre qui rit quand i s' brûle.</p>
+                    <p><lb/>J'oublierai jamais l' journée-là passée avec min père à marcher des
+                        heures su ch' sabe, sans rien dire, sans<lb/>crier sans courir et sans
+                        s’plainde; j’étos dev’nu un grand comme eux, j’avos pus b’soin qu’in
+                        m’donne la main;<lb/>j’étos passé d' l’aute côté.</p>
+                </div>
+                <div type="liminal">
+                    <head><lb/>CH' POSTE ÉD' SECOURS</head>
+                    <p><lb/>Sur la plage, in s' mettot toudis du côté dé ch' bar RIVET passe que
+                        chétot l’ pus près dé l’location. Arrivés<lb/>sur l’esplanade, pour
+                        déchinde chés escaliers, j' avos l' choix : sur chés marches comme tout
+                        l' monde; à califourchon<lb/>su' l' rampe du miyeu ; ou in glichant assis
+                        sur chés dalles in granite tout lisse usées par chés fond d' maronnes d'
+                        tous<lb/>chés jeaunnes passés là d’ pis des années; ou core in dévalant
+                        in courant l’ digue in pierre (là, i valot miux garder ses<lb/>claquettes
+                        à ses pieds).</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Les grands escaliers près du
+                                « Lavatory»</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">L’esplanade et le bar RIVET,
+                                la plage et les tentes</hi></head>
+                    </figure>
+                    <p><lb/>In s’installot su' ch' sabe sec, pas trop lon d' chés cabines des fos
+                        que ch’vint i sé s’rot l’vé. Et devant<lb/>ch’poste éd' secours, qui
+                        servot d’repère si in vénot à s' perde in arvénant d’ la mer. A ch' l’
+                        haut parleur, in intindot à<lb/>longueur d’après-midi des annonches éd'
+                        jeaunnes perdus : « <hi rend="italic">le petit Jean-Pierre attend ses
+                            parents au poste de<lb/>secours </hi>»; et deux minutes après in véyot
+                        passer in courant eune femme qui s’in allot l’ récupérer... Chétot
+                        un<lb/>amusemint : in comptot l’ temps qui passot intre l’annonche et l'
+                        femme qui arrivot. Des fos. i' avot pas d' réaction,<lb/>alors i
+                        répétotent « <hi rend="italic">le petit Jean-Pierre attend TOUJOURS ses
+                            parents... </hi>»; ché arrivé un coup qu’y z’ont dù l’<lb/>répéter
+                        au moins dix fos et i’a jamais eu personne pou l'récupérer ch' pétit
+                        Jean-Pierre: soit chés parints i zétotent<lb/>perdus aussi ou ben noyés.
+                        soit i l’avotent abandonné leur jeaunne...</p>
+                    <p><lb/>Eune fos, mes parints i zavottent intindu un prénom qu’i connaichotent
+                        : « <hi rend="italic">le petit ... (« comment tu t’appelles<lb/>mon garçon
+                            ?... Bernard ?... ») ... Bernard attend ses parents au poste de
+                            secours</hi> ». Chétot mi. J’avos pas trouvé miux<lb/>pour ém’ faire
+                        armarquer. J' devos pas ête vraimint perdu passe que cha avot dû ête plus
+                        compliqué d' monter chés<lb/>escaliers pis armonter l’ passerelle jusqu’à
+                        ch' poste putôt que d' cacher mes parints qui zétotent in d’sous...
+                        Ou<lb/>alors, eune âme trop charitabe qui m’avot imbarqué croyant qu'
+                        j’étos perdu ... ch' jour là, j’avos pas eu drot aux<lb/>félicitations du
+                        jury mais putôt à eune belle clique !...</p>
+                    <pb facs="Picard_Concours_2020_40_p14.png"/>
+                    <p><lb/>Pis core eune aute fos, qu' j’étos pus grand ; avec chés Gosselin, in
+                        s' lançot des boules qu’in faijot avec du<lb/>sabe mouillé et i n’a un qui
+                        avot pas trouvé miux que d’ mette un caillot d’ dins pour l’ lancer pus
+                        fort ; et j' l’avos<lb/>archu su m' nuque; du coup cha s’étot mis à picher
+                        l’ sang; mi j' sintos rien et j' véyos rien, mais tout l’ monde
+                        i<lb/>m’ravisot comme si qu' j’étos passé déjà d' l’aute côté.... i
+                        n’a un qui m’avot conduit in courant à ch' poste éd'<lb/>secours dù qu’i
+                        m’avotent fait un pansement. I m’ont rassuré in dijant qu’à l' tête, cha
+                        saignot toudis gramint et qu'<lb/>chétot pas grave. I m’ont inroulé des
+                        bandes autour d’ min crâne qu’in aurot dit eune momie égyptienne. Et j’
+                        sus<lb/>arvénu vire mes parints qui zétotent pas au courant. Par terre, su
+                        ch' sabe, in véyot tous chés gouttes éd' sang qu'<lb/>j’avos perdu in
+                        partant ... ché mi qui avot salopé tout l’ plage comme cha ? jé
+                        n’arvénos pas ! Mes parints non pus.<lb/>Ch' coup là, j’ai pas été puni
+                        ; j’ai minme eu drot à un paquet d' cacaouètes dé ch' marchand ambulant
+                        (« cacaouètes<lb/>grillées, cacaouètes !... ») ; pis aussi eune glache in
+                        armontant ....</p>
+                    <p><lb/>Chétot quand minme bien pratique ch' poste éd secours passe qu’in l'
+                        véyot d' tout partout sur la plage pis<lb/>minme là-bos tout au fond, au
+                        bord dé l’iau à marée basse. Quand in sortot dé l’iau in courant, qu’in
+                        s’artournant in<lb/>véyot du sabe, des tentes et des cabines à perte éd'
+                        vue, i’avot juste à l’arpérer avec ch' drapeau et à courir tout
+                        drot<lb/>dins s' direction. Comme cha in pouvot faire la course sans risquer
+                        dé s' perde.</p>
+                    <p><lb/>Pour mes parints donner rendez-vous aussi chétot pratique ; « Ben in
+                        ira vous arjoinde directemint sur la<lb/>plage! Dù qu' vous êtes ?» « In
+                        face dé ch' poste éd' secours, in est toudis à l’ minme plache ». Mes
+                        grands frères,<lb/>eux, i zavotent des zautes zindrots pou s’ donner des
+                        rendez-vous mais là chétot secret. Mi j’avos pas d' rendez-vous
+                        à<lb/>donner à personne; j’artrouvos mes camarattes éd' la plage tous les
+                        jours au minme indrot. Et les filles à ch' momint<lb/>là chétot pas près
+                        d’ête au programme.</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Le poste de secours au-dessus
+                                du bar RIVET, les tentes, les bâches et la mer tout au
+                            fond</hi></head>
+                    </figure>
+                </div>
+                <div type="chapter">
+                    <head><lb/>POUR IN FINIR (CERF-VOLANT ET AUTES AMUSEMINTS)</head>
+                    <p><lb/>Pour s’amuser, à Berck. i' avot pas qu' la plage. Jé m’rappelle d'
+                        eune grande salle de jeux, dins l'rue d'<lb/>l’Impératrice, à côté d’un
+                        pétit square avec un kiosque dù qu’i juotent des concerts délle fanfare
+                        municipale. Quand in<lb/>passot su ch' trottoir devant, chétot Las Vegas
+                        là d' dins et l' finquère éd' cigarettes alle sortot par tous chés
+                        portes<lb/>grandes ouvertes...</p>
+                    <p><lb/>Y avot des billards au mitan délle salle et des dizaines éd' flippers
+                        tout autour : 20 centimes élle partie, six<lb/>pour l franc. L' diminche
+                        matin, au lieu d’aller à l’messe, j’allos claquer là d' dins les sous
+                        qu’in m’avot donné pour<lb/>la quête... mais comme avec deux pièches d’un
+                        franc, j' pouvos pas aller lon, i fallot claquer des parties gratuites.
+                        Pus<lb/>tard, les Gosselin, qui connaichotent tous chés fichelles à Berck,
+                        i m’avotent montré un truc : y' avot un flipper dins<lb/>un coin, qu’i
+                        suffijot dé l’soulever et d’ l' aillonner un coup sans faire tilt et i
+                        affichot des parties gratuites ; i fallot<lb/>juste faire attintion d' pas
+                        s' faire prinde par ch' gérant. Et comme cha, in pouvot durer eune bonne
+                        heure, l' temps<lb/>délle messe.</p>
+                    <pb facs="Picard_Concours_2020_40_p15.png"/>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">L’omnium devenu salle de
+                                jeux</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">flippers années
+                            60</hi></head>
+                    </figure>
+                    <p><lb/>In pouvot juer aussi au Jokari su' l’esplanatte du côté d' l’hôpital
+                        maritime qu’alle étot fort larche. Ou faire<lb/>du patin à roulettes. Jé
+                        m' rappelle aussi d' chés cerf volants ; jé n’pouvos qu' les raviser voler
+                        ou accrochés à l’intrée<lb/>d' chés magasins; toudis l' minme renguinne,
+                        pas d' sous pour acater cha : alors j' essayos d' les fabriquer
+                        mi-minme<lb/>avec du papier journal mais i restotent collés par
+                        terre...</p>
+                    <p><lb/>J'ai jamais eu d' vrai cerf-volant, mais j’ai eu un avion in plastique
+                        qui avot ses ailes qui tournottent autour<lb/>d’eune tige in fer et qui
+                        volot comme cha in faijant un boucan d' créchelle. Cha coûtot pas lon d'
+                        dix mille francs<lb/>(anciens) et j’ai attindu des années avant dé n'
+                        avoir un. J’ m’arrêtos à chaque fos pour les raviser qu’i pindotent
+                        à<lb/>l'intrée dé ch' magasin d' juets délle rue Carnot, avec leus
+                        zailes qui tournotent pou m’ narguer. Suremint qu’à forche<lb/>d’imbéter
+                        mes parints avec cha i me n’avotent acaté un... Mais ché pas un bon
+                        souvenir ; jé m’sus dépéché d’aller<lb/>l’essayer sur la plage mais
+                        chés fils i s’sont immélés et j’arrivos pas à l’ faire voler qu' y avot
+                        pas assez d’vint. Pis<lb/>quand qu' j’y sus arrivé, j’étos tellemint
+                        contint qu' jé l’ai laissé monter, monter, l' pus haut possibe, qu' tout
+                        l’ bobine<lb/>éd' fil alle s’a déroulée et qu’ i est parti avec pour
+                        aller s’accrocher dins chés antennes au d’sus d' chés immeubes<lb/>devant
+                        l’esplanatte !... et j’ai pas artrouvé ch' fil pou' l’rassaquer. Inutile
+                        éd' dire qu’in m’in a pas racaté un aute...<lb/>alors j’ai continué à
+                        raviser voler cheux des zautes.... Mais finalemint, cha m' faijot pus trop
+                        invie.</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">L’esplanade large</hi></head>
+                    </figure>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">le magasin de
+                            jouets</hi></head>
+                    </figure>
+                    <p><lb/>Sur la plage, in juot au ballon ou bien aux boules ; in faijot aussi des
+                        catiaux d' boules : in creusot dins du sabe<lb/>mouillé pour faire un grand
+                        mont d’ sabe au miyeu, bien tassé, comme un terril. Et in partant d’in
+                        haut, avec eune<lb/>boule, in traçot eune route qui déchindot tout autour
+                        jusqu’in bas ; là, in rajoutot un tunnel pis un trou après
+                        pour<lb/>récupérer l' boule. In faijot déchinde chés boules les eunes
+                        après les zautes pis quand qu’in n’avot assez, in montot d'<lb/>sus pou l’
+                        démolir...</p>
+                    <figure>
+                        <head xml:lang="met-fr"><lb/><hi rend="italic">Le château de
+                            boules</hi></head>
+                    </figure>
+                </div>
+                <div type="chapter">
+                    <pb facs="Picard_Concours_2020_40_p16.png"/>
+                    <head><lb/>EPILOGUE : LA FIN DES VACANCES A BERCK-RETOUR A BRUAY</head>
+                    <p><lb/>Pis un matin in m' lévant, jé m' butos sur chés valisses ; ch'
+                        dernier jour i étot arrivé, comme cha, sans qué)<lb/>m’in rinde compte;
+                        chés vacances à Berck alles zétotent finies. Pendant qu' mes parints i
+                        zavottent ringé pis nettoyé l’<lb/>location, j’étos allé eune dernière
+                        fos à la mer et j’avos gardé min maillot d' bain tout frèque et plein d’
+                        sabe sur mi.<lb/>j’allos devoir attinde un an pour arvénir et vire la mer.
+                        Autant qu' j’étos contint et plein d’entrain in arrivant,
+                        autant<lb/>j’étos trisse et abattu in arpartant. Monter dins l’autobus in
+                        arculant ; rester sin nez collé sur ch' carreau à raviser au<lb/>loin dins
+                        l’ vague, à raviser rien. Chés gins qui juotent aux boules dins la gare.
+                        Chés controleurs in maillot d' bain.<lb/>Chés vagues qui vénotent mourir
+                        su ch’ quai in important chés valisses, chés pelles, chés zépuisettes et
+                        chés séiaux...<lb/>un ballon qui s’in allot dins la mer... «<hi
+                            rend="italic"> mais dépèches-te, coeurres, va l'rattrapper </hi>!» et
+                        pourtant i s' passot rien;<lb/>j'étos comme paralysé. Collé sur min
+                        sièche à raviser mes souvenirs.</p>
+                    <p><lb/>In prénot l’autobus éd chinq heures l’ diminche après-midi. Jé m'
+                        muchos dins un coin pour pas faire vire mes<lb/>larmes. Rang du Fliers,
+                        attinde que ch' train i passe, qu’i pouvot bien aller au diabe. Montreulle,
+                        j' déchindos minme<lb/>pas. Hesdin : « <hi rend="italic"> allez, viens, in
+                            va aller minger eune frite su' l' plache, in a l'temps mais faut quand
+                            minme és<lb/>dépécher, ch' bus i s’arrête qu’eune demie-heure
+                        </hi>».</p>
+                    <p><lb/>Après cha, l' grand route à toboggans, et pis saint-Pol, qu’i
+                        comminchot à faire noir, que j' véyos pus rien par<lb/>elle vite rimplie
+                        d’ buée, qu’un pauve jeaunne qui étot trisse à mourir et des zautes
+                        derrière qui s’étotent indormis.<lb/>Arriver à Bruay, tous chés
+                        lumières éd' chés cafés, chés gins qui sortotent du cinéma; faire el'
+                        tour éd' prisunic,<lb/>déchinde chés marches éd l’autobus Dumont, toudis
+                        in arculant ; j' séros bien resté muché tout au fond intre
+                        deux<lb/>banquettes, qu' peutête i arpartot après à Berck... Mais quo'
+                        qu' j’auros fait là-bos tout seu...</p>
+                    <p><lb/>Armonter l’rue Alfred Leroy avec chés valisses qui voulotent pus
+                        avancher non pus ; chés magasins toudis<lb/>fermés. Chalmin pis l’ baraque
+                        rue d' divion : Ah ! Mémère !... Alle attindot à l’ porte avec ch' tchien
+                        dins ses bras qui<lb/>gesticulot in poussant des cris comme un diabe dins
+                        l’iau bénite... Ah ! min tchien ! j’ t’ai quère ! té m’as manqué
+                        té<lb/>sais ! Mémère alle pouvot pu l’ ténir, ch' tchien i sautot par
+                        terre in courant tout partout après les uns et les zautes. i<lb/>savot pu
+                        dù donner délle truffe.... i pichot tout partout tellemint qu’i étot
+                        contint d' nous arvir !...</p>
+                    <p><lb/>In rintrot, mémère alle avot préparé à souper et mis l' tabe dins
+                        l' salle à minger ; in n’allot pas minger dins l’<lb/>cuisine quand minme !
+                        Chés valisses in les déballerot pus tard ; raconter chés vacances à
+                        mémère, chétot un tiot peu<lb/>les arviffe, mes ziux i s’rallumotent,
+                        j’arvénos à la vie; min tchien in d' sous dé m' cayelle i m' léquot mes
+                        zortelles<lb/>plein d' sabe..</p>
+                    <p><lb/>L' fos chi in avot tout raconté, chétot fini pour du bon chés
+                        vacances à Berck : i' allot falloir commincher à<lb/>pinser sérieusemint
+                        à l’école pis à l’ rintrée. Et atteinde chés photos qu' min père i
+                        allot aller amont Crendal ch'<lb/>photographe pour li rinde ch' l’apparelle
+                        qui nous prétot tous z’ans pour chés vacances avec eune pellicule. Un
+                        grand<lb/>merci pour cha Monsieur Crendal ; i n’a pas gramint qui zont pu
+                        faire des photos d’ leus vacances à Berck in ch'<lb/>temps-là. Chés
+                        photos là. j' pourrai les raviser tout m'vie; et quand j’ s' rai mort, j'
+                        voudros qu' mes cheindes alles<lb/>restent pour toudis mélangées à ch'
+                        sabe</p>
+                    <figure>
+                        <head><lb/>DELLE PLAGE ÉD' BERCK</head>
+                    </figure>
+                </div>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_40_p17.png"/>
+                <head xml:lang="met-fr">LEXIQUE</head>
+                <list>
+                    <item><lb/>jeaunnes nasiers:<foreign xml:lang="met-fr">enfants avec le nez qui
+                            coule (« nasses »)</foreign></item>
+                    <item><lb/>limuchons<foreign xml:lang="met-fr">limace, escargot</foreign></item>
+                    <item><lb/>moufter:<foreign xml:lang="met-fr">se rebeller</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

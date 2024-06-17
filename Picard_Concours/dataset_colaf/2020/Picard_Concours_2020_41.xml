@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_41</idno>
+                <title type="main"> Mémère eune vie d'avant</title>
+                <title type="collection">Picard Concours</title>
+                <author>Bernard, DOURLENS</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Mémère eune vie d'avant</title>
+                    <author>Bernard, DOURLENS</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="95">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_41_p1.png"/>
+                <head><lb/>MEMERE. EUNE VIE D’AVANT</head>
+                <fw type="numbering"><lb/>N°41</fw>
+                <head><lb/>(Souvenirs d’enfance des corons de Bruay-en-Artois dans les années
+                    60)</head>
+                <p><lb/>Mémère alle habitot nou maison d’ coron d’pis toudis, du moins d' pis qu'
+                    j' étos au monde. In l’ vot su' l’<lb/>photo après m’ naissance, in 54, qu'
+                    alle m’ tient dins ses bras. Elle, alle étot née in 1895, au 19lème sièque,
+                    et alle<lb/>s’appélot Marie-Antoinette, comme élle femme à Louis XVI ! Mais
+                    dins s’ famille, i l’appélotent « Toinette ». Dins s’<lb/>jeunesse, alle avot
+                    fait demoiselle éd' compagnie à ch' catiau Dorémiux à Fouquières. Quand
+                    alle parlot d’ Madame<lb/>la Comtesse, alle é' n’avot plein s’ bouque et ses
+                    ziux i cangeotent éd' couleur... Avant la guerre 14, alle avot<lb/>rincontré
+                    un garchon huit ans pus viux qu’elle, Urbain, qui étot maréchal ferrand.
+                    Blessé d’un éclat d’obus j’ cros bien<lb/>in avril 1917 au Chemin des Dames et
+                    démobilisé, li i étot rintré à l’ compagnie des mines à Bruay et i
+                    s’avotent<lb/>mariés in 1920. I zont eu eune fille, ém' mère, qui est v’nue
+                    au monde in 1921. Et qui est restée fille unique. I<lb/>l’avotent élevée du
+                    mieux possipe et invoyée à l’école ménagère, après sin certificat
+                    d’études, pour pas qu’alle seuche<lb/>obligée d’ travailler à l’ fosse ou à
+                    l’usine. In 45, s' n’ homme i' étot mort, alle vivot tout seule avec s’
+                    pinsion<lb/>d’invalide; alors j' pinse que ch’est pour cha qu' alle étot vénue
+                    habiter amont dé s' fille.</p>
+                <p><lb/>J' dis « j’pinse », « j' cros bien », « i m' senne » passe qu’in réalité
+                    j’in sais rien. Enfin pas grand cosse. Chés<lb/>viux dé ch' temps-là, i
+                    racontotent pas leu vie, minme si i zaurotent dû, passe qu’i zont souvint vécu
+                    des zhistoires<lb/>incroyabes. Chés viux dé ch' temps là, non seulemint i
+                    racontotent pas mais in n’osot pas non pu leu d' mander d’<lb/>raconter; cha s’
+                    faijot pas. Quand i n’avot un qu' cha i prénot l’invie d’ parler d’ sin jeaune
+                    temps, i n’avot toudis un<lb/>aute pou l’tirer par l’ manche éd' sin paletot in
+                    dijant : « Allez in s’in va, té vas pas raconter t' vie ! ». Alors
+                    quo<lb/>qu’alle a vécu mémère chés premières soixante années dé s’ vie ?
+                    Ben j’in sais rien. Et personne i l’ saura jamais,<lb/>passe que tous cheux qui
+                    l’ont connue i sont partis aussi, comme elle, et souvint sans rien dire. Chétot
+                    pas des conteux<lb/>ni des écrivains.</p>
+                <p><lb/>Alors, si j' sais rien, quo qué j' vas bien pouvoir raconter su' m'
+                    grand-mère ? Ben dire chu qu' alle étot pour<lb/>mi, comment qu' chétot eune
+                    grand-mère dé ch' temps-là, dins chés corons; i va falloir qué j' creuse
+                    mes méninches<lb/>passe qu’alle est morte in 1970, y aura bétôt pus d’
+                    chinquante ans ! Mais heureusement i m’ reste trois quate photos et<lb/>rien
+                    qu’in les ravisant, tout chés souvénirs i zarmontent dins m’ caboche, et ché
+                    comme si qu' jé l’ véyos là, assis dins<lb/>sin coin d' fu avec sin tricot,
+                    tranquille, in train d’ compter chés mailles avec ses lunettes sur sin
+                    nez...</p>
+                <figure>
+                    <head><lb/>Mémère in 1935 à 39 ans</head>
+                </figure>
+                <figure>
+                    <head><lb/>in 1954 à m' naissance, à 58 ans</head>
+                </figure>
+                <figure>
+                    <head><lb/>In 1966 à 70 ans</head>
+                </figure>
+                <p><lb/>Non seulemint mémère cha a toudis été mémère mais alle a presque
+                    toudis aussi eu l’ minme figure. Su' l’pus<lb/>vielle photo qu' j’ai artrouvée,
+                    qu' cha dot dater des années 30, alle est déjà parelle que 40 ans pus tard.
+                    Chés mémères<lb/>dé ch' temps là, in aurot dit qu’alles zavotent toudis
+                    été vielles, qu’alles zétotent déjà comme cha in v’nant au monde.<lb/>J'
+                    l’ai jamais vue habillée autremint qu’in gris et in noir; alle a porté l’ deul
+                    tout' s’ vie, minme quand alle étot pas<lb/>core veuve. Un corsache gris avec
+                    eune jaquette noire, eune longue robe noire jusqu’à ses pieds et des souliers
+                    noirs.<lb/>Un chignon impeccabe, qu’alle arfaijot tous les jours sûremint mais
+                    que j’ l’ai jamais vue faire. Mémère, chétot la<lb/>discrétion
+                    personnifiée. S' devisse, chétot d' surtout pas déringer, personne,
+                    jamais.</p>
+                <pb facs="Picard_Concours_2020_41_p2.png"/>
+                <p><lb/>Alle parlot jamais d’elle, ni dé s' jeunesse, ni d’ ses malheurs. D’abord
+                    alle parlot pas gramint, sûremint aussi<lb/>pour pas déringer... Alle faijot
+                    tout dins sin coin sans rien d’mander à personne; sauf pétête pour ch' carbon
+                    qu' in<lb/>allot y quère des gayettes et du bos à l’caffe et aussi sin bac à
+                    cheinnes qu’in allot vider dins l’ lessiveusse au bord dé<lb/>ch' gardin. Des
+                    fos aussi ses commissions, mais i li fallot jamais grand cosse; alle mingeot
+                    presque rien et alle buvot<lb/>l’iau du robinet. Du café alle allot pas in
+                    faire pour elle tout seule alors in i apportot dins s' pièche après
+                    minger.</p>
+                <p><lb/>In avot d’ la chance passe que, dins chés corons, tout l’ monde i n' avot
+                    pas eune mémère à s' maison ; pis<lb/>surtout eune mémère comme cha. Qui
+                    savot faire arquère l’iau quand cha comminchot à bouillir trop fort
+                    dins<lb/>l’cuisine intre mes parints, qui savot nous consoler quand in s’faijot
+                    disputer, qui nous donnot des chucades in cachette<lb/>pis pus tard des sous
+                    pour acater des cigarettes. Qui nous inménot in promenade, à l’pistache ou cor
+                    au cinéma<lb/>l’diminche après-midi. Chés viux i zétotent à part, comme «
+                    intouchabes » in dirot asteure. I vénotent éd' l’ancien<lb/>temps, i zavotent
+                    passé par deux guerres, et minme sans savoir les détails, in imaginot bien
+                    tout cha qui zavotent dû<lb/>indurer. In les respectot; jamais in leur aurot
+                    parlé mal ; et cor moins monté d’un ton. Et quand cha leu arrivot<lb/>d’ouvrir
+                    leu bouque, tout l’ monde i les acoutot sans moufter.</p>
+                <p><lb/>In habitot à six rue d' Divion, à l’ première porte : mes parints pis mes
+                    trois frères ; quate garchons! M' mère<lb/>qui avot tellemint rêvé d’avoir
+                    eune fille, alle avot été servie! Et avec Mémère, cha faijot sept; et huit
+                    avec ch' tchien.<lb/>J' compte pas chés glennes, chés lapins et chés cochons
+                    d’Inde. Alle habitot avec nous mais pas vraimint passqu' alle<lb/>avot s’pièche
+                    à elle in bas, avec s’ n’armoire, sin fourniau, sin divan, et s’tabe avec 4
+                    cayelles autour. Alle pouvot<lb/>minme fermer s’porte à clé. Mais cha arrivot
+                    pas souvint ; seulemint quand qu’y avot des disputes intre mes parints,<lb/>que
+                    m’mère alle laichot tout in plan dins l’cuisine, et qu’alle allot s’refugier
+                    dins l’pièche à mémère in claquant l’porte<lb/>qu’alles arfermotent
+                    derrière à clé. Alle pouvot rester fermée tout l’après-midi ; m’mère alle
+                    étot rancunière et mettot<lb/>du temps à s' calmer...</p>
+                <figure/>
+                <p><lb/>L' pièche à Mémère : ché là qu’alle vivot dins l’journée. Au matin
+                    alle s' rassaquot d’ bonne heure, s’habillot,<lb/>allumot sin poèle, faijot ses
+                    prières, et nous préparot ch' pétit déjeuner avant d’aller à l’école. Pis
+                    alle aidot m’ mère à<lb/>faire elle lessive, ou à préparer à minger,
+                    éplucher chés légumes; alle avot pas quère rester là à rien faire; i
+                    fallot<lb/>toudis qu’alle seuche occupée à quéque cosse. A midi, alle mingeot
+                    tout seule dins s' pièche, passe qu’in n’avot qu'<lb/>six cayelles dins l’
+                    cuisine autour délle tabe in formica ; pis aussi qu’alle avot quère ête
+                    tranquille avec ses souvenirs.<lb/>Alle avot pas d' transistor pis cor moins d'
+                    télé; chés mouques in les intindot pas voler non pus passe qu' alle
+                    leu<lb/>mettot un coup d’ flytox. Pourtant, elle étot pas tout seule dins s’
+                    pièche : y' avot tout s’ famille à elle, ses sœurs, ses<lb/>n’veux et
+                    nièches, tout cha, qui s' dréchotent in rangs serrés dins des cades posés
+                    sur des napperons in dentelle su' s'<lb/>commode.</p>
+                <p><lb/>Après minger, chétot sin momint d' tranquillité qu’alle passot à faire
+                    du raccommodache ou du tricot ; alle<lb/>s’installot à côté délle ferniette
+                    in ouvrant ch' rideau pour avoir délle lumière, s’ asseyot sur sin divan, et
+                    alle<lb/>comminchot à déballer s’ boite à tricot avec tous chés zaiguilles
+                    et chés pelotes éd’ laine. In jétant des fos un coup<lb/>d’oeulle par ch’
+                    carreau qui donnot sur élle grand route. Sin calvaire à elle, chétot eune
+                    voisine, qui restot trois portes<lb/>pus bas dins ch' coron; eune vielle veuve
+                    qui étot pus fort à plache, qui pésot au moins 150 kilos, qui s' lavot
+                    jamais<lb/>et qui vénot s’assir sur sin appui d’ ferniette pour raviser chés
+                    gins passer dins l’ rue Alfred Leroy; du coup y’avot pus<lb/>d’lumière dins
+                    s’pièche! Alors alle tapot à ch' carreau mais l’aute alle étot aussi sourd
+                    que sale et alle bougeot pas<lb/>eune orelle. Alors mémère alle s’rasseyot
+                    dins sin divan in soupirant pis alle attindot qu' cha passe.</p>
+                <pb facs="Picard_Concours_2020_41_p3.png"/>
+                <p><lb/>Au soir, su' l’ coup d’ chinq heures et demie, alle s’in allot travailler au
+                    dispensaire, qu' alle avot été ingagée<lb/>comme femme de ménache. Alle
+                    étot tout seule pour nettoyer l’ grande salle d’attinte et tous chés cabinets
+                    d'<lb/>médecins. Laver par terre, vider chés corbelles ; passer un coup sur
+                    chés bureaux. Alle y restot jusque 7 h et demie 8<lb/>heures, et alle chômot
+                    pas. Jé n' l’ai jamais intindue s’ plainde; et alle a jamais manqué sin
+                    service. Alle a travaillé là<lb/>jusqu’à pus d’70 ans. Et alle a pas arrêté
+                    passe qu’alle étot mate, mais passe qu’ils l’ont obligée qu’alle étot trop
+                    vielle.<lb/>Alle avot qu’eune pétite pinsion et cha li faijot un complémint.
+                    Chétot des sous qu’alle mettot d’côté. Pas pour s’acater<lb/>....bin... rien;
+                    j’vos pas quoi qu’alle aurot eu b’soin. Nan, chétot des sous qu’alle mettot d’
+                    côté pour nous, ses pétits<lb/>zéfants, pour payer chés billets d' cinéma,
+                    l’autobus pour aller au Mont noir, nous acater du chocolat, des cigarettes<lb/>
+                    Nous donner des étreinnes... Pis sûremint donner des sous à s' fille...</p>
+                <figure/>
+                <p><lb/>Ch' dispensaire !... j' y ai bien été !! Pas parce que j’étos souvint
+                    malade, nan, mais passe qu' in étot tout seux<lb/>là au soir, que j’pouvos
+                    m’assir dins ch’fauteul dé ch' médecin, raviser dins chés poubelles qu’in y
+                    trouvot des cartes<lb/>postales du bout du monde, des crayons fantaisie, des
+                    bricoles publicitaires qu’ chés laboratoires y leur donotent. J’<lb/>pouvos
+                    aussi m’allonger sur l’tabe d’examen et juer au malate, courir autour d’chés
+                    cayelles dins l’salle d’attinte.<lb/>Après j' l’aidos aussi à armette chés
+                    cayelles, à vider chés poubelles.. Pus tard quand j’étos pus grand, que j'
+                    faijos des<lb/>circuits à vélo, in arvénant d’ Divion, j' m’arrêtos toudis
+                    au dispensaire. Mémère alle m’attindot, chés sous y zétotent<lb/>su' l' tabe
+                    pour aller m’acater eune boutelle éd' schweppes pis des biscuits à l’épicerie
+                    d’in face... Quand i' étot tard, j'<lb/>l’aidos à fermer pis j’rintros à pied
+                    à l’maison avec elle. Y’avot qué l’rue d' Divion à armonter ; mais bon in
+                    habitot<lb/>quand minme tout in haut...</p>
+                <p><lb/>In rintrant, alle allot dins s' pièche, s' faire à minger pas grand cosse,
+                    pis tricoter ou arpriser des cauchettes<lb/>eune heure ou deux; alle artirot sin
+                    dintier qu' alle mettot trimper dins sin verre à dints su l' quéminée et alle
+                    montot s'<lb/>coucher d’ bonne heure in haut dins s' chambe à elle, avec dins
+                    eune main és' lampe éd’ poque ou eune bougie pour<lb/>pas user dé l’
+                    lumière; et dins l’aute sin pot d' chambe. In haut délle baraque, y' avot
+                    trois chambes : eune grande<lb/>avec deux grands lits qu’in y dormot à 4 avec
+                    mes frères. Au bout, l’ chambe éd' mes parints avec un grand lit et
+                    eune<lb/>porte qui fermotent jamais pour pouvoir acouter si in faijot l' sinche
+                    dins chés lits. Et à gauche in arrivant in haut dé<lb/>ch' l’ escalier, l’
+                    chambe à mémère avec aussi eune porte qu’alle fermot à clé.</p>
+                <p><lb/>L' chambe à mémère, alle avot eune ferniette qui donnot su' l’cour et
+                    chés gardins, et in n’intindot rien, pas<lb/>comme chés deux zautes qui
+                    donnotent su' l’ grand route. La d’dins y' avot cor eune grande commode avec des
+                    tiroirs<lb/>qui sintot l' cirache, s' garde-robe avec ses vêtemints, un grand
+                    lit in bos avec un édredon, eune cayelle à côté avec s'<lb/>bassine, pis des
+                    crucifix tout partout avec eune branque éd' buis in travers délle croix
+                    qu’alle avot été faire bénir l’<lb/>diminche des Rameaux; à chés murs, des
+                    imaches délle Sainte Vierche, dé l’fontaine miraculeusse à Lourdes,
+                    d'<lb/>Bernadette Soubirousse... Alle vivot comme eune arligieusse.</p>
+                <p><lb/>Au matin quand in s' lévot pour aller à l’école, alle étot déjà d'
+                    bout, coiffée, habillée, prête à aider m' mère<lb/>pour faire à minger ou
+                    l’ lessive ou n’importe quoi d’aute. Mémère, alle avot pas d’vie à elle ;
+                    chétot tout pour les<lb/>zautes. In l’véyot pas souvint mais in savot qu’alle
+                    étot là ; prête à donner un coup d’ main; à faire plaijis. J’avos
+                    d’un<lb/>seul coup invie d’minger des madeleines : alle s’mettot à l’ouvrache,
+                    faijot arléver l’pâte, sortot ch’moule in mettant<lb/>un tiot coup d’huile
+                    Lesieur su' ch' fond, versot l’ pâte dins chés trous, avant d’ l’ intiquer
+                    dins ch’four qui allot<lb/>toudis; et un quart d’heure après alle sortot chés
+                    madeleines toutes caudes qu’alle démoulot avec ésse cuiller pour pas<pb
+                        n="Picard_Concours_2020_41_p4.png"/><lb/>j’y allos déjà au mois d’août
+                    avec mes parints ; après in rintrot à Bruay et j' y arpartos avec mémère in
+                    septembe. Des<lb/>fos, in allot à l’autobus qui mettot quatre heures in partant
+                    d’ Bruay avec des arrêts à Saint-Pol, Hesdin et montreulle.<lb/>Et in arrivant
+                    j’portos l’ valisse pour aller délle gare routière à l’ location. Y' avot
+                    quand minme un bon bout. Et des<lb/>fos chétot note voisin délle rue d’
+                    Divion, ch' photographe Crendal qui nous conduijot avec s’ belle auto,
+                    eune<lb/>Chambord ; i faijot pas cha d’ gaîté d' coeur mais chétot s’ belle
+                    mère, Madame Crendal, propriétaire dé ch' magasin<lb/>qui étot paralysée,
+                    qui l’obligeot passe que mémère alle allot souvint aussi s’occuper d’elle et i
+                    ténir compagnie.</p>
+                <p><lb/>L' location alle étot assez lon d' la mer et alle s’appélot villa Fatima,
+                    qu chés propriétaires i z' y étotent allés<lb/>in pélerinache avant dé l’
+                    faire bâtir. Nous in louot pas l’ villa, qu’chétot là qui restotent chés
+                    propriétaires, mais un<lb/>pétit cagibi aménagé dins l' cour avec éd' quoi
+                    faire à minger, s’assir à tabe et dormir. Y’avot qu’un lit et
+                    j’dormos<lb/>avec mémère.</p>
+                <figure>
+                    <head xml:lang="met-fr"><lb/>Villa « FATIMA»</head>
+                </figure>
+                <figure>
+                    <head xml:lang="met-fr"><lb/>Pêche baie de l’Authie</head>
+                </figure>
+                <p><lb/>Au matin j’allos à l’pêque à l’baie de l’Authie si chétot marée basse ;
+                    et sinan j’allos m’promener dins l’rue<lb/>d’l’Impératrice, juer au flipper, ou
+                    m’assir sur l’esplanatte, raviser la plage et passer chés gins; j’arpassos par
+                    élle<lb/>boucherie acater des biftecks ou à ch' marchand d’ pichons acater des
+                    filets d’ merlan. Et in mingeot dins ch’ cagibi<lb/>sur un coin d’ tabe in
+                    faijant l’ cuisine su ch' camping gaz. L’après-midi in allot à pied à la
+                    plage ; alle s’asseyot sur<lb/>eune serviette, toudis habillée parelle in noir,
+                    et alle faijot du tricot. Jé n’l’ai jamais vue aller trimper ses pieds
+                    dins<lb/>l’iau. A cinq heures j’allos m’ baigner et in n’arvénant, alle sortot
+                    d’ sins sac ch' paquet d' pétits beurre et un carré d'<lb/>chocolat. In
+                    partant au soir alle m’acatot cor souvint eune glache à l’italienne; elle alle
+                    in mingeot jamais ; pis in<lb/>rintrot souper et après j’allos lire dins ch'
+                    lit. Mais souvint chés propriétaires y m’invitotent à vénir vire éllé
+                    télé dins<lb/>leur maison quand y avot un biau film. Chétot soit-disant eune
+                    télé in couleurs mais i n’y avot qu' trois couleurs su'<lb/>ch’filtre in
+                    plastique accroché devant l’écran : bleu in haut, marron au miyeu et vert in
+                    bas !.. Si chétot un western, cha<lb/>pouvot faire illusion; mais pour l’reste,
+                    chétot pas l’idéal...</p>
+                <p><lb/>Fin septembe, i comminchot à faire frod, à y' avoir du vint et délle
+                    pleuve ; i z’artirotent chés cabines pour<lb/>chés grandes marées et cha
+                    sintot la fin des vacances. In rintrot à Bruay à l’autobus, un diminche soir ;
+                    y' avot pas un<lb/>tchien dins chés rues, chés magasins fermés. J’étos
+                    trisse que chés vacances alles zétotent l’ fos chi bel et bien
+                    finies,<lb/>qu’i allot falloir arprinde ch' quémin d’ l’école. Mémère, alle
+                    étot ni trisse, ni continte; alle arprénot sin train train<lb/>sans rien faire
+                    vire. Sûremint continte quand minme d’artrouver s' pièche et sin pétit
+                    confort.</p>
+                <p><lb/>L' premier diminche après nouvel an, tous ses neuveux et nièches y
+                    vénotent l’étrenner in premier, passe que<lb/>chétot l’ainée dé s' fratrie
+                    ; cha faijot du monde passe qu’i zétotent gramint (s' sœur Marie-Josèphe alle
+                    avot eu 12 ou<lb/>13 gosses !...) et chétot branle bas d’ combat tout l’
+                    journée ; cheux qui s’in allotent i ténotent l’ porte à cheux
+                    qui<lb/>zarrivotent! L’ baraque alle désimplichot pas jusqu' à des dix heures
+                    du soir. Chétot pas des mineurs, mais des pétits<lb/>commerçants, des
+                    zimployés, et surtout gramint d’ sinciers, des bons vivants avec des grosses
+                    têtes bien rouches, et<lb/>cha rigolot tellemint qu’in fermot chés portes pour
+                    pas z’intinde jusqu’au bout délle rue!...</p>
+                <p><lb/>Les zautes diminches après chés zétrennaches, souvint l’après-midi, in
+                    allot au cinéma ; in s’in allot d' bonne<lb/>heure à pied passe qu’i fallot
+                    d’abord passer au cimetière délle fosse 6 dù que s’n' homme y' étot
+                    interré. Et y avot<lb/>bien trois kilomètes. In apportot des fleurs dé
+                    ch’gardin, des dahias, des glaïeuls, des œillets quand i n’avot ; ou
+                    bien<lb/>l’hiver in acatot un bouquet tout fait à ch' marchand in passant, qui
+                    restot ouvert l’ diminche. Au cimetière, j’allos<lb/>quère dé l’iau à ch'
+                    robinet, pis in mettot chés fleurs dins chés vases; ardrécher chés plaques,
+                    artirer chés feulles<lb/>mortes, passer un coup d’ lavette... In sortant, eune
+                    fos passée l’ grille, in passot pas par élle route mais dins
+                    l’pétite<lb/>voyette qui longeot ch’mur du cimetière et qui traversot chés
+                    camps derrière ch' coron. Chétot comme à la<lb/>campanne; y' avot des grandes
+                    herbes, des fleurs, des pommiers, des quériches ; des papillons qui volotent
+                    tout<lb/>partout, des marionnettes, des papillons gendarmes,... Après, au bout
+                    délle voyette, in rattrapot ch' coron et in arrivot<lb/>à chés cinémas rue
+                    Jules Guesde.</p>
+                <pb facs="Picard_Concours_2020_41_p5.png"/>
+                <figure/>
+                <figure/>
+                <p><lb/>Des cinémas, y n’avot plein dins ch' quartier du 6! Le Capitole, le
+                    Familia, pis cor un aute. Souvint chétot dés<lb/>films « éd' panpan » comme
+                    alle dijot mémère, ou des « cochonneries »: « les 7 mercenaires », « Les
+                    derniers jours<lb/>de Pompéi », « le Capitan »... alle avot pas quère tout cha
+                    alors alle prénot min bras in dijant à m’ n’orelle pendant<lb/>tout ch' film «
+                    allez, ché pas biau ! in s’in va »; mi j' faijos sennant d’pas intinde, que
+                    l’musique alle allot trop fort,<lb/>qu’in s’intindot pus avec chés cris d’
+                    gladiateurs et d’ condamnés dévorés par chés crocodiles, alors
+                    j’répondos<lb/>« Quoi ?... » « Quo qu' t’es dis ?... » « J’intinds rien...» «
+                    Allez, in reste cor un pétit peu, après, ché sûr, i s' battent<lb/>pus..»...
+                    Pis finalemint in restot jusqu’au bout. L’hiver, in sortant i faijot noir et
+                    frod. Y’avot cor tout l’route à faire;<lb/>des fos y’avot délle neiche et cha
+                    glichot alors alle m’donnot la main pour pas s' ramasser eune bûche avec ses
+                    pétites<lb/>bottines à talons. In rintrot qu' y' étot pas lon d’huit heures
+                    du soir !...</p>
+                <p><lb/>Après alle a attrappé sin cancer et alle sortot pus dé s’pièche ;
+                    chétot pas longtimps après qu’alle a eu arrété<lb/>d’travailler. Sûremint
+                    qu’alle s' sintot devenue inutile et qu’alle préférot s’in aller. Min père i
+                    avot artiré l’tappe dins<lb/>s’pièche avec chés cayelles près délle
+                    ferniette; et i avot mis à l’plache sin grand lit qu’in avot déchindu dé
+                    s’chambe.<lb/>Ch' docteur i vénot tous les jours ; mais y' avot pus grand cosse
+                    à faire. Alle a pas trop souffert, in tous cas personne<lb/>l’a intindue
+                    s’plainde.</p>
+                <p><lb/>Pis un matin in m’lévant, in m’a dit « mémère alle est morte ». Y’avot
+                    eune drôle d’odeur dins l’ maison<lb/>ch'jour-là; ém' mère alle avot versé
+                    dé l’iau d’Cologne tout partout mais cha sintot la mort. Alle a débranché
+                    ch'<lb/>transistor et mis eune couverture sur l’télé. Pis chés pompes
+                    funèbes i sont vénues. I zont mis chés grandes tintures<lb/>noires brodées
+                    d’argent devant l’porte à double battant qu’alle restot ouverte tout l’
+                    journée pour qu' chés gins y<lb/>peuchtent rintrer sans buquer à l’porte, pis
+                    aller bénir ch’corps. In étot in automne et y’avot aussi des feulles
+                    mortes<lb/>qui s’invitotent dins l’intrée su' ch' paillasson. Cha a duré 3
+                    jours; cha n’a pas arrêté d' défiler; tout l’ monde i' est<lb/>v'nu; tout l’
+                    monde i l’avot quère ; ses sœurs y sont restées à côté d’sin lit, dormant
+                    sur des cayelles. L’ jour dé ch'<lb/>l’interremint, y a eu un grand cortèche
+                    avec éch' corbillard qu’in a été comme cha à pied jusqu’au cimetière du 6
+                    dù<lb/>qu’alle a été interrée dins l' tombe dé s' n' homme qui l’attindot
+                    là d' pis 25 ans.</p>
+                <figure/>
+                <figure/>
+                <p><lb/>Ch' t’année à l’ Toussaint j’y ai mis un chrysanthème comme tous z’ans ;
+                    cinquante ans qu’in y va ; in li fait<lb/>parelle qu’alle a fait pou s’n' homme
+                    tout s’vie. Quo qu’alle peut bien faire là in haut d’pis tout ch’temps là ?
+                    Alle dot<lb/>s’innuyer d’pus avoir personne à s’occuper; à m’ mode qu’alle est
+                    restée ichi pour continuer à veiller sur nous, in<lb/>s'faijant toute pétite
+                    dins sin coin d' fu que ch' bon diu il l’a sûremint oubliée. Et qu’alle attint
+                    pour partir qu’ y a pus<lb/>personne dins l’salle d’attinte.</p>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_41_p6.png"/>
+                <figure/>
+                <head xml:lang="met-fr"><lb/>Lexique:</head>
+                <list>
+                    <item><lb/>Cheinnes<foreign xml:lang="met-fr">cendres (se prononce
+                            chin-nes)</foreign></item>
+                    <item><lb/>Chucades<foreign xml:lang="met-fr">sucreries,
+                        bonbons</foreign></item>
+                    <item><lb/>Pistache<foreign xml:lang="met-fr">piscine</foreign></item>
+                    <item><lb/>Glennes <foreign xml:lang="met-fr">poules</foreign></item>
+                    <item>
+                        <lb/>Flytox<foreign xml:lang="met-fr"> insecticide qu'on mettait dans un
+                            pulvérisateur</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

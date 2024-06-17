@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_17</idno>
+                <title type="main"> Min frere</title>
+                <title type="collection">Picard Concours</title>
+                <author>Jacques, MIGNEAU </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Min frere</title>
+                    <author>Jacques, MIGNEAU </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="75">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="25">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_17_p1.png"/><fw type="numbering"><lb/>N°17</fw> <head><lb/>MIN FRERE</head> <lg><l><lb/>Depuis fort
+                longtimps</l> <l><lb/>Depuis qu’in étiot éfints</l> <l><lb/>J'tai vraimint eu quère</l> <l><lb/>Ti min
+                    grind frère.</l></lg> <lg><l><lb/>Quin in voyot l’un</l> <l><lb/>In voyot arriver l’aute</l> <l><lb/>Ménote dins
+                        ménote</l> <l><lb/>Par tous chés quémins.</l></lg> <lg><l><lb/>I'm’a appris à grimper à chés
+                            apes</l> <l><lb/>Et à bin juer aux mapes</l> <l><lb/>Aveucq li j’allos à l’marote</l> <l><lb/>Et chés
+                                prones, meilleures alle z’étottent.</l></lg> <lg><l><lb/>Toudis i' m’défindos</l> <l><lb/>I étot min
+                                    superman, min héros</l> <l><lb/>Si j’étos imbété par inne arsoulle</l> <l><lb/>I li collot einne
+                                        bielle tatoulle.</l></lg> <lg><l><lb/>Y'étot toudis là pour mi</l> <l><lb/>Aveucq li, pon
+                                            d’imbroulles</l> <l><lb/>I’m' racontot des cacoules</l> <l><lb/>Mais jamais aucune mintirie.</l></lg><pb
+                    n="Picard_Concours_2020_17_p2.png"/><lg><l><lb/>Pis, i s’est marié aveucq
+                        Adèle</l> <l><lb/>Et mi j’l’ai bin sûr imité</l> <l><lb/>Aveucq es =sœur j’ai fréquinté</l> <l><lb/>Cha
+                            fait qu’in étot tous deux parels.</l></lg> <lg><l><lb/>Mais ch’timps bin vite i a passé</l> <l><lb/>A
+                                ch’t’heure j’sus bin viux</l> <l><lb/>Et li y est près d’ech Bon Diu</l> <l><lb/>Depuis déjà
+                                    queques années.</l></lg> <lg><l><lb/>I' m' tarde d’aller l’artrouver</l> <l><lb/>Sin li j’sus pon grind
+                                        cosse</l> <l><lb/>Même si j’sus heureux en ménache</l> <l><lb/>Et qu' mes éfints i' m' rintent
+                bénache.</l></lg> <dateline><lb/>Février 2020</dateline> </div>
+            <div type="liminal"><pb facs="Picard_Concours_2020_17_p3.png"
+                />
+                <head><lb/>Lexique pour « MIN
+                FRERE»</head>
+                <list>
+                    <item><lb/>Efints: <foreign xml:lang="met-fr">enfants, se dit aussi «éfants» ou «infints»</foreign></item>
+                    <item><lb/>eu quère: <foreign xml:lang="met-fr">«avoir quère» «aimer</foreign></item>
+                    <item><lb/>voyot: <foreign xml:lang="met-fr">voyait</foreign></item>
+                    <item><lb/>chés quémins: <foreign xml:lang="met-fr">ces chemins</foreign></item>
+                    <item><lb/>apes:<foreign xml:lang="met-fr">arbres</foreign></item>
+                    <item><lb/>juer aux mapes: <foreign xml:lang="met-fr">jouer aux billes</foreign></item>
+                    <item><lb/>l'marote: <foreign xml:lang="met-fr">la maraude</foreign></item>
+                    <item><lb/>prones: <foreign xml:lang="met-fr">prunes</foreign></item>
+                    <item><lb/>étottent:<foreign xml:lang="met-fr">étaient</foreign></item>
+                    <item><lb/>arsoulle:<foreign xml:lang="met-fr">arsouille, «mauvais garçon»</foreign></item>
+                    <item><lb/>tatoulle: <foreign xml:lang="met-fr"> correction sous forme de gifle, peut aussi se dire «margnouffe»</foreign></item>
+                    <item><lb/>cacoules: <foreign xml:lang="met-fr">carabistouilles</foreign></item>
+                    <item><lb/>mintirie<foreign xml:lang="met-fr">mensonge</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

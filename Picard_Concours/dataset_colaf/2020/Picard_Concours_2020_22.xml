@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_22</idno>
+                <title type="main"> Al ducasse ed' min 'villache</title>
+                <title type="collection">Picard Concours</title>
+                <author>Valérie, SAUTIERE</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Al ducasse ed' min 'villache</title>
+                    <author>Valérie, SAUTIERE</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="90">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="10">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_22_p1.png"/>
+                <fw type="numbering"><lb/>1</fw>
+                <fw type="numbering"><lb/>N°22</fw>
+                <head><lb/>AL DUCASSE ED' MIN 'VILLACHE.</head>
+                <p><lb/>C' étot ia gramint ed' timps, al biélle sason. Dins min tiot villache ed'
+                    Caimbraisis qui du timps<lb/>que chti-là n’étot incore qu’un fief : I s’apelot
+                    Tabeaumez et : Asteure i s’apel Beaumont. Dins<lb/>ches années soixinte cinq
+                    j’étos incore qu’inne tiote file, inne pair ed' jours avint al'
+                    ducasse,<lb/>el' manèche qu’in appelot el' rogalo es' montot su' ch' place du
+                    “blainc caillot". J' ai jamais<lb/>chu jouqu' cha voulot dire " el blainc
+                    caillot" et pourquot est' endrot i s’apelot ainsi ! Et pis<lb/>arrivotent
+                    après: Al' barak à frites et al' loterie à nougats. Nozotes étoinmes
+                    bénaches in savot<lb/>qu’in allot en mette plon nos panches : nos étoinmes des
+                    tiots galafes! Ches gins d’ech'<lb/>villache étotent in-foufelle et ches
+                    infints contints du-diape! In' s' timps-là n' iavot point<lb/>gramint ed'
+                    distractions dins nos villaches! Sauf ches fiêtes d’école et chelles ed'
+                    Monsieu el'<lb/>curé! In ravisot ainsi ech' manèche qui es' montot su' ch'
+                    blainc caillot. c’étot intéressant pou<lb/>des jonnes ed' not ache! Quind tout
+                    étot fin prêt, arrivot ech' biélle fiête : Je m’in souvins com<lb/>si
+                    c’étot hier!</p>
+                <p><lb/>lavot d’abord el distribution des prisses al' cour d’écol, pou l'heur,
+                    étotent-là : Monsieu Le<lb/>Maire, el' garde-champêtre, ches pompiers et el'
+                    greffier d’al mairie : c'étot min père et bé sôr !<lb/>el' Maîte d'école:
+                    “iaurot minqué el' principal !"Min père; pou l’occasion, étot sapé com
+                    in<lb/>sou neu ! In n' veillot qu' li : tint iétot bieau ! lavot mis ses loques
+                    du diminche! Mi : Ej'<lb/>m’ardrèchos devint mes pinrints pou causse equ'
+                    jétos toudis el' primmière! et pis in allot<lb/>dinner : In primmier, in
+                    avalot el' soup ed' bouillon : C’étot fait avec inne glenne equ' min
+                    père<lb/>javot toué d’al veill' et dins ech' caudron, iavot plon ed' porets,
+                    ed' carottes ed' céleri et pis<lb/>dins in couet à part : iavot ches truches,
+                    ech' dessert : C'étot d’al tarte au chuque o bé d’al<lb/>tart au libouli o bé
+                    in racouvert: C'étot fameuss! In ’s pourlequot les babènes et ches
+                    jonnes,<lb/>nos s’in foutoinmes plon nos loques ! ech' jour-là no famil faisot
+                    bobance!</p>
+                <pb facs="Picard_Concours_2020_22_p2.png"/>
+                <fw type="runningTitle"><lb/>AL DUCASSE ED' MIN 'VILLACHE.</fw>
+                <p><lb/>Après cha, ches pinrints buvotent inne tiote goutte pou feur glisser el'
+                    mainger tint leu panche<lb/>étot plonne et qui s'étotent impaffés! ches
+                    femmes avalotent inne zique ed' cherises à l’iau ed'<lb/>vie et ches hommes in
+                    g’nief : Cétot pus fort ! tout el' monne iétot à tape: Mes pinrints,
+                    min<lb/>frérot, em' soeur, min pépé, em' mémé, mononc Arthur et matinte
+                    Marguerite! Dins l'après-<lb/>midi, in arretoumnot à l’école pou monter
+                    su'ch' l'estrade : Mi, daguisée in marguerite et em'<lb/>copine in papillon et
+                    nos déclamoinmes ches récitations equ' not Maîte d’école nos
+                    avot<lb/>apprisses: Ches pinrints applaudissotent comme des siots i zavotent leu
+                    pronne avec ech'<lb/>g'nief, mais nozotes, ches infints étoinmes contints
+                    du-diape car el timps étiot bieau, i faisot<lb/>caud nos avoinmes droit à inne
+                    glace à deus boules ed' mon Ruiss qui passot in claironnint<lb/>avec sin bieau
+                    camion gaune! Ej' m’in souvins comme si c'étot hier ! pou l’heur i passe
+                    toudis<lb/>ech' camion ed' mon Ruiss dins min tiot villache d’ech' caimbraisis !
+                    Et chaque fos qu’ej' prins<lb/>inne glace à deus boules ej' m’arrappellle d’el'
+                    bo viu timps et ej' chus fin bénache!</p>
+                <p><lb/>J'arreviens à em' n' histoire, ches galmites, nos montoinmes su'ch' rogafo,
+                    mi ej' etos cor tiote<lb/>ej' montos avec min frérot qui m’attrapot l'
+                    houppette pou gagner des tours ed' manèche! I<lb/>m’avot cair : Min Jeannot !
+                    ech' manèche c’étot inne biélle biête, un dragon vert et rouche
+                    qui<lb/>dévalot à toute berzingue, avec inne tiête pas possibe: Y crachot du
+                    fieu, nos avoinmes al<lb/>trinnette mais nos s’esclaffoinmes à rigoler in
+                    lravisant pou pas avoir l’air biête devint nos<lb/>amisses! Des fos al' loterie
+                    ej' m’étoquos avec ches nougats equ’min frérot m’avot gagneus<lb/>tint j’étos
+                    galate! In riot gramint al ducasse ed' min villache Tout el monne iétot contint
+                    : Ches<lb/>viux, ches jonnes, chez amoureux et ech' soir : lavot ches flonflons
+                    et un bieau bal<lb/>d’accordéoneux pou ches amoureux, nozotes : Ches galmites,
+                    nos muchoinmes par-drère<lb/>eusses qui guinchotent : "Al to cont li"et nos
+                    s’amusoinmes à les ébahuter : I zétotent nin<lb/>contints et nos avoinmes bé
+                    du plaisir ! Nos rentroinsmes tard dins al' nuit.</p>
+                <fw type="numbering"><lb/>2</fw>
+                <pb facs="Picard_Concours_2020_22_p3.png"/>
+                <fw type="runningTitle"><lb/>AL DUCASSE ED' MIN 'VILLACHE.</fw>
+                <p><lb/>El' lindemin, manman faisot aveuc ches ress un rassacache : al passot tout
+                    ches légumes d'el<lb/>velle dins du burre et inne tiête d'éclaite et in
+                    remaingeot aveuc tout al' famil, in faisot bonne<lb/>chère. Pa-devint in avot
+                    été al messe et ach' procession à fleurs ed' Monsieu el' curé donc;<lb/>Pou
+                    arrevenir à em' n' histoire, après ech' mainger, Mononc Arthur i caintot et
+                    parfos I racontot<lb/>inne tiote histoire cochonne, matinte Marguerte i faisot
+                    des laids ius : Al rouspétot et tout el'<lb/>monne i rigolot!</p>
+                <p><lb/>Ah ! c'étot el bo timps : in voudrot qu' cha dure toudis; Mais, ch'est dins
+                    nos tiêtes et quind l'y<lb/>repinse: Ej' rigole incore!</p>
+                <fw type="numbering">3</fw>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_22_p4.png"/>
+                <head><lb/><foreign xml:lang="met-fr">lexique</foreign>: Al ducasse
+                    ed'min'villache</head>
+                <list>
+                    <head><lb/>A</head>
+                    <item><lb/>Accordéoneux:<foreign xml:lang="met-fr"> joueurs d’accordéon,
+                            accordéonistes</foreign></item>
+                    <item><lb/>Ache :<foreign xml:lang="met-fr"> âge</foreign></item>
+                    <item><lb/>Al :<foreign xml:lang="met-fr"> A la ou elle</foreign></item>
+                    <item><lb/>Al trinnette :<foreign xml:lang="met-fr"> peur</foreign></item>
+                    <item><lb/>Amisses :<foreign xml:lang="met-fr"> Amis</foreign></item>
+                    <item><lb/>Apelot (s'):<foreign xml:lang="met-fr"> S’apellait</foreign></item>
+                    <item><lb/>Ardrècher (s') :<foreign xml:lang="met-fr"> Se redresser : Se
+                            grandir (de fierté dans le texte)</foreign></item>
+                    <item><lb/>Armainger :<foreign xml:lang="met-fr"> remanger</foreign></item>
+                    <item><lb/>Arretourner:<foreign xml:lang="met-fr"> Retourner</foreign></item>
+                    <item><lb/>Asteure:<foreign xml:lang="met-fr"> Maintenant</foreign></item>
+                    <item><lb/>Atape:<foreign xml:lang="met-fr"> A table</foreign></item>
+                    <item><lb/>Aveuc:<foreign xml:lang="met-fr"> Avec</foreign></item>
+                    <item><lb/>Avint :<foreign xml:lang="met-fr"> Avant</foreign></item>
+                    <item><lb/>Avoir caire:<foreign xml:lang="met-fr"> Aimer</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>B</head>
+                    <item><lb/>Babènes:<foreign xml:lang="met-fr"> Babines</foreign></item>
+                    <item><lb/>Barak:<foreign xml:lang="met-fr"> Baraque</foreign></item>
+                    <item><lb/>Bé:<foreign xml:lang="met-fr"> Bien</foreign></item>
+                    <item><lb/>Bénache:<foreign xml:lang="met-fr"> Bien-alse,
+                        content</foreign></item>
+                    <item><lb/>Bé sôr:<foreign xml:lang="met-fr"> Bien sôr</foreign></item>
+                    <item><lb/>Burre :<foreign xml:lang="met-fr"> Beurre</foreign></item>
+                    <item><lb/>Bieau :<foreign xml:lang="met-fr"> Beau</foreign></item>
+                    <item><lb/>Biélle :<foreign xml:lang="met-fr"> belle</foreign></item>
+                    <item><lb/>Biête :<foreign xml:lang="met-fr"> Bête</foreign></item>
+                    <item><lb/>Blainc:<foreign xml:lang="met-fr"> Blanc</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>1</fw>
+                <pb facs="Picard_Concours_2020_22_p5.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">lexique </foreign> : Al
+                    ducasse ed’min'villache</fw>
+                <list>
+                    <item><lb/>Bo :<foreign xml:lang="met-fr"> Bon</foreign></item>
+                    <item><lb/>Bobance:<foreign xml:lang="met-fr"> Bonne chère</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>C</head>
+                    <item><lb/>Caillot:<foreign xml:lang="met-fr"> Caillou</foreign></item>
+                    <item><lb/>Caimbraisis :<foreign xml:lang="met-fr"> Cambrésis</foreign></item>
+                    <item><lb/>Cainter :<foreign xml:lang="met-fr"> Chanter</foreign></item>
+                    <item><lb/>caud:<foreign xml:lang="met-fr"> Chaud</foreign></item>
+                    <item><lb/>Caudron :<foreign xml:lang="met-fr"> marmite</foreign></item>
+                    <item><lb/>Causse:<foreign xml:lang="met-fr"> Cause</foreign></item>
+                    <item><lb/>Cha:<foreign xml:lang="met-fr"> Ca</foreign></item>
+                    <item><lb/>Cherises:<foreign xml:lang="met-fr"> Lire chérises :
+                            Cerises</foreign></item>
+                    <item><lb/>Ches: Les, chelles :<foreign xml:lang="met-fr">
+                        Celles</foreign></item>
+                    <item><lb/>Chti-là:<foreign xml:lang="met-fr"> Celui-à</foreign></item>
+                    <item><lb/>Chu :<foreign xml:lang="met-fr"> Su (du verbe
+                        savoir)</foreign></item>
+                    <item><lb/>Chuque:<foreign xml:lang="met-fr"> Sucre</foreign></item>
+                    <item><lb/>Contint du-diape:<foreign xml:lang="met-fr"> Content du diable: Très
+                            content avec une pointe de maléfice</foreign></item>
+                    <item><lb/>Cor:<foreign xml:lang="met-fr"> Encore</foreign></item>
+                    <item><lb/>Couet :<foreign xml:lang="met-fr"> Fait-tout de terre vernissée ou
+                            de fonte</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>D</head>
+                    <item><lb/>Daguisée:<foreign xml:lang="met-fr"> Déguisée</foreign></item>
+                    <item><lb/>Déclamoinsmes :<foreign xml:lang="met-fr">
+                        Déclamlons</foreign></item>
+                    <item><lb/>Des fos :<foreign xml:lang="met-fr"> Parfois</foreign></item>
+                    <item><lb/>Des Jonnes :<foreign xml:lang="met-fr"> des jeunes</foreign></item>
+                    <item><lb/>Deus :<foreign xml:lang="met-fr"> Deux</foreign></item>
+                    <item><lb/>Dinner :<foreign xml:lang="met-fr"> Déjeûner</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>2</fw>
+                <pb facs="Picard_Concours_2020_22_p6.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">lexique </foreign> Al
+                    ducasse ed’min'villache</fw>
+                <list>
+                    <item><lb/>Dins :<foreign xml:lang="met-fr"> Dans</foreign></item>
+                    <item><lb/>Du fiu :<foreign xml:lang="met-fr"> Du feu</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>E</head>
+                    <item><lb/>Ebahuter :<foreign xml:lang="met-fr"> bousculer</foreign></item>
+                    <item><lb/>Eclaite:<foreign xml:lang="met-fr"> Ail</foreign></item>
+                    <item><lb/>Ed:<foreign xml:lang="met-fr"> Des</foreign></item>
+                    <item><lb/>El:<foreign xml:lang="met-fr"> Le</foreign></item>
+                    <item><lb/>El'monne :<foreign xml:lang="met-fr"> Le monde</foreign></item>
+                    <item><lb/>Etoquer (s') :<foreign xml:lang="met-fr"> Avaler de
+                        travers</foreign></item>
+                    <item><lb/>Etotent impaffés (s) :<foreign xml:lang="met-fr"> S' empiffrer;
+                            S'étaient gointrés</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>F</head>
+                    <item><lb/>Fameuss :<foreign xml:lang="met-fr"> Fameux</foreign></item>
+                    <item><lb/>File:<foreign xml:lang="met-fr"> Fille</foreign></item>
+                    <item><lb/>Fiêtes:<foreign xml:lang="met-fr"> Fêtes</foreign></item>
+                    <item><lb/>Fieu :<foreign xml:lang="met-fr"> Feu</foreign></item>
+                    <item><lb/>Frérot:<foreign xml:lang="met-fr"> Frère</foreign></item>
+                    <item><lb/>Faisot :<foreign xml:lang="met-fr"> Faisait</foreign></item>
+                    <item><lb/>Foutoinsmes (s’) :<foreign xml:lang="met-fr"> s’en
+                        mettions</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>G</head>
+                    <item><lb/>Galafes :<foreign xml:lang="met-fr"> Gourmands</foreign></item>
+                    <item><lb/>Gaune :<foreign xml:lang="met-fr"> Jaune</foreign></item>
+                    <item><lb/>Galmites:<foreign xml:lang="met-fr"> Gamins au sens
+                        large</foreign></item>
+                    <item><lb/>Gins :<foreign xml:lang="met-fr"> Gens</foreign></item>
+                    <item><lb/>Glenne :<foreign xml:lang="met-fr"> Poule</foreign></item>
+                    <item><lb/>G'nief:<foreign xml:lang="met-fr"> Genièvre</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>3</fw>
+                <pb facs="Picard_Concours_2020_22_p7.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">lexique</foreign>: Al
+                    ducasse ed’min'villache</fw>
+                <list>
+                    <item><lb/>Goutte:<foreign xml:lang="met-fr"> Eau de vie peu
+                        forte</foreign></item>
+                    <item><lb/>Gramint :<foreign xml:lang="met-fr"> Beaucoup</foreign></item>
+                    <item><lb/>Greffier :<foreign xml:lang="met-fr"> Secrétaire</foreign></item>
+                    <item><lb/>Guinchotent :<foreign xml:lang="met-fr"> Dansaient</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>I</head>
+                    <item><lb/>lau :<foreign xml:lang="met-fr"> Eau</foreign></item>
+                    <item><lb/>lavot :<foreign xml:lang="met-fr"> il y avait ou il
+                        avait</foreign></item>
+                    <item><lb/>In :<foreign xml:lang="met-fr"> On</foreign></item>
+                    <item><lb/>Incore:<foreign xml:lang="met-fr"> Encore</foreign></item>
+                    <item><lb/>Infint :<foreign xml:lang="met-fr"> Enfant</foreign></item>
+                    <item><lb/>in-foufelle :<foreign xml:lang="met-fr"> Affairé, excité, en
+                            émoi</foreign></item>
+                    <item><lb/>Inne: :<foreign xml:lang="met-fr">Une,</foreign> inn'veillot
+                            :<foreign xml:lang="met-fr"> On ne voyait</foreign></item>
+                    <item><lb/>lus :<foreign xml:lang="met-fr"> Yeux</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>J</head>
+                    <item><lb/>Jonnes :<foreign xml:lang="met-fr"> Jeunes sous-entendu : Jeunes
+                            enfants</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>L</head>
+                    <item><lb/>Leu pronne :<foreign xml:lang="met-fr"> avoir sa pronne : être
+                            ivre</foreign></item>
+                    <item><lb/>Li:<foreign xml:lang="met-fr"> Lui</foreign></item>
+                    <item><lb/>Liboult :<foreign xml:lang="met-fr"> Lait bouilli (crème
+                            patissière)</foreign></item>
+                    <item><lb/>Loque :<foreign xml:lang="met-fr"> habit, vêtement</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>M</head>
+                    <item><lb/>Mainger:<foreign xml:lang="met-fr"> Manger</foreign></item>
+                    <item><lb/>Maîte:<foreign xml:lang="met-fr"> Maître</foreign></item>
+                    <item><lb/>Manèche:<foreign xml:lang="met-fr"> Manège</foreign></item>
+                    <item><lb/>Manman:<foreign xml:lang="met-fr"> Maman</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>4</fw>
+                <pb facs="Picard_Concours_2020_22_p8.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">lexique</foreign>: Al
+                    ducasse ed'min'villache</fw>
+                <list>
+                    <item><lb/>Matinte:<foreign xml:lang="met-fr"> Ma tante</foreign></item>
+                    <item><lb/>Min :<foreign xml:lang="met-fr"> Mon</foreign></item>
+                    <item><lb/>Minquer:<foreign xml:lang="met-fr"> Manquer</foreign></item>
+                    <item><lb/>Mononc :<foreign xml:lang="met-fr"> Mon oncle</foreign></item>
+                    <item><lb/>Monsieu :<foreign xml:lang="met-fr"> Monsieur</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>N</head>
+                    <item><lb/>Neu :<foreign xml:lang="met-fr"> Neuf</foreign></item>
+                    <item><lb/>Nos muchoinsmes :<foreign xml:lang="met-fr"> nous
+                        cachions</foreign></item>
+                    <item><lb/>Nozotes:<foreign xml:lang="met-fr"> Nous autres</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>O</head>
+                    <item><lb/>O bé:<foreign xml:lang="met-fr"> Ou bien</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>P</head>
+                    <item><lb/>Pa-devint :<foreign xml:lang="met-fr"> Auparavant</foreign></item>
+                    <item><lb/>Panche:<foreign xml:lang="met-fr"> Ventre</foreign></item>
+                    <item><lb/>Par-drère:<foreign xml:lang="met-fr"> Par derrière</foreign></item>
+                    <item><lb/>Pinrints :<foreign xml:lang="met-fr"> Parents</foreign></item>
+                    <item><lb/>Plon:<foreign xml:lang="met-fr"> Plein</foreign></item>
+                    <item><lb/>Porets :<foreign xml:lang="met-fr"> Poireaux</foreign></item>
+                    <item><lb/>Pou :<foreign xml:lang="met-fr"> Pour</foreign></item>
+                    <item><lb/>Pourléquer les babènes (se) :<foreign xml:lang="met-fr"> Se
+                            pourlécher les lèvres (se régaler)</foreign></item>
+                    <item><lb/>Primmier, primmière:<foreign xml:lang="met-fr"> Premier,
+                            première</foreign></item>
+                    <item><lb/>Prisses :<foreign xml:lang="met-fr"> Prix</foreign></item>
+                    <item><lb/>Pus :<foreign xml:lang="met-fr"> Plus</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>Q</head>
+                    <item><lb/>Quind:<foreign xml:lang="met-fr"> Quand</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>5</fw>
+                <pb facs="Picard_Concours_2020_22_p9.png"/>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">lexique:</foreign> Al
+                    ducasse ed'min'villache</fw>
+                <list>
+                    <head><lb/>R</head>
+                    <item><lb/>Racouvert :<foreign xml:lang="met-fr"> Tarte aux pommes faite de deux
+                            ronds de pâte soudés dans lesquels sont insérés de <lb/>grands
+                            quartiers de pommes)</foreign></item>
+                    <item><lb/>Rassacache :<foreign xml:lang="met-fr"> Légumes du bouillon
+                            cuisinés de la veille rissolés dans le beurre avec une tête
+                            d’ail</foreign></item>
+                    <item><lb/>Raviser:<foreign xml:lang="met-fr"> Regarder</foreign></item>
+                    <item><lb/>Repinse:<foreign xml:lang="met-fr"> Repense</foreign></item>
+                    <item><lb/>Ress:<foreign xml:lang="met-fr"> Restes</foreign></item>
+                    <item><lb/>Rogaïo :<foreign xml:lang="met-fr"> Autre forme du mot manège
+                            spécifique à son montage</foreign></item>
+                    <item><lb/>Rouche :<foreign xml:lang="met-fr"> Rouge</foreign></item>
+                    <item><lb/>Rouspetot:<foreign xml:lang="met-fr"> Grondait</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>S</head>
+                    <item><lb/>Sapé :<foreign xml:lang="met-fr"> Dans le sens de bien
+                            habillé</foreign></item>
+                    <item><lb/>Sason :<foreign xml:lang="met-fr"> Saison</foreign></item>
+                    <item><lb/>Savot :<foreign xml:lang="met-fr"> Savoir à
+                        l’imparfait</foreign></item>
+                    <item><lb/>Siots :<foreign xml:lang="met-fr"> Sots</foreign></item>
+                    <item><lb/>Soixinte:<foreign xml:lang="met-fr"> Soixante</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>T</head>
+                    <item><lb/>Tape:<foreign xml:lang="met-fr"> Table</foreign></item>
+                    <item><lb/>Ti:<foreign xml:lang="met-fr"> Toi</foreign></item>
+                    <item><lb/>Timps:<foreign xml:lang="met-fr"> Temps</foreign></item>
+                    <item><lb/>Tint:<foreign xml:lang="met-fr"> Tant</foreign></item>
+                    <item><lb/>Tiot:<foreign xml:lang="met-fr"> Petit</foreign></item>
+                    <item><lb/>Toudis:<foreign xml:lang="met-fr"> Toujours</foreign></item>
+                    <item><lb/>Toué:<foreign xml:lang="met-fr"> Tué</foreign></item>
+                    <item><lb/>Toute berzingue :<foreign xml:lang="met-fr"> A toute
+                            vitesse</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>6</fw>
+                <pb facs="Picard_Concours_2020_22_p10.png"/>
+                <list>
+                    <item><lb/>Truches:<foreign xml:lang="met-fr"> Pommes de terre</foreign></item>
+                </list>
+                <fw type="runningTitle"><lb/><foreign xml:lang="met-fr">lexique</foreign> : Al
+                    ducasse ed'min'villache</fw>
+                <list>
+                    <head><lb/>V</head>
+                    <item><lb/>Villache:<foreign xml:lang="met-fr"> Village</foreign></item>
+                    <item><lb/>Viux :<foreign xml:lang="met-fr"> Vieux</foreign></item>
+                    <item><lb/>Viélle :<foreign xml:lang="met-fr"> Vieille</foreign></item>
+                </list>
+                <list>
+                    <head><lb/>Z</head>
+                    <item><lb/>Zique:<foreign xml:lang="met-fr"> peu</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>7</fw>
+            </div>
+        </body>
+    </text>
+</TEI>

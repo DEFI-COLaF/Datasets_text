@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_07</idno>
+                <title type="main"> Eune mintrie </title>
+                <title type="collection">Picard Concours</title>
+                <author>Michelle, FOUREZ</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Eune mintrie </title>
+                    <author>Michelle, FOUREZ</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>Belgique</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="50">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>Belgique</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb
+                n="Picard_Concours_2020_7_p1.png"/><fw type="numbering"><lb/>N°7</fw> <head><lb/>Eune mintrie 27 d’octobe deu
+                    1958.</head> <p><lb/>C' jou-là, saint Nicolas avowat k'minchié à tchuire deus ôfes : leus
+                nuées tuin'tent toutes<lb/>rouches, eu i f'jowat in vint à fè s’involeu leus
+                        pannes.</p> <p><lb/>Beutôt, ch' sorowat l’Toussaint.</p> <p><lb/>I eutowat chonq heures deu
+                l’aprèins-din.neu, eu no Louise avowat teu r’chineu aveu s’mamère al<lb/>mon deu
+                s' matante Julienne. Ch'towat in diminche, eu comme euç joû-là l’mamère Louise
+                n’avowat<lb/>neu pouvu daleu à messe, vu qu’eune vaque avowat vêleu dou matin, in
+                r’veunant deul mon<lb/>Julienne, i-ont r’passeu pa l’eugliche pou dire deux trowas
+                            avés.</p> <p><lb/>Louise avowat siète ans. Eule dalowat fè s’preumière communion à
+                                l’Ascinsion.</p> <p><lb/>Eule avowat pris aveu li s’poupée Nicole pou daleu r'chineu al mon
+                                    deu s’matante Julienne.</p> <p><lb/>Ch' towat eune bièle poupée aveu deus longs nowars
+                cheveux qu’on pouvowat leus coiffeu, leus<lb/>laveu, fè deus fiches. On pouvowat
+                                        l’mète à l’eu, vu qu’eule towat in caoutchouc.</p> <p><lb/>Louise li avowat mis in biau
+                habit rouche qu’eule avowat cousu li-min.me à longs points aveu in<lb/>reste d'
+                                            tissu queu s’mére avowat feu deus eucourcheus avec.</p> <p><lb/>Su l'tiète deul poupée,
+                pou qu’eule n’euche neu frowad deul rache queu l’vint chuflowat fort,<lb/>in
+                passe-montagne que Louise avowat lachié li-min.me eutou aveu in restant
+                d’lin.ne.</p> <p><lb/>I fjowat presque nuite quand i-ont vudié d’l’eugliche pou eusse raleu
+                    à leu maison.<lb/>Ch' towat l’heure de traire leus vaques.</p> <p><lb/>Meus arriveu d’vant
+                        l’porte deul granche deu leu cinsse, louise s’meut à braire:</p> <p><lb/>- Eum poupée! Eum
+                poupée! J'pinse beu queu j’l’ai laichiée dsu l’sièle à l’eugliche. I no
+                faut<lb/>raleu l'tchiè, maman, si ou plaît.</p> <p><lb/>-No feu, Louise ! Ch’eut sans !
+                i-eut trop tard. Ch’eut leus courts joûs, i feut d’ja nuite, eu<lb/>ch’eut l’heure
+                deu l’ouvrache ! D’main, ch’eut l’eucole. I vo faut vô laveu, mingier eu daleu à
+                vo lite.</p> <p><lb/>-Maman, m’poupée Nicole eut toute seûle dins l’eugliche, eule va
+                    avowar peû, eule ne pint<lb/>neu là dormi toute seûle !</p> <p><lb/>Louise a beû braire,
+                eus mére print leus seyôs ou lait eu s’in va traire aveu s’n’homme
+                sans<lb/>l’acouteu. Eule pich'ra tant moin.nsse, qu’eul dit in veyant l’afant
+                        braire.</p> <p><lb/>Adon, Jean, eul pére Louise, a dit à s’fin.me qu’eule keuminchiche à
+                            traire sans li.</p> <p><lb/>-J'min vas habille squ’à l'eugliche à veulou, jeu n'd’ai neu
+                                pou lon-mint !</p> <p><lb/>-Vos applaudichiez s’nafant là bramint d'troup, Jean !</p><pb
+                    n="Picard_Concours_2020_7_p2.png"/><p><lb/>Louise n’feujowat fonk que d’raviseu pa
+                l’feurniète pou vi s’pére eurveuni aveu s’poupée<lb/>Nicole.. eule vowat luire
+                eul lampe à carbure dou veulou, Jean eut à hauteur deul granche...
+                louise<lb/>tranne... Jean rin.te dins l’méson. Neu d'poupée. Louise eurkeumin.nche
+                        à br aire.</p> <p><lb/>Eus mére arrife deu l’eutôle aveu in seyô d’lait prète à
+                turbineu. Eule traite l’afan d’feujeu d’grin.nes<lb/>eu s’in rva traire aveu Jean.
+                Aprèins, i souptent sans d’viseu eu Louise s’in va à s lite beu<lb/>deubauchie.
+                Eul pére eus tait : i n’a reu n’à dire, dins ceule méson aveu s’gindarme
+                d’fin.me.</p> <p><lb/>Eul lind'main, Louise s’in va à pied à l’eucole. T’au long dou
+                k'min, eule beusie à Nicole.<lb/>Duche qu'eule pint beu ête, deu ? Eule rinte dins
+                l’eugliche, alfowa qu’eus père n’euche neu vu<lb/>Nicole d’su l’sièle, vu qu’i
+                    fjowat approchant nuite.</p> <p><lb/>Eul tchureu eut d’jà là. Y a n’intièremeut
+                        aujord’hui eu i prépare eul sièrviche.</p> <p><lb/>I n’a neu vu d’poupée. Non, qu’i
+                            dit.</p> <p><lb/>A l’eucole, Louise n’acoute neu l’maîte qu'eusplique eul réque deu
+                trowas, eule s’in fout<lb/>beu, deul réque deu trowas, eule neu feut fonke que
+                                d'beusier à Nicole.</p> <p><lb/>L’arowat-eule oublyiée à l’mon deu s’matante Julienne ?
+                Non. Eule seu rappelle que d’vant rintreu à<lb/>l'eugliche, eule a d'viseu aveu
+                                    Nicole...</p> <p><lb/>Pitiète dit beu queu l’tchureu l’a pris... meus qu’euche qu’in
+                                        tchureu frowat aveu n’poupée?</p> <p><lb/>Qui soit... eul réque deu trowas eule s’in fout,
+                                            meus vlà queu l’mète l’invouye ou tableau.</p> <p><lb/>Louise, queu d’habitude eule sait
+                toudi toute, eule n’a reu compris, eu l’maîte i s'meut dins n’rache<lb/>dou
+                                                d'jâle...</p> <p><lb/>Trois joûs s’passtent.</p> <p><lb/>Louise in dalant eu in rveunant
+                d’l’eucole ravisse dins leus fosseus, leus kraous, alfowa qu'Nicole<lb/>arowat
+                                                    tcheuü là. Meus neu d'Nicole.</p> <p><lb/>Eule eurvint à s’méson tout d’eune, on dirowat
+                                                        un qu’on li a voleu s'bowate ou toubake.</p> <p><lb/>Eus mére li a prépareu à r'chineu,
+                deus tartines à l'confiture deu grousièles aveu dou bon bure saleu.<lb/>Eule
+                d’apéte, Louise. Eule sét qu’à c’n'heure-là, eus pére eu s’mére sont ko ou
+                camp, i ramasst'ent<lb/>biètrâtes meus l’porte deumeure toudi ouvrie.</p> <p><lb/>Su
+                l'tape, eus n'eurchineu l’attind, eu d'lé lijatte de frèche lait, y a n’inviloppe,
+                aveu in timbre rouche<lb/>colleu d’sus. In timbre franceus, comme leus ceus quand
+                leu cousine de Bretagne leu eucrit... eul<lb/>lète, ch’eut pou li, LOUISE DEGAND,
+                    rue d'l’Amourette, 12. Buchnal. Belgique.....</p> <p><lb/>Eule deucafote l’invlope eu
+                        k'minche à lire...</p> <p><lb/>Maman Louise,</p> <p><lb/>Euj sais qu'vos aleu ête beu deubauchie, meus j’ai deucideu
+                d'min daleu long fôrt long eu<lb/>deu npus jin mais r'veuni. Tro
+                dû, pour mi, deu d'meureu toute sêule tou l'jou à vo cin.nsse vu<lb/>q'vos daleu
+                            à l’eucole tous leus joûs...</p> <p><lb/>Eul porte d''eugliche towat d’meurée ouvrie:
+                                j'm’ai incouru.</p> <p><pb facs="Picard_Concours_2020_7_p3.png"/><lb/>I towat grand temps queu
+                                    j'viviche eum vie.</p> <p><lb/>J'ai pris l'queumin deul gare, j’ai arriveu tard par nuite à
+                Tournai, eu j’ai monteu dins in trin qui<lb/>dalowat pou la France. Eu meu vilà chi
+                                        à Paris!</p> <p><lb/>Eu saveuz tcheu ?J'ai là trouveu in amoureux. J'm'avuwis assis d'su
+                in banc d'lé la Seine, eu y eut<lb/>v'nu s’assire d'lé mis... NOS ALLONS NOS
+                                            MARIEU, NOS ARONS N'MASSE D'AFANTS!</p> <p><lb/>Jai d'jà vu eul Tour Eiffel eu j’meu
+                                                pourmin ne tous leus jous su leus Champs-Elysées.</p> <p><lb/>N'breuyeu neu, Louise: j'sus
+                                                    fin heureuse, chi, à Paris aveu m'n Ernest.</p> <p><lb/>Euj vos dis meurci d’avowar beu
+                                                        inlveu Louise.</p> <p><lb/>Vo Poupée Nicole.</p> <p><lb/>Louise a r'frumeu l’invloppe eu a mingié
+                seus tartines à l’confiture deus grousièles.<lb/>Ptiète di beu qu’eule
+                                                            eurvèrowat Nicole in joû, à Paris....</p> <p><lb/>Vingt ans pus tard, eule a rtrouveu
+                                                                l’invloppe ou fond d’in tirowa.</p> <p><lb/>Adon, eule a r'coneu l’eucriture deus papa Jean,
+                min.me si l’avowat cangiée pou qu’eule neu seuche<lb/>neu queu ch'towat li qui li
+                avowat eucrit....</p></div>
+        </body>
+    </text>
+</TEI>

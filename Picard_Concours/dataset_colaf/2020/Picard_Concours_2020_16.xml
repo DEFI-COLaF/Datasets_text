@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_16</idno>
+                <title type="main"> Em vie </title>
+                <title type="collection">Picard Concours</title>
+                <author>Jacques, MIGNEAU</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Em vie </title>
+                    <author>Jacques, MIGNEAU</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="60">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="40">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_16_p1.png"/>
+                <fw type="numbering"><lb/>N°16</fw>
+                <head><lb/>EM VIE</head>
+                <lg>
+                    <l><lb/>Quind j’étos gramint pu jonne,</l>
+                    <l><lb/>Qu' j’avos des courtes maronnes,</l>
+                    <l><lb/>J'étos vraimint solint,</l>
+                    <l><lb/>Em mère es désolot,</l>
+                    <l><lb/>D’avoir un parel infant,</l>
+                    <l><lb/>Et d’vir aussi commint j’étos.</l>
+                    <l><lb/>J’étos sache, inne fos par mos</l>
+                    <l><lb/>Quind j’intindos din l’fond d’el cité,</l>
+                    <l><lb/>Dech cacheux d' loques, el trompette,</l>
+                    <l><lb/>Jenne sais pon c' qu’in m’avot raconté</l>
+                    <l><lb/>Mais ch’son là, i' m’donnot el « tronette ».</l>
+                    <l><lb/>Jenne bougeot pu d’em caïelle,</l>
+                    <l><lb/>Qind r’tentissot el cri : « pieaux d’lapins »,</l>
+                    <l><lb/>J’dév’nos in anche au lieu d’einne archelle.</l>
+                    <l><lb/>Em mère alle n’arconnaichot pu s’n’éfant.</l>
+                    <l><lb/>Mais cha' n’durot pon longtimps,</l>
+                    <l><lb/>El timps qu’el marchand y fache el rue,</l>
+                    <l><lb/>Dès qu’j’n’intindos pu l’air du capieau pointu,</l>
+                    <l><lb/>J’ardevenos un diape à quate mains.</l>
+                    <l><lb/>J’lavos chès outils d’min père<lb/>In les métant dins l’buée d’em
+                        mère.</l>
+                    <l><lb/>J’artiros el queue d’min bidet d’bos,</l>
+                    <l><lb/>Et j’li mettos din sin vinte ed’z’haricots.</l>
+                    <l><lb/>J’ai aussi ouvert el vinte ed’min nounours</l>
+                    <l><lb/>Pour vire quoque i avot in dins ed li.</l>
+                    <l><lb/>Vos voyez j’étos vraiment in ours,</l>
+                    <l><lb/>Em mère s’demindot c’qu’alle allot faire ed mi.</l>
+                    <l><lb/>Chès années bin sur passotent,</l>
+                    <l><lb/>Et mes parints insempe s’désolotent.</l>
+                    <l><lb/>Jusqu’à timps qu' j’arrrive in chinquieime,</l>
+                    <pb facs="Picard_Concours_2020_16_p2.png"/>
+                    <l><lb/>Ch't année là, j’ai cangé vraimint,</l>
+                    <l><lb/>A ch’mos d’juin j’étos pu du tout l’ même.</l>
+                    <l><lb/>Vos n’m' arretes pon arconnu.</l>
+                    <l><lb/>J’étos sache comme einne imache,</l>
+                    <l><lb/>Et chès profs, ed mi, étotent fin bénaches,</l>
+                    <l><lb/>J’n’avos pu jamais d’aretenues,</l>
+                    <l><lb/>Et j’étos même el preumier d’em classe.</l>
+                    <l><lb/>Mais pon du tout comme avint : à l’grile</l>
+                    <l><lb/>Quind j’étos incore in tchiot agosil</l>
+                    <l><lb/>Vos vos d’mindez commint ch’est possipe</l>
+                    <l><lb/>Et bin ch’est vraimint tout simpe :</l>
+                    <l><lb/>In voyot el directeur tous chès diminches à l’messe,</l>
+                    <l><lb/>Et in plus em sœur alle étot prof dins min collèche,</l>
+                    <l><lb/>J’étos toudis sous haute surveillance,</l>
+                    <l><lb/>I z’étotent tartous ed mèche.</l>
+                    <l><lb/>Mais cha été em grinte chance.</l>
+                    <l><lb/>Queques années pu tard</l>
+                    <l><lb/>J’intros dins ch’corps inseignant</l>
+                    <l><lb/>Et quind chès parints s’plaignotent d’leu moutards</l>
+                    <l><lb/>J’défindos chès tchiots infants</l>
+                    <l><lb/>In racontant al mère et à ch' père</l>
+                    <l><lb/>Min cangement vraimint estraordinaire.</l>
+                    <l><lb/>J'enne disot pon tout' l'verité</l>
+                    <l><lb/>Fallot que j’garde em position</l>
+                    <l><lb/>Ch’étot inne question d' dignité,</l>
+                    <l><lb/>J’enne savos pon si y frêtent preuv’te ed discrétion,</l>
+                    <l><lb/>A ch’t’heure j’sus à l’pinsion</l>
+                    <l><lb/>Cha n’a pu gramint d’importance</l>
+                    <l><lb/>Et ch’est pour cha qu’ichi d’einne traite</l>
+                    <l><lb/>Vos avez pu lire em jactance. (ou si lecture en public : vos avez pu
+                        acouter em jactance.)</l>
+                </lg>
+            </div>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_16_p3.png"/>
+                <fw type="numbering">1</fw>
+                <head><lb/><foreign xml:lang="met-fr">Lexique pour</foreign> « em vie»</head>
+                <list>
+                    <item><lb/>Gramint:<foreign xml:lang="met-fr">beaucoup</foreign></item> 
+                    <item><lb/>Maronnes:<foreign xml:lang="met-fr">pantalons</foreign></item> 
+                    <item><lb/>Solint
+                        :<foreign xml:lang="met-fr">turbulent</foreign></item>
+                    <item><lb/>Désolot:<foreign xml:lang="met-fr">désolait-</foreign></item> 
+                    <item><lb/>Quind j’intindos:<foreign xml:lang="met-fr">quand
+                        j’entendais</foreign></item> 
+                    <item><lb/>cacheux d' loques:<foreign xml:lang="met-fr">il s "’agissait souvent d’un homme qui
+                    collectait les métaux, les vieux vêtements et aussi les<lb/>littéralement «
+                        chercheur de vêtements usagers », en fait<lb/>peaux de lapins.</foreign></item> 
+                    <item><lb/>el «
+                        tronette »:<foreign xml:lang="met-fr">la tremblote</foreign></item> 
+                    <item><lb/>bougeot:<foreign xml:lang="met-fr">bougeais</foreign></item> 
+                    <item><lb/>caïelle:<foreign xml:lang="met-fr">chaise
+                        se dit aussi « cayère »</foreign></item> 
+                    <item><lb/>pieaux d’lapins:<foreign xml:lang="met-fr">peaux de
+                        lapins</foreign></item> 
+                    <item><lb/>anche:<foreign xml:lang="met-fr">ange</foreign></item> 
+                    <item><lb/>archelle:<foreign xml:lang="met-fr">« harchelle »(patois de Lille et
+                        environs)<lb/>enfant remuant, comme une baguette d’osier, d’où
+                        vient</foreign></item> 
+                    <item><lb/>s'n’éfant:<foreign xml:lang="met-fr">son enfant</foreign></item> 
+                    <item><lb/>y fache:<foreign xml:lang="met-fr">il
+                        fasse</foreign></item> 
+                    <item><lb/>intindos:<foreign xml:lang="met-fr">entendais</foreign></item> 
+                    <item><lb/>capiau:<foreign xml:lang="met-fr">chapeau</foreign></item> 
+                    <item><lb/>diape:<foreign xml:lang="met-fr">diable</foreign></item> 
+                    <item><lb/>quate:<foreign xml:lang="met-fr">quatre</foreign></item>
+                    <item><lb/>J'artiros
+                        :<foreign xml:lang="met-fr">je retirais</foreign></item> 
+                    <item><lb/>bidet d’bos:<foreign xml:lang="met-fr">cheval de
+                        bois</foreign></item> 
+                    <item><lb/>vinte:<foreign xml:lang="met-fr">ventre</foreign></item> 
+                    <item><lb/>quoque:<foreign xml:lang="met-fr">ce qu’il (peut aussi se dire «
+                        chouque »</foreign></item> 
+                        </list>
+                <pb facs="Picard_Concours_2020_16_p4.png"/>
+                <fw type="numbering">2</fw>
+                <list>
+                    <item><lb/>passotent:<foreign xml:lang="met-fr">passaient</foreign></item>
+                    <item><lb/>insempe:<foreign xml:lang="met-fr">ensemble</foreign></item>
+                    <item><lb/>cangé;<foreign xml:lang="met-fr">changé</foreign></item>
+                    <item><lb/>ch'mos d'juin:<foreign xml:lang="met-fr">ce mois de juin</foreign></item>
+                    <item><lb/>arconnu<foreign xml:lang="met-fr">reconnu</foreign></item>
+                    <item>imache: <foreign xml:lang="met-fr">image</foreign></item>
+                    <item>bénaches: <foreign xml:lang="met-fr">contents, heureux</foreign></item>
+                    <item>d'aretenues:<foreign xml:lang="met-fr">de retenues</foreign></item>
+                    <item>possipe: <foreign xml:lang="met-fr">possible</foreign></item>
+                    <item>si y frêtent:<foreign xml:lang="met-fr">s'ils feraient</foreign></item>
+                    <item>j'sus à l'pinsion: <foreign xml:lang="met-fr">je suis à la retraite</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

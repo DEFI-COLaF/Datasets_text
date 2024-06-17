@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Picard_Concours_2020_1_p2.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT11979" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT4940" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="816"
+                   VPOS="145"
+                   WIDTH="29"
+                   HEIGHT="40"
+                   ID="eSc_textblock_bcb6722e"
+                   TAGREFS="BT11979">
+          <Shape><Polygon POINTS="832 145 845 150 840 185 816 175 832 145"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="181"
+                   VPOS="218"
+                   WIDTH="1304"
+                   HEIGHT="1906"
+                   ID="eSc_textblock_2ef16eab"
+                   TAGREFS="BT11979">
+          <Shape><Polygon POINTS="188 218 1485 233 1485 2015 1469 2093 940 2098 862 2103 840 2124 181 2119 188 218"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_cb2a01cc"
+                    TAGREFS="LT4940"
+                    BASELINE="822 172 838 172" 
+                    HPOS="822"
+                    VPOS="149"
+                    WIDTH="16"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="822 162 822 172 822 196 836 197 838 172 835 149 831 150 822 162"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="822"
+                    VPOS="149"
+                    WIDTH="16"
+                    HEIGHT="48"
+                    WC="0.9943391680717468"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fff2ca9"
+                    TAGREFS="LT4940"
+                    BASELINE="184 242 1480 253" 
+                    HPOS="183"
+                    VPOS="217"
+                    WIDTH="1297"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1471 232 1458 232 1445 232 1432 232 1419 232 1406 232 1393 232 1380 232 1367 231 1354 231 1341 231 1328 231 1315 231 1302 231 1289 231 1276 231 1263 230 1250 230 1237 230 1224 230 1211 230 1198 230 1185 230 1172 230 1159 228 1146 228 1133 228 1120 228 1107 228 1094 228 1081 228 1068 228 1055 228 1042 227 1029 227 1016 227 1003 227 990 227 977 227 964 227 951 227 938 226 925 226 912 226 899 226 886 226 873 226 860 226 847 226 834 224 821 224 808 224 795 224 782 224 769 224 756 224 743 224 730 224 717 223 704 223 691 223 678 223 665 223 652 223 639 223 626 223 613 222 600 222 587 222 574 222 561 222 548 222 535 222 522 222 509 220 496 220 483 220 470 220 457 220 444 220 431 220 418 220 405 220 392 219 379 219 366 219 353 219 340 219 327 219 314 219 301 219 288 218 275 218 262 218 249 218 236 218 223 218 210 218 197 218 196 217 184 217 184 242 183 254 1477 267 1480 253 1480 232 1471 232"/></Shape>
+	    <String CONTENT="Chti, qu&#x27; dins ch&#x27; villache d’où qu’i l’étoait in vaganches, o prenoait pour ein viux fou pis qu’os app’loait"
+                    HPOS="183"
+                    VPOS="217"
+                    WIDTH="1297"
+                    HEIGHT="50"
+                    WC="0.9840112978273684"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fbb0129"
+                    TAGREFS="LT4940"
+                    BASELINE="184 284 1477 293" 
+                    HPOS="183"
+                    VPOS="259"
+                    WIDTH="1294"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="184 284 183 296 1474 307 1477 293 1476 268 184 259 184 284"/></Shape>
+	    <String CONTENT="ch&#x27; vieux Joseph. I l’étoait bertcheux quainte is s&#x27; sont vus l&#x27; prémiére foés pis d’ech&#x27; jour lo i l’o apprins"
+                    HPOS="183"
+                    VPOS="259"
+                    WIDTH="1294"
+                    HEIGHT="48"
+                    WC="0.9898062301718671"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4df2bbc5"
+                    TAGREFS="LT4940"
+                    BASELINE="184 326 1478 333" 
+                    HPOS="183"
+                    VPOS="300"
+                    WIDTH="1295"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="184 326 183 340 1476 348 1478 333 1477 307 184 300 184 326"/></Shape>
+	    <String CONTENT="pusieurs coses. D’abord qu’ech&#x27; viux bertcheux i l’étoait point fou, bién du contraire. Qu’i l’avoait"
+                    HPOS="183"
+                    VPOS="300"
+                    WIDTH="1295"
+                    HEIGHT="48"
+                    WC="0.9856712453573653"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a17d3ee6"
+                    TAGREFS="LT4940"
+                    BASELINE="184 366 1477 378" 
+                    HPOS="183"
+                    VPOS="339"
+                    WIDTH="1294"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="184 366 183 379 1474 393 1477 378 1476 352 184 339 184 366"/></Shape>
+	    <String CONTENT="infinimint ed connoaissinches pis qu’i savoait bién des coses dsus ches gins d’ech village. Ch&#x27; viux Joseph"
+                    HPOS="183"
+                    VPOS="339"
+                    WIDTH="1294"
+                    HEIGHT="54"
+                    WC="0.9937940593119021"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdcd7529"
+                    TAGREFS="LT4940"
+                    BASELINE="184 409 1477 419" 
+                    HPOS="183"
+                    VPOS="380"
+                    WIDTH="1294"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="184 409 183 421 1474 432 1477 419 1476 396 1298 388 1296 388 1185 393 1164 393 1157 393 1114 385 1113 385 1021 392 1007 392 996 392 933 384 931 384 886 391 881 391 875 391 820 383 818 383 817 383 796 389 796 391 680 391 677 389 654 382 653 382 652 382 618 388 605 382 604 382 500 380 499 380 184 384 184 409"/></Shape>
+	    <String CONTENT="li o d’abord dvisé ed ses berbis pis ed leu comport&#x27;mint. Ch’est ainsi qu’i l’o su equ loin d’éte aussi bête"
+                    HPOS="183"
+                    VPOS="380"
+                    WIDTH="1294"
+                    HEIGHT="52"
+                    WC="0.9859042779819386"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30fbb2f1"
+                    TAGREFS="LT4940"
+                    BASELINE="184 449 1478 460" 
+                    HPOS="183"
+                    VPOS="419"
+                    WIDTH="1295"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="184 449 183 470 1476 476 1478 460 1477 436 648 423 647 423 618 424 545 428 509 423 500 422 499 422 471 422 348 427 336 421 335 421 333 421 332 421 323 421 232 426 184 419 184 449"/></Shape>
+	    <String CONTENT="qu’o l&#x27;dit ches moutons is savoétent s&#x27; protéger mutuell’mint. I li avoait foait vir, ein jour ed pieuve, emint"
+                    HPOS="183"
+                    VPOS="419"
+                    WIDTH="1295"
+                    HEIGHT="57"
+                    WC="0.983406233049072"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6fdf43a"
+                    TAGREFS="LT4940"
+                    BASELINE="184 492 1476 502" 
+                    HPOS="183"
+                    VPOS="467"
+                    WIDTH="1293"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="184 492 183 504 1473 515 1476 502 1474 478 184 467 184 492"/></Shape>
+	    <String CONTENT="qu’is s&#x27; rassannoaient in formant eine seurte ed p’loton pis equ cheux qu&#x27; is étoétent à l’estérieur is"
+                    HPOS="183"
+                    VPOS="467"
+                    WIDTH="1293"
+                    HEIGHT="48"
+                    WC="0.9924061086690315"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ee8964c"
+                    TAGREFS="LT4940"
+                    BASELINE="184 534 1478 544" 
+                    HPOS="183"
+                    VPOS="509"
+                    WIDTH="1295"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="184 534 183 547 244 556 245 556 311 549 392 557 393 557 428 550 584 557 586 557 667 552 992 562 994 562 1047 556 1065 562 1066 562 1435 565 1437 565 1477 557 1478 544 1477 519 184 509 184 534"/></Shape>
+	    <String CONTENT="v’noaient vers ech&#x27; chinte fil à m’sure. Eine méniére d’es&#x27; séquir à l&#x27; caleur ed ches eutes berbis pour"
+                    HPOS="183"
+                    VPOS="509"
+                    WIDTH="1295"
+                    HEIGHT="56"
+                    WC="0.9863942620951102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b1a5249"
+                    TAGREFS="LT4940"
+                    BASELINE="184 576 551 576" 
+                    HPOS="184"
+                    VPOS="553"
+                    WIDTH="367"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="184 576 184 591 549 595 551 576 551 553 184 553 184 576"/></Shape>
+	    <String CONTENT="artourner insuite à l’estérieur."
+                    HPOS="184"
+                    VPOS="553"
+                    WIDTH="367"
+                    HEIGHT="42"
+                    WC="0.9927553604630863"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cbbe9a5"
+                    TAGREFS="LT4940"
+                    BASELINE="184 617 1477 625" 
+                    HPOS="183"
+                    VPOS="586"
+                    WIDTH="1294"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="184 617 183 630 1474 638 1477 625 1476 600 1198 599 1196 597 1164 591 1163 591 975 596 965 596 964 596 953 589 952 589 951 589 949 589 794 595 790 595 788 595 778 588 777 588 775 588 774 588 649 595 630 595 622 595 571 587 570 587 450 593 434 593 426 593 372 586 371 586 370 586 343 592 341 592 318 586 317 586 315 586 184 591 184 617"/></Shape>
+	    <String CONTENT="I l’avoait égal’mint apprins à r&#x27;connoaîte sartaines étoéles. L&#x27; granne pis l&#x27; tchotte ourse, chelle qu’alle"
+                    HPOS="183"
+                    VPOS="586"
+                    WIDTH="1294"
+                    HEIGHT="52"
+                    WC="0.9900084322532722"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04b762b3"
+                    TAGREFS="LT4940"
+                    BASELINE="184 654 1477 666" 
+                    HPOS="183"
+                    VPOS="630"
+                    WIDTH="1294"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="184 654 183 667 1474 684 1477 666 1477 644 1343 643 1328 635 1326 635 1325 635 813 636 757 630 756 630 184 631 184 654"/></Shape>
+	    <String CONTENT="monte ech pôle nord. Pis l&#x27; princhipale... L’Étoéle d’ech bertcheu... Chelle qu’alle apparoait in preume"
+                    HPOS="183"
+                    VPOS="630"
+                    WIDTH="1294"
+                    HEIGHT="54"
+                    WC="0.9847806162923296"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efad67c3"
+                    TAGREFS="LT4940"
+                    BASELINE="184 699 1477 709" 
+                    HPOS="183"
+                    VPOS="669"
+                    WIDTH="1294"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="184 699 183 714 1474 723 1477 709 1477 686 341 669 340 669 184 674 184 699"/></Shape>
+	    <String CONTENT="pis qu’alle disparoait l&#x27; darniére, eine ed ches pus milantes... Pus tard, i séro qu’alle o pour tchout nom"
+                    HPOS="183"
+                    VPOS="669"
+                    WIDTH="1294"
+                    HEIGHT="54"
+                    WC="0.9941024878703126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcf224f4"
+                    TAGREFS="LT4940"
+                    BASELINE="187 738 1477 751" 
+                    HPOS="185"
+                    VPOS="709"
+                    WIDTH="1292"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="187 738 185 751 201 758 202 758 204 758 700 757 714 764 716 764 831 765 832 765 1476 764 1477 751 1474 721 1220 725 1190 718 1183 717 1182 717 1168 718 1100 723 1072 717 1064 715 1063 715 1040 717 961 722 844 722 827 714 822 713 821 713 820 713 790 714 734 718 669 714 638 712 636 712 623 713 592 718 580 713 574 710 573 710 571 710 535 713 470 717 411 712 382 709 380 709 379 709 371 712 354 715 187 710 187 738"/></Shape>
+	    <String CONTENT="Vénus mais alle rest&#x27;ro, pour li, chelle d’ech bertcheu. Tout partout d’où qu’i l’iro, dés s’n’arrivée, d’où"
+                    HPOS="185"
+                    VPOS="709"
+                    WIDTH="1292"
+                    HEIGHT="56"
+                    WC="0.9819602829165164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f6cc9b3"
+                    TAGREFS="LT4940"
+                    BASELINE="184 782 1478 792" 
+                    HPOS="183"
+                    VPOS="756"
+                    WIDTH="1295"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="184 782 183 793 1476 804 1478 792 1478 766 184 756 184 782"/></Shape>
+	    <String CONTENT="qu’i fuche dins ch&#x27; monne, sin prémier ergard s’ro ed tracher el&#x27; étoéle lo... Chelle qu’alle dit qu’i l’est"
+                    HPOS="183"
+                    VPOS="756"
+                    WIDTH="1295"
+                    HEIGHT="48"
+                    WC="0.986033703829791"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f588d17"
+                    TAGREFS="LT4940"
+                    BASELINE="183 823 1477 834" 
+                    HPOS="181"
+                    VPOS="799"
+                    WIDTH="1296"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="183 823 181 836 1474 852 1477 834 1476 809 183 799 183 823"/></Shape>
+	    <String CONTENT="l’heure ed rintrer ches berbis in berg rie ou ed szles foaire rintrer à ch&#x27; parc. Ein parc, foait ed barriéres in"
+                    HPOS="181"
+                    VPOS="799"
+                    WIDTH="1296"
+                    HEIGHT="53"
+                    WC="0.9950417865877567"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d79b568"
+                    TAGREFS="LT4940"
+                    BASELINE="184 866 1476 877" 
+                    HPOS="183"
+                    VPOS="835"
+                    WIDTH="1293"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="184 866 183 883 1473 891 1476 877 1474 847 1153 849 1122 845 1095 842 1094 842 1044 845 1000 848 994 845 987 842 986 842 985 842 951 844 927 847 909 844 878 840 877 840 875 840 864 844 857 847 812 844 723 839 722 839 683 844 667 845 625 844 469 836 467 836 405 843 404 843 401 843 341 835 340 835 240 842 202 835 201 835 200 835 184 842 184 866"/></Shape>
+	    <String CONTENT="planques plintées vertical&#x27;mint, in été... Bién souvint ch’étoait l&#x27; pus vielle fumelle qu’alle prenoait ch&#x27;"
+                    HPOS="183"
+                    VPOS="835"
+                    WIDTH="1293"
+                    HEIGHT="56"
+                    WC="0.9816431898986344"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59f65aba"
+                    TAGREFS="LT4940"
+                    BASELINE="184 907 1473 918" 
+                    HPOS="183"
+                    VPOS="877"
+                    WIDTH="1290"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="184 907 183 918 1471 931 1473 918 1472 895 755 881 753 881 627 886 614 879 613 879 612 879 610 879 588 886 456 886 454 884 444 878 443 878 441 878 440 878 410 884 408 884 400 884 287 877 285 877 184 882 184 907"/></Shape>
+	    <String CONTENT="cmin d’ech ertour elle-meume... I lachoait foaire pasqu’i savoait equ ch’étoait elle qu’alle avoait raison..."
+                    HPOS="183"
+                    VPOS="877"
+                    WIDTH="1290"
+                    HEIGHT="54"
+                    WC="0.9940875167196447"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_804f24e5"
+                    TAGREFS="LT4940"
+                    BASELINE="184 949 1476 958" 
+                    HPOS="183"
+                    VPOS="923"
+                    WIDTH="1293"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="184 949 183 965 1473 971 1476 958 1474 930 184 923 184 949"/></Shape>
+	    <String CONTENT="Joseph! I l’ervoét conme i l’o vu l&#x27;darniere foés qu’i l’est v’nu ichi, infin à l&#x27; cinse. I v’noait ed clatcher l&#x27;"
+                    HPOS="183"
+                    VPOS="923"
+                    WIDTH="1293"
+                    HEIGHT="48"
+                    WC="0.979230164972126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_728d9f1b"
+                    TAGREFS="LT4940"
+                    BASELINE="184 990 1476 999" 
+                    HPOS="183"
+                    VPOS="965"
+                    WIDTH="1293"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="184 990 183 1008 1473 1013 1476 999 1474 974 184 965 184 990"/></Shape>
+	    <String CONTENT="porte! Ein coeup d&#x27; colère qu&#x27;alloait canger s&#x27; vie. Joseph, ein honme ed tchotte talle à peinne ch&#x27; méte"
+                    HPOS="183"
+                    VPOS="965"
+                    WIDTH="1293"
+                    HEIGHT="48"
+                    WC="0.9930941799172649"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99465567"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1029 1476 1040" 
+                    HPOS="183"
+                    VPOS="1000"
+                    WIDTH="1293"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="184 1029 183 1042 1473 1053 1476 1040 1476 1016 326 1000 324 1000 184 1005 184 1029"/></Shape>
+	    <String CONTENT="soéssante. Des pattes courtes, ein molé artchées dsous ein torse ed lutteu ed foére. Eine téte quasimint"
+                    HPOS="183"
+                    VPOS="1000"
+                    WIDTH="1293"
+                    HEIGHT="53"
+                    WC="0.993306043498013"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e241bd5d"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1070 1476 1083" 
+                    HPOS="183"
+                    VPOS="1047"
+                    WIDTH="1293"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="184 1070 183 1083 959 1098 960 1098 1172 1094 1217 1100 1218 1100 1474 1095 1476 1083 1476 1060 1335 1051 1334 1051 978 1053 959 1047 957 1047 184 1047 184 1070"/></Shape>
+	    <String CONTENT="ronne dsus ein cou quasimint absint tell’mint i y avoait peu d’espace inter l&#x27; téte pis ches épeules. Des"
+                    HPOS="183"
+                    VPOS="1047"
+                    WIDTH="1293"
+                    HEIGHT="53"
+                    WC="0.994934420719325"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_760660da"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1112 1476 1125" 
+                    HPOS="183"
+                    VPOS="1083"
+                    WIDTH="1293"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="184 1112 183 1124 1473 1137 1476 1125 1476 1101 184 1083 184 1112"/></Shape>
+	    <String CONTENT="bros courts eux étou pis eine main droéte avuc des doégts épais pis volumineux. Eine main gueuche"
+                    HPOS="183"
+                    VPOS="1083"
+                    WIDTH="1293"
+                    HEIGHT="54"
+                    WC="0.9952613422186067"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58c43164"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1153 1476 1166" 
+                    HPOS="181"
+                    VPOS="1127"
+                    WIDTH="1295"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="183 1153 181 1166 253 1174 254 1174 679 1173 700 1179 701 1179 703 1181 1474 1181 1476 1166 1476 1142 1463 1135 1461 1135 1460 1135 1233 1139 1217 1133 1216 1133 1215 1133 1089 1138 1061 1131 1060 1131 1059 1131 960 1137 951 1130 949 1130 948 1130 947 1130 722 1134 695 1127 693 1127 692 1127 183 1129 183 1153"/></Shape>
+	    <String CONTENT="estropiée avuc, à l&#x27;plache ed ches cinq doégts, cinq boules ed chair pis d’os. Ein hindicap qui n’el ginnoait"
+                    HPOS="181"
+                    VPOS="1127"
+                    WIDTH="1295"
+                    HEIGHT="54"
+                    WC="0.986775810697249"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f90d3fa"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1195 1473 1207" 
+                    HPOS="183"
+                    VPOS="1165"
+                    WIDTH="1290"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="184 1195 183 1212 1471 1220 1473 1207 1472 1182 184 1165 184 1195"/></Shape>
+	    <String CONTENT="null’mint tant i s’étoait habitué à ch&#x27; minque pis s&#x27; main droéte alle avoait eine forche peu conmeune."
+                    HPOS="183"
+                    VPOS="1165"
+                    WIDTH="1290"
+                    HEIGHT="55"
+                    WC="0.9891294608606356"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ced32a9a"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1238 1473 1248" 
+                    HPOS="183"
+                    VPOS="1207"
+                    WIDTH="1290"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="184 1238 183 1251 291 1261 292 1261 335 1255 389 1263 391 1263 392 1263 424 1255 597 1255 636 1264 638 1264 810 1257 882 1266 883 1266 933 1259 1151 1269 1372 1270 1373 1270 1472 1261 1473 1248 1472 1224 1098 1221 1094 1218 1086 1213 1085 1213 1083 1213 1082 1213 1081 1213 1069 1217 1063 1220 1047 1217 1021 1213 1020 1213 1018 1213 1008 1217 1000 1220 983 1217 965 1213 964 1213 920 1216 874 1218 852 1214 827 1211 826 1211 743 1213 671 1216 666 1212 662 1209 661 1209 660 1209 658 1209 606 1212 522 1216 423 1209 397 1208 396 1208 395 1208 392 1209 382 1214 354 1208 344 1207 343 1207 315 1208 226 1213 184 1207 184 1238"/></Shape>
+	    <String CONTENT="Brun ed poéille pis ed cavieux à l’origine, i l&#x27;étoait dvnu gris ed poéille fin tôt pis i paraissoait puss viux"
+                    HPOS="183"
+                    VPOS="1207"
+                    WIDTH="1290"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49c3375e"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1278 1055 1286" 
+                    HPOS="183"
+                    VPOS="1255"
+                    WIDTH="872"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="184 1278 183 1292 1052 1302 1055 1286 1053 1263 184 1255 184 1278"/></Shape>
+	    <String CONTENT="qu’i l’étoait réell’mint. I l’avoait des yux fin bleus pis i voéyait fin loin..."
+                    HPOS="183"
+                    VPOS="1255"
+                    WIDTH="872"
+                    HEIGHT="47"
+                    WC="0.9829918167677271"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a0afbb4"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1320 1476 1333" 
+                    HPOS="181"
+                    VPOS="1292"
+                    WIDTH="1295"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="183 1320 181 1335 1473 1347 1476 1333 1476 1305 183 1292 183 1320"/></Shape>
+	    <String CONTENT="Dins s&#x27; vie deux passions! Ses berbis pis ses tchiens... Ou l’inverse. Des tchiens qui s&#x27; s’roaient foait"
+                    HPOS="181"
+                    VPOS="1292"
+                    WIDTH="1295"
+                    HEIGHT="55"
+                    WC="0.9894301425843012"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a528fb8c"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1361 1474 1374" 
+                    HPOS="183"
+                    VPOS="1335"
+                    WIDTH="1291"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="184 1361 183 1373 201 1381 202 1381 204 1381 263 1376 443 1383 1472 1389 1474 1374 1473 1348 184 1335 184 1361"/></Shape>
+	    <String CONTENT="occhire pour Joseph... I sz&#x27; es cmindoait avuc edz&#x27; ordes brefs, des mots à peinne prononchés, des coeups"
+                    HPOS="183"
+                    VPOS="1335"
+                    WIDTH="1291"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ec3ddf3"
+                    TAGREFS="LT4940"
+                    BASELINE="184 1403 1474 1415" 
+                    HPOS="183"
+                    VPOS="1378"
+                    WIDTH="1291"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="184 1403 183 1416 1472 1433 1474 1415 1473 1390 184 1378 184 1403"/></Shape>
+	    <String CONTENT="ed sifflet modulés d’eine sartaine méniére qu’is étoaient à l&#x27; foés edz&#x27; incourag&#x27;mints ou edz&#x27; ordes. Des"
+                    HPOS="183"
+                    VPOS="1378"
+                    WIDTH="1291"
+                    HEIGHT="55"
+                    WC="0.9805024577570813"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96b366fc"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1444 1474 1457" 
+                    HPOS="181"
+                    VPOS="1415"
+                    WIDTH="1293"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="183 1444 181 1456 1472 1469 1474 1457 1474 1431 389 1416 388 1416 331 1421 330 1421 271 1415 270 1415 183 1420 183 1444"/></Shape>
+	    <String CONTENT="foés ein cri, d’ein ton coléreux, pour ein coeup ed dint à eine patte ed mouton qu’alle trainne pis ch&#x27; tchien"
+                    HPOS="181"
+                    VPOS="1415"
+                    WIDTH="1293"
+                    HEIGHT="54"
+                    WC="0.9864785855850288"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78ba48e4"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1486 1474 1496" 
+                    HPOS="181"
+                    VPOS="1457"
+                    WIDTH="1293"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="183 1486 181 1498 1472 1508 1474 1496 1474 1472 431 1457 430 1457 183 1461 183 1486"/></Shape>
+	    <String CONTENT="tout moneux qui bache s&#x27; tête avuc ein air coupabe, sartain d’avoér mal foait sin traval ed tchien ed"
+                    HPOS="181"
+                    VPOS="1457"
+                    WIDTH="1293"
+                    HEIGHT="51"
+                    WC="0.9916112480811703"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_692c491a"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1526 1474 1539" 
+                    HPOS="181"
+                    VPOS="1502"
+                    WIDTH="1293"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="183 1526 181 1538 231 1546 232 1547 947 1547 966 1554 968 1554 1345 1558 1346 1558 1473 1551 1474 1539 1474 1515 183 1502 183 1526"/></Shape>
+	    <String CONTENT="troupieu. I falloait alorss vir ch&#x27; qu’i fsoait ech feutif pour rintrer in grâche. Seurtout si Joseph I fsoait"
+                    HPOS="181"
+                    VPOS="1502"
+                    WIDTH="1293"
+                    HEIGHT="56"
+                    WC="0.984705541047964"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_421861ff"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1568 1476 1580" 
+                    HPOS="181"
+                    VPOS="1542"
+                    WIDTH="1295"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="183 1568 181 1581 1473 1595 1476 1580 1474 1551 183 1542 183 1568"/></Shape>
+	    <String CONTENT="chti qui pardonne point l&#x27; feute... Ein tchien qui rampe dusqu’à sin moaite in l’erbéyant, in essayant ed"
+                    HPOS="181"
+                    VPOS="1542"
+                    WIDTH="1295"
+                    HEIGHT="53"
+                    WC="0.9877372528905066"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c72d8f02"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1608 1474 1620" 
+                    HPOS="181"
+                    VPOS="1581"
+                    WIDTH="1293"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="183 1608 181 1623 1472 1636 1474 1620 1473 1597 1329 1589 1328 1589 1109 1593 1077 1593 1070 1593 1031 1586 1030 1586 940 1591 926 1591 922 1591 901 1585 900 1585 899 1585 556 1587 505 1587 500 1587 470 1581 469 1581 183 1584 183 1608"/></Shape>
+	    <String CONTENT="foaire vir sin ergard, plein d’ergrets, qui pose eine patte dsus l&#x27; tchuisse ed sin moaite avuc l’air ed dire"
+                    HPOS="181"
+                    VPOS="1581"
+                    WIDTH="1293"
+                    HEIGHT="55"
+                    WC="0.9850287284326116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01b6d4c5"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1650 1474 1661" 
+                    HPOS="181"
+                    VPOS="1625"
+                    WIDTH="1293"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="183 1650 181 1664 1472 1676 1474 1661 1473 1637 183 1625 183 1650"/></Shape>
+	    <String CONTENT="qu’i n’el&#x27; o point foait esprés, qu’i n’el fro pus.... Pis l’ folle cavalcade quainte eine tchotte caréche, eine"
+                    HPOS="181"
+                    VPOS="1625"
+                    WIDTH="1293"
+                    HEIGHT="51"
+                    WC="0.987257751979326"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab7b5d50"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1691 1474 1703" 
+                    HPOS="181"
+                    VPOS="1667"
+                    WIDTH="1293"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="183 1691 181 1703 209 1711 210 1711 211 1711 269 1706 367 1712 369 1712 408 1707 488 1713 489 1713 587 1708 600 1708 602 1708 612 1715 613 1715 614 1715 1472 1719 1474 1703 1473 1677 183 1667 183 1691"/></Shape>
+	    <String CONTENT="tape amiteuse qu’alle dit equ ches coses alles rintent dins l’orde pis qu’os est pardonné... L&#x27; cavalcade qui"
+                    HPOS="181"
+                    VPOS="1667"
+                    WIDTH="1293"
+                    HEIGHT="52"
+                    WC="0.9864527447657152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09398e1b"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1733 1472 1746" 
+                    HPOS="181"
+                    VPOS="1703"
+                    WIDTH="1291"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="183 1729 183 1733 181 1747 1469 1764 1472 1746 1471 1719 509 1706 508 1706 452 1711 447 1711 441 1711 397 1704 396 1704 328 1710 326 1710 324 1710 292 1703 291 1703 189 1708 183 1729"/></Shape>
+	    <String CONTENT="s’insuit avuc ches seuts, ches léchoulles à l&#x27;main (jamoais à l&#x27; fidjure, Joseph i vouloait point) Tout ch&#x27;"
+                    HPOS="181"
+                    VPOS="1703"
+                    WIDTH="1291"
+                    HEIGHT="61"
+                    WC="0.9852989706126126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4be4582"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1775 1472 1788" 
+                    HPOS="183"
+                    VPOS="1750"
+                    WIDTH="1289"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="183 1775 183 1793 545 1793 569 1798 582 1801 583 1801 660 1799 783 1797 899 1802 956 1804 957 1804 996 1803 1095 1799 1138 1804 1147 1806 1148 1806 1156 1806 1203 1799 1228 1806 1229 1806 1230 1806 1231 1806 1260 1801 1469 1808 1472 1788 1471 1759 183 1750 183 1775"/></Shape>
+	    <String CONTENT="passé lo i l’ermonte à l&#x27; seurfache pis l’honme i l’o eine tchotte risée quainte i rpinse à toutes ches coses"
+                    HPOS="183"
+                    VPOS="1750"
+                    WIDTH="1289"
+                    HEIGHT="58"
+                    WC="0.9888277459988551"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f776de45"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1816 599 1820" 
+                    HPOS="181"
+                    VPOS="1784"
+                    WIDTH="418"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="183 1816 181 1829 596 1836 599 1820 597 1795 547 1788 545 1788 478 1793 458 1785 457 1785 456 1785 418 1793 417 1793 392 1785 391 1785 389 1785 309 1791 287 1784 285 1784 284 1784 183 1790 183 1816"/></Shape>
+	    <String CONTENT="d’es joénesse qu’est djo fin loin..."
+                    HPOS="181"
+                    VPOS="1784"
+                    WIDTH="418"
+                    HEIGHT="52"
+                    WC="0.9867248035765983"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f891d92c"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1859 1473 1869" 
+                    HPOS="181"
+                    VPOS="1825"
+                    WIDTH="1292"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="183 1859 181 1872 1471 1882 1473 1869 1473 1845 1390 1834 1389 1834 1326 1842 1322 1842 1320 1842 1285 1834 1283 1834 1282 1834 1265 1841 1265 1842 1152 1842 1148 1840 1133 1832 1131 1832 1130 1832 1129 1832 1108 1840 1107 1841 1016 1841 991 1838 912 1830 910 1830 853 1836 840 1837 838 1836 829 1829 827 1829 826 1829 790 1829 788 1829 761 1834 749 1837 717 1834 649 1828 553 1828 552 1828 551 1828 549 1828 543 1832 536 1836 523 1832 505 1827 504 1827 502 1827 476 1830 458 1834 448 1830 436 1827 435 1827 434 1827 404 1830 370 1834 354 1829 341 1825 340 1825 339 1825 337 1825 328 1829 318 1833 298 1829 280 1825 279 1825 278 1825 270 1828 262 1832 183 1828 183 1859"/></Shape>
+	    <String CONTENT="I l’étoait point peu fier d’éte ein ed ches rares, pour point dire ech&#x27; seul, equ Joseph avoait invité à intrer"
+                    HPOS="181"
+                    VPOS="1825"
+                    WIDTH="1292"
+                    HEIGHT="57"
+                    WC="0.9886656600496043"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e439306a"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1898 1474 1912" 
+                    HPOS="181"
+                    VPOS="1871"
+                    WIDTH="1293"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="183 1898 181 1910 1472 1924 1474 1912 1473 1881 1364 1886 1259 1880 1242 1878 1241 1878 1222 1878 1129 1884 1118 1878 1117 1877 1116 1877 1114 1877 1113 1877 1105 1878 1081 1882 894 1877 761 1873 760 1873 647 1876 551 1877 547 1875 541 1871 540 1871 539 1871 538 1871 183 1872 183 1898"/></Shape>
+	    <String CONTENT="dins s’roulotte... Contrair mint à tout ch&#x27; qui s’disoait dins ch&#x27; village ch&#x27;étoait point ch&#x27; foutoér annonché"
+                    HPOS="181"
+                    VPOS="1871"
+                    WIDTH="1293"
+                    HEIGHT="53"
+                    WC="0.976873891249947"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ad6811d"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1940 1474 1953" 
+                    HPOS="181"
+                    VPOS="1915"
+                    WIDTH="1293"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="183 1940 181 1958 1472 1968 1474 1953 1473 1927 183 1915 183 1940"/></Shape>
+	    <String CONTENT="mais eine tchotte moéson bién arringée, prope pis disons llé confortabe. Point ch&#x27; confort actuel nan mais"
+                    HPOS="181"
+                    VPOS="1915"
+                    WIDTH="1293"
+                    HEIGHT="53"
+                    WC="0.9940274303609674"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0a89282"
+                    TAGREFS="LT4940"
+                    BASELINE="183 1979 1473 1993" 
+                    HPOS="181"
+                    VPOS="1955"
+                    WIDTH="1292"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="183 1979 181 1992 287 1993 287 1994 302 2001 304 2001 305 2001 387 1995 392 1995 396 1995 431 2002 1471 2011 1473 1993 1472 1969 183 1955 183 1979"/></Shape>
+	    <String CONTENT="ein honme seul conme Joseph pouvoait y vive... Ein lit étroét dins ch&#x27; fond à droéte avuc edz&#x27; étagéres"
+                    HPOS="181"
+                    VPOS="1955"
+                    WIDTH="1292"
+                    HEIGHT="56"
+                    WC="0.9924129783560377"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c4d8506"
+                    TAGREFS="LT4940"
+                    BASELINE="183 2020 1472 2034" 
+                    HPOS="181"
+                    VPOS="1990"
+                    WIDTH="1291"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="183 2020 181 2033 1469 2053 1472 2034 1471 2011 274 1992 272 1992 271 1992 235 1997 183 1990 183 2020"/></Shape>
+	    <String CONTENT="freumées d’ein ridieu bleu-vert. Eine tabe avuc eine bassine in métal pis eine sarviette, pus ou moins"
+                    HPOS="181"
+                    VPOS="1990"
+                    WIDTH="1291"
+                    HEIGHT="63"
+                    WC="0.993189278130348"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d076e14f"
+                    TAGREFS="LT4940"
+                    BASELINE="181 2063 1468 2077" 
+                    HPOS="180"
+                    VPOS="2037"
+                    WIDTH="1288"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="181 2063 180 2083 1465 2101 1468 2077 1467 2051 1255 2050 1252 2049 1234 2042 1233 2042 1231 2042 1144 2047 1129 2047 1127 2047 1118 2041 1117 2041 1116 2041 1114 2041 1042 2046 1031 2046 1027 2046 1000 2040 999 2040 925 2045 914 2045 910 2045 882 2038 881 2038 799 2044 786 2044 781 2044 753 2037 181 2037 181 2063"/></Shape>
+	    <String CONTENT="prope, du savon à barbe qui dvoait dater d’ech temps d’où qu’ech&#x27; berger i s&#x27; rasoait pis ein peingne..."
+                    HPOS="180"
+                    VPOS="2037"
+                    WIDTH="1288"
+                    HEIGHT="64"
+                    WC="0.9876584680575244"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77ade004"
+                    TAGREFS="LT4940"
+                    BASELINE="181 2102 832 2111" 
+                    HPOS="180"
+                    VPOS="2073"
+                    WIDTH="652"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="181 2094 181 2102 180 2123 202 2133 204 2133 205 2133 270 2124 298 2133 300 2133 301 2133 302 2133 331 2125 366 2136 367 2136 369 2136 413 2134 414 2134 415 2134 415 2133 423 2127 484 2127 491 2133 491 2134 492 2134 493 2134 495 2134 525 2128 552 2138 553 2138 554 2138 600 2131 645 2140 647 2140 831 2132 832 2111 831 2086 343 2073 341 2073 188 2077 181 2094"/></Shape>
+	    <String CONTENT="Dsous l&#x27;table ein broc in zinc, sins doute plein d’ieu."
+                    HPOS="180"
+                    VPOS="2073"
+                    WIDTH="652"
+                    HEIGHT="67"
+                    WC="0.9947448882189664"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

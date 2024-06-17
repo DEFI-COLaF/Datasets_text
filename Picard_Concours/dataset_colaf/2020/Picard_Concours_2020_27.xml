@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_27</idno>
+                <title type="main"> Mon onc' Michel!</title>
+                <title type="collection">Picard Concours</title>
+                <author>Michelle, BAR </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Mon onc' Michel!</title>
+                    <author>Michelle, BAR </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_27_p1.png"/>
+                <fw type="numbering"><lb/>N°27</fw>
+                <head><lb/>Mon Onc' Michel!</head>
+                <p><lb/>J a pon souvenance qu’in parlo d’invironemint din l'temps. In parlo ed ché
+                    bos, d'ché gardins, d'nou semalles, d'nou<lb/>récoltes... In dijo à ché
+                    gosses dé n'point gacher, ed faire attention, d’éte polis...</p>
+                <p><lb/>Pi, in leu dijo aussi dé ne rien jejter par terre, ed tout façon in avo
+                    pas grand kose à jejter, vu qu'des eballaches y<lb/>n’avo pa pou ainsi
+                    dir'.</p>
+                <p><lb/>Tout cha pou dir qu'chéto pas comme asteur.</p>
+                <p><lb/>Mi, kan j’éto gosse, j’min rappelle (in 1957 par là) kan in allo faire «
+                    nou comisssion » - surtout pou ch'el grosse -in<lb/>s’essuyo aveuc du papier
+                    journal, tout l’monde y féjo parel; amon ma tante Thérèse chéto in tit peu
+                    pu doux, in<lb/>avo du papier ed' soie ki véno d'ché imbalages d’el' vaisselle
+                    qu’al vindo.</p>
+                <p><lb/>Là, j'va vou raconter kekose ki va vou faire comprind' ke l’temps y passe
+                    mais kin arvient toudis au même. L’aut<lb/>jour, in parlant aveuc
+                    chl’ambulancier ki nou ameno à l'cité hospitalière ed Lille, mi pis m'fille,
+                    y rm’acont e ky à six<lb/>mos y travallo cor din ene maison d'retraite. Y
+                    n’pouvo faire sin travall comme y auro eu ker d’l faire : pou li, in<lb/>n'preno
+                    pas assez soin ed ché viux. V n’a marre, y va vir ech directeur, y li dit el
+                    fond d’es pinsée, et y s’intin<lb/>réponde: « dans le temps, les vieux ne se
+                    lavaient pas tous les jours » ! Eh ouais, mé jins, o zavé bin lu !</p>
+                <p><lb/>Mi j'i éro artourné « ché viu d’avant ché pon ché viu d’asteur ».</p>
+                <p><lb/>Tout cha pou dir (co in kou) ke ch'mond y évolue, mé ki fo pas tout
+                    mélanger, kin peut avincher sans tout effacer.</p>
+                <p><lb/>Ché vrai ke l'mond' ya kangé à ene vitess' trop rapid' et j'cro bin ek
+                    ché cha kin é intrin ed s’rind' compte, nou zaut'<lb/>- kin é ché pu grands
+                    fautifs -et ché jonn'.</p>
+                <p><lb/>kan ¡'vo ché gosses d’asteur, eh bin, j'su fière, et j'cro ek cha va
+                    s’aringer. J'en' sus pa si sott' ed'croir kin va fair<lb/>machine arrière, mais
+                    j’em'prin à pinser kin est bin parti pou granmin, granmin, granmin, ralentir. Y
+                    a ka vir tou<lb/>cheu ki fabrik't leu savon, leu dintifris', tou cheu ki
+                    en'prind' pu l’avion, ki roul't à vélo... Y n’a granmin k’ion compri<lb/>ek
+                    nou terre in prind' gran soin.</p>
+                <p><lb/>In m’a toudis di ek j'éto utopiste ! Bin vo miu cha ek d’et' trist'!</p>
+                <p><lb/>Avat ed'finir min laïus, j’voudro vou raconter kemin Kmon onc' Michel y m’a
+                    artourné min gardin et pi em'cervelle<lb/>pa l'mêm' occasion. J’avo akaté ene
+                    grand' maison aveuc in grand gardin k'iéto à l’abandon. Em' m’onc' y a
+                    été<lb/>contin ed' artyourner ch’el' terre pou inl’ver ché pissenlits. A
+                    chac' kou, j'el raviso, y tapo ch'el racin' par terre, cha<lb/>féjo ker ch’el'
+                    terre et pi y meto ch'pissenlit din in sac. Cha m’simblo drol', y véyo qu’el
+                    raviso et y 'di : « té do<lb/>jamais oublier ki v a kekcoz k'var pouss' jamais
+                    su' l'terre, ché l'terr »</p>
+                <p><lb/>Tou cha pou dir ke j'va finir em' bafoull' ichi et qu' j'su bin contint'
+                    d’améner em' pitit' part à ech' grand ouvrach<lb/>ed'nou temps, «
+                    l’environnement » ou cor, la nature et le bons sens.</p>
+                <p><lb/>Adé mé jins, au plaisir!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

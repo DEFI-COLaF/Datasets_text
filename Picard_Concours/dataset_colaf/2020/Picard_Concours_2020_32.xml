@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_32</idno>
+                <title type="main"> Ugénie étot superbe</title>
+                <title type="collection">Picard Concours</title>
+                <author>Pierre, DELANNOY</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Ugénie étot superbe</title>
+                    <author>Pierre, DELANNOY</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="90">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="10">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_32_p1.png"/><fw type="numbering"><lb/>N°32</fw><head><lb/>Ugénie étot
+                superbe.......</head><p><lb/>Ugénie étot superbe. 19 ans, chte bielle affaire... Pissque,
+                là bos, au lon, dins cheull<lb/>plaine aux terrils naissants, des hommes étot-tent
+                partis et qu’sins doute al n’arverrot<lb/>jamais... Ugénie étot
+                superbe.</p><p><lb/>Idalie étot jolie. 17 ans chte bielle affaire. Pissque, là bos, à
+                l’luzette¹, vers eul solel<lb/>levant, groulot ch'l’ernu² d’la guerre et cor pus
+                lon, vraimint pus lon, sn’amoureux étot<lb/>parti s’batte amon d’ches Turcs... et
+                    petête bin qui n’arvindrot pon... ldalie étot jolie.</p><p><lb/>Antoinette étot
+                coquette. 16 ans, chte bielle affaire... Pissque là bos, au lon, par delà<lb/>ches
+                daraines crincronnes³ par nuit, des fux à s' ronguer les sangs,⁴ rimplichotent
+                eul<lb/>ciel éd couleurs sanguinolentes, et pis tous ches garchons n’pinsot-tent
+                qu’à cha...la<lb/>guerre... sins savoir chu qui n’y férot-tent ches nigdoules⁵ lo,
+                        à cheull guerre !... Antoinette<lb/>étot coquette.</p><p><lb/>Ches tros files Lefebvre,
+                d’Aimé Lefebvre, dit « ch’gros ». Cocher déch directeur éd ches<lb/>fosses éd
+                Ferfay. Mais aussi pitit cinsier⁶ propriétaire, dzeur eul plache déch Rietz
+                à<lb/>Burbure, d’in.n pitite ferme qu’i ténot d’sin père.</p><p><lb/>"Bubure" ou
+                Beubeure » ainsi qu’in dit in pays d’Artois. Niché au flanc d’in.n
+                crinconne,<lb/>in pitit villache, traversé par eul route Paris Dunkerque. In.n
+                bielle route pavée, qu’ches<lb/>viux lonmet-tent⁷ cor « l’cauchée rau-yale »,
+                dévnue Nationale 16. In.n route qui n’avot<lb/>pon toudis amner qu’du biau monte⁸.
+                Mais chtot certainmint moins.s pire qué ch’kémin<lb/>d’fer. Sin villache, Aimé i
+                li pinsot souvint. Mais surtout-t de chti du timps qui étot tiot.<lb/>Edvant quech
+                carbon seuche édvénu l’avnir. Edvant qu’in batiche dins ches camps d’blé<lb/>ou
+                d’lin, ches masons d’mineurs, ches corons. Cha avot bin cangé dpis chinquante
+                ans.<lb/>Mais chtot ti miux ? In étot ti miux ? A vire d’ù qu’in n’étot rindu...
+                    y avot d’quo s’poser<lb/>gramin d’questions.</p><p><lb/>l étot pon fort quiet⁹ Aimé.
+                L'fin l’année 1914 n’avot guère z’eu in.n béllé figure.</p><note><lb/>1 A l'luzette :<foreign xml:lang="met-fr"> dans
+                    le lointain-à l’horizon</foreign><lb/>2 Ernu :<foreign xml:lang="met-fr"> orage</foreign><lb/>3 Daraines crinconnes : <foreign xml:lang="met-fr">dernières
+                        collines</foreign><lb/>4 Sronguer les sangs: <foreign xml:lang="met-fr">s’inquiéter.</foreign><lb/>5 Nigdoules : <foreign xml:lang="met-fr">nigauds</foreign><lb/>6
+                    Cinsier : <foreign xml:lang="met-fr">fermier</foreign><lb/>7 tonmer : <foreign xml:lang="met-fr">nommer</foreign><lb/>8 Monte ou monne: <foreign xml:lang="met-fr">monde.</foreign><lb/>9 Quiet :
+                    <foreign xml:lang="met-fr">tranquille</foreign></note><fw type="numbering">1</fw><pb
+                    n="Picard_Concours_2020_32_p2.png"/><p><lb/>La guerre étot lo. Et i savot bin, li,
+                homme natif éd cheull lisière Flandres Artois, indigène<lb/>deul frontière Bas
+                et Haut pays; I savot bin chu qu’cha signifiot: la guerre. Ses taïons¹⁰<lb/>is n’i
+                in avot-tent tint parlé d’eul et d’ches guerres et d’ches lazardes¹¹ qui s’in
+                suivotent.<lb/>Au mos d’a-oût, quand queuch tocsin avot sonné l’mobilisation
+                générale, ches blancs<lb/>bonnets¹²? z’avot-tent brait. Mais ches hommes is
+                z’étotent érmontés, achfarés à zéle.¹³<lb/>In allot, is z’allot-tent, bouffer
+                du Boche. In allot, is z’allot-tent, lu z’arprinde l’Alsace et la<lb/>Lorraine... et
+                bile et vite, in tros cops d’cullière à pot. Aveuc nou fusique Lebel et pis
+                nou<lb/>canon d’75, in étot sedrmint ches pus forts. « A Noë tout séra fini » qui
+                avot dit<lb/>ch’Monsieur l’Maire.</p><p><lb/>I avot fallu rapidmint faire l’a-oût¹⁴,
+                rintrer ches gerbes dins ches granches. Ches finmes<lb/>et ches viux avot-tent fait
+                l’ouvrache. Car ch’villache i s’étot vidié d’ches hommes. Mais<lb/>aussi d’ches
+                bidets et cha, cha n’avot pon été simpe. Pon simpe du toute, éd’vire
+                partir<lb/>ches kvaux: i fallot l’faire pour la Patrie. Et pis chtot pour seulmint
+                quiques mos, à chu<lb/>qu’in dijot partout-t, dins toutes ches gazettes. I n’o
+                quand minme quiqu' z'ins qui<lb/>z’avot-tent brait in veyant partir lu bidet.... lu
+                    compagnon d’ouvrache....</p><p><lb/>Mais d’pis, cha n’avot pon teurné ainsi qui
+                z’avot-tent dit ch' Monsieur le Maire,<lb/>Monsieur l’curé et ches
+                        gazettes.</p><p><lb/>Ches Boches i n’avot-tent pon fait ainsin que ch’l’Etat Major
+                français i avot prévu. Is<lb/>r’étot-tent passés par él Belgique, et maugré
+                que l’ro d’ches Beiches, Albert 1er i avot<lb/>fait inonder sin pays, ches
+                Prussiens, is z' avot-tent filé drot vers Paris. Eul plan Schlieffen,<lb/>eul
+                blitzkrieg qui z’avot-tent dit dins « l’illustration » et l’Pitit Journal. Ureusmint
+                i avot<lb/>z’eu ches taxis parisiens pou éz’arrêter, ches Boches, du côté d’la
+                Marne. Pis ches Inglais<lb/>is z’étotent arrivés. Après i avot z’eu la course à
+                la mer. Et la guerre s’étot interrée.<lb/>Chétot la guerre des tranchées.
+                L’Front, allot éd la Mer du Nord à la Suisse, passant à<lb/>in.n vingtaine éd
+                kilométes au Nord-Nord Est éd Bubure, du côté deul Gohelle éd ches<lb/>puits
+                d’mine éd Lens, et au Nord éd Betheune du coté d’el Bassée, déch canal d’Aire
+                et<lb/>deul plaine éd la Lys, ch’Bas Pays.</p><p><lb/>Aimé qui savot lire et écrire, i
+                    avot suivi tout cha dins ch’jornal.</p><p><lb/>Aimé i avot fait sin temps, chinq ans, d’84
+                        à 89, à Reims dins l’artillerie, comme méneul¹⁵<note><lb/>10 Taïons : <foreign xml:lang="met-fr">grands
+                            pères-ancêtres</foreign><lb/>11 Lazardes : <foreign xml:lang="met-fr">misères</foreign><lb/>12 Blancs bonnets : <foreign xml:lang="met-fr">les femmes à
+                                cause de leur coiffe</foreign><lb/>13 Achfaré à zèle : <foreign xml:lang="met-fr">excité</foreign><lb/>14 Faire l’août: <foreign xml:lang="met-fr">faire
+                                    la moisson</foreign><lb/>15 Méneu : <foreign xml:lang="met-fr">meneur</foreign></note><fw type="numbering">2</fw><pb facs="Picard_Concours_2020_32_p3.png"
+                /><lb/>d’attelache pour tirer ches canons. Ch’est pour cha qu’in rintrant éd sin
+                congél¹⁶, i avot<lb/>z’eu l’plache éd cocher déch directeur des Mines. In pus Mr
+                l’directeur, sin patron, Mr le<lb/>marquis de Larudie, y avot té capitaine
+                d’artillerie. Adon Mr l’marquis et sin cocher<lb/>discutot-tent grav’mint des
+                événmints. Ch’est pour cha aussi qu’Aimé i n’d' avot pon<lb/>trop cru à in.n
+                victoire rapite. Aveuc Mr l’marquis is z’avét-tent vite comprind qu’cha<lb/>sérot
+                du long. Mais au moins, ch’cop chi, in n’d’avot pon prind in.n rinchée ainsin
+                qu’in<lb/>70. Ches Prussiens is viendrot-tent point fournaker¹⁷ dins l’secteur. In
+                avot bin aperchu<lb/>quiqu’casques à pointe, quiqu’cavaliers Ulhans dins cheull
+                plaine mais cha n’avot pon<lb/>duré.</p><p><lb/>Maugré toute, la guerre al étot lo. Y
+                avot dins ch villache des réfugiés, évnus d’Belgique<lb/>et du Nord, qui
+                contotent ekmmint qu’ches alboches is z’avét-tent tout démoli, asis¹⁸ et<lb/>fait
+                    cor puss pire. In.n horreur à Lille, qui dijot-tent ches pauvers gin's lo!</p><p><lb/>Et
+                pis, i suffijot, après wèpel¹⁹, éd grimper par ch’kémin qui passot à côté
+                deul pitite cinse<lb/>d’Aimé et qui os conduijot dins l’ direction du liu dit
+                ch’molin à panneaux. Et quand in<lb/>arrivot in haut deul crinconne, in aperchuvot
+                        et intindot, suivant l’direction du vint.... la<lb/>guerre !!</p><p><lb/>Ches
+                éclites²⁰fulgurantes treuant la nuit, étot-tent suivis, après in momint,
+                pa<lb/>l’groullemints répilleux²¹ d’ches cannonates. In veyot aussi, ainsin qu’des
+                fux d’artifices,<lb/>ches fusées éclairantes arkerre in courbes lintes et
+                gracieuses parmi ches étoiles éd<lb/>l’horizon. Des fos, par jor, quand qu’Aimé i
+                travaillot dins ses camps, i veyot ches avions<lb/>décoller déch terrain
+                d’aviation déch Mont d’Lozinghem. Ch’étot des aviateurs inglais.<lb/>Aimé i étot
+                            toudi impressioné par ch'l’espectaque lo.</p><p><lb/>Mais la guerre al étot pon si lon...
+                al étot minme dins ch’villache, dzus l’plache, eul plache<lb/>déch Rietz. Bubure
+                ch’étot l’arrière; ainsin qui dijot-tent ches militaires. Adon in avot
+                vu<lb/>arriver des gins bizarres, aveuc éd dreules d’uniformes. Pinsez donc des
+                lndiens. Nan nan<lb/>pas des à pleumes! pon des piaux rouches! Mais des lndiens des
+                lndes, qu’certains is<lb/>lonmotent aussi Hindous. Ches hommes lo, incadrés par des
+                                officiers inglais, vénot-tent<lb/>du bout du mon.ne.</p><p><lb/>Aimé in d’avot intindu
+                parlé dches hommes lo. In d’avot vu quiqu’z’ins dzeur des<lb/>zimaches dins ches
+                lifes qui avot lus pindint sin service militaire à Reims. Ouai, i avot<note><lb/>16
+                    Congé: <foreign xml:lang="met-fr">service militaire</foreign><lb/>17 Fournaker : <foreign xml:lang="met-fr">fureter</foreign><lb/>18 Asis : <foreign xml:lang="met-fr">brûlé</foreign><lb/>19
+                    Après wèpe: <foreign xml:lang="met-fr">après les vêpres-le soir</foreign><lb/>20 Eclites : <foreign xml:lang="met-fr">éclairs</foreign><lb/>21
+                    Répilleux: <foreign xml:lang="met-fr">rêche-rageur</foreign></note><fw type="numbering">3</fw><pb facs="Picard_Concours_2020_32_p4.png"/><lb/>tiré
+                ch’mawais liméro! Et comme in d’avot pon les moyins d’és faire rimplacher,
+                ainsin<lb/>qu’ches fius d’ches gros cinsiers, bin i avot fait ses chinq ans. Mais,
+                finalmint, i l’argrettot<lb/>pon.</p><p><lb/>Faut dire, qui l’étot in tiot peu à part,
+                Aimé, comme sin père et sin grand père. A Bubure<lb/>in os arot conté qu’ches
+                Lefebvre is tenot-tent lu particularité d’in taïon qui avot té<lb/>sodart dins
+                l’armée d’l’Impreur Napoléon ler. Minme qu’in dijot que ch’taïon lo, i
+                avot<lb/>waroulé²² aveuc eul Grante Armée dins tout l’Europe. Adon, à ches courts
+                jours, i étot<lb/>invité à ches écriennes²³. Il y contot ses campanes et ses
+                batalles: Marengo, Austerlitz,<lb/>Moscou, cheull Bérézina, et pis Waterloo. In i
+                dmindot d’paler d’l’impreur; alors lo in<lb/>d’avot pour tout l’série²⁴. I s’lonmot
+                Georges Lefebvre. Mais tout ch’villache l’connaichot<lb/>sous sin nom jté²⁵: «
+                Ch’grognard ». Chtot l’père déch grand père à Aimé sin<lb/>ratataïon...Aimé
+                in' d’avot souvint intindu parlé de cht’homme lo. Passe que<lb/>« ch'grognard » qui
+                n’d’avot vu gramin, i n’in savot aussi gramin. Et pis, fait rare à<lb/>cht’époque
+                lo, pour in simpe sodart ou in pitit paysan, i savot lire et écrire. ! avot
+                donc<lb/>tenu à apprinde cha à ses garchons et minme à ses files. Et eusses, is
+                z’avot-tent fait du<lb/>minme pour lus éfants. Eul famille déch « grognard » al
+                avot fait cor pus. Al avot poussé<lb/>à l'création d’in.n école dins ch’villache
+                éd Bubure, et faijant voter des doubes²⁶ par<lb/>ch’consel municipal pour ingager
+                in clerc²⁷. Pon in seu éfant d’eul famille Lefebvre et des<lb/>eutes familes,
+                n’arot fait queuette²⁸ à l’école sous prétes-se qui avot d’l’ouvrache
+                à<lb/>l'cinse. Aimé i savot donc lire et écrire, mais i avot quiqu’cosse éd
+                    pus.</p><p><lb/>Pindint sin congé ²⁹ à Reims, putôt qu’juer à cartes et d’s’inroster³⁰
+                à l’gnole ou au gros<lb/>rouche, au pinard, aveuc ses comarates deul chambrée, i
+                avot passé sin timps à vijiter,<lb/>l' Cathédrale, l’basilique Saint Rémy, et à
+                s’rinseigner dzeur eul porte romaine. Minme<lb/>qu’in cop, alors qui ravisot in.n
+                vitrine éd libraire d’ù qui avot des biaux lifes d’imaches<lb/>arprésintant
+                cheulle Cathédrale, i avot intindu teguer³¹ discrètmint drière sin
+                dos:</p><p><lb/>-"Cela vous intéres-se, Lefe-b-vre" ?</p><note><lb/>22 Warouler:
+                    <foreign xml:lang="met-fr">parcourir-traverser-vadrouiller</foreign><lb/>23 Ecrienne : <foreign xml:lang="met-fr">veillée</foreign><lb/>24 Série :
+                    <foreign xml:lang="met-fr">soirée-veillée</foreign><lb/>25 Nom jté: <foreign xml:lang="met-fr">surnom-sobriquet</foreign><lb/>26 Doubes: <foreign xml:lang="met-fr">sous-argent</foreign><lb/>27
+                    Clerc:<foreign xml:lang="met-fr"> instituteur</foreign><lb/>28 Faire queuétte: <foreign xml:lang="met-fr">manquer l’école</foreign><lb/>29 Congé :<foreign xml:lang="met-fr"> service
+                        militaire</foreign><lb/>30 S’inroster :<foreign xml:lang="met-fr"> se saouler</foreign><lb/>31 Téguer : <foreign xml:lang="met-fr">toussoter</foreign></note><fw type="numbering">4</fw><pb
+                    n="Picard_Concours_2020_32_p5.png"/><p><lb/>Immédiatmint, Aimé i avot arconnu
+                l’accent chantant d’in jonne lieutnant d’artillerie<lb/>d’sin régimint, in
+                provençal.</p><p><lb/>Aimé, avot fait demi tour, rectifié és position et salué deul
+                manière qui fallot. Pis i li<lb/>avot répondu, in berdoullant³², in mollé saisi³³
+                    qu’in lieutnant li adréche la parole dins la<lb/>rue:</p><p><lb/>-« Euh...oui... mon
+                        lieutnant ».</p><p><lb/>-« Vous savez donc lire ? »</p><p><lb/>-« Euh...Oui... mon lieutnant
+                            »</p><p><lb/>-« Tiens Tiens ! Comment se fait il que nous n’en avons pas connaissance au
+                                régiment ?»</p><p><lb/>Aimé, toudis au garde à vous, avot hésité in momint pour
+                réponde. I avot teurné s’lanque<lb/>7 cops dins s’bouque et pis s’étot jechté à
+                                    l’iau. I fallot parler bien français...</p><p><lb/>-« Bin, mon lieutnant, faut pas croire
+                qu’on est forcément bien vu par les autres quand<lb/>on sait lire et écrire...
+                déjà que je n’aime pas beaucoup certaines manières de mes<lb/>camarades... j’aime
+                beaucoup mieux les chevaux, leur compagnie est souvent plus<lb/>agréable que celle
+                des gars de la chambrée...» I s’étot arrêté d’parler. I avot vu
+                dins<lb/>l’argard du Lieutnant beaucoup d’étonnemint et d' curiosité.</p><p><lb/>-« Repos
+                Lefeb-vre! Vous viendrez me voir ce soir à la caserne avant l’extinction
+                des<lb/>feux...»</p><p><lb/>Ch'jonne lieutnant avot salué rapidmint et s’étot élogné,
+                    laichant Aimé in tiot peu<lb/>ébaubi³⁴...</p><p><lb/>Mais, pour ch'l’Aimé Lefebvre, à
+                partir déch soir lo, él vie à l’caserne al avot cangé.<lb/>Ch’lieutnant l’avot
+                        prind Aimé à sin service, comme ordonnance.</p><p><lb/>Lieutenant : Baron Hector de
+                Rapart de Monteclair d’Artaud de Montalban. Second fils<lb/>d’Arnaud Victor Amédée
+                de Rapart de Monteclair d’Artaud de Montalban et de Marie<lb/>Amélie
+                            Géringham.</p><p><lb/>Aimé i savot cha par cœur, et i 'n' d’avot plein s’bouque quand qui
+                parlot d’sin lieutnant.<lb/>Ch’est qu’i n’d’avot pon été, pour Aimé, qu’in simpe
+                officier d’artillerie aux ordres de qui<lb/>i obéichot in timps qu’ordonnance. Mr
+                le Baron De Rapart avot vite et gramin eu querre<lb/>ches qualités d’Aimé. In pus,
+                quand qu’il avot apprind que chti chi étot l’arrière petit fils<lb/>d’un sodart
+                éd Napoléon, des nouvielles portes s’étotent ouvertes à
+                l’ordonnance<lb/>Lefebvre. Aimé avot zeu accés à l’bibliothèque des officiers
+                                dont sin lieutnant<note><lb/>32 Berdoullant: <foreign xml:lang="met-fr">bredouillant</foreign><lb/>33 In mollé saisi :<foreign xml:lang="met-fr"> un peu
+                                    surpris</foreign><lb/>34 Ebaubi : <foreign xml:lang="met-fr">abasourdi</foreign></note><fw type="numbering">5</fw><pb facs="Picard_Concours_2020_32_p6.png"
+                /><lb/>s’occupot. I n’y avot pon qu’des lifes dzeur l’armée ou l’artillerie. I n'
+                d’avot dzeur ches<lb/>bidets, ches attelaches et dzeur ch’l’histoire, in particulier
+                cheul deul ville éd Reims.</p><p><lb/>I n’d’avot aussi dzeur ches Colonies. Ches
+                françaises bin seûr, mais aussi ches inglaisses.<lb/>Ch’est dins ches lifes lo
+                qu’Aimé i avot vu des imaches arprésintant ches régimints<lb/>coloniaux et lus
+                uniformes. Dins ches lifes lo, qui avot découvert ches cavaliers Sikhs ou<lb/>ches
+                sodarts Gurkhas. Et in jour qui ravisot ches imaches d’in life, écrit in Inglais,
+                dzeur<lb/>les Sikhs, Hector de Rapart, ch’lieutnant, que s’mére al étot inglaise,
+                énn’avot traduit<lb/>ches légindes à Aimé. Et comme Aimé i avot té fort
+                    intéressé, ch’lieutnant i avot décidé<lb/>d’li apprinde l’inglais.</p><p><lb/>Ch’est
+                adon que, quand z’Indiens z’étot-tent débarqués dzeur éch Rietz, Aimé z’avot
+                bile<lb/>et vite arconnus. Ch’maire éd Bubure, qui étot in comarate de s’classe, i
+                connaichot<lb/>l’savoir d’Aimé, I étot évnu l’kerre pou li dminder d’faire
+                interprète inteur li, ch’maire et<lb/>in capitaine inglais. Aimé avot z’eu vite
+                fait d’faire comprinde à ch’Capitaine, qui parlot<lb/>aussi in tiot mollé
+                français, equ li, Aimé, i connaichot l’origine éd sin régimint.<lb/>Pis
+                ch’t’officier lo avot vu aussi qu’Aimé i comprindot l’Inglais. Ainsin quand, qu’i o
+                fallu<lb/>loger ses Messieurs les officiers et sous officiers, comme qu’il étot
+                d’usache, dins ches<lb/>fermes éd Bubure et z’alintours, bin, ch’est Aimé qui avot
+                seurvit d’inteurmetteux inteur<lb/>ches habitants et ches officiers Inglais. Cha
+                        s’étot à peu près bin passé.</p><p><lb/>Amon Aimé Lefebve, in avot « hérité » éd
+                tros « logeux »: deux lieutnants, in Inglais et<lb/>in Ecossais et in sous lieutnant
+                hindou. Ches tros lo, i s’étot-tent vite aperchus qui<lb/>z'étot-tent fort bin
+                arkeus³⁵. Comme ch’étot aussi gins fort bin elviés, I z’appréciot-tent<lb/>«
+                l’ordinaire » équ' Mélie Lefebvre, l’finme à Aimé, in.n fameus-s cujinière, lu
+                offrot à<lb/>chaque repas. Et pis i avot ches tros files Lefebvre. Cha mettot du
+                baume au cœur à ches<lb/>officiers lo. In tout bien tout honneur, bin seûr. Mais
+                pour in sodart, eul companie dches<lb/>tros jolies fleurs lo, cha lu étot fort
+                            régalant.</p><p><lb/>I n'd’avot in, dins l’mason qui étot aux anches³⁶, si qu’in peut
+                dire, car chtot in sapré<lb/>diape inne archelle³⁷pon possipe! Chti lo, chtot
+                Hector, éch tit frère; éch culot³⁸ de<lb/>lfamille Lefebvre. Hector, eul bin
+                lonmé, in pitit taur³⁹ éd 10 ans, rapid' comme in lièfe,<lb/>fort comme in bu.
+                Chtot li l’chef éd ches margas⁴⁰ déch Rietz; in puss d’ête eul cocluche<lb/>éd
+                ses sœurs et les deux vux de s’mère. Et os pinsez bin qu’Hector, dit « chtitaur »,
+                i étot<note><lb/>35 Arkeus: <foreign xml:lang="met-fr">retombés</foreign>
+                    <lb/>36 Anches : <foreign xml:lang="met-fr">anges</foreign>
+                    <lb/>37 Archelle: <foreign xml:lang="met-fr">enfant très
+                   turbulent</foreign><lb/>38 Culot : <foreign xml:lang="met-fr">le dernier né</foreign><lb/>39 Taur : <foreign xml:lang="met-fr">taureau</foreign><lb/>40 Margas:
+                    <foreign xml:lang="met-fr">gamin</foreign></note><fw type="numbering">6</fw><pb facs="Picard_Concours_2020_32_p7.png"/><lb/>fort intéressé par ches «
+                indiens ». I étot toudis à lus z’alintours. In pourrot minme dire<lb/>fourré dins
+                lus cotrons. Bé seûr qui z’avotent éd quo intriguer et distraire ches
+                tiots<lb/>d’Bubure. Ches « noirs » ainsi qui dijot-tent ches gins, étot-tent des
+                hommes fort<lb/>bizarres: aveuc lus dreules éd’rhabillures, lus grosses moustaches
+                et lus longs caveux<lb/>dzous lus imposants turbans. Et pis chu qui mingeotent et
+                kmin qui mingeotent. Ainsin lu<lb/>manière éd funker assis in rond aveuc in.n
+                grosse teuchêl⁴¹ qui s’arfilot-tent l’in après<lb/>l’eute. Et adon minme lu
+                manière d’aller au cabinet aveuc in pitit pot rimpli d’iau et in<lb/>pitit baton
+                aveuc in.n loque au bout... et pis minme qui lavot-tent lu tro d’balle
+                après<lb/>avoir kierd⁴². Mémère Fidéline, l’taïonne à « chtitaur », al i avot
+                minme fait armarquer:<lb/>« Té vos min loute⁴³, ches gins lo, « ches noirs », tout
+                l’monte, i les prindot pour des<lb/>sauvaches...Hé bin nan !...! sont pus propes
+                euq nous, i s’lavtent lu cul après avoir été au<lb/>cabinet... ».</p><p><lb/>C'qui avot
+                l'pus ébaubi⁴⁴ ches gins d’Bubure, ch’est l'felté⁴⁵aveuc elquelle ches<lb/>«
+                indiens » is z’avétent apprind à parler in mollé français, infin patois pus
+                précisémint. Et<lb/>pis aussi qui donnét-tent facilmint in cop d’main dins
+                ch’l’ouvrache à l’cinse. Et minme<lb/>que, quand in étot aimape aveuc eusses, et
+                bin is z’ofrét-tent des pitits cadeaux à ches<lb/>éfants et à ches jonnes files
+                d’eul famile d’ù qui logeotent. Z’Hindous is fjot-tent marcher<lb/>l’pitit commerce
+                    éd Bubure...</p><p><lb/>Mais cheusses aveuc qui chtitaur i étot l’pus souvint, chtot des
+                simpes sodarts d’in<lb/>groupe à part, dont ches tintes étot-tent dins l’pature
+                drière eul petite cinse. Cheux lo,<lb/>chtot des espéciaux, qui n’faijot-tent pon
+                        vraimin chonchon⁴⁶ aveuc les eutes.</p><p><lb/>Aimé i avot apprind à chtitaur : «Te vos
+                minloute cheux lo ch’est des Gurkhas qui viint-<lb/>tent du Nèpal, dins ches pus
+                z’hautes montanes du monne, ch’té frai vire d’ù qu’chest<lb/>dseur chl’atlas equ
+                min lieutnant i m’a donné. Arwiète⁴⁷ les bin, ches pitits gaillards lo,<lb/>aveuc
+                lu capiau d’rangers ou lu turban, ch’est des saprés mordreux tignus⁴⁸. Des
+                sins<lb/>pitié aveuc lu long poignard machette, lu khukuri obin kukri, ablouqué⁴⁹
+                à lu chinture<lb/>drière lu dos. In.n arme terripe qui fout la troulle quand
+                qu’té les vos s’in servir. Ches<lb/>pitits bonz’hommes is z’ont toudis l’sourire,
+                            mais in coin. Aveuc eusses, quand lus yux<note><lb/>41 Teuch : <foreign xml:lang="met-fr">pipe</foreign><lb/>42 kier:
+                                <foreign xml:lang="met-fr">déféquer-chier</foreign><lb/>43 loute : <foreign xml:lang="met-fr">petit veau : terme affectueux pour un enfant</foreign><lb/>44
+                                Ebaudi : <foreign xml:lang="met-fr">étonné</foreign><lb/>45 Felté: <foreign xml:lang="met-fr">rapidité</foreign><lb/>46 Faire chonchon: <foreign xml:lang="met-fr">être ami</foreign><lb/>47
+                                Arwiete : <foreign xml:lang="met-fr">regarde-observe</foreign><lb/>48 Mordreux tignus: <foreign xml:lang="met-fr">hargneux</foreign><lb/>49 Ablouqué:
+                                <foreign xml:lang="met-fr">attaché</foreign></note><fw type="numbering">7</fw><pb facs="Picard_Concours_2020_32_p8.png"/><lb/>noirtes kminchent à
+                jechter des éclites, t’os interêt à pon faire tin rinquinquins⁵⁰. Ch’est<lb/>des
+                durtes et des vrais... aveuc eusses pon d’quartier... ches alboches is n’ont in.n
+                troulle<lb/>bleuze ». Chtitaur i z ’avot arwetier, ches pitits bonz’hommes. I avot
+                minme trainer ses<lb/>guêtes⁵¹ à l’breune⁵² du côté d' lu fu d’camp. Mélie, s
+                mère, al s’faijot in sang d’enque⁵³.<lb/>Mais i étot rin arrivé. Ches Gurkhas is
+                z’avotent adopté l’chtiot hardi pache.⁵⁴ Chtitaur, li,<lb/>i les adolisot⁵⁵ches
+                Gurkhas, car quiqu’part i lu z’arsannot. Et ches Gurkhas is z’avot-tent<lb/>kerre
+                Chtitaur. Os m’direz, kmin qui faijot chtiot, passe qu’is n’parlot-tent pon
+                comme<lb/>li...bin nan ! Mais pon bson d’bardelerse⁵⁶, pou d’viser⁵⁷ et s’comprinde,
+                el lingache des<lb/>sines et quiqu’mots inglais cha suffijot. Et is riot-tent
+                gramin. Chtitaur i beuvot du thé,<lb/>mingeot d’eul maguette⁵⁸ cuite au fu d’bos,
+                au tourne broche. Minme equ ch’est aveuc<lb/>eusses, qu’i avot feumé s’première
+                borraine⁵⁹. Lo aussi ches népalais is z’avot-tent bin<lb/>rigolé.</p><p><lb/>Et pis
+                Chtitaur i étot soutenu, dins sin copinache aveuc ches Gurkhas, par es sœur
+                ldalie.<lb/>Al étot minme fort au ptit soin aveuc ech sous lieutnant Hindou.
+                Pourquo? bin chez<lb/>sodarts⁶⁰ népalais faijot-tent partie d’in.n companie éd
+                muletiers- the mule corps-dont<lb/>lu sous lieutnant logeot amon Aimé. I faut chi
+                asavoir qu’éch grand amour d’Idalie, i étot<lb/>parti faire la guerre dins
+                ch’corps expéditionnaire français des Dardanelles. Et i étot chef<lb/>muletier
+                dins in régimint d’artillerie d’montane du coté d’Gallipoli in Turquie. Minme
+                que<lb/>ch’sous lieutnant hindou i avot dit à ldalie qui savot qu’in.n partie d’sin
+                régiment<lb/>d’muletiers Gurkhas i étot aussi là bos sous les ordes d’un grand
+                officier qu’li i<lb/>connaichot: eul capitaine Thomas Edward Lawrence⁶¹. Toudis
+                étant qu’Idalie al avot in.n<lb/>grante adolisation⁶² pour ches muletiers Gurkhas
+                et lu sous lieutnant et cha arringeot<lb/>fort sin tiot frère... bin
+                    seûr.</p><p><lb/>Ches tros filles à Aimé étot-tent pon peu harese⁶³qu’lu père i dvise
+                        inglais et que des<lb/><note>50 Faire sin rinquinquin : <foreign xml:lang="met-fr">la ramener</foreign><lb/>51 Trainer ses
+                            guêtes: <foreign xml:lang="met-fr">trainer ses guêtres-baguenauder-flâner</foreign><lb/>52 A l'breune : <foreign xml:lang="met-fr">le soir</foreign><lb/>53
+                            s'faire in sang d’enque; <foreign xml:lang="met-fr">se faire un sang d’encre, beaucoup de soucis,
+                                d’inquiétude.</foreign><lb/>54 Hardipache : <foreign xml:lang="met-fr">effronté</foreign><lb/><lb/>55 Adoliser: <foreign xml:lang="met-fr">avoir de
+                                    l’affection</foreign><lb/>56 Bardeler:<foreign xml:lang="met-fr"> parler</foreign><lb/>57 Dviser: <foreign xml:lang="met-fr">communiquer</foreign><lb/>58 Maguette:
+                            <foreign xml:lang="met-fr">chèvre</foreign><lb/>59 Borraine : <foreign xml:lang="met-fr">pipe</foreign><lb/>60 Sodart: <foreign xml:lang="met-fr">soldat</foreign><lb/>61 Thomas Edward Lawrence:
+                            <foreign xml:lang="met-fr"> Laurence d’Arabie.</foreign><lb/>62 Adolisation: <foreign xml:lang="met-fr">affection</foreign><lb/>63 Hares:
+                            <foreign xml:lang="met-fr">fières</foreign></note>
+                        <fw type="numbering"><lb/>8</fw><pb facs="Picard_Concours_2020_32_p9.png"/><lb/>officiers logétent à
+                lu mason. Chtitaur étot fort bénache d’avoir ses copains Gurkhas.</p><p><lb/>Ches
+                sodarts, évnus d’si lon, avot-tent pourtint vite été adoptés par ches
+                Burburins.</p><p><lb/>Car cha s’passot fort bin, pour ches estaminets mais aussi pour ches
+                pitits commerces.<lb/>L’pitite épicerie d’mémère Adolphine, qui vindot des
+                boulettes et des chucs⁶⁴ qu’ches<lb/>sodarts is acatot-tent pour ches tiots. Du
+                minme por l’merc’rie d’u qu’Ugénie al étot<lb/>couturière, car i arrivot souvint
+                qu’in officier obin minme in simpe sodart faijot-tent<lb/>l’acquisition d' in joli
+                ruban obin d’in pitit mouchoir in dintelle qu’is z’offretent à ches<lb/>files éd
+                    lus logeux.</p><p><lb/>Antoinette in jor al avot minme archu in.n paire éd pitites
+                pantoufes ainsi qu’des<lb/>babouches par éch sous lieutnant Hindou. In d’ses
+                sodarts Gurkhas les avot fabriquées<lb/>aveuc par audseur del piau d’maguette
+                        blanque brodée d’perles multicolores.</p><p><lb/>pour l’esmelle⁶⁵ i avot été acater du
+                cuir éd loute⁶⁶ amon déch’bouife⁶⁷à côté déch<lb/>l’églisse. Ch’sodart et
+                ch’chavetier s’étot-tent fort bin intindus. Et minme equ souvint in<lb/>les veyot
+                ouvrer insanne pour ravaudere⁶⁸ ches bottes dches officiers, racaucher⁶⁹
+                lus<lb/>selles et pis bé seûr, aller boire in cop amon Fidéline.</p><p><lb/>In des
+                pitits estaminets déch Rietz appartenot, à Grand Mère Fidéline. Chtitaur i
+                ni<lb/>étot souvint fourré. Aveuc ses copains déch vilache, mais aussi ses
+                comarates Gurkhas.<lb/>Mémère Fidéline, al étot veuve, et tnot sin bistrot
+                d’in.n main d’fer. Ches buveux du coin<lb/>l’savot-tent fort bin. Rin n’i faijot
+                peur à Fidéline, minme pon ches Gurkhas et lu kukri. In<lb/>raconte qu’in soir, al
+                avot sorti à cop d’ramon in sous officier Gurkha qui cachot après in<lb/>dses
+                muletiers. D’après m’n’homme lo es sodart avot désobéi et avot déserté.
+                Fidéline al<lb/>savot d’ù qui étot ch’déserteur qui, in pus, ch’étot in bon
+                client et in grand copain à<lb/>chtitaur. Ch' pauver diape lo, avot, la velle au
+                soir, arfusé éd chirer ches bottes déch<lb/>sous-of. Adon pour cha, i dvot ête
+                puni et archuvoir, lindmin matin, 10 cops d’fouet,<lb/>atiqué⁷⁰, in plein miliu
+                d’eul plache, torse nu, dseur in.n reulle éd benniau. ⁷¹ Ch’multier i<lb/>avot
+                réussi à s’écapper, et arjoint ses comarates à ch' campmint drière mon Aimé.
+                Adon,<lb/>Chtitaur qui l’connaichot bin, l’avot imné amon mémère
+                    Fidéline...</p><note><lb/>64 Boulettes et ches chucs: <foreign xml:lang="met-fr">bonbons et friandises</foreign><lb/>65 Esmelle :<foreign xml:lang="met-fr">
+                        semelle</foreign><lb/>66 Loute : <foreign xml:lang="met-fr">petit veau</foreign><lb/>67 Bouif : <foreign xml:lang="met-fr">cordonnier</foreign><lb/>68 Ravauder :
+                        <foreign xml:lang="met-fr">recoudre</foreign><lb/>69 Racaucher : <foreign xml:lang="met-fr">réparer</foreign><lb/>70 Atiqué: <foreign xml:lang="met-fr">attaché</foreign><lb/>71 Benniau :
+                        <foreign xml:lang="met-fr">tombereau</foreign></note>
+                <fw type="numbering">lb/>9</fw><pb facs="Picard_Concours_2020_32_p10.png"/><p><lb/>Mémère Fidéline al
+                n’avot pon brandouiller⁷², d’autant d’pus qu’al arsavot que l’fin
+                fond<lb/>d’l’affaire ch’étot pon in.n histoire ed bottes à chirer mais inne
+                histoire d’amour. Ouai<lb/>ch'gurkha i étot z’amoureux d’el tiote Léodie,
+                l’belotte mékenne⁷³ d’amon Fidéline.<lb/>Léodie al l’avot bin querre aussi sin
+                gurkha... Mais ch’Monsieur l’sous of i avot aussi in<lb/>oeul, et minme puss dzeur
+                Leodie. Adon i n’acceptot pon cheule situation et i étot d’in.n<lb/>jaloustrie
+                d’inragé. Et bin seûr i avot treuvé moyin d’punir éch simpe sodart gurkha.
+                Adon<lb/>Mémère Fidéline al avot muché ch’gurkha dins ch’cafourniau ⁷⁴dins
+                ch'garnier⁷⁵. Ech<lb/>sous officier i z'doutot bin que Chtitaur i étot dins
+                l’affaire... et i avot débarqué amon<lb/>ch'l’estaminet Fidéline. Mn’homme lo i o
+                cmminché à faire du carpin⁷⁶, et minme à<lb/>menacer Fidéline aveuc sin
+                révolver. Eh bin Fidéline al a pris sin ramon et n i a foutu<lb/>dzeur ses
+                z’écalettes⁷⁷ et in bas d’sin dos à ch’rastakouère lo. Pis al l’a r’poursuit
+                jusqu’à<lb/>dins ch’bas déch Rietz... Tous ches beurbeurins en'd’ avot-tent bin
+                ri. Ch'sous officier i<lb/>avot pus jamais armis ses pids amon Fidéline. Et in
+                n’avot jamais arvu ch 'sodart Gurkha,<lb/>ni léodie.</p><p><lb/>Dins ches logeux d’mon
+                Aimé i n’d’avot in à part. Ch’étot ch’lieutnant Ecossais. In vrai,<lb/>ln aveuc
+                sin kilt ! Toudis tiré à 4 épinques. Un grand costaud blond roux barbu,
+                sin<lb/>calot à gland dseur s’tiête, s’vareus-se kaki, sin kilt à tartan aveuc es
+                tite sacoche in cuir<lb/>et crin d’bidet, ses grosses cauchettes blanques et des
+                guètes blanques jamais<lb/>imbernaquées ⁷⁸. Chtitaur qui li étot toudis bédlé,
+                ⁷⁹ es démindot ecmmint qui s’arringeot<lb/>Gregor Mac Gregor pour z’êtes toudis si
+                clean.⁸⁰ Quai i s' lonmot Gregor Mac Gregor. In<lb/>fin aimape garchon, qui beuvot
+                in bon vhiss-sky aveuc ses comarates et pis qui<lb/>s’interessot gramin à Melle
+                Eugénie. I n’i parlot souvint. Chtitaur déclarot in rigolant à<lb/>ses tiots
+                albrans⁸¹ déch Rietz, qu’éch Mac Gregor i « flirtot aveuc es grante sœur
+                Ugénie»<lb/>"ch’étot ch’mot qu' i avot été imployé par éch lieutnant Robson"
+                    Et i sannot qu’Ugénie<lb/>al n’i étot pon insensipe.</p><p><lb/>D’ailleurs in biau après
+                wêpes⁸² in a vu sortir de s’cambe éch lieutnant Mac Gregor. l avot<note><lb/>72
+                    Brandouiller: <foreign xml:lang="met-fr">hésiter</foreign><lb/>73 Mékenne : <foreign xml:lang="met-fr">servante</foreign><lb/>74 Cafourniau :<foreign xml:lang="met-fr"> lieu obscur
+                        mal rangé souvent dans une soupente -cagibi.</foreign><lb/>75 Garnier : <foreign xml:lang="met-fr">grenier</foreign><lb/>76 Faire
+                    du carpin : <foreign xml:lang="met-fr">faire des histoires et du foin.</foreign>
+                    <lb/>77 routre sur ses écalettes :<foreign xml:lang="met-fr">
+                        battre sur les jambes et les fesses</foreign>
+                        <lb/>78 Imbernaquée : <foreign xml:lang="met-fr">tachée de boue</foreign><lb/>79
+                    Bedlé: <foreign xml:lang="met-fr">crotté</foreign><lb/>80 Clean : <foreign xml:lang="met-fr">propre</foreign><lb/>81 Albrans : <foreign xml:lang="met-fr">vauriens</foreign><lb/>82 Après wêpe:<foreign xml:lang="met-fr">
+                        soir</foreign></note><fw type="numbering"><lb/>10</fw><pb facs="Picard_Concours_2020_32_p11.png"/><lb/>mis des gants blancs.
+                Chtitaur i l’avot armaqué tout d’suite. Mac Gregor ainsin qu’a<lb/>s’n’habitude va
+                saluer Aimé, Mélie et lus filles et immarvoyer ⁸³ Chtitaur. Après
+                avoir<lb/>rectifié es position édvant ses comarates officiers, i s’assit à l’tabe
+                aveuc eusses, sort sin<lb/>flasque éd vhiss-sky. Chtitaur in milant les eutes
+                officiers, treuvot qui avot quiqu’causse<lb/>éd pon ordinaire dins l’air. Ches
+                logeux avètent in pitit sourire in coin. Minme equ<lb/>Robson, aveuc in pitit air
+                grignard⁸⁴, roulot inteur l'pouche et l’index d’es main droite in<lb/>coin de s'
+                moustache.</p><p><lb/>Voila Mélie qui apporte ches verres. Mais ches officiers les
+                arfusent et beuvent à la<lb/>régalade in gorgeon à cheull flasque éd Mac Gregor.
+                Eul teurnée terminée, chti chi es<lb/>lièfe, resalue la maisonnée. Infin, à la
+                grante surprisse des Lefebvre, il s’approche<lb/>d’Ugénie, claque des talons,
+                s’ploes⁸⁵ à l’équerre, et li fait le baise main. Puis la saluant<lb/>de la tête
+                in arclaquant des talons i s’arteurne, es dirige vers cheull porte et
+                sort.<lb/>Chtitaur, li, i s’aperchot immédat mint euq Mac Gregor i o laiché ses
+                gants blancs dseur<lb/>eul tabe de l’salle. Bile et vite, il les prind et ceurt
+                après ch’l’Ecossais. Chti chi prind ches<lb/>gants equ Chtitaur li tind. ! pose inn
+                main d’seur esn’éclinche⁸⁶ à chtiot, l’ravisse<lb/>tristemint in hochant es tiête
+                et s’éloine vers le bas déch villache. In arverra pus Mac<lb/>Gregor amon ches
+                    Lefebvres.</p><p><lb/>Ches les eutes officiers qui z ’ont espiqué pourquo... Pour
+                ch'l’officier Mac Gregor, laicher<lb/>ses gants blancs dins l’mason d’in.n
+                demoiselle, chtot li faire es demande in mariache.<lb/>Chtitaur, croyant bin faire,
+                i avot té i ardonner ses gants à Mac Gregor. Chti chi i avot cru<lb/>qu’Ugénie
+                arfusot s’proposition. Aussi, lendmain matin, eul Lieutnant Mac Gregor, i<lb/>étot
+                        parti aveuc in groupe arjoinde sin régimint du côté d’Bétheune.</p><p><lb/>Ugénie al a
+                            brait... et pon qu’al.</p><p><lb/>Et pis....</p><p><lb/>Quiques jors putard, ches Gurkhas, ches
+                Ecossais sont partis pour el front, pour el Bas<lb/>Pays. Et à Bubure in n’a pon vu
+                arvenir gramin. D’zeutes sont évnus, ainsin qu’ches<lb/>Canadiens...! n’in rvint
+                pon gramin non pus. Et quand ches Lefebvre certaines nuits claires<lb/>montotent à
+                ch’molin à panneaux, ches bruits et ches lueurs éd la guerre étot-tent
+                toudis<lb/>là, à l'luzette!</p><p><lb/>ET PIS APRÈST⁸⁷</p><p><lb/>Y o z'eu quiques traches
+                visipes, dins l’histoire déch villache, déch passache éd ches<note><lb/>83 Immarvoyer :<foreign xml:lang="fr">
+                    taquiner</foreign><lb/>84 Grignard : <foreign xml:lang="fr">moqueur</foreign><lb/>85 S’ploe : <foreign xml:lang="fr">se ploie</foreign><lb/>86 Eclinche:
+                    <foreign xml:lang="fr">épaule</foreign><lb/>87 Et pis après : <foreign xml:lang="fr">Epilogue</foreign></note><fw type="numbering"><lb/>11</fw><pb
+                    n="Picard_Concours_2020_32_p12.png"/><lb/>Hindous, dches Ecossais et d’z’eutes.
+                Y o nait deux ou tros nénins⁸⁸, in peu puss bis ou<lb/>roux qu’à l’ordinaire. Bin
+                seûr ches camanettes⁸⁹, ches Marie bonne biêtes et gripettes⁹⁰<lb/>r’avot-tent pu,
+                toute à lu guisse⁹¹ n’in rajouter in.n louche. Et j’em ramintuve⁹² fort
+                bin<lb/>qu’em gramère Dalie parlot, bin des années pus tard, in rentrant du marké
+                d’eul ville<lb/>vojiine, déch l’indien ou déch roux d’Bubure, viux amis d’éfance,
+                pitit maraîcher ou<lb/>vindeu d’burre, d’œufs et d' glaines⁹³</p><p><lb/>In jor, j’arlijos
+                des lifes qui racontot-tent l’histoire dches villes et villaches des
+                alintours.<lb/>Adon j’y o démuché⁹⁴ que, dins l'chimintière éd nou ville, y o
+                deux tompes éd sodarts<lb/>hindoux... inconnus, bin seûr, unknown, ainsin qui
+                    dijtent ches inglais.</p><p><lb/>l’y sus allé vire, à chimintière, in biau matin d’mai.
+                Ch'gardien i étot dins les paraches. Jo<lb/>l'connot in tiot peu. I m’o salué. Et
+                in o in peu babellé⁹⁵ dseur ch'l’histoire éd ches deux<lb/>tompes d’Hindous.
+                Ch’gardien i m’a conté in.n dreule d’affaire. I m’o dit qu’sin père, qui<lb/>avant
+                li, étot fossie⁹⁶ déch chimintière, il avot armarqué qu’tous les ans à l’été,
+                souvint<lb/>fin mai début juin, dseur ches tombes éd ches « indiens », y avot in.n
+                belle rosse jaune<lb/>orangée. Sin garchon, ch'l’actuel gardien, i m’o dit qu’inne
+                année i n’o pus z’eu, des<lb/>rosses. Jé n’sais trop pourquo, j’n’i o dmindé si
+                qui savot in quelle année ? I m’o répondu<lb/>« bin si, qu’jé l’sais...os savez
+                pour tout chu qui est déch chimintière j’in sais in rayon. Os<lb/>m’donnez in nom
+                d’famile ej va os dire d’ù qu’al est l’tompe ! Ouai! j’cros bin que
+                cht’à<lb/>l’eté 78 qui n’y o pu z’eu d’rosses ».</p><p><lb/>Mamie Idalie nous avot
+                    quitté in 1977......</p><p><lb/>Qu’als z'étot-tent fin bielles, ches rosses thé, deul
+                tonnelle du fond déch pitit gardin du<lb/>quate et chinq.⁹⁷</p><note><lb/>88 Nenin:<foreign xml:lang="met-fr">
+                    bébé</foreign><lb/>89 Camanettes : <foreign xml:lang="met-fr">commères</foreign><lb/>90 Marie bonne biête et gripette : <foreign xml:lang="met-fr">femmes
+                        méchantes</foreign><lb/>91 Tout à lu guisse : <foreign xml:lang="met-fr">à volonté avec plaisir</foreign><lb/>92 Ramintuver :
+                    <foreign xml:lang="met-fr">se rappeler-se remémorer</foreign><lb/>93 Glaines : <foreign xml:lang="met-fr">poules</foreign><lb/>94 Démuché:
+                    <foreign xml:lang="met-fr">découvert</foreign><lb/>95 Babeller : <foreign xml:lang="met-fr">bavarder</foreign><lb/>96 Fossier: <foreign xml:lang="met-fr">fossoyeur</foreign><lb/>97 quate et
+                    chinq: <foreign xml:lang="met-fr">un quartier d’un petit village voisin</foreign></note><fw type="numbering"><lb/>12</fw></div>
+        </body>
+    </text>
+</TEI>

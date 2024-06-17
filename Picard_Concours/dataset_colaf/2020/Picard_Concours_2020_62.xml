@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_62</idno>
+                <title type="main"> </title>
+                <title type="collection">Picard Concours</title>
+                <author>Justine, DEVLAMINCK</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> </title>
+                    <author>Justine, DEVLAMINCK</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="95">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_62_p1.png"/>
+                <fw type="numbering"><lb/>N°62</fw>
+                <p><lb/>J’avos à peu près 11 ans, m’sœur aussi, vu qu’in est jumelles. Mi,
+                    j’m’appelle Faustine et m’sœur ché<lb/>Camile.<lb/>In s’arssimpe pon vraimint,
+                    même qu’in est jumelles.<lb/>Mi sus blonte aveuc des longs caveux et j’sus
+                    finékette. Camile, ché l’contraire: elle est brune aveuc<lb/>des caveux courts
+                    et elle s’porte bien.<lb/>A ch'momint là, in habitot dins ch’coron du
+                    quatorsse. In ch' connaichot tertous dins ch'coron.</p>
+                <p><lb/>Chétot l'belle vie, tous chés gins y s’parlotent. Chés femmes elles
+                    dijotent un peu su el dos eud<lb/>tertous, mais chétot pon méquant, chétot
+                    juste pour dire, pour passer sin timps.<lb/>Si fallot donner in cop d’main,
+                    tertous le faijotent. In faijot des rutes fêtes dins ch’coron!lb/>A l' Sainte
+                    Barpe alors là ch’étot pire!<lb/>Chés hommes y faijotent ginsse et quind ils
+                    arvénotent à l’barraque, ch’étot pu el même canchon!<lb/>Chés femmes
+                    bertonnotent in les traitint d’arsoulles!<lb/>In étot fins bénaches, nouzautes
+                    chés tiots, même si des fos fallot s'méfier car dès qu’in faijot<lb/>quèque
+                    cosse, ch’étot cafté à nos parints et des fos in prenot des rutes tatoulles
+                    !</p>
+                <p><lb/>In étot in óème à ch'collèche du villache. In s’amusot gramint.
+                    Ch’étot pon comme asteur.<lb/>In allot à pieds à ch’collèche. Tout du long
+                    d’el voyette, in sonnot à chés portes et in s’sauvot in<lb/>courint. <lb/>Des
+                    fos, in allot à l’marotte dins chés gardins et in mingeot des pommes acites
+                    pleines de limuchons.<lb/>Cha donnot des maux ed vinte, mais in étot
+                    contints.<lb/>Au collèche in obéïchot, y étot pon question que nos parints
+                    sotent convoqués par ech’directeur. In<lb/>devot nettyer l’cour et passer
+                    l’groet dins l’gardin.<lb/>In faijot des leçons eud cosses et in même timps,
+                    in apprenot à cultiver chés légueumes.<lb/>In arvenint d’ech' collèche in
+                    ramassot ch’courrier dins l’bote à lettes et in l’posot su l’tape.<lb/>Ch'étot
+                    toudis ainsi. In s’artournot pon su l’courrier, in s'contintot d’el poser su
+                    l’tape pour chés<lb/>parints.<lb/>Ensuite in archinot des bonnes tartines aveuc
+                    d’el confiture qui guile, des chucs candy et d’el<lb/>limonate
+                    primerosse.<lb/>In avot querre cha, asteur in treufe pu d’el limonate comme dins
+                    l’timps.</p>
+                <p><lb/>Pourtint, je ne peux pon oublier ce jour où in ouvrint l'bote à lettes, y
+                    avot chés prospectus comme<lb/>toudis, mais y avot surtout eune grinte
+                    inveloppe marron.<lb/>In a ravisé quo qu’y étot écrit ed’sus. Chétot marqué
+                    : « Famile Kloocykyk ».<lb/>Ch’étot pon habituel.<lb/>Souvint ch’étot adressé
+                    à ch'père, ou à note mère, mais al' famile ch’étot l’première
+                    fos.<lb/>Camile elle a voulu qu’in l’ouffe, mi j’ai pon voulu, j’avos peur eud
+                    printe eune tatoulle.<lb/>Pis ch’étot pon poli, Camile a arposé
+                    ch’l’inveloppe.<lb/>Malgré tout, j’étos comme em' sœur, j’étos
+                    intriguée.<lb/>In s’démindot quo qui pouvot y avoir eud' dins?!</p>
+                <p><lb/>Ch'étot pon l'collèche, y avot pon l’timpon. Pis ch’étot pon l’momint
+                    d’ech' carnet d'notes.<lb/>Camile a repris ch’l’inveloppe, elle essayot eud vire
+                    à travers avec el contre-jour d’el ferniête, mais<lb/>même in l’artournint
+                    dins tous les sens, in voyot rin.<lb/>In la pesot, soupesot, in a ravisé ech'
+                    cachet d’el poste, cha n’a servi à rin, in trouvot pon d’indices.<lb/>In la
+                    même niflée, des fos qu’y aurot eu in sintimint qu’in connaichot, là non pu
+                    cha n’a rin donné.</p>
+                <p><lb/>Alors elle a arposé ch’l’inveloppe et in a attindu que note mère elle
+                    rinte pour qu’elle l’oufe.<lb/>In s’est mises à faire nos devoirs, enfin
+                    surtout mi, pace que Camile elle a préféré printe sin goûter.<lb/>Je la
+                    millos: elle ravisot un cop s’tartine, un cop ch’l’inveloppe. Elle busillot.
+                    Ch’étot visipe vu<lb/>qu'elle avot eune rite qui s'mettot in plein milieu d’sin
+                    front.</p>
+                <pb facs="Picard_Concours_2020_62_p2.png"/>
+                <p><lb/>« Faustine té cros que ché quo dins ch’l’inveloppe? Si cha s’treufe chés
+                    des billets pour aller au<lb/>cinéma!... Quais à tous les cops ché cha!...
+                    J’ai dit à ch’père que j’auros querre d’y aller!»<lb/>« Bin mi j’pinse plutôt
+                    qu’ché des tickets eud' ducasse, j’ai vu maman qui parlot aveuc chés
+                    forains<lb/>le cop dernier, et elle sait qu’in a quer cha»...<lb/>In a élaboré
+                    tout un tas d’hypothèsses, in aurot fini prix Nobel eud' mathématiques aveuc
+                    ech'<lb/>nompe d’hypothèsses qu’in avot imaginé, si not'mère elle étot pon
+                    rintrée à ch’momint là.</p>
+                <p><lb/>In li a dit « bonjour » in vitesse et in lui a tindu ch’l’inveloppe pour
+                    qu’elle l’oufe.<lb/>In a bien mousé car elle n’a pas voulu ! Fallot qu’in
+                    attinte ech'père!<lb/>Camile tintot d’insister, mais not mère n’chédot
+                    pon.</p>
+                <p><lb/>A l'plache, in a du mette el tape et raviser l'télé dins l’calme. Pindint
+                    ech'timps là, maman préparot<lb/>ch’souper.<lb/>In disot pon « diner » à
+                    l’mason, pour le repas du soir, in disot « souper » et même si j’ai
+                    vieilli<lb/>asteur, j'dis toudis cha.<lb/>In ravisot l’horloche, in trouvot
+                    qu’ech' père y étot vraimint long pour arvénir.<lb/>Alors quind in a intindu
+                    aboyer chés quiens, Framboise et Youki, in a sauté d’ech' fauteul
+                    pour<lb/>courir vire note père.<lb/>Y sortot à peine d’el carrette, qu’in li
+                    démindot d’euvrir ech l’inveloppe!</p>
+                <p><lb/>Y est rintré dins l'barraque, y a posé sin capiau su ech'meupe et y a
+                    imbrassé note mère. In pinsot<lb/>qu’y prénot trop d’timps, même maman étot
+                    al presse qu’y oufe ech’courrier.</p>
+                <p><lb/>In étot tellmint heureusses avec tous chés plans qu’in avot busillés,
+                    qu’in voulot savoir d’où qu’in irot<lb/>s’pourméner, car, pour nouzotes
+                    ch’étot sûr, in allot avoir quèque cosse eud’bien.</p>
+                <p><lb/>Ch'père a pris ch’l’inveloppe, il a lu dins tiète quo qu’y étot écrit, y
+                    a souri et in même timps y étot<lb/>artourné, cha s’voyot.<lb/>Mman li a dit
+                    de lire tout haut, car elle comminchot aussi à se deminder quoi.<lb/>Et il a
+                    comminché s’lecture...</p>
+                <p><lb/>« Je n'savos pon commint vous dire merci à tizote et à tertous de
+                    t'famile, alors j''ai fait eune tiote<lb/>poésie:</p>
+                <lg>
+                    <l><lb/>J' n’étos rin</l>
+                    <l><lb/>un sdf comme les autes</l>
+                    <l><lb/>comme gramint d’autes</l>
+                    <l><lb/>jusqu’à ch’momint précis</l>
+                    <l><lb/>su ch’pavé</l>
+                    <l><lb/>d’où qu't'es arrivé</l>
+                    <l><lb/>nos yux s’étotent noyés</l>
+                    <l><lb/>les uns dins les autes</l>
+                    <l><lb/>té m’as tindu t’main</l>
+                    <l><lb/>té m’as arlevé</l>
+                    <l><lb/>ché à ch’momint là</l>
+                    <l><lb/>qu'tout à comminché</l>
+                    <l><lb/>et qu’t’as cangé m’vie. »</l>
+                </lg>
+                <p><lb/>In étot débalées, in comprenot rin! In attindot eun' belle pécaille et
+                    à l’plache y avot eune histoire<lb/>qu’in n’savot pon l’bout qu’y allot
+                    d’vint!<lb/>In avot l’babelle bloquée!<lb/>Note mère avot compris et comme in
+                    restot bouque ouverte, ech'père nous a raconté de qui vénot<pb
+                        facs="Picard_Concours_2020_62_p3.png"/><lb/>ch'poème. Sin nom à
+                    ch’l’inconnu, ch’étot Adrien.</p>
+                <p><lb/>«Adrien a vingt ans. Y est brun aveuc beaucoup de caveux. Y est pon fort
+                    grand, mais y est pon tiot<lb/>non pu. Y est eud talle normale quoi.<lb/>Quind
+                    j'l’ai rincontré, y étot toudis à ch' fû rouche, el même fû rouche tous
+                    les jours.<lb/>J' el voyos à chaque cop que j’allos à min traval. In a fini
+                    par eus' faire sine à forche deus' vire.<lb/>Eune fos, j’avos du timps d’vint
+                    mi, alors j’me sus arrêté pour y causer.<lb/>A ch' momint là, y m’a raconté
+                    s’vie.</p>
+                <p><lb/>Y étot d'eune famile qui gagnot pon miroulle, mais eune bonne famile. Y
+                    allot à l’école comme tous<lb/>chés jonnes.<lb/>Y étot ni bon, ni brelle, y
+                    fésot ech'qui fallot pour ête dins l’mitant d’el classe.<lb/>Pis y a
+                    comminché à fréquinter des gins qui n’fallot pon, y sa laiché intraîner. Y
+                    a fait queuette et a<lb/>quitté l’école.<lb/>Y a comminché à teurner mal. Y
+                    es dévnu indine.<lb/>Y a barboté à drote et à gauche et du cop, s’famile l’a
+                    mis dehors.<lb/>Y a skatté din des liux qu’in mettrot même pon un quien et y a
+                    fini su ch’pavé.</p>
+                <p><lb/>Y m’a mis larme à l’oeul avec ech' n'histoire. Ch’étot pon des mintiries,
+                    cha s’voyot.<lb/>J'étos trisse eud vire cha.</p>
+                <p><lb/>Alors, quèques timps pu tard, j’y ai déposé des affaires, des loques
+                    propes, des babioles pour li<lb/>s’laver et de quo minger aussi.<lb/>Pis cha a
+                    duré, ch'étot dévnu eune habitute. Tertoutes les semaines, j’m’arrêtos, j’y
+                    donnos d'quo et in<lb/>causot.<lb/>In a appris à s'connaîte et j'voulos
+                    l’aider, alors j'faijos comme ech' pouvos.</p>
+                <p><lb/>Ché quind in est allé querre ech sapin d'Noël aveuc vote mère à mon
+                    Norbert, qu’in a vu qu’y cachot<lb/>quèqu’in pour arringer cheule
+                    pépinière.<lb/>Du cop j’ai dit à Norbert, mi j'connos quèqu’in pour tin
+                    traval et j’ai arméné Adrien.<lb/>In a donné ch’viux biclou qui traînot au
+                    fond d’ech' garache à Adrien pour qu’il puisse aller à sin<lb/>nouviau
+                    traval.<lb/>Comme ch’étot pon un gros fate, Norbert l’a imbauché et asteur, y
+                    a pu personne à ch'fû rouche ».</p>
+                <p><lb/>Si su ch'cop in étot rudmint dépitées, mi pis m’sœur Camile, in
+                    réfléchissint un tiot peu, in étot<lb/>fières eud note père!<lb/>Y avot
+                    vraimint bien agi. Y avot dépassé l’sintimint d’indifférince face à
+                    ch't’homme qu’y étot queut<lb/>si bas.<lb/>Ech'père l’avot aidé à
+                    s’arléver, ch’étot cha l’humanité.<lb/>Ch’étot miux cheule leçon eud vie,
+                    que tout che qu’in avot rêvé, avint que ch'père oufe cheule lette.</p>
+                <p><lb/>Quèques années pu tard, j’ai raconté cheule histoire aux jonnes qui
+                    vénotent dins m’n’association:<lb/>« un boulot, un dodo » qu’j’avos fondée
+                    aveuc eum' homme.<lb/>Cheule tiote poésie avot donné eune direction à
+                    m’vie.<lb/>Elle m’avot fait comprinte que l’indifférince dins eune société,
+                    conduirait directemint cheule société<lb/>dins l’mur.<lb/>Ché bien biau
+                    d’acouter des discours, ché bien biau de dire quo qui faut faire, mais ché
+                    gramint<lb/>miux quind on fait vraimint quèque cosse pour quèqu’in.</p>
+                <p><lb/>Quind té tinds t'main pour ramasser l’Aute, pour pas qui quète incore pu
+                    bas, même quind y crot que<lb/>ché pu possip', alors té déviens ti même un
+                    homme et té peux canger eune vie!</p>
+            </div>
+            <pb facs="Picard_Concours_2020_62_p4.png"/>
+            <pb facs="Picard_Concours_2020_62_p5.png"/>
+            <div type="liminal">
+                <head><lb/>Lexique des mots compliqués:</head>
+                <list>
+                    <item><lb/>-faire ginsse :<foreign xml:lang="met-fr"> faire la fête, boire plus
+                            que de raison</foreign></item>
+                    <item><lb/>-bertonner :<foreign xml:lang="met-fr"> râler, disputer, être en
+                            colère contre quelqu’un</foreign></item>
+                    <item><lb/>-tatoulle :<foreign xml:lang="met-fr"> fessée,
+                        gifle</foreign></item>
+                    <item><lb/>-voyette :<foreign xml:lang="met-fr"> petite rue</foreign></item>
+                    <item><lb/>groet :<foreign xml:lang="met-fr"> râteau, fourche, outil de
+                            jardinage</foreign></item>
+                    <item><lb/>-archiner :<foreign xml:lang="met-fr"> goûter</foreign></item>
+                    <item><lb/>-avoir querre:<foreign xml:lang="met-fr"> aimer,
+                        apprécier</foreign></item>
+                    <item><lb/>-busiller :<foreign xml:lang="met-fr"> réfléchir,
+                        penser</foreign></item>
+                    <item><lb/>-mouser :<foreign xml:lang="met-fr"> râler (pour les enfants
+                            capricieux notamment), faire la tête</foreign></item>
+                    <item><lb/>-pécaille :<foreign xml:lang="met-fr"> une surprise</foreign></item>
+                    <item><lb/>-gagner miroulle:<foreign xml:lang="met-fr"> gagner de
+                            l’argent</foreign></item>
+                    <item><lb/>-brelle :<foreign xml:lang="met-fr"> mauvais, nul</foreign></item>
+                    <item><lb/>-faire queuette:<foreign xml:lang="met-fr"> ne pas aller à l'école,
+                            faire l'école buissonnière</foreign></item>
+                    <item><lb/>-indine:<foreign xml:lang="met-fr"> turbulent,
+                            insupportable</foreign></item>
+                    <item><lb/>-biclou :<foreign xml:lang="met-fr"> vélo</foreign></item>
+                    <item><lb/>-fate:<foreign xml:lang="met-fr"> fainéant</foreign></item>
+                    <item><lb/>-querre (être) :<foreign xml:lang="met-fr"> tomber </foreign>-« y
+                        est queut » :<foreign xml:lang="met-fr"> il est tombé</foreign></item>
+                    <item><lb/>-jonne:<foreign xml:lang="met-fr"> jeune, enfant ou
+                            adolescent</foreign></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

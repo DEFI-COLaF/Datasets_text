@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_08</idno>
+                <title type="main"> Inne épèe d'Damoclèche</title>
+                <title type="collection">Picard Concours</title>
+                <author>Danielle, FOUNÉ</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Inne épèe d'Damoclèche</title>
+                    <author>Danielle, FOUNÉ</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="100">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_8_p1.png"/><fw type="numbering"><lb/>N°8</fw> <fw type="numbering"><lb/>1</fw> <ab><lb/>« PRIX SPECIAL »</ab> <head><lb/>Inne
+                épèe d' Damoclèche</head> <p><lb/>A ch't'heure feut s' déméfier d’toute. Y o gran-meint
+                d'coses qui n’sont mie boin-ne<lb/>por chés geins, chés bétals, chés
+                plantations, chés rivières, la mér pis l’air qu’o<lb/>respire. O n'est point
+                traintchille au jor d’aujord’hui pach'qué t’os bieu péter l’santè<lb/>qu’tu
+                ristcheroais meinme de l’perde à coeuse de t'n’intourage.</p> <p><lb/>Cminchons per d’viser
+                de l’ming'rie. Quand qu’os z' allons acater dains chés super<lb/>martchés
+                (d’ailleurs os n’avons p’us l' coésichure d’acater eut' part, des
+                tchotes<lb/>boutiques vein o quasimeint p’us). I feuroait qu’o s' pronm’ne aveuc
+                in-ne loupe<lb/>dains s’man con-me Sherlock Holmes, éch fameux ferfouilleux
+                d’véritè. Bé ! à ti, feut<lb/>bien lire chés étitchettes édsus chés patchets
+                édvant d’zés preinde. El chartutrie:<lb/>jambon,lard, seucisse, tout il est
+                eimbreindgè d’nitrite pis d’nitrate qu' ch’est du<lb/>poéson dains l’panche,
+                asseurémeint. O poroait, à forche é d’n’ein matcher avoér éch<lb/>cancer. Chés
+                z' industriels i z’aspliqu’te porquoé qui met'te chés produits lo dains
+                l'<lb/>vian-ne : I péroait qu'cho s’roait por qu’os n' soéyonches point doreux à
+                coeuse d’in-<lb/>ne mawoése bactérie et pis conme chi conme cho, o poroait warder
+                chés patchets<lb/>p’us longu'meint dains sin frigo. A mitan vrai chés diries lo,
+                portant, i n'ditté mie qu'<lb/>ch’est in-ne blous'rie por aflater ch’client.
+                Seul'mint, ch'p’uss grave, i z' obliet'te éd<lb/>dire qu’i z’ont mis du poéson
+                d’dains. Du jambon qui l’est touillè aveuc ech’nitrate, a<lb/>sert à foaire
+                gaingner six moés d’aprétache. A croère qu’i vo’roétt' nous
+                aconduire<lb/>tertous p’uss vite dains nou certcheul.</p> <p><lb/>A ch't'heure o vut tojors
+                r’aller p’us vite que la musique. Ch' mon-ne i dvient mitan<lb/>n’braque. Nos
+                taïons i savoai’te bien foaire i z' apprêtoai te él vian-ne avuc du sé,
+                du<lb/>poéf'e pis d’z’hèrbes z’aromatiques, a suffisoait, pardi ! Preinds z’ein de
+                l’grain-ne,<lb/>Monseingneur Ch’grand veindeux ! Mé o povons lutter conte, mes
+                geins. N’acatez<lb/>p’us chés patchets nitratès, preindez ceusses d’où qu’i yo
+                écrit d’sus « sans nitrate»<lb/>ou bien acatez à ch’boucheu de l’vian-ne fraîque.
+                Bravo à ch’minisse qui voloait<lb/>intérdire ch’pouéson malgré qu' chés z’eutes
+                i n’ont point été d’accord avuc li pis qué<lb/>s’loé al n’o mie été
+                acréditèe. Alorss, i n’o mie capitulè, i s’o coére battu por qu’cho<lb/>fuche
+                écrit d’sus : « sans nitrate ». Simplémint, trachez in molé, ch’est
+                inne<lb/>mérchandise qu’al est rère.</p> <p><lb/>A n’est point toute : chés
+                ponme-é-tére, chés tonmates, éch cèleri, éch' résin ; chés<lb/>poères,
+                chés ponmes, chés pêques, chés fréses, chés z’épinaches (qu’à
+                ch’t’heure<lb/>nou Popeye i s’étran-n’roait aveuc !) tout chés lédginmes pis
+                chés fruits i sont à<lb/>combe berbouillès d' péchtichides pis d'
+                    fondjichides.</p> <p><lb/>Chés fréses i z'y gaingnéte éle bouflette dor pachqué i sont
+                sépt foés eimbreindgèes<lb/>aveuc éch' ch'brin lo et pis jamoés l'mein-me. Avuc
+                in dosache pérél, ch’poéson il est<lb/>bien rintrè d’dains.</p> <pb
+                    n="Picard_Concours_2020_8_p2.png"/><fw type="numbering"><lb/>2</fw> <p><lb/>A n’est mie crouéyabe! O n’o p’us
+                qu’à tchultiver sin gardin, ou bien s’einseuver por<lb/>r’aller vive conme in
+                érmite dains chés z’Hortillonnaches.</p> <p><lb/>Mi, éj sogne mes tchultures ein doucheur
+                avuc de l' tisane éd plantes. Mes frésieux i<lb/>n’ont jamoés yu bsoin d'
+                trait'mint .Qué boin-ne chuch'rie! O n’o mie néccessitè<lb/>d’zés r’laver quand
+                    qu’o n’o l’einvie d' n’ein matcher dains ch’gardin.</p> <p><lb/>Dains l' gazette, éch chonq
+                janvieu deux mille vinte, j’o li qu' chés z’huitres i<lb/>z’étoai tte doreuses, i
+                z’avoai te ahotchè ch' « norovirus » de l' gastro eintérite pis<lb/>tout l'
+                contchylitchulture aveuc. A ch’o passè dains ch'golf'e dé ch' Morbihan
+                pis<lb/>aleintor dé ch’Mont Sant Michel. El jus d' chés cabinets i vo dains chés
+                rivières pis<lb/>chés rivières i vont dains la mér. Ch’est ésiè à comprinde.
+                N’ein vlo chés suites... Mi,<lb/>éj sus in rache, a foait vint'énées qu' o
+                n’édmainde ch'l’achainiss'mint dains nou<lb/>village, qu’o n’o tojors qu’des
+                        pronmèches mé jamoés d’z’actes.</p> <p><lb/>I feut toudis manifester dains chés rues ou
+                signer dés pétissions dains ch'l’intarnète<lb/>por édmainder qu’o foaiche éd
+                sin miux pou l’planète, por éch climat, cont'e éch'<lb/>récoeuf'meint
+                climatique. Ba wate ! chés honmes politiques éd tout chés poéyis,
+                i<lb/>n’acout’té mie, i sont tertous sourdieux : accroère qu’i z’ont du brin dains
+                leu z’yux<lb/>pis du bouso dains leu z’érelles. I z' organise’te in-ne grande
+                dichtchussion por<lb/>ertcheuter chés geins, i s’ réuni'te, i d’vise’te eintré
+                z’eux pis i z’erdvise té coère dains<lb/>chés « COP » peindant qu’nous, o
+                            n’écop’te.</p> <p><lb/>Tout cho sans résultat pisqu’i n’ein défichtche que de l’pissiate
+                éd cot por n’errien<lb/>décidier, n’errien foére. I n’ont qu’in-ne einvie :
+                                chelle éd' gaingner puss' éd sou.</p> <p><lb/>A forche d’esploéter !Tére al vo biétôt
+                ête échuchèe. O vit djo à crédit qu’i n’yo pu's<lb/>des masses éd' provisions
+                d’ dains. Chés savants i z’ont foait granmeint d’cartchuls,<lb/>d’z’études, éd
+                z’analyses. I nous z’ont ameutès éd’pu’s in-ne éternitè. A foait
+                d’pu’s<lb/>quaraint’e z’énées qu’i tirche'te l' sonnette d’alarme à porpos d'
+                chés catastrophes<lb/>qui nous mnache’te. Qué sossot'rie de n’point eincorcher que
+                ch’malhur il est djo lo<lb/>pis qu’on o in-ne saprèe « épée d'Damoclèche » qu’al
+                                    peindoule éd’sus nou tête.</p> <p><lb/>Os z' avons consonmè à l'virgoutte pis os
+                                        continuons coère.</p> <p><lb/>Quoé qu’i feut n’ein pinser d’chés canèrds qu’o martyrise
+                à forche é d' gavage, éd'<lb/>chés pouillets eintassès per millier dains dés
+                bâtimeints trop tchots, e d' chés glin-nes<lb/>coincèes dains dés ti-tchots
+                pondoères, e d' chés mille vaques einfreumèes conme<lb/>dains des camps
+                d’concheintration. A croère qu’o vut qu' chés vaques i z'<lb/>z'erdvienche’te
+                fouillaques ! Je n' comprins mie porquoé qu’chés z’autoritès i<lb/>perméche te
+                                            cho : a n’est mie humain.</p> <p><lb/>A forche éd vive dains d’z énormes villes
+                eintourèes d' béton, d' batimeints, d' super<lb/>machin-chouette, os avons oblier
+                nos rachin-nes, os avons démantibulè l' nature, os<lb/>avons coeupè trop d’z'
+                ab’es sans avoér' bien buser à mort qu’chés z' ab’es i nous<lb/>don-ne te
+                l’ossigène qu’o avons bsoin tertous por vive. Qué tristèsse éd vir chés<pb
+                    n="Picard_Concours_2020_8_p3.png"/> <fw type="numbering"><lb/>3</fw> <lb/>foérets qui brûle te à côtè
+                d’l’Australie pis dains l’fin fond d' l’Amazonie qu’ch’est<lb/>erconnu por ête ch'
+                peumon de lTére, qu' chés malhureux z’indiens i n’ont pu’s rein,<lb/>qu’i brai’te
+                in n’erbéyant ch' bétal, chés z’ab’es pis chés plantes cangès
+                ein<lb/>cheind’es. Quoé qu’i feut n’ein peinser quand qu’o découve que ch'
+                carnache lo il<lb/>éroét étè arringè por édier chés tchultures pis
+                ch’traffic. I péroait qu’à ch’t’heure, o<lb/>voét dés lèrmes dains chés ziux
+                d’ chés z’indiens picards, ceusses e d’chés brongnes<lb/>estchulptèes dains des
+                pout’es éd bos, rue dés Majots à Anmiens pis qu’à Grand-<lb/>Villèr chés geins
+                i peins te à chés z’australiens infeumès avuc in pinchon dains
+                leu<lb/>tchoeur.</p> <p><lb/>Dains l' Neuvelle Zélande qu’al est plachèe à deux mille
+                tchilomètes éd l’Australie,<lb/>chés glachiers i z’ont r'chu de l'cheind’e qu’al
+                est v’nue per chés airs. Apreu, chés<lb/>neuaches éd feumèe i sont meinme allès
+                à douze mille tchilomètes éd ' lo jusque<lb/>dains l’Argeintine pis
+                    l'Chili.</p> <p><lb/>Quoé qu’o foaiche, a nou r'tchairo tojors su nou nez in jor ou in
+                        eut'e.</p> <p><lb/>Ch'gouvernement d’l’Australie, il o permis ein 2019 qu’o chuche éch
+                carbon dains<lb/>Ch' Queensland. Là-bos yo l' p’us grande mine e d' carbon de ch'
+                mon-ne. O poro<lb/>ésploéter soésante millions d' tonnes per énées, cho fro
+                chint vinte sept millions éd<lb/>Co2 éd puss dains chés z’airs. Cho poro durer
+                soésante énées. Nou vlo grainmeint<lb/>einratchès. Vo t-i coère l’éspouér
+                éd' nous dessatcher de ch’treu, o n' put mie<lb/>s’battte contre dés grands
+                            géants ?</p> <p><lb/>Chés voéyaches avuc chés z' aréoplan-nes sont ceusses qui foai te
+                ed pu’ss éd mau<lb/>dains chés z’airs. J’o rmértchè dés chiffes qui don-néte
+                él frousse. Jornellemint quate<lb/>vint mille aréoplan-nes i vole’te à l’eintour
+                de l’Tére. A foait in atérissage pis in<lb/>évolage chaqu' esconde. O put
+                s’foaire du mouron pachqu' à l’av nir éch' traffic lo i<lb/>n’vo point raptchotir.
+                Cha fro granmeint d’Co2 dains nout’atmosphère. Ch’est ti<lb/>honteux que
+                ch’kérotzène i n' fuche mie taxè por arringer l' sistème ! (por
+                chés<lb/>tankers ch’est idém au crésson.)</p> <p><lb/>A coeuse que ch' climat i s'
+                détratche yo d’z'inondations. Per ichi ,i tchait de l'pleuve<lb/>à gronnée. Per
+                conte, i foait trop séque per lo qu’éche baromète il affiche é
+                d’puss'<lb/>quarante chonq dégreus à l' boinne sézon (os z’avons vétchu cho
+                dains l’Europe avuc<lb/>chés canitchules ). Nou Tére al perd ses pédales : «
+                j’n’ein sus ronde » qu’al dit. Al<lb/>étouffe, al est conme in-ne marmite qu’al
+                    bout.</p> <p><lb/>Cho n’est dio pus respirabe por chés z’habitants dains l’Inde à Niou
+                Déli. Yo tchéqu's-<lb/>ins, d' zasteux qu’i n’ein proufite, i z’ont invintionnès
+                éd' pus séptéme 2019 dés<lb/>sortes éd caboulots d’où qu’chés cabartieux i
+                z’y veinde’te d’ l’ossygène aromatisèe.<lb/>si t'ein preind in-ne boufée
+                peindaint tchinze minutes cho coûte sept dollars dains t'<lb/>bourse.</p> <pb
+                    n="Picard_Concours_2020_8_p4.png"/><fw type="numbering"><lb/>4</fw> <p><lb/>Dains ch' pôle Nord, chés
+                glaches i fond’te pis chés orss blanc i sont perdus abindon-<lb/>nès su l'
+                baintchise. Ed chés malhur lo, yo tojors des geins qui n’ein proufi te
+                coère.<lb/>Chés compéres i veu’tté foaire d’z’affaires, d’saiquoé pisteintin-ne
+                avuc chés<lb/>glaches. I z’invoé'te dés batieux éspécials sur la mér dains l'
+                Groënland. Chés mat lots<lb/>i n' pêque té mie dés pichons, i canarde'te chés
+                icebergs por déglindger chés glaches.<lb/>I z’impor'te des gros morcieux qui
+                foai'té fonde pis i z' erpreinne te l’ieu por él mette<lb/>dains dés boutelles
+                éd' luxe. Apreu i z’és vinde te intar douze et tchinze euros
+                ch’lit’e.<lb/>Asseûrémeint, ch’est d’l’ieu qu’al est pûre, in trésor éd' pus
+                mille énées d’ages. Mé<lb/>chol ieu a n’veut mie rien, al n’o point in pouce éd
+                sé minéraux d’dains. Ch’est in-ne<lb/>broque, bé mes ziux ! Ch’est de l' bibine
+                por chés milliardaires. Portant, mi, éj' n’o<lb/>qu’à tréceuper l' coeuchie por
+                boère à l' fontaine éd l’ieu qu’al est chint foés d’puss<lb/>boin-ne. Pis vlan !
+                        v'lo coére in molé d’ pollution por errien.</p> <p><lb/>Os z’avons in fameux z’héritage
+                avuc tout ch' plachtique : in nouvieux continint qu’il<lb/>erprésinte sept foés
+                chol France. Feuroait vite ertchicler tout cho ! Garanti, quand<lb/>qu’o minge chés
+                pichons, qu’o matche pour seur du plastique qu’chés pichons i z’ont<lb/>djo
+                            einvalè.</p> <p><lb/>Bé lo ch’est toute, ch’est l' boutchet, cho n'o point assufi d'
+                berdeindrouillè l' planète<lb/>, os z’avons einfnouillè ch' l’intourage espacial
+                avuc toute sorte e d’débris d’fusées pis<lb/>d’vius ries d' satellites. Feut dés
+                téléscopes por z’és vir chés six mille troés chint<lb/>tonnes éd morcieux qu’i
+                torn te pis qu’i r’torn’te édsus nou tête. Ch’est assufisant !<lb/>che nn-est
+                d’assez ch' progrès, vlo l' momeint d’mètte des freins pis d'
+                nettouéyer<lb/>toute.</p> <p><lb/>Je m'berlure, éj reuve, éj foait in queuch'mar ! Chés
+                diries lo, a n’est mie dés<lb/>cacouilles. Ej pus vous rasiser dains ch' blanc des
+                                ziux, je n' mins point, j’o vérifè<lb/>toute.</p> <p><lb/>Lafleur feuroait qu' tu dresses
+                tout chés profiteux, mé yein o tell’mint min pauv'<lb/>gaillard qu' tu sroais vite
+                ércran. J’o du mau à m' panche pis min tchoeur i saingne éd<lb/>vir tout
+                                    cho.</p> <p><lb/>A pérpos de ch' l’einviron-meint qu’o maltrète, o porouait n’ein dire pis
+                n’ein r’dire<lb/>coére, o porouait n’ein foaire dés lives. Quoé qui feuroait
+                foaire por qu’à la fin<lb/>ch'martyr i cesse edvant qu’i n’fuche éd trop
+                                        tard.</p> <p><lb/>S'lon l' NASA por nos seuver, yo qu’in-ne solution : raptchotir nou
+                consommation per<lb/>habitant por ersoulager l’planète, foaire s’lon ch' qu’os
+                z’avons d’quoé, s’lon qu’os<lb/>avons les moyeins su l’Tére. Nou sociétè a
+                n’poro mie avaincher sains treuver in<lb/>étchilib'e perzurèe. Os s’rons t-i assez
+                                            courageux por canger nos mangnes éd vif'e ?</p> <p><lb/>Feuroait p’uss éd justice, in-ne
+                vraie démocratie, feuroait p’us jamoais d' dgére, p’us<lb/>d' érligion, p’us
+                d’égocheintrisme por é n’p’us s’érbéver l’boutinette mé pinser à
+                chés<lb/>z'eutes, feudroait in-ne vraie égalitè, p’uss' é d’partache por
+                                                tertous. A l' fin des fins<pb facs="Picard_Concours_2020_8_p5.png"/><fw type="numbering"><lb/>5</fw> <lb/>, i
+                feudroait granmeint d’Amour. Tout d’in coeup, v'lo qu' j’intinds dains m'
+                cawète<lb/>John Lennon qui cante « J’inmagine ».</p> <p><lb/>Cho urge ach't'heure, o vut du
+                cang mint. D’z'idées, os n’avons à gronnèe. Feut qu’o<lb/>s’donne tertous nou
+                man. Qu’o acoute nou taïons pis l' jon-nèche aconduite per<lb/>tchote Gréta si o
+                vut laissier in av'nir à nos éfants pi à nos tchots z’éfants.<lb/>(Janvieu
+                    2020)</p> </div> <div type="liminal"> <pb facs="Picard_Concours_2020_8_p6.png"/> <head><lb/>Lexique
+                        picard-francais</head> <p><lb/>Abréviations : (a) : adjectif - (adv) : adverbe - (art):
+                article - (c) : composé - (conj) : conjugué -<lb/>(loc): locution - (np) : nom
+                propre -(p) : pronom -(pl) : pluriel - (sf) : substantif féminin - (sm)
+                :<lb/>substantif masculin - (v) : verbe- (abr) : abréviation</p> 
+                        <table cols="2"><row> 
+                            <cell><lb/>acréditèe (a) :<foreign xml:lang="met-fr">acceptée, votée</foreign></cell><cell>eincorcher (conj) :<foreign xml:lang="met-fr"> croire, admettre</foreign></cell></row> 
+                            <row><cell><lb/>ahotchèe (a) : <foreign xml:lang="met-fr">attrapée</foreign></cell><cell>einratchès (a): <foreign xml:lang="met-fr">embourbés,perdus, condamnés</foreign></cell></row>
+                            <row><cell><lb/>Aintartique (a):<foreign xml:lang="met-fr">Antartique</foreign></cell><cell><lb/>erbeyant (v part présent) : <foreign xml:lang="met-fr">regardant</foreign></cell></row>
+                            <row><cell><lb/>aprétache (sm) : <foreign xml:lang="met-fr">préparation</foreign></cell><cell>ercheuter (v) : <foreign xml:lang="met-fr">calmer</foreign></cell></row> 
+                            <row><cell><lb/>asteux (a) <foreign xml:lang="met-fr">astucieux, rusé, malin</foreign></cell><cell>ercran (a) : <foreign xml:lang="met-fr">fatigué, épuisé</foreign></cell></row> 
+                            <row><cell><lb/>Ba wate! (loc):<foreign xml:lang="met-fr"> mais non !</foreign></cell><cell><lb/>erpreinne te (v conj) : <foreign xml:lang="met-fr">tirent, soutirent,<lb/>récupérent</foreign></cell></row> 
+                            <row><cell><lb/>baintchise (sf) : <foreign xml:lang="met-fr">banquise</foreign></cell><cell/></row>
+                            <row><cell><lb/>bé! à ti (loc) : <foreign xml:lang="met-fr">attention ! prends-garde à toi !</foreign></cell><cell><lb/>ésiè (a) <foreign xml:lang="met-fr">facile</foreign></cell></row> 
+                            <row><cell><lb/>berbouillès (a) : <foreign xml:lang="met-fr">barbouillé, recouvert</foreign></cell><cell> <lb/>esploéter (v) : <foreign xml:lang="met-fr"> exploiter</foreign></cell></row>
+                            <row><cell><lb/>berdeindrouiller (v) :  <foreign xml:lang="met-fr">salir</foreign></cell><cell><lb/>étran-n’roait (s’) (v conj) <foreign xml:lang="met-fr">s’étranglerait</foreign></cell></row> 
+                            <row><cell><lb/>berlure (je m’-) (v conj) <foreign xml:lang="met-fr">je me trompe</foreign></cell><cell><lb/>évolage (sm) <foreign xml:lang="met-fr">vol d’avion</foreign></cell></row> 
+                            <row><cell><lb/>blous rie (sf) : <foreign xml:lang="met-fr">tromperie, erreur</foreign></cell><cell>ferfouilleux (sm) <foreign xml:lang="met-fr">celui qui farfouille, celui qui<lb/>recherche</foreign></cell></row> 
+                            <row><cell><lb/>bouflette dor (loc) <foreign xml:lang="met-fr">pompon d’or</foreign></cell><cell/></row>
+                            <row><cell><lb/>boutinette (s’erbéver l’-) (loc): <foreign xml:lang="met-fr">se regarder le<lb/>nombril, ne penser qu’à soi</foreign></cell><cell><lb/>fouillaques (a) <foreign xml:lang="met-fr">folles</foreign><lb/>Grand-Villèr (np) :
+                                <foreign xml:lang="met-fr">Villers-Bretonneux</foreign></cell></row> 
+                            <row><cell><lb/>brai'te (v conj): <foreign xml:lang="met-fr">pleurent</foreign></cell><cell><lb/>gronnèe (à-) :<foreign xml:lang="met-fr"> en grosse quantité</foreign></cell></row>
+                            <row><cell><lb/>braque (mitan d’-) (loc)<foreign xml:lang="met-fr"> à moitié fou</foreign></cell><cell><lb/>Hortillonnaches (np)<foreign xml:lang="met-fr"> Hortillonnages</foreign></cell></row>
+                            <row><cell><lb/>broque bé, mes ziux ! (ch'est in-ne): <foreign xml:lang="met-fr">C'est de la<lb/>poudre aux yeux</foreign></cell><cell>impor'te (v coni) : <foreign xml:lang="met-fr">emportent</foreign><lb/>kérotzène (sm) <foreign xml:lang="met-fr">kérozène</foreign></cell></row> 
+                            <row><cell><lb/>buser à mort (avoér bien-) (loc)<foreign xml:lang="met-fr"> bien réfléchir</foreign></cell><cell>mangnes (sf plur) <foreign xml:lang="met-fr">manières, habitudes</foreign></cell></row>
+                            <row><cell><lb/>cabartieux (sm) :<foreign xml:lang="met-fr">cafetier, débitant de boisson</foreign></cell><cell>mitan n’braque (loc) <foreign xml:lang="met-fr">à moitié fou</foreign></cell></row>
+                            <row><cell><lb/>caboulots (sm) : <foreign xml:lang="met-fr">café, bar</foreign></cell><cell>mouron (s’foaire du-) (loc) <foreign xml:lang="met-fr">se faire du souci</foreign></cell></row>
+                            <row><cell><lb/>cacouilles (sf pl) :<foreign xml:lang="met-fr"> plaisanteries</foreign></cell><cell>NASA (abr) :<foreign xml:lang="met-fr">agence américaine de la recherche<lb/>spatiale</foreign></cell></row> 
+                            <row><cell><lb/>canarde'te (v conj) :<foreign xml:lang="met-fr"> tirent au fusil</foreign></cell><cell/></row>
+                            <row><cell><lb/>cawète (sf) :<foreign xml:lang="met-fr"> tête</foreign></cell><cell><lb/>Niou Déli (np) <foreign xml:lang="met-fr">New Delhi, capitale de l’inde</foreign></cell></row> 
+                            <row><cell><lb/>cheind’es (sf pl)<foreign xml:lang="met-fr"> cendre</foreign></cell><cell><lb/>pêques (sf plur) <foreign xml:lang="met-fr"> pêches (fruit)</foreign></cell></row> 
+                            <row><cell><lb/>chuch’rie (sf) <foreign xml:lang="met-fr"> sucrerie, bonbon,friandise</foreign></cell><cell><lb/>perzurèe (a) :<foreign xml:lang="met-fr">parfait</foreign></cell><cell/></row> 
+                            <row><cell><lb/>combe (à)-(adv) : <foreign xml:lang="met-fr">complétement</foreign></cell><cell>pinchon (sm)<foreign xml:lang="met-fr"> pinçon, pincement</foreign></cell></row>
+                            <row><cell><lb/>contchylitchulture (sf)<foreign xml:lang="met-fr"> conchyliculture, l'élevage <lb/>de coquillages</foreign></cell><cell>pissiate (sf)<foreign xml:lang="met-fr"> urine,pisse</foreign><lb/>pisteintin-ne (e d’saiquoé-)<foreign xml:lang="met-fr"> affaires louches</foreign></cell></row> 
+                            <row><cell><lb/>COP (abr) : <foreign xml:lang="met-fr">conférence qui réunit presque tous<lb/>les pays du monde une fois par an.</foreign></cell><cell>raptchotir (v) :<foreign xml:lang="met-fr">diminuer, rapetisser</foreign><lb/>rasiser (dains ch’blanc des ziux-) (loc) :<foreign xml:lang="met-fr">regarder<lb/>dans le blanc des yeux</foreign></cell></row> 
+                            <row><cell><lb/>Damoclèche (np):<foreign xml:lang="met-fr">  Damoclès</foreign></cell><cell/></row> 
+                            <row><cell><lb/>défichtche (y conj)<foreign xml:lang="met-fr"> en sort, en résulte</foreign></cell><cell>ristcheroais (qu’tu) (v conj) <foreign xml:lang="met-fr">que tu risquerais</foreign></cell></row>
+                            <row><cell><lb/>démantibulè (a) :<foreign xml:lang="met-fr"> détérioré, détruit</foreign></cell><cell>ronde (j’nein sus-) ( loc) <foreign xml:lang="met-fr">je suis fatiguée</foreign></cell></row>
+                            <row><cell><lb/>déglindger (v) : <foreign xml:lang="met-fr">démolir, casser</foreign></cell><cell>rtchairo (v conj) <foreign xml:lang="met-fr">retombera</foreign></cell></row>
+                            <row><cell><lb/>détratche (y conj) <foreign xml:lang="met-fr">détraque</foreign></cell><cell><foreign xml:lang="met-fr">Sherlock Holmes: détective roman-fiction)</foreign></cell></row> 
+                            <row><cell><lb/>doreux (a) : <foreign xml:lang="met-fr">malade</foreign></cell><cell>soéonches(os n’-) (v conj) : <foreign xml:lang="met-fr">soyons</foreign></cell></row> 
+                            <row><cell><lb/>échuchèe (a)<foreign xml:lang="met-fr"> épuisée, vidée</foreign></cell><cell>sourdieux (a)<foreign xml:lang="met-fr"> sourd</foreign></cell></row>
+                            <row><cell><lb/>édier (v) : <foreign xml:lang="met-fr">favoriser</foreign></cell><cell>taïons (sm pl) : <foreign xml:lang="met-fr">anciens,
+ancêtres</foreign></cell></row> 
+                            <row><cell><lb/>einfnouillè (a): <foreign xml:lang="met-fr">encombré, embarrassé</foreign></cell><cell>toudis (adv): <foreign xml:lang="met-fr">toujours</foreign></cell></row>
+                            <row><cell><lb/>égocheintrisme:<foreign xml:lang="met-fr"> égocentrisme</foreign></cell><cell>traffic (sm)<foreign xml:lang="met-fr"> commerce, traffic</foreign></cell></row>
+                            <row><cell><lb/>eimbreindgè (a) :<foreign xml:lang="met-fr">souillé</foreign></cell><cell>virgoutte (à l') (loc): <foreign xml:lang="met-fr">à l’aveuglette</foreign></cell></row>
+                            </table></div>
+        </body>
+    </text>
+</TEI>

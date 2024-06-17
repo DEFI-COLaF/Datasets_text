@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_57</idno>
+                <title type="main"> Té t'ramentus, min fiu?</title>
+                <title type="collection">Picard Concours</title>
+                <author>Claude, BURIDANT</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Té t'ramentus, min fiu?</title>
+                    <author>Claude, BURIDANT</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="99">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="1">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction-poetry">Poésie</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_57_p1.png"/><fw type="numbering"><lb/>N°57</fw>
+                <head><lb/>1<lb/>Té t’ramentus, min
+                fiu ?</head>
+                <div type="part" n="1">
+                    <head><lb/>1. OUVERTURE</head>
+                    <lg>
+                        <l><lb/>Un jour</l><l><lb/>Que j’étais sur la plage</l><l><lb/>Au bord des
+                mers du Nord,</l><l><lb/>Que le vent faisait rage</l><l><lb/>Et que le sable d’or</l><l><lb/>S’incrustait
+                dans mes rides</l><l><lb/>En légers picotis,</l><l><lb/>Naquit en mon coeur vide</l><l><lb/>Le léger
+                friselis</l><l><lb/>Des souvenirs d’antan,</l><l><lb/>Bercés du bruit des vagues,</l><l><lb/>Du souffle
+                des autans</l><l><lb/>Hurlant à toutes gammes.</l><l><lb/>Car ch’timi de naissance</l><l><lb/>Dans la
+                cour maternelle</l><l><lb/>J’ânonnais dès l’enfance</l><l><lb/>De vieilles ritournelles</l><l><lb/>En
+                patois de chez nous.</l><l><lb/>A mes orels ed' gosse</l><l><lb/>Comme ch’étot déjà
+                doux!</l><l><lb/>Ach'teur cha m’rind tout chos'</l><l><lb/>Quand j’intins un viux mot</l><l><lb/>Que
+                j'croyos qu’i étot mort</l><l><lb/>Et que cha m’fait d’l’écho</l><l><lb/>Au pus profond d’min
+                corps.</l><l><lb/>Et dins min coeur tout spresse</l><l><lb/>Tout cha qu’j’avos de pus ker</l><l><lb/>Dins
+                m’n’infance, dins m’jeunesse</l><l><lb/>Comme si ch’étot hier.</l><l><lb/>Te t’ramentus, min
+                fiu?</l><l><lb/>Te t’ramentus? Acoute</l><l><lb/>Acoute et ouv'tes yux,</l><l><lb/>Jvas t'dir goutte à
+                goutte</l><l><lb/>Tout cha qui m’est rev'nu.</l></lg>
+                    </div>
+                <div type="part" n="2">
+                    <head><lb/>JVOUDROS BEN R'DEVNIR TOUT TIOT</head>
+                    <lg>
+                    <l><lb/>Quand in égrène ses souvenirs</l><l><lb/>Ch’est que vraimint y a pus
+                d’avenir.</l><l><lb/>J'voudros tant pus ren connait',</l><l><lb/>Et comm' un éfant qui vient
+                d’naît,</l><l><lb/>Un tiot bébé, un vrai bambin,</l><l><lb/>Et in m’dirot : "Min
+                chérubin,</l><l><lb/>Min tiot pouchin, ah! comm' t’es biau</l><l><lb/>En gilet de laine et en
+                    sariau.<pb facs="Picard_Concours_2020_57_p2.png"/></l><l><lb/>Tas encor' toute l’vie
+                devant ti,</l><l><lb/>Ch’est pont comm' mi : J' sus décati."</l><l><lb/>J' suceros min pouce ou
+                chés tototes,</l><l><lb/>J’aros des tiots pieds, des menottes,</l><l><lb/>Des tiot's orels et des
+                fossettes</l><l><lb/>Qu’in verrot miux in faijant risette.</l><l><lb/>J'aros encor toutes mes
+                bielles bloukes,</l><l><lb/>Jaros toudis m' tutute dins m’bouke.</l><l><lb/>J'mettros mes dogts
+                dins min nez,</l><l><lb/>In jouerot à néné néné,</l><l><lb/>J' fros encor “areu areu",</l><l><lb/>Et
+                in jouerot à coucou beuh.</l><l><lb/>J’aros pas 'cor connu l’école,</l><l><lb/>Tout ch'que
+                j’verros jel' trouveros drôle,</l><l><lb/>Eul' neich' l’hiver, chés fleurs
+                l’été,</l><l><lb/>Eun' mouke qui vole, ed' l’iaue qui ké,</l><l><lb/>J'aros cor peur d’euch'
+                croque mitaine,</l><l><lb/>Des sorcières avec leus mitaines,</l><l><lb/>Jcroros encor' au Père
+                Noel,</l><l><lb/>A chés ués de Pâques, aux clokes dins l'ciel</l><l><lb/>Quand elles ar
+                viennent carillonner</l><l><lb/>Pour fieter l’Chris ressuscité.</l><l><lb/>J'passeros des heures
+                à bafiler</l><l><lb/>In acoutant chés gins paller</l><l><lb/>Sans ren comprind' a chou qui
+                dissent,</l><l><lb/>Des kosses sérieusses ou des bêtisses.</l><l><lb/>Mais j'le rtrouverai quand
+                j’s’rai ben viux,</l><l><lb/>L’temps qu’in m’dijot min tiot fiu,</l><l><lb/>Min tiot pouchin, min
+                tiot narcisse,</l><l><lb/>Quand in m’ara mis à l’hospice,</l><l><lb/>Tout bertonnant et tout
+                plein d’pisse,</l><l><lb/>Qu’jarai pus d’ dints, pus d’ caveux,</l><l><lb/>Et qu’eul débilité
+                précoce</l><l><lb/>A' m' fra redevenir un vrai gosse.</l><l><lb/>Je r' deviendrai un
+                innochint</l><l><lb/>Tout bafilant dins m’bouke sans dints,</l><l><lb/>Mais in pourra lire dins
+                mes yux</l><l><lb/>Euq' j’attinds 'cor petit Jésus</l><l><lb/>Qui m’rechevra au paradis</l><l><lb/>Quand
+                j'm'endormirai pour toudis.</l></lg>
+                <fw type="numbering"><lb/>2</fw>
+                </div><pb facs="Picard_Concours_2020_57_p3.png"
+                />
+                <fw type="numbering"><lb/>3</fw>
+                <head><lb/>3. COMME J'ETOS SACHE</head>
+                <lg>
+                    <l><lb/>Quand j’étos in bas ache,</l><l><lb/>Mon Diu comme
+                j’étos sache.</l><l><lb/>In dirot eun' imache,</l><l><lb/>Dijot m'mère, tout' benache.</l><l><lb/>In
+                allot in visite,</l><l><lb/>A' m' dijot d' faire sisite,</l><l><lb/>Et j’restos su' m'
+                cayelle</l><l><lb/>Aussi drot q’eun' candelle</l><l><lb/>Durant eun' heure eud' long</l><l><lb/>A
+                arwaitier ch’plafond,</l><l><lb/>Tandis qu’chés camanettes</l><l><lb/>Al' buvotent a’l’
+                sucette</l><l><lb/>Quéqu' tasses eud' bon café,</l><l><lb/>Même qu’i étot récaufé.</l><l><lb/>J'
+                dijos pont un mot,</l><l><lb/>J'étos un vrai angelot.</l><l><lb/>Et quand ch’étot min
+                père</l><l><lb/>Qui m’emnot, qu’i étot fier</l><l><lb/>Ed' moutrer sin garchon</l><l><lb/>Sin tiot
+                pouchin, sin tiot mouchon.</l><l><lb/>I' m' dijot : “Mouke tin nez,</l><l><lb/>Dis bonjour à
+                madame",</l><l><lb/>Et mi sans bertonner,</l><l><lb/>y dijos : “Bonjour Madame".</l><l><lb/>J' savos bien
+                m' tenir,</l><l><lb/>Et vraimint fallot vir</l><l><lb/>Tous chés monchiaux d’consels</l><l><lb/>Qui m'
+                dijot dins m’n’orel</l><l><lb/>Quand in allot quéqu’part :</l><l><lb/>"Allons, min tiot
+                canard,</l><l><lb/>Dis bonjour à nononc,</l><l><lb/>Dis bonjour à tatante,</l><l><lb/>T’a nettiyé tes
+                onc's?</l><l><lb/>T'piau al 'est r’luisante.</l><l><lb/>T’es bien débarbouillé?</l><l><lb/>T’as chiré
+                tes sorlers?</l><l><lb/>T’as frotté tes orelles?</l><l><lb/>T'as bien mis tes bertelles?"</l><l><lb/>Et
+                maintenant que j’sus viux</l><l><lb/>Cest ce que jdis à min fiu !!</l></lg></div>
+            <div type="part" n="4">                <pb
+                    facs="Picard_Concours_2020_57_p4.png"/>
+                <fw type="numbering"><lb/>4</fw><head><lb/>4. LE P'TIT JAR' (sortie de
+                l’école, à un ami d’enfance)</head><ab><lb/>C = in dijot le p'tit jar' pour<lb/>fi tiot
+                gardin!</ab>
+                <lg><l><lb/>Te t'souviens du p'tit
+                jar'</l><l><lb/>Quand in sortot d’l’école,</l><l><lb/>Quand y avot d’la bagarre</l><l><lb/>Qu’in
+                s’foutot des targnoles.</l></lg><lg><l><lb/>Pour nous ch’étot eun'fiéte</l><l><lb/>Ed'jouer au
+                    football</l><l><lb/>In prenot nous serviettes</l><l><lb/>Pour in faire des gaioles.</l></lg><lg><l><lb/>Quand ej'
+                rentros chez nous,</l><l><lb/>Mon Diu qu’j’étos crapé,</l><l><lb/>Des couronnes plein les
+                    g’noux,</l><l><lb/>Je m’faijos attraper.</l></lg><lg><l><lb/>Parfos in jouot à mapes</l><l><lb/>En creusant des
+                p’tis k'mins</l><l><lb/>Dins l’tierre fine comme du sape</l><l><lb/>In n’avot plein ses
+                    mains.</l></lg><lg><l><lb/>Y avot des amoureux</l><l><lb/>Dins l’ruelle à côté,</l><l><lb/>I's' mettotent dins
+                        in creux</l><l><lb/>Afin de s’bécotter.</l></lg><lg><l><lb/>In passot tout duchmint</l><l><lb/>Devant leur
+                            silhouette</l><l><lb/>Et au bout deuch' kemin</l><l><lb/>In criot à pleine tiete:</l></lg><lg><l><lb/>"Hou! Hou!
+                les amoureux!"</l><l><lb/>In courant à toutes gampes.</l><l><lb/>In étot pont peureux</l><l><lb/>Mais
+                    in craignot chés trampes.</l></lg><lg><l><lb/>Car i nous poursuivot</l><l><lb/>Ch’l’amoureux in
+                        rache</l><l><lb/>Et s’i nous rattrapot,</l><l><lb/>In avot eun' berlaffe.</l></lg><lg><l><lb/>Un jour euj' suis
+                arvenu</l><l><lb/>Du qu’iétot min p’tit jar:</l><l><lb/>I est devenu tout nu,</l><l><lb/>Ch'est a
+                    chr'eur un vrai square.</l></lg><lg><l><lb/>Je n'n’ai vu, du cangemint;</l><l><lb/>Des pavés, des jus
+                d’gosse,</l><l><lb/>Eud vrais bancs en chimint,</l></lg>
+                <pb facs="Picard_Concours_2020_57_p5.png"/><lg><l><lb/>Et cha m’a fait quette
+                cosse !</l><l><lb/>Variante: J’in sus resté tout chosse !</l></lg>
+                </div>
+            <div type="part" n="5">
+                <head><lb/>5. A pépère et
+                mémère</head>
+                <lg>
+                <l><lb/>A mon mémère j’étos benache</l><l><lb/>Quand j’étos 'cor dins min bas
+                    ache,</l><l><lb/>Un tiot pouchin qu’in calinot</l><l><lb/>Un tiot maflé qu’in dorlotot.</l></lg><lg><l><lb/>I
+                avot toudis des friandisses,</l><l><lb/>Du caramel et du réglisse</l><l><lb/>Et du bon bonbon
+                    tout guilant</l><l><lb/>Qué j's chuçotos in bafilant.</l></lg><lg><l><lb/>A mon pépère j'étos
+                benache</l><l><lb/>Quand j’étos 'cor dins min bas ache,</l><l><lb/>Qui s’asseyot près de
+                    s’vaclette</l><l><lb/>In acoutant ches camanettes.</l></lg><lg><l><lb/>Comme i fumot comme un
+                sapeur</l><l><lb/>Mémère li dijot : qué malheur !</l><l><lb/>Tes vraimint l’fiu deuch'
+                    fumaqueux</l><l><lb/>Tin toubac i't rind tout téqueux.</l></lg><lg><l><lb/>Mais li dins sin coin
+                bertonnot</l><l><lb/>In roulant sin gris dins ses dogts</l><l><lb/>Et in pourléquant
+                    s’cigarette</l><l><lb/>Avant d’craquer eun alumette.</l></lg><lg><l><lb/>Et i allot dins sin
+                gardin</l><l><lb/>Pour dépiauter un biau lapin,</l><l><lb/>Ou pincher ses bielles tomates,</l><l><lb/>Et
+                    fouir au louchet des tiotes rates.</l></lg><lg><l><lb/>J'les ramassos dins chés roiettes,</l><l><lb/>Les
+                insaquos dins cheu’l berouette,</l><l><lb/>Et un peu réus que j’étos,</l><l><lb/>Pépère i'
+                    m’portot sur sin dos,</l></lg><lg><l><lb/>Tout crapet comme un p’tit neg'.</l><l><lb/>In peut crier « Au
+                von vinaig'»</l><l><lb/>Criot mémère, nous ravisant!</l><l><lb/>Chou qu’j’ai compris quand
+                    j’étos grand.</l></lg><lg><l><lb/>Et pis tous chés mots qu’al disot</l><l><lb/>Dins sin patois, que
+                j’comprenos,</l><l><lb/>Que je m’ramentus cor' achtheure,</l><l><lb/>Et qui cantent toudis dins
+                min coeur.</l></lg><fw type="numbering"><lb/>5</fw></div>
+            <div type="part" n="6">
+            <pb facs="Picard_Concours_2020_57_p6.png"/>
+                <head><lb/>6. MIN VIUX
+                PARLACHE</head>
+                <lg><l><lb/>Quand j’étos à l’école, in classe ou à l’récré,</l><l><lb/>Qu' j’allos
+                au patronache, à l’églisse, au caté,</l><l><lb/>Et que j’ parlos ch’timi, dijant des
+                    cafougnettes,</l><l><lb/>Comm' j’intindos dins ch’posse* in acoutant l’vaclette,</l></lg><lg><l><lb/>Min
+                viel instituteur, et avec li ch’curé,</l><l><lb/>M' tirotent par les orell’s, à toudis
+                m’sermonner</l><l><lb/>Pour que j' parle en français et pour qu’enfin
+                    j’arrête</l><l><lb/>D’imiter chés cinsiers ou chés viell’s camanettes.</l></lg><lg><l><lb/>A ch't heure
+                euj' leur diros, que j’sus d’vénu tout viux,</l><l><lb/>Chés mots que j’ pourros dire
+                aussi à min tiot fiu,</l><l><lb/>Que l’patois ch’étot l’langue eud' pépère et
+                    mémère</l></lg><lg><l><lb/>Quand j’étos à l’coyette assis au coin du fu,</l><l><lb/>Et d’pus Mathieu
+                Salé in n’a pas trouvé miux</l><l><lb/>Pour dire et pour canter tout cha qu’in a d’pus
+                    ker.</l></lg><p><lb/>. Variante: à l'fosse</p>
+                </div>
+            <div type="part" n="7">
+                <head> <lb/>7. CH'BAL A
+                    KUBIAK</head>
+            <lg><l><lb/>Te t'souviens d’chés terrils,</l><l><lb/>Quand i avot
+                des mineurs,</l><l><lb/>Que l’ciel i étot tout gris,</l><l><lb/>Mais qu’i avot point
+                    d’chomeurs.</l></lg><lg><l><lb/>Refrain</l><l><lb/>Mon Diu qu’i faijot bon</l><l><lb/>Au pays du carbon.</l></lg><lg><l><lb/>In
+                alot chez Kubiak,</l><l><lb/>Ch'bal tout prés del'fosse;</l><l><lb/>El'musique des
+                    polaks,</l><l><lb/>Al' nous rindot tout chosse.</l></lg><lg><l><lb/>Chés fill’es elles étotent
+                bielles</l><l><lb/>Dins leur ropes à jupon,</l><l><lb/>Elles avotent del'dentelle,</l><l><lb/>Cha nous
+                    rindot fripons.</l></lg><lg><l><lb/>In faijot point d'chichi</l><l><lb/>Quand in dansot avec:</l><l><lb/>"Vous
+                v'nez souvint ichi?</l><l><lb/>L'fond d’lair al est fraike."</l></lg><fw type="numbering"><lb/>6</fw><pb facs="Picard_Concours_2020_57_p7.png"/>
+               <lg><l><lb/>Voilà c'qu’in leur
+                dijot</l><l><lb/>Quand in avot eun' touche,</l><l><lb/>Avec un tiot bécot</l><l><lb/>Pour pas les rind'
+                    farouches.</l></lg><lg><l><lb/>Et quand i’avot l’tango bleu,</l><l><lb/>Not' coeur faijot tic-tac,</l><l><lb/>In
+                        s’dijot : “Pourvu que</l><l><lb/>Euj'resse point in rac."</l></lg><lg><l><lb/>In tiot coup
+                d'déméloir</l><l><lb/>Pour refaire eus'coiffure,</l><l><lb/>Et in tiot coup d’mouchoir</l><l><lb/>Pour
+                    épousseter s’vêture.</l></lg><lg><l><lb/>Cha'y est, vlà qu’in vient m'querre,</l><l><lb/>Mais ch’est pas
+                c'que j’voulos,</l><l><lb/>Elle a l’air d’eune cinsière;</l><l><lb/>Ell' marche à la
+                    Charlot.</l></lg><lg><l><lb/>J'lavos bien r’pérée:</l><l><lb/>Elle faijot tapisserie</l><l><lb/>Avec des
+                        mijaurées</l><l><lb/>D'puis eun' heure et demie.</l></lg><lg><l><lb/>Mais dins cheul lumière noire</l><l><lb/>Ma
+                foijelle est bien bielle</l><l><lb/>A rien près j'pourros croire</l><l><lb/>Qu'chest eun vraie
+                    colombelle.</l></lg><lg><l><lb/>I jouottent des polkas,</l><l><lb/>Cha nous électrisot,</l><l><lb/>Quand in
+                        connochot l’pas,</l><l><lb/>Comme in étot farauds !</l></lg><lg><l><lb/>A l’indrot, à l’inviers</l><l><lb/>In
+                faijot l’tour de pisse,</l><l><lb/>In attindant tout fiers</l><l><lb/>Qu’chés filles elles
+                    applaudissent.</l></lg><lg><l><lb/>A la fin d’chés trois danses</l><l><lb/>In se r’trouvot in
+                        nache,</l><l><lb/>Mais quelle bielle récompense</l><l><lb/>Quand in r’cevot eun' bache.</l></lg><lg><l><lb/>Mais
+                quant chés jones à ch't' heure</l><l><lb/>I' guichent dins leur disco,</l><l><lb/>Cha d’vient
+                eun' vraie fureur,</l><l><lb/>I' n' peuvent plus s’dire un mot !</l></lg><fw type="numbering"><lb/>7</fw><pb
+                    facs="Picard_Concours_2020_57_p8.png"/><lg><l><lb/>I' a telmint d’ décibels,</l><l><lb/>Quant
+                l’musique est à fond,</l><l><lb/>Qu’i metent dins leus orelles</l><l><lb/>Des bouchons in béton
+                    !</l></lg>
+                </div>
+            <div type="part" n="8">
+                <head><lb/>8. MES CAVEUX</head><fw type="numbering"><lb/>8</fw>
+                <lg><l><lb/>Mes caveux, mes caveux!</l>
+                <l><lb/>D'u qui sont, mes caveux!</l><l><lb/>Quand j’avos toutes
+                mes dints</l><l><lb/>J'métos mes dogts d’dins,</l><l><lb/>Du matin jusqu’à l’soir,</l><l><lb/>Avec min
+                déméloir,</l><l><lb/>J’les r’mettos in plache</l><l><lb/>In m’arwettant dins l’glache.</l><l><lb/>J'les
+                portos plaqués,</l><l><lb/>En brosse, à l’embusqué.</l><l><lb/>J’allos au cinéma,</l><l><lb/>Tmettos
+                d’la gomina,</l><l><lb/>Et pour courir les filles</l><l><lb/>D’eul brillantine Forvil.</l><l><lb/>Mon Diu
+                que j’étos fier</l><l><lb/>D’avoir eun vraie crinière.</l><l><lb/>Mais v'là qu’i y a quelques
+                années</l><l><lb/>Iz' ont c'minché à ker</l><l><lb/>Par devant, par derrière.</l><l><lb/>I'
+                kéoiotent, i kéiotent</l><l><lb/>Ch’étot pir' qu’à Gravelotte.</l><l><lb/>J'in r’trouvos dins
+                m’n’assiette</l><l><lb/>Dins ch’lévier, chés tinettes,</l><l><lb/>Dins m’soupe, dins min
+                café.</l><l><lb/>Je n'savos pus m'coiffer,</l><l><lb/>J'les rabattos devant</l><l><lb/>Mais quand i avot
+                du vent</l><l><lb/>J’avos des mèches qui r'biquent</l><l><lb/>Tout comme un porc épic.</l><l><lb/>J'
+                sus d’venu tonsuré</l><l><lb/>Comme si j’étos curé.</l><l><lb/>Pour empêcher qu’i
+                kètent</l><l><lb/>Quo qu’j’ai pu mett' su' m’tiête!</l><l><lb/>D’el tisane de réglisse</l><l><lb/>D’el
+                décoction d’mélisse,</l><l><lb/>Des cataplasse ed'fien</l><l><lb/>Qui faijotent fuir chés
+                kiens,</l><l><lb/>Des feulles eud' saule, du brin d’ojon</l><l><lb/>Que j’portos des semaines ed'
+                long.</l><l><lb/>Ch’étot picher dins eune' gaiole:</l><l><lb/>I' étot fini el' temps des
+                croles.</l></lg><pb facs="Picard_Concours_2020_57_p9.png"/><lg><l><lb/>I a
+                perdu ses bieles blouques</l><l><lb/>M'n aréodrome à moukes.</l><l><lb/>A cht' eur' si fait
+                point biau</l><l><lb/>Faut qu’euj' meche un capiau</l><l><lb/>Ou bien eun' grande
+                casquette</l><l><lb/>Aveuc des oreillettes.</l><l><lb/>Min crâne i est velu</l><l><lb/>Comme les deux
+                joues d’min cul.</l><l><lb/>J'ai pinsé à l’moumoute</l><l><lb/>In vrai poil eud' biloute</l><l><lb/>Qui
+                couv même mes orelles,</l><l><lb/>Mais ch’est pont naturel.</l><l><lb/>J’avos peur qu’al
+                s’envole</l><l><lb/>Si j’i mettos pont d’colle.</l><l><lb/>Quand j' passe devant eun
+                glache,</l><l><lb/>Ch’est vraimint l’trosième âche;</l><l><lb/>Et je m' dis en mi-même</l><l><lb/>Ché
+                quéques vers du poème</l><l><lb/>Par où qu' j’ai cominché</l><l><lb/>Et que vous
+                connaissez:</l><l><lb/>Mes caveux, mes caveux!</l><l><lb/>D'u qui sont mes caveux?</l><l><lb/>L’seul
+                caveu qu’i m’resse,</l><l><lb/>I'faut que j’vous l’confesse,</l><l><lb/>N’allez pont l’dire à l’z
+                otes,</l><l><lb/>I' est su m’langue quand j’zozote.</l></lg>
+                </div>
+            <div type="part" n="9">
+                <head><lb/>9. UN JOUR EUCH'S'RAI TOUT SEU
+                ?</head>
+                <lg><l><lb/>Un jour euch' s’rai tout seu à bertonner l’patois</l><l><lb/>Qu' j’avos appris tout
+                tiot au doux pays d’Artois.</l><l><lb/>Un jour euch’s’rai tout seu à comprind' euch'
+                parlache</l><l><lb/>Que j’intindos partout, chez chés cinsiers d’villache,</l></lg><lg><l><lb/>Et chés
+                mineurs eud'fond d’chés noirs corons lensois,</l><l><lb/>Ou chez les élèf’s maît’s,
+                normalos arrageois</l><l><lb/>Cantant la Riguinguette, venue du fond des aches,</l><l><lb/>D’pus
+                    les nouviaux bardots jusqu’à l’année de stache.</l></lg><lg><l><lb/>Baude Fastoul, Jehan Bodel, et
+                Adam l’Bochu,</l><l><lb/>Quand euch' prinrai congé, in ayant bien vécu,</l><l><lb/>Je
+                    m’ramintuvrai d’vous, chés grands maît's eud' picard,</l></lg><lg><l><lb/>Les ch’timis arrageois,
+                in est tous vos tiots fius,</l><l><lb/>Quand ara disparu eun' génération
+                d’viux,</l><l><lb/>J’espèr' qu’à l’héritach' chés jones i prinront part.</l></lg>
+                <fw type="numbering"><lb/>9</fw></div>
+        </body>
+    </text>
+</TEI>

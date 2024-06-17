@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_45</idno>
+                <title type="main"> L'EDF</title>
+                <title type="collection">Picard Concours</title>
+                <author>Albert, DEBERT</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> L'EDF</title>
+                    <author>Albert, DEBERT</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="90">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="10">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-drama">Drama</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="DSIRE">
+                        <persName>D'siré</persName>
+                        <langKnowledge>
+                            <langKnown tag="met-oil-pic"/>
+                        </langKnowledge>
+                    </person>
+                    <person xml:id="MARYLOU">
+                        <persName>Marylou</persName>
+                        <langKnowledge>
+                            <langKnown tag="met-oil-pic"/>
+                        </langKnowledge>
+                    </person>
+                    <person xml:id="AGENTEDF">
+                        <persName>Agent EDF</persName>
+                        <langKnowledge>
+                            <langKnown tag="met-oil-pic"/>
+                        </langKnowledge>
+                    </person>
+                    <person xml:id="DIRECTEUR">
+                        <persName>Directeur</persName>
+                        <langKnowledge>
+                            <langKnown tag="met-fr"/>
+                        </langKnowledge>
+                    </person>
+                    <person xml:id="PUBLIC"/>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div type="liminal">
+                <pb facs="Picard_Concours_2020_45_p1.png"/>
+                <fw type="numbering"><lb/>N°45</fw>
+                <head><lb/>L’EDF</head>
+                <p xml:lang="met-fr"><lb/><hi rend="italic">Sketch tiré du spectacle: « Les belles
+                        vacances de D’siré et Marylou»<lb/>(D’siré seul sur scène raconte cette
+                        mésaventure d’après-vacances. Il mime tous les personnages)</hi></p>
+            </div>
+            <div type="scene">
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D'siré:</hi></speaker>
+                    <p>— In avot été in vacances dins l’sud-ouest et in avot eu bin du plaisse...
+                        Et pis les meilleures coses<lb/>ayant eun' fin, nous vlà arrivés au
+                        bout... El velle ed rintrer in avot vu à l’télé qu’les routes ed l’artour
+                        all’<lb/>srotent classées rouches Alors el lind’main in a démarré fort
+                        tumpe à tros heures in saquot d’jà su<lb/>l’démarreur. I faijot brun mais
+                        y’avot d’l’orache! El ciel i-étot zébré d’éclites sains arrêts ! Et
+                        zig! Et zag !<lb/>Et zoug! In s’sérot cru dins un viux film ed Zorro! Et
+                        pis d’un caup d’un seul y’a eun' éclite qui nous a<lb/>frôlés et qu’i-a
+                        atterri directemint dins not' boite aux lettes huit-chint kilomètes pus lon
+                        : quatre-vingt dix<lb/>euros, un point un moinsse ! Première surprise à
+                        pein ne rintrés! El deuxième in l’a vu deux mos pus lon!<lb/>J’allos
+                        partir ouvrer, j’avos m’musette su m'n’équenne et pis vlà qu’Marylou all'
+                        m’appelle du fin fond de<lb/>l’salle de bains:</p>
+                </sp>
+                <sp who="#MARYLOU">
+                    <speaker><lb/><hi rend="italic">Marylou:</hi></speaker>
+                    <p> — Viens un caup ichi ti, espèce d’abrandoulle ! Aaaaaah bravo! Pour de
+                        l’belle ouvrache ch’est<lb/>de l’belle ouvrache! Ém' vlà incore un caup
+                        deux mos in r’tard ! Aaaaaaah i-est biau l’roi d’l’arsaquette!</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré</hi></speaker>
+                    <stage xml:lang="met-fr"><hi rend="italic">au public:</hi></stage>
+                    <p>— I faut chi ouvrir eun' parinthèse pour définir el sins du mot
+                        ’Arsaquette’... Veyons...<lb/>veyons vir cha dins l’dico Chti-Français"...
+                        D’siré feuillète un dico imaginaire: Alors vlà: Abache
+                        ét'<lb/>maronne... ch’est pas cha... “Aboule tes doubes'.. non pus...
+                        “Armonte tes bertelles'... pas cha non pus...<lb/>Ah el vlà! J’ai trouvé!
+                        “Arsaquette' ou “Rassaquette' : deux mots pour el dire! Ej lis : «
+                        Méthode<lb/>contraceptive naturelle dite du retrait ! Latin “Coïtus
+                        interruptus'!» l’arferme el parinthèse cha fait courant<lb/>d’air!</p>
+                </sp>
+                <sp who="#MARYLOU">
+                    <speaker><lb/><hi rend="italic">Marylou</hi>:</speaker>
+                    <p> — Ouais! Déjà qu’in a eu six infants, ch’étot pas assez comme cha ? Un
+                        rapré-caup quinze ans<lb/>après! In puc t’as eun' babène touillée
+                        qu’t’in est pas maîte, te vas aller bieffer cha à tous tes
+                        camarates,<lb/>j’intinds déjà ch’habénache « Z’avez vu Marylou ? All' a
+                        racaté !»</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré</hi></speaker>
+                    <p> : — Marylou, j’te l’jure: jé n’dirai rin à personne! Rin! Promis, juré,
+                        raqué !... Et m’vlà d’parti<lb/>ouvrer. J’avos à peine tourné l’cuin de
+                        l’rue qu’in buque à l’uch! Marylou all' va ouvère; ch’étot<lb/>l’imployé
+                        d’l’EDF qui passot pour relver ch’compteur.</p>
+                </sp>
+                <sp who="#AGENTEDF">
+                    <p><lb/>— Bonjour madame, je viens faire le relevé de votre consommation
+                        électrique...</p>
+                </sp>
+                <sp who="#MARYLOU">
+                    <p><lb/>— Bon ben, rintrez.. ch’compteur i-est dins l’colidor...</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D'siré</hi></speaker>
+                    <stage xml:lang="met-fr">
+                        <hi rend="italic">au public:</hi></stage>
+                    <p>— Et là, su sin cal’pin, l’agent d’l’EDF i vot qu’in n’a pas païé
+                        l’dernière facture !</p>
+                </sp>
+                <sp who="#AGENTEDF">
+                    <speaker><lb/><hi rend="italic">L’agent de l’EDF.</hi></speaker>
+                    <p> — Ah-Ah! Je vois que madame est deux mois en r’tard !</p>
+                </sp>
+                <sp who="#MARYLOU">
+                    <speaker><lb/><hi rend="italic">Marylou:</hi></speaker>
+                    <p> — Eccech quoi! Commint qu’vous savez cha vous ? Cha vous argarde ? Quo
+                        qu’cha peut bien<lb/>vous faire ? Foutez-moi l’camp espèce d’agosil! Et
+                        Marylou all’ l’a foutu à l’cour...</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré</hi></speaker>
+                    <stage xml:lang="met-fr"><hi rend="italic"> au public:</hi></stage>
+                    <p> — J’vous dis pas c’que j’ai intindu in rintrant à l’mason! J’m’ai fait
+                        malotééééééé! All'<lb/>m’aurot dévoré ! All' m’a agoni d’tous les
+                        noms, pire qudu pichon pourri !</p>
+                </sp>
+                <sp who="#MARYLOU">
+                    <speaker><lb/><hi rend="italic">Marylou:</hi></speaker>
+                    <p> — Ouais... t’allos rin dire à personne et l’premier yoyo qui dévale ichi
+                        ch’matin i l’savot d’jà!</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré:</hi></speaker>
+                    <p>— Commint cha ? Mi j’ai rin dit à personne! Qui qu’ch’est Marylou?</p>
+                </sp>
+                <sp who="#MARYLOU">
+                    <speaker><lb/><hi rend="italic">Marylou:</hi></speaker>
+                    <p> — Echti qui rélièfe chés compteurs: i-étot d’jà au courant!</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré</hi></speaker>
+                    <stage xml:lang="met-fr"> au public:</stage>
+                    <p> — Ch’est d’circonstance!</p>
+                </sp>
+                <pb facs="Picard_Concours_2020_45_p2.png"/>
+                <sp who="DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré</hi></speaker>
+                    <stage xml:lang="met-fr"><hi rend="italic"> à Marylou:</hi></stage>
+                    <p> — Attinds un caup, éj vas prinde ém n’après-midi et j’vas 'ller vir sin
+                        directeur... </p>
+                    <stage xml:lang="met-fr"><hi rend="italic">(Au<lb/>public en aparté :</hi></stage>
+                    <p> In même temps j’vas in profiter pour aller chucher un canon à mon Zénobie
+                        !)</p>
+                    <p> Et m’vlà<lb/>d’parti au bureau d’l’EDF</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D'siré</hi></speaker>
+                    <stage xml:lang="met-fr"><hi rend="italic">à l’'EDF:</hi></stage>
+                    <p> — Bojour m’sieur d’l'directeur! Qui qu’ch'est ch'graind dépindeu
+                        d’indoulles qui rélièfe<lb/>chés compteurs ? I-a té dire à m’feimme
+                        qu’all' étot deux mos in r’tard, quo qu’cha peut li faire?</p>
+                </sp>
+                <sp who="#DIRECTEUR">
+                    <speaker><lb/><hi rend="italic">Le directeur:</hi></speaker>
+                    <p>— Attendez... attendez... Vous êtes monsieur...?</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D'siré:</hi></speaker>
+                    <p> — Mi ch’est Désiré... Désiré Cauffé..</p>
+                </sp>
+                <sp who="#DIRECTEUR">
+                    <speaker><lb/><hi rend="italic">Le directeur:</hi></speaker>
+                    <p> — Voyons voir... voyons voir Mr Cauffé... Ah oui ! Effectivement! Deux mois
+                        de retard !</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré</hi></speaker>
+                    <stage xml:lang="met-fr"> surpris:</stage>
+                    <p> — Ah... ah bon... ch’est... ch’est d’jà marqué ichi ?</p>
+                </sp>
+                <sp who="#DIRECTEUR">
+                    <speaker><lb/><hi rend="italic">Le directeur:</hi></speaker>
+                    <p> — Eh oui monsieur, ici rien n’se perd!</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D’siré:</hi></speaker>
+                    <p> — Bon ben... euh... quo que j’dos faire ?</p>
+                </sp>
+                <sp who="#DIRECTEUR">
+                    <speaker><lb/><hi rend="italic">Le directeur:</hi></speaker>
+                    <p> — Mais monsieur, c’est bien simple; il faut l’acquitter!</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D'siré :</hi></speaker>
+                    <p> — Hein! La quitter ? Avec six infants ! El septième in route ! Cha ch’est
+                        pas possipe... j’peux<lb/>pas... j’peux pas... j’peux pas... Et... et si
+                        j’la quitte pas ? Quo qui va s’passer ?</p>
+                </sp>
+                <sp who="#DIRECTEUR">
+                    <speaker><lb/><hi rend="italic">Le directeur:</hi></speaker>
+                    <p> — Eh bien monsieur. on va vous l’couper!</p>
+                </sp>
+                <sp who="#DSIRE">
+                    <speaker><lb/><hi rend="italic">D'siré,</hi></speaker>
+                    <stage xml:lang="met-fr"><hi rend="italic"> horrifié, la main devant sa braguette:</hi></stage>
+                    <p> — Quo? In va me l’coper! Aaaah non alors ! In n’peut pas<lb/>faire cha!
+                        Aaaaah non-non-non-non-non! Vous y pinsez pas ?</p>
+                    <stage xml:lang="met-fr"><lb/><hi rend="italic">D'siré réfléchissant:</hi></stage>
+                    <p> — Et commint qu’in va faire après si qu’in me l’cope?</p>
+                </sp>
+                <sp who="#DIRECTEUR">
+                    <speaker><lb/><hi rend="italic">Le directeur:</hi></speaker>
+                    <p> — Eh bien monsieur... vous ferez comme tout le monde: vous vous servirez
+                        d’une bougie !</p>
+                </sp>
+            </div>
+            <div type="liminal">
+                <p><lb/><foreign xml:lang="met-fr">Glossaire:</foreign> Du plaisse: <foreign
+                        xml:lang="met-fr">du plaisir</foreign> Tumpe: <foreign xml:lang="met-fr"
+                        >tôt</foreign> Brun : <foreign xml:lang="met-fr">sombre</foreign> D's
+                    éclites : <foreign xml:lang="met-fr">des éclairs</foreign> M’n’équenne:
+                        <foreign xml:lang="met-fr">mon<lb/>échine, mon dos</foreign> Aboule tes
+                    doubes: <foreign xml:lang="met-fr">donne-moi ton argent</foreign> Abache ét'
+                    maronne: <foreign xml:lang="met-fr">baisse ton pantalon</foreign>
+                    <lb/>Armonte tes hertelles : <foreign xml:lang="met-fr">remonte tes
+                        bretelles</foreign> Un rapré-caup: <foreign xml:lang="met-fr">un
+                        “après-coup' un "retour de flamme'!</foreign> Eun?<lb/>babène touillée
+                    (avoir) : <foreign xml:lang="met-fr">être trop volubile, rapporter</foreign>
+                        Bieffer:<foreign xml:lang="met-fr"> baver</foreign> Ch’babénache: <foreign
+                        xml:lang="met-fr">le papotage</foreign> All’ a<lb/>racaté: <foreign
+                        xml:lang="met-fr">être de nouveau enceinte</foreign> Raquer:<foreign
+                        xml:lang="met-fr"> cracher</foreign> Buquer à l’uch : <foreign
+                        xml:lang="met-fr">frapper à la porte</foreign> L’colidor :<foreign
+                        xml:lang="met-fr"> le couloir</foreign>
+                    <lb/>Un agosil<foreign xml:lang="met-fr"> un imbécile</foreign> S’faire
+                    maloter, agonir: <foreign xml:lang="met-fr">se faire engu... irlander</foreign>
+                    Un yoyo; <foreign xml:lang="met-fr">un idiot</foreign> Un
+                    dépindeu<lb/>d’indoulles <foreign xml:lang="met-fr">un demeuré
+                    </foreign>Désiré Cauffé !! (Sic)</p>
+            </div>
+        </body>
+    </text>
+</TEI>
