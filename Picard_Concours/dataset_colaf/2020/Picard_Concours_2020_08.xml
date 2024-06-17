@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -261,11 +261,11 @@
                                 <foreign xml:lang="met-fr">Villers-Bretonneux</foreign></cell></row> 
                             <row><cell><lb/>brai'te (v conj): <foreign xml:lang="met-fr">pleurent</foreign></cell><cell><lb/>gronnèe (à-) :<foreign xml:lang="met-fr"> en grosse quantité</foreign></cell></row>
                             <row><cell><lb/>braque (mitan d’-) (loc)<foreign xml:lang="met-fr"> à moitié fou</foreign></cell><cell><lb/>Hortillonnaches (np)<foreign xml:lang="met-fr"> Hortillonnages</foreign></cell></row>
-                            <row><cell><lb/>broque bé, mes ziux ! (ch'est in-ne): <foreign xml:lang="met-fr">C'est de la<lb/>poudre aux yeux</foreign></cell><:cell>impor'te (v coni) : <foreign xml:lang="met-fr">emportent</foreign><lb/>kérotzène (sm) <foreign xml:lang="met-fr">kérozène</foreign></:cell></row> 
-                            <row><cell><lb/>buser à mort (avoér bien-) (loc)<foreign xml:lang="met-fr"> bien réfléchir</cell><cell>mangnes (sf plur) <foreign xml:lang="met-fr">manières, habitudes</cell></row>
-                            <row><cell><lb/>cabartieux (sm) :<foreign xml:lang="met-fr">cafetier, débitant de boisson</foreign></cell><cell>mitan n’braque (loc) <foreign xml:lang="met-fr">à moitié fou</cell></row>
+                            <row><cell><lb/>broque bé, mes ziux ! (ch'est in-ne): <foreign xml:lang="met-fr">C'est de la<lb/>poudre aux yeux</foreign></cell><cell>impor'te (v coni) : <foreign xml:lang="met-fr">emportent</foreign><lb/>kérotzène (sm) <foreign xml:lang="met-fr">kérozène</foreign></cell></row> 
+                            <row><cell><lb/>buser à mort (avoér bien-) (loc)<foreign xml:lang="met-fr"> bien réfléchir</foreign></cell><cell>mangnes (sf plur) <foreign xml:lang="met-fr">manières, habitudes</foreign></cell></row>
+                            <row><cell><lb/>cabartieux (sm) :<foreign xml:lang="met-fr">cafetier, débitant de boisson</foreign></cell><cell>mitan n’braque (loc) <foreign xml:lang="met-fr">à moitié fou</foreign></cell></row>
                             <row><cell><lb/>caboulots (sm) : <foreign xml:lang="met-fr">café, bar</foreign></cell><cell>mouron (s’foaire du-) (loc) <foreign xml:lang="met-fr">se faire du souci</foreign></cell></row>
-                            <row><cell><lb/>cacouilles (sf pl) :<foreign xml:lang="met-fr"> plaisanteries</foreign></cell><cell>NASA (abr) :<foreign xml:lang="met-fr">agence américaine de la recherche<lb/>spatiale</foreign></row> 
+                            <row><cell><lb/>cacouilles (sf pl) :<foreign xml:lang="met-fr"> plaisanteries</foreign></cell><cell>NASA (abr) :<foreign xml:lang="met-fr">agence américaine de la recherche<lb/>spatiale</foreign></cell></row> 
                             <row><cell><lb/>canarde'te (v conj) :<foreign xml:lang="met-fr"> tirent au fusil</foreign></cell><cell/></row>
                             <row><cell><lb/>cawète (sf) :<foreign xml:lang="met-fr"> tête</foreign></cell><cell><lb/>Niou Déli (np) <foreign xml:lang="met-fr">New Delhi, capitale de l’inde</foreign></cell></row> 
                             <row><cell><lb/>cheind’es (sf pl)<foreign xml:lang="met-fr"> cendre</foreign></cell><cell><lb/>pêques (sf plur) <foreign xml:lang="met-fr"> pêches (fruit)</foreign></cell></row> 
