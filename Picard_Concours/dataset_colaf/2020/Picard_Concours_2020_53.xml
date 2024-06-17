@@ -1,74 +1,115 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-                <fileDesc>
-                    <titleStmt>
-                        <idno>PIC_CONCOURS__2020_53</idno>
-                        <title type="main"> L'tart' a turots</title>
-                        <title type="collection">Picard Concours</title>
-                        <author>Claudine, SELLIER </author>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="JJANES">
-                                <surname>Janès</surname>
-                                <forename>Juliette</forename>
-                                <idno type="orcid">0000-0002-8971-6173</idno>
-                            </persName>
-                        </respStmt>
-                        <principal>
-                            <persName xml:id="BSAGOT">
-                                <surname>Sagot</surname>
-                                <forename>Benoît</forename>
-                                <idno type="orcid">0000-0001-8957-9503</idno>
-                            </persName>
-                        </principal>
-                        <funder>Inria</funder>
-                    </titleStmt>
-                    <publicationStmt>
-                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
-                            les Langues de France (COLaF)</publisher>
-                        <date when="2024-04-04"/>
-                        <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                        </availability>
-                    </publicationStmt>
-                    <sourceDesc>
-                        <bibl>
-                            <title> L'tart' a turots</title>
-                            <author>Claudine, SELLIER </author>
-                            <pubPlace>Amiens</pubPlace>
-                            <publisher>Agence régionale de la langue Picarde</publisher>
-                            <date when="2020"/>
-                        </bibl>
-                    </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                    <langUsage>
-                        <language ident="met-oil-pic" usage="100">
-                            <idno type="langue">met-oïl-pic</idno>
-                            <idno type="script">latin</idno>
-                            <name>Picard</name>
-                            <date>2020</date>
-                            <location>
-                            <region>Nord</region>
-                            <country>France</country>
-                            </location>
-                        </language>
-                    </langUsage>
-                    <textClass>
-                        <keywords>
-                            <term type="supergenre" rend="fiction">Fiction</term>
-                            <term type="genre" rend="fiction-prose">Prose</term>
-                        </keywords>
-                    </textClass>
-                </profileDesc>
-                <revisionDesc>
-                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
-                </revisionDesc>
-            </teiHeader>
-  <text xml:lang="met-oil-pic">
-    <body>
-      <div><pb facs="Picard_Concours_2020_53_p1.png"/><lb/>Section roman<lb/>N°53<lb/>L'TART' A TUROTS<lb/>Dins mes années d’jonnesse, chatot eine tradition al mason d’mes parints d'cueillir les<lb/>pus bieaux fruits du poirier d' not' gardin, avant l’fin d' l’été. L' pèr' les disposot avec<lb/>précaution sur eine planque prévue à c' t' usach au guernier, pour euss finir ed murir<lb/>tranquill’mint. Ch’est queul' deuxièm' diminch d’octobre y' avot l’ducass qui s’installot<lb/>sull' plach St-Martin et qu’nos poir's allo'nt garnir nos tart's en plus des tart’s au<lb/>chuque.<lb/>Ah les bieaux momints des ducass's ! qu’eune effervescence dins l’mason. In faisot<lb/>l’lessif' des rideaux d’ferniet's, in s’acatot ses sorlers d’hiver pour l’occasion et m’mère<lb/>sortot s’bell' napp' blanqu' qu’elle avot taillée dins un drap usagé. Un gros jour qu’ell'<lb/>app’lot « échelle », courot tout autour et y’a qu’el mont' et baiss' qui savot l'nombr' d'<lb/>heures qui avot éclairé s’nouvrach !<lb/>Mais rev'nons à nos poir's laissées au guernier et qui mûrissotent. Ah l'parfum des fruits<lb/>qui nous arrivot par vague dins not' chambr' ! In étot 3 lascards toujours affamés et un<lb/>soir, m' pus jonne frèr' n’y t’nant pus, alla sins bruit nous querre tros bieaux fruits<lb/>parfumés. Pou s’ débarasser des turots sins qu’in l'zes trouf'nt in les remit sul' planque<lb/>à côté des aut's. Ni vus ni connus, l’manèch' a duré plusieurs semaines. In oubliot l'dat'<lb/>del' ducasse qui approchot. Un samedi, al rentrée d' l’école, eine odeur d’pâtisserie<lb/>châtouille nos narines. Misèr' ! les poires y n' davot presque plus... In commenc' à rougir<lb/>et pis non, not' mèr' souriante comm' d’habitud' nous dit « J' vous ai fait un p’tit<lb/>tourton pour vot' goûter l’zinfants ». Vite, in s’install' al taule et l’mère nous amèn'<lb/>toute fumante eine tart' avec es garnitur' tout' fourséquée pad' zeur. « Eine tart' aux<lb/>turots, ch’est nouvieau mais vous d’vez connaîtr' » qu’elle nous dit.<lb/>Bein vous n' mé croirez p' t’être pas mais in a mingé tout' not' tart' in silenc' avec el'<lb/>rouch' jusqu’à nos orell’s.</div>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_53</idno>
+                <title type="main"> L'tart' a turots</title>
+                <title type="collection">Picard Concours</title>
+                <author>Claudine, SELLIER </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> L'tart' a turots</title>
+                    <author>Claudine, SELLIER </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="99">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="1">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_53_p1.png"/><fw type="runningTitle" xml:lang="met-fr"><lb/>Section roman</fw>
+                <fw type="numbering"><lb/>N°53</fw>
+                <head><lb/>L'TART'
+                A TUROTS</head>
+                <p><lb/>Dins mes années d’jonnesse, chatot eine tradition al mason d’mes
+                parints d'cueillir les<lb/>pus bieaux fruits du poirier d' not' gardin, avant l’fin
+                d' l’été. L' pèr' les disposot avec<lb/>précaution sur eine planque prévue à
+                c' t' usach au guernier, pour euss finir ed murir<lb/>tranquill’mint. Ch’est queul'
+                deuxièm' diminch d’octobre y' avot l’ducass qui s’installot<lb/>sull' plach
+                St-Martin et qu’nos poir's allo'nt garnir nos tart's en plus des tart’s
+                au<lb/>chuque.</p><p><lb/>Ah les bieaux momints des ducass's ! qu’eune effervescence dins
+                l’mason. In faisot<lb/>l’lessif' des rideaux d’ferniet's, in s’acatot ses sorlers
+                d’hiver pour l’occasion et m’mère<lb/>sortot s’bell' napp' blanqu' qu’elle avot
+                taillée dins un drap usagé. Un gros jour qu’ell'<lb/>app’lot « échelle », courot
+                tout autour et y’a qu’el mont' et baiss' qui savot l'nombr' d'<lb/>heures qui avot
+                éclairé s’nouvrach !</p><p><lb/>Mais rev'nons à nos poir's laissées au guernier et qui
+                mûrissotent. Ah l'parfum des fruits<lb/>qui nous arrivot par vague dins not'
+                chambr' ! In étot 3 lascards toujours affamés et un<lb/>soir, m' pus jonne frèr'
+                n’y t’nant pus, alla sins bruit nous querre tros bieaux fruits<lb/>parfumés. Pou s’
+                débarasser des turots sins qu’in l'zes trouf'nt in les remit sul' planque<lb/>à
+                côté des aut's. Ni vus ni connus, l’manèch' a duré plusieurs semaines. In
+                oubliot l'dat'<lb/>del' ducasse qui approchot. Un samedi, al rentrée d' l’école,
+                eine odeur d’pâtisserie<lb/>châtouille nos narines. Misèr' ! les poires y n'
+                davot presque plus... In commenc' à rougir<lb/>et pis non, not' mèr' souriante
+                comm' d’habitud' nous dit « J' vous ai fait un p’tit<lb/>tourton pour vot' goûter
+                l’zinfants ». Vite, in s’install' al taule et l’mère nous amèn'<lb/>toute fumante
+                eine tart' avec es garnitur' tout' fourséquée pad' zeur. « Eine tart'
+                aux<lb/>turots, ch’est nouvieau mais vous d’vez connaîtr' » qu’elle nous
+                dit.</p><p><lb/>Bein vous n' mé croirez p' t’être pas mais in a mingé tout' not' tart'
+                in silenc' avec el'<lb/>rouch' jusqu’à nos orell’s.</p></div>
+        </body>
+    </text>
 </TEI>

@@ -1,74 +1,124 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-                <fileDesc>
-                    <titleStmt>
-                        <idno>PIC_CONCOURS__2020_50</idno>
-                        <title type="main"> El nord rinvique (ressussité)</title>
-                        <title type="collection">Picard Concours</title>
-                        <author>Claudine, SELLIER </author>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="JJANES">
-                                <surname>Janès</surname>
-                                <forename>Juliette</forename>
-                                <idno type="orcid">0000-0002-8971-6173</idno>
-                            </persName>
-                        </respStmt>
-                        <principal>
-                            <persName xml:id="BSAGOT">
-                                <surname>Sagot</surname>
-                                <forename>Benoît</forename>
-                                <idno type="orcid">0000-0001-8957-9503</idno>
-                            </persName>
-                        </principal>
-                        <funder>Inria</funder>
-                    </titleStmt>
-                    <publicationStmt>
-                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
-                            les Langues de France (COLaF)</publisher>
-                        <date when="2024-04-04"/>
-                        <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                        </availability>
-                    </publicationStmt>
-                    <sourceDesc>
-                        <bibl>
-                            <title> El nord rinvique (ressussité)</title>
-                            <author>Claudine, SELLIER </author>
-                            <pubPlace>Amiens</pubPlace>
-                            <publisher>Agence régionale de la langue Picarde</publisher>
-                            <date when="2020"/>
-                        </bibl>
-                    </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                    <langUsage>
-                        <language ident="met-oil-pic" usage="100">
-                            <idno type="langue">met-oïl-pic</idno>
-                            <idno type="script">latin</idno>
-                            <name>Picard</name>
-                            <date>2020</date>
-                            <location>
-                            <region>Nord</region>
-                            <country>France</country>
-                            </location>
-                        </language>
-                    </langUsage>
-                    <textClass>
-                        <keywords>
-                            <term type="supergenre" rend="fiction">Fiction</term>
-                            <term type="genre" rend="fiction-prose">Prose</term>
-                        </keywords>
-                    </textClass>
-                </profileDesc>
-                <revisionDesc>
-                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
-                </revisionDesc>
-            </teiHeader>
-  <text xml:lang="met-oil-pic">
-    <body>
-      <div><pb facs="Picard_Concours_2020_50_p1.png"/><lb/>Section Poésie en prose<lb/>N°50<lb/>EL NORD RINVIQUE (réssussité)<lb/>D'puis eine pair' d’années, in s’étot habitués d’vir inl’ver d' nos paysach's, nos terrils<lb/>aimés. Nos parints, grands parints, avo’nt toudis connu avec fierté ch’monchau d’carbon<lb/>pad’zeur leu rue.<lb/>Ch'est l’sueur d’nos courageux, in étot fiers pou eux.<lb/>Et pis sont arrivés d’aut's gins, « des technocrat's. Ch’est eine race à cauchures vernies<lb/>portant cravat'. « Rentabilité, exploitation.. »qui z’ont dit. In a laissé faire, in n’avot pas<lb/>tout compris.<lb/>L' zautorout’s, l’bitume, ch’est là qu’est not’amertume.<lb/>Et pis d’aut’s gins incor' sont vnus, « les écolos ». Euss, pas d’cravat', y porto’nt des gros<lb/>godillots. « Patrimoine, sauv garde, cadre de vie » qui z’ont dit. In a laissé faire, in n’avot<lb/>pas tout compris.<lb/>Des terrils, des chevalets, grâce à euss sont restés.<lb/>Les Parisiens, toudis à l’écout' des potins, s’bousculent pou vir les mauvais pavés dins<lb/>not' coin. In a bein vu qu’in a tourné sul' carreau d' Raismes, un film d’nos pauvers<lb/>silicosés tel qu’in les aim'.<lb/>Micros et caméras, té v là r' venu Zola!<lb/>Mais sin exagérer l’pus bieau momint d' lannée ch’est quand l' chevalet Dutemple y'est<lb/>éclairé. Visez, eine tour Eiffel qui brill' de mille feux, les yeux des z’infants s’équarquill’nt<lb/>de merveilleux.<lb/>Y sont là, leus ch' feux pleins d’maclottes, t' nant leu marotte.<lb/>Eine bell' région j' vous dis qu’est l’Nord Pas-de-Calais ! et j' mé fous des « Hauts de<lb/>France » qu’ont voulu canger not' patronyme. Si cha vous dit bonn's gins d’ailleurs qui<lb/>me lisez, v nez vous installer, am' nez du traval, d' s' usines.<lb/>Les gins d’ichi vous !' rindront pa leur amitié, y z’ont du courach à r’vind plein leur<lb/>écourché.</div>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_50</idno>
+                <title type="main"> El nord rinvique (ressussité)</title>
+                <title type="collection">Picard Concours</title>
+                <author>Claudine, SELLIER </author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> El nord rinvique (ressussité)</title>
+                    <author>Claudine, SELLIER </author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="99">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="1">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Nord</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-poetry">Poésie</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_50_p1.png"/><fw type="runningTitle" xml:lang="met-fr"><lb/>Section Poésie en
+                prose</fw>
+                <fw type="numbering"><lb/>N°50</fw>
+                <head><lb/>EL NORD RINVIQUE (réssussité)</head>
+                <p><lb/>D'puis eine pair' d’années,
+                in s’étot habitués d’vir inl’ver d' nos paysach's, nos terrils<lb/>aimés. Nos
+                parints, grands parints, avo’nt toudis connu avec fierté ch’monchau
+                d’carbon<lb/>pad’zeur leu rue.</p>
+                <p><lb/>Ch'est l’sueur d’nos courageux, in étot fiers
+                pou eux.</p>
+                <p><lb/>Et pis sont arrivés d’aut's gins, « des technocrat's. Ch’est eine race
+                à cauchures vernies<lb/>portant cravat'. « Rentabilité, exploitation.. »qui z’ont
+                dit. In a laissé faire, in n’avot pas<lb/>tout compris.</p>
+                <p><lb/>L' zautorout’s,
+                l’bitume, ch’est là qu’est not’amertume.</p>
+                <p><lb/>Et pis d’aut’s gins incor' sont vnus,
+                « les écolos ». Euss, pas d’cravat', y porto’nt des gros<lb/>godillots. «
+                Patrimoine, sauv garde, cadre de vie » qui z’ont dit. In a laissé faire, in
+                n’avot<lb/>pas tout compris.</p>
+                <p><lb/>Des terrils, des chevalets, grâce à euss sont
+                restés.</p>
+                <p><lb/>Les Parisiens, toudis à l’écout' des potins, s’bousculent pou vir les
+                mauvais pavés dins<lb/>not' coin. In a bein vu qu’in a tourné sul' carreau d'
+                Raismes, un film d’nos pauvers<lb/>silicosés tel qu’in les aim'.</p>
+                <p><lb/>Micros et
+                caméras, té v là r' venu Zola!</p>
+                <p><lb/>Mais sin exagérer l’pus bieau momint d'
+                lannée ch’est quand l' chevalet Dutemple y'est<lb/>éclairé. Visez, eine tour
+                Eiffel qui brill' de mille feux, les yeux des z’infants s’équarquill’nt<lb/>de
+                merveilleux.</p>
+                <p><lb/>Y sont là, leus ch' feux pleins d’maclottes, t' nant leu
+                marotte.</p>
+                <p><lb/>Eine bell' région j' vous dis qu’est l’Nord Pas-de-Calais ! et j' mé
+                fous des « Hauts de<lb/>France » qu’ont voulu canger not' patronyme. Si cha vous dit
+                bonn's gins d’ailleurs qui<lb/>me lisez, v nez vous installer, am' nez du traval, d'
+                s' usines.</p>
+                <p><lb/>Les gins d’ichi vous !' rindront pa leur amitié, y z’ont du courach
+                à r’vind plein leur<lb/>écourché.</p>
+            </div>
+        </body>
+    </text>
 </TEI>

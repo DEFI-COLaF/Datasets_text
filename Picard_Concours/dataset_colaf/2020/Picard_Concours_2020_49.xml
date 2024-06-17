@@ -1,74 +1,683 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-                <fileDesc>
-                    <titleStmt>
-                        <idno>PIC_CONCOURS__2020_49</idno>
-                        <title type="main"> Charles et s'famile ed 1890 à 1919</title>
-                        <title type="collection">Picard Concours</title>
-                        <author>José, BIL</author>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="JJANES">
-                                <surname>Janès</surname>
-                                <forename>Juliette</forename>
-                                <idno type="orcid">0000-0002-8971-6173</idno>
-                            </persName>
-                        </respStmt>
-                        <principal>
-                            <persName xml:id="BSAGOT">
-                                <surname>Sagot</surname>
-                                <forename>Benoît</forename>
-                                <idno type="orcid">0000-0001-8957-9503</idno>
-                            </persName>
-                        </principal>
-                        <funder>Inria</funder>
-                    </titleStmt>
-                    <publicationStmt>
-                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
-                            les Langues de France (COLaF)</publisher>
-                        <date when="2024-04-04"/>
-                        <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                        </availability>
-                    </publicationStmt>
-                    <sourceDesc>
-                        <bibl>
-                            <title> Charles et s'famile ed 1890 à 1919</title>
-                            <author>José, BIL</author>
-                            <pubPlace>Amiens</pubPlace>
-                            <publisher>Agence régionale de la langue Picarde</publisher>
-                            <date when="2020"/>
-                        </bibl>
-                    </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                    <langUsage>
-                        <language ident="met-oil-pic" usage="100">
-                            <idno type="langue">met-oïl-pic</idno>
-                            <idno type="script">latin</idno>
-                            <name>Picard</name>
-                            <date>2020</date>
-                            <location>
-                            <region>Pas de Calais</region>
-                            <country>France</country>
-                            </location>
-                        </language>
-                    </langUsage>
-                    <textClass>
-                        <keywords>
-                            <term type="supergenre" rend="fiction">Fiction</term>
-                            <term type="genre" rend="fiction-prose">Prose</term>
-                        </keywords>
-                    </textClass>
-                </profileDesc>
-                <revisionDesc>
-                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
-                </revisionDesc>
-            </teiHeader>
-  <text xml:lang="met-oil-pic">
-    <body>
-      <div><pb facs="Picard_Concours_2020_49_p1.png"/><lb/>N°49<lb/>Charles et s’famile ed 1890 à 1919<lb/>Dans ces quelques pages, nous avons le début du récit d’une dame qui livre en cette année<lb/>1919, avec sa vision et son landage ch’timi ses 30 ans de souvenirs sur une famille de la<lb/>petite bourgeoisie lilloise et parisienne.<lb/>Partie 1 : El’naissance<lb/>I étot 4h30 ch' matin du 22 novimb 1890 din l’camb du 9 rue Princesse à Lille.<lb/>Jeanne intind des cris, ce sont cheux d’esn éfant, d’sin tiot à elle.<lb/>Ale récupère, ale intint el sage-fame dire :<lb/>C’est-ti pas là un biau tiot garchon m’dame euque¹¹ vos nos avez ofert là!<lb/>Un p’tiot gars bien dech’nord!<lb/>Acoutez-mi ches cris, il braille fort ech bral̈oul¹, vot papar² Unne voix ed chef, pas vrai m’dame ?<lb/>Dit-ale in riant d’bon cœur.<lb/>Jeanne ne put s’impêcher de sourire malgré ses angouches³. P’tit gars d’ech Nord, ouais, mais<lb/>pas seulemint sin tiot Charles.<lb/>Oui, ché ch' prénom qu’is avote chusi¹¹¹ aveuc Henri si c’étot un garchon.<lb/>Ale aurot pet-ête eu kèro⁵⁷ avoir unne file ben-sûr mais bon, elle avot déjà eu Xavier sin preume⁴<lb/>i y’a déjà 2 ans puis insuite Marie-Agnés, un an après.<lb/>Ale est continte tout d’même, ale le sra incore miu quand Henri, sin Henri vindra lui rindre visit.<lb/>Henri es' honme depuis déjà 4 ans.<lb/>*<lb/>Ale s’souvint : i étot venu ichi, chez eux, rue Princesse, y a quéq s’années, un jour de l'Saint-<lb/>Nicolas, conme¹⁹ c’étot l’coutume ché chés Maillot.<lb/>De mécantes lingues disotent qu’i s’cachot un bon parti. Vos n’croyez pas qu’il serot timps à s’n<lb/>ache, 30 ans et des, qu’i treuve à s’caser ?<lb/>Rapidemint, ale l’avot armarqué, un grind Monsieur aveuc del prestance conme in dit.<lb/>Ce n’étot plus unne jonne file, elle avot un peu pus ed 20 ans ach’teure!<lb/>Au cours de l’parlache⁵, on avo fini par lui ekmander des nouvièles.<lb/>Avint d’réponte, i l’avot matée, ale avot minaudé.<lb/>Ale l’a eu tout d’suite dans l’piau, mais cha, ale seu el savot. Li, i faisot sin biau, il voulot plaire<lb/>avec ch' mélanche d’achurance et de timidité comme ché z' honmes is sont à ché momints-là.<lb/>Nos, chés fames, in laisse viendre, in in rigole.<lb/>I parlot ed sin métier, professeur i étot. Quais, décidémint, i li plaisot.<lb/>l voulot incore jacter¹¹². Ale sintot qu’i fallot l’incourager.<lb/>Ale relinça el conversation:<lb/>Henri, min cousin, il vint d’ù vot nom, ch’ti ches de Gaulle ?<lb/>Henri étot conme un pichon din l’iau, il la connaisot ben l’histoire de s' famile. Sin père, Julien-<lb/>Philippe né en 1801 avot fait des arcaches⁶ su leus ancêtes.<lb/>I partit alors dins un long parlache. I dissertot.<lb/>Là, mi j’al pas osé l'dire ch'qu’il a raconté! Pou tout dire, j’aurot pa su !<lb/>J’a pas tout compris ! J’résum'!<lb/>*<lb/>1<pb facs="Picard_Concours_2020_49_p10.png"/><lb/>Glossaire:<lb/>braïou¹ papar² angouches³ preume⁴, parlache⁵ arcaches⁶ adon⁷ quinquins⁸ coses⁹ binnache¹⁰<lb/>euque¹¹ canche¹² Ravisez¹³ ach’teure¹⁴ busie¹⁵ arpinser¹⁶ edmeuré¹⁷ conme¹⁹ gramint¹⁸ aponter²⁰<lb/>juillé²¹ quer²² Chette²³ fromer²⁴ païer²⁵ moïens²⁶ jonnesse²⁷ arvindrai²⁸ épousaillés²⁹ jinvier³⁰<lb/>guère³¹ sodat³² mason³³ archu³⁴ gambe³⁵ ramoné³⁶ te wardes³⁷ couké³⁸ aponter³⁹ Artombé⁴⁰<lb/>catiau bièle moule⁴¹ te wardes³⁷ couké³⁸ aponter³⁹ Artombé⁴⁰ catiau bièle moule⁴¹ Déjouké⁴<lb/>Déjouké⁴² refromée⁴³ chinc⁴⁴ arcachée⁴⁵ estile⁴⁶ gramint⁴⁷ “kva à cotron"⁴⁸ jeuets⁴⁹ cartion⁵⁰<lb/>solent⁵¹ moé⁵² s’archainder⁵³, jechté⁵⁴ acater⁵⁵ lonmée⁵⁶ kèr⁵⁷ doubes⁵⁸ poke⁵⁹ nuds⁶ cangeajt⁶¹<lb/>toudis⁶² Aveuc⁶³ bos⁶⁴ Cose⁶⁵ batiaux⁶⁶ fotbal⁶ chole⁶⁸ démucher⁶⁹ vagances⁷⁰ prousse⁷¹<lb/>artreuver⁷² à l’cour⁷³ toudis⁷⁴ arjouer⁷⁵ pièches⁷⁶ nanger⁷⁷ cants⁷⁹ euvraient⁸⁰ nettiache⁸¹ cadiaux⁸²<lb/>délaches⁸³ d’imaches⁸⁴ Egliche⁸⁶ pachere⁸⁷ lonques⁸⁸ animals⁸⁹ prijonnier⁹⁰ querre⁹¹ Franchoé⁹²<lb/>Acoutez⁹³ acatent⁹⁴ sièkes⁹⁵ sinifie⁹⁶ cinse⁹⁷ dl’élevache⁹⁸ barraque⁹⁹ ferniètes¹⁰⁰ In quien-<lb/>Assis'¹⁰¹ légueumes¹⁰² gardin¹⁰³  juyet¹⁰⁴ hars¹⁰⁵ sétimbe¹⁰⁶ cauffer¹⁰⁷ em couker¹⁰⁸ jins¹⁰⁹ à des¹¹⁰<lb/>chusi¹¹¹ conte¹¹² bukête¹¹³ cousse¹¹⁴ loute¹¹⁵ pleuvieuse¹¹⁶ puch¹¹⁷ pouillé¹¹⁸ cinsier¹¹⁹ loier¹²⁰<lb/>béto¹²¹<lb/>braiou¹<lb/>papar²<lb/>anqouches³<lb/>preume⁴<lb/>parlache⁵<lb/>arcaches⁶<lb/>adon?⁷<lb/>quinquin⁸<lb/>coses⁹<lb/>binnache¹°<lb/>euque¹¹<lb/>canche¹²<lb/>ravisez¹³<lb/>ach’teure¹⁴<lb/>busie¹⁵<lb/>arpinser¹⁶<lb/>edmeuré¹⁷<lb/>conme¹⁹<lb/>gramint¹⁸<lb/>aponter²⁰<lb/>juillé²¹<lb/>quer²²<lb/>chette²³<lb/>fromer²⁴<lb/>païer²⁵<lb/>moïens²⁶<lb/>jonnesse²⁷<lb/>amvindrai²⁸<lb/>épousaillé<lb/>jinvier³⁰<lb/>quère³¹<lb/>sodat³²<lb/>10<lb/>pleurnichard<lb/>bébé<lb/>douleurs<lb/>premier<lb/>langage, parler<lb/>recherches<lb/>alors<lb/>bébé<lb/>choses<lb/>contente, heureuse<lb/>que<lb/>chance<lb/>regardez<lb/>maintenant<lb/>réfléchir<lb/>repenser<lb/>demeuré<lb/>comme<lb/>beaucoup<lb/>préparer<lb/>juillet<lb/>cher<lb/>cette<lb/>fermer<lb/>payer<lb/>moyens<lb/>jeunesse<lb/>reviendrai<lb/>épousés<lb/>janvier<lb/>guerre<lb/>soldat<pb facs="Picard_Concours_2020_49_p11.png"/><lb/>mason³³<lb/>archu³⁴<lb/>gambe³⁵<lb/>ramoné³⁶<lb/>wardes³⁷<lb/>couké³⁸<lb/>aponteres³⁹<lb/>artombé⁴⁰<lb/>couké³⁸<lb/>aponter³⁹<lb/>déjouké⁴²<lb/>refromée⁴³<lb/>chino⁴⁴<lb/>arcachée⁴⁵<lb/>estile⁴⁶<lb/>gramint⁴⁷<lb/>"kva à cotron"⁴⁸<lb/>jeuets⁴⁹<lb/>cartion⁵⁰<lb/>solent⁵¹<lb/>moé⁵²<lb/>s’archainder⁵³<lb/>jechté⁵⁴<lb/>acateroo⁵⁵<lb/>lonmée⁵⁶<lb/>kèr⁵⁷<lb/>doubes⁵⁸<lb/>poke⁵⁹<lb/>nuds⁶⁰<lb/>cangeait⁶¹<lb/>toudiso⁶²<lb/>aveuc⁶³<lb/>bos⁶⁴<lb/>coseo⁶⁵<lb/>batiaux⁶⁶<lb/>fotbal⁶⁷<lb/>chole⁶⁸<lb/>démucher⁶⁹<lb/>vagances⁷⁰<lb/>prousse⁷¹<lb/>artreuver⁷²<lb/>à l’cour⁷³<lb/>toudis⁷⁴<lb/>arjouer⁷⁵<lb/>pièches⁷⁶<lb/>nanger⁷⁷<lb/>cants⁷⁹<lb/>euvraient⁸⁰<lb/>nettiache⁸¹<lb/>cadiaux⁸²<lb/>dalaches⁸³<lb/>catiau bièle moule⁴¹ château de belle apparence<lb/>11<lb/>maison<lb/>reçu<lb/>jambe<lb/>balayé<lb/>gardes<lb/>couché<lb/>préparer<lb/>retombé<lb/>couché<lb/>préparer<lb/>lévé, réveillé<lb/>reformé<lb/>cinq<lb/>recherchée<lb/>métier<lb/>beaucoup<lb/>cheval à jupe<lb/>jouets<lb/>carton<lb/>turbulant<lb/>mois<lb/>se rattraper<lb/>jete<lb/>acheter<lb/>appelée<lb/>cher<lb/>argent<lb/>poche<lb/>nus<lb/>changeait<lb/>toujours<lb/>avec<lb/>bois<lb/>chose<lb/>bateaux<lb/>football<lb/>jeu de boules<lb/>découvrir<lb/>vacances<lb/>colère<lb/>retrouver<lb/>dehors<lb/>toujours<lb/>rejouer<lb/>pièces<lb/>nager<lb/>chants<lb/>travaillaient<lb/>nettoyage<lb/>cadeaux<lb/>activités<pb facs="Picard_Concours_2020_49_p12.png"/><lb/>imaches⁸⁴<lb/>égliche⁸⁶<lb/>pache⁸⁷<lb/>lonques⁸⁸<lb/>animals⁸⁹<lb/>prijonnier⁹⁰<lb/>querre⁹¹<lb/>Franchoé⁹²<lb/>acoutez⁹³<lb/>acatent⁹⁴<lb/>sièkes⁹⁵<lb/>sinifie⁹⁶<lb/>cinse⁹⁷<lb/>élevache⁹⁸<lb/>barraque⁹⁹<lb/>femniètes¹⁰⁰<lb/>In quien-Assis¹⁰¹<lb/>léqueume¹⁰²<lb/>gardin¹⁰³<lb/>juye¹⁰⁴<lb/>hars¹⁰⁵<lb/>sétimbe¹⁰⁶<lb/>cauffer¹⁰⁷<lb/>em couke¹⁰⁸<lb/>lin¹⁰⁹<lb/>à des¹¹⁰<lb/>chus¹¹¹<lb/>conte¹¹²<lb/>bukète¹¹³<lb/>cousse¹¹⁴<lb/>loute¹¹⁵<lb/>pleuvieuse¹¹⁶<lb/>puch¹¹⁷<lb/>pouillé¹¹⁸<lb/>cinsie¹¹⁹<lb/>loier¹²⁰<lb/>béto¹²¹<lb/>images<lb/>église<lb/>passer<lb/>lonques<lb/>animaux<lb/>prisonnier<lb/>aimer<lb/>François<lb/>écoutez<lb/>achètent<lb/>siècles<lb/>signifie<lb/>ferme<lb/>élevage<lb/>maison<lb/>fenêtres<lb/>en chien assis<lb/>légomes<lb/>jardin<lb/>juillet<lb/>fier, hardi<lb/>septembre<lb/>chauffer<lb/>me coucher<lb/>gens<lb/>à plus tard<lb/>choisi<lb/>histoire<lb/>hasard<lb/>cousin<lb/>louent<lb/>pluvieuse<lb/>puits<lb/>poulailler<lb/>fermier<lb/>lie<lb/>bientôt<lb/>12<pb facs="Picard_Concours_2020_49_p2.png"/><lb/>Ch’nom de Gaulle serot d’origine Gauloise. In gaulois, el chêne se disot "galle", Et pis cha serot<lb/>devenu Gaul bin après. Bin ouais !<lb/>Ou ça serot celt' ou germain, ouais min cousin! Wall, in celt', ché l’nom de ch' mur. Pis, in<lb/>voyagint ce serot advenu Gall puis Gaulle.<lb/>Y’aurot même des armoiries qui l’prouvtent ajouta Henri !<lb/>Infin au moins Henri avot réussi à attirer tous chés ius vers li !<lb/>Et pis, el reste ed l’assistince s’étot rapproché, ches Delannoy,<lb/>ches Kolb-Bernard, meume ches de Corbie 'alors présints ché ches 'Maillot'.<lb/>« Voilà donc l’origine de notre nom » linça-t-i!», in fésant sin fiérot, à l’ensembe de ch l’auditoire<lb/>qui se taisot en atindant l’suite.<lb/>J’avos vu juste, il étot à l’aise quind i causot. Ché un biau parleur ! In vré co' su in tas d’fumier !<lb/>Incouragé, i continua.... :<lb/>« Voyez-vous, le premier de Gaulle dont on ait la trace est un certain Richard de Gaulle... »<lb/>Henri es linça adon⁷ dins un récit historique digne ed chés pus grindes épopées. I enjolivot<lb/>suremint el conte¹¹² et ch’rôle de ses incêtres mais bon.....»<lb/>Pis Jeanne s’étot indormi ! In est mate quind in a eu un p’tit quinquine⁸ !<lb/>*<lb/>In remont' ch’temps, nous voichi inviron 30 ans pus tard, i n’eut des coses⁹<lb/>entre 1890 et 1919! Not auteuse continue sin récit.<lb/>Partie 2: L’infance ed Charles.<lb/>Ches preumes années.<lb/>Jeanne est binnache¹⁰ d’in avoir fini aveuc chette année 1918. Cha fait déjà plus de 2 mos que<lb/>l’guère est finie, et el voudrot bin’pouvoir les vire ter tous; e' s’ file, Marie-Agnès et ses 4<lb/>garchons.<lb/>El peut bin l’dire, elle pensot qu’cha n’arriverot jamais pus<lb/>Vos pinsez, unne mère qui a vu partir ses 4 fius à l’guère, chette terribe guère ù 10 millions<lb/>d’honmes ont perdu l'vie d’après chés chtatistiques !<lb/>Et autint d’éclopés ach'qu’in di, el ne put euque¹¹ remercier Diu euque d’vir qu’aucun des siens<lb/>n’a péri. D’autes n’ont point eu cette canche¹²! Ravisez¹³ che Monsieur Doumer, un camarate ed<lb/>min mari, qui voulot suive Gallieni à l'Marne et qui a eu tros fius tués plu un gazé à l’artice de l’<lb/>mort. Seu ch’plu viu a écappé à ch’massacre. In peut dire qu’in a sauvé un soldat Doumer.<lb/>Ale pinse à sin bonheur à el ; comben pleurtent lu fiu, lu honme lu frère ou lu père ?<lb/>Bin trop, bin trop.....<lb/>Ale se souvint incore sin garchon Charles, binnache d’aller al' bagarre, de s’artreuver su l' sintier<lb/>de l'gloire. Conme ches Napoléon, César, Alexandre et d’autes  in parle ed’ Seigneur de la<lb/>Guerre", ed "Victoire", ed “Lauriers"! In parle aussi “d’Art de la Guerre "et tout cha in majuscules<lb/>in plus!<lb/>Ouais, tout cha chés des prones¹⁴ ! Mi quind j’y repinse l’guère ché surtout :“Du sang et des<lb/>larmes" Et ché tout ce qu’in peut vous promete! Et l’aspère bin qu' l’on s’in souvindra de chte<lb/>phraze !!<lb/>2<pb facs="Picard_Concours_2020_49_p3.png"/><lb/>Bon, ach’teure¹⁴, faut aller à nouviau d' l’avint. Ale pinse que pour echs éfants cha ira, ale busie¹⁵<lb/>à chl’éducation qui z’ont eu quind y étote jonnes. Ale n’peut s’impêcher d’arpinser¹⁶ à ch’parcours<lb/>accompli depus sin mariache in 1886, i a un tiot peu plu de trinte ans.. Cha fait du ben de s'<lb/>arplonger dins ch’passé.<lb/>Ale se revot dans ches années 1890...<lb/>D’puis es démission dech 16 marche 1884 ed sin poste ed “ Rédacteur au Ministère de<lb/>l’intérieur", Henri a treuvé s’voie, s’vocation. Din s’piau, ch’ étot in éducateur né, et ben sur, i<lb/>rejoint ch’métier ed professeur. In le treuve où il a déjà inseigné cht’à dire ché ches Jésuites de<lb/>l’rue ed Vaugirard à chl’lnstitut de l’lmmaculée conception. Il y est edmeuré¹⁷ inviron 20 ans et a<lb/>grimpé chés échelons. I finira conme¹⁹ Préfet dché étutes in 1901.<lb/>Eum n’honme avot gramint¹⁸ d’corage et i n’a nein peur à inseigner, ed timps in timps et in plu,<lb/>ché chès seurs ed' Sainte-Geneviève rue d’ches postes. On l’avot appelé pou ses connaissances<lb/>incyclopédiques eh, ouais, i n’avot din s’tiète chl’Henri !. In l’vit inseigner aussi ben ches matières<lb/>littéraires conme¹⁹ ch' Grec, ch’Latin, ch' l’Histoire ed France et sins oblier el "bèle Littérature<lb/>Française<lb/>Un d’chés projets de l’institut rue edc Vaugirard étot d’aponter²⁰ chés élèves à ches concours d'<lb/>grindes écoles. Je pinse à “Polytechnique", où il rêvot de rintrer un peu avint l’guère ed 1870, ou<lb/>incore "Saint-Cyr" ou chl'"Ecole des Mines" et ch’l’Ecole Centrale"<lb/>Henri n’voulot poin faire de l’politic, c’étot nin compatib avec ch’l’inseignemint mais c’étot in<lb/>catholic, presqu’unne gernouille ed bénitier. El politic, conte chés curés, dech Bloc des Gauches'<lb/>arrivé ach povoir in début d’chés années 1900 et pis el lo d’juillé 1901 su chés Congrégations<lb/>infléchiront grindement s’carrière.<lb/>In effet ch' texte présinté et voté in 1901 pa Waldeck-Rousseau, permettot à<lb/>chés Congrégations d’inseigner si z’en avotet obtenu l’autorisation.<lb/>Et chl’école d’Henri conme pratiquemint toutes chés écoles ed curés et d’bonnes-seurs, n’obtint<lb/>jamais ch’l’autorisation ou avec ed tèles conditions qu’i leu étot impossipe ed survive.<lb/>Mais chl’école, continua ed vive, sins statut ben établi et dins l’précarité de par chés lois de juillé²¹<lb/>1904, interdisint alors totes ches Congrégation à inseigner (merci Monsieur Combes !),<lb/>Chl’institution dirigée par ech chanoine Orain ira chin-caha à partir ed 1904.<lb/>Ale ira à Versailles in 1913.<lb/>Pas décoragé pou autint, min quer²² mari fonte in 1907 chl’école Fontanes rue du Bac. Chette²³<lb/>école s’est nin développée et chette guère l’a achevée ej cros.<lb/>In va la fromer²⁴ car ches priorités d’ches familes après chl’armistiche n’sont point de païer²⁵ pou<lb/>chl’inseignemint ed ches infants, is n’in n’ont pu ches moïens²⁶ d’ailleurs. Mais por Henri qui a<lb/>ach’teure 71 ans, i est timps ed turner el page.<lb/>Ache momint là, l’attintion ed Jeanne fut rattirée par el venue ed Marie-Agnès ech unique file à<lb/>qui ale raconta ch’qui la rendot si songeuse.<lb/>*<lb/>*<lb/>El rinconte intre Jeanne et file Marie-Agnes.<lb/>3<pb facs="Picard_Concours_2020_49_p4.png"/><lb/>Et pis là, j’vas vous raconter l’rincontre intre l’mère et l’file!<lb/>Marie-Agnes pinsot à ché terribes années et à un passé pus lointain, cht’i de s’jonnesse²⁷....<lb/>Au fait m’man, quo qu’tin pinse ed mi et mes frères quind nos étotes jonnes ?<lb/>Ej sais que tu me demindes cha in fonction d’chés études ed tes fringins, ti che fut différint.<lb/>Oui c’est je pinse qu’tin père a été à chl’origine de l’réussite à ch’concours de chl’Ecole des Mines<lb/>ed Xavier, chl’ainé de mes infants né in 1887 qu’est sorti “Ingénieur Civil" d’chés Mines in 1909 et<lb/>sin jonne frère Jacques né, li, in 1893 qui intrera dins l’même Ecole d’chés Mines. I sra de "<lb/>promotion 1912.<lb/>Tout cha te l’sais d’ailleurs, tout conme ches étutes ed droit et d’sciences politiques effectuées pa<lb/>ech culot de l’fratrie. Oui ej parle ed tiot Pierre né en 1897. I va terminer ses étutes ed droit et d’<lb/>sciences politiques et cachera s’voie insuite.<lb/>Che fut pus dur pou Charles et j’y arvindrai²⁸ à des. Et ti zotes, te t’es mariée si jonne euque te<lb/>n’as nein pu aller ach bout d’tes possibilités. Ti qu’es née ech 27 mai 1889, t’étot déjà mariée el 18<lb/>ginvié 1910. J’a toudis treuvé qu’c’étot trop jonne mais bon ché vrai eu t'honme a fait l’même<lb/>formation euque Jacques et Xavier.....<lb/>Et pis, en busiant¹⁵ un tiot peu, ale rapinse de s’rincontre avec sin futur promis, Alfred Cailliaux<lb/>qu’ale avot rincontré à l’bukète¹¹³ adon⁷ qu’elle allot avec sin frangin à une fiète qui réunissot de<lb/>jonnes et d’vius diplômés de chl’école d’ches mines. I avote rapidemint eu du plaisi à s’rincontrer.<lb/>Et j’va rester discrète sur leus rincontre. Alfred et Marie-Agnès se sont épousaillés²⁹ à Paris le 18<lb/>jinvier³° 1910.<lb/>Alfred et Marie-Agnès urtent rapidemint leu preume infant, in 1912, avint euque l’guère³¹ n’éclate.<lb/>Habitant à Mons près de Lille, rapidemint i z-ont souffert de l’invasion alleminde.<lb/>Alfred étant Belge, il n’a nein été sodat³² et amon nos mason³³ qui avion archu³⁴ Charles lors de<lb/>s’blessure à l’gambe³⁵ qu’i a eu durint l’intervention de sin régimint à Dinant in aout 1914.<lb/>Et oui elle vint si vite chte guère, à peine eu ch’timps de vous offrir unne situation et unne bonne<lb/>éducation et hop, tout a failli ête ramonéd³⁶ in deus jours.<lb/>Là, j’va vous raconter ch’que Jeanne et Marie-Agnès s’étotent raconté.<lb/>Mais au fait eum file qué sovenir te wardes³⁷ de t' jonnesse et d’celle ed tes frères ?<lb/>Marie-Agnès busit longtimps avint de réponte.<lb/>Nin parce qu’elle étot saisie mais l’réponche n’étot point si évidinte à formuler.<lb/>In peut dire que l’réunion d’ches familes de Gaulle et Maillot ne pouvot que bailler unne éducation<lb/>rigoureuse. Ches deus familes étotent des culs bénis, résolumint royalistes et farouchemint<lb/>patriotes ! Chl’éducation qu’nos avons eue ne pouvot ête aute que rigoureuse.<lb/>Pou nous ches files, chés parints avotes des idées ben arrêtées. Chl’éducation des files étot<lb/>pinsée pou que nous soyons ed bonnes compagnes, ed bonnes épousses et de bonnes mères de<lb/>famile, ed bonnes baronnes pou résumer. Tout c’qu’in trouvot dins de l’inseignement dispinsé par<lb/>ches seurs.<lb/>Mais pou ches garchons c’étot aute cose. Perdez ech parcours ed Charles par exempe.<lb/>Dins sin pus tindre infance, i est externe chez ches frères d’ches écoles chrétiennes ed Saint-<lb/>Thomas d’Aquin jusqu’à ses dich ins. In 1900, il rejoint chl’école de nous père, chez ches Jésuites<lb/>ed " l’Immaculée Conception" rue de Vaugirard.<lb/>Là-bas, l’discipline étot stricte : déjouké à 5 heures dech matin, couké³⁸ tôt auchi, à 19 heures; 2<lb/>promenates par semaine.<lb/>Sins compter ech règlement intérieur : lectures incadrées, deminde d’autorisation pou tout objet<lb/>ou loque rintré dins chl’internat. Unne véritabe préparation d’bidasse in sonme.<lb/>4<pb facs="Picard_Concours_2020_49_p5.png"/><lb/>Exigence pour former ches futures élites del Nation, telle étot la mintalité ed l’époque. Ed Charles<lb/>ce qu’in un disot à l’époque, tu te souvens m’man : “Est doué mais assez peu studieux."<lb/>I est arrivé ach Lycée sins ouvrer gramint.<lb/>Ché à cht' époque qu’i a décidé à ben ouvrer à l’école pour avoir sin baccalauréat et pou apontep³⁹<lb/>Saint-Cyr car il avot décidé d’être officier. I obtint le 10 juillet ses 2 parties d’bac dins l’école de<lb/>ch’père: 1ére série latin/grec mintion passape.<lb/>Tu te souvins, c’est ache l’époque des lois d’séparation de l’Eglise et de l’Etat et la tourminte des<lb/>inventaires de l’Eglise. Ce qui vos perturbot tint euque vos avez inscrit Charles à un pinsionnat in<lb/>Belgique, Anstoing. Ech préparation à Saint-Cyr y sera artardée d’un an.<lb/>Artombéd° à Anstoing, près de Tournai, Charles découve unne grinde bâtisse, il treuve chl’endroit<lb/>très biau mais très triste auchi. I avot el charme d’un catiau bièle mouled⁴¹ qui avot été restauré par<lb/>Viollet le Duc. Ché à chet' indroit que ches Jésuites avotent treuvé refuche après lu expulsion.<lb/>L’éducation y est stricte conme in France d’ailleurs. Déjoukét⁴² à 5 heures par exempe.<lb/>Charles i a passé unne bonne année, el présince ed sin frère Jacques l’y a aidié. Ches<lb/>nombreuses promenates, ches bains à Tourcoing ou à Lille y ont égalemint contribué. Ch’qui li<lb/>plaisot égalemint ché que pindint ses tans libes, il pouvot fréquemmint rinte visit à nos famile ed<lb/>Lille. Eus année scolaire 1907-1908 y fut très bonne. Sin retour l’innée d’après fut ainsi bien<lb/>apontée. Chl ’école rue d’Vaugirard aïant fromé, ché à chl’école Stanislas rue Notre-Dame à Paris<lb/>qu’il fra es préparation.<lb/>Sin concours à chl’école d’officiers ed Saint-Cyr, i l’ardèche le 30 septempe 1909 in étant rechu<lb/>119ème su 221 admis. Charles a casi 19 ans et in peut dire que l’page jonnesse s’est définitivemint<lb/>refromée⁴³.<lb/>Et tu t’in souvins de l’infance de tes chinc⁴⁴ infants m’man ?<lb/>Jeanne reprit el parlache⁵:<lb/>Oui mais avec Henri, tin pèr, ches règles étote ben établies : ché chacun à ech place! Tin pèr est<lb/>un honme aux qualités certaines. Outr es biauté et sa prestanche, es compagnie étot achez<lb/>arcachée⁴⁵ pou ech enthousiasme, sin charme et l’intelligince ed ses propos. Un parfait<lb/>gentleman! Parfois un peu trop “ complimenteur" à min goût. Et si efficache dans sin estiled⁴⁶<lb/>d’inseignant !<lb/>Et ti, eum mère, ej l’admets tin éducation religieusse t’baille des qualités ed bonté ed générosité<lb/>mais si exiginte avec ti qu’aveuc ches autes que ches complimints et récompinses ales sont plus<lb/>parcimonieux ! Père a toudis eu unne autorité naturelle, nos li obéissions sins discuter, meume<lb/>Charles ech plus rude de nous chinq. ! faut reconnaîte euque tu n’avos pas gramint⁴⁷ d’autorité su<lb/>li. Des anecdotes, j’en ai plein qui m’reviente.<lb/>Tu te rapinses quind Charles avot disparu lors d’unne promenate à ches Tuileries et qu’i nos avot<lb/>faussé compagnie pindint que nous ravisions ches batieaux su ch’lac. Et pis qu’in l’retreuva un<lb/>peu plus long dans ches alintours, à l’aise jeuant avec d’autes infants!<lb/>Ou ben incore sin “kva à cotron"⁴⁸, un de ses preumes jeuets⁴⁹, un kva in cartion⁵⁰ qu’in infilot et<lb/>qu’i promenot partout dins l’mèson au risque de tout brisier.<lb/>Eh oui ! Marie-Agnès, je m’in souvens de sin “kva-cotron" car ché ainchi qu’i l’appelot. l a fali<lb/>jamais n' l’avoir d’ailleurs. A cht’époque là, quind in offrot des cadiaux ale Saint-Nicolas, sin père<lb/>et mi avotes décidé de ne rin lui offrir car il avot été solent⁵¹. Il avot eu un moé⁵² pou<lb/>s’archainder⁵³, ce qu’il fit. Ché vrai euque Charles aimot tourminter ses frères. Et ti, Marie-Agnès,<lb/>el grinde seur te devos protéger tes frères plus jonnes ed 3 et 6 ans, Jacques et Pierre, conte<lb/>ches tracasseries ed Charles qui n’hésitot pas à les taquiner ou plus, n’a-t-i pas souvint jechté⁵⁴<lb/>des livres à la tête de Pierre, l’aimot auchi l’enfromer dins l’cambe pou l’faire brailler.<lb/>*<lb/>5<pb facs="Picard_Concours_2020_49_p6.png"/><lb/>Ché vrai qu’il étot ch' plus dur meume vis-à-vis de ti qui avot nein d’prise sur li. Il aimot dominer.<lb/>Souvens-te de lus parties de sodats de plomb.<lb/>Oh, oui ches fameux sodats de plomb qu’ils allotent acater⁵⁵ chez Monsieur Lucotte qui tenot près<lb/>de chez nos, rue Saints-Pères, une quincaillerie lonmée⁵⁶ Au plat d’étain’, où il vendot, pas kèr⁵⁷<lb/>ché fameux sodats, 3 sous un fantassin, 5 sous un cavalier. Des doubes⁵⁸ de poke⁵⁹, nos in<lb/>avions pas gramint. Papa nous en donnot pour nous récompincher d’avoir été sache ou d’avoir eu<lb/>de bonnes notes.<lb/>Dins lu jus, Xavier echl’ainé avot toudis ches Austro-Hongrois, Pierre ech plus jonne qu’il lonmait<lb/>affectueusemint' le cadet de mes soucis' ches ltaliens ou ches Zoulous qui combattotent nuds ⁶⁰!<lb/>N’oblions pas qu’in étot en pleine guère des Boers in Afrique du Sud ou parfois les Russes ?<lb/>Pis Jacques soit ches Turcs, ches Anglais ou ches Egyptiens.<lb/>Cha cangeaite⁶¹ souvint mais i est vrai que li se réservot toudis⁶² les Suisses et surtout ches<lb/>Français. Ché garchons reproduisotent pindant des heures ches batales historiques. Aveuc⁶³ du<lb/>cartion, des bouts de bos⁶⁴, del terre, du sabe, et tot chqu’i trovotent in fait, ils refaisotent ches<lb/>décors de lus exploits. lls se servotent de dés pour chiffrer ches pertes, de tiots canons qui<lb/>lançotent des tiots pos in quise ed boulets. L’ichue n’étot pas toudis conforme à l’Histoire car<lb/>Charles s’arrangeot pou toudis gagner. Pou Waterloo, par exempe, i ne se souciot qu’achez peu<lb/>d’vérité historique. Ches parties se terminotent par d’improbabes traités ed paix. Cose⁶⁵<lb/>remarquabe, ch’te collection nos l’avons wardée et un jour j’in ai fait l’inventaire. Eh ben, i y avot<lb/>1800 sodats de toutes sortes et queques accessoires comne des batiauxe⁶⁶, des canons et autes.<lb/>In jeuait à ben d’autes coses incore, à muche-muche, colin-maillard, à ches jueus d’bale, surtout<lb/>ce nouveau ju qui vint d’Ingleterre et que j’pinse n’avoir été qu’unne mode et qui aura disparu avec<lb/>chte quère; oui du fotbal⁶⁷ j’cros ben, ce ju dont raffolait surtout Charles à l’école.<lb/>Nous avions kèr faire des parties de croquet, jeuer au diabolo ou incore al chole⁶⁸.<lb/>In s’disputot pour avoir le cerf-volant che plus biau.<lb/>Des jus, oui, mais i n’y avot pas qu’cha m’man, nous avions tous kèr lire.<lb/>Conme papa inseignot l’histoire, nos avont été nourris à ché récits des grindes fiqures de note<lb/>Histoire: les Rois, Jeanne d’Arc, Vercingétorix, Napoléon. Pou ches lectures, pa nos a fait<lb/>démucher⁶⁹ après 1900 tous ches auteurs indispinsabes selon li :<lb/>Hugo, Daudet, l’Comtesse de Ségur, Robinson Crusoé, Jules Vernes et meume Molière ou La<lb/>Fontaine, Bourget, Rostand...<lb/>Ch’te passion del littérature l’a meume amené à écrire ch’qu’on appelle des tiotes saynètes in<lb/>vers. J’me souvens ed 'Le brigand et le voyageur'<lb/>J’m’en souvens si ben qu’i en avot fait éditer au bas mot 50 exemplaires et qu’i l’avot jeué aveuc<lb/>sin cousse¹¹⁴ Jean de Corbie pindint ches vagances⁷⁰<lb/>Oui, Marie-Agnès, d’mes 5 infants, à l’école, che pus brillant a été Xavier, ti, Jacques et Pierre<lb/>étotent un peu moins doués mais tellemint travailleurs que ches résultats étotent excellints.<lb/>Ti, rincontrer tin futur époux a mis fin à tin parcours scolaire. Charles, d’après moi étot ech pus<lb/>doué mais ne travaillot pas achez in classe ce qui mettot sin père in prousse⁷¹. Plus d’unne fos i li<lb/>a reproché de n’pas faire ses devoirs de n’pas apprende achez sauf in Histoire et in Français où il<lb/>était réqulièremint preume. ! li reprochot de n’pas ête in bonne plache lors des “diligences", mot<lb/>qui sanctionnot che cumul d’ches notes des lechons et t’ches devoirs. Il étot raremint parmi les 5.<lb/>preumes.<lb/>A partir de 14 ins après eche déchision d’faire l’école ed Saint-Cyr, i est devenu excellint élève<lb/>surtout in mathématiques ce qui réconfortot sin père qui adorot inseigner el géométrie. El dernière<lb/>anecdote qui me revienche et qui m’fait incore sourire, c’est quind il fut invoyé chez s' mémère à<lb/>Lille pour ékapper ale scarlatine qui avot atteint ses 3 frères et ti.<lb/>*<lb/>6<pb facs="Picard_Concours_2020_49_p7.png"/><lb/>Que n’fut ech surprise de s’artreuver⁷² durint queques semaines in hiver 1895-1896 à chl’école ed<lb/>la Sagesse, plache de chés bleuets à Lille dins unne classe où i n’y avot que des files! Ches là<lb/>d’ailleurs qu’i a commenché à épeler ses preumières lettes.<lb/>Les vacanges familiales.<lb/>Des sovenirs d’école j’in ai gramint mais c’qui eum marque le pus incore ch’est nos sovenirs ed<lb/>vagances. Te t’souvens Marie-Agnès ?<lb/>Oui répondit-elle, attind je va daler caher ches photos de vagances. Ches photos de l’famile<lb/>Fenouillard’ comne un aimot el dire tertous !<lb/>Ch’est vrai que c’étot chl’occasion de réunir ches familes : ches Maillot, ches de Gaulle, ches de<lb/>Corbie, ches Delannoy et ches Droulers intr’autres.<lb/>Chqui dmeure ed plus incré dins nos mémoires ch’est el présince majestueuse de m’mère Julia<lb/>qui dirigeot in maîtresse absolue tout ce biau tiot monde.<lb/>Pou ches infants c’étot un paradis, is étotet le plus souvint à l’cour⁷³ et organisotent totes sortes<lb/>ed jus. Cheux qu’tu citos tout à l’heure conme colin-maillard, muche-muche. Je n’vas pas tous les<lb/>citer. Malheureusemint, le plus discutape ch’étot l’attitude ed Charles qui voulot toudis⁷⁴ tout<lb/>diriger un plu ed ses colères quind i perdot. T’as aute cose à rinconter Marie-Agnès ?<lb/>Oh oui, y’a eu chés vacanges à Wimille, lorsque pa n’étot pas là et qu’Charles profitot de tin<lb/>minque d’autorité, ach l’opposé de pa qu’i craignot. Et ch’ jour où il avot jechté⁵⁴ tous ses juets<lb/>pace que tu avos refusé ed l’immener faire du poney sous prétexe qu’i en avot déjà fait el veille.<lb/>l y’a eu des coses pus plaisantes. Conme chette compétition intre nous pou l’possession de la<lb/>balançoire qui était installée dans la propriété ed Wimille; possession au preume arrivé. El matin,<lb/>Charles se levot le preume et on l’intindot alors: « J’y sus, ej retiens el balanchoire ». Ce qui nous<lb/>faisot ben rire!<lb/>Pi ché représentations ed théâte que nos organisions pou t’fiète, le 21 août. Les pièches nos les<lb/>répétions après nous ête mis d’accord. Je m’arvos arjouer⁷⁵ : “Les femmes savantes" d’Molière<lb/>ou 'Les Plaideurs' ou 'Athalie' de Racine. In a meume mis à note répertoire des pièches⁷⁶ de<lb/>Labiche conme 'Les deux timides'<lb/>Ches vacanges étotent auchi l’occasion de grindes promenates et d’bains d’mer; ou à Malo ou à<lb/>Wimereux. Nos avons alors eu la canche de tertous apprente à nanger⁷⁷<lb/>Parmi nous sorties préférées étaient chelles qui nous menotent chez ech pâtichier et nous y<lb/>mingions gramint d’gâtiaux. Ché pa qui nous les acatot car ches pâtisseries y étotte moins kères<lb/>qu’à Paris, 2 doubes⁷⁸ ici 3 doubes à Paris. Et nos in profitions !<lb/>Nous père aimot égalemint animer nos après-midi in nos apprenant des cants⁷⁹ et comptines. J'<lb/>pourros incore canter gramint de ces cansons populaires. Il organisot égalemint des concours de<lb/>dessins et participot à gramint de nos jus collectifs.<lb/>Néanmoins, pou li, poin question de nein étudier durant ches vagances. I nous rappelot souvint<lb/>que l’plupart des infants de nous ache euvraiente⁸⁰ in ces mos ed congés scolaires. In effet, i nos<lb/>expliquot que ches 10 semaines sins classe avotte été instituées pou permette à ches infants de<lb/>participer aux ouvrages des camps; ches moissons dins ch' Nord et l’ouvrage dins ches vignes<lb/>dins ech sud. In devot aider auchi.<lb/>Pou nous, il y avot des corvées pou el nettiache⁸¹ du bâtimint et ches commissions que nos<lb/>faisions pour préparer les repas. Mais nos le faisions sins rechigner car souvint, ch' père étint<lb/>naturellemint généreux, nous avions drot à des tiots cadiaux⁸² mais pus souvint des doubes; un<lb/>sou par chi, deus sous par-là ! Et nous étions binnaches¹⁰<lb/>Ech système ed récompinses, ej vas eum répéter je cros, il l’avot auchi institué pou nos résultats<lb/>scolaires. Ches récompinses pouvotent aller jusqu’à un franc selon nous résultats. Pindint ches<lb/>vacanges, i nos faisot travailler, nos ses 5 infants. Et nos el faisions aveuc plaisi grâce à ses<lb/>imminses qualités ed pédagogue.<lb/>*<pb facs="Picard_Concours_2020_49_p8.png"/><lb/>Parmi ches dalaches⁸³ originales euque nos faisions n vacanges, il y avot chette collection<lb/>d’imaches⁸⁴ d’Epinal que nous argadions. Alles décrivotent surtout El vie d’ches saints' et<lb/>Chl’histoire de l’Egliche⁸⁶ Nos povions pacher⁸⁷ de lonques⁸⁸ heures à comminter ces martyres<lb/>torturés de totes manières, el cruauté pou ches crucifiés et pou ches Chrétiens livrés à ches<lb/>animals⁸⁹ dins ches arènes romaines. Ches imaches ed ’La Cène ’ou d’ Jonas prijonnier⁹⁰ tros<lb/>jours dins ch’vente del baleine. Chelles du déluche et de 'L’Arche de Noé'. Ou ches conflits nés<lb/>de 'La tour de Babel'.<lb/>Ah oui ! Que de souvenirs ces vacanges. Alles nos ont permis d’ête unne famile unie. In a meume<lb/>intindu ardire que vous avote appris à tertous vos avoir querre⁹¹: frères et seurs, cousins cousines.<lb/>Jeanne raconte.<lb/>Mais nous zotes ches mamans nos avotes d’autes préoccupations. Qué organisation ! Ché<lb/>Jeanne qui raconte.<lb/>Souvins-ti, Marie-Agnès, note preume séjour dins chette magnifique propriété famillale acatéee<lb/>par nous ancêtes ache début d’ches années 1700 par François Maillot simble-t-i ?<lb/>Marié avec Marie d’Eperlecq in 1681 à Dunkèque ù is vécurent. Franchoé⁹² y étot négociant.<lb/>In n’a pas gramint d’sovenirs de cht’époque, sauf qu’is ne vécurent poin viu, nos incêtres, tot<lb/>conme leur descindince! Acoutez⁹³ un tiot peu :<lb/>Charles, 1682-1719, 37 ans ! Marié en 1707 avec Marie-Jeanne Lecointe 1685-1726,41 ans!<lb/>Et lu fiu Charles-Nicolas né en 1715 décédé en 1743, 28 ans; marié aveuc Françoise Hélène<lb/>Mouton in 1736 morte à 45 ans.<lb/>ls eurent un fiu, Henri-François, 1742-1802, mort à 59 ans, j’arrête là, el série d’ancêtes!<lb/>Ej vos a parlé d’eux car ce furtent des négociants prospèrent, si prospèrent qu’ils acatent⁹⁴ une<lb/>propriété ach début ed ches années 1700 conme je vos disos.<lb/>Par conséquint ale est nôte edpuis deus sièkes⁹⁵ Ale a gramint cangé. Che qui n’a poin cangé<lb/>ché sin nom, si poétique à min goût, chti ed Rosendaël qui sinifie⁹⁶ “Vallée des roses" Bélot<lb/>nin ?<lb/>Ale vocation première ed chette terre, étot d’in faire unne cinse⁹⁷ aveuc unne partie consacrée à<lb/>ed l’élevache⁹⁸ et l’aute à l’culture maraîchère et fruitière. Mais chette propriété rattachée à<lb/>l’paroisse ed Téteghem' ù nos allions régulièremint a el privilèche de s’treuver près ed Malo-les-<lb/>Bains donc près de l’mer.<lb/>Chette situation a incité el famile Maillot à y construire unne barraque⁹⁹ assez vaste avait été<lb/>baptisée dech biau nom ed “Moerderhof “ qui se traduit par la 'ferme de la mer'.<lb/>Tu t’in rappelles, Marie de chte grinde bâtisse, caractéristique ded chés masons dech Nord aveuc<lb/>leur tot en ’pannes’, ech nom qu’in donne à ches tuiles dins che Nord. Et sin style flamind aveuc<lb/>ches rideaux à ches ferniètes¹⁰⁰, sin mobilier massif pou durer et chette collection ed cuives euque<lb/>nos haïssions lorsqu’il fallot les astiquer. Ej l’aimos car ale étot ben décorée, surtout ches ferniètes<lb/>et ches parterres ed fleurs.<lb/>Ed Malo nos fésions ed fréquintes excursions in Belgique pou y acater che que l’on ne trouvot pas<lb/>toudis in France.<lb/>A Malo nous y sonmes allés régulièremint durint ches années 1890 squ’à sque m’mère Julia<lb/>Delannoy-Maillot ne loute¹¹⁵ unne mason à Wimille près de Wimereux, charminte station balnéaire<lb/>proche ed Boulogne.<lb/>Ch’est dns chette location euque nos avons gardé ches souvenirs dont tu nous parlos tout à<lb/>l’heure, Marie.<lb/>Chette fabuleuse bâtisse construite in bas dech mont Gambier. Vaste demeure à l’architecture<lb/>unique chelle du Nord aveuc ses ferniètes' ln quien-Assis'¹⁰¹ si caractéristiques in cette région<lb/>pleuvieuse¹¹⁶. Mason décorée avec goût aveuc ses compositions florales et o in y cultivot des<lb/>légueumes¹⁰² dans un gardin¹⁰³ sogné¹⁰⁴. El seule cose qui a fini par lasser min père ché el<lb/>8<lb/>*<pb facs="Picard_Concours_2020_49_p9.png"/><lb/>présince perpétuelle de sa bièle-mère, el veuve Maillot, qui avot un avis su toute et dirigeot tout<lb/>sin tiot monte aveuc ses idées ben arrêtées et ne supportant poin ches écarts par rapport aux<lb/>principes ed l’église. Ché pou cela qu’il fit l’acquisition d’unne mason ed campagne:"La Ligerie'<lb/>in Dordogne.<lb/>Imaginez el surprise pou l'famile in ce mos de juyet!04 1901 lorsqu' Henri nous amène pour la<lb/>preumière fos ichi !<lb/>Ech trajet d’abord, dins un train bondé et nous aveuc note excédint ed bagages. Souvens-ti ed<lb/>note arrivée dins la tiote gare ed Goûts-Mareuil et ch’trajet qui nos attendot, fait in carriole<lb/>saquée 17 par un kva poussif, un bourrin. Mais qué émotion en arrivint dins chette imminse bâtisse<lb/>qui étot unne cinse!17 en fait. Ej te vos incore lorsque l’on a découvert le logis principal tout en<lb/>pierres de taille un peu grises et la surprise de vir euque nos ne pouvions utiliser que 2 pièches et<lb/>2 cambes.<lb/>Et ti Marie quind tu t’es aperchue qu’il faloit aller quère de l’iau à ch’puch117, au mitan de l’imminse<lb/>cour. Ej parle pas de l’cabane qui servot ed basse-cambe aveuc s’porte branlante. Mais auchi<lb/>ches cris ed joie ed tes frères in découvrint les autes bâtimints : chl’écurie, chl’étave!18, ches<lb/>granges, che pouillé!18 et che pigeonnier. Que de ju vos y avez fait!<lb/>Et que dire d’ches invirons. Nous étotes in fait dins une cinse plintée intre el Dordogne et !'<lb/>Charente dins che Périgord vert. El domaine ed 25 hectares étot intretenu par un cinsier!19 et un<lb/>régisseur, un peu roublards, pindint ches mos d̀ nos étotes à Paris.<lb/>Pindint nous séjours, nos alternotes travaux et lonques promenates dans ches invirons boisés. Et<lb/>quo dire de note admiration devint eche cèdre cintenaire de l’propriété. Ches longues promenates<lb/>étottes pou vous père, prétexte à vous faire découvrir ches secrets de l’nature, à inrichir vos<lb/>connaissanches<lb/>Chqui n’vos a nin impêché de vos lojer!2° d’amitié aveuc ches infants de ch’villache, el me<lb/>souvens de vous jus et autes scènes ed batailles organisées aveuc ches infants Rougier, aveuc<lb/>Marie Dumas, Roger Ricauchon et Anne Sudret, file de note régisseur qui étot égalemint<lb/>l’aubergiste du villache.<lb/>El charmint villache ed Notre-Dame-de-Fontaine, au cachet moyen-âgeux aveuc l’église romane ù<lb/>nos allotes à l’messe, ses 2 tours dech XIVême siècle et ses charmintes tiotes rues tortueuses.<lb/>Nos y sonmes venus réqulièremint tertous insempe jusqu’ache jour où Charles apprit qu’il étot<lb/>rechu ache concours d’intrée à Saint-Cyr, mais je n’arrive pu à me sovenir si che courrier rechu in<lb/>fin d’été il l’a rechu ichi à la Ligerie ou à Wimille quind nous allions incore régulièremint y rincontrer<lb/>el famile. Ej vos parle d’un aute tans, i y a bientôt 10 ans.<lb/>Bah! Peu importe, nos sonmes fin 1918 et ej sus continte car nous allons béto121 ête tertous<lb/>réunis ed’pis bien longtimps. N’oblie pas Marie-Agnès ed faire des photios car j’aimeros ben avoir<lb/>un cliché de mes 4 garchons réunis in uniforme. Ej bénis incore ech ciel ed me les avoir gartés in<lb/>vie.<lb/>Oui, promis m’man j’y pinserai. Mi auchi je m’souvens ed ce jour ù Charles reçut es lette de<lb/>réussite à ch’concours. Nous étotes hars 105. Et pis même si Charles faisot un peu la moue avec<lb/>eusse modeste 119ème plache, mais une aute vie s’ouvrot pou li. Mais ch’courrier, nos l’avons<lb/>rechu el 30 sétimbe alors que nous étotes à Wimille. Il avot été admis el 27 sétimbe!°6.<lb/>Et là, notre narratrice va nous quitter en attendant peut-être<lb/>de nous en raconter un peu plus un autre jour.<lb/>Ben j’vos laisse tertous, ech tiot Charles euque j’ai vu braire in preume va certainemint évoluer.<lb/>In est presque in 1920, y va avoir unne vie ed militaire in comminchant ache 33ême Rl à Arras,<lb/>i aura unne tiote famile et pis in l’obliera.<lb/>l est tard, j’vas prindre mes gouttes, faire cauffer!07 eum bouillotte et aller em coukerios<lb/>Allez mes jins10° à des!i°<lb/>e</div>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_49</idno>
+                <title type="main"> Charles et s'famile ed 1890 à 1919</title>
+                <title type="collection">Picard Concours</title>
+                <author>José, BIL</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Charles et s'famile ed 1890 à 1919</title>
+                    <author>José, BIL</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+           <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="90">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="10">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region>Pas de Calais</region>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div type="liminal"><pb facs="Picard_Concours_2020_49_p1.png"/><fw type="numbering"><lb/>N°49</fw><head><lb/>Charles et s’famile ed
+                1890 à 1919</head><p xml:lang="met-fr"><lb/>Dans ces quelques pages, nous avons le début du récit d’une dame
+                qui livre en cette année<lb/>1919, avec sa vision et son landage ch’timi ses 30 ans
+                de souvenirs sur une famille de la<lb/>petite bourgeoisie lilloise et
+                parisienne.</p></div>
+            <div type="chapter" n="1"><head><lb/>Partie 1 : El’naissance</head>
+                <p><lb/>I étot 4h30 ch' matin du 22 novimb 1890
+                din l’camb du 9 rue Princesse à Lille.</p><p><lb/>Jeanne intind des cris, ce sont cheux
+                    d’esn éfant, d’sin tiot à elle.</p><p><lb/>Ale récupère, ale intint el sage-fame dire
+                        :</p><p><lb/>C’est-ti pas là un biau tiot garchon m’dame euque¹¹ vos nos avez ofert
+                            là!</p><p><lb/>Un p’tiot gars bien dech’nord!</p><p><lb/>Acoutez-mi ches cris, il braille fort
+                                ech bral̈oul¹, vot papar² Unne voix ed chef, pas vrai m’dame ?</p><p><lb/>Dit-ale in riant
+                d’bon cœur.<lb/>Jeanne ne put s’impêcher de sourire malgré ses angouches³. P’tit
+                                    gars d’ech Nord, ouais, mais<lb/>pas seulemint sin tiot Charles.</p><p><lb/>Oui, ché ch'
+                                        prénom qu’is avote chusi¹¹¹ aveuc Henri si c’étot un garchon.</p><p><lb/>Ale aurot
+                pet-ête eu kèro⁵⁷ avoir unne file ben-sûr mais bon, elle avot déjà eu Xavier
+                sin preume⁴<lb/>i y’a déjà 2 ans puis insuite Marie-Agnés, un an après.</p><p><lb/>Ale
+                est continte tout d’même, ale le sra incore miu quand Henri, sin Henri vindra lui
+                rindre visit.<lb/>Henri es' honme depuis déjà 4 ans.</p><ab><lb/>*</ab><p><lb/>Ale s’souvint : i
+                étot venu ichi, chez eux, rue Princesse, y a quéq s’années, un jour de
+                l'Saint-<lb/>Nicolas, conme¹⁹ c’étot l’coutume ché chés Maillot.</p><p><lb/>De mécantes
+                lingues disotent qu’i s’cachot un bon parti. Vos n’croyez pas qu’il serot timps à
+                s’n<lb/>ache, 30 ans et des, qu’i treuve à s’caser ?</p><p><lb/>Rapidemint, ale l’avot
+                armarqué, un grind Monsieur aveuc del prestance conme in dit.<lb/>Ce n’étot plus
+                    unne jonne file, elle avot un peu pus ed 20 ans ach’teure!</p><p><lb/>Au cours de
+                        l’parlache⁵, on avo fini par lui ekmander des nouvièles.</p><p><lb/>Avint d’réponte, i
+                            l’avot matée, ale avot minaudé.</p><p><lb/>Ale l’a eu tout d’suite dans l’piau, mais cha,
+                ale seu el savot. Li, i faisot sin biau, il voulot plaire<lb/>avec ch' mélanche
+                d’achurance et de timidité comme ché z' honmes is sont à ché
+                momints-là.<lb/>Nos, chés fames, in laisse viendre, in in rigole.</p><p><lb/>I parlot ed
+                    sin métier, professeur i étot. Quais, décidémint, i li plaisot.</p><p><lb/>l voulot
+                        incore jacter¹¹². Ale sintot qu’i fallot l’incourager.</p><p><lb/>Ale relinça el
+                            conversation:</p><p><lb/>Henri, min cousin, il vint d’ù vot nom, ch’ti ches de Gaulle
+                                ?</p><p><lb/>Henri étot conme un pichon din l’iau, il la connaisot ben l’histoire de s'
+                famile. Sin père, Julien-<lb/>Philippe né en 1801 avot fait des arcaches⁶ su leus
+                                    ancêtes.</p><p><lb/>I partit alors dins un long parlache. I dissertot.</p><p><lb/>Là, mi j’al
+                                        pas osé l'dire ch'qu’il a raconté! Pou tout dire, j’aurot pa su !</p><p><lb/>J’a pas tout
+                compris ! J’résum'!</p><ab><lb/>*</ab><fw type="numbering"><lb/>1</fw><pb
+                    facs="Picard_Concours_2020_49_p2.png"/><p><lb/>Ch’nom de Gaulle serot d’origine
+                Gauloise. In gaulois, el chêne se disot "galle", Et pis cha serot<lb/>devenu Gaul
+                bin après. Bin ouais !</p><p><lb/>Ou ça serot celt' ou germain, ouais min cousin! Wall,
+                in celt', ché l’nom de ch' mur. Pis, in<lb/>voyagint ce serot advenu Gall puis
+                    Gaulle.</p><p><lb/>Y’aurot même des armoiries qui l’prouvtent ajouta Henri !</p><p><lb/>Infin au
+                        moins Henri avot réussi à attirer tous chés ius vers li !</p><p><lb/>Et pis, el reste ed
+                            l’assistince s’étot rapproché, ches Delannoy,</p><p><lb/>ches Kolb-Bernard, meume ches de
+                                Corbie 'alors présints ché ches 'Maillot'.</p><p><lb/>« Voilà donc l’origine de notre
+                nom » linça-t-i!», in fésant sin fiérot, à l’ensembe de ch l’auditoire<lb/>qui
+                                    se taisot en atindant l’suite.</p><p><lb/>J’avos vu juste, il étot à l’aise quind i
+                causot. Ché un biau parleur ! In vré co' su in tas d’fumier !<lb/>Incouragé, i
+                                        continua.... :</p><p><lb/>« Voyez-vous, le premier de Gaulle dont on ait la trace est un
+                                            certain Richard de Gaulle... »</p><p><lb/>Henri es linça adon⁷ dins un récit historique
+                digne ed chés pus grindes épopées. I enjolivot<lb/>suremint el conte¹¹² et
+                                                ch’rôle de ses incêtres mais bon.....»</p><p><lb/>Pis Jeanne s’étot indormi ! In est
+                                                    mate quind in a eu un p’tit quinquine⁸ !</p><ab><lb/>*</ab>
+                                                        </div>
+            <div type="chapter" n="1">
+                <head><lb/>In remont' ch’temps, nous voichi
+                inviron 30 ans pus tard, i n’eut des coses⁹<lb/>entre 1890 et 1919! Not auteuse
+                continue sin récit.</head><head><lb/>Partie 2: L’infance ed Charles.</head>
+                <p><lb/>Ches preumes
+                années.</p><p><lb/>Jeanne est binnache¹⁰ d’in avoir fini aveuc chette année 1918. Cha
+                fait déjà plus de 2 mos que<lb/>l’guère est finie, et el voudrot bin’pouvoir les
+                    vire ter tous; e' s’ file, Marie-Agnès et ses 4<lb/>garchons.</p><p><lb/>El peut bin
+                        l’dire, elle pensot qu’cha n’arriverot jamais pus</p><p><lb/>Vos pinsez, unne mère qui a
+                vu partir ses 4 fius à l’guère, chette terribe guère ù 10 millions<lb/>d’honmes
+                            ont perdu l'vie d’après chés chtatistiques !</p><p><lb/>Et autint d’éclopés ach'qu’in
+                di, el ne put euque¹¹ remercier Diu euque d’vir qu’aucun des siens<lb/>n’a péri.
+                D’autes n’ont point eu cette canche¹²! Ravisez¹³ che Monsieur Doumer, un camarate
+                ed<lb/>min mari, qui voulot suive Gallieni à l'Marne et qui a eu tros fius tués
+                plu un gazé à l’artice de l’<lb/>mort. Seu ch’plu viu a écappé à ch’massacre.
+                                In peut dire qu’in a sauvé un soldat Doumer.</p><p><lb/>Ale pinse à sin bonheur à el ;
+                                    comben pleurtent lu fiu, lu honme lu frère ou lu père ?</p><p><lb/>Bin trop, bin
+                                        trop.....</p><p><lb/>Ale se souvint incore sin garchon Charles, binnache d’aller al'
+                bagarre, de s’artreuver su l' sintier<lb/>de l'gloire. Conme ches Napoléon, César,
+                Alexandre et d’autes in parle ed’ Seigneur de la<lb/>Guerre", ed "Victoire", ed
+                “Lauriers"! In parle aussi “d’Art de la Guerre "et tout cha in majuscules<lb/>in
+                                            plus!</p><p><lb/>Ouais, tout cha chés des prones¹⁴ ! Mi quind j’y repinse l’guère ché
+                surtout :“Du sang et des<lb/>larmes" Et ché tout ce qu’in peut vous promete! Et
+                l’aspère bin qu' l’on s’in souvindra de chte<lb/>phraze !!</p><fw type="numbering"><lb/>2</fw><pb
+                    facs="Picard_Concours_2020_49_p3.png"/><p><lb/>Bon, ach’teure¹⁴, faut aller à
+                nouviau d' l’avint. Ale pinse que pour echs éfants cha ira, ale busie¹⁵<lb/>à
+                chl’éducation qui z’ont eu quind y étote jonnes. Ale n’peut s’impêcher
+                d’arpinser¹⁶ à ch’parcours<lb/>accompli depus sin mariache in 1886, i a un tiot peu
+                plu de trinte ans.. Cha fait du ben de s'<lb/>arplonger dins ch’passé.</p><p><lb/>Ale se
+                    revot dans ches années 1890...</p><p><lb/>D’puis es démission dech 16 marche 1884 ed sin
+                poste ed “ Rédacteur au Ministère de<lb/>l’intérieur", Henri a treuvé s’voie,
+                s’vocation. Din s’piau, ch’ étot in éducateur né, et ben sur, i<lb/>rejoint
+                ch’métier ed professeur. In le treuve où il a déjà inseigné cht’à dire ché
+                ches Jésuites de<lb/>l’rue ed Vaugirard à chl’lnstitut de l’lmmaculée conception.
+                Il y est edmeuré¹⁷ inviron 20 ans et a<lb/>grimpé chés échelons. I finira
+                        conme¹⁹ Préfet dché étutes in 1901.</p><p><lb/>Eum n’honme avot gramint¹⁸ d’corage et i
+                n’a nein peur à inseigner, ed timps in timps et in plu,<lb/>ché chès seurs ed'
+                Sainte-Geneviève rue d’ches postes. On l’avot appelé pou ses
+                connaissances<lb/>incyclopédiques eh, ouais, i n’avot din s’tiète chl’Henri !. In
+                l’vit inseigner aussi ben ches matières<lb/>littéraires conme¹⁹ ch' Grec,
+                ch’Latin, ch' l’Histoire ed France et sins oblier el "bèle
+                Littérature<lb/>Française</p><p><lb/>Un d’chés projets de l’institut rue edc Vaugirard
+                étot d’aponter²⁰ chés élèves à ches concours d'<lb/>grindes écoles. Je pinse
+                à “Polytechnique", où il rêvot de rintrer un peu avint l’guère ed 1870,
+                ou<lb/>incore "Saint-Cyr" ou chl'"Ecole des Mines" et ch’l’Ecole Centrale"</p><p><lb/>Henri
+                n’voulot poin faire de l’politic, c’étot nin compatib avec ch’l’inseignemint mais
+                c’étot in<lb/>catholic, presqu’unne gernouille ed bénitier. El politic, conte
+                chés curés, dech Bloc des Gauches'<lb/>arrivé ach povoir in début d’chés
+                années 1900 et pis el lo d’juillé 1901 su chés Congrégations<lb/>infléchiront
+                    grindement s’carrière.</p><p><lb/>In effet ch' texte présinté et voté in 1901 pa
+                Waldeck-Rousseau, permettot à<lb/>chés Congrégations d’inseigner si z’en avotet
+                        obtenu l’autorisation.</p><p><lb/>Et chl’école d’Henri conme pratiquemint toutes chés
+                écoles ed curés et d’bonnes-seurs, n’obtint<lb/>jamais ch’l’autorisation ou avec
+                            ed tèles conditions qu’i leu étot impossipe ed survive.</p><p><lb/>Mais chl’école,
+                continua ed vive, sins statut ben établi et dins l’précarité de par chés lois de
+                juillé²¹<lb/>1904, interdisint alors totes ches Congrégation à inseigner (merci
+                Monsieur Combes !),<lb/>Chl’institution dirigée par ech chanoine Orain ira
+                                chin-caha à partir ed 1904.<lb/>Ale ira à Versailles in 1913.</p><p><lb/>Pas décoragé
+                pou autint, min quer²² mari fonte in 1907 chl’école Fontanes rue du Bac.
+                Chette²³<lb/>école s’est nin développée et chette guère l’a achevée ej
+                                    cros.</p><p><lb/>In va la fromer²⁴ car ches priorités d’ches familes après chl’armistiche
+                n’sont point de païer²⁵ pou<lb/>chl’inseignemint ed ches infants, is n’in n’ont pu
+                ches moïens²⁶ d’ailleurs. Mais por Henri qui a<lb/>ach’teure 71 ans, i est timps ed
+                                        turner el page.</p><p><lb/>Ache momint là, l’attintion ed Jeanne fut rattirée par el
+                venue ed Marie-Agnès ech unique file à<lb/>qui ale raconta ch’qui la rendot si
+                songeuse.</p><ab><lb/>*</ab></div>
+            <div type="chapter" n="3"><head><lb/>El rinconte intre Jeanne et file Marie-Agnes.</head><fw type="numbering"><lb/>3</fw><pb
+                    facs="Picard_Concours_2020_49_p4.png"/><p><lb/>Et pis là, j’vas vous raconter
+                        l’rincontre intre l’mère et l’file!</p><p><lb/>Marie-Agnes pinsot à ché terribes années
+                            et à un passé pus lointain, cht’i de s’jonnesse²⁷....</p><p><lb/>Au fait m’man, quo
+                                qu’tin pinse ed mi et mes frères quind nos étotes jonnes ?</p><p><lb/>Ej sais que tu me
+                demindes cha in fonction d’chés études ed tes fringins, ti che fut
+                différint.</p><p><lb/>Oui c’est je pinse qu’tin père a été à chl’origine de
+                l’réussite à ch’concours de chl’Ecole des Mines<lb/>ed Xavier, chl’ainé de mes
+                infants né in 1887 qu’est sorti “Ingénieur Civil" d’chés Mines in 1909 et<lb/>sin
+                jonne frère Jacques né, li, in 1893 qui intrera dins l’même Ecole d’chés Mines.
+                I sra de "<lb/>promotion 1912.</p><p><lb/>Tout cha te l’sais d’ailleurs, tout conme ches
+                étutes ed droit et d’sciences politiques effectuées pa<lb/>ech culot de l’fratrie.
+                Oui ej parle ed tiot Pierre né en 1897. I va terminer ses étutes ed droit et
+                d’<lb/>sciences politiques et cachera s’voie insuite.</p><p><lb/>Che fut pus dur pou
+                Charles et j’y arvindrai²⁸ à des. Et ti zotes, te t’es mariée si jonne euque
+                te<lb/>n’as nein pu aller ach bout d’tes possibilités. Ti qu’es née ech 27 mai
+                1889, t’étot déjà mariée el 18<lb/>ginvié 1910. J’a toudis treuvé qu’c’étot
+                trop jonne mais bon ché vrai eu t'honme a fait l’même<lb/>formation euque Jacques
+                    et Xavier.....</p><p><lb/>Et pis, en busiant¹⁵ un tiot peu, ale rapinse de s’rincontre avec
+                sin futur promis, Alfred Cailliaux<lb/>qu’ale avot rincontré à l’bukète¹¹³ adon⁷
+                qu’elle allot avec sin frangin à une fiète qui réunissot de<lb/>jonnes et d’vius
+                diplômés de chl’école d’ches mines. I avote rapidemint eu du plaisi à
+                s’rincontrer.<lb/>Et j’va rester discrète sur leus rincontre. Alfred et
+                        Marie-Agnès se sont épousaillés²⁹ à Paris le 18<lb/>jinvier³° 1910.</p><p><lb/>Alfred
+                et Marie-Agnès urtent rapidemint leu preume infant, in 1912, avint euque l’guère³¹
+                n’éclate.<lb/>Habitant à Mons près de Lille, rapidemint i z-ont souffert de
+                            l’invasion alleminde.</p><p><lb/>Alfred étant Belge, il n’a nein été sodat³² et amon nos
+                mason³³ qui avion archu³⁴ Charles lors de<lb/>s’blessure à l’gambe³⁵ qu’i a eu
+                                durint l’intervention de sin régimint à Dinant in aout 1914.</p><p><lb/>Et oui elle vint
+                si vite chte guère, à peine eu ch’timps de vous offrir unne situation et unne
+                bonne<lb/>éducation et hop, tout a failli ête ramonéd³⁶ in deus jours.</p><p><lb/>Là,
+                    j’va vous raconter ch’que Jeanne et Marie-Agnès s’étotent raconté.</p><p><lb/>Mais au
+                fait eum file qué sovenir te wardes³⁷ de t' jonnesse et d’celle ed tes frères
+                ?</p><p><lb/>Marie-Agnès busit longtimps avint de réponte.</p><p><lb/>Nin parce qu’elle étot
+                    saisie mais l’réponche n’étot point si évidinte à formuler.</p><p><lb/>In peut dire que
+                l’réunion d’ches familes de Gaulle et Maillot ne pouvot que bailler unne
+                éducation<lb/>rigoureuse. Ches deus familes étotent des culs bénis, résolumint
+                royalistes et farouchemint<lb/>patriotes ! Chl’éducation qu’nos avons eue ne pouvot
+                        ête aute que rigoureuse.</p><p><lb/>Pou nous ches files, chés parints avotes des idées
+                ben arrêtées. Chl’éducation des files étot<lb/>pinsée pou que nous soyons ed
+                bonnes compagnes, ed bonnes épousses et de bonnes mères de<lb/>famile, ed bonnes
+                baronnes pou résumer. Tout c’qu’in trouvot dins de l’inseignement dispinsé
+                par<lb/>ches seurs.</p><p><lb/>Mais pou ches garchons c’étot aute cose. Perdez ech
+                    parcours ed Charles par exempe.</p><p><lb/>Dins sin pus tindre infance, i est externe chez
+                ches frères d’ches écoles chrétiennes ed Saint-<lb/>Thomas d’Aquin jusqu’à ses
+                dich ins. In 1900, il rejoint chl’école de nous père, chez ches Jésuites<lb/>ed "
+                        l’Immaculée Conception" rue de Vaugirard.</p><p><lb/>Là-bas, l’discipline étot stricte :
+                déjouké à 5 heures dech matin, couké³⁸ tôt auchi, à 19 heures;
+                2<lb/>promenates par semaine.</p><p><lb/>Sins compter ech règlement intérieur : lectures
+                incadrées, deminde d’autorisation pou tout objet<lb/>ou loque rintré dins
+                chl’internat. Unne véritabe préparation d’bidasse in sonme.</p><fw type="numbering"><lb/>4</fw><pb
+                    facs="Picard_Concours_2020_49_p5.png"/><p><lb/>Exigence pour former ches futures
+                élites del Nation, telle étot la mintalité ed l’époque. Ed Charles<lb/>ce qu’in
+                un disot à l’époque, tu te souvens m’man : “Est doué mais assez peu
+                studieux."<lb/>I est arrivé ach Lycée sins ouvrer gramint.</p><p><lb/>Ché à cht'
+                époque qu’i a décidé à ben ouvrer à l’école pour avoir sin baccalauréat et
+                pou apontep³⁹<lb/>Saint-Cyr car il avot décidé d’être officier. I obtint le 10
+                juillet ses 2 parties d’bac dins l’école de<lb/>ch’père: 1ére série latin/grec
+                    mintion passape.</p><p><lb/>Tu te souvins, c’est ache l’époque des lois d’séparation de
+                l’Eglise et de l’Etat et la tourminte des<lb/>inventaires de l’Eglise. Ce qui vos
+                perturbot tint euque vos avez inscrit Charles à un pinsionnat in<lb/>Belgique,
+                        Anstoing. Ech préparation à Saint-Cyr y sera artardée d’un an.</p><p><lb/>Artombé4° à
+                Anstoing, près de Tournai, Charles découve unne grinde bâtisse, il treuve
+                chl’endroit<lb/>très biau mais très triste auchi. I avot el charme d’un catiau
+                bièle mouled⁴¹ qui avot été restauré par<lb/>Viollet le Duc. Ché à chet'
+                indroit que ches Jésuites avotent treuvé refuche après lu
+                expulsion.<lb/>L’éducation y est stricte conme in France d’ailleurs. Déjoukét⁴²
+                            à 5 heures par exempe.</p><p><lb/>Charles i a passé unne bonne année, el présince ed
+                sin frère Jacques l’y a aidié. Ches<lb/>nombreuses promenates, ches bains à
+                Tourcoing ou à Lille y ont égalemint contribué. Ch’qui li<lb/>plaisot égalemint
+                ché que pindint ses tans libes, il pouvot fréquemmint rinte visit à nos famile
+                ed<lb/>Lille. Eus année scolaire 1907-1908 y fut très bonne. Sin retour l’innée
+                d’après fut ainsi bien<lb/>apontée. Chl ’école rue d’Vaugirard aïant fromé,
+                ché à chl’école Stanislas rue Notre-Dame à Paris<lb/>qu’il fra es
+                                préparation.</p><p><lb/>Sin concours à chl’école d’officiers ed Saint-Cyr, i l’ardèche
+                le 30 septempe 1909 in étant rechu<lb/>119ème su 221 admis. Charles a casi 19 ans
+                                    et in peut dire que l’page jonnesse s’est définitivemint<lb/>refromée⁴³.</p><p><lb/>Et tu
+                                        t’in souvins de l’infance de tes chinc⁴⁴ infants m’man ?</p><p><lb/>Jeanne reprit el
+                                            parlache⁵:</p><p><lb/>Oui mais avec Henri, tin pèr, ches règles étote ben établies :
+                ché chacun à ech place! Tin pèr est<lb/>un honme aux qualités certaines. Outr es
+                biauté et sa prestanche, es compagnie étot achez<lb/>arcachée⁴⁵ pou ech
+                enthousiasme, sin charme et l’intelligince ed ses propos. Un parfait<lb/>gentleman!
+                Parfois un peu trop “ complimenteur" à min goût. Et si efficache dans sin
+                estiled⁴⁶<lb/>d’inseignant !</p><p><lb/>Et ti, eum mère, ej l’admets tin éducation
+                religieusse t’baille des qualités ed bonté ed générosité<lb/>mais si exiginte
+                avec ti qu’aveuc ches autes que ches complimints et récompinses ales sont
+                plus<lb/>parcimonieux ! Père a toudis eu unne autorité naturelle, nos li
+                obéissions sins discuter, meume<lb/>Charles ech plus rude de nous chinq. ! faut
+                reconnaîte euque tu n’avos pas gramint⁴⁷ d’autorité su<lb/>li. Des anecdotes, j’en
+                    ai plein qui m’reviente.</p><p><lb/>Tu te rapinses quind Charles avot disparu lors d’unne
+                promenate à ches Tuileries et qu’i nos avot<lb/>faussé compagnie pindint que nous
+                ravisions ches batieaux su ch’lac. Et pis qu’in l’retreuva un<lb/>peu plus long dans
+                        ches alintours, à l’aise jeuant avec d’autes infants!</p><p><lb/>Ou ben incore sin “kva à
+                cotron"⁴⁸, un de ses preumes jeuets⁴⁹, un kva in cartion⁵⁰ qu’in infilot et<lb/>qu’i
+                            promenot partout dins l’mèson au risque de tout brisier.</p><p><lb/>Eh oui ! Marie-Agnès,
+                je m’in souvens de sin “kva-cotron" car ché ainchi qu’i l’appelot. l a
+                fali<lb/>jamais n' l’avoir d’ailleurs. A cht’époque là, quind in offrot des
+                cadiaux ale Saint-Nicolas, sin père<lb/>et mi avotes décidé de ne rin lui offrir
+                car il avot été solent⁵¹. Il avot eu un moé⁵² pou<lb/>s’archainder⁵³, ce qu’il
+                fit. Ché vrai euque Charles aimot tourminter ses frères. Et ti,
+                Marie-Agnès,<lb/>el grinde seur te devos protéger tes frères plus jonnes ed 3 et
+                6 ans, Jacques et Pierre, conte<lb/>ches tracasseries ed Charles qui n’hésitot pas
+                à les taquiner ou plus, n’a-t-i pas souvint jechté⁵⁴<lb/>des livres à la tête de
+                Pierre, l’aimot auchi l’enfromer dins l’cambe pou l’faire brailler.</p><fw type="numbering"><lb/>5</fw><pb
+                    facs="Picard_Concours_2020_49_p6.png"/><p><lb/>Ché vrai qu’il étot ch' plus dur
+                meume vis-à-vis de ti qui avot nein d’prise sur li. Il aimot
+                dominer.<lb/>Souvens-te de lus parties de sodats de plomb.</p><p><lb/>Oh, oui ches fameux
+                sodats de plomb qu’ils allotent acater⁵⁵ chez Monsieur Lucotte qui tenot
+                près<lb/>de chez nos, rue Saints-Pères, une quincaillerie lonmée⁵⁶ Au plat
+                d’étain’, où il vendot, pas kèr⁵⁷<lb/>ché fameux sodats, 3 sous un fantassin, 5
+                sous un cavalier. Des doubes⁵⁸ de poke⁵⁹, nos in<lb/>avions pas gramint. Papa nous
+                en donnot pour nous récompincher d’avoir été sache ou d’avoir eu<lb/>de bonnes
+                    notes.</p><p><lb/>Dins lu jus, Xavier echl’ainé avot toudis ches Austro-Hongrois, Pierre
+                ech plus jonne qu’il lonmait<lb/>affectueusemint' le cadet de mes soucis' ches
+                ltaliens ou ches Zoulous qui combattotent nuds ⁶⁰!<lb/>N’oblions pas qu’in étot en
+                pleine guère des Boers in Afrique du Sud ou parfois les Russes ?<lb/>Pis Jacques
+                        soit ches Turcs, ches Anglais ou ches Egyptiens.</p><p><lb/>Cha cangeaite⁶¹ souvint mais i
+                est vrai que li se réservot toudis⁶² les Suisses et surtout ches<lb/>Français.
+                Ché garchons reproduisotent pindant des heures ches batales historiques. Aveuc⁶³
+                du<lb/>cartion, des bouts de bos⁶⁴, del terre, du sabe, et tot chqu’i trovotent in
+                fait, ils refaisotent ches<lb/>décors de lus exploits. lls se servotent de dés
+                pour chiffrer ches pertes, de tiots canons qui<lb/>lançotent des tiots pos in quise
+                ed boulets. L’ichue n’étot pas toudis conforme à l’Histoire car<lb/>Charles
+                s’arrangeot pou toudis gagner. Pou Waterloo, par exempe, i ne se souciot qu’achez
+                peu<lb/>d’vérité historique. Ches parties se terminotent par d’improbabes traités
+                ed paix. Cose⁶⁵<lb/>remarquabe, ch’te collection nos l’avons wardée et un jour j’in
+                ai fait l’inventaire. Eh ben, i y avot<lb/>1800 sodats de toutes sortes et queques
+                            accessoires comne des batiauxe⁶⁶, des canons et autes.</p><p><lb/>In jeuait à ben d’autes
+                coses incore, à muche-muche, colin-maillard, à ches jueus d’bale, surtout<lb/>ce
+                nouveau ju qui vint d’Ingleterre et que j’pinse n’avoir été qu’unne mode et qui
+                aura disparu avec<lb/>chte quère; oui du fotbal⁶⁷ j’cros ben, ce ju dont raffolait
+                                surtout Charles à l’école.</p><p><lb/>Nous avions kèr faire des parties de croquet,
+                                    jeuer au diabolo ou incore al chole⁶⁸.</p><p><lb/>In s’disputot pour avoir le cerf-volant
+                                        che plus biau.</p><p><lb/>Des jus, oui, mais i n’y avot pas qu’cha m’man, nous avions tous
+                                            kèr lire.</p><p><lb/>Conme papa inseignot l’histoire, nos avont été nourris à ché
+                récits des grindes fiqures de note<lb/>Histoire: les Rois, Jeanne d’Arc,
+                Vercingétorix, Napoléon. Pou ches lectures, pa nos a fait<lb/>démucher⁶⁹ après
+                                                1900 tous ches auteurs indispinsabes selon li :</p><p><lb/>Hugo, Daudet, l’Comtesse de
+                Ségur, Robinson Crusoé, Jules Vernes et meume Molière ou La<lb/>Fontaine,
+                                                    Bourget, Rostand...</p><p><lb/>Ch’te passion del littérature l’a meume amené à écrire
+                ch’qu’on appelle des tiotes saynètes in<lb/>vers. J’me souvens ed 'Le brigand et le
+                                                        voyageur'</p><p><lb/>J’m’en souvens si ben qu’i en avot fait éditer au bas mot 50
+                exemplaires et qu’i l’avot jeué aveuc<lb/>sin cousse¹¹⁴ Jean de Corbie pindint ches
+                                                            vagances⁷⁰</p><p><lb/>Oui, Marie-Agnès, d’mes 5 infants, à l’école, che pus brillant a
+                été Xavier, ti, Jacques et Pierre<lb/>étotent un peu moins doués mais tellemint
+                                                                travailleurs que ches résultats étotent excellints.</p><p><lb/>Ti, rincontrer tin futur
+                époux a mis fin à tin parcours scolaire. Charles, d’après moi étot ech
+                pus<lb/>doué mais ne travaillot pas achez in classe ce qui mettot sin père in
+                prousse⁷¹. Plus d’unne fos i li<lb/>a reproché de n’pas faire ses devoirs de n’pas
+                apprende achez sauf in Histoire et in Français où il<lb/>était réqulièremint
+                preume. ! li reprochot de n’pas ête in bonne plache lors des “diligences",
+                mot<lb/>qui sanctionnot che cumul d’ches notes des lechons et t’ches devoirs. Il
+                                                                    étot raremint parmi les 5.<lb/>preumes.</p><p><lb/>A partir de 14 ins après eche
+                déchision d’faire l’école ed Saint-Cyr, i est devenu excellint élève<lb/>surtout
+                in mathématiques ce qui réconfortot sin père qui adorot inseigner el géométrie.
+                El dernière<lb/>anecdote qui me revienche et qui m’fait incore sourire, c’est quind
+                il fut invoyé chez s' mémère à<lb/>Lille pour ékapper ale scarlatine qui avot
+                                                                        atteint ses 3 frères et ti.</p><fw type="numbering"><lb/>6</fw><pb facs="Picard_Concours_2020_49_p7.png"
+                /><p><lb/>Que n’fut ech surprise de s’artreuver⁷² durint queques semaines in hiver
+                1895-1896 à chl’école ed<lb/>la Sagesse, plache de chés bleuets à Lille dins
+                unne classe où i n’y avot que des files! Ches là<lb/>d’ailleurs qu’i a commenché
+                à épeler ses preumières lettes.</p></div>
+            <div type="chapter" n="4"><head><lb/>Les vacanges familiales.</head>
+                <p><lb/>Des sovenirs
+                d’école j’in ai gramint mais c’qui eum marque le pus incore ch’est nos sovenirs
+                ed<lb/>vagances. Te t’souvens Marie-Agnès ?</p><p><lb/>Oui répondit-elle, attind je va
+                daler caher ches photos de vagances. Ches photos de l’famile<lb/>Fenouillard’ comne
+                    un aimot el dire tertous !</p><p><lb/>Ch’est vrai que c’étot chl’occasion de réunir ches
+                familes : ches Maillot, ches de Gaulle, ches de<lb/>Corbie, ches Delannoy et ches
+                        Droulers intr’autres.</p><p><lb/>Chqui dmeure ed plus incré dins nos mémoires ch’est el
+                présince majestueuse de m’mère Julia<lb/>qui dirigeot in maîtresse absolue tout
+                            ce biau tiot monde.</p><p><lb/>Pou ches infants c’étot un paradis, is étotet le plus
+                souvint à l’cour⁷³ et organisotent totes sortes<lb/>ed jus. Cheux qu’tu citos tout
+                à l’heure conme colin-maillard, muche-muche. Je n’vas pas tous les<lb/>citer.
+                Malheureusemint, le plus discutape ch’étot l’attitude ed Charles qui voulot
+                toudis⁷⁴ tout<lb/>diriger un plu ed ses colères quind i perdot. T’as aute cose à
+                                rinconter Marie-Agnès ?</p><p><lb/>Oh oui, y’a eu chés vacanges à Wimille, lorsque pa
+                n’étot pas là et qu’Charles profitot de tin<lb/>minque d’autorité, ach l’opposé
+                de pa qu’i craignot. Et ch’ jour où il avot jechté⁵⁴ tous ses juets<lb/>pace que
+                tu avos refusé ed l’immener faire du poney sous prétexe qu’i en avot déjà fait
+                el veille.<lb/>l y’a eu des coses pus plaisantes. Conme chette compétition intre
+                nous pou l’possession de la<lb/>balançoire qui était installée dans la
+                propriété ed Wimille; possession au preume arrivé. El matin,<lb/>Charles se levot
+                le preume et on l’intindot alors: « J’y sus, ej retiens el balanchoire ». Ce qui
+                nous<lb/>faisot ben rire!</p><p><lb/>Pi ché représentations ed théâte que nos
+                organisions pou t’fiète, le 21 août. Les pièches nos les<lb/>répétions après
+                nous ête mis d’accord. Je m’arvos arjouer⁷⁵ : “Les femmes savantes"
+                d’Molière<lb/>ou 'Les Plaideurs' ou 'Athalie' de Racine. In a meume mis à note
+                    répertoire des pièches⁷⁶ de<lb/>Labiche conme 'Les deux timides'</p><p><lb/>Ches vacanges
+                étotent auchi l’occasion de grindes promenates et d’bains d’mer; ou à Malo ou
+                à<lb/>Wimereux. Nos avons alors eu la canche de tertous apprente à
+                        nanger⁷⁷</p><p><lb/>Parmi nous sorties préférées étaient chelles qui nous menotent chez
+                ech pâtichier et nous y<lb/>mingions gramint d’gâtiaux. Ché pa qui nous les
+                acatot car ches pâtisseries y étotte moins kères<lb/>qu’à Paris, 2 doubes⁷⁸ ici
+                            3 doubes à Paris. Et nos in profitions !</p><p><lb/>Nous père aimot égalemint animer nos
+                après-midi in nos apprenant des cants⁷⁹ et comptines. J'<lb/>pourros incore canter
+                gramint de ces cansons populaires. Il organisot égalemint des concours
+                de<lb/>dessins et participot à gramint de nos jus collectifs.</p><p><lb/>Néanmoins, pou
+                li, poin question de nein étudier durant ches vagances. I nous rappelot
+                souvint<lb/>que l’plupart des infants de nous ache euvraiente⁸⁰ in ces mos ed
+                congés scolaires. In effet, i nos<lb/>expliquot que ches 10 semaines sins classe
+                avotte été instituées pou permette à ches infants de<lb/>participer aux ouvrages
+                des camps; ches moissons dins ch' Nord et l’ouvrage dins ches vignes<lb/>dins ech
+                    sud. In devot aider auchi.</p><p><lb/>Pou nous, il y avot des corvées pou el nettiache⁸¹
+                du bâtimint et ches commissions que nos<lb/>faisions pour préparer les repas. Mais
+                nos le faisions sins rechigner car souvint, ch' père étint<lb/>naturellemint
+                généreux, nous avions drot à des tiots cadiaux⁸² mais pus souvint des doubes;
+                un<lb/>sou par chi, deus sous par-là ! Et nous étions binnaches¹⁰</p><p><lb/>Ech système
+                ed récompinses, ej vas eum répéter je cros, il l’avot auchi institué pou nos
+                résultats<lb/>scolaires. Ches récompinses pouvotent aller jusqu’à un franc selon
+                nous résultats. Pindint ches<lb/>vacanges, i nos faisot travailler, nos ses 5
+                infants. Et nos el faisions aveuc plaisi grâce à ses<lb/>imminses qualités ed
+                    pédagogue.</p><fw type="numbering"><lb/>7</fw><pb facs="Picard_Concours_2020_49_p8.png"/><p><lb/>Parmi ches
+                dalaches⁸³ originales euque nos faisions n vacanges, il y avot chette
+                collection<lb/>d’imaches⁸⁴ d’Epinal que nous argadions. Alles décrivotent surtout
+                El vie d’ches saints' et<lb/>Chl’histoire de l’Egliche⁸⁶ Nos povions pacher⁸⁷ de
+                lonques⁸⁸ heures à comminter ces martyres<lb/>torturés de totes manières, el
+                cruauté pou ches crucifiés et pou ches Chrétiens livrés à ches<lb/>animals⁸⁹
+                dins ches arènes romaines. Ches imaches ed ’La Cène ’ou d’ Jonas prijonnier⁹⁰
+                tros<lb/>jours dins ch’vente del baleine. Chelles du déluche et de 'L’Arche de
+                        Noé'. Ou ches conflits nés<lb/>de 'La tour de Babel'.</p><p><lb/>Ah oui ! Que de
+                souvenirs ces vacanges. Alles nos ont permis d’ête unne famile unie. In a
+                meume<lb/>intindu ardire que vous avote appris à tertous vos avoir querre⁹¹:
+                frères et seurs, cousins cousines.</p>
+                </div>
+            <div type="chapter" n="5"><head><lb/>Jeanne raconte.</head>
+                <p><lb/>Mais nous zotes ches
+                mamans nos avotes d’autes préoccupations. Qué organisation ! Ché<lb/>Jeanne qui
+                    raconte.</p><p><lb/>Souvins-ti, Marie-Agnès, note preume séjour dins chette magnifique
+                propriété famillale acatéee<lb/>par nous ancêtes ache début d’ches années 1700
+                        par François Maillot simble-t-i ?</p><p><lb/>Marié avec Marie d’Eperlecq in 1681 à
+                Dunkèque ù is vécurent. Franchoé⁹² y étot négociant.<lb/>In n’a pas gramint
+                d’sovenirs de cht’époque, sauf qu’is ne vécurent poin viu, nos incêtres,
+                tot<lb/>conme leur descindince! Acoutez⁹³ un tiot peu :</p><p><lb/>Charles, 1682-1719, 37
+                ans ! Marié en 1707 avec Marie-Jeanne Lecointe 1685-1726,41 ans!<lb/>Et lu fiu
+                Charles-Nicolas né en 1715 décédé en 1743, 28 ans; marié aveuc Françoise
+                Hélène<lb/>Mouton in 1736 morte à 45 ans.</p><p><lb/>ls eurent un fiu, Henri-François,
+                    1742-1802, mort à 59 ans, j’arrête là, el série d’ancêtes!</p><p><lb/>Ej vos a parlé
+                d’eux car ce furtent des négociants prospèrent, si prospèrent qu’ils acatent⁹⁴
+                une<lb/>propriété ach début ed ches années 1700 conme je vos disos.</p><p><lb/>Par
+                conséquint ale est nôte edpuis deus sièkes⁹⁵ Ale a gramint cangé. Che qui n’a
+                poin cangé<lb/>ché sin nom, si poétique à min goût, chti ed Rosendaël qui
+                    sinifie⁹⁶ “Vallée des roses" Bélot<lb/>nin ?</p><p><lb/>Ale vocation première ed chette
+                terre, étot d’in faire unne cinse⁹⁷ aveuc unne partie consacrée à<lb/>ed
+                l’élevache⁹⁸ et l’aute à l’culture maraîchère et fruitière. Mais chette
+                propriété rattachée à<lb/>l’paroisse ed Téteghem' ù nos allions
+                régulièremint a el privilèche de s’treuver près ed Malo-les-<lb/>Bains donc
+                        près de l’mer.</p><p><lb/>Chette situation a incité el famile Maillot à y construire
+                unne barraque⁹⁹ assez vaste avait été<lb/>baptisée dech biau nom ed “Moerderhof “
+                            qui se traduit par la 'ferme de la mer'.</p><p><lb/>Tu t’in rappelles, Marie de chte grinde
+                bâtisse, caractéristique ded chés masons dech Nord aveuc<lb/>leur tot en
+                ’pannes’, ech nom qu’in donne à ches tuiles dins che Nord. Et sin style flamind
+                aveuc<lb/>ches rideaux à ches ferniètes¹⁰⁰, sin mobilier massif pou durer et
+                chette collection ed cuives euque<lb/>nos haïssions lorsqu’il fallot les astiquer.
+                Ej l’aimos car ale étot ben décorée, surtout ches ferniètes<lb/>et ches
+                                parterres ed fleurs.</p><p><lb/>Ed Malo nos fésions ed fréquintes excursions in Belgique
+                                    pou y acater che que l’on ne trouvot pas<lb/>toudis in France.</p><p><lb/>A Malo nous y
+                sonmes allés régulièremint durint ches années 1890 squ’à sque m’mère
+                Julia<lb/>Delannoy-Maillot ne loute¹¹⁵ unne mason à Wimille près de Wimereux,
+                                        charminte station balnéaire<lb/>proche ed Boulogne.</p><p><lb/>Ch’est dns chette location
+                euque nos avons gardé ches souvenirs dont tu nous parlos tout à<lb/>l’heure,
+                                            Marie.</p><p><lb/>Chette fabuleuse bâtisse construite in bas dech mont Gambier. Vaste
+                demeure à l’architecture<lb/>unique chelle du Nord aveuc ses ferniètes' ln
+                quien-Assis'¹⁰¹ si caractéristiques in cette région<lb/>pleuvieuse¹¹⁶. Mason
+                décorée avec goût aveuc ses compositions florales et o in y cultivot
+                des<lb/>légueumes¹⁰² dans un gardin¹⁰³ sogné¹⁰⁴. El seule cose qui a fini par
+                lasser min père ché el<fw type="numbering"><lb/>8</fw><pb facs="Picard_Concours_2020_49_p9.png"
+                /><lb/>présince perpétuelle de sa bièle-mère, el veuve Maillot, qui avot un avis
+                su toute et dirigeot tout<lb/>sin tiot monte aveuc ses idées ben arrêtées et ne
+                supportant poin ches écarts par rapport aux<lb/>principes ed l’église. Ché pou
+                cela qu’il fit l’acquisition d’unne mason ed campagne:"La Ligerie'<lb/>in
+                                                Dordogne.</p><p><lb/>Imaginez el surprise pou l'famile in ce mos de juyet!04 1901 lorsqu'
+                                                    Henri nous amène pour la<lb/>preumière fos ichi !</p><p><lb/>Ech trajet d’abord, dins un
+                train bondé et nous aveuc note excédint ed bagages. Souvens-ti ed<lb/>note
+                arrivée dins la tiote gare ed Goûts-Mareuil et ch’trajet qui nos attendot, fait in
+                carriole<lb/>saquée 17 par un kva poussif, un bourrin. Mais qué émotion en
+                arrivint dins chette imminse bâtisse<lb/>qui étot unne cinse!17 en fait. Ej te vos
+                incore lorsque l’on a découvert le logis principal tout en<lb/>pierres de taille un
+                peu grises et la surprise de vir euque nos ne pouvions utiliser que 2 pièches
+                et<lb/>2 cambes.</p><p><lb/>Et ti Marie quind tu t’es aperchue qu’il faloit aller quère de
+                l’iau à ch’puch117, au mitan de l’imminse<lb/>cour. Ej parle pas de l’cabane qui
+                servot ed basse-cambe aveuc s’porte branlante. Mais auchi<lb/>ches cris ed joie ed
+                tes frères in découvrint les autes bâtimints : chl’écurie, chl’étave!18,
+                ches<lb/>granges, che pouillé!18 et che pigeonnier. Que de ju vos y avez
+                    fait!</p><p><lb/>Et que dire d’ches invirons. Nous étotes in fait dins une cinse plintée
+                intre el Dordogne et !'<lb/>Charente dins che Périgord vert. El domaine ed 25
+                hectares étot intretenu par un cinsier!19 et un<lb/>régisseur, un peu roublards,
+                        pindint ches mos d̀ nos étotes à Paris.</p><p><lb/>Pindint nous séjours, nos alternotes
+                travaux et lonques promenates dans ches invirons boisés. Et<lb/>quo dire de note
+                admiration devint eche cèdre cintenaire de l’propriété. Ches longues
+                promenates<lb/>étottes pou vous père, prétexte à vous faire découvrir ches
+                            secrets de l’nature, à inrichir vos<lb/>connaissanches</p><p><lb/>Chqui n’vos a nin
+                impêché de vos lojer!2° d’amitié aveuc ches infants de ch’villache, el
+                me<lb/>souvens de vous jus et autes scènes ed batailles organisées aveuc ches
+                infants Rougier, aveuc<lb/>Marie Dumas, Roger Ricauchon et Anne Sudret, file de note
+                                régisseur qui étot égalemint<lb/>l’aubergiste du villache.</p><p><lb/>El charmint
+                villache ed Notre-Dame-de-Fontaine, au cachet moyen-âgeux aveuc l’église romane
+                ù<lb/>nos allotes à l’messe, ses 2 tours dech XIVême siècle et ses charmintes
+                                    tiotes rues tortueuses.</p><p><lb/>Nos y sonmes venus réqulièremint tertous insempe
+                jusqu’ache jour où Charles apprit qu’il étot<lb/>rechu ache concours d’intrée à
+                Saint-Cyr, mais je n’arrive pu à me sovenir si che courrier rechu in<lb/>fin
+                d’été il l’a rechu ichi à la Ligerie ou à Wimille quind nous allions incore
+                régulièremint y rincontrer<lb/>el famile. Ej vos parle d’un aute tans, i y a
+                                        bientôt 10 ans.</p><p><lb/>Bah! Peu importe, nos sonmes fin 1918 et ej sus continte car
+                nous allons béto121 ête tertous<lb/>réunis ed’pis bien longtimps. N’oblie pas
+                Marie-Agnès ed faire des photios car j’aimeros ben avoir<lb/>un cliché de mes 4
+                garchons réunis in uniforme. Ej bénis incore ech ciel ed me les avoir gartés
+                in<lb/>vie.</p><p><lb/>Oui, promis m’man j’y pinserai. Mi auchi je m’souvens ed ce jour ù
+                Charles reçut es lette de<lb/>réussite à ch’concours. Nous étotes hars 105. Et
+                pis même si Charles faisot un peu la moue avec<lb/>eusse modeste 119ème plache,
+                mais une aute vie s’ouvrot pou li. Mais ch’courrier, nos l’avons<lb/>rechu el 30
+                sétimbe alors que nous étotes à Wimille. Il avot été admis el 27
+                sétimbe 106.</p></div>
+            <div type="chapter" n="6"><p><lb/>Et là, notre narratrice va nous quitter en attendant
+                peut-être<lb/>de nous en raconter un peu plus un autre jour.<lb/>Ben j’vos laisse
+                tertous, ech tiot Charles euque j’ai vu braire in preume va certainemint
+                évoluer.<lb/>In est presque in 1920, y va avoir unne vie ed militaire in
+                comminchant ache 33ême Rl à Arras,<lb/>i aura unne tiote famile et pis in
+                l’obliera.</p><p><lb/>l est tard, j’vas prindre mes gouttes, faire cauffer!07 eum
+                bouillotte et aller em couker108</p>
+                <p><lb/>Allez mes jins109 à des110</p><fw type="numbering"><lb/>9</fw>
+                </div>
+            <div type="liminal"><pb facs="Picard_Concours_2020_49_p10.png"
+                /><head><lb/>Glossaire:</head>
+                <p><lb/>braïou¹ papar² angouches³ preume⁴, parlache⁵ arcaches⁶ adon⁷
+                quinquins⁸ coses⁹ binnache¹⁰<lb/>euque¹¹ canche¹² Ravisez¹³ ach’teure¹⁴ busie¹⁵
+                arpinser¹⁶ edmeuré¹⁷ conme¹⁹ gramint¹⁸ aponter²⁰<lb/>juillé²¹ quer²² Chette²³
+                fromer²⁴ païer²⁵ moïens²⁶ jonnesse²⁷ arvindrai²⁸ épousaillés²⁹
+                jinvier³⁰<lb/>guère³¹ sodat³² mason³³ archu³⁴ gambe³⁵ ramoné³⁶ te wardes³⁷
+                couké³⁸ aponter³⁹ Artombé⁴⁰<lb/>catiau bièle moule⁴¹ te wardes³⁷ couké³⁸
+                aponter³⁹ Artombé⁴⁰ catiau bièle moule⁴¹ Déjouké⁴<lb/>Déjouké⁴² refromée⁴³
+                chinc⁴⁴ arcachée⁴⁵ estile⁴⁶ gramint⁴⁷ “kva à cotron"⁴⁸ jeuets⁴⁹
+                cartion⁵⁰<lb/>solent⁵¹ moé⁵² s’archainder⁵³, jechté⁵⁴ acater⁵⁵ lonmée⁵⁶ kèr⁵⁷
+                doubes⁵⁸ poke⁵⁹ nuds⁶ cangeajt⁶¹<lb/>toudis⁶² Aveuc⁶³ bos⁶⁴ Cose⁶⁵ batiaux⁶⁶ fotbal⁶
+                chole⁶⁸ démucher⁶⁹ vagances⁷⁰ prousse⁷¹<lb/>artreuver⁷² à l’cour⁷³ toudis⁷⁴
+                arjouer⁷⁵ pièches⁷⁶ nanger⁷⁷ cants⁷⁹ euvraient⁸⁰ nettiache⁸¹
+                cadiaux⁸²<lb/>délaches⁸³ d’imaches⁸⁴ Egliche⁸⁶ pachere⁸⁷ lonques⁸⁸ animals⁸⁹
+                prijonnier⁹⁰ querre⁹¹ Franchoé⁹²<lb/>Acoutez⁹³ acatent⁹⁴ sièkes⁹⁵ sinifie⁹⁶
+                cinse⁹⁷ dl’élevache⁹⁸ barraque⁹⁹ ferniètes¹⁰⁰ In quien-<lb/>Assis'¹⁰¹
+                légueumes¹⁰² gardin¹⁰³ juyet¹⁰⁴ hars¹⁰⁵ sétimbe¹⁰⁶ cauffer¹⁰⁷ em couker¹⁰⁸ jins¹⁰⁹
+                à des¹¹⁰<lb/>chusi¹¹¹ conte¹¹² bukête¹¹³ cousse¹¹⁴ loute¹¹⁵ pleuvieuse¹¹⁶ puch¹¹⁷
+                pouillé¹¹⁸ cinsier¹¹⁹
+                loier¹²⁰<lb/>béto¹²¹</p>
+                <list>
+                    <item>braïou1 <foreign xml:lang="met-fr">pleurnichard</foreign></item>
+                    <item>papar2 <foreign xml:lang="met-fr">bébé</foreign></item>
+                    <item>angouches3<foreign xml:lang="met-fr">douleurs</foreign></item>
+                    <item>preume4 <foreign xml:lang="met-fr">premier</foreign></item>
+                    <item>parlache5 <foreign xml:lang="met-fr">langage, parler</foreign></item>
+                    <item>adon7<foreign xml:lang="met-fr">alors</foreign></item>
+                    <item>quinquin8 <foreign xml:lang="met-fr">bébé</foreign></item>
+                    <item>coses9 <foreign xml:lang="met-fr">choses</foreign></item>
+                    <item>binnache10 <foreign xml:lang="met-fr">contente, heureuse</foreign></item>
+                    <item>euque11<foreign xml:lang="met-fr">que</foreign></item>
+                    <item>canche12<foreign xml:lang="met-fr">chance</foreign></item>
+                    <item>ravisez13 <foreign xml:lang="met-fr">regardez</foreign></item>
+                    <item>ach'teure14 <foreign xml:lang="met-fr">maintenant</foreign></item>
+                    <item>busie15 <foreign xml:lang="met-fr">réfléchir</foreign></item>
+                    <item>arpinser16<foreign xml:lang="met-fr">repenser</foreign></item>
+                    <item>edmeuré17<foreign xml:lang="met-fr">demeuré</foreign></item>
+                    <item>conme19 <foreign xml:lang="met-fr">comme</foreign></item>
+                    <item>gramint18 <foreign xml:lang="met-fr">beaucoup</foreign></item>
+                    <item>aponter20 <foreign xml:lang="met-fr">préparer</foreign></item>
+                    <item>juillé21 <foreign xml:lang="met-fr">juillet</foreign></item>
+                    <item>quer22 <foreign xml:lang="met-fr">cher</foreign></item>
+                    <item>chette23 <foreign xml:lang="met-fr"> cette</foreign></item>
+                    <item>fromer24<foreign xml:lang="met-fr">fermer</foreign></item>
+                    <item>païer25<foreign xml:lang="met-fr"> payer</foreign></item>
+                    <item>moïens26<foreign xml:lang="met-fr"> moyens</foreign></item>
+                    <item>jonnesse27<foreign xml:lang="met-fr">jeunesse</foreign></item>
+                    <item>arvindrai28 <foreign xml:lang="met-fr">reviendrai</foreign></item>
+                    <item>épousaillés29<foreign xml:lang="met-fr">épousés</foreign></item>
+                    <item>jinvier30<foreign xml:lang="met-fr">janvier</foreign></item>
+                    <item>guère31<foreign xml:lang="met-fr">guerre</foreign></item>
+                    <item>sodat32<foreign xml:lang="met-fr">soldat</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>10</fw>
+                       <pb
+                    facs="Picard_Concours_2020_49_p11.png"
+                />
+                <list>
+                    <item>mason33 <foreign xml:lang="met-fr">maison</foreign></item>
+                    <item>archu34 <foreign xml:lang="met-fr">reçu</foreign></item>
+                    <item>gambe35 <foreign xml:lang="met-fr">jambe</foreign></item>
+                    <item>ramoné36<foreign xml:lang="met-fr"> balayé</foreign></item>
+                    <item>wardes37 <foreign xml:lang="met-fr">gardes</foreign></item>
+                    <item>aponter39<foreign xml:lang="met-fr">préparer</foreign></item>
+                    <item>artombé40<foreign xml:lang="met-fr">retombé</foreign></item>
+                    <item>catiau bièle moule41 <foreign xml:lang="met-fr">château de belle apparence</foreign></item>
+                    <item>couké38<foreign xml:lang="met-fr">couché</foreign></item>
+                    <item>aponter39<foreign xml:lang="met-fr">préparer</foreign></item>
+                    <item>déjouké42<foreign xml:lang="met-fr">lévé, réveillé</foreign></item>
+                    <item>refromée43<foreign xml:lang="met-fr">réformé</foreign></item>
+                    <item>chinc44<foreign xml:lang="met-fr">cinq</foreign></item>
+                    <item>arcachée45<foreign xml:lang="met-fr">recherchée</foreign></item>
+                    <item>estile46<foreign xml:lang="met-fr">métier</foreign></item>
+                    <item>"kva à cotron"48<foreign xml:lang="met-fr">cheval à jupe</foreign></item>
+                    <item>gramint47<foreign xml:lang="met-fr">beaucoup</foreign></item>
+                    <item>jeuets49<foreign xml:lang="met-fr">jouets</foreign></item>
+                    <item>cartion50<foreign xml:lang="met-fr">carton</foreign></item>
+                    <item>solent51<foreign xml:lang="met-fr">turbulant</foreign></item>
+                    <item>moé52<foreign xml:lang="met-fr">mois</foreign></item>
+                    <item>s'archainder53<foreign xml:lang="met-fr">se rattraper</foreign></item>
+                    <item>jechté54<foreign xml:lang="met-fr">jeter</foreign></item>
+                    <item>acater55<foreign xml:lang="met-fr">acheter</foreign></item>
+                    <item>lonmée56<foreign xml:lang="met-fr">appelée</foreign></item>
+                    <item>kèr57<foreign xml:lang="met-fr">cher</foreign></item>
+                    <item>doubes58<foreign xml:lang="met-fr">argent</foreign></item>
+                    <item>poke59<foreign xml:lang="met-fr">poche</foreign></item>
+                    <item>nuds60<foreign xml:lang="met-fr">nus</foreign></item>
+                    <item>cangeait61<foreign xml:lang="met-fr">changeait</foreign></item>
+                    <item>toudis62<foreign xml:lang="met-fr">toujours</foreign></item>
+                    <item>aveuc63<foreign xml:lang="met-fr">avec</foreign></item>
+                    <item>bos64<foreign xml:lang="met-fr">bois</foreign></item>
+                    <item>cose65<foreign xml:lang="met-fr">chose</foreign></item>
+                    <item>batiaux66<foreign xml:lang="met-fr">bateaux</foreign></item>
+                    <item>fotbal67<foreign xml:lang="met-fr">football</foreign></item>
+                    <item>chole68<foreign xml:lang="met-fr">jeu de boules</foreign></item>
+                    <item>démucher69<foreign xml:lang="met-fr">découvrir</foreign></item>
+                    <item>vagances70<foreign xml:lang="met-fr">vacances</foreign></item>
+                    <item>prousse71<foreign xml:lang="met-fr">colère</foreign></item>
+                    <item>artreuver72<foreign xml:lang="met-fr">retrouver</foreign></item>
+                    <item>à l'cour73<foreign xml:lang="met-fr">dehors</foreign></item>
+                    <item>toudis74<foreign xml:lang="met-fr">toujours</foreign></item>
+                    <item>arjouer75<foreign xml:lang="met-fr">rejouer</foreign></item>
+                    <item>pièches76<foreign xml:lang="met-fr">pièces</foreign></item>
+                    <item>nanger77<foreign xml:lang="met-fr">nager</foreign></item>
+                    <item>cants79<foreign xml:lang="met-fr">chants</foreign></item>
+                    <item>euvraient80<foreign xml:lang="met-fr">travaillaient</foreign></item>
+                    <item>nettiache81<foreign xml:lang="met-fr">nettoyage</foreign></item>
+                    <item>cadiaux82<foreign xml:lang="met-fr">cadeaux</foreign></item>
+                    <item>dalaches83<foreign xml:lang="met-fr">activités</foreign></item></list>
+                <fw type="numbering">11</fw>
+                    <pb
+                    facs="Picard_Concours_2020_49_p12.png"
+                />
+                <list>
+                    <item>imaches84<foreign xml:lang="met-fr">images</foreign></item>
+                    <item>égliche86<foreign xml:lang="met-fr">église</foreign></item>
+                    <item>pacher87<foreign xml:lang="met-fr">passer</foreign></item>
+                    <item>longues88<foreign xml:lang="met-fr">longues</foreign></item>
+                    <item>animals89<foreign xml:lang="met-fr">animaux</foreign></item>
+                    <item>prijonnier90<foreign xml:lang="met-fr">prisonnier</foreign></item>
+                    <item>querre91<foreign xml:lang="met-fr">aimer</foreign></item>
+                    <item>Franchoé92<foreign xml:lang="met-fr">François</foreign></item>
+                    <item>acoutez93<foreign xml:lang="met-fr">écoutez</foreign></item>
+                    <item>acatent94<foreign xml:lang="met-fr">achètent</foreign></item>
+                    <item>sièkes95<foreign xml:lang="met-fr">siècles</foreign></item>
+                    <item>sinifie96<foreign xml:lang="met-fr">signifie</foreign></item>
+                    <item>cinse97<foreign xml:lang="met-fr">ferme</foreign></item>
+                    <item>élevache98<foreign xml:lang="met-fr">élevage</foreign></item>
+                    <item>barraque99<foreign xml:lang="met-fr">maison</foreign></item>
+                    <item>ferniètes100<foreign xml:lang="met-fr">fenêtres</foreign></item>
+                    <item>In quien-Assis101<foreign xml:lang="met-fr">en chien assis</foreign></item>
+                    <item>légueumes102<foreign xml:lang="met-fr">légomes</foreign></item>
+                    <item>gardin103<foreign xml:lang="met-fr">jardin</foreign></item>
+                    <item>juyet104<foreign xml:lang="met-fr">juillet</foreign></item>
+                    <item>hars105<foreign xml:lang="met-fr">fier, hardi</foreign></item>
+                    <item>sétimbe106<foreign xml:lang="met-fr">septembre</foreign></item>
+                    <item>cauffer107<foreign xml:lang="met-fr">chauffer</foreign></item>
+                    <item>em couker 108<foreign xml:lang="met-fr">me coucher</foreign></item>
+                    <item>jins 109<foreign xml:lang="met-fr">gens</foreign></item>
+                    <item>à des 110<foreign xml:lang="met-fr">à plus tard</foreign></item>
+                    <item>chusi111<foreign xml:lang="met-fr">choisi</foreign></item>
+                    <item>conte112<foreign xml:lang="met-fr">histoire</foreign></item>
+                    <item>bukète113<foreign xml:lang="met-fr">hasard</foreign></item>
+                    <item>cousse114<foreign xml:lang="met-fr">cousin</foreign></item>
+                    <item>loute115<foreign xml:lang="met-fr">_louent</foreign></item>
+                    <item>pleuvieuse116<foreign xml:lang="met-fr">pleuvieuse</foreign></item>
+                    <item>puch117<foreign xml:lang="met-fr">puits</foreign></item>
+                    <item>pouillé118<foreign xml:lang="met-fr">poulallier</foreign></item>
+                    <item>cinsier119<foreign xml:lang="met-fr">fermier</foreign></item>
+                    <item>loïer120<foreign xml:lang="met-fr">lier</foreign></item>
+                    <item>béto121<foreign xml:lang="met-fr">bientot</foreign></item>
+                </list>
+                <fw type="numbering"><lb/>12</fw>
+            </div>
+        </body>
+    </text>
 </TEI>

@@ -1,74 +1,282 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-                <fileDesc>
-                    <titleStmt>
-                        <idno>PIC_CONCOURS__2020_59</idno>
-                        <title type="main"> Cha ch'est misère</title>
-                        <title type="collection">Picard Concours</title>
-                        <author>Gérard, PLATEVOET</author>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="JJANES">
-                                <surname>Janès</surname>
-                                <forename>Juliette</forename>
-                                <idno type="orcid">0000-0002-8971-6173</idno>
-                            </persName>
-                        </respStmt>
-                        <principal>
-                            <persName xml:id="BSAGOT">
-                                <surname>Sagot</surname>
-                                <forename>Benoît</forename>
-                                <idno type="orcid">0000-0001-8957-9503</idno>
-                            </persName>
-                        </principal>
-                        <funder>Inria</funder>
-                    </titleStmt>
-                    <publicationStmt>
-                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
-                            les Langues de France (COLaF)</publisher>
-                        <date when="2024-04-04"/>
-                        <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                        </availability>
-                    </publicationStmt>
-                    <sourceDesc>
-                        <bibl>
-                            <title> Cha ch'est misère</title>
-                            <author>Gérard, PLATEVOET</author>
-                            <pubPlace>Amiens</pubPlace>
-                            <publisher>Agence régionale de la langue Picarde</publisher>
-                            <date when="2020"/>
-                        </bibl>
-                    </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                    <langUsage>
-                        <language ident="met-oil-pic" usage="100">
-                            <idno type="langue">met-oïl-pic</idno>
-                            <idno type="script">latin</idno>
-                            <name>Picard</name>
-                            <date>2020</date>
-                            <location>
-                            <region/>
-                            <country>Belgique</country>
-                            </location>
-                        </language>
-                    </langUsage>
-                    <textClass>
-                        <keywords>
-                            <term type="supergenre" rend="fiction">Fiction</term>
-                            <term type="genre" rend="fiction-prose">Prose</term>
-                        </keywords>
-                    </textClass>
-                </profileDesc>
-                <revisionDesc>
-                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
-                </revisionDesc>
-            </teiHeader>
-  <text xml:lang="met-oil-pic">
-    <body>
-      <div><pb facs="Picard_Concours_2020_59_p1.png"/><lb/>N°59<lb/>CHA CH'EST MISÈRE<lb/>Ah tins, i-a ein concours in picard.<lb/>Asteur que j' veos cha, j' vas raviser ç' que j’ai in boutique.<lb/>Pou avoir eine sanche d' gangner, ch' n’est pos pou rire, i feaut du sérieux. Cha fait eine<lb/>paire d’ainnées qui n' d’a qui vol’tent que l' picard i n' soiche pus eine lanque d' rious, mais<lb/>l’espressieon de tous les sintimints et situatieons. Ch’est vrai qu’i-a d’ bieaux tesques su les<lb/>mineurs, l’s ouverriers, su l' nostalgie du temps passé, de l' famille et du pays. Mi, j' veux bin,<lb/>mais i n' feaut pos oblier que les pus bellés paches, surtout les ceulles que les gins i s'<lb/>raminvrent, ch’est souvint ç' qui est comique. L’ Brouteux dins ses pasquilles, Paul Mahieu<lb/>dins ses dits du cat-huant, l’ patois du Nord de Simons, les garlouzètes picartes de Jul' du<lb/>Tchun. Lafleur d' chés Cabotans, ch’est tout sauf ein trisse; les monoloques de lardez i seont<lb/>écrits pou faire rire; Brûle-Maison i-aimeot bin faire ind’ver les Tourquenneos...<lb/>Ch’est tous ces gins-là qu’on devreot avoir pou juger du picard, vu qu' ch’est eusses qui<lb/>seont nos pères. Seul’mint, ch’est à croire qu’asteur, on a d’s éteignoirs, des bonnets d’ nuit,<lb/>qui vol’tent pousser l' picard dins l'raqueontache des misères du temps.<lb/>l-a des moumints, on s' rattind à intinte l' cancheonne « Les roses blanches » cantée par<lb/>Berthe Sylva ou vir el film « Le voleur de bicyclette » de Vittorio De Sica.<lb/>Ch’est ainsin que s' fait l’Histoire : cha baloche d’ein côté, puis d' l’eaute, et infin on<lb/>s’ortrouève d’apleomb au mitan.<lb/>Ch'est pos tout cha, je n' participe pos pou perte, adeon, j' vas d’voir approuver d'<lb/>m’adapter.<lb/>J' vas queusir ein migrant. Ou puteôt neon, eine migrante. Parler des feimmes, ch’est dins<lb/>l’air du temps. Avé les féminicites, les crassés affaires dins l' cinéma et le sport, l' portache<lb/>du voile et “tout ti quand ti", comme on dit, cha devreot aller.<lb/>Pou ête seûr que cha plaît, elle deot ête malingampe, aveule, sourde, à mitan tout quitte.<lb/>Elle deot ête in positieon d’ein heomme qu’elle ne sait pus qui qu' ch’est obin qu’i l’a laichée<lb/>caire obin pus simpelmint qu’i-a défunqué.<lb/>Dins l’archelle aux maladies, j' vas bin li teuver eine croque de scrofuleusse au treosième<lb/>degré, obin qu’elle a les poquettes volantes qu’on direot ein fier à waufes, ou, pus pire,<lb/>quelle a l' sida ou l' nouvieau virus à la mote.<lb/>J' vas li sortir eine paire d’infants qu’elle aveot d’jà eus dins l' pays d' dusqu’elle dérive. J' li in<lb/>mets deux, ein garcheon et eine fille. Trop, cha s’reot abuser et je n' pourreos pos faire<lb/>acroire m’n histoire. I n' doivtent pos ête propes su eusses. Ch’est mieux si ch’est des<lb/>méguerleots acrapés qu’is eont été norris dins l’ brouillard qu’i n' véyeottent pos leu<lb/>n’assiette, et qu’is eont l' niflette à candelles. Pou l' treosième qu’elle attindeot, elle l’a<lb/>perdu dins l's événemints.<lb/>Elle a fait d’s études. Elle s’reot docteur, pou soigner les gins, ou les biêtes, ou eine séquoi<lb/>ainsin. Elle a d’vu d’salter à cause des bombardemints. Elle l’a récappé belle quand s'<lb/>maseon i-a été dégringuée. Asteur, elle n’a pus rien. Pus d’ logemint, pus d’ouvrache. Jusse<lb/>ses infants. C' qu’elle a acore, ch’est des pinderleots in or qu’elle aveot sur elle quanç' que s’<lb/>maseon i-a parti in l’air. Ch’éteot des présints qu’elle aveot orchus de s' manman su s' lit d’<lb/>mort, quand elle est partie d' chagrin au moumint où des soldats i-eont fusillé s’n heomme.<pb facs="Picard_Concours_2020_59_p2.png"/><lb/>Elle orvind ses bijoux pour payer ein passeu et s’in aller fin léon de s' pays dusqu’elle n’a pus<lb/>rien à rattinte. Elle aveot tout d' même pu warder ein p’tit peo d' sous d' côté, mais on li a<lb/>agripé pindant l' voyache.<lb/>Infin, après bin des russes in mer, elle arrive avé ses infants au bord d’ein pays dusqu’on li a<lb/>dit qu’i-aveot la paix et des gins prêts pou l’s accueillir. Au lieu d’ cha, ces gins voleottent les<lb/>ruer de r’tour à l’iéau et les rinvéyer dins leu pays. I n' d’a même qu’i-eont tiré d’ssus à<lb/>queops d' fusil.<lb/>Hureus'mint, des policiers i-eont v'nu et l's eont déposés dins ein camp espécial pou<lb/>réfugiés. Mais intertemps, dins l' batieau, l' pétite fille i-aveot attrapé des colipes. Elle aveot<lb/>mau à s’ vinte à forche d’avaler de l' crasse iéau. I' garcheon i s’aveot fait à s' gampe eine<lb/>coichure qui-aveot tourné mauvais et qu' l’oche i commincheot à ête mutri. Is eont eu l'<lb/>sanche que leu manman i-éteot docteur et qu’i-aveot !' matériel dins l' chintre dù qu’on les<lb/>aveot plachés.<lb/>Maugré ceulle banse d' malheurs, is eont fini pa arriver dins ein villache. ls eont orchu eine<lb/>pétite baraque. Ch' n’éteot pos Byzance ni l' paradis, mais ch’éteot mieux qu' leu maseon<lb/>campée dins leu pays.<lb/>Seulemint, i d’meureot l' pus grand problème. Les gins i l's orwéttieottent avec ein air<lb/>soucard. I n’éteottent pos contints, disant que l’s étringers d’ailleurs is éteottent mieux<lb/>servis que les ceux nés natifs du villache, qu’eusses is aveottent ouvré toute leu vie pou<lb/>orchevoir eine ortraite d’ claque-chabeots. Toute l' jalous'té i wideot ainsin avé d’s orgards<lb/>mal-moutrants et des meots comme des piques d' fourque. Mais beon, ces pauves gins i n'<lb/>comperdeottent pos tout ç' qu’i s' diseot, surtout quand ch’éteot dit in picard. Ch’éteot<lb/>acore pus pire pou l’s infants à l’école. Is orcheveottent des boucas su leu carnassière in<lb/>rintrant au soir.<lb/>Infin, rien n’alleot bin, tout i-alleot mau.<lb/>Quand on écrit eine histoire ainsin, i n' feaut pos abuser des détoules du malheur, sineon les<lb/>liseus i d’vienn’tent inrostés et comme jus d’haleine. I feaut treuver eine fin hureusse qui-<lb/>acruit l' couan d' l’ouèl, comme à l'mote du cinéma américain.<lb/>L' migrante, qu’on n' conneot même pos s' neom fellemint qu’i-est difficile à dire, elle<lb/>porméneot au leong du terrain d' fotballe. Tout à n’ein queop, elle intind berler les jeones et<lb/>l's intraîneus. l-aveot ein jeueu qu’i-éteot rétindu au mitan du terrain. I n’ormueot pus et<lb/>tertous i frioleot tout autour. Elle a compris ç' qui s' passeot et elle a queuru vir. Elle a fait<lb/>orculer l's orwettiants. L-aveot ein silince de mort, tertous i-aveot ravalé s' lanque. Sans s'<lb/>débalter, elle s’a atusé à faire orvénir à li l' ceu qu’i-aveot perdu conscieince. Quand i-a<lb/>rouvère ses is et d’mindé dusqu’i-éteot, les gins i-eont déloyé leu lanque pou ormercier l'<lb/>migrante qui aveot réussi ç' miraque. I n' d’aveot nu qui saveot qu’elle éteot docteur.<lb/>I n’a pos faullu lommint pou qu' l’événemint i soiche raqueonté de l'buvette du fotballe au<lb/>bistreot du chintre, puis au boutique et ameon toutes les caquettes du villache.<lb/>Elle a été orchue à l' maseon communale pou acte d' bravoure. Quand i-eont su qu’elle éteot<lb/>docteur, vu que l' villache i-éteot dins ein désert médical, les édiles i li eont installé ein<lb/>cabinet d' soins dins eine pus belle maseon. Depuis, tertous i li dit bin "banjour, docteur",<lb/>même si n' sav'tent toudi pos dire s' neom.<pb facs="Picard_Concours_2020_59_p3.png"/><lb/>tine histoire parelle, cha devreot plaire. Ch’est bin fich'lé, vu qu' cha orprind toutes les<lb/>fichelles du moumint. J’areos pouvu rajouter d’s histoires de buveus, parler d’alandatieons,<lb/>d' fu d' forêt et d’s eautes imbroules, mais i feaut in warder pou l' prochain cancours.<lb/>I reste l' titre. In mettant l' meot “misère" à l' beonne plache, cha va rattirer les liseus du<lb/>picard moderne. Asteur, ch’est oute.<lb/>Adeon, à l'feos qu’i vient.<lb/>Lexique: riou : rieur / s' raminvrer : se souvenir / balocher: balancer / d’apleomb: en<lb/>équilibre / mitan : milieu / approuver : essayer / queusir : choisir / cras: sale/ malingampe :<lb/>boiteux / aveule : aveugle / tout quitte : niais / ête in positieon : être enceinte / défunquer :<lb/>mourir / archelle : étagère ! croque : maladie / poquettes volantes : varicelle / waufe:<lb/>gaufre / méguerleot : maigrichon / acrapé: sale / niflette : rhume/ candelle : morve/<lb/>d’salter : s’enfuir / dégringué : démoli / pinderleot : bijou / peo : peu / agriper : chaparder /<lb/>russes : difficultés / colipes : coliques / coichure : blessure / mutrir : pourrir / banse : panier /<lb/>camper : exploser ! soucard : hypocrite / ouvrer : travailler / claque-chabeots : indigent /<lb/>mal-moutrant : de travers / fourque : fourche / bouca: galet / carnassière : cartable/<lb/>détoule : ennui / inrosté : fatigué, enivré/ jus d’haleine : essoufflé / acruir : mouiller /<lb/>couan : coin / ouèl : œil / tout à n’ein queop : soudain / berler : crier / frioler : s’agiter /s'<lb/>débalter: s’énerver ! s’atuser: s’appliquer ! déloyer: délier / nu : aucun / caquette:<lb/>bavarde ! alandatieons: inondations / fu : feu loute : terminé</div>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_59</idno>
+                <title type="main"> Cha ch'est misère</title>
+                <title type="collection">Picard Concours</title>
+                <author>Gérard, PLATEVOET</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> Cha ch'est misère</title>
+                    <author>Gérard, PLATEVOET</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="95">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>Belgique</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="5">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>Belgique</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div><pb facs="Picard_Concours_2020_59_p1.png"/><fw type="numbering"><lb/>N°59</fw>
+                <head><lb/>CHA CH'EST MISÈRE</head>
+                <p><lb/>Ah
+                tins, i-a ein concours in picard.</p>
+                <p><lb/>Asteur que j' veos cha, j' vas raviser ç' que
+                j’ai in boutique.</p>
+                <p><lb/>Pou avoir eine sanche d' gangner, ch' n’est pos pou rire, i
+                feaut du sérieux. Cha fait eine<lb/>paire d’ainnées qui n' d’a qui vol’tent que l'
+                picard i n' soiche pus eine lanque d' rious, mais<lb/>l’espressieon de tous les
+                sintimints et situatieons. Ch’est vrai qu’i-a d’ bieaux tesques su les<lb/>mineurs,
+                l’s ouverriers, su l' nostalgie du temps passé, de l' famille et du pays. Mi, j'
+                veux bin,<lb/>mais i n' feaut pos oblier que les pus bellés paches, surtout les
+                ceulles que les gins i s'<lb/>raminvrent, ch’est souvint ç' qui est comique. L’
+                Brouteux dins ses pasquilles, Paul Mahieu<lb/>dins ses dits du cat-huant, l’ patois
+                du Nord de Simons, les garlouzètes picartes de Jul' du<lb/>Tchun. Lafleur d' chés
+                Cabotans, ch’est tout sauf ein trisse; les monoloques de lardez i seont<lb/>écrits
+                pou faire rire; Brûle-Maison i-aimeot bin faire ind’ver les
+                Tourquenneos...</p>
+                <p><lb/>Ch’est tous ces gins-là qu’on devreot avoir pou juger du
+                picard, vu qu' ch’est eusses qui<lb/>seont nos pères. Seul’mint, ch’est à croire
+                qu’asteur, on a d’s éteignoirs, des bonnets d’ nuit,<lb/>qui vol’tent pousser l'
+                picard dins l'raqueontache des misères du temps.</p>
+                <p><lb/>l-a des moumints, on s'
+                rattind à intinte l' cancheonne « Les roses blanches » cantée par<lb/>Berthe Sylva
+                ou vir el film « Le voleur de bicyclette » de Vittorio De Sica.</p>
+                <p><lb/>Ch’est ainsin
+                que s' fait l’Histoire : cha baloche d’ein côté, puis d' l’eaute, et infin
+                on<lb/>s’ortrouève d’apleomb au mitan.</p>
+                <p><lb/>Ch'est pos tout cha, je n' participe pos
+                pou perte, adeon, j' vas d’voir approuver d'<lb/>m’adapter.</p>
+                <p><lb/>J' vas queusir ein
+                migrant. Ou puteôt neon, eine migrante. Parler des feimmes, ch’est dins<lb/>l’air
+                du temps. Avé les féminicites, les crassés affaires dins l' cinéma et le sport,
+                l' portache<lb/>du voile et “tout ti quand ti", comme on dit, cha devreot
+                aller.</p>
+                <p><lb/>Pou ête seûr que cha plaît, elle deot ête malingampe, aveule, sourde,
+                à mitan tout quitte.<lb/>Elle deot ête in positieon d’ein heomme qu’elle ne sait
+                pus qui qu' ch’est obin qu’i l’a laichée<lb/>caire obin pus simpelmint qu’i-a
+                défunqué.</p>
+                <p><lb/>Dins l’archelle aux maladies, j' vas bin li teuver eine croque de
+                scrofuleusse au treosième<lb/>degré, obin qu’elle a les poquettes volantes qu’on
+                direot ein fier à waufes, ou, pus pire,<lb/>quelle a l' sida ou l' nouvieau virus
+                à la mote.</p>
+                <p><lb/>J' vas li sortir eine paire d’infants qu’elle aveot d’jà eus dins
+                l' pays d' dusqu’elle dérive. J' li in<lb/>mets deux, ein garcheon et eine fille.
+                Trop, cha s’reot abuser et je n' pourreos pos faire<lb/>acroire m’n histoire. I n'
+                doivtent pos ête propes su eusses. Ch’est mieux si ch’est des<lb/>méguerleots
+                acrapés qu’is eont été norris dins l’ brouillard qu’i n' véyeottent pos
+                leu<lb/>n’assiette, et qu’is eont l' niflette à candelles. Pou l' treosième
+                qu’elle attindeot, elle l’a<lb/>perdu dins l's événemints.</p>
+                <p><lb/>Elle a fait d’s
+                études. Elle s’reot docteur, pou soigner les gins, ou les biêtes, ou eine
+                séquoi<lb/>ainsin. Elle a d’vu d’salter à cause des bombardemints. Elle l’a
+                récappé belle quand s'<lb/>maseon i-a été dégringuée. Asteur, elle n’a pus
+                rien. Pus d’ logemint, pus d’ouvrache. Jusse<lb/>ses infants. C' qu’elle a acore,
+                ch’est des pinderleots in or qu’elle aveot sur elle quanç' que s’<lb/>maseon i-a
+                parti in l’air. Ch’éteot des présints qu’elle aveot orchus de s' manman su s' lit
+                d’<lb/>mort, quand elle est partie d' chagrin au moumint où des soldats i-eont
+                fusillé s’n heomme.</p>
+                <pb facs="Picard_Concours_2020_59_p2.png"/>
+                <p>
+                    <lb/>Elle orvind ses
+                bijoux pour payer ein passeu et s’in aller fin léon de s' pays dusqu’elle n’a
+                pus<lb/>rien à rattinte. Elle aveot tout d' même pu warder ein p’tit peo d' sous
+                d' côté, mais on li a<lb/>agripé pindant l' voyache.</p>
+                <p><lb/>Infin, après bin des
+                russes in mer, elle arrive avé ses infants au bord d’ein pays dusqu’on li a<lb/>dit
+                qu’i-aveot la paix et des gins prêts pou l’s accueillir. Au lieu d’ cha, ces gins
+                voleottent les<lb/>ruer de r’tour à l’iéau et les rinvéyer dins leu pays. I n'
+                d’a même qu’i-eont tiré d’ssus à<lb/>queops d' fusil.</p>
+                <p><lb/>Hureus'mint, des
+                policiers i-eont v'nu et l's eont déposés dins ein camp espécial
+                pou<lb/>réfugiés. Mais intertemps, dins l' batieau, l' pétite fille i-aveot
+                attrapé des colipes. Elle aveot<lb/>mau à s’ vinte à forche d’avaler de l' crasse
+                iéau. I' garcheon i s’aveot fait à s' gampe eine<lb/>coichure qui-aveot tourné
+                mauvais et qu' l’oche i commincheot à ête mutri. Is eont eu l'<lb/>sanche que leu
+                manman i-éteot docteur et qu’i-aveot !' matériel dins l' chintre dù qu’on
+                les<lb/>aveot plachés.</p>
+                <p><lb/>Maugré ceulle banse d' malheurs, is eont fini pa
+                arriver dins ein villache. ls eont orchu eine<lb/>pétite baraque. Ch' n’éteot pos
+                Byzance ni l' paradis, mais ch’éteot mieux qu' leu maseon<lb/>campée dins leu
+                pays.</p>
+                <p><lb/>Seulemint, i d’meureot l' pus grand problème. Les gins i l's
+                orwéttieottent avec ein air<lb/>soucard. I n’éteottent pos contints, disant que
+                l’s étringers d’ailleurs is éteottent mieux<lb/>servis que les ceux nés natifs du
+                villache, qu’eusses is aveottent ouvré toute leu vie pou<lb/>orchevoir eine
+                ortraite d’ claque-chabeots. Toute l' jalous'té i wideot ainsin avé d’s
+                orgards<lb/>mal-moutrants et des meots comme des piques d' fourque. Mais beon, ces
+                pauves gins i n'<lb/>comperdeottent pos tout ç' qu’i s' diseot, surtout quand
+                ch’éteot dit in picard. Ch’éteot<lb/>acore pus pire pou l’s infants à l’école.
+                Is orcheveottent des boucas su leu carnassière in<lb/>rintrant au soir.</p>
+                <p><lb/>Infin,
+                rien n’alleot bin, tout i-alleot mau.</p>
+                <p><lb/>Quand on écrit eine histoire ainsin, i n'
+                feaut pos abuser des détoules du malheur, sineon les<lb/>liseus i d’vienn’tent
+                inrostés et comme jus d’haleine. I feaut treuver eine fin hureusse qui-<lb/>acruit
+                l' couan d' l’ouèl, comme à l'mote du cinéma américain.</p>
+                <p><lb/>L' migrante, qu’on
+                n' conneot même pos s' neom fellemint qu’i-est difficile à dire,
+                elle<lb/>porméneot au leong du terrain d' fotballe. Tout à n’ein queop, elle
+                intind berler les jeones et<lb/>l's intraîneus. l-aveot ein jeueu qu’i-éteot
+                rétindu au mitan du terrain. I n’ormueot pus et<lb/>tertous i frioleot tout autour.
+                Elle a compris ç' qui s' passeot et elle a queuru vir. Elle a fait<lb/>orculer l's
+                orwettiants. L-aveot ein silince de mort, tertous i-aveot ravalé s' lanque. Sans
+                s'<lb/>débalter, elle s’a atusé à faire orvénir à li l' ceu qu’i-aveot perdu
+                conscieince. Quand i-a<lb/>rouvère ses is et d’mindé dusqu’i-éteot, les gins
+                i-eont déloyé leu lanque pou ormercier l'<lb/>migrante qui aveot réussi ç'
+                miraque. I n' d’aveot nu qui saveot qu’elle éteot docteur.</p>
+                <p><lb/>I n’a pos faullu
+                lommint pou qu' l’événemint i soiche raqueonté de l'buvette du fotballe
+                au<lb/>bistreot du chintre, puis au boutique et ameon toutes les caquettes du
+                villache.</p>
+                <p><lb/>Elle a été orchue à l' maseon communale pou acte d' bravoure. Quand
+                i-eont su qu’elle éteot<lb/>docteur, vu que l' villache i-éteot dins ein désert
+                médical, les édiles i li eont installé ein<lb/>cabinet d' soins dins eine pus
+                belle maseon. Depuis, tertous i li dit bin "banjour, docteur",<lb/>même si n'
+                sav'tent toudi pos dire s' neom.</p>
+                <pb facs="Picard_Concours_2020_59_p3.png"/>
+                <p><lb/>Eine
+                histoire parelle, cha devreot plaire. Ch’est bin fich'lé, vu qu' cha orprind toutes
+                les<lb/>fichelles du moumint. J’areos pouvu rajouter d’s histoires de buveus, parler
+                d’alandatieons,<lb/>d' fu d' forêt et d’s eautes imbroules, mais i feaut in warder
+                pou l' prochain cancours.</p>
+                <p><lb/>I reste l' titre. In mettant l' meot “misère" à l'
+                beonne plache, cha va rattirer les liseus du<lb/>picard moderne. Asteur, ch’est
+                oute.</p>
+                <p><lb/>Adeon, à l'feos qu’i vient.</p>
+                </div>
+            <div type="liminal">
+                <p><lb/>Lexique:  riou : <foreign xml:lang="met-fr">rieur </foreign>
+                    / s' raminvrer : <foreign xml:lang="met-fr"> se
+                souvenir </foreign>
+                    / balocher: <foreign xml:lang="met-fr"> balancer </foreign>
+                    / d’apleomb: <foreign xml:lang="met-fr"> en<lb/>/>équilibre </foreign>
+                    / mitan : <foreign xml:lang="met-fr"> milieu </foreign>
+                    /
+                approuver : <foreign xml:lang="met-fr"> essayer </foreign>
+                    / queusir : <foreign xml:lang="met-fr"> choisir </foreign>
+                    / cras: <foreign xml:lang="met-fr"> sale</foreign>
+                    / malingampe : <foreign xml:lang="met-fr"><lb/>boiteux </foreign>
+                    /
+                aveule : <foreign xml:lang="met-fr"> aveugle </foreign>
+                    / tout quitte : <foreign xml:lang="met-fr"> niais </foreign>
+                    / ête in positieon : <foreign xml:lang="met-fr"> être enceinte </foreign>
+                    /
+                défunquer : <foreign xml:lang="met-fr"><lb/>
+                  mourir </foreign>/ archelle : <foreign xml:lang="met-fr"> étagère </foreign>! croque : <foreign xml:lang="met-fr"> maladie </foreign>
+                    / poquettes
+                volantes : <foreign xml:lang="met-fr"> varicelle </foreign>
+                    / waufe: <foreign xml:lang="met-fr"><lb/>gaufre </foreign>
+                    / méguerleot : <foreign xml:lang="met-fr"> maigrichon </foreign>
+                    / acrapé: <foreign xml:lang="met-fr"> sale
+                </foreign>
+                    / niflette : <foreign xml:lang="met-fr"> rhume</foreign>
+                    / candelle : <foreign xml:lang="met-fr"> morve</foreign>
+                    /<lb/>d’salter : <foreign xml:lang="met-fr"> s’enfuir </foreign>
+                    / dégringué : <foreign xml:lang="met-fr">
+                démoli </foreign>
+                    / pinderleot : <foreign xml:lang="met-fr"> bijou </foreign>
+                    / peo : <foreign xml:lang="met-fr"> peu </foreign>
+                    / agriper : <foreign xml:lang="met-fr"> chaparder </foreign>
+                    /<lb/>russes : <foreign xml:lang="met-fr">
+                difficultés </foreign>
+                    / colipes : <foreign xml:lang="met-fr"> coliques </foreign>
+                    / coichure : <foreign xml:lang="met-fr"> blessure </foreign>
+                    / mutrir : <foreign xml:lang="met-fr"> pourrir </foreign>
+                    / banse : <foreign xml:lang="met-fr">
+                panier </foreign>
+                    /<lb/>camper : <foreign xml:lang="met-fr"> exploser </foreign>
+                    ! soucard : <foreign xml:lang="met-fr"> hypocrite </foreign>
+                    / ouvrer : <foreign xml:lang="met-fr"> travailler </foreign>
+                    /
+                claque-chabeots : <foreign xml:lang="met-fr"> indigent </foreign>
+                    /<lb
+                />mal-moutrant : <foreign xml:lang="met-fr"> de travers </foreign>
+                    / fourque : <foreign xml:lang="met-fr"> fourche </foreign>/
+                bouca: <foreign xml:lang="met-fr"> galet </foreign>
+                    / carnassière : <foreign xml:lang="met-fr"> cartable</foreign>
+                    /<lb/>détoule : <foreign xml:lang="met-fr"> ennui </foreign>
+                    / inrosté : <foreign xml:lang="met-fr"> fatigué,
+                enivré</foreign>
+                    / jus d’haleine : <foreign xml:lang="met-fr"> essoufflé </foreign>/
+                    acruir : <foreign xml:lang="met-fr"> mouiller </foreign>/
+                    <lb/>couan : <foreign xml:lang="met-fr"> coin </foreign>/
+                    ouèl : <foreign xml:lang="met-fr">
+                œil </foreign>
+                    / tout à n’ein queop : <foreign xml:lang="met-fr"> soudain </foreign>
+                    / berler : <foreign xml:lang="met-fr"> crier </foreign>
+                    / frioler : <foreign xml:lang="met-fr"> s’agiter
+                </foreign>
+                    /s'<lb/>débalter: <foreign xml:lang="met-fr"> s’énerver </foreign>
+                    ! s’atuser: <foreign xml:lang="met-fr"> s’appliquer </foreign>
+                    ! déloyer: <foreign xml:lang="met-fr"> délier </foreign>
+                    / nu : <foreign xml:lang="met-fr">
+                aucun </foreign>/ caquette: <foreign xml:lang="met-fr"><lb/>bavarde </foreign>
+                    ! alandatieons: <foreign xml:lang="met-fr"> inondations </foreign>/ fu : <foreign xml:lang="met-fr"> feu</foreign> loute : <foreign xml:lang="met-fr">
+                terminé</foreign></p></div>
+        </body>
+    </text>
 </TEI>

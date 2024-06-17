@@ -1,74 +1,304 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-                <fileDesc>
-                    <titleStmt>
-                        <idno>PIC_CONCOURS__2020_55</idno>
-                        <title type="main"> L'train du 15 féverrier</title>
-                        <title type="collection">Picard Concours</title>
-                        <author>Pascal , WINBERG</author>
-                        <respStmt>
-                            <resp>Encoding</resp>
-                            <persName xml:id="JJANES">
-                                <surname>Janès</surname>
-                                <forename>Juliette</forename>
-                                <idno type="orcid">0000-0002-8971-6173</idno>
-                            </persName>
-                        </respStmt>
-                        <principal>
-                            <persName xml:id="BSAGOT">
-                                <surname>Sagot</surname>
-                                <forename>Benoît</forename>
-                                <idno type="orcid">0000-0001-8957-9503</idno>
-                            </persName>
-                        </principal>
-                        <funder>Inria</funder>
-                    </titleStmt>
-                    <publicationStmt>
-                        <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour
-                            les Langues de France (COLaF)</publisher>
-                        <date when="2024-04-04"/>
-                        <availability>
-                            <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                        </availability>
-                    </publicationStmt>
-                    <sourceDesc>
-                        <bibl>
-                            <title> L'train du 15 féverrier</title>
-                            <author>Pascal , WINBERG</author>
-                            <pubPlace>Amiens</pubPlace>
-                            <publisher>Agence régionale de la langue Picarde</publisher>
-                            <date when="2020"/>
-                        </bibl>
-                    </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                    <langUsage>
-                        <language ident="met-oil-pic" usage="100">
-                            <idno type="langue">met-oïl-pic</idno>
-                            <idno type="script">latin</idno>
-                            <name>Picard</name>
-                            <date>2020</date>
-                            <location>
-                            <region/>
-                            <country>France</country>
-                            </location>
-                        </language>
-                    </langUsage>
-                    <textClass>
-                        <keywords>
-                            <term type="supergenre" rend="fiction">Fiction</term>
-                            <term type="genre" rend="fiction-prose">Prose</term>
-                        </keywords>
-                    </textClass>
-                </profileDesc>
-                <revisionDesc>
-                    <change when="2024-04-02" who="#JJANES">Génération du XML</change>
-                </revisionDesc>
-            </teiHeader>
-  <text xml:lang="met-oil-pic">
-    <body>
-      <div><pb facs="Picard_Concours_2020_55_p1.png"/><lb/>N°55<lb/>L’train du 15 féverrier.<lb/>Lindi, ein matin d’hiver. L’neiche i-aveot cait pindant l’nuit.<lb/>Queurir à Bruxelles par ein temps parel pou s’in aller ouvrer... Mais i n’a rien à faire !<lb/>Seul'mint, in carette ou bin in train ? Tertous i sait que quand c'qu’i-a ein chintimète<lb/>d’neiche, l'pays i-est bloqué... et puis Bruxelles in carette, ch’n’est d’jà pos facile<lb/>quand c'qu’i fait sec, alors du temps parel...<lb/>Après avoir déposé s’feimme Brigitte à s’bureau, Arnaud i s’in va à l’gare pou li printe<lb/>l'train qui l’immèn reot dins l’capitale. Et au moins, i s’reot à timpe... Pos seul’mint<lb/>pou s’n ouvrache, neon, mais surtout pou l’ortour. Pasqu’à c’soir, ch’est fiête ! Ahais,<lb/>Brigitte et li i fiêtent leus vingt-cheonq ans d’mariache. l’restaurant i-est réservé<lb/>d’puis huit jours et i-a même pris congé d’main pou savoir s’ormette... I busie aussi<lb/>qu’inter la gare et s’bureau, i-a eine bijout'rie et i-aveot vu l’sémaine passée ein<lb/>pinderleot qui plaireot seûr'mint à s’feimme...<lb/>L’ov'là bin installé dins l’train. L'wagon i-est tout plein. In face de li, i-a eine manman<lb/>avé s’pétite fille. L’manman, qu’elle deot avoir eine beonne trintaine d’ainnées,<lb/>ch’t’eine belle feimme, ein visage ein peu reond, des bieaux ch’feux qui tir'tent su<lb/>l’roux et avec cha ein sourire qui f'reot craquer ein évêque. L’pétite, elle n’a pos école<lb/>aujord’hui. Ch’est conférince. Du queop s’mamère elle l’a imm’née à Bruxelles pou li<lb/>moutrer l’Grand Plache et passer eine journée pindant que l’mopère i-est à<lb/>l’ouvrache. A côté d’li, i-a ein heomme, in costume, avé s’n ordinateur. Cha deot ête<lb/>ein fonctionnaire dins ein ministère. l-a eine tiête à cha et on sait qu’dins l’capitale,<lb/>cha n’minque pos!<lb/>U'train i démarre à l’heure ! Infin à peu près, on est in Belgique... feaut pos rêver ! Je<lb/>n’sais pos si ch’est l’vue des paysaches tout blanquis pa l’neiche, mais Arnaud i<lb/>s’ortrouèfe bin vite au pays des rêfes, berché pau bruit du train...<lb/>I se r’veot, l’jour du prumier rindez-vous, s’cœur trannant quand c’qu’elle a arrivé...<lb/>Elle éteot belle...i se seont plus tout d’suite ! In vingt-cheonq ans, i n’a pos eu bramint<lb/>d'neuaches dins leu vie à deux. Puteôt du bonheur et deux p’tites perles qui seont<lb/>vnues illuminer leu n’existince. Des jumelles, Chloé et Pauline, qu’i z’eont asteur<lb/>quinze ans. Ch’est ses deux yeux... Et s’i rajoute alfeos qu’i n’est pus maîte à s’maseon<lb/>avec ses treos feimmes, ch’est pasque ch't'ein fouteux d’gins ! Et qu’elles, elles<lb/>intin'tent l'riache!<lb/>Et s’rêfe i l’immène in Bretagne pindant les vacances, li, allongé su l’sape à côté de<lb/>s’feimme et les p’tites qui jeueottent tout près d’l’ieau... l’solel i tapeot et i<lb/>z'éteottent fin hureux !<lb/>Tout d’ein queop, i-a été sorti de s’rêfe par eine sécousse, et ein bruit qu’t’areos dit<lb/>eine esplosieon.<pb facs="Picard_Concours_2020_55_p2.png"/><lb/>Quand c’qui-a orvénu à li, i s’a ortrouvé d’l’éaute côté du wagon, coinché par eine<lb/>barre de fier au niveau d’s’poitreine et à ses pieds i sinteot eine séquoi d’quiéaud. Pos<lb/>moyein d’vir c’que ch’éteot. De l’finquée rimplisseot l’voiture qui sanneot s’avoir<lb/>ordressé d'l’avant et du queop, li i-aveot été involé d’l’éaute côté, et s’a ortrouvé tout<lb/>creon.<lb/>Après avoir orpris ses esprits, i s’a rindu queompte qu’eine catastrophe elle veneot<lb/>d’arriver.<lb/>l-a tout d’suite busié à Brigitte et ses deux filles. Puis, rasseuré d’ête acor in vie, i-a<lb/>essayé d’s’estirper d’ceulle tablature qui li f'seot mau et ceulle foutue barre de fier<lb/>qui l’impêcheot d’respirer. Et i-aveot toudis c'poids su ses gampes...<lb/>Dans l’wagon, i-intindeot les cris probabelmint des gins coinchés comme li, qui<lb/>souffreottent, qu’i-aveottent eu l’esquite. Dins ces momints-là, on n’sait pus d’quoi.<lb/>On s’deminte quoisqu’i vient d’arriver. Tout près d’li, i veot ein feimme, s’visache<lb/>plein d’sang, qui berleot; s’gampe i-éteot époutie pa-d’sous eine banquette qu’i¬<lb/>aveot seûr'mint traversé l’wagon.<lb/>A l'estérieur, pus leon, acor des cris.<lb/>- « Au s’cours » « A l’aite » ! Ch’teot eine veox d’heomme qui d’veot s’trouver<lb/>dins ein éaute wagon, ou alors à l’cour ?<lb/>Impossipe à dire. Cha berleot d’tous les côtés...<lb/>Pa d’vant Arnaud, ein jeone heomme i-a passé in t’nant s’bras alors que s’tiête elle<lb/>picheot l’sang.<lb/>Arnaud, li, i n’bougeot toudis pos. In puque de cha, i-aveot ceulle finquée qui<lb/>l’impêcheot d’respirer.<lb/>N’acoutant que s’corache, i-a essayé d’bouger ceulle barre. Elle teneot d’ein côté<lb/>mais à forche d’jeuer avec, i-a fini pa l’soul ver eine milette. I respireot d’jà mieux,<lb/>même si i-aveot bin mau. l-aveot cor c’poids su ses gampes, mais i-éteot d’jà contint<lb/>qu’i les sinteot acor. Quand c’qu’i-a su s’orlever in peu puque, i-a eu comme eine<lb/>saisissurte in ravisant que l’masse, ch’teot in fait l’pétite fille qui éteot pa-d’vant li su<lb/>l’banquette. Elle ne bougeot pus ! Pos loin d’eusses, eine femme, eine africaine, elle<lb/>a su s’glicher pou vnir in aite à Arnaud et l’pétite fille. Elle l’a d’abord pris dins ses<lb/>bras pindant qu’li, i s’orsaqueot d’ceulle foutue positieon. L’douleur, quand i<lb/>respireot, elle éteot forte mais i s’in fouteot pasque l’pétite fille elle aveot tourné<lb/>d'l’ouèl, et ch’est cha qui l’inquiéteot l’puque. Quand ç'qu’on a des infants, on<lb/>comprind cha. ! s’a infin orlevé. l-areot bin serré l’africaine, qu’elle s’app’leot<lb/>Joséphine, dins ses bras mais ch'n’éteot pos l’momint. Si l’pétite fille elle éteot là,<lb/>s’manman elle ne deveot pos ête leon. Eine feos su ses gampes, i-a vu l’tabléau et cha<pb facs="Picard_Concours_2020_55_p3.png"/><lb/>li f'seot freod dins l’deos. Par tierre, cha n’éteot qu’des blessés... et i d’a même qui<lb/>n’bougeottent pus. Et puis i-aveot toudis ceulle odeur de finquée...<lb/>Ces imaches-là, i s’reont pou toudis gravées dins s’tiête. Ces imaches qu’on veot<lb/>alfeos dins des films dùsqu’i-arrife des catastrophes. Et ichi, cha n’éteot pos du<lb/>cinéma, mais l’réalité. I n’éteot pos sur ein lieu d’tournache mais dins ein train qu’i-<lb/>aveot déraillé. Infin, ch’est c’qui pinseot.<lb/>Arnaud i-a pris l’pétite fille dins ses bras pasque loséphine elle n’in pouveot pus de<lb/>s’deos. I z’eont ingambié des corps pou savoir s’in raller de l’voiture et respirer ein<lb/>beon queop in busiant d’y ortourner pour vnir in aite à les éautes gins bloqués dins<lb/>l'wagon.<lb/>Malhureus mint, eine feos déhors, Arnaud i-a juste eu l’temps d’deonner l’pétite fille<lb/>à ein heomme qui s’avincheot vers li et i-a cait dins les peommes.<lb/>On n’sara jamais si ch’est l’air ou qui n’saveot pus respirer assez à causse de l’douleur,<lb/>mais quand c’qu’i s’a dérinvié, i-éteot su s’lit à l’hôpital.<lb/>Autour de li, i-aveot s’feimme et ses filles. Quand c'qu’i l’z’a vues, i-a souri ein<lb/>momint puis i s’a mis à braire. S’feimme elle li a espliqué quoisqu’i saveot passé et<lb/>surtout que ch’teot ein miraculé. Des deux trains qui s’aveottent rintré d’dins su l’line<lb/>96, on aveot orsaqué 19 morts et pus d’chint blessés.<lb/>Arnaud i s’in sorteot bin, avé des côtes cassées et bramint d’coichures. Mais ch’est<lb/>surtout dins s’tiête qu’i s’ra marqué pour toudis.<lb/>Dins m’carrière d’journalisse, d’s’orportaches, j’in ai fait eine banse, mais j’deos vous<lb/>dire qu’ch’est l’ceu qui m’a marqué l’puque.<lb/>Pus tard, grâce à l’police, Arnaud i-a ortrouvé l'pétite fille et l’heomme qu’i-éteot à<lb/>côté d’li. Si i’s s’in sortent bin tous les deux, malhureus’mint, l’manman de l’pétite,<lb/>elle n’a pos eu ceulle sanche. Elle a d’meuré cheonq jours dins l’coma et elle éteot<lb/>d’allée sans dire à r’voir à s’pétite fille.<lb/>C't artique i date de 10 ans, déjà 10 ans que l’catastrophe de Buizingen elle a arrivée.<lb/>Et 10 ans qu’tous les jours au matin, Arnaud i s’orveot monter dins l’train...l'train du<lb/>15 féverrier 2010.<pb facs="Picard_Concours_2020_55_p4.png"/><lb/>LEXIQUE<lb/>Busier<lb/>Penser<lb/>Pinderleot<lb/>Bijou<lb/>Moutrer<lb/>Montrer<lb/>Blanquis<lb/>Blanchis<lb/>Trannant<lb/>Tremblant<lb/>Fouteux d’gins<lb/>Moqueur<lb/>Poitreine<lb/>Poitrine<lb/>Finquée<lb/>Fumée<lb/>Tout creon<lb/>De travers<lb/>s'estirper<lb/>S’extirper<lb/>Tablature<lb/>Situation embarrassante<lb/>Esquite<lb/>Peur<lb/>Berler<lb/>Crier<lb/>Epoutie<lb/>coincé<lb/>Picher l’sang<lb/>Saigner abondamment<lb/>S’orlever<lb/>Se relever<lb/>Saisissurte<lb/>Stupeur<lb/>S’orsaquer<lb/>Se retirer<lb/>Ingambier<lb/>Enjamber<lb/>Caire dins les peommes :<lb/>S’évanouir<lb/>Se dérinvier<lb/>Se réveiller<lb/>Coichure<lb/>Blessure légère<lb/>Toudis<lb/>Toujours<pb facs="Picard_Concours_2020_55_p5.png"/><lb/>Le train du 15 février 2010<lb/>tundi, un matin d’hiver. La neige est tombée cette nuit.<lb/>Courir à Bruxelles par un temps pareil pour aller travailler... Mais il n’y a rien à faire ! Seulement... en voiture<lb/>ou en train ? Chacun sait qu’un centimètre de neige bloque le pays... et puis, Bruxelles en voiture n’est déjà<lb/>pas facile quand il fait sec, alors avec un temps pareil...<lb/>Après avoir déposé sa femme Brigitte au bureau, Arnaud part à la gare pour prendre le train qui l’emmènera<lb/>dans la capitale. Et au moins, il sera à l’heure... Pas seulement pour son travail mais surtout pour le retour.<lb/>Parce que ce soir, c’est fête ! Oui, Brigitte et lui fêtent leurs 25 ans de mariage. Le restaurant est réservé et il a<lb/>même pris congé demain pour récupérer... Il se souvient aussi qu’entre la gare et son bureau se trouve une<lb/>bijouterie et il avait remarqué la semaine dernière une bague qui plairait sûrement à sa femme...<lb/>Le voilà installé dans le train. Le wagon est bien rempli. En face de lui, une maman et sa fille. La maman, qui<lb/>doit être âgée d’une trentaine d’années, est une jolie femme, un visage un peu rond, de beaux cheveux tirant<lb/>sur le roux et avec ça, un sourire qui ferait craquer un évêque. La petite fille n’a pas école aujourd’hui. C’est<lb/>conférence. Alors, sa maman l’a emmenée à Bruxelles pour lui montrer la Grand Place et passer la journée<lb/>pendant que le papa est au travail. A côté de lui, il y a un homme, en costume, avec son ordinateur. Il doit<lb/>être fonctionnaire dans un ministère. Il a la tête de l’emploi et on sait que dans la capitale, ça ne manque<lb/>pas!<lb/>Le train démarre à l’heure ! Enfin, presque, nous sommes en Belgique... ne rêvons pas ! Je ne sais si ce sont les<lb/>paysages recouverts de neige mais Arnaud se met à rêver, bercé par le bruit du train...<lb/>Il se revoit le jour du premier rendez-vous, le cœur battant quand elle est arrivée... elle était belle... ils se sont<lb/>plus de suite ! En 25 ans, il n’y a pas eu beaucoup de nuages dans leur vie de couple. Plutôt beaucoup de<lb/>bonheur et deux petites perles qui sont venues illuminer leur existence. Des jumelles, Chloé et Pauline, âgées<lb/>maintenant de 15 ans. Ce sont ses deux yeux... Et s’il ajoute parfois qu’il n’est plus maître chez lui avec ses<lb/>trois femmes, c’est de l’humour. Et il sait qu’elles en ont !<lb/>Et son rêve l’emmène en Bretagne pendant les vacances, lui, allongé sur le sable à côté de sa femme et les<lb/>petites qui jouent près de l’eau... Le soleil tapait et ils savouraient leurs vacances.<lb/>Tout d’un coup, il a été sorti de son rêve par une secousse et un bruit qui faisait penser à une explosion.<lb/>Quand il est revenu à lui, il se trouvait de l’autre côté du wagon, coincé par une barre de fer sur sa poitrine et<lb/>sentant quelque chose de chaud aux pieds. Aucun moyen de savoir de quoi il s’agissait. La fumée remplissait<lb/>la voiture qui semblait s’être redressée de l’avant et de ce fait, il s’était retrouvé de l’autre côté, la tête en bas.<lb/>Après avoir repris ses esprits, il s’est rendu compte qu’une catastrophe venait d’arriver.<lb/>Il a de suite pensé à Brigitte et ses deux filles. Ensuite, rassuré d’être toujours en vie, il a essayé de s’extirper<lb/>de cette situation qui le faisait souffrir et de cette foutue barre de fer qui l’empêchait de respirer. Et toujours<lb/>ce poids sur ses jambes...<lb/>Dans le wagon, il entendait des cris probablement de gens coincés comme lui, qui souffraient, qui avaient eu<lb/>peur. Dans ces moments-là, on est perdu. On se demande ce qui vient d’arriver. Tout près de lui, il voit une<lb/>femme, au visage ensanglanté, qui criait : sa jambe était écrasée par une banquette qui avait sûrement<lb/>traversé le wagon.<lb/>A l'extérieur, plus loin, encore des cris.<lb/>- « Au secours ! A l’aide!» Il s’agissait de la voix d’un homme qui devait se trouver dans un autre<lb/>wagon, ou alors dehors ?<lb/>Impossible à dire. Ca hurlait de tous les côtés.<pb facs="Picard_Concours_2020_55_p6.png"/><lb/>Devant Arnaud, un jeune homme est passé en tenant son bras alors que sa tête saignait abondamment.<lb/>Arnaud, lui, ne bougeait pas. De plus, il y avait cette fumée qui l’empêchait de respirer.<lb/>N'écoutant que son courage, il a essayé de se libérer de cette barre. Elle tenait d’un côté mais à force de la<lb/>manipuler, il a pu la soulever un peu. Il respirait déjà mieux, même si la douleur était présente. Et il y avait<lb/>encore ce poids sur les jambes, mais il était déjà content qu’il les sentait encore. Quand il a pu se relever un<lb/>peu plus, il a été surpris de découvrir que la masse n’était autre que la petite fille qui était devant lui sur la<lb/>banquette. Elle ne bougeait plus ! Pas loin d’eux, une dame, une africaine, a su se faufiler pour leur venir en<lb/>aide. Elle a d’abord pris la petite fille dans ses bras pendant qu’il s’extirpait de cette mauvaise position. La<lb/>douleur, quand il respirait, était forte mais il ne s’en souciait pas car la fille était évanouie et c’est ça qui<lb/>l’inquiétait le plus. Quand on a des enfants, on comprend ça. Il s’est enfin relevé. Il aurait bien serré<lb/>l’africaine, qui s’appelait Joséphine, mais ce n’était pas le moment. Si la petite fille était là, la maman ne<lb/>devait pas être loin. Débout, il s’est rendu compte de la catastrophe et ça lui faisait froid dans le dos. Au sol, il<lb/>n’y avait que des blessés... certains même ne bougeaient plus. Et toujours cette fumée...<lb/>Ces images-là resteront gravées dans sa mémoire. Ces images qu’on voit parfois dans les films<lb/>« catastrophes ». Mais ici, ce n’était pas du cinéma mais la réalité. Il n’était pas sur un lieu de tournage mais<lb/>dans un train qui venait de dérailler. Enfin, c'est ce qu’il pensait.<lb/>Arnaud a pris la petite fille dans ses bras car Joséphine souffrait du dos. Après avoir enjambé des corps pour<lb/>savoir sortir de la voiture et respirer, en imaginant y retourner pour venir en aide aux personnes bloquées<lb/>dans le wagon.<lb/>Malheureusement, une fois dehors, Arnaud a juste le temps de mettre la petite fille dans les bras d’un<lb/>homme qui s’avançait vers lui, avant de s’évanouir.<lb/>On ne saura jamais si c'est l’air et ses difficultés à respirer, mais il s'est réveillé sur son lit d’hôpital.<lb/>A ses côtés, il y avait sa femme et ses filles. Quand il les a vues, il a souri puis a fondu en larmes. Sa femme lui<lb/>a expliqué ce qu’il s’était passé et surtout qu’il était un miraculé. Deux trains étaient entrés en collision sur la<lb/>ligne 96 et on dénombrait 19 morts et plus de cent blessés.<lb/>Arnaud s’en sortait bien avec des côtes cassées et quelques hématomes. Mais c’est surtout<lb/>psychologiquement qu’il sera marqué pour toujours...<lb/>Dans ma carrière de journaliste, j’ai fait énormément de reportages mais j’avoue que c’est celui qui m’a<lb/>marqué le plus.<lb/>Plus tard, grâce à la Police, Arnaud a retrouvé la petite fille et l’homme qui était à ses côtés. s’ils s’en sortent<lb/>bien tous les deux, malheureusement, la maman de la petite n’a pas eu cette chance. Elle est restée cinq<lb/>jours dans le coma puis est partie sans dire au-revoir à sa petite fille.<lb/>Cet article date de 10 ans, déjà 10 ans que la catastrophe de Buizingen est arrivée. Et 10 ans que chaque<lb/>matin, Arnaud se revoit monter dans le train...le train du 15 février 2010.</div>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>PIC_CONCOURS__2020_55</idno>
+                <title type="main"> L'train du 15 féverrier</title>
+                <title type="collection">Picard Concours</title>
+                <author>Pascal , WINBERG</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr/">Corpus et Outils pour les Langues de
+                    France (COLaF)</publisher>
+                <date when="2024-04-04"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title> L'train du 15 féverrier</title>
+                    <author>Pascal , WINBERG</author>
+                    <pubPlace>Amiens</pubPlace>
+                    <publisher>Agence régionale de la langue Picarde</publisher>
+                    <date when="2020"/>
+                </bibl>
+            </sourceDesc>
+            <extent/>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="met-oil-pic" usage="50">
+                    <idno type="langue">met-oïl-pic</idno>
+                    <idno type="script">latin</idno>
+                    <name>Picard</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+                <language ident="met-fr" usage="50">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">latin</idno>
+                    <name>Français</name>
+                    <date>2020</date>
+                    <location>
+                        <region/>
+                        <country>France</country>
+                    </location>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Prose</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-04-02" who="#JJANES">Génération du XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="met-oil-pic">
+        <body>
+            <div>
+                <pb facs="Picard_Concours_2020_55_p1.png"/>
+                <fw type="numbering"><lb/>N°55</fw>
+                <head><lb/>L’train du 15
+                féverrier.</head>
+                <p><lb/>Lindi, ein matin d’hiver. L’neiche i-aveot cait pindant
+                l’nuit.</p><p><lb/>Queurir à Bruxelles par ein temps parel pou s’in aller ouvrer... Mais i
+                n’a rien à faire !<lb/>Seul'mint, in carette ou bin in train ? Tertous i sait que
+                quand c'qu’i-a ein chintimète<lb/>d’neiche, l'pays i-est bloqué... et puis
+                Bruxelles in carette, ch’n’est d’jà pos facile<lb/>quand c'qu’i fait sec, alors du
+                    temps parel...</p><p><lb/>Après avoir déposé s’feimme Brigitte à s’bureau, Arnaud i
+                s’in va à l’gare pou li printe<lb/>l'train qui l’immèn reot dins l’capitale. Et au
+                moins, i s’reot à timpe... Pos seul’mint<lb/>pou s’n ouvrache, neon, mais surtout
+                pou l’ortour. Pasqu’à c’soir, ch’est fiête ! Ahais,<lb/>Brigitte et li i fiêtent
+                leus vingt-cheonq ans d’mariache. l’restaurant i-est réservé<lb/>d’puis huit jours
+                et i-a même pris congé d’main pou savoir s’ormette... I busie aussi<lb/>qu’inter
+                la gare et s’bureau, i-a eine bijout'rie et i-aveot vu l’sémaine passée
+                ein<lb/>pinderleot qui plaireot seûr'mint à s’feimme...</p><p><lb/>L’ov'là bin installé
+                dins l’train. L'wagon i-est tout plein. In face de li, i-a eine manman<lb/>avé
+                s’pétite fille. L’manman, qu’elle deot avoir eine beonne trintaine
+                d’ainnées,<lb/>ch’t’eine belle feimme, ein visage ein peu reond, des bieaux ch’feux
+                qui tir'tent su<lb/>l’roux et avec cha ein sourire qui f'reot craquer ein évêque.
+                L’pétite, elle n’a pos école<lb/>aujord’hui. Ch’est conférince. Du queop
+                s’mamère elle l’a imm’née à Bruxelles pou li<lb/>moutrer l’Grand Plache et passer
+                eine journée pindant que l’mopère i-est à<lb/>l’ouvrache. A côté d’li, i-a ein
+                heomme, in costume, avé s’n ordinateur. Cha deot ête<lb/>ein fonctionnaire dins
+                ein ministère. l-a eine tiête à cha et on sait qu’dins l’capitale,<lb/>cha
+                    n’minque pos!</p><p><lb/>U'train i démarre à l’heure ! Infin à peu près, on est in
+                Belgique... feaut pos rêver ! Je<lb/>n’sais pos si ch’est l’vue des paysaches tout
+                blanquis pa l’neiche, mais Arnaud i<lb/>s’ortrouèfe bin vite au pays des rêfes,
+                        berché pau bruit du train...</p><p><lb/>I se r’veot, l’jour du prumier rindez-vous, s’cœur
+                trannant quand c’qu’elle a arrivé...<lb/>Elle éteot belle...i se seont plus tout
+                d’suite ! In vingt-cheonq ans, i n’a pos eu bramint<lb/>d'neuaches dins leu vie à
+                deux. Puteôt du bonheur et deux p’tites perles qui seont<lb/>vnues illuminer leu
+                n’existince. Des jumelles, Chloé et Pauline, qu’i z’eont asteur<lb/>quinze ans.
+                Ch’est ses deux yeux... Et s’i rajoute alfeos qu’i n’est pus maîte à
+                s’maseon<lb/>avec ses treos feimmes, ch’est pasque ch't'ein fouteux d’gins ! Et
+                            qu’elles, elles<lb/>intin'tent l'riache!</p><p><lb/>Et s’rêfe i l’immène in Bretagne
+                pindant les vacances, li, allongé su l’sape à côté de<lb/>s’feimme et les
+                p’tites qui jeueottent tout près d’l’ieau... l’solel i tapeot et i<lb/>z'éteottent
+                                fin hureux !</p><p><lb/>Tout d’ein queop, i-a été sorti de s’rêfe par eine sécousse, et
+                ein bruit qu’t’areos dit<lb/>eine esplosieon.</p><pb
+                    facs="Picard_Concours_2020_55_p2.png"/><p><lb/>Quand c’qui-a orvénu à li, i s’a
+                ortrouvé d’l’éaute côté du wagon, coinché par eine<lb/>barre de fier au niveau
+                d’s’poitreine et à ses pieds i sinteot eine séquoi d’quiéaud. Pos<lb/>moyein
+                d’vir c’que ch’éteot. De l’finquée rimplisseot l’voiture qui sanneot
+                s’avoir<lb/>ordressé d'l’avant et du queop, li i-aveot été involé d’l’éaute
+                        côté, et s’a ortrouvé tout<lb/>creon.</p><p><lb/>Après avoir orpris ses esprits, i s’a
+                            rindu queompte qu’eine catastrophe elle veneot<lb/>d’arriver.</p><p><lb/>l-a tout d’suite
+                busié à Brigitte et ses deux filles. Puis, rasseuré d’ête acor in vie,
+                i-a<lb/>essayé d’s’estirper d’ceulle tablature qui li f'seot mau et ceulle foutue
+                barre de fier<lb/>qui l’impêcheot d’respirer. Et i-aveot toudis c'poids su ses
+                                gampes...</p><p><lb/>Dans l’wagon, i-intindeot les cris probabelmint des gins coinchés
+                comme li, qui<lb/>souffreottent, qu’i-aveottent eu l’esquite. Dins ces momints-là,
+                on n’sait pus d’quoi.<lb/>On s’deminte quoisqu’i vient d’arriver. Tout près d’li, i
+                veot ein feimme, s’visache<lb/>plein d’sang, qui berleot; s’gampe i-éteot époutie
+                                    pa-d’sous eine banquette qu’i¬<lb/>aveot seûr'mint traversé l’wagon.</p><p><lb/>A
+                                        l'estérieur, pus leon, acor des cris.</p><p><lb/>- « Au s’cours » « A l’aite » ! Ch’teot
+                eine veox d’heomme qui d’veot s’trouver<lb/>dins ein éaute wagon, ou alors à
+                                            l’cour ?</p><p><lb/>Impossipe à dire. Cha berleot d’tous les côtés...</p><p><lb/>Pa d’vant
+                Arnaud, ein jeone heomme i-a passé in t’nant s’bras alors que s’tiête
+                elle<lb/>picheot l’sang.</p><p><lb/>Arnaud, li, i n’bougeot toudis pos. In puque de cha,
+                    i-aveot ceulle finquée qui<lb/>l’impêcheot d’respirer.</p><p><lb/>N’acoutant que
+                s’corache, i-a essayé d’bouger ceulle barre. Elle teneot d’ein côté<lb/>mais à
+                forche d’jeuer avec, i-a fini pa l’soul ver eine milette. I respireot d’jà
+                mieux,<lb/>même si i-aveot bin mau. l-aveot cor c’poids su ses gampes, mais
+                i-éteot d’jà contint<lb/>qu’i les sinteot acor. Quand c’qu’i-a su s’orlever in peu
+                puque, i-a eu comme eine<lb/>saisissurte in ravisant que l’masse, ch’teot in fait
+                l’pétite fille qui éteot pa-d’vant li su<lb/>l’banquette. Elle ne bougeot pus !
+                Pos loin d’eusses, eine femme, eine africaine, elle<lb/>a su s’glicher pou vnir in
+                aite à Arnaud et l’pétite fille. Elle l’a d’abord pris dins ses<lb/>bras pindant
+                qu’li, i s’orsaqueot d’ceulle foutue positieon. L’douleur, quand i<lb/>respireot,
+                elle éteot forte mais i s’in fouteot pasque l’pétite fille elle aveot
+                tourné<lb/>d'l’ouèl, et ch’est cha qui l’inquiéteot l’puque. Quand ç'qu’on a des
+                infants, on<lb/>comprind cha. ! s’a infin orlevé. l-areot bin serré l’africaine,
+                qu’elle s’app’leot<lb/>Joséphine, dins ses bras mais ch'n’éteot pos l’momint. Si
+                l’pétite fille elle éteot là,<lb/>s’manman elle ne deveot pos ête leon. Eine
+                feos su ses gampes, i-a vu l’tabléau et cha<pb
+                    facs="Picard_Concours_2020_55_p3.png"/><lb/>li f'seot freod dins l’deos. Par
+                tierre, cha n’éteot qu’des blessés... et i d’a même qui<lb/>n’bougeottent pus. Et
+                        puis i-aveot toudis ceulle odeur de finquée...</p><p><lb/>Ces imaches-là, i s’reont pou
+                toudis gravées dins s’tiête. Ces imaches qu’on veot<lb/>alfeos dins des films
+                dùsqu’i-arrife des catastrophes. Et ichi, cha n’éteot pos du<lb/>cinéma, mais
+                l’réalité. I n’éteot pos sur ein lieu d’tournache mais dins ein train
+                qu’i-<lb/>aveot déraillé. Infin, ch’est c’qui pinseot.</p><p><lb/>Arnaud i-a pris
+                l’pétite fille dins ses bras pasque loséphine elle n’in pouveot pus de<lb/>s’deos.
+                I z’eont ingambié des corps pou savoir s’in raller de l’voiture et respirer
+                ein<lb/>beon queop in busiant d’y ortourner pour vnir in aite à les éautes gins
+                    bloqués dins<lb/>l'wagon.</p><p><lb/>Malhureus mint, eine feos déhors, Arnaud i-a juste
+                eu l’temps d’deonner l’pétite fille<lb/>à ein heomme qui s’avincheot vers li et
+                        i-a cait dins les peommes.</p><p><lb/>On n’sara jamais si ch’est l’air ou qui n’saveot pus
+                respirer assez à causse de l’douleur,<lb/>mais quand c’qu’i s’a dérinvié,
+                            i-éteot su s’lit à l’hôpital.</p><p><lb/>Autour de li, i-aveot s’feimme et ses filles.
+                Quand c'qu’i l’z’a vues, i-a souri ein<lb/>momint puis i s’a mis à braire. S’feimme
+                elle li a espliqué quoisqu’i saveot passé et<lb/>surtout que ch’teot ein
+                miraculé. Des deux trains qui s’aveottent rintré d’dins su l’line<lb/>96, on aveot
+                                orsaqué 19 morts et pus d’chint blessés.</p><p><lb/>Arnaud i s’in sorteot bin, avé des
+                côtes cassées et bramint d’coichures. Mais ch’est<lb/>surtout dins s’tiête qu’i
+                                    s’ra marqué pour toudis.</p><p><lb/>Dins m’carrière d’journalisse, d’s’orportaches, j’in
+                ai fait eine banse, mais j’deos vous<lb/>dire qu’ch’est l’ceu qui m’a marqué
+                                        l’puque.</p><p><lb/>Pus tard, grâce à l’police, Arnaud i-a ortrouvé l'pétite fille et
+                l’heomme qu’i-éteot à<lb/>côté d’li. Si i’s s’in sortent bin tous les deux,
+                malhureus’mint, l’manman de l’pétite,<lb/>elle n’a pos eu ceulle sanche. Elle a
+                d’meuré cheonq jours dins l’coma et elle éteot<lb/>d’allée sans dire à r’voir à
+                                            s’pétite fille.</p><p><lb/>C't artique i date de 10 ans, déjà 10 ans que l’catastrophe
+                de Buizingen elle a arrivée.<lb/>Et 10 ans qu’tous les jours au matin, Arnaud i
+                s’orveot monter dins l’train...l'train du<lb/>15 féverrier 2010.</p>
+                </div>
+            <div type="liminal"><pb
+                    facs="Picard_Concours_2020_55_p4.png"
+                /><head><lb/>LEXIQUE</head>
+                <list>
+                    <item><lb/>Busier<foreign xml:lang="met-fr"><lb/>Penser</foreign></item> <item><lb/>Pinderleot<foreign xml:lang="met-fr"><lb/>Bijou</foreign></item> <item><lb/>Moutrer<foreign xml:lang="met-fr"><lb/>Montrer</foreign></item> <item><lb/>Blanquis<foreign xml:lang="met-fr"><lb/>Blanchis</foreign></item> <item><lb/>Trannant<foreign xml:lang="met-fr"><lb/>Tremblant</foreign></item> <item><lb/>Fouteux
+                        d’gins<foreign xml:lang="met-fr"><lb/>Moqueur</foreign></item> <item><lb/>Poitreine<foreign xml:lang="met-fr"><lb/>Poitrine</foreign></item> <item><lb/>Finquée<foreign xml:lang="met-fr"><lb/>Fumée</foreign></item> <item><lb/>Tout
+                            creon<foreign xml:lang="met-fr"><lb/>De travers</foreign></item> <item><lb/>s'estirper<foreign xml:lang="met-fr"><lb/>S’extirper</foreign></item> <item><lb/>Tablature<foreign xml:lang="met-fr"><lb/>Situation
+                                embarrassante</foreign></item> <item><lb/>Esquite<foreign xml:lang="met-fr"><lb/>Peur</foreign></item> <item><lb/>Berler<foreign xml:lang="met-fr"><lb/>Crier</foreign></item> <item><lb/>Epoutie<foreign xml:lang="met-fr"><lb/>coincé</foreign></item> <item><lb/>Picher
+                                    l’sang<foreign xml:lang="met-fr"><lb/>Saigner abondamment</foreign></item> <item><lb/>S’orlever<foreign xml:lang="met-fr"><lb/>Se
+                                        relever</foreign></item> <item><lb/>Saisissurte<foreign xml:lang="met-fr"><lb/>Stupeur</foreign></item> <item><lb/>S’orsaquer<foreign xml:lang="met-fr"><lb/>Se
+                                            retirer</foreign></item> <item><lb/>Ingambier<foreign xml:lang="met-fr"><lb/>Enjamber</foreign></item> <item><lb/>Caire dins les peommes
+                                                :<foreign xml:lang="met-fr"><lb/>S’évanouir</foreign></item> <item><lb/>Se dérinvier<foreign xml:lang="met-fr"><lb/>Se réveiller</foreign></item> <item><lb/>Coichure<foreign xml:lang="met-fr"><lb/>Blessure
+                                                    légère</foreign></item> <item><lb/>Toudis<foreign xml:lang="met-fr"><lb/>Toujours</foreign></item></list>
+                </div>
+            <div xml:lang="met-fr"><pb facs="Picard_Concours_2020_55_p5.png"
+                /><head><lb/>Le train du 15 février 2010</head>
+                <p><lb/>Lundi, un matin d’hiver. La neige est
+                tombée cette nuit.</p><p><lb/>Courir à Bruxelles par un temps pareil pour aller
+                travailler... Mais il n’y a rien à faire ! Seulement... en voiture<lb/>ou en train
+                ? Chacun sait qu’un centimètre de neige bloque le pays... et puis, Bruxelles en
+                voiture n’est déjà<lb/>pas facile quand il fait sec, alors avec un temps
+                    pareil...</p><p><lb/>Après avoir déposé sa femme Brigitte au bureau, Arnaud part à la
+                gare pour prendre le train qui l’emmènera<lb/>dans la capitale. Et au moins, il
+                sera à l’heure... Pas seulement pour son travail mais surtout pour le
+                retour.<lb/>Parce que ce soir, c’est fête ! Oui, Brigitte et lui fêtent leurs 25
+                ans de mariage. Le restaurant est réservé et il a<lb/>même pris congé demain
+                pour récupérer... Il se souvient aussi qu’entre la gare et son bureau se trouve
+                une<lb/>bijouterie et il avait remarqué la semaine dernière une bague qui plairait
+                        sûrement à sa femme...</p><p><lb/>Le voilà installé dans le train. Le wagon est bien
+                rempli. En face de lui, une maman et sa fille. La maman, qui<lb/>doit être âgée
+                d’une trentaine d’années, est une jolie femme, un visage un peu rond, de beaux
+                cheveux tirant<lb/>sur le roux et avec ça, un sourire qui ferait craquer un
+                évêque. La petite fille n’a pas école aujourd’hui. C’est<lb/>conférence. Alors,
+                sa maman l’a emmenée à Bruxelles pour lui montrer la Grand Place et passer la
+                journée<lb/>pendant que le papa est au travail. A côté de lui, il y a un homme,
+                en costume, avec son ordinateur. Il doit<lb/>être fonctionnaire dans un ministère.
+                Il a la tête de l’emploi et on sait que dans la capitale, ça ne
+                manque<lb/>pas!</p><p><lb/>Le train démarre à l’heure ! Enfin, presque, nous sommes en
+                Belgique... ne rêvons pas ! Je ne sais si ce sont les<lb/>paysages recouverts de
+                    neige mais Arnaud se met à rêver, bercé par le bruit du train...</p><p><lb/>Il se revoit
+                le jour du premier rendez-vous, le cœur battant quand elle est arrivée... elle
+                était belle... ils se sont<lb/>plus de suite ! En 25 ans, il n’y a pas eu beaucoup
+                de nuages dans leur vie de couple. Plutôt beaucoup de<lb/>bonheur et deux petites
+                perles qui sont venues illuminer leur existence. Des jumelles, Chloé et Pauline,
+                âgées<lb/>maintenant de 15 ans. Ce sont ses deux yeux... Et s’il ajoute parfois
+                qu’il n’est plus maître chez lui avec ses<lb/>trois femmes, c’est de l’humour. Et
+                        il sait qu’elles en ont !</p><p><lb/>Et son rêve l’emmène en Bretagne pendant les
+                vacances, lui, allongé sur le sable à côté de sa femme et les<lb/>petites qui
+                jouent près de l’eau... Le soleil tapait et ils savouraient leurs
+                vacances.</p><p><lb/>Tout d’un coup, il a été sorti de son rêve par une secousse et un
+                    bruit qui faisait penser à une explosion.</p><p><lb/>Quand il est revenu à lui, il se
+                trouvait de l’autre côté du wagon, coincé par une barre de fer sur sa poitrine
+                et<lb/>sentant quelque chose de chaud aux pieds. Aucun moyen de savoir de quoi il
+                s’agissait. La fumée remplissait<lb/>la voiture qui semblait s’être redressée de
+                l’avant et de ce fait, il s’était retrouvé de l’autre côté, la tête en
+                bas.</p><p><lb/>Après avoir repris ses esprits, il s’est rendu compte qu’une catastrophe
+                    venait d’arriver.</p><p><lb/>Il a de suite pensé à Brigitte et ses deux filles. Ensuite,
+                rassuré d’être toujours en vie, il a essayé de s’extirper<lb/>de cette situation
+                qui le faisait souffrir et de cette foutue barre de fer qui l’empêchait de
+                respirer. Et toujours<lb/>ce poids sur ses jambes...</p><p><lb/>Dans le wagon, il entendait
+                des cris probablement de gens coincés comme lui, qui souffraient, qui avaient
+                eu<lb/>peur. Dans ces moments-là, on est perdu. On se demande ce qui vient
+                d’arriver. Tout près de lui, il voit une<lb/>femme, au visage ensanglanté, qui
+                criait : sa jambe était écrasée par une banquette qui avait
+                sûrement<lb/>traversé le wagon.</p><p><lb/>A l'extérieur, plus loin, encore des
+                    cris.</p><p><lb/>- « Au secours ! A l’aide!» Il s’agissait de la voix d’un homme qui devait
+                        se trouver dans un autre<lb/>wagon, ou alors dehors ?</p><p><lb/>Impossible à dire. Ca
+                hurlait de tous les côtés.</p><pb facs="Picard_Concours_2020_55_p6.png"/><p><lb/>Devant
+                Arnaud, un jeune homme est passé en tenant son bras alors que sa tête saignait
+                abondamment.</p><p><lb/>Arnaud, lui, ne bougeait pas. De plus, il y avait cette fumée qui
+                    l’empêchait de respirer.</p><p><lb/>N'écoutant que son courage, il a essayé de se
+                libérer de cette barre. Elle tenait d’un côté mais à force de la<lb/>manipuler,
+                il a pu la soulever un peu. Il respirait déjà mieux, même si la douleur était
+                présente. Et il y avait<lb/>encore ce poids sur les jambes, mais il était déjà
+                content qu’il les sentait encore. Quand il a pu se relever un<lb/>peu plus, il a
+                été surpris de découvrir que la masse n’était autre que la petite fille qui
+                était devant lui sur la<lb/>banquette. Elle ne bougeait plus ! Pas loin d’eux, une
+                dame, une africaine, a su se faufiler pour leur venir en<lb/>aide. Elle a d’abord
+                pris la petite fille dans ses bras pendant qu’il s’extirpait de cette mauvaise
+                position. La<lb/>douleur, quand il respirait, était forte mais il ne s’en souciait
+                pas car la fille était évanouie et c’est ça qui<lb/>l’inquiétait le plus. Quand
+                on a des enfants, on comprend ça. Il s’est enfin relevé. Il aurait bien
+                serré<lb/>l’africaine, qui s’appelait Joséphine, mais ce n’était pas le moment.
+                Si la petite fille était là, la maman ne<lb/>devait pas être loin. Débout, il
+                s’est rendu compte de la catastrophe et ça lui faisait froid dans le dos. Au sol,
+                il<lb/>n’y avait que des blessés... certains même ne bougeaient plus. Et toujours
+                        cette fumée...</p><p><lb/>Ces images-là resteront gravées dans sa mémoire. Ces images
+                qu’on voit parfois dans les films<lb/>« catastrophes ». Mais ici, ce n’était pas du
+                cinéma mais la réalité. Il n’était pas sur un lieu de tournage mais<lb/>dans un
+                            train qui venait de dérailler. Enfin, c'est ce qu’il pensait.</p><p><lb/>Arnaud a pris la
+                petite fille dans ses bras car Joséphine souffrait du dos. Après avoir enjambé
+                des corps pour<lb/>savoir sortir de la voiture et respirer, en imaginant y retourner
+                                pour venir en aide aux personnes bloquées<lb/>dans le wagon.</p><p><lb/>Malheureusement,
+                une fois dehors, Arnaud a juste le temps de mettre la petite fille dans les bras
+                d’un<lb/>homme qui s’avançait vers lui, avant de s’évanouir.</p><p><lb/>On ne saura
+                jamais si c'est l’air et ses difficultés à respirer, mais il s'est réveillé sur
+                son lit d’hôpital.</p><p><lb/>A ses côtés, il y avait sa femme et ses filles. Quand il
+                les a vues, il a souri puis a fondu en larmes. Sa femme lui<lb/>a expliqué ce qu’il
+                s’était passé et surtout qu’il était un miraculé. Deux trains étaient entrés
+                en collision sur la<lb/>ligne 96 et on dénombrait 19 morts et plus de cent
+                    blessés.</p><p><lb/>Arnaud s’en sortait bien avec des côtes cassées et quelques
+                hématomes. Mais c’est surtout<lb/>psychologiquement qu’il sera marqué pour
+                        toujours...</p><p><lb/>Dans ma carrière de journaliste, j’ai fait énormément de
+                            reportages mais j’avoue que c’est celui qui m’a<lb/>marqué le plus.</p><p><lb/>Plus tard,
+                grâce à la Police, Arnaud a retrouvé la petite fille et l’homme qui était à ses
+                côtés. s’ils s’en sortent<lb/>bien tous les deux, malheureusement, la maman de la
+                petite n’a pas eu cette chance. Elle est restée cinq<lb/>jours dans le coma puis
+                                est partie sans dire au-revoir à sa petite fille.</p><p><lb/>Cet article date de 10 ans,
+                déjà 10 ans que la catastrophe de Buizingen est arrivée. Et 10 ans que
+                chaque<lb/>matin, Arnaud se revoit monter dans le train...le train du 15 février
+                2010.</p></div>
+        </body>
+    </text>
 </TEI>
