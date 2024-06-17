@@ -8,7 +8,8 @@ Le fichier ODD.rng en racine permet de vérifier la validation des documents COL
 
 ## Liste des datasets
 
-| Nom | Sujet | Langues | Période | Quantité doc. | Quantité token | Url | Info. sup. |
-| ------- | ------ | ------ | ------ | ------ | ------| ------ | ------ |
-| Eltec-fra | Corpus de romans | fra| XIXème | 100 |  | https://github.com/COST-ELTeC/ELTeC-fra | Recup encodage level2 (POS+lemme) |
-|Opensubtitles Dump | Corpus de sous-titres | fra  | XX-XXIème |  |  | https://opus.nlpl.eu/OpenSubtitles/fr&/v2018/OpenSubtitles | |
+| Nom | Sujet | Langues | Période | Quantité token | Url | Info. sup. |
+| ------- | ------ | ------ | ------ | ------| ------ | ------ |
+| Eltec-fra | Corpus de romans | fra| XIXème | | https://github.com/COST-ELTeC/ELTeC-fra | Recup encodage level2 (POS+lemme) |
+|Opensubtitles Dump | Corpus de sous-titres | fra  | XX-XXIème |  | https://opus.nlpl.eu/OpenSubtitles/fr&/v2018/OpenSubtitles | |
+| Picard Concours | Prose, poésies et scènes de théâtre produites dans le cadre d'un concours d'écriture|pic|XXIème ||https://languepicarde.fr/ ||
