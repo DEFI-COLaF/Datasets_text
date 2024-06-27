@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>MOL_DEU_001</idno>
+                <title type="main">Le Noël des Reîtres</title>
+                <title type="collection">Molyé</title>
+                <author>Anonymous</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="RDENT">
+                        <surname>Dent</surname>
+                        <forename>Rasul</forename>
+                        <idno type="orcid">0009-0004-1032-1745</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+                <date when="2024-05-30"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability> 
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="PrintSource">
+                    <ptr target="https://www.google.fr/books/edition/Textes_anciens_en_cr%C3%A9ole_fran%C3%A7ais_de_l/nWI7ct3uJlsC?hl=en&amp;gbpv=0"/>
+                    <title>Le Noël des Reîtres</title>
+                    <author>Anonymous</author>
+                    <publisher>Dubois</publisher>
+                    <date when="1590"/>
+                </bibl>
+                <bibl type="CorpusSource">
+                    <ptr target="https://www.delpher.nl/nl/boeken1/gview?query=moi+sti&amp;coll=boeken1&amp;identifier=OR5bAAAAQAAJ&amp;rowid=2"/>
+                    <title>Romancero de Champagne Tome IV, 3ème partie, Chants historiques</title>
+                    <author>Composite</author>
+                    <publisher>the Bavarian State Library</publisher>
+                    <date when="2009-01-12"/>
+                </bibl>
+            </sourceDesc>
+            <extent>TO BE DEFINED</extent>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fra-deu">
+                    <idno type="langue">fra-deu</idno>
+                    <idno type="script">Latin</idno>
+                    <name>Germanic Baragouin</name>
+                </language>
+                <language ident="met-fr">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">Latin</idno>
+                    <name>French of Metropolitan France</name>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term rend="spoken" type="supergenre">Fiction</term>
+                    <term rend="spoken-script" type="genre">fiction-drama</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-06-25" who="#RDENT">Génération du document</change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <body>
+        <div type="part" n="1">
+            <head>
+                LE NOEL DES REITRES.
+                (1580-1600.)
+            </head>
+            <lg>
+                <l xml:lang="fra-deu">Il est un petit l'ange</l>
+                <l xml:lang="fra-deu">Qui jamais li mange:</l>
+                <l xml:lang="fra-deu">Dit à moi l’autri jour :</l>
+                <l xml:lang="fra-deu">-- Camarade Alimand,</l>
+                <l xml:lang="fra-deu">Prends ton juste-au-corps</l>
+                <l xml:lang="fra-deu">Et ton l'habiliment.</l>
+                <l xml:lang="fra-deu">Fiens foir sti pouponnee.</l>
+                <l xml:lang="fra-deu">Quoique tout p'tit, li est grand.</l>
+                <l xml:lang="fra-deu">Li l'être dans l'étable ;</l>
+                <l xml:lang="fra-deu">Li l'être misérable ;</l>
+                <l xml:lang="fra-deu">Li n'avoir point de coffre ;</l>
+                <l xml:lang="fra-deu">Li n’avoir rien qui fiauffe ;</l>
+                <l xml:lang="fra-deu">Li l'être paufriment</l>
+                <l xml:lang="fra-deu">Bien miserablement</l>
+            </lg>
+            
+            <lg>
+                <l xml:lang="fra-deu">J'ai dit à Monsieu l'ange :</l>
+                <l xml:lang="fra-deu">- Montrés moi sti grange,</l>
+                <l xml:lang="fra-deu">Pour y voir sti pouponne</l>
+                <l xml:lang="fra-deu">Qu'il est si paufriment.</l>
+                <l xml:lang="fra-deu">Pour moi, n'i falloit faire</l>
+                <l xml:lang="fra-deu">Un grand trinquement.</l>
+                <l xml:lang="fra-deu">Moi saffre bien faire</l>
+                <l xml:lang="fra-deu">Un beau p'tit compliment :</l>
+                <l xml:lang="fra-deu">Moi parlerai à le père</l>
+                <l xml:lang="fra-deu">Moi parlerai à le mère</l>
+                <l xml:lang="fra-deu">Moi saffre bien dire</l>
+                <l xml:lang="fra-deu">Moi reste avec le sire</l>
+                <l xml:lang="fra-deu">Le maiesté du roi ;</l>
+                <l xml:lang="fra-deu">Moi le dis franchement.</l>
+            </lg>
+            
+            
+            <lg>
+                <l xml:lang="fra-deu">-- Bon jour, roi di gloire.</l>
+                <l xml:lang="fra-deu">C’est moi, qui li fiens foir.</l>
+                <l xml:lang="fra-deu">Comment li portes fous</l>
+                <l xml:lang="fra-deu">Depuis l’autri demain ?</l>
+                <l xml:lang="fra-deu">Pourquoi vous lefir vous</l>
+                <l xml:lang="fra-deu">De si grante matin ?</l>
+                <l xml:lang="fra-deu">Li l'être dangireux</l>
+                <l xml:lang="fra-deu">D'y prendre li sirin.</l>
+                <l xml:lang="fra-deu">Ni pleures point, j' t'en prie !</l>
+                <l xml:lang="fra-deu">Mon demoisell' Marie,</l>
+                <l xml:lang="fra-deu">Baille-moi lis langes</l>
+                <l xml:lang="fra-deu">Que je les fiauffe au p'tit l'ange.</l>
+                <l xml:lang="fra-deu">Li l'être une bonne garçonne :</l>
+                <l xml:lang="fra-deu">Car moi le saffre bien (I).</l>
+            </lg>
+            
+            <note xml:lang="met-fr">
+                (i) Noëls anciens et nouveaux. - Châlons sur.Marne,
+                Mercier. - Le XVIe siècle vit introduire dans les armées
+                françaises les Suisses et les reîtres.- Ce noël, dont la tra
+                dition se maintenait en Champagne, n’est qu’une mauvaise
+                plaisanterie contre les soldats étrangers.
+            </note>
+        </div>
+    </body>
+</text>
+</TEI>

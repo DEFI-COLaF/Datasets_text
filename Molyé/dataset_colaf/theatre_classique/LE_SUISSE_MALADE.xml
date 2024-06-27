@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_005</idno>
+<title type="main">LE SUISSE MALADE, COMÉDIE</title>
+<title type="collection">Moliyé</title>
+<author>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle (1717-1806)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janès</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target=""/>
+<title>LE SUISSE MALADE, COMÉDIE</title>
+<author>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle (1717-1806)</author>
+<publisher>Gallica</publisher>
+<date when="1771"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target=""/>
+<title>LE SUISSE MALADE, COMÉDIE</title>
+<author>CARMONTELLE, Louis Carrogis, dit Louis de Carmontelle (1717-1806)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="LE_BARON_DE_ROTTBERG">
+<persName>LE BARON DE ROTTBERG</persName>
+</person>
+<person xml:id="LE_MAJOR">
+<persName>LE MAJOR</persName>
+</person>
+<person xml:id="MONISEUR_ROSELIN">
+<persName>MONISEUR ROSELIN</persName>
+</person>
+<person xml:id="UN_CAPORAL">
+<persName>UN CAPORAL</persName>
+</person>
+<person xml:id="UNE_SENTINELLE">
+<persName>UNE SENTINELLE</persName>
+</person>
+<person xml:id="UN_LAQUAIS">
+<persName>UN LAQUAIS</persName>
+</person>
+<person xml:id="UN_GARÇON_DE_CABARET">
+<persName>UN GARÇON DE CABARET</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LE SUISSE MALADE</p></div><div type="liminal"><p>CINQUIÈME PROVERBE.</p></div></div><div type="liminal"><p>M. DCC. LXVIII. Avec Approbation et Privilège du Roi.</p></div><div type="liminal"><p>de CARMONTELLE.</p></div>À Paris, chez MERLIN, Au bas de la Rue de Harpe, vis à vis de la rue Poupée.<div type="liminal"><p/></div><list><head>PERSONNAGES</head><item>LE BARON DE ROTTBERG, Capitaine Suisse.</item><item>LE MAJOR.</item><item>MONISEUR ROSELIN, Médecin.</item><item>UN CAPORAL.</item><item>UNE SENTINELLE.</item><item>UN LAQUAIS.</item><item>UN GARÇON DE CABARET.</item></list><p>La Scene est chez le Baron de Rottberg.</p><note>Dans PROVERBES DRAMATIQUES, Tome premier, Première partie, 1768.</note></div>
+<div n="1" type="act">
+<head>LE SUISSE MALADE.</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Le Baron en robe de chambre , Le Major.</head>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Hé bien, Monsieur Baron, comment aujourd'hui porte-vous, porte-vous bien ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Non, Major, je suis tout embarrassé des jambes, de la tête, de la ventre.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Fumé in bibe de tabac, cela il fera sort bien, che vous assure, moi.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Pon. J'ai déja fumé plus que trois, et tout au contraire, il ne sait rien, je suis tout de même qu'auparavant.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Tiaple ! Je comprends pas comment cela il fait : il faut envoyer chez la Docteur.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Hé bien, envoye vous.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Je vais dire tout présentement. Oh là-bas, André.</p>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Le Baron, Le Major, Un Laquais.</head>
+<sp who="LE LAQUAIS">
+<speaker>LE LAQUAIS.</speaker>
+<p>Qu'est-ce que vous voulez, Monsieur le Major ?</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Apporte ci à ste moment la Docteur Roselin.</p>
+</sp>
+<sp who="LE LAQUAIS">
+<speaker>LE LAQUAIS.</speaker>
+<p>Il est ici dans la maison, chez un Monsieur qui est malade. Tenez le voilà qui descend.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Hé bien, fais endrer ici, chez Monsieur la Baron. Marche donc. </p>
+<stage>Le Laquais sort. </stage>
+<p xml:lang="fra-deu">Cette Docteur, il dira la mal avec la remède.</p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Le Baron, Le Major, Monsieur Roselin, Un Laquais.</head>
+<sp who="LE LAQUAIS">
+<speaker>LE LAQUAIS.</speaker>
+<p>Par ici, Monsieur le Docteur.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Ah, c'est vous, Monsieur le Major : est-ce que vous êtes malade ?</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">C'est bien autrement ; c'est Monsieur, la Capitaine.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Ah, cela n'est pas étonnant, dans ce temps-ci, il y a beaucoup de maladies ; voyons, voyons.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Tenez, placez-vous ici, avec Monsieur la Baron.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN, tâtant le pouls du Baron.</speaker>
+<p>Qu'est-ce que vous sentez, Monsieur.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je sente fort la tabac de fumée.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Je comprends fort bien cela vient d'un grand feu dans les entrailles, et crachez-vous ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Monsieur la Docteur, toute le jour je ne fais pas autrement ; et plus je crache, plus je suis altéré.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">C'est-il pon cela , Monsieur la Docteur ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Un moment, plus je pense et plus je vous trouve heureux, Monsieur ; votre maladie est une chose rare ! Admirable ! Surprenante ! C'est un bonheur pour moi de vous avoir vu !</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Un bonheur, Monsieur la Docteur ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN, avec joie.</speaker>
+<note>Pituite : Terme de médecine. Humeur blanche et visqueuse, sécrétée par certains organes, et particulièrement celle qui vient du nez et des bronches. [L]</note>
+<p>Oui, un bonheur ! Votre maladie est la pituite vitrée des anciens, que nous avions perdu depuis longtemps, et que vous nous faites retrouver.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Une petite huitre vitrée, vous croyez Monsieur la Docteur ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>J'en suis sûr, et toute la Faculté m'en aura obligation.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Mais, Monsieur, que faut-il que je fasse ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Il faut... la pituite vitrée ! Cela aura des suites ! Il faut Monsieur... la pituite vitrée !...</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Dites à ce moment, Monsieur la Baron, il attend votre ordonnance.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>II faut, Monsieur, faire boire beaucoup le malade et lui donner une garde ; je reviendrai bientôt. La pituite vitrée !... Adieu, Messieurs, adieu, ne perdez pas de temps.</p>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Le Baron, Le Major, Le Laquais.</head>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">André, allez sur le moment, à la Corps-de-Garde, chercher une Garde de quatre hommes, avec in Caporal, et qu'ils viennent tout présentement.</p>
+</sp>
+<sp who="LE LAQUAIS">
+<speaker>LE LAQUAIS.</speaker>
+<p>Oui, Monsieur le Major.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Et faites apporter ici, six bouteilles de vin, du meilleur, et puis après on portera encore... Allons, marche.</p>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Le Baron, Le Major.</head>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Je comprends pas bien ce petit huitre que la Docteur il dit que vous avez, Monsieur la Baron.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>C'est peut-être que j'ai mangé beaucoup à Dunkerque, de celles de Blankenberg, avant de venir ici.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Ho, cela il pourrait être fort bien comme cela ; mais il dit que c'est in bonheur ; c'est in tiaple de bonheur ; j'aimerais mieux avoir in pon santé.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>La remède il fera peut-être guérir un peu.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Oh, pour moi, je crois bien. Ah voilà déjà la vin.</p>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Le Baron, Le Major, Un Garçon de cabaret, avec des bouteilles de vin. Le Caporal, des Soldats, Le Laquais.</head>
+<sp who="LE GARÇON DE CABARET">
+<speaker>LE GARÇON DE CABARET.</speaker>
+<p>N'est-ce pas ici que demeure Monsieur_le_Baron de Rottberg ?</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Oui, porte-là le vin, et les verres.</p>
+</sp>
+<sp who="LE LAQUAIS">
+<speaker>LE LAQUAIS.</speaker>
+<p>Monsieur le Major, voilà le Caporal.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Ah fort bon. Caporal, mettez in Sentinelle à la porte de Monsieur la Baron, qu'on ne laisse point entrer ici personne, sans mon ordre, entendez-vous ?</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Fort bon, Monsieur le Major.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Écoutez encore. Vous aurez soin de verser à boire à Monsieur la Baron, voilà du vin ; n'épargne pas, et vous boirez aussi avec lui pour l'inviter.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Fort bon, Monsieur le Major.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Je reviendrai à fte moment, après que la parade il fera fini. Portez-vous bien Monsieur la Baron.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Adieu Major.</p>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCENE VII. Le Baron, Le Caporal, La Sentinelle.</head>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Sentinelle entre dehors, et prendre garde s'il vient quelqu'un qu'il ne doit pas entrer, que Monsieur la Major.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Caporal, je suis fort altéré...</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>C'est fort bon ; voilà in bouteille que nous boirons premièrement ; tenez mon Capitaine ; c'est pour votre bon santé.</p>
+<stage>Ils boivent. </stage>
+<p>C'est un pon vin. Puvons encore un coup. À la Major.</p>
+<stage>IIs boivent. </stage>
+<p>Fort bon !</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>La Docteur, je crois, il a raison.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>C'est un pon ordonnance, ils donnent pas comme cela à l'Hôpital. Voulez-vous encore ? Pour moi je veux bien. Au santé de tout la Régiment.</p>
+<stage>Ils boivent.</stage>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>C'est un pon Médecin, la Docteur.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Oh, in fort habile homme ! Voule-vous poire aux Compagnies de Grenadiers ; c'est braves gens, par mon foi.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je suis fort en train, verse, Caporal. </p>
+<stage>Ils boivent.</stage>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Nous poirons après la Drapeaux.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>La Drapeaux ? Oui, il faut commencer par la Drapeaux, et puis nous retournerons après : c'est un grand bêtise que nous avons fait. Puvons, puvons.</p>
+<stage>Ils boivent.</stage>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Je disais pas d'abord ; mais je pensais.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je suis plus gaillard, le parole il me revient.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>La Tambour, la Fifre, le Musique, il faut poire aussi, mon Capitaine.</p>
+<stage>Il verse.</stage>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Le Musique, oui ; c'est un bon camarade pour poire aussi le Musique. Donne donc encore.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Votre verre il est tout plein.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Ah, tu as raison Caporal, c'est que je ne voyais pas.</p>
+<stage>Ils boivent.</stage>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Mon Capitaine, voulez-vous chanter un petit chanson, cela il vous altérera encore plus fort.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je veux bien, Caporal. Chante un peu, je chante avec.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL, chante.</speaker>
+<stage>Air du Noël Suisse.</stage>
+<l>C'est un pon grivoise</l>
+<l>Que Mameselle Fanchon,</l>
+<l>Elle vous amboise.</l>
+<l>Et se rend sans façon.</l>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON, chante.</speaker>
+<l>C'est un pon grivoise...</l>
+<p>Oui, tu avais raison, cela il alt7re beaucoup de chanter, verse un peu à poire.</p>
+<stage>Ils boivent.</stage>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>C'est fort pon. Allons chantons.</p>
+</sp>
+<sp who="ENSEMBLE">
+<speaker>ENSEMBLE.</speaker>
+<l>C'est im pon grivoise</l>
+<l>Que Mameselle Fanchon,</l>
+<l>Elle vous amboise</l>
+<l>Et se rend sans façon.</l>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Gott, Gott, puvons.</p>
+<stage>Ils boivent.</stage>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Mon Capitaine, écoute avec moi.</p>
+<l>On lui dit Mamselle</l>
+<l>Je vous aime bien.</l>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<l>On lui dit Mamselle</l>
+<l>Je vous aime bien.</l>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<l>Et jamais la belle</l>
+<l>Ne dit je n'en crois rien.</l>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Ah, fort pon, celui-là ! Puvons à son santé.</p>
+<stage>Ils boivent.</stage>
+</sp>
+<sp who="ENSEMBLE">
+<speaker>ENSEMBLE.</speaker>
+<l>Et jamais la belle</l>
+<l>Ne dis je n'en crois rien.</l>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<l>Chacun se l'arrache,</l>
+<l>Sans qu'elle se fâche ,</l>
+<l>Qui porte moustache</l>
+<l>A toujours son tour</l>
+<l>Du Sergent au Tambour.</l>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<stage>Du Sergent au Tambour.</stage>
+<p>Il est fallé celui-là, puvons.</p>
+<stage>Ils boivent et ils commencent à être ivres.</stage>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Le Baron, Le Caporal, Monsieur Roselin, La Sentinelle, tous deux en dehors.</head>
+<sp who="LA SENTINELLE">
+<speaker>LA SENTINELLE.</speaker>
+<p>Où alle-vous, Monsieur ? On n'entre pas.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Je vais chez Monsieur_le_Baron.</p>
+</sp>
+<sp who="LA SENTINELLE">
+<speaker>LA SENTINELLE.</speaker>
+<p>Monsieur la Baron, là-dedans ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Oui, Monsieur_le_Baron qui est malade.</p>
+</sp>
+<sp who="LA SENTINELLE">
+<speaker>LA SENTINELLE.</speaker>
+<p>Malade ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Oui, je suis son Médecin.</p>
+</sp>
+<sp who="LA SENTINELLE">
+<speaker>LA SENTINELLE.</speaker>
+<p>Malade ? On m'a point dit. Alle-vous trouver la Major, il vous fera entrer.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Quoi, je ne puis pas entrer sans le Major ?</p>
+</sp>
+<sp who="LA SENTINELLE">
+<speaker>LA SENTINELLE.</speaker>
+<p>Non je vous dis, allons marche.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Quels diables de gens !</p>
+</sp>
+<sp who="LA SENTINELLE">
+<speaker>LA SENTINELLE.</speaker>
+<p>Allons, allons, vous dire point autre chose.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Hé bien, je m'en va trouver le Major.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Sentinelle, qu'est-ce que c'est donc là ?</p>
+</sp>
+<sp who="LA SENTINELLE">
+<speaker>LA SENTINELLE.</speaker>
+<p>In Monsieur, qui est allé marcher sur la Major.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Ah, pon, pon.</p>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. Le Baron, Le Caporal.</head>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Caporal, qu'est-ce qui est donc là avec vous ?</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>C'est moi.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Ah, je croyais voir encore un autre.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>C'est la brouillard.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Oui, je comprends. Puvons à présent.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Au brouillard ?</p>
+<stage>Versant à boire.</stage>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Non, à les treize Cantons.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Hé bien, au premier.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Zurich ?</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Non, Berne.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Non, c'est Zurich, je fuis de Zurich, ainsi pour moi, c'est la premier.</p>
+</sp>
+<sp who="LE CAPORAL">
+<speaker>LE CAPORAL.</speaker>
+<p>Buve-vous à Zurich , moi je pois à Berne.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Berne, Zurich, Zurich, Berne, je pois toujours.</p>
+<stage>Ils boivent.</stage>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X. Le Baron, Le Major, Monsieur Roselin, Le Caporal.</head>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Hé bien, Baron, comment va présentement ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Ah, Major, nous avons pu à votre santé, voule-vous poire avec nous ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Comment ! Il est ivre, je crois ! Vous lui avez laissé boire du vin, c'est donc pour cela qu'on ne voulait pas me laisser entrer ?</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">N'avez-vous pas dit de faire poire ?</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Oui, mais pas de vin.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Et de donner une garde ? Voilà la Caporal, et puis encore quatre fusiliers.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>Comment ; c'est une garde-malade, et c'était de la ptisanne qu'il fallait lui faire boire.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Ah, bien Dame, il fallait donc vous expliquer mieux.</p>
+</sp>
+<sp who="MONSIEUR ROSELIN">
+<speaker>MONSIEUR ROSELIN.</speaker>
+<p>J'ai cru que vous m'entendriez, ce n'est pas ùa faute ; mais il n'a pas besoin de moi à présent, je vous souhaite le bonjour.</p>
+</sp>
+<sp who="LE MAJOR" xml:lang="fra-deu">
+<speaker>LE MAJOR.</speaker>
+<p xml:lang="fra-deu">Bonjour, Monsieur de Docteur.</p>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

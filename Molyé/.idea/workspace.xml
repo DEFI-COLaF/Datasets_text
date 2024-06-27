@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d766a44-8271-460d-911d-1542db0cb49b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pipeline/pronoun_experiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipeline/semi_auto_tei.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/transcribed/poetry/cigale_fourmi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/transcribed/poetry/noel_suisse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/transcribed/prose/suisse_singe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/.idea/Moliest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/.idea/Moliyé.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/Transcribed_Local/BELLE_RÉPONSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/Transcribed_Local/Chansons_Suisses" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/Transcribed_Local/Min_petite_sisca.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/Transcribed_Local/Pitche.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/Transcribed_Local/Poutche.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/Transcribed_Local/Sisca_à_de_Cinéma.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/L_Habitation_Saint_Ybars.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/misc_works/deux_textes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/moliyé.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Arelequin_Pluton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Cendrillon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Colin_Maillard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/DON_JUAN_ou_LE_FESTIN_DE_PIERRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/ELOMIRE_HYPOCONDRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Janot_Chez_Le_Dégraisseur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/LES_FÊTES_DE_L_AMOUR_ET_DE_BACCHUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/LES_PRISONNIERS_DE_GUERRES.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/LE_JE_NE_SAIS_QUOI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/LE_SUISSE_MALADE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/L_Esprit_de_contradiction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/L_opéra_de_Province.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/L_Épreuve.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/L_école_de_la_raison.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/La_Comédie_des_comédiens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/La_Hollande_Malade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/La_Maison_de_campagne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/La_Mère_confidente.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/La_loterie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/La_méprise.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Le_Bourgeois_Gentilhomme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Le_Double_Veuvage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Le_Galant_Jardinier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Le_Moulin_de_Javelle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Le_Suisse_de_Porte.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Le_Tuteur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Le_charivari.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Les_Filles_Errantes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Les_Vendanges.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Les_empiriques_comédie_en_trois_actes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Les_fragments_de_Molière.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Monsieur_de_Pourceaugnac.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/theatre_classique/Première_Parade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/wikisource/L_Habitation_Saint_Ybars.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/wikisource/Une_de_perdue_deux_de_trouvées_TOME_I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/dataset_colaf/wikisource/Une_de_perdue_deux_de_trouvées_TOME_II.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/MOLIERE_ETOURDI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/Moliyé_list.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/Patron_prose.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/Pattern_Simple_XML.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/Pattern_group.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/classique2colaf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/compile_moliyé_corpus_old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/convert_local_pasquille.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/convert_local_transcribed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/discard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/html2tei.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/metadata_patterns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/moliest_v03.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/moliest_v04.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/moliyé_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/moliyé_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/transfo_TheatreClassique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/transform_lou.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/transform_rcf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/pipeline/transform_tc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/Google_books/pdf/L'amour d'une blanche_short.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/Google_books/pdf/L_autre_monde.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/Google_books/pdf/Le_Journal_de_Marguerite.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/Google_books/pdf/Missions_de_la_Société_de_Marie_réparatrice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/Google_books/txt/blanche_intitial.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Arelequin_Pluton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Cendrillon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Colin_Maillard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/DON_JUAN_ou_LE_FESTIN_DE_PIERRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/ELOMIRE_HYPOCONDRE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Janot_Chez_Le_Dégraisseur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/LES_FÊTES_DE_L_AMOUR_ET_DE_BACCHUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/LES_PRISONNIERS_DE_GUERRES.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/LE_JE_NE_SAIS_QUOI.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/LE_SUISSE_MALADE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/L_Esprit_de_contradiction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/L_opéra_de_Province.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/L_Épreuve.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/L_école_de_la_raison.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/La_Comédie_des_comédiens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/La_Hollande_Malade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/La_Maison_de_campagne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/La_Mère_confidente.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/La_loterie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/La_méprise.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_Bourgeois_Gentilhomme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_Deuil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_Double_Veuvage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_Galant_Jardinier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_Moulin_de_Javelle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_Suisse_de_Porte.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_Tuteur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Le_charivari.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Les_Filles_Errantes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Les_Vendanges.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Les_empiriques_comédie_en_trois_actes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Les_fragments_de_Molière.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Monsieur_de_Pourceaugnac.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moliyé/source/theatre_classique/Première_Parade.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MOLIERE_ETOURDI.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pattern_Simple_XML.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/html2tei.xsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/transfo_TheatreClassique.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eBOmzfKztp8AjFfXLHmhwKpnaF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.annotation.executor": "Run",
+    "Python.classique2colaf.executor": "Run",
+    "Python.metadata_patterns.executor": "Run",
+    "Python.moliest_main.executor": "Run",
+    "Python.moliest_util.executor": "Run",
+    "Python.moliyé_main.executor": "Run",
+    "Python.molyé_main.executor": "Run",
+    "Python.semi_auto_tei.executor": "Run",
+    "Python.transform_gal_local.executor": "Run",
+    "Python.transform_gcr.executor": "Run",
+    "Python.transform_hat.executor": "Run",
+    "Python.transform_hat_gcf.executor": "Run",
+    "Python.transform_lou.executor": "Run",
+    "Python.transform_rcf.executor": "Run",
+    "Python.transform_wiki.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing Moliyé__2",
+    "last_opened_file_path": "/home/rdent/Datasets_text/Molyé/source/transcribed/dialog",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/transcribed/dialog" />
+      <recent name="$PROJECT_DIR$/xml" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/transcribed/poetry" />
+      <recent name="$PROJECT_DIR$/source/transcribed/prose" />
+      <recent name="$PROJECT_DIR$/source/transcribed_other/poetry" />
+      <recent name="$PROJECT_DIR$/source/misc_works" />
+      <recent name="$PROJECT_DIR$/pipeline/patterns" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Molyé" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Molyé" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Molyé" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Molyé" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Molyé" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Molyé" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d766a44-8271-460d-911d-1542db0cb49b" name="Changes" comment="" />
+      <created>1711373079995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711373079995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

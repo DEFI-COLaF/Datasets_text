@@ -1,0 +1,243 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>MOL_ANG_001</idno>
+                <title type="main"> Le Testament du Gentil Cossoys</title>
+                <title type="collection">Moliyé</title>
+                <author>Anonymous</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="RDENT">
+                        <surname>Dent</surname>
+                        <forename>Rasul</forename>
+                        <idno type="orcid">0009-0004-1032-1745</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+                <date when="2024-05-30"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="PrintSource">
+                    <ptr target="https://www.jstor.org/stable/pdf/25519232.pdf?"/>
+                    <title>The Scottish Historical Review, Vol. 17, No. 67</title>
+                    <author>David Baird Smith</author>
+                    <publisher>Edinburgh University Press</publisher>
+                    <date when="1509 (1920)"/>
+                </bibl>
+                <bibl type="CorpusSource">
+                    <ptr target="https://www.jstor.org/stable/pdf/25519232.pdf?"/>
+                    <title>Le Testament du Gentil Cossoys</title>
+                    <author> David Baird Smith</author>
+                    <publisher>JSTOR</publisher>
+                    <date when="2014-06-05"/>
+                </bibl>
+            </sourceDesc>
+            <extent>TO BE DEFINED</extent>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fra-ang">
+                    <idno type="langue">fra-deu</idno>
+                    <idno type="script">Latin</idno>
+                    <name>Anglo-French Baragouin</name>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Drama</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-05-30" who="#RDENT">Génération du document</change>
+        </revisionDesc>
+    </teiHeader>
+<header>
+Title : Testament d'vn Escossois.
+Author : Charles-Timoléon de Beauxoncles, sieur de Sigogne
+Date : 1620
+Publication : Le cabinet satyrique ou recueil parfaict, des vers piquants & gaillards de ce temps
+Publication_type : Book
+Publisher :  Edinburgh University Press
+Publication date :  1620
+Language :  fra-ang
+Rights  :  Public domain
+Identifier : https://www.google.fr/books/edition/_/ksvql72IXpAC?hl=en&gbpv=0
+Source  :  Google
+Provenance :  the Bavarian State Library
+Online date :  09/01/2017
+</header>
+
+<text>
+<head>
+TESTAMENT D'VN
+Escossois.
+SATYRE
+Par le Sieur de Sygognes.
+</head>
+
+<div type="poem" n="1">
+<lg>
+La mort qui d'vn point de repit
+Est venu prendre soudainemen
+Vn cossois qui va pur depit.
+Mouri dans son lit hardemen
+Cest grand piti que vous oyra
+Com il fera son testamen,
+Et voy bien que vous en rira
+Moque vou de la gehenhen
+Escriui premieremen
+Parquoy le Roy rompi pointemen
+Moury ie ven bien voy le consequas
+</lg>
+
+<lg>
+Tou foy premir faire vn bel testamen
+Tento moy mesm & auan mon trepa
+Ally vaten pineti haut & ba
+Vien sa curi ie prie que mon am
+Me l’ordonni car i esti gran malad
+Comme il me sembl & monstoma ce fad
+</lg>
+
+<lg>
+Iten premy adi & nostre Dam
+Saint Michel lang & S. Trignande coss
+Ie ly donny tout entier mon pauure am
+Si la futi encor vne foy pru gro
+Quand mor fu moy fité lon vn grand fos
+Au Cimetir rasibu de l’Eglise
+Mette me ly tout du lon de ma do
+Bien à mon aise ainsi qu’il est la gise
+</lg>
+
+<lg>
+Ma seruiteur est pour vou vn gran per
+Cham de mon arm crian vou hardemen
+Si quelque chos de bon courag me pret
+Moy rendi tout au iour de Iuiemen
+Mon gran curas cheual & billement
+Pour vostre corps guardi bien de laron
+Quatre cen cu y vali bien vramen
+Moy donne a vou aue mes deu espron
+</lg>
+
+<lg>
+Mon brigaudi sarabra & salad
+Dag Iddelin halebard gorgeri
+Donne à ma page qui ma serui mala
+Bien counoy li que futi bien mary
+Ma guiledin qui neti pa gueri
+Moy donne à ly monte comme vn S. Georg
+Ma serati vn gran dommag à ly
+Farcin mangi se poil iusqu'à son gorge
+</lg>
+
+<lg>
+Iten iordon i’auray de la torche desir
+Douse chandelle a cusson de mon Arm
+C'est pour l'amour du grand Roy nostre si
+Que i'ameray grandemen sur mon am
+Vn escusson de geul tout semé de grand larm
+Et pour montri que futi moy gendarm
+Dessus mon fos planty vou vn tendar
+Moy veu encor à vou fair vn bea_ don
+</lg>
+
+<lg>
+D'vn pot de vin & deu cuel do potag
+A cour ouuer mon maison habandon
+Pui emporty mon chauss & mon bagag
+Iten iordon moy rien donne a cognin
+Moy laiss encor ou cham un heritag
+A mon parant qui fu vieu & nouueaux
+Firent entre eux comme vieux tu partag
+
+</lg>
+Tou foy iordonne party point les veaux
+L’herbe de pri mangeri les cheuaux
+Ma quant au reste iusqu'a vn fetu
+Comm bag d’or, vaissel d’argen ioyau
+I’enten fort bien qu’il en est reuetu
+</lg>
+
+<lg>
+La gard coissi croy se trouueri
+A la meni mon corps en sepuliur.
+Sa baqueton couuer d'or faueri
+Tou deu a deu com & bien la droitus
+Et pui apré qu'il auront pri patur:
+Ie ne sçay ou dy le deprofondi
+Et moy quan sui preé Dieu paraavnantur!
+Priray que ton alli en Paradi
+</lg>
+
+<lg>
+Et curi diti bel oraison
+Incontinent que moy vien à l'Eglise
+Y espere & vigil il le grand querelison
+Ma chanti haut ne me si point feintise
+Chantre de Roy firent music aussi
+Tanto ie croy ainsi qui leur plaira
+Et moy iordon qui le toin tou, assi
+Sur beau careau si non a libera
+</lg>
+
+<lg>
+Ma testamen fati bien ie l’ordon
+Moy ne veu plu viur an monde iur ne beur
+Puus que fortun ainsi tu m’abandon
+Ha ieu de coss cest bien for parti mur
+Ne parli plumy: fi plu de demeur
+Tu las perdu _ou pointiment est dam
+Ie croy ma foy qu’il eſt meilleur
+De rend à Dy mon esprit de corp & d’am
+</lg>
+
+<lg>
+Ady le Prince, Gouuerneur, compagnons
+Ady mon dam, ady mon marmouset,
+Ady Archers qui la piq empougués,
+Ady hauber, ady celi & cel,
+Qui nouri moy quan futi à la guerre,
+Ady à moy assi deſſu mon sel,
+Ady fouri mon logi & parierre,
+</lg>
+
+<lg>
+Ady par tout le Royaume de France
+Premierement ady le pay de Coss
+Mon parant Roy fu mary à outranss
+Quand ly serra que do, mi en vn fos
+San play, blessurr, cater, goutte ne bos
+Mariret ly si sauoit mon vaillance,
+Vous en pri don faire de su mes os,
+Vn bel Pitaphe sans faire defaillance.
+</lg>
+</div>
+</text>
+</TEI>
+

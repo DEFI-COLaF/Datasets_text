@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>FRA_FLA_000</idno>
+        <title type="main">Poutche</title>
+        <title type="collection">Moliyé</title>
+        <author>Jules Watteuw</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Poutche</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
+          <date when="1924-03-02"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Poutche</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France</publisher>
+          <date when="20/01/2019"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra-deu">
+          <idno type="langue">fra-deu</idno>
+          <idno type="script">Latin</idno>
+          <name>Germanic Baragouin</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-prose">Drama</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="fra-deu">
+    <body>
+      <div n="1" type="chapter">
+        <head>Poutche</head>
+        <p>Accoute un fois : mo y soldate</p>
+        <p>Dans d' régiment de y guernate :</p>
+        <p>Dri companie, vir bataïon,</p>
+        <p>Qu' ill' est Bruxell' à garnison.</p>
+        <p>Un' zour que moi, en train d'astique</p>
+        <p>Ma feurniment et mas feusique,</p>
+        <p>Y lui venir de caporal</p>
+        <p>Qui rentrer zuss' de l'axercice.</p>
+        <p>Y dire à moi : -- Sp'c' d'anemal</p>
+        <p>Venir à de Polais d'Zestice,</p>
+        <p>Toi y-aller monter de faction,</p>
+        <p>Et salit te faut fair' de tention</p>
+        <p>Quansque vous toi, y factionnaire,</p>
+        <p>Hein ! Allez, inn' deuss' `a l'avant,</p>
+        <p>Mo, y suiver à sa derrière</p>
+        <p>Tout droit' zusqu'à de bâtiment</p>
+        <p>Qui appeler Polais d'Zustice</p>
+        <p>-- Allez, te faut fair ta service</p>
+        <p>Dit de cap'ral vous promener,</p>
+        <p>Comprenne? Mais vous ne pas bouzer.</p>
+        <p>`-- Ah! ze di moi : y difficile.</p>
+        <p>Y promener, y pas bouzer.</p>
+        <p>Ah! caperal, pas comprener.</p>
+        <p>--Taise vous, spèc' de béelle,</p>
+        <p>Y dit à mo, et s'en d'aller,</p>
+        <p>Te povez croire, y moi tout de suite</p>
+        <p>Rentrer y dedans me guérite...</p>
+        <p>Mo... y ne pas beaucoup plaisir</p>
+        <p>Mo embêter comm' de morir,</p>
+        <p>Et mo y gratter à me tête...</p>
+        <p>Mo, y çanter de çansonnette...</p>
+        <p>Mo, y çufell petit' refrain,</p>
+        <p>Mo y de gratter à me rein...</p>
+        <p>Et à min fess... Oué mais accoute :</p>
+        <p>Mo y attender sur de route,</p>
+        <p>Psst! Psst! Psst! quéqu'in crier</p>
+        <p>Et tout de suit y retourner,</p>
+        <p>Et y voyer moi me ma mère</p>
+        <p>Qui moi dir' : -- Poutche, te factionnaire?</p>
+        <p>--Ah! ze dis moudre, quoisque y faire!</p>
+        <p>Si de cap'ral y lui venir,</p>
+        <p>Bott' ferderck y va moi peunir.</p>
+        <p>--Nine, Poutche partir tout suite,</p>
+        <p>Moi, y porter de poir' quittes</p>
+        <p>Et un' panier d'ousqui dedans</p>
+        <p>Tatine et fromace puant.</p>
+        <p>Vas, manze Poutche y dir' me mère,</p>
+        <p>Mais, que vous te vas fair' bon çère !</p>
+        <p>Et de moudre y s'en aller,</p>
+        <p>Mol, assier sur de bord de gu'rite</p>
+        <p>Et mo quemancer à manzer</p>
+        <p>Me tartine fromace bien vite.</p>
+        <p>Mais vela que z'attends : -- Hum! hein!</p>
+        <p>Mo, je l'avais mon bouz' tout plein</p>
+        <p>Ze pas pouvoir crier : " Qui vife! "</p>
+        <p>Mais y venir grande scogrife</p>
+        <p>Y de grands zamp' y de grand' nez</p>
+        <p>Y de grand' boarpe, y ditt, -- Parlez.</p>
+        <p>Soldat', te manzer de fremace?</p>
+        <p>-- Ia, ze dis. -- Et bien à de p[l]ace</p>
+        <p>Te f'rai mieux rent' moi de z'hommace.</p>
+        <p>-- Ah! ze réponds, tout suite, oh! mais,</p>
+        <p>Mo, Menherr, ne vous pas moi connaite?...</p>
+        <p>Te savez pas quisque ze ête?...</p>
+        <p>-- Non... t'es vous Députe, beut ête?</p>
+        <p>-- Ze suis plus haut' que Depute, ma garçon,</p>
+        <p>Y dit de boarpe. Garde moi, allons veyons.</p>
+        <p>-- Ah! que ze moi répoins, toi il est de Sénate?</p>
+        <p>--Ze suis cor plus haute que Sénate, soldate</p>
+        <p>Y de de boarp' -- Ah ze disé ah! mois y sais</p>
+        <p>Ah! bon, bon, la, vela, bon, bon mois bous connais,</p>
+        <p>A de Polais d'Zustisse,</p>
+        <p>Vous y êtes Minisse</p>
+        <p>Et moi</p>
+        <p>Y deux, trois zours après mo va d mon meson</p>
+        <p>A Lacken, près de Bruxell'. Me mère y dit: --Arçon</p>
+        <p>Vous, te l'aut' zour au soir, y te l'as fait bon cère?</p>
+        <p>-- Ah! oué, oué, moi y dit, mais te sais pas me mère.</p>
+        <p>Liopol y venir, y tenir ma feusique</p>
+        <p>Y dire à moi que lui y de Ro de Belzique.</p>
+        <p>Lui rinconter sin conte, y rier, y parler.</p>
+        <p>-- Et t'l'as donné morceau d'ton tartine à manzer?</p>
+        <p>-- Non moudre, pas pensé -- Ah! y Poutche, y damaze;</p>
+        <p>Liopold zamais manzé lui de si bon fromace.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

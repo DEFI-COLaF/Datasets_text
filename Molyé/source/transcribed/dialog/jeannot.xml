@@ -1,0 +1,1452 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <idno>CRE_HC_002</idno>
+    <title type="main">Jeannot</title>
+    <title type="collection">Molyé</title>
+    <author>Jeannot et Thérèse</author>
+    <respStmt>
+     <resp>Encoding</resp>
+     <persName xml:id="RDENT">
+      <surname>Dent</surname>
+      <forename>Rasul</forename>
+      <idno type="orcid">0009-0004-1032-1745</idno>
+     </persName>
+    </respStmt>
+    <respStmt>
+     <resp>Encoding</resp>
+     <persName xml:id="JJANES">
+      <surname>Janès</surname>
+      <forename>Juliette</forename>
+      <idno type="orcid">0000-0002-8971-6173</idno>
+     </persName>
+    </respStmt>
+    <principal>
+     <persName xml:id="BSAGOT">
+      <surname>Sagot</surname>
+      <forename>Benoît</forename>
+      <idno type="orcid">0000-0001-8957-9503</idno>
+     </persName>
+    </principal>
+    <funder>Inria</funder>
+   </titleStmt>
+   <publicationStmt>
+    <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+    <date when="2024-05-30"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="PrintSource">
+     <ptr target=""/>
+     <title>Jeannot et Thérèse</title>
+     <author></author>
+     <publisher></publisher>
+     <date when="1740~"/>
+    </bibl>
+    <bibl type="CorpusSource">
+     <ptr target=""/>
+     <title>Jeannot et Thérèse</title>
+     <author></author>
+     <publisher></publisher>
+     <date when="2024-05-30"/>
+    </bibl>
+   </sourceDesc>
+   <extent>TO BE DEFINED</extent>
+  </fileDesc>
+  <profileDesc>
+   <language ident="hat">
+    <idno type="langue">hat</idno>
+    <idno type="script">Latin</idno>
+    <name>Haitian Creole (presumed)</name>
+   </language>
+   <langUsage>
+    <language ident="met-fr">
+     <idno type="langue">met-fr</idno>
+     <idno type="script">Latin</idno>
+     <name>French of Metropolitan France</name>
+    </language>
+
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term rend="spoken" type="supergenre">Fiction</term>
+     <term rend="spoken-script" type="genre">fiction-drama</term>
+    </keywords>
+   </textClass>
+   <particDesc>
+    <listPerson>
+     <person xml:id="JEANNOT">
+      <persName>Jeannot</persName>
+     </person>
+     <person xml:id="THÉRÈSE">
+      <persName>Thérèse</persName>
+     </person>
+     <person xml:id="SIMON">
+      <persName>Simon</persName>
+     </person>
+     <person xml:id="DANSANTS">
+      <persName>nègres et négresses dansants</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2024-06-25" who="#RDENT">Génération du document</change>
+  </revisionDesc>
+ </teiHeader>
+<text>
+ <body>
+<head>Jeannot et Thérèse
+parodie nègre du Devin du village
+</head>
+
+<list>
+<head> personnages: </head>
+<item>Jeannot amant de Thérèse</item>
+<item>Thérèse amante de Jeannot</item>
+<item>Simon magicien</item>
+<item>nègres et négresses dansants</item>
+</list>
+
+
+<div type="liminal">
+<p>la scène est à Saint-Domingue</p>
+</div>
+
+<div type="liminal">
+<p>le théâtre représente dans le fond un morne établi en place à vivres, au pied de ce morne paraît d’un côté la case de Thérèse et de l’autre côté celle de Simon</p>
+</div>
+  <div type="act" n="1">
+   <div type="scene" n="1" >
+    <head>Scène première: Thérèse</head>
+    <sp>
+     <speaker>Thérèse </speaker>
+     <stage>(s’essuyant les yeux d’un mouchoir de batiste qui pend à sa cinture)</stage>
+     <stage>air: J’ai perdu mon bonheur</stage>
+     <lg>
+     <l>zami à moi li perdi</l>
+     <l>moi pas conné oué ti li</l>
+     </lg>
+     
+     <stage>air: Que fais-tu là-bas</stage>
+     <lg>
+      <l>Jeannot vous allé</l>
+      <l>qui ça vou gagné</l>
+      <l>ha! vla moi dans mizere</l>
+      <l>pourquoi vous parti</l>
+      <l>vous quitté moi ci</l>
+      <l>qui ça moi allé faire</l>
+     </lg>
+
+     <stage>air: Au bord d’un clair ruisseau</stage>
+    <lg>
+     <l>c’est changé li changé</l>
+     <l>mais sila qui la cause</l>
+     <l>li doi per meme chose</l>
+     <l>fau pas tan li carré</l>
+     <l>si Jeannot quitté moi</l>
+     <l>quand meme toi sré pi belle</l>
+     <l>d’abord li infidelle</l>
+     <l>li pé bin quitté toi</l>
+    </lg>
+     
+     <stage>air: Votre coeur aimable Aurore</stage>
+     <lg>
+     <l>dré ma miré li tout proche</l>
+     <l>ma babillé li ben fort</l>
+     <l>mais li mocqué tout reproche</l>
+     <l>li pas soucie gagné tort</l>
+     <l>quior ali dir tant comme roche</l>
+     <l>moi pas savé vivre encore</l>
+    </lg>
+     
+     <stage>air: Vraiment ma commère oui</stage>
+     <lg>
+      <l>mais moi conné dans quarquié</l>
+      <l>gnion nègre qui grand sorcié</l>
+      <l>ma trouvé li</l>
+     </lg>
+    </sp>
+
+   </div>
+   <div type="scene" n="2">
+    <head>Scène seconde: Simon et Thérèse</head>
+    
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>(achevant l’air qui la peine)</stage>
+     <l>ha, vla moi</l>
+    </sp>
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air: Quel désespoir</stage>
+     <l>Papa Simon</l>
+    </sp>
+    
+    <sp>
+     <speaker>Simon</speaker>
+     <l>qui ça napas crié commere</l>
+    </sp>
+
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>Papa Simon</l>
+      <l>si moi crié moi ben raison</l> 
+     </lg>
+     <stage>air: Ton humeur est catherine</stage>
+      <lg>
+       <l>vous qui conné dans zaffaire</l>
+       <l>passé negre passé blanc</l>
+       <l>di moi ça bon pour faire</l>
+       <l>quior a moi dans grand tourment</l>
+       <l>gagné pitié moi t’en prie</l>
+       <l>ba moi gnon piti ouanga</l>
+       <l>pour moi conné la tromprie</l>
+       <l>de Jeannot quienne a moi la</l>
+     </lg>
+    </sp>
+    
+    
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Quand je suis dans mon corps de garde</stage>
+     <lg>
+      <l>servis la na pas bagatelle</l>
+      <l>li merité gnon bel present</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Thérèse</speaker>
+
+     <lg>
+      <l>Papa prend mouchoir la li belle</l>
+      <l>jouq tant moi lé ba vous l’argent</l>
+     </lg>
+     <stage>
+      (elle lui présente un mouchoir des Indes nommé palliaca
+      qu’elle tire de sa poche tout ployé en lui faisant la reverence)
+     </stage>
+    </sp>
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Je voudrais bien me marier</stage>
+     <lg>
+      <l>si pour vous moi vlé travaillé</l>
+      <l>c’est pour agnin commère</l>
+     </lg>
+    </sp>
+    
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <l>quoi pour agnin vous faire mecquié
+     </l>
+    </sp>
+    
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <lg>
+      <l>d’abord vous conné plaire</l>
+      <l>payement moi c’est l’amiquié</l>
+      <l>ba moi</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>(avec un geste d’épaule et de bouche naturel aux nègres)</stage>
+     <l>pardon compère</l>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Que chacun de nous se livre</stage>
+     <lg>
+      <l>quoique moi pas nègre créole</l>
+      <l>é qu’ moi pas mérité tou</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>t’en prie bas moi laut parole</l>
+      <l>moi vini pour ouanga vous</l>
+      <l>moi pret pour mourir</l>
+     </lg>
+
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <l>que faire</l>
+    </sp>
+
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <l>pour l’amour Jeannot</l>
+    </sp>
+
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <lg>
+      <l>bichi</l>
+      <l>mequié la pas bon ma chere</l>
+      <l>millors vous changé zami</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air: Dans les gardes françaises</stage>
+     <lg>
+      <l>vous beau faire, vous beau dire</l>
+      <l>moi pas savé changé</l>
+      <l>mal moi n’a pas pour rire</l>
+      <l>c’est ça moi doit songé</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <lg>
+      <l>moi songé bon qui chose</l>
+      <l>faut pas vous si chagrin</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <l>dabord Jeannot la cause</l>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <l>Jeannot aimé vous bin</l>
+    </sp>
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air: Paris est à moy</stage>
+     <l>Comment vous conné</l>
+    </sp>
+
+
+
+<sp>
+ <speaker>Simon</speaker>
+ <lg>
+  <l>dans quior moi miré</l>
+  <l>quinne a vous quinne a li</l>
+  <l>va cordé jordi</l>
+  <l>Thérèse à Jeannot</l>
+  <l>c’est quienne a candio</l>
+  <l>ça qui fait li allé</l>
+  <l>c’est cherché vanté</l>
+ </lg>
+</sp>
+
+
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air: Babet que tu es gentille</stage>
+     <lg>
+      <l>si vanté mené li</l>
+      <l>pourquoi li infidelle</l>
+      <l>côté moi jouq jordi</l>
+      <l>équ li manqué belle belle</l>
+      <l>mais li pi content</l>
+      <l>laut faire li present</l>
+      <l>ha! vla la difference </l>
+      <l>li pé ben parlé si li vlé</l>
+      <l>jamais pour li moi rien pargné</l>
+      <l>li va cherché plaire laut côté</l>
+      <l>qui mauvais recompense.......(bis)</l>
+      <l>quand nous dansé calinda</l>
+      <l>c’est li qui capitaine</l>
+      <l>si li flambé comme ça</l>
+      <l>c’est moi qui prend la peine</l>
+      <l>moi bali calin</l>
+      <l>sirsaca pi fin</l>
+      <l>li semblé candio france</l>
+      <l>arien manqué li pour campé</l>
+      <l>moi bali tout ça moi gagné</l>
+      <l>li va cherché plaire l’autre coté</l>
+      <l>qui mauvais recompense (bis)</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air de catchai?</stage>
+     <lg>
+      <l>vous pas conné c’est mulatresse</l>
+      <l>qui gagné beaucoup la richesse</l>
+      <l>qui tienbé li dans cap, dans pi que vous paie voir li </l>
+      <l>li metté li comm’ blanc la ville</l>
+      <l>manchett’ feston calin in pille</l>
+      <l>silla qui payé ben c’est premier yau servi</l>
+     </lg>
+    </sp>
+    
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air: Sachez qu’au village</stage>
+     <lg>
+      <l>si moi té vlé gagné la tendresse</l>
+      <l>de tout garçon qui dans quarquié moi</l>
+      <l>jamais moi moi p’allé manqué richesse</l>
+      <l>mais pour Jeannot gnon, moi garde foi</l>
+      <l>yau tout dire pourquoi vous si farouche</l>
+      <l>vous pas gagné bouche</l>
+      <l>moi répondre oh! oh! <stage>(elle fait un geste d’épaule)</stage></l>
+      <l>moi conné ça vous conné zenvie</l>
+      <l>quitté moi t’en prie</l>
+      <l>moi quienne à Jeannot</l>
+     </lg>
+     
+     <lg>
+      <l>soleil couché dans bord la rivière</l>
+      <l>moi contré milat népé côté</l>
+      <l>si toi li voir moi li prend magniere</l>
+      <l>li vini pour fair son Pierrot vanté</l>
+      <l>li offri moi gros l’argent belle belle</l>
+      <l>tout c’est bagatelle</l>
+      <l>moi répondre oh! oh!</l>
+      <l>moi conné ça vous gagné zenvie</l>
+      <l>quitté moi t’en prie </l>
+      <l>moi quienne à Jeannot</l>
+     </lg>
+     
+     <lg>
+      <l>gnion jour quior bel blanc qui sorti France</l>
+      <l>qui gagné l’or sir li tout par tout</l>
+      <l>com’ li té fair moi la révérence</l>
+      <l>tout aussitôt moi té faire li tout</l>
+      <l>li dir moi comme ça procher ma fille</l>
+      <l>car vous ben gentille</l>
+      <l>moi répondre oh! oh!</l>
+     </lg>
+    </sp>
+    
+    
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Ma raison s’en va grand train</stage>
+     <lg>
+      <l>tout ça est fatra malher</l>
+      <l>jouq au bout faut quienbé quior</l>
+      <l>pour faire li rangé</l>
+      <l>moi lé babillé</l>
+      <l>ça qui pis gros parole</l>
+      <l>coté vous si li pas cordé</l>
+      <l>tête a li allé folle</l>
+      <l>grand dié</l>
+      <l>tête a li allé folle</l>
+     </lg>
+    </sp>
+    
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air: Quand je le vois je perds la voix</stage>
+     <lg>
+      <l>quand li vini</l>
+      <l>dré moi voir li</l>
+      <l>promié soin a moi c’est guetté</l>
+      <l>comment moi ié</l>
+      <l>si chemise amoi ben passé</l>
+      <l>si corsle amoi ben marré</l>
+      <l>si tignon amoi faire joli</l>
+      <l>si li gonflé si li pointi</l>
+      <l>si collier amoi ben fillé</l>
+      <l>si pendoreille amoi li flambé</l>
+     </lg>
+    </sp>
+    
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Du Cap de Bonne espérance</stage>
+     <lg>
+      <l>vous pas doit flatté volage</l>
+      <l>couté ça moi lé dir vous</l>
+      <l>pour faire Jeannot tourné sage</l>
+      <l>faut rend li p’tit brin jaloux</l>
+      <l>cila qui faire vous caresse</l>
+      <l>faut faire li tou politesse</l>
+      <l>tout piti façon layau</l>
+      <l>li va faire ranger Jeannot</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air: Contre un engagement</stage>
+     <lg>
+      <l>leçon la vous ba moi</l>
+      <l>li rend moi ben service</l>
+      <l>faut qu’moi vangé gnion fois</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <lg>
+      <l>na pas faire trop malice</l>
+      <l>moi gagné connaissance</l>
+      <l>Jeannot pré pour rivé</l>
+      <l>allé prend patience</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>(faisant la reverence)</stage>
+      <l>ajouq’ papa sorcié.....<stage>(elle sort)</stage></l>
+    </sp>
+
+   </div>
+   <div type="scene" n ="3">
+    <head>Scène troisième: Simon</head>
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Le prevost des marchandises</stage>
+     <lg>
+      <l>tout ça Thérèse raconté</l>
+      <l>Jeannot li dir moi l’aut côté</l>
+      <l>yau tou dés crié moi ben habile</l>
+      <l>pendant moi pas conne arien</l>
+      <l>quand nous trouvé monde qui facile</l>
+      <l>nous content point tromper yau ben</l>
+     </lg>
+    </sp>
+
+   </div>
+   
+   <div type="scene" n="4">
+    <head>Scène quatrième: Jeannot, Simon</head>
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air: ?</stage>
+     <lg>
+      <l>grand merci Papa Simon…<stage>(bis)</stage></l>
+      <l>
+       conseil avous li ben bon…<stage>(bis)</stage></l>
+      <l>tout richess’ la c’est fadaise</l>
+      <l>moi torné côté Thérèse</l>
+      <l>ça bon, ça bon</l>
+      <l>vous gagné laraison</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Du jardinier</stage>
+     <lg>
+      <l>Jeannot moi tendé nouvelle </l>
+      <l>trop longtems toi fair candio</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>(d’un air gay)</stage>
+     <l>oh oh oh oh oh oh oh oh</l>
+    </sp>
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <lg>
+      <l>ma foi Thérèse infidelle</l>
+      <l>tout bonher avou laba</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>(triste)</stage>
+     <l>ah ah ah ah ah ah ah ah</l>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <lg>
+      <l>li pas tardé fair toi grace</l>
+      <l>l’aut vini qui prend la place</l>
+      <l>qui trouve bon compte ali</l>
+      <l>l’aut vini qui prend la place</l>
+      <l>qui metté toi dans zoubli</l>
+     </lg>
+    </sp>
+    
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air:Tu irois en aimant colère</stage>
+     <lg>
+      <l>ça vous dire la, c’est badinage</l>
+      <l>Thérèse amoi li lautrement</l>
+      <l>parole ali li verser moi gage</l>
+      <l>com’ quoi li pas vlé changement</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air: Qui ? mon cher voisin</stage>
+     <lg>
+      <l>ça qui fai toi parlé com’ ça</l>
+      <l>Jeannot c’est zignorance</l>
+      <l>Fem’ qui ben belle yau planté la</l>
+      <l>li pas manqué vengeance</l>
+     </lg>
+    </sp>
+
+
+
+
+
+
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air:Nous autres bons villageois</stage>
+     <lg>
+      <l>C’est charié vous vlé charié</l>
+      <l>dré longtemps moi conne Thérèse</l>
+      <l>li pas capable trompé</l>
+      <l>quior ali pour moi tan com’ braise</l>
+      <l>li gagné tout plein lamitié</l>
+      <l>li ba moi passé lamoitié</l>
+      <l>ça qui reté d’abord le temps</l>
+      <l>moi conne ben moi va prend ...<stage>(bis)</stage></l>
+     </lg>
+     
+     <lg>
+      <l>quand li mandé diverti</l>
+      <l>faut moi la sans quoi li malade</l>
+      <l>moi qui conne bout a li</l>
+      <l>moi faire li piti charrade</l>
+      <l>dabord moi manque parlé dret</l>
+      <l>li ba moi gnion bon gros soufflet</l>
+      <l>si li pé cassé moi gnion dent</l>
+      <l>c’est ça qui faire li content...<stage>(bis)</stage></l>
+     </lg>
+     
+     <lg>
+      <l>tiens Papa Simon couté</l>
+      <l>comment Thérèse bon ouvriere</l>
+      <l>moi té sinta gnion coté</l>
+      <l>li vini sourprend moi par derrière</l>
+      <l>tout d’suite li hapé moi dans cou</l>
+      <l>bras ali li servi moi licou</l>
+      <l>pi quand li la li té serré</l>
+      <l>jouq’ tant moi manqué tranglé...<stage>(bis)</stage></l>
+     </lg>
+    </sp>
+    
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>air:Vous voulez me faire chanter</stage>
+     <lg>
+      <l>nouveaux zami li vini prend</l>
+      <l>li pas gagne piau noire</l>
+     </lg>
+    </sp>
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <l>qui ça li ié</l>
+    </sp>
+    
+
+    <sp>
+     <speaker>Simon</speaker>
+     <l>c’est gnion bel blanc</l>
+    </sp>
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>kai qui mauvais zistoire</l>
+      <l>qui ça qui faire vous conté la
+      </l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <l>c’est ouanga moi compere</l>
+    </sp>
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>d’abord c’est li qui dire vous ça</l>
+      <l>faut ben moi dans misere</l>
+     </lg>
+     <stage>air: Printems dans nos bocages</stage>
+     <lg>
+      <l>quand quior la trop facile</l>
+      <l>c’est malhor pour garçon</l>
+      <l>tout ça moi faire laville</l>
+      <l>li va conté moi bon</l>
+     </lg>
+    </sp>
+
+    <sp>
+     <speaker></speaker>
+     <stage>Simon</stage>
+     <lg>
+      <l>cila qui mandé</l>
+      <l>plaisir avec richesse enpile</l>
+      <l>ça mal pour cordé</l>
+      <l>millor yau bougé gnion coté</l>
+     </lg>
+    </sp>
+
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>c’est ça meme moi vlé faire</l>
+      <l>vous qui conné tout ça</l>
+      <l>ba moins secret compere</l>
+      <l>pour gagner negress la</l>
+     </lg>
+    </sp>
+
+
+
+
+
+
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <stage>Air : Ce demon malicieux enfin</stage>
+     <lg>
+      <l>napas barrassé malhor layau</l>
+      <l>moi lé servi toi ben comm y faut</l>
+      <l>va caché pendant moi faire magie</l>
+      <l>faut moi guetté ça qui dans sac amoi</l>
+      <l>ouanga moi jamais li dir mentrie</l>
+      <l>moi lé conné ca qui doit rivé toi</l>
+      <stage>
+       (Jeannot se sauve aux premières grimaces de Simon qui pour
+       lors fait tous les lassets du sac et du ouanga puis il dit en chantant et en grimacant)
+      </stage>
+      <l>oualili</l>
+      <l>quacoucou</l>
+      <l>Dahomé</l>
+      <l>coroco</l>
+      <l>calaliou</l>
+      <stage>(il serre le sac et fait signe à Jeannot de venir)</stage>
+      <stage>air: De la béquille</stage>
+      <l>Jeannot</l>
+     </lg>
+    </sp>
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <l>hoti</l>
+    </sp>
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     <l>moi fair</l>
+    </sp>
+
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <l>vous gagne bon nouvelle</l>
+    </sp>
+
+    <sp>
+     <speaker>Simon</speaker>
+     <lg>
+      <l>ouanga moi parle die</l>
+      <l>Thérèse ben fidelle</l>
+     </lg>
+    </sp>
+
+
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>vous cré donc moi capable</l>
+      <l>toucher piti quior ali</l>
+     </lg>
+    </sp>
+
+
+
+    <sp>
+     <speaker>Simon</speaker>
+     
+     <lg>
+      <l>arien pi veritable</l>
+      <l>toi pé tendre li ci</l>
+     </lg>
+     <stage>air: Nous nous marions Dimanche</stage>
+     <lg>
+      <l>dré li va proché</l>
+      <l>li va fair faché</l>
+      <l>faut pas toi manqué courage</l>
+      <l>n’a pas torné</l>
+      <l>si li torné sauvage</l>
+      <l>faut taquin li faire li piti larage</l>
+      <l>c’est ca li mandé</l>
+      <l>pour vous ben cordé</l>
+      <l>toi pas bisoin davantage...<stage>(bis)</stage></l>
+      <stage>(Il sort)</stage>
+     </lg>
+    </sp>
+    
+  
+
+   </div>
+   <div type="scene" n="5">
+    <head>Scène cinquième:</head>
+    <stage>Jeannot seul</stage>
+ 
+
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>Air : Que tout ici se réunisse</stage>
+     <lg>
+      <l>adié grand Cap bel marecage</l>
+      <l>fill qui candio brillant quipage</l>
+      <l>vous capable encor pour tenter moi</l>
+      <l>sans vous moi content passe roi</l>
+      <l>si moi cordé côté Thérèse</l>
+      <l>jamais moi pas lé séparé</l>
+      <l>car bon tems la nous té si aise</l>
+      <l>li vini pour toujours douce</l>
+     </lg>
+     
+     <lg>
+      <l>ce qui plair moi c’est li fidelle</l>
+      <l>tout negre beau trouvé li belle</l>
+      <l>repond ali bichi ! arien pour toy</l>
+      <l>c’est Jeannot gnion qui dans gout moi</l>
+      <l>blanc meme vini qui beaucoup riche</l>
+      <l>qui té cré Thérèse va bayau</l>
+      <l>mais yau trompé quior ali chiche</l>
+      <l>d’abord li pas miré Jeannot</l>
+     </lg>
+    </sp>
+
+
+   </div>
+   
+   <div type="scene" n="6">
+    <head>Scène sixième: Jeannot, Thérèse</head>
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>Air : La voici la ?</stage>
+     <lg>
+      <l>ah vla li faut moi sauvé</l>
+      <l>si moi lé malhor rivé</l>
+     </lg>
+    </sp>
+    
+    
+    
+    
+    
+     
+    
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>c’est moi li guetté</l>
+      <l>quior amoi dansé</l>
+     </lg>
+    </sp>
+    
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>qui ça moi gagné</l>
+      <l>quior amoi manqué</l>
+     </lg>
+    </sp>
+    
+    
+   
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>kai san moi conné</l>
+      <l>ah vla moi proché</l>
+     </lg>
+    </sp>
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>Picq’ nous deja ci</l>
+      <l>faut moi parlé li</l>
+      <l>Thérèse ha vla vous</l>
+     </lg>
+    </sp>
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>tiens ha, vla Jeannot tout</l>
+     </lg>
+    </sp>
+
+
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage> air:Joseph est bien marié</stage>
+     <lg>
+      <l>commere ainsi vous faché</l>
+     </lg>
+    </sp>    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>qui ça vous apres cherché</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>c’est vous tout seul moi envie</l>
+      <l>guetté Jeannot vous t’en prie</l>
+      <l>si moi allé c’est malhor</l>
+      <l>faut pas vous gagné gros quior</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>Air : Allez vous en à la ville</stage>
+     <lg>
+      <l>tout fill’ vous cherché plaire</l>
+      <l>faut bougé  cassé yau</l>
+      <l>metié la vous vini faire</l>
+      <l>li pas quienne à Jeannot </l>
+      <l>vous flaté moi à tort</l>
+      <l>vous cré donc ça ben doux</l>
+      <l>moi pas voir vous remord</l>
+      <l>pendant moi quitté vous</l>
+     </lg>
+    </sp>    
+    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air:Pour voir  un peu comment ça faira</stage>
+     <lg>
+      <l>faut pas vous cré moi té changé</l>
+      <l>diable la qui gagné malice</l>
+      <l>li poussé moi pour derangé</l>
+      <l>li rend moi moi moi (sic) mauvais service</l>
+      <l>moi lé trouvé papa Simon</l>
+      <l>li guéri moi ouanga li bon</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air:Trois*** se faire gueux</stage>
+     <lg>
+      <l>diable si ça qui conné ba vous sort</l>
+      <l>li ba moi quior qui bourlé pasé braise</l>
+      <l>Papa Simon li beau faire tout s’zeffort</l>
+      <l>li pas savé gueri quienne à Thérèse</l>
+     </lg>
+    </sp>    
+    
+    
+    
+    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air: Brillant soleil</stage>
+     <lg>
+      <l>moi conné mal à vous ben</l>
+      <l>moi le gueri li commere</l>
+      <l>pour vous moi bon medecin</l>
+      <l>vous n’a qua parler ma chere</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>tan prie  n’a pas vanté tant</l>
+      <l>moi dija prend l’aut compère</l>
+      <l>tant prie n’a pas vanté tant</l>
+      <l>sans vous moi savé content</l>
+     </lg>
+    </sp>  
+    
+    
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>Air : Rions, chantons, amusons nous</stage>
+     <lg>
+      <l>c’est malice vous apres faire</l>
+      <l>moi conné vous aimé Jeannot</l>
+      <l>nous allé marié tantot</l>
+      <l>bouche a vous cherché trop mistere</l>
+      <l>ça moi dir vous c’est laraison</l>
+      <l>c’est la raison</l>
+      <l>tout conte à vous li pa te bon</l>
+     </lg>
+    </sp>  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>Air : Chantes petit Colin</stage>
+     <lg>
+      <l>apres toi quitté moi</l>
+      <l>toi cré moi envie rire</l>
+      <l>aprés toy quitté moi</l>
+      <l>toi cré moi capable aimé toi</l>
+     </lg>
+
+    </sp> 
+     
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>oui parol’ la vous diré</l>
+      <l>c’est rire vinir vlé rire</l>
+     </lg>
+    </sp>    
+    
+     
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>non moi pas mentir</l>
+      <l>tems alaut’ vini</l>
+      <l>quienne a toi fini</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air: Eh mon petit coeur de 15 ans</stage>
+     <lg>
+      <l>Thérèse vous quitté moi ça bon</l>
+      <l>moi quitté vous lameme façon</l>
+      <l>Vous content pour changer garçon</l>
+      <l>d’abord vous faire moi si grand peine </l>
+      <l>jouq moi mouri moi alé marron</l>
+     </lg>
+    </sp>    
+    
+    
+    
+    
+    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air:Sous un ombrage frais</stage>
+     <lg>
+      <l>Jeannot, Jeannot</l>
+     </lg>
+    </sp>    
+    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>c’est moi vous helé</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Thérèse </speaker>
+     <lg>
+      <l>pardon langue moi tourné</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>hé</l>
+      <l>pourquoi bouche a vous vanté comm’ ça</l>
+     </lg>
+    </sp>    
+    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>prend chimin vous</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>côté la</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>chia</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air: Ah vla qui est donc badé</stage>
+     <lg>
+      <l>vous cré donc moi ben soucié</l>
+      <l>façon la vous aprés faire</l>
+      <l>quand moi bougé laut’ quartié</l>
+      <l>moi pas lé songe si vous fiere</l>
+      <l>si c’est metié la vous vlé</l>
+      <l>a jouq maman, Jeannot allé....<stage>(bis)</stage></l>
+     </lg>
+    </sp>    
+    
+    
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air:Ma masette</stage>
+     <lg>
+      <l>tendé p’tit brin encore</l>
+      <l>picq nous faché ator</l>
+      <l>faut que vous conné moi ben</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>Moi conne vous entrain</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <stage>air:Ami quand je pense à Jeannette</stage>
+     <lg>
+      <l>tems la Jeannot vlé Thérèse</l>
+      <l>tems la li aimé bon quior</l>
+      <l>dans mond’ n’a point qui pis aise</l>
+      <l>moi pas songé gnion malhor</l>
+      <l>ah vla li prend tout contraire</l>
+      <l>li quitté moi sans sujet</l>
+      <l>blanc la qui v’ni par derriere</l>
+      <l>li vangé moi tout a fait</l>
+     </lg>
+    </sp>    
+    
+    
+    
+    
+
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>(même air)</stage>
+     <lg>
+      <l>tems la Thérèse fidelle</l>
+      <l>tems la li cherché Jeannot</l>
+      <l>moi pas trouvé qui pi belle</l>
+      <l>tout quior a moi li content trop</l>
+      <l>li gagné laut’ fantaisie</l>
+      <l>ma foi c’est zaffaire ali</l>
+      <l>moi conné qui ben joli</l>
+      <l>qui va prend moi tout brandé</l>
+     </lg>
+    </sp>    
+    
+    
+    
+
+    <sp>
+     <speaker>Jeannot et Thérèse en duo</speaker>
+     <lg>
+      <l>Oui picq’ toi fair tan quitté moi</l>
+      <l>Changement n’a pas difficille</l>
+      <l>Gnion jour si moi pé blié toi</l>
+      <l>Quior amoi va bougér tranquille</l>
+     </lg>
+    </sp>    
+    
+    
+   
+    <sp>
+     <speaker>Jeannot</speaker>
+     <stage>air:?</stage>
+     <lg>
+      <l>Moi mocqué</l>
+      <l>Moi quitté</l>
+      <l>Tout negresse</l>
+      <l>ha vla bon tems moi vini</l>
+      <l>moi deja bon zami</l>
+      <l>gnion belle mulatresse</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>gnion bel blanc</l>
+      <l>qui vaillant</l>
+      <l>prend Thérèse</l>
+      <l>toi pé carré tant gié toi vlé</l>
+      <l>nous va voir qui allé pi aise</l>
+     </lg>
+    </sp>    
+    
+ 
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>côté moi li va cheche</l>
+      <l>car c’est gnon fille qui riche</l>
+     </lg>
+    </sp>    
+    
+    
+    
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>blanc payé</l>
+      <l>blanc conné</l>
+      <l>richir femme</l>
+      <l>moi le flambé passé toy</l>
+      <l>tout mond va heler moi</l>
+      <l>madame</l>
+     </lg>
+    </sp>    
+    
+    
+    <sp>
+     <speaker>Jeannot</speaker>
+     <lg>
+      <l>toi haussé</l>
+      <l>toi forcé</l>
+      <l>quien commere</l>
+      <l>dan pi nous chicane ci</l>
+      <l>quior a nous démenti</l>
+      <l>tout ça nous apré faire</l>
+     </lg>
+    </sp>    
+    
+
+    <sp>
+     <speaker>Thérèse</speaker>
+     <lg>
+      <l>vous cré donc</l>
+      <l>c’est tout de bon </l>
+      <l>c’est tout de bon </l>
+      <l>ça moi dire</l>
+      <l>dans faché la nous faché</l>
+      <l>papa moi ben conné</l>
+      <l>nous rire</l>
+     </lg>
+    </sp>    
+    
+    
+
+    <sp>
+     <speaker>Jeannot et Thérèse duo</speaker>
+     <lg>
+      <l>moi blié tout ça toi faire moi</l>
+      <l>jour nous tomber dans mariage</l>
+      <l>nous faire assés la rage</l>
+      <l>faut cordé gnion bon foi</l>
+      <l>tiens prend quior a moi qui ben fidelle</l>
+      <l>ba moi quienne à toi pi avla tout</l>
+      <l>moi palé cherché toi querelle</l>
+      <l>jouq tant mort vini tien ben nous</l>
+     </lg>
+    </sp>    
+    
+   </div>
+
+
+<div type="scene" n="7">
+ <head>Scène dernière : Jeannot, Simon, Thérèse, nègres et nègresses</head>
+ <stage>(Entrée de nègres et nègresses)</stage>
+ <stage>air noté</stage>
+
+
+ <sp>
+  <speaker>Simon </speaker>
+  <lg>
+   <l>aye zenfant</l>
+   <l>vous doit content</l>
+   <l>moi faire pour vous</l>
+   <l>magie amoi pi doux</l>
+   <l>vous pé chanté</l>
+   <l>diré han, hé</l>
+   <l>ah! vla vous ben marié</l>
+  </lg>
+ </sp>
+
+<sp>
+ <speaker>Choeur</speaker>
+ <l>deré han hé</l>
+</sp>
+
+<sp>
+ <speaker>Thérèse</speaker>
+ <stage>(aux nègres et nègresses)</stage>
+ <lg>
+  <l>filles et garçons</l>
+  <l>sonné violon</l>
+  <l>dansé candio</l>
+  <l>pour Thérèse et Jeannot</l>
+  <l>zami chanté</l>
+  <l>déré han hé  (choeur)</l>
+ </lg>
+</sp>
+
+
+ <sp>
+  <speaker>Thérèse et Jeannot</speaker>
+  <stage>(ensemble)</stage>
+  <lg>
+   <l>Papa Simon ouanga vous bon</l>
+   <l>nous la tout ici</l>
+   <l>dir vous ben grand merci</l>
+   <l>zami chanté</l>
+   <l>déré han hé</l>
+   <l>ah vla nous ben marié  (choeur)</l>
+  </lg>
+ </sp>
+</div>
+</div>
+  <note><p>
+   Sauf pour les noms et prénoms (et ceci strictement en conformité avec l’usage moderne pour faciliter la lecture de la pièce par des lecteurs du XXIe siècle), nous ne mettrons aucune majuscule dans le texte reproduit ici, l’usage du XVIIIe siècle n’étant absolument pas celui du XXe siècle en la matière. De fait, il n’y a pratiquement aucune majuscule dans le manuscrit, même pour les noms de personnages, mais certaines lettres en début de vers, comme d’ailleurs aussi en fin de vers, se trouvent ornées. Nous nous sommes efforcée pour tout le reste de reproduire le plus exactement possible les graphies de l’auteur, respectant l’absence d’accents par exemple (fréquente), et l’orthographe adoptée aussi bien en français (didascalies) qu’en créole.
+   Probablement issu d’un usage de « carrer » comme verbe (cf. « se carrer » en français, attesté en 1606 sous l’influence de « carrure » = largeur du dos d’une personne, signifiant « prendre une attitude satisfaite, d’importance : ici vraisemblablement avec le sens de « toiser » (attester en créole contemporain pour « karé »), « triompher ».
+   Cette forme apparaît quatre fois dans le texte, toujours devant un verbe. Il s’agit apparemment d’une réalisation de la forme « drèt », attestée en ancien français dans cette fonction et ce sens : « directement », « sans détour », d’où « sitôt que, dès que », également présente dans  « la Passion selon St Jean » (texte à peu près contemporain), avec la même valeur : « Jesi vini rivé avec zapotes li… dret li rivè, li mandé si ïo pas encore metté couvert » = « Jésus arriva avec ses apôtres… sitôt arrivé, il demanda s’il n’avait pas encore mis la table ». Ici, graphié « dré », on a : « dré ma miré litout proche, ma babillé li ben fort » = dès que je vais le rencontré, je vais le disputer bien fort » ; « quand li vini dré moi voir li promié soin a moi c’est guetté comment moi ié… » (p. 7) = quand il vient, sitôt que je le vois, mon premier souci c’est de vérifier comment je suis… » ; «C’est charié vous vlé charié : dré longtemps moi conne Thérèse li pas capable trompé… » = Vous voulez plaisanter ! Aussi longtemps que je connais Thérèse, elle est pas capable de mentir… » (p. 9) ;  enfin « dré li va proché li va fair faché » = Sitôt qu’elle va arriver, elle va te disputer… » (p. 11).
+   « ma » doit être sans doute analysé en « m’a », c’est-à-dire « moi a », « a » étant d’ailleurs une forme raccourcie pour le futur « ava » : ici donc avec le sens de « je vais le rencontrer ».
+   Les accents aigus (et graves), souvent absents dans le manuscrit, n’interdisent pas pourtant de prononcer cette forme « soucié ».
+   Des formes comme « quarquié », mecquié, lamiquié, etc. attestent d’une forte palatalisation (on reconnaît : quartier, métier, l’amitié…)
+   Ainsi noté (et présent sous cette forme à plusieurs reprises dans le texte), on reconnaît la forme d’origine française « t’en prie » (notée « tanpri » dans le créole contemporain) qui signifie « s’il te plaît »
+   Sortilège, fétiche (attesté sous la forme « wanga » dans les dictionnaires haïtiens contemporains. Terme à l’évidence d’origine africaine. Les dictionnaires des langues bantoues attestent directement pour les termes « médicaments », ou « hommes-médecine = sorciers », des formes comme nganga / okanga / mwanga / bwanga, etc. dans lesquelles le préfixe de classe change en fonction de la langue.
+   Ce service n’est pas rien / il mérite une récompense : servis ici ainsi orthographié représente le substantif suivi du déterminant créole –la.
+   L’existence à Saint-Domingue de diverses étoffes très prisées est attesté dans la presse au XVIIIe siècle. On trouve ainsi une annonce dans le Supplément aux Affiches américaines (22-2-1783) : « Mrs Sheridan, Gatechair et compagnie négocians à Léogane… ont reçu une belle cargaison… consistant en très belles toiles de Flandres et de Hollande, draps de coton pour habits de diverses couleurs, mouchoirs, chitz, Palliacatte, Mazulipatan, etc… gands à hommes et à femmes, mousseline. »
+   Simon semble ainsi se situer comme arrivant directement d’Afrique et non pas « né aux îles » comme ceux qu’on appelle les « nègres créoles ». La notion de créole a été assez rapidement associée dans l’histoire des îles à des traits culturels positifs : le créole (blanc ou noir, selon les époques et les pays) , par opposition avec ceux qui ne sont pas nés dans l’île, a intégré des comportements qui le rendent fréquentable : il sait respecter les règles de la société à laquelle il appartient totalement. Les arrivants (blancs et noirs) sont appelés en créole « vyé blan » et vyé nèg » - expressions connotées de façon négative : vyé dans ce contexte souligne le caractère de « non acculturé », marque celui « qui n’a pas acquis les bonnes manières », les « manières créoles ».
+   Voir note sur « tanpri » plus haut.
+   Quoi que puisse dire Moreau de Saint-Méry (Description page 81), "Il est mille riens que l'on oserait dire en français, mille images voluptueuses que l'on ne réussirait pas à peindre avec le français et que le créol (sic) exprime et rend avec une grace infinie. Il ne dit jamais plus que quand il emploie des sons inarticulés, dont il fait des phrases entières. Le Chia, le Bichi même qu'on a tant voulu ridiculiser, est-il un terme de dédain qui renferme plus de sens?", nous restons pour notre part sceptique sur une interprétation onomatopéique de « bichi » (certains ont voulu y voir une notation du fameux « tchip/kip » antillais), à la fois à cause de la structure du mot (disyllabique), et à cause du contexte, qui semble en faire tout à fait une unité linguistique. Malgré le peu d’attestation de ce mot dans les dictionnaires actuels du créole, on peut suggérer au moins deux interprétations, qui peut-être d’ailleurs se rejoignent. On trouve mention de « bichi » dans le Dictionnaire du Père Barbotin (Dictionnaire du créole de Marie-Galante, Kreolische Bibliothek, Helmut Buske Verlag, 1995, le parler de marie-galante étant assez consevateur et ayant conservé des formes qui ont disparu en Guadeloupe « continentale » ou en Martinique. Le Père Barbotin commente l’entrée « bichi-bichi » à travers une expression « Palé bichi-bichi » : parler en aparté. Dans notre texte, il ne peut s’agir d’une indication scénique car toutes les didascalies sont données en français. En revanche, ce mot constitue sans aucun doute possible le début de la réplique de Simon qui dirait alors « Entre nous, ce métier n’est pas bon, ma chère… ». Une autre interprétation pourrait être suggérée par la traduction donnée de « bichi » comme interjection dans le Dictionnaire de Valdman « Bichi ! » = « En vain ». Nous ne sommes pas en mesure, pour l’instant du moins, de montrer que ces deux usages de bichi pourraient être de même origine (langue africaine ?) et que les deux sens attestés pourraient être sémantiquement dérivés l’un de l’autre : les deux seules attestations dont nous disposons dans le texte de Clément sont insuffisantes pour établir quoi que ce soit de définitif, mais semblent toutes deux manifester un certain dédain comme le signale Moreau de Saint-Méry.
+   Forme pour « meilleur », le « s » final n’étant pas assuré : litt. « meilleur vous changez d’ami » : il serait mieux de changer d’ami.
+   Nom d’une étoffe : « le sirsaca le plus fin… »
+   paie = pé ?
+   in ou en : la graphie ne permet pas de trancher. Il s’agit de toutes façons de la forme ancienne de « anpil » (créole actuel) = beaucoup
+   Première attestation dans le texte de « yau »= yo (pronom de 3e personne du pluriel dans la Caraïbe, mais pluralisateur également en haïtien. Cette forme est issue d’une forme populaire du français de l’Ouest pour « eux » largement attestée au XVIIe siècle sous les formes « yeux » ou « yaux ».
+   « non » ou « gnon » : ici gnon est sans doute une forme renforcée de « non ».
+   « procher » ou « proches » : il n’est pas possible de déterminer exactement ce qui est noté dans le manuscrit. Toutefois « procher » semble plus conforme au sens.
+   Voir note 3 ci-dessus : « Sitôt que je le vois, mon premier souci c’est de vérifier comment je suis… »
+   Il convient sans doute de voir là une graphie pour « corselet ».
+   Sans doute ici une forme pour « itou » = également (on comprend aisément la disparition graphique du « i » dans le contexte « li tou ». Forme de français populaire bien attesté aux XVIIe-XVIIIe siècles.
+   Après « tout bonheur », le reste de la phrase est particulièrement difficile à déchiffrer. L’interprétation non garantie de ce passage serait : « Jeannot, j’ai appris que pendant trop longtemps tu as fait le joli cœur… Ma foi Thérèse est infidèle, et tout ton bonheur est là-bas ».
+   Forme de l’intensif créole. On peut traduire la phrase avec une exclamative  : « Vous voulez plaisanter ! Aussi longtemps que je connais Thérèse, elle n’est pas capable de mentir. »
+   On peut sans doute reconnaître dans cette forme « sinta » le « chita » caractéristique de l’haïtien dans la Caraïbe : j’étais assis, installé à un endroit… On retrouve ce mot, attesté sous la forme « chinta » dans Idylles et Chansons ou Essais de poésie créole par un habitant d’Haïti, Philadelphie, 1814 : « Chinta petit moment enba pié jansémin ».
+   « li » ou « ti » ? on ne peut trancher.
+   cordé = s’accorder : Simon veut signifier que la richesse et le plaisir ne vont pas ensemble.
+   Ne peut-on voir dans cette forme un peu surprenante « hoti » (ou « hati » ?), si nous la déchiffrons correctement, un « oti » qui correspond à un  « où » en créole des Petites Antilles , peut-être plus globalement à un « quoi », « qu’y a-t-il ? » en créole plus ancien ? En créole haïtien contemporain les interrogatifs sont presque tous composés de « ki + N » (kijan, ki koté, ki moun). La brièveté du mot, la graphie étonnante (apparemment un h à l’initiale) et l’absence de toute attestation ressemblante dans les dictionnaires contemporains ne permettent guère une autre interprétation – peut-être aventurée !
+   Sans doute : il faut la taquiner, l’enrager un peu…
+   On retrouve ce mot « bichi » examiné précédemment. La présence cette fois-ci d’un point d’exclamation fait pencher pour la valeur « en vain ! » déjà signalée. 
+   Ou cheche ? (forme pour chercher).
+   Forme ancienne qui laisse attendre en créole moderne « ki sa ou ap chèché » = qui est-ce que vous cherchez ?
+   Interjection de mépris (que l’on pourrait traduire par « fi ! », « peuh ! »…) : exemple déjà cité. Terme très fréquent dans la « Passion selon St Jean », texte anonyme à peu près contemporain de Jeannot et Thérèse.
+   S’agit-il là d’une forme du verbe « brander », attesté en ancien français avec le sens de « trembler », « s’agiter » ? Le verbe « branler » avait aussi un sens originel voisin avant que dans ce deuxième cas ne domine le sens sexuel à partir du XIXe siècle..
+   Voir note 2 pour le mot « carré » déjà cité : Tu peux triompher…
+   ou « déré » : formule répétée dans le chant avec une signification obscure.
+   Le « la » n’est pas garanti, le début du vers étant peu lisible.
+  </p></note>
+
+ </body>
+ </text>
+ </TEI>

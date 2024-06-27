@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_016</idno>
+<title type="main">LE SUISSE DE PORTE ET LE PORTRAIT, COMÉDIE</title>
+<title type="collection">Moliyé</title>
+<author>Louis Carrogis de CARMONTELLE (1717-1806)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janès</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k5627148b"/>
+<title>LE SUISSE DE PORTE ET LE PORTRAIT, COMÉDIE</title>
+<author>Louis Carrogis de CARMONTELLE (1717-1806)</author>
+<publisher>Gallica</publisher>
+<date when="1771"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k5627148b"/>
+<title>LE SUISSE DE PORTE ET LE PORTRAIT, COMÉDIE</title>
+<author>Louis Carrogis de CARMONTELLE (1717-1806)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="LA_MARQUISE">
+<persName>LA MARQUISE</persName>
+</person>
+<person xml:id="LE_COMTE">
+<persName>LE COMTE</persName>
+</person>
+<person xml:id="LE_BARON">
+<persName>LE BARON</persName>
+</person>
+<person xml:id="LE_SUISSE">
+<persName>LE SUISSE</persName>
+</person>
+<person xml:id="DUBOIS">
+<persName>DUBOIS</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LE SUISSE DE PORTE ET LE PORTRAIT.</p></div><div type="liminal"><p>COMÉDIE.</p></div><div type="liminal"><p>QUARANTE-NEUVIÈME PROVERBE.</p></div></div><div type="liminal"><p>M. DCC. LXXI. Avec Approbation et Privilège du Roi.</p></div><div type="liminal"><p>de CARMONTELLE.</p></div>À Paris, chez Sébastien JORRY, vis à vis le Comédie Française, chez Le JAY, rue Saint Jacques, près celle des Mathurins.<div type="liminal"><p/></div><list><head>PERSONNAGES</head><item>LA MARQUISE, veuve.</item><item>LE COMTE.</item><item>LE BARON.</item><item>LE SUISSE de la Marquise.</item><item>DUBOIS, Valet de Chambre de la Marquise.</item></list><p>La scène est chez La Marquise.</p></div>
+<div n="1" type="act">
+<head/>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Le Baron, Dubois.</head>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Dubois, que fait la Marquise ?</p>
+</sp>
+<sp who="DUBOIS">
+<speaker>DUBOIS.</speaker>
+<p>Elle est à sa toilette, Monsieur_le_Baron, et elle écrit.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>On ne peut pas la voir ?</p>
+</sp>
+<sp who="DUBOIS">
+<speaker>DUBOIS.</speaker>
+<p>Non pas dans ce moment-ci.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>J'attendrai. Faites entrer quelqu'un qui est là, qui est venu avec moi, et ne dites pas à la Marquise que je ne suis pas seul.</p>
+</sp>
+<sp who="DUBOIS">
+<speaker>DUBOIS.</speaker>
+<p>C'est bon. Monsieur, donnez-vous la peine d'entrer.</p>
+<stage>Dubois sort.</stage>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Le Baron, Le Comte.</head>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Ah, Baron ! Tu ne saurais concevoir tout ce que j'éprouve en me retrouvant ici.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je le crois ; puisque tu aimes encore la Marquise.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Et elle ne veut pas consentir à me voir !</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Il est vrai ; mais je ne saurais croire qu'elle ait cessé de t'aimer. Il est vrai que toutes les fois que je lui ai parlé de toi, elle m'a fait taire ou, elle ne m'a jamais écouté sans une espèce d'indignation.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Je ne puis la blâmer ; mais le temps doit tout adoucir.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je ne saurais te rien faire espérer encore, de je crains que l'épreuve que tu veux faire ne te réussisse pas.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Je le crains comme toi ; mais je n'ai point d'autre ressource que celle de tomber à ses pieds. Si elle me rebute, je me retire pour jamais dans mes Terres de Dauphiné, oui, je pars dans l'instant.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je te demande au moins huit jours.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Que n'ai-je pas fait pour expier ma faute ! Hélas, tu le sais. Combien de fois ne me suis-je pas présenté à sa porte, que de lettres que m'a renvoyé sans vouloir les lire !</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Tout cela devait être.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Et pourquoi ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Comment veux-tu qu'après une rupture aussi éclatante elle puisse te recevoir ? Après avoir donné ton portrait à son Suisse, afin qu'il ne s'y trompe pas, et qu'il ne te laisse plus entrer.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Peux-tu me rappeler ce comble d'humiliation ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Il est vrai que ce même Suisse a été renvoyé depuis un mois, et que sans cela tu ne serais pas entré ici aujourd'hui, que même tu ne l'aurais pas essayé.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Non sûrement.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je vais donc parler à la Marquise encore en ta faveur : cache toi, et si tu trouves un instant où tu puisse espérer de la toucher, tu feras tout ce que tu voudras, je te seconderai autant qu'il me sera possible.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Je te devrai le bonheur de ma vie.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Entre dans ce Cabinet, aussi bien j'entends quelqu'un et c'est peut être-elle.</p>
+<stage>Le Comte entre dans le Cabinet.</stage>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. La Marquise, Le Baron.</head>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Baron, je vous suis obligé d'avoir bien voulu m'attendre ; j'achevais une lettre, et je crois que vous auriez été fâché que je me dérangeasse ; je compte assez sur votre amitié pour cela.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je suis plus sensible a cette confiance qu'à toutes les protestations qu'on peut faire. Quelque plaisir que j'aie à vous faire ma cour ; et je n'avais eu qu'un instant à vous donner, je m'en serais privé plutôt que de vous interrompre. Vous ne me paraissez pas trop bien aujourd'hui.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je n'ai point dormi, j'ai eu de l'agitation, j'ai rêvé, mais des choses qui m'ont tourmentée beaucoup.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je vous plains bien sincèrement ; en vérité il ne me paraît pas trop injuste que l'on ne soit pas tout-à-fait heureux, quand on fait le malheur des autres.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je vois où vous en voulez venir, Baron.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Mais Madame, voulez-vous être toujours insensible ? Je vois malgré vous, tout ce que vous souffrez de cette rigueur ; l'impression qu'avait fait le Comte sur votre coeur, ne peut point s'effacer, vous vous efforcez en vain de me le cacher , votre santé en est altérée et il ne dépendrait que de vous de terminer, tous vos maux.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Eh, le puis-je, Baron ! Vous savez le procédé du Comte. Presqu'au moment de m'épouser. Il me trahit, l'ingrat ! Et pour qui ?</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Pouvez-vous croire que son coeur ait eu part à cette erreur ? Non, Madame : vous n'avez pas voulu savoir tout ce qu'il en a souffert, il a bien expié son crime ; si vous aviez été témoin de son repentir, du délire où l'a plongé sa douleur ! Je ne dis pas l'amour, mais la pitié seule, vous aurait rendue sensible à tant de maux. Après la maladie qu'ils lui ont occasionnée, la convalescence bien loin d'avoir des charmes pour lui en lui rendant ses forces, faisait chaque jour renaître ses tourments. Je me suis tu tant qu'il m'a paru coupable ; mais un si vif repentir m'a prouvé qu'il méritait sa grâce, oui, Madame, vous avez fait justice ; mais vous devez pardonner.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Quoi, vous pouvez me donner ce conseil ? Je vous croyais mon ami...</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>C'est pour vous-même que je vous le donne, et si vous me laissiez lire dans votre coeoeur...</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Vous y verriez que la confiance n'y peut plus renaître. Lorsque l'amour le plus tendre s'est vu tromper une fois, l'espoir de la constance dans les hommes est perdu sans retour.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Mais vous aimez encore le Comte.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je l'aimerais qu'il n'en serait pas plus heureux.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Consentez du moins à le voir.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>S'il était à Paris, je m'en éloignerais dans l'instant.</p>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. La Marquise, Le Comte, Le Baron.</head>
+<sp who="LE COMTE">
+<speaker>LE COMTE, sortant du Cabinet et se jetant aux genoux de la Marquise.</speaker>
+<p>Non, Madame, c'est moi qui vais m'en bannir pour toute ma vie ; puisque je n'ai plus d'espoir, et je viens vous dire un éternel adieu.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE, émue et en colère.</speaker>
+<p>Que vois-je ! Quelle audace !...</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Madame...</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE, au Comte.</speaker>
+<p>Levez-vous, Monsieur, au Baron. Baron, sonnez je vous prie.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Que voulez-vous faire ?</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Sonnez, ou bien je vais moi-même...</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Allons, Madame.</p>
+<stage>Il sonne.</stage>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. La Marquise, Le Comte, Le Baron, Dubois, Le Suisse.</head>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE, à Dubois.</speaker>
+<p>Qu'on fasse monter le Suisse.</p>
+</sp>
+<sp who="DUBOIS">
+<speaker>DUBOIS.</speaker>
+<p>Le voilà qui apporte les lettres de Madame.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE, au Suisse.</speaker>
+<p>Pourquoi avez-vous laissé entrer Monsieur ?</p>
+</sp>
+<sp who="LE-SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">Matame il n'a point dit de refuser personne aujourd'hui.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Oui, mais Monsieur ? Ne vous a-t-on pas dit que jamais...</p>
+</sp>
+<sp who="LE-SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">Monsieur, il vient avec Monsieur Baron, il est vrai que j'ai point vu encore sa nom ni sa visage, et j'ai crois que c'est un connaissance nouvelle.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Mais Fribourg, vous a laissé un portrait ?</p>
+</sp>
+<sp who="LE-SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">La Camarade, il m'a donné, je laisse point entrer jamais non plus ste Monsieur.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Et le voilà.</p>
+</sp>
+<sp who="LE-SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">Oh que non, Matame , il rit avec moi. La visage que j'ai dans mon poche, il est un un gros visage.</p>
+<stage>Il tire le portrait.</stage>
+<p xml:lang="fra-deu">Regarde vous-même.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je n'ai que faire de voir.</p>
+</sp>
+<sp who="LE-SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">Il est pon cette visage du portrait, et je laisse point entrer.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je vous dis que c'est Monsieur, et je vous chasse.</p>
+</sp>
+<sp who="LE-SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<p xml:lang="fra-deu">Je sorte point, c'est la Peintre qui n'a point raison, je vais dire à lui de venir et puis Madame il le chassera après s'il veut. Regarde vous un peu la portrait toujours en attendant.</p>
+<stage>Il le laisse sur une table et il sort.</stage>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. La Comtesse, Le Baron, Le Comte.</head>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Madame, le Suisse n'a pas tort, il aurait connu le Comte autrefois, qu'il aurait pu ne pas le reconnaître aujourd'hui.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Non, Madame, je ne suis plus le même, mes remords m'ont bien changé, mon coeur n'a jamais cessé de vous adorer ; au milieu de mon égarement je me fuis abhorré moi-même, les premiers reproches que j'ai éprouvés ce font les miens. Je mérite une haine éternelle ; mais si vous m'avez aimée...</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Ne prononcez pas ce mot-là.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Le malheur peut nous entraîner une fois ; mais après cela, le flambeau de la Raison vous répond de la conduite du reste de la vie. Qui n'a rien éprouvé ne saurait répondre de soi.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Et si vous m'aviez véritablement aimée ; comment auriez-vous pu consentir à me trahir ?</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Je vous l'ai dit, Madame , mon coeur n'a point eu de part à ce délire: oubliez cette faute, c'est toute la grâce que je vous demande ; si je continue à être privé de votre estime , je ne réponds pas de mon désespoir.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Dépend-t-il de moi de vous la rendre ? La contrariété peut irriter votre amour et vous faire croire que vous ne seriez plus coupable ; voilà tout le changement qui s'est fait en vous.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Ah, Madame ; ne croyez pas...</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je sais par quoi je pourrai compter.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Madame, je réponds de lui.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Eh , croyez-vous, si l'on pouvait répondre des hommes, que j'aurais besoin de caution dans ce moment-ci. Reprenez ce portrait, Comte.</p>
+<stage>Elle lui donne.</stage>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Comment, Madame ?</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>L'image du bonheur m'avait trompée. Puisse celle du repentir que je vois dans cet instant, ne m'abuser jamais !</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Qu'entends-je ?</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je viens de chasser mon Suisse, je veux que vous le repreniez.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Je ne sais que penser...</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Ce ne sera plu s à vous que je m'en prendrai s'il vous arrive une seconde fois...</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Bannissez pour jamais cette pensée.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Ce sera à moi, à ma faiblesse, à mon amour que tous vos torts n'ont pu détruire.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Je vais expirer de joie à vos pieds ! </p>
+<stage>Il veut se jeter aux genoux de la Marquise, qui le relève et lui donne sa main.</stage>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Voilà, Madame, l'opinion que j'avais de votre âme, elle est trop délicate et trop généreuse pour être toujours inflexible.</p>
+</sp>
+<sp who="LA MARQUISE">
+<speaker>LA MARQUISE.</speaker>
+<p>Je me sacrifie pour ce que j'aime.</p>
+</sp>
+<sp who="LE COMTE">
+<speaker>LE COMTE.</speaker>
+<p>Vous jugerez de l'excès de mon bonheur par tout ce que je ferai pour.</p>
+<stage>Explication du proverbe : Face d'homme porte vertu.</stage>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

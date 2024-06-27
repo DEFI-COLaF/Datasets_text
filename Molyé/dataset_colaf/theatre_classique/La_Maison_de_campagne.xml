@@ -1,0 +1,2134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_020</idno>
+<title type="main">LA MAISON DE CAMPAGNE, COMÉDIE</title>
+<title type="collection">Moliyé</title>
+<author>DANCOURT, Florent CARTON dit</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janès</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target=""/>
+<title>LA MAISON DE CAMPAGNE, COMÉDIE</title>
+<author>DANCOURT, Florent CARTON dit</author>
+<publisher>Gallica</publisher>
+<date when="1697"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target=""/>
+<title>LA MAISON DE CAMPAGNE, COMÉDIE</title>
+<author>DANCOURT, Florent CARTON dit</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-dia">
+<idno type="langue">fra-dia</idno>
+<idno type="script">Latin</idno>
+<name>Early Modern Dialectal French</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="MONSIEUR_BERNARD">
+<persName>MONSIEUR BERNARD</persName>
+</person>
+<person xml:id="MADAME_BERNARD">
+<persName>MADAME BERNARD</persName>
+</person>
+<person xml:id="MARIANE">
+<persName>MARIANE</persName>
+</person>
+<person xml:id="ÉRASTE">
+<persName>ÉRASTE</persName>
+</person>
+<person xml:id="LA_FLÈCHE">
+<persName>LA FLÈCHE</persName>
+</person>
+<person xml:id="DORANTE">
+<persName>DORANTE</persName>
+</person>
+<person xml:id="LISETTE">
+<persName>LISETTE</persName>
+</person>
+<person xml:id="LE_MARQUIS">
+<persName>LE MARQUIS</persName>
+</person>
+<person xml:id="LE_BARON">
+<persName>LE BARON</persName>
+</person>
+<person xml:id="THIBAUT">
+<persName>THIBAUT</persName>
+</person>
+<person xml:id="MONSIEUR_GRIFFARD">
+<persName>MONSIEUR GRIFFARD</persName>
+</person>
+<person xml:id="NICOLE">
+<persName>NICOLE</persName>
+</person>
+<person xml:id="TROIS_HOBEREAUX">
+<persName>TROIS HOBEREAUX</persName>
+</person>
+<person xml:id="UN_SOLDAT">
+<persName>UN SOLDAT</persName>
+</person>
+<person xml:id="UN_COUSIN">
+<persName>UN COUSIN</persName>
+</person>
+<person xml:id="UNE_COUSINE">
+<persName>UNE COUSINE</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal"><div type="titlepage"><div type="liminal"><p>LA MAISON DE CAMPAGNE</p></div><div type="liminal"><p>COMÉDIE</p></div></div><div type="liminal"><p>M. DC. XCVII, AVEC PRIVILÈGE DU ROI.</p></div><div type="liminal"><p>De Mr DANCOURT</p></div><div type="liminal"><head>EXTRAIT du PRIVILÈGE DU ROI.</head><p>Par Grâce et Privilège du Roi, donné à Paris le vingt-huitième août 1695. Signé, Par le roi en son Conseil, LE FEVRE, il est permis à THOMAS GUIILAIN, Marchand Libraire à Paris, de faire imprimer un Recueil des Comédies du Sieur Dancourt, pendant le temps de six années, à compter du jour qu'elles seront achevées d'imprimer pour la première fois, en vertu des présentes, pendant lequel temps très expresses inhibitions et défenses sont faites à toutes personnes de quelque qualité et condition qu'elles soient, de faire imprimer, vendre ni débiter les dites Comédies, d'autre édition que celles de l'exposant, ou de ceux qui auront droit de lui, à peine de quinze cents livres d'amende, sans payable déport par chacun des contrevenants, et de tous dépens, dommages et intérêts, et autres peines portées plus au long par les dites Lettres de Privilège.</p><p>Registré sur le Livre de la Communauté des Imprimeurs et Libraires de la Ville de Paris, le premier Septembre 1695.</p><p>Signé P. AUBOUYN, Syndic.</p></div>Achevé d'imprimer pour la première fois, en vertu du présent privilège, le 27 juillet 1697.À PARIS, chez Thomas GUILLLAIN, proche les Augustins, à la descente du Pont-Neuf, à l'image Saint Louis.<div type="liminal"><p>Représentée pour la première fois le 27 janvier 1688 à l'Hôtel Guénégaud.</p></div><list><head>PERSONNAGES</head><item>MONSIEUR BERNARD.</item><item>MADAME BERNARD.</item><item>MARIANE, fille de Monsieur Bernard.</item><item>ÉRASTE, amant de Mariane.</item><item>LA FLÈCHE, valet d'Éraste.</item><item>DORANTE, frère de Mariane.</item><item>LISETTE, suivante de Mariane.</item><item>LE MARQUIS, Gascon.</item><item>LE BARON, ami du Marquis.</item><item>THIBAUT, portier de Monsieur Bernard.</item><item>MONSIEUR GRIFFARD, ami de Monsieur Bernard.</item><item>NICOLE, cuisinière de Monsieur Bernard.</item><item>TROIS HOBEREAUX.</item><item>UN SOLDAT.</item><item>UN COUSIN de Monsieur Bernard.</item><item>UNE COUSINE de Monsieur Bernard.</item></list><p/></div>
+<div n="1" type="act">
+<head/>
+<div n="1" type="scene">
+<head>SCÈNE I. Éraste, La Flèche, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Encore une fois, monsieur, si vous avez quelque considération pour elle, retournez à Paris, et qu'on ne vous voie point ici.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Ma pauvre Lisette, que je lui parle un moment, que je la voie seulement, je t'en conjure.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Mais vous êtes le maître ; vous voilà dans le logis, il ne tient qu'à vous d'y demeurer. Je crois même que si Mariane vous y savait, elle aurait peut-être autant d'empressement de vous voir et de vous parler, que vous en témoignez vous-même.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Et pourquoi donc ne veux-tu pas nous donner cette satisfaction à l'un et à l'autre ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>C'est que j'en sais les conséquences. Dès que vous serez ensemble, vous ne pourrez vous résoudre à vous quitter : quelqu'un vous surprendra, et où en serons-nous, s'il vous plaît ?</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Eh bien ! Quand on nous surprendra, nous jettera-t-on par les fenêtres ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non ; mais on me mettra à la porte, et on enverra Mariane dans un couvent.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Et n'y serait-elle pas moins gênée que dans la maison de son père ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oh ! Vraiment non, elle n'y serait pas moins gênée. Vous ne savez pas ce que c'est qu'un couvent pour une grande fille qui a coutume d'être dans le monde ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Mais ne suis-je pas bien malheureux ? Ce logis est ouvert à tout le monde, et je suis peut-être le seul à qui il n'est pas permis d y venir librement.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>C'est que vous êtes un épouseux, vous, et que Monsieur Bernard ne veut point de gens qui épousent.</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Et que veut-il donc, de par tous les diables ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ce qu'il veut ? C'est un ladre, qui veut gardersa fille et son argent pour lui.</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Oh ! Il veut, il veut ; nous ne voulons pas, nous. Pour l'argent, passe ; mais pour la fille, si elle voulait prendre de mes almanachs, je défierais bien un régiment de pères de la garder.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Elle n'en prendra pas, je t'en réponds.</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<note>Partie carrée : Partie de plaisir faite entre deux hommes et deux femmes. [L]</note>
+<p>Tant pis ; nous ne tenons pourtant ici que pour cela, mon maître et moi ; et si vous faisiez bien l'une et l'autre, sans tant faire de façons, il enlèverait ta maîtresse, je t'enlèverais, moi : ce serait justement partie quarrée et nous vous ferions voir du pays, je t'en réponds.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Quoi, mort de ma vie ! Vous seriez, assez hardis de vous jouer à la justice et d'enlever la fille d'un gentilhomme de robe ? Et toi, maroufle, tu as l'effronterie de me proposer...</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Oh, oh ! Tu vas faire la dragonne de vertu, comme à ton ordinaire. Fais-nous, fais-nous parler à ta maîtresse ; elle sera peut-être plus raisonnable.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Mais est-il possible, Lisette, que son frère ne soit point ici ? Il est de mes intimes, et malgré l'entêtement de son père.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je vous ai déjà dit qu'il y a trois joimis qu'il est à la chasse avec de ses amis : il ne fait guère d'ordures au logis, vraiment ; et ce n'est pas sa fille seule que notre vieil avaricieux fait enrager : il n'y a personne qui ne se sente de sa mauvaise humeur ; sa femme même a bien de la peine à le mettre a la raison. Il ne veut voir personne chez lui ; ce serait lui arracher l'âme que de tuer un lapin dans sa garenne, et il se désespère autant de fois qu'il voit à sa table quelque personne d'extraordinaire.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Vous vous ennuyez donc furieusement ici ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<note>Pénard : terme injurieux qu'on dit quelquefois des hommes agés, des vieillards cassés. [F]</note>
+<p>Pas trop ; mais le vieux pénard se désespère souvent ; car, il a beau faire et beau dire, madame sa femme va toujours son train. Le petit homme crève de dépit, et Mariane et moi pâtissons de ses chagrins. Mais tout est perdu, j'entends quelqu'un ; c'est lui, peut-être.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Ne pouvons-nous nous cacher quelque part ?</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<note>Maugrébleu : juron.</note>
+<p>Maugrébleu du sot homme, qui ne veut pas qu'on épouse sa fille !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Fourrez-vous tous deux sous ce degré, et allez vous en dès qu'il n'y aura plus personne ici.</p>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Lisette, Mariane.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ah, ah, c'est vous ?</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Il y a une heure que je te cherche, Lisette. Ne sais-tu qui sont ces personnes qui se promènent dans le jardin, et que ma belle-mère est allée joindre ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non ; mais je voudrais bien que monsieur votre père fût allé les joindre aussi.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Je crois qu'il ne sera guère content de cette visite.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh ! tenez, tenez. En voici une dont il sera bien moins satisfait, en cas qu'il la sache.</p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Mariane, Éraste, Lisette, La Flèche.</head>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Au ciel !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Dites-vous vitement deux ou trois paroles, et je vais, moi, faire le guet, de peur d'accident.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>À quoi m'exposez-vous, Éraste ? Et que venez-vous faire ici ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>J'y viens mourir, madame, puisque vous me recevez avec tant de surprise, et que ma présence vous fait si peu de plaisir.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Ah ! Éraste, elle m'en fait assez pour vous pardonner tous les chagrins qui m'arriveront, si mon père sait que je vous ai seulement parlé.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Que voulez-vous que je devienne, madame ?</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Que vous attendiez comme moi quelque changement favorable. J'ai une belle-mère, dont je ménage l'amitié par ma complaisance ; elle me témoigne mille bontés que je n'en devais pas attendre, et je crois même qu'elle serait peut-être dans nos intérêts, si j'avais la force de lui avouer que je vous aime.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Eh bien ! Madame, nous n'avons donc rien à craindre de sa part, et votre frère est de mes amis. Sur cette confiance, ne pouvons-nous point hasarder que je demeure ici quelques jours ? Je me cacherai où l'on voudra.</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Oui ; mais aura-t-on soin de nous apporter à manger ?</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Eh ! Tais-toi. Je vous jure, belle Mariane, qu'on ne le saura point. Dans les greniers, dans la cave, il n'importe, pourvu que je sois dans la même maison où vous êtes..</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Cette pendarde de Lisette nous fera faire diète, je vous en avertis.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Je ne sortirai point de l'endroit où l'on m'aura mis, pourvu que je vous voie un seul moment par jour. Adorable Mariane, ne me refusez point cette grâce, je vous en conjure.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Cela ne se peut, Éraste, et vous ne devriez point m'en faire la proposition.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Quoi ! Vous voulez que je retourne à Paris ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, s'il vous plaît, et tout au plus vite. Et vous, tirez de ce côté, voilà votre père qui vient droit ici.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Que voulez-vous que je fasse ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Que vous partiez.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Demeurez dans le village, et qu'on ne sache point que vous y êtes.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Détalez donc.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Pourrai-je vous voir quelquefois ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Je ne saurais vous en répondre.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Dépêchez-vous donc.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>M'écrirez-vous ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Peut-être.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Si je le puis.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ils n'auront jamais fait.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Si je suis seulement deux heures sans apprendre de vos nouvelles...</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous ne vous en irez pas ?</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Ne faites point d'extravagance.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh, mort de ma vie ! Voilà votre père sur nos talons.</p>
+</sp>
+</div>
+<div n="1" type="scene">
+<head>SCÈNE I.. Monsieur Bernard, Thibaut.</head>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah, bourreau ! Qu'as-tu fait ? Et tu as l'effronterie de me le venir dire toi-même ? Coquin, ne t'avais-je pas donné ordre.....</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Eh bien ! D'accord; vous m'avez, baillé ordre que je ne laississe entrer personne dans la maison, et votre femme m'a baillé ordre que je laisse entrer tout le monde : comment diable voulez-vous que je fasse?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Que tu m'obéisses, traître.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<note>Morguoi : juron variante de morgué.</note>
+<p xml:lang="fra-dia">Eh morguoi ! De quoi vous boutez-vous en peine ? Ce n'est pas vous qu'ils demandons, c'est elle.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<note>Maroufle : terme injurieux qu'on donne au gens gros de corps, et grossiers d'esprit. Il est bas. [F]</note>
+<p>Et c'est par cette raison-là, maroufle.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Tenez, monsieur, j'aime mieux vous chagriner que votre femme; et quoique vous soyais bien diable, alle est morgue, sans comparaison, plus diable que vous quand aile s'y met.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Il faut pourtant que je mette ordre à tout ceci. Viens çà, parle-moi un peu, écoute.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Mais ne nous boutons donc point en colère ; vous êtes toujours de mauvaise himeur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Qui sont ces gens qui viennent d'arriver ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Oh ! Ventregué, après ceux-là, il faut tirer l'échelle, et ce sont les plus belles philosomies de parsounes que j'aie jamais vues.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Combien sont-ils ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Quatre : deux gros monsieux, qui m'ont la mêne d'aimer bien la joie, avec deux belles dames, qui ne la haïssont pas, je crois.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Tu ne sais comme on les appelle ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Non; mais ils sont venus dans un biau carrosse tout doré, avec six gros chevaux,et je ne sais combien de laquais derrière.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Et tout cet équipage est chez moi ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<note>Jarbe : botte de quelque chose que ce soit ou baquet, cuvier. </note>
+<p xml:lang="fra-dia">Non ; le cocher est allé bouter le carrosse sous queuque hangar, dans le village ; car tous les vôtres sont pleins de jarbes ; mais il ramènera les chevaux, et j'ai dit que vous aviais une belle étable, où il en tiendrait plus de vingt-quatre.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah, le pendard !</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Vous serez morgué ravi d'envisager ces chevaux-là ; je n'en ai jamais vu de si gros en ma vie. Ils m'ont tout l'air d'être bien nourris.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Il n'y a pas moyen d'y résister ; et depuis que ma pendarde de femme m'a fait acheter cette maudite maison de campagne, j'y ai dépensé, en moins d'un été, mon revenu de quatre années.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Morguoi, vous vous divartissez bien aussi : toujours grand'chère et biau feu ; la maison ne désemplit point, et n'an vous viant voir de partout ; jarnigué, c'est qu'an vous aime.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Eh ! Oui, oui, l'on m'aime ; mais je voudrais bien qu'on ne m'aimât point tant.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Il faut que ce soit un sort, voyez-vous ; et sty qui vous a vendu la maison était parguenne aussi embarrassé que vous : on l'aimait tout de même, et il ne voulait pas n'an plus qu'an l'aimît.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Si j'avais bien su cela....</p>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Monsieur Bernard, Thibaut, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Monsieur, madame est dans le jardin avec des dames et des messieurs qui vous demandent.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Que le diable les emporte ! J'ai bien affaire de leur visite. Eh ! Qui sont-ils encore?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Il y a ce gros abbé qui est si longtemps à table, et qui boit tant sans s'enivrer, avec un autre monsieur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Fort bien.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Je vous le disais bian, qu'il avait l'air d'un bon vivant.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et puis cette jeune marquise qui gagna l'autre jour l'argent de madame.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah, juste ciel !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Elle est avec cette autre dame qui est de si bonne humeur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Qui ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et là, celle qui, en riant, vous cassa l'autre jour toutes ces porcelaines de Hollande, parce qu'elle disait qu'il n'en faut avoir que de fines.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Cela était bouffon.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ne me voilà pas mal. Et comment madame a-telle reçu ces gens-là ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oh ! Elle paraît bien fâchée contre eux.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui; car ils lui ont dit qu'ils ne seroient ici que huit jours.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment, huit jours ? Oh ! Ventrebleu, je leur ferai si mauvaise mine, qu'ils n'y seront pas si longtemps. Ne dis-tu pas qu'ils sont dans le jardin ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, monsieur, dans la grande allée. Je vais leur dire que vous allez venir.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Huit jours, morbleu, huit jours ! Quatre personnes, six chevaux, et un tas de valets ! Mais ventrebleu, faudra-t-il que j'aie des pensionnaires comme ceux-là ? Qu'est-ce que c'est que ce gros coquin-ci encore ?</p>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Monsieur Bernard, Thibaut, Un Soldat.</head>
+<sp who="LE SOLDAT">
+<speaker>LE SOLDAT.</speaker>
+<p>C'est de la part de monsieur votre neveu, monsieur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Eh bien ! Va, je lui donne le bonjour, mon enfant.</p>
+</sp>
+<sp who="LE SOLDAT">
+<speaker>LE SOLDAT.</speaker>
+<p>Il viendra demain diner avec vous, monsieur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Je ne dîne point demain, j'ai des affaires.</p>
+</sp>
+<sp who="LE SOLDAT">
+<speaker>LE SOLDAT.</speaker>
+<p>Voilà un faisan et quelques perdreaux qu'il vous envoie.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah ! Ah ! Mon neveu sait mieux vivre que le autres, encore.</p>
+<stage>À Thibaut.</stage>
+<p>Prends ce gibier, toi, et qu'on le mette fraîchement.</p>
+</sp>
+<sp who="LE SOLDAT">
+<speaker>LE SOLDAT.</speaker>
+<p>Il amènera deux ou trois de nos capitaines avec lui.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment diable ! Deux ou trois capitaines ! Écoute, écoute, je t'avais bien dit d'abord que j'aurais demain des affaires : tiens, reprends ton gibier, mon ami, et dis à mon neveu...</p>
+</sp>
+<sp who="LE SOLDAT">
+<speaker>LE SOLDAT.</speaker>
+<p>Oh ! ça ne fait rien, ils ne laisseront pas de venir. Ils s'ennuient comme tout à ce camp, et votre maison leur vient bien à point. Allez, ils vous tiendront bonne compagnie.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah ! J'enrage. Comment morbleu, il m'envoie un faisan et quatre perdreaux, et il m'amène cinq ou six bouches à nourrir ?</p>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Monsieur Bernard, Monsieur Griffard.</head>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Monsieur, je ne sais pas ce que cela veut dire ; mais, si vous n'y mettez ordre, on viendra au premier jour tuer vos poules jusque dans votre basse-cour.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment donc ! Que veux-tu dire ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>On a chassé toute la journée dans votre petit bois, et ils sont venus tirer jusque dans votre clos. Est-ce que vous n'avez pas entendu ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Non, vraiment ; et d'où vient qu'on ne leur a point ôté leur fusil ? Pourquoi ne leur pas mettre du plomb dans la cervelle ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Bon, bon. Ils sont trois on quatre grands escogriffes de ce camp, et monsieur votre neveu «st avec eux.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Mon neveu, dis-tu ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Oui, monsieur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah ! le traître. Il m'envoie du gibier qui ne lui coûte guère.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Vraiment, il a bon moyen de vous en envoyer ; et leurs valets en sont si chargés, qu'ils ne sauraient marcher.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Mais, ne suis-je pas bien misérable de me voir ainsi piller de tous les côtés, et d'avoir une carogne de femme qui veut encore que je lasse bonne mine malgré que j'en aye ? Mon pauvre monsieur Griffard...</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Monsieur ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Il faut que tu m'aides à remédier à tout ceci, mon enfant.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Volontiers, monsieur, et le coeur me saigne de voir manger votre bien par mille gens qui croient encore vous faire trop d'honneur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Cela est horrible ; mais n'y a-t-il point quelque bon moyen pour faire finir tout cela ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Je ne viendrais jamais ici, si j'étais en votre place.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui ; mais ma femme y serait toute seule, et ce serait bien pis encore, elle mettrait tout par écuelles.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>C'est bien dit ; que ne vous défaites-vous de cette chienne de maison aussi ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Je ne trouve point à la vendre, elle est trop décriée, et j'ai fait une grande sottise de l'acheter.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>D'accord. Attendez. Faites-moi ôter tous les meubles, et n'en laissez dans le logis que ce qu'il faut pour vous nécessairement.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Eh ! Ne l'ai-je pas déjà voulu faire ? Mais cela n'a servi de rien.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>On ne resterait point à coucher chez vous, et les gens qui viendraient vous voir, n'y viendraient qu'en passant, du moins.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Point du tout. Ma coquine les fait rester, et tout le monde couche dans ma grange comme par divertissement. J'en suis pour ma paille et mon blé ; et quand je m'en fâche, elle me dit que je suis un brutal, et que je ne sais pas vivre.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Oh bien, monsieur, je n'y sais donc qu'un remède.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Et quel est-il ? Parle.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Je mettrAis le feu à la maison, je crois que vous gagneriez encore. Mais, qui est ce monsieur-là ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Je ne le connais point.</p>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Monsieur Bernanrd, Le Marquis, Monsieur Griffard.</head>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS, parlant gascon.</speaker>
+<p>Mon cher monsieur, votre très humble serviteur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Monsieur, je vous donne le bonjour.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Vous me méconnaissez, à ce que je puis voir ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui, monsieur, à ce qu'il me semble.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Il y a pourtant longtemps que j'ai dessein de boire avec vous.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ce n'est pas une conséquence, et...</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<note>Lansquenet : Sorte de jeu de hasard qu'on joue avec des cartes. Lieu où l'on jouait le lansquenet. [L]</note>
+<p>J'ai laissé les dames avec ce gros coquin d'abbé ; elles vont jouer au lansquenet en attendant le repas. Pour moi, qui ne suis point joueur, je me range auprès du maître du logis ; et je vous jure que, sans l'envie que j'avais de le connaître, je n'aurois pas fait ce petit voyage.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD, à part.</speaker>
+<p>Eh ! Qui diable t'a prié de le faire ?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Savez-vous que c'est un bijou que votre petite maison, hem ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>C'est un bijou dont je voudrais bien retirer mon argent.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Plaît-il ? Hem ? N'est-ce pas un charme dans la vie qu'un petit endroit comme celui-ci, pour recevoir ses amis ? Vous ne manquez point de bonne compagnie, sans doute ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui, monsieur ; mais j'aime fort mon petit particulier, pour moi.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Il faut de bon vin, surtout ; et sans le bon vin et la bonne chère, par ma foi, je dis fi de la campagne.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oh bien, mon vin ne vaut rien du tout, et la chère que l'on fait ici ne devroit point attirer tant de gens.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Eh ! Allons, allons, vous êtes un compère qui avez l'air de vous bien traiter, et nous savons que votre épouse est d'un goût délicat sur tout.</p>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. Thibaut, Monsieur Bernard, Le Marquis, Monsieur Griffard.</head>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Monsieur ? </p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Qu'est-ce ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">C'est monsieur le baron de Messy, qui a perdu son oisel avec des grelots. Il dit qu'il est parché sur un des arbres du jardin : ne voulez-vous pas qu'on li rende?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Le baron de Messy ?</p>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X. Monsieur Bernard, La Marquis, Le Baron, Thibaut, Monsieur Griffard.</head>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je vous demande pardon, monsieur, et j'ai à me reprocher que ce soit une occasion comme celle-ci qui me fait vous rendre âmes premiers devoirs.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Vous vous moquez de moi, monsieur ; et pour être voisins, il n'est pas dit qu'on doive être toujours les uns chez les autres.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Je m'en vas avec vos garçons raveindre votre oisel ; ne vous boutez pas en peine.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Comment vous trouvez-vous du séjour de la campagne ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Fort mal, je vous jure, et j'en suis déjà si las...</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Eh ! Vraiment, justement, c'est le baron, c'est lui-même !</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Et c'est vous, mon pauvre marquis ! Nous ne nous sommes point vus depuis l'académie, je crois.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<note>Sandis : juron de gascogne.</note>
+<p>Sandis, mon cher, voilà une des plus heureuses rencontres que j'aie eues de ma vie.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD, bas, à M. Bernard.</speaker>
+<p>Ces deux messieurs sont fort bons amis.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD, bas, à Monsieur Griffard.</speaker>
+<p>Oui, je vois fort bien qu'ils se connaissent, mais je n'en connais pas un, moi.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Monsieur, je vous le livre un des plus honnêtes hommes de la province. Je te félicite, baron, d'avoir un voisin comme monsieur.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>C'est pour moi un avantage dont je prétends bien profiter.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Monsieur ?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Cadédis, vous serez amis, et je veux former les noeuds de cette amitié, moi.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>C'est une grâce que je te demande.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Mordi, je te l'accorde et sans remise. Nous sommes ici bonne compagnie ; renvoie ton équipage et passe quelques jours avec nous.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD, bas, à Monsieur Griffard.</speaker>
+<p>Eh bien ! Ne voilà-t-il pas comme ils font les honneurs de chez moi ?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<note>Barguigner : se dit figurémment en choses spirituelles, des irrésolutions d'esprit, quand un homme a de la peine à se réoudre, à donner quelque parole, à conclure une affaire, à se défaire de quelques engagements. [F]</note>
+<p>Hem ? Je ne barguigne point, comme vous voyez, et je suis sûr que vous me saurez gré de me saisir ainsi de l'occasion ; la dame du logis ne me querellera pas non plus, je crois. Baron, te faudra-t-il beaucoup prier pour te faire demeurer à la cour de cette princesse ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Si cet homme-là connait toute la noblesse du pays, il me fera des amis, malgré que j'en aie, de tout le monde.</p>
+</sp>
+</div>
+<div n="11" type="scene">
+<head>SCÈNE XI. Monsieur Bernard, Madame Bernard, Le Marquis, Le Baron, Monsieur Griffard.</head>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS, à Madame Bernard.</speaker>
+<p>Madame, voilà un gentilhomme que je vous présente.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je suis bien heureux , madame, d'être voisin d'une si belle personne, et le peu de bien que j'ai dans ce pays-ci me sera désormais plus précieux que les plus belles terres du monde.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Monsieur, je suis votre très humble servante.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Ce baron n'est point fat, au moins : je le débauche, madame, et je le fais rester ici.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Vous ne sauriez faire plus de plaisir à monsieur et à moi.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD, bas, à Madame Bernard.</speaker>
+<note>Carogne : terme injurieux, qui se dit entre les femmes de basse condition, pour se reprocher leur mauvaise vie, leurs ordures, leur puanteur. [F]</note>
+<p>Vous en avez menti, carogne, et vous savez bien le contraire.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>J'ai bien du regret, madame, de ne pouvoir pas profiter de l'honneur que vous me faites ; mais j'ai chez moi quelques dames de mes parentes, que je ne puis pas quitter honnêtement.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Bon ! Tu te moques. Il a chez lui des dames , et nous avons des dames ici : joignons toutes nos dames ensemble. Çà, baron, sans façon, envoyons chercher les tiennes. Plus on est de fous, plus on rit.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD, bas.</speaker>
+<p>Voilà un expédient admirable. J'enrage !</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Il faut donc que je les aille prendre moi-même.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Fort bien.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Vous le voulez absolument, au moins.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Point du tout ; et si cela vous gêne, je vous assure que de mon côté...</p>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X.I. Monsieur et Madame Bernard, Le Marquis, Le Barono, Thibaut, Monsieur Griffard.</head>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Monsieur, votre oisel est retrouvé, et nan lui a reboutc sa calotte.</p>
+</sp>
+<sp who="LE BARON">
+<speaker>LE BARON.</speaker>
+<p>Je ne vous dis point adieu, et nous ne vous ferons point attendre.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Dépêche, au moins ; je ne me puis passer de toi.</p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE XIII. Monsieur et Madame Bernard, Le Marquis.</head>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD, bas, à Madame Bernard.</speaker>
+<p>Morbleu, madame, vous êtes cause que je ne suis pas le maître chez moi.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Ne deviendrez-vous jamais raisonnable ?</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Il est bon homme, le baron. Un peu trop façonnier d'abord, cela n'est point du goût du siècle. Vivent, vivent morbleu les gens de chez nous, pour être francs et généreux ! Depuis que je suis à Paris, j'ai réformé moi seul la moitié de la cour.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Vous êtes de l'humeur du monde la plus agréable.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Toujours un pied en l'air : et donc, ces belles, qu'en avez-vous fait ?</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Elles sont encore au jeu, et Mariane joue pour moi.</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Vous avez quelques affaires ensemble madame. Au moins, point de dépense superflue, nous avons plus d'un jour à vivre ensemble.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Que vous êtes badin !</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Le pauvre enfant !</p>
+</sp>
+<sp who="LE MARQUIS">
+<speaker>LE MARQUIS.</speaker>
+<p>Non, sans façon. La pièce de boucherie, cela suffit. Vous avez la basse-cour, le gibier ne vous manque pas ; il ne vous faut point d'autre extraordinaire. Adieu.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Si j'étais bien le maître, tu n'aurais pas seulement du pain des valets.</p>
+</sp>
+</div>
+<div n="14" type="scene">
+<head>SCÈNE XIV. Monsieur et Madame Bernard.</head>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Vous serez toujours de la même humeur, et désormais il n'y aura plus moyen de vivre avec vous.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Non, morbleu, il n'y aura plus moyen de vivre avec moi, car je n'aurai bientôt plus de quoi vivre. Je voudrais déjà que cela lut, pour ne plus voir tout ceci.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Mais vous prêchez toujours misère.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>C'est que vous m'y plongez, dans la misère.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>En vérité, monsieur, cela est horrible ! Et il semble que je ne sois devenue votre femme que pour être déshonorée dans le monde par vos manières.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Eh ventrebleu, madame , je suis ruiné par les vôtres, moi.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Si vous saviez toutes les impertinences que vous faites dire de vous ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Si vous vous corrigiez de toutes celles que vous faites ?</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Il n'y a pas jusques à vos paysans qui se plaignent que vous ne voulez pas qu'ils raccommodent les chemins du village, pour rendre votre maison plus difficile à aborder.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui, morbleu, et je voudrais que les trous et les ornières fissent casser le cou à tous ceux qui viennent ici.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Voilà de beaux souhaits, vraiment : mais finissons. Ne venez-vous pas joindre la compagnie ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Non, madame, et la compagnie ne me plaît pas.</p>
+</sp>
+</div>
+<div n="15" type="scene">
+<head>SCÈNE XV. Monsieur et Madame Bernard, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Voilà madame la comtesae de Préfanné qui s'en allait en Bourgogne, elle vient de verser à cent pas d'ici.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>La pauvre femme ! N'est-elle point blessée ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non, madame, mais son carrosse est bien rompu.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Eh bien ! Qu'on le raccommode.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>On dit qu'il faudra deux ou trois jours pour le mettre en état de marcher.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Je suis à demi consolée de cet accident, puisqu'il est arrivé près d'ici. Nous profiterons de sa mauvaise aventure.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Quoi ! Vous allez...</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Peut-on se dispenser d'offrir sa maison à une femme de qualité ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Si l'on peut s'en dispenser !</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Voilà ce que font vos trous et vos ornières.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Vous êtes bien aise d'avoir cela à me dire, morbleu !</p>
+</sp>
+</div>
+<div n="16" type="scene">
+<head>SCÈNE XVI. Monsieur et Madame Bernard, Le Cousin, La Cousine.</head>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Bonjour, ma cousine.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Ah, ah ! Bonjour, chonchon, bonjour. Tenez, voilà votre cousin que vous allez faire bien aise.</p>
+<stage>Elle rentre.</stage>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Oh ! Je m'en doute bien. Bonjour, mon cousin.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Bonjour... Courage.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<note>Cariole : petite voiture à deux roues, et néanmoins supendue sur des moutons, et couverte ordinairement de cuir. [F]</note>
+<p>Voilà ma soeur, que j'ai amenée dans une cariole.</p>
+</sp>
+<sp who="LA-COUSINE">
+<speaker>LA COUSINE.</speaker>
+<p>Bonjour, mon cousin.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Nous avons pensé mourir tous deux, et nous venons achever d'être malades chez vous.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment donc ?</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Nous venons un peu prendre l'air, pendant quinze jours ou trois semaines, pour nous remettre un peu.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>L'air de ce pays-ci ne vaut rien.</p>
+</sp>
+<sp who="LA-COUSINE">
+<speaker>LA COUSINE.</speaker>
+<p>Mon père dit qu'il est admirable.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Je vous aurais bien amené mon autre soeur, avec mon petit frère, mais la cariole était trop petite, et ils ne viendront qu'après-demain, avec ma mère.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui ? </p>
+<stage>Bas.</stage>
+<p>Maugrebleu de la chienne: de parenté !</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Allons, ma soeur, allons faire mettre nos hardes dans une chambre, et puis nous irons voir ma petite cousine.</p>
+</sp>
+<sp who="LA-COUSINE">
+<speaker>LA COUSINE.</speaker>
+<p>Mais, mon frère, il faudrait prier mon cousin qu'on nous fit faire un petit potage.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Ah, oui ! À propos , mon cousin, ma mère vous prie bien fort que nous ayons tous les jours de petits potages.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Morbleu, ceci passe la raillerie !</p>
+</sp>
+<sp who="LA-COUSINE">
+<speaker>LA COUSINE.</speaker>
+<p>Et quelquefois de petits poulets rôtis ; mon frère le médecin l'a dit.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Non pas, s'il vous plaît, ma soeur, de petites perdrix, de petites perdrix ; et le médecin dit que cela nous rétablira beaucoup mieux. N'est-ce pas, mon cousin ?</p>
+<stage>Le cousin et la cousine sortent.</stage>
+</sp>
+</div>
+<div n="17" type="scene">
+<head>SCÈNE XVII.</head>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD, seul.</speaker>
+<note>Nicodème : un des premiers disciples de Jésus, il aide à la mise au tombeau du Christ.</note>
+<p>Ouias ! Je ne sais pas ce que cela signifie, mais il semble qu'on ait dessein de me faire pièce : de petits potages, de petits poulets, de petites perdrix. Ce grand nicodème de cousin m'a plus mis en colère que tout le reste, et cependant je n'ai jamais eu la force de le lui dire ; mais c'en est trop. Allons, morbleu ! Une bonne résolution : je m'en vais être homme à la barbe de ma femme. Il faut que je commence par faire quelque incartade aux gens qui sont déjà ici ; il en arrivera ce qu'il pourra.</p>
+</sp>
+</div>
+<div n="18" type="scene">
+<head>SCÈNE XVIII. Monsieur Bernard, Thibaut.</head>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Oh, palsanguoi ! Monsieur, vous ne querellerez plus tant ; il viant de vous venir, morgue, une bonne aubaine ; v'là ce que c'est de ne pas toujours tenir la porte farmée.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Qu'y a-t-il ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Je veux dire que si vous avez ici bien du monde, vous avez morguenne aussi de quoi les nourrir.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment donc ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Un cerf qui est, morguoi, gros comme un âne, viant d'arriver dans votre cour tout essoufflé ; quoique vous m'ayais défendu de laisser entrer parsonne, je n'ai pargué pas été si sot que deli farmer la porte au nez. Je l'ai bravement laissé passer, je li ai bravement ôté mon chapiau, et j'ai dit à part moi : bon, v'ià de la provision pour dieux nous, et notre maître ne sera plus si enragé.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Eh bien ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Hé bian, hé bian, le drôle s'est allé fourrer tout au fond de l'étable, darrière un tas de foin. Il croyait être bian caché là ; mais, morgue, il n'avait pas affaire à un gniais. Je ne sis ni fou ni étourdi, voyez-vous, et crainte qu'il ne s'en retournît comme il était venu, avec un bon fusil, que j'ai été chercher dans la cuisine, je lui ai sanglé un bon chinfreguiau par la face, et depis il n'a pas grouillé. Hé bian, morgue, jurerez-vous contre moi d'avoir laissé entier sti-là ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Non, vraiment; tu as bien fait, au contraire, et tu es un garçon de bon sens, pour le coup.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Ne vous boutez pas en peine : il n'est pas tout seul, il y a je ne sais combien de chiens qui japons dans le village après d'autres, je gage ; je m'en vas au bout de la petite ruelle, et tout autant qu'il en viendra, je les détornerai envars ici, et ils seront pris comme des sots. Jarnigué, que de pâtés j'allons avoir !</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Le ciel n'est pas tout-à-fait injuste, et cela ne pouvoit arriver plus à propos.</p>
+</sp>
+</div>
+<div n="19" type="scene">
+<head>SCÈNE XIX. Monsieur Bernard, Nicole.</head>
+<sp who="NICOLE">
+<speaker>NICOLE.</speaker>
+<p>Et qu'est-ce donc, monsieur ? Que voulez-vous faire de tous ces chiens-là ? Est-ce vous qui avez dit qu'on les amenât dans votre jardin ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Moi ?</p>
+</sp>
+<sp who="NICOLE">
+<speaker>NICOLE.</speaker>
+<p>Ils sont, je crois, plus de quarante, qui accommodont bian votre parterre et vos choux. Comme ils labouront ! Il ne leur faut point de pioche.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah, ciel ! Il ne me fallait plus que cela pour m'achever de peindre.</p>
+</sp>
+<sp who="NICOLE">
+<speaker>NICOLE.</speaker>
+<p>Il en est entré trois ou quatre dans ma cuisine, qui ont emporté la moitié de votre soupe, que j'allais mettre à la broche.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment donc, morbleu, jusqu'aux chiens, tout sera à bouche chez moi ?</p>
+</sp>
+<sp who="NICOLE">
+<speaker>NICOLE.</speaker>
+<p>Voirement, ce ne sont pas les chiens qui font le plus de désordre ; ils sont trois ou quatre grands escogriffes, et autant de valets, qui ne demandons qu'où est-ce ? Ce ne sont pas des hommes, ce sont des diables.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah ! Que la vie de la campagne est une abominable vie !</p>
+</sp>
+</div>
+<div n="20" type="scene">
+<head>SCÈNE XX. Monsieur Bernard, Thibaut, Nicole.</head>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Oh, palsanguoi, en voilà bien d'une autre ; ils voulont ravoir leur cerf à toute force, mais ils ne l'auront morgue pas.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah, double chien ! Tu m'as fait de belles affaires avec ton cerf.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Ils ne l'auront morgue pas, vous dis-je ; ils me tueriont plutôt.</p>
+</sp>
+</div>
+<div n="21" type="scene">
+<head>SCÈNE XXI. Monsieur Bernard, Thibaut, Nicole, Monsieur Griffard.</head>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Monsieur, ces messieurs vous demandent.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Quels messieurs ? Y a-t-il encore quelque chose de nouveau ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Non, monsieur, ce sont ces chasseurs. Les voila qui montent à la chambre de madame.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ils ne sont donc plus dans la cuisine ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Il n'y a plus que leurs gens.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ma pauvre Nicole, va prendre garde à ces fripons-là.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Oh, ventregué, ne vous boutez pas en peine ; je leur tiandrai bian tête moi tout seul.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Mon pauvre monsieur Griffard, je ne sais plus où j'en suis.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Il faut mettre le feu à la maison.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Écoutez, il ne me faudrait point trop presser là-dessus.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Il faut le faire, vous dis-je.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>M'ont-ils bien fait du dégât ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Bon, bon, vous ne savez pas tout : chiens, chevaux, maîtres et valets, tout restera ici jusqu'à demain matin, pour être au bois de meilleure heure. Je leur ai ouï faire le complot.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah, ah, je suis mort ! Et voilà de quoi abîmer tout le village. Quoi, ventrebleu ! Des gens que je ne connais point ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Ils vous connoissent bien, eux.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ils me connaissent ? Comment le sais-tu ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Cela vous fâchera, si je vous le dis.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Et quelque chose me peut-il fâcher plus que je le suis ?</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Ils disent que c'est pain béni de venir ronger un homme de robe à la campagne, et qu'à Paris c'est vous qui rongez les autres.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Les scélérats !</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Et je suis le plus trompé du monde, s'ils n'ont dessein de vous faire quelque pièce. J'ai entendu par-ci par-là de certaines choses.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui ? Oh parbleu c'est moi qui leur en vais faire une. Viens-t'en avec moi seulement.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Comment ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Cela part de là, vois-tu.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Qu'est-ce que c'est ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Viens-t'en avec moi, te dis-je. Pour cela, l'esprit est une belle chose ! Ah ! Si je m'en étais avisé plus tôt, je me serais épargné bien des chagrins.</p>
+</sp>
+</div>
+<div n="22" type="scene">
+<head>SCÈNE XXII. Monsieur Bernanrd, Lisette, Monsieur Griffard.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Monsieur, madame vous prie bien fort de venir, et elle ne peut pas fournir toute seule à la conversation de tant de monde.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>La double masque ! Il lui sied bien de me vouloir plaisanter encore ! Mais ventrebleu, rira bien qui rira le dernier.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Allez-vous venir, monsieur ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Je m'en vais.... Je m'en vais lui servir un plat de ma façon. Tu n'as qu'à lui dire.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, seule.</speaker>
+<p>Par ma foi, il n'a pas trop de tort d'être fâché, et je lui trouve assez belle patience.</p>
+</sp>
+</div>
+<div n="23" type="scene">
+<head>SCÈNE XXIII. Mariane, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Quoi ! Vous quittez ainsi votre belle-mère ?</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>La tête me fend, Lisette, je ne puis plus résister a tant de fracas. En vérité, mon père a bien raison de n'aimer point la campagne ; et, outre la dépense qu'il est obligé d'y faire, on n'y vit point assez tranquille.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>C'est à quoi je revois tout-à-l'heure. Mais songez-vous à écrire un mot à Éraste ?</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Tu sais bien que je n'ai pu le faire depuis qu'il est sorti d'ici.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Songez donc à le faire à présent. C'est un petit étourdi, qui fera quelque coup de sa tête, s'il n'a point de vos nouvelles; vous savez qu'il vous l'a promis, il est homme à vous tenir parole, et, dans le chagrin où est votre père, il ne ferait pas bon de l'irriter encore par cet endroit-là.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Et comment fera-t-on pour lui rendre ma lettre ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Voyez ! Le village est-il si grand, et aurai-je tant de peine à le trouver ?</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Tu la lui porteras donc toi-même?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, je la lui porterai.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Je vais l'écrire.</p>
+</sp>
+</div>
+<div n="24" type="scene">
+<head>SCÈNE XXIV. Mariane, Le Cousin, Lisette.</head>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Et où allez-vous comme ça, ma cousine ? Venez çà, venez-çà, j'ai quelque chose à vous dire, qui vous fera tien rire.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Laissez-la aller, elle n'a pas le temps.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Oh si fait, si fait.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Dépêchez-vous donc, mon cousin.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>J'ai trouvé en arrivant ici un petit jeune monsieur, que j'ai vu quelquefois avec vous.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Paix, mon cousin.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Mort de ma vie ! Ne parlez pas de cela.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Oh ! Je me doute bien qu'il n'en faut rien dire devant le monde ; et je vous ai fait signe, je ne sais combien de fois là-haut, que j'avais à vous parler en cachette.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Je ne m'en étais point aperçue.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Je suis secret, voyez-vous. Demandez, demandez à mes soeurs, j'ai toujours su toutes leurs petites affaires, et je n'en ai jamais rien dit, ni à mon père, ni à ma mère.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Oh ! Mon cousin chonchon est un bon enfant.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh bien ! Vous a-t-il reconnu, ce monsieur ?</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>S'il m'a reconnu ? Il m'a tant fait de caresses, il m'a tant embrassé ! Allez, ce garçon-là m'aime bien, ma cousine.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Oh ! Je le crois, mon cousin. Mais ne vous a-t-il rien dit ?</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Il m'a demandé où j'allais. Je lui ai dit que je venais ici. Il m'a dit que j'étais un petit fripon qui me divertissais bien , et que j'avais toute la mine de ne vouloir pas que mon cousin me vît seulement. Il prenait ma soeur pour quelque maîtresse que je menais promener en catimini.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Eh bien, mon cousin ?</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Eh bien ! Ma cousine, il a voulu parier dix pistoles que je n'y venais pas, et j'ai parié que j'y venais, moi. L'honneur de ma soeur y était engagé, voyez-vous.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Assurément.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Je lui ai dit qu'il n'avait qu'à me faire suivre, mais il n'a pas voulu ; et pour plus de sûreté, il m'a dit qu'il alloit m'attendre à cette petite porte du jardin qui donne dans les champs, et que si je ressortais par-là, il verrait bien que je serais entré dans la maison.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Eh bien, mon cousin ?</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Eh bien ! J'ai été ouvrir la porte, il est entré, et il m'a payé les dix pistoles.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Cela est bien honnête.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Oui, mais il a voulu avoir sa revanche.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et comment, sa revanche ?</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>Il a gagé que je ne vous viendrais pas dire qu'il est là ; j'ai gagné, comme vous voyez, et il faut que vous veniez le lui dire, ma cousine, s'il vous plaît.</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Moi ! Que j'aille parler à un homme ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et que diantre personne ne vous verra là ; et puis voulez-vous faire perdre dix pistoles à votre cousin chonchon ?</p>
+</sp>
+<sp who="MARIANE">
+<speaker>MARIANE.</speaker>
+<p>Allons-y donc, Lisette : au moins, ce n'est que pour vous faire gagner la revanche de la gageure.</p>
+</sp>
+<sp who="LE COUSIN">
+<speaker>LE COUSIN.</speaker>
+<p>S'il veut gager encore quelque chose, je lui donnerai son tout. Allez. Ne me ferez-vous pas gagner, ma cousine ?</p>
+</sp>
+</div>
+<div n="25" type="scene">
+<head>SCÈNE XXV. Thibaut, Lisette.</head>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Oh, par ma foi, le tour est drôle ; ils ne s'attendent morguenne pas à ça.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Quel autre incident est-ce encore ici ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Jarni, qu'il est bon là !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>À qui en as-tu ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Je ne sommes pu cheux nous, mon enfant, je sommes au cabaret.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Au cabaret ! Que veux-tu dite ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Oui, morgué, au cabaret. Tiens, notre maître et monsieur Griffard venont de plaquer une vieille épée toute rouillée au-dessus de la porte, avec un bouchon de lierre, et ils ont griffonné au-dessous, avec lin gros charbon : à l'Epée royale.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>En voici bien d'une autre.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Dame, c'est ici l'Épée royale, bon logis, à pied et à cheval. La maison est morgué bien achalandée, toujours.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Courons avertir Mariane de l'extravagance de son père.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Vous varrez qu'il n'y viandra pu tant de monde.</p>
+</sp>
+</div>
+<div n="26" type="scene">
+<head>SCÈNE XXVI. Monsieur Bernard, Thibaud, Monsieur Griffard.</head>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Cette invention est admirable.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Nous allons voir des gens bien penauds.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Le diable m'emporte, si vous n'avez plus d'esprit que li !</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Tu peux à	présent laisser entrer tout le monde.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Moi ! J'appellerai les passants, si vous voulez, et je gage qUe vous allez couper la gorge à tous les autres cabaretiers : ils ne gagneront pas de l'eau. Vlà monsieur votre fils, qui ne se doute pas de la manigance.</p>
+</sp>
+</div>
+<div n="27" type="scene">
+<head>SCÈNE XXVII. Monsieur Bernard, Dorante, Thibaut, Monsieur Griffard.</head>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Qu'est-ce, Dorante ? Vous voilà bien seul aujourd'hui ? Vous avez pourtant coutume de ne pas revenir sans compagnie.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>J'ai pris un peu les devants, mon père, pour vous prier instamment de faire un accueil favorable à celle que je vous amène aujourd'hui.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Pourquoi non ? Vous êtes le maître ; on vous fait honneur et à moi aussi. Vous êtes-vous bien diverti ? D'où venez-vous ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Le mieux du monde ; et j'ai trouvé une occasion tout-à-fait avantageuse pour nous procurer des amis dans la province.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>J'en suis ravi, je vous assure ; il est bon de connaître d'honnêtes gens.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>C'est un accommodement qu'on veut faire entre deux gentilshommes qui, depuis vingt-cinq ou trente ans, sont à couteaux tirés pour une dispute qu'eurent autrefois leurs grands-pères.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Voila une querelle bien ancienne, et cela est glorieux à accommoder.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ces affaires-là font toujours honneur aux personnes chez qui elles se terminent.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Assurément.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>J'appréhendais, mon père, que cela ne vous fit point autant de plaisir que cela me paraît vous en faire.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Pourquoi cela ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je sais que vous n'aimez point la dépense.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oh ! Je suis bien changé depuis que vous ne m'avez vu. Sont-ils beaucoup ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Huit ou dix de chaque côté.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ce n'est guères.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Les uns vont arriver, et les autres seront ici demain matin.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oh, çà, çà, je vais me préparer pour les recevoir.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ah, mon père ! Que je vous ai d'obligation !</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ce sont gens de bonne chère et de plaisir, n'est-ce pas ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, mon père ; les plus honnêtes gens du monde.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Tant mieux. Je suis à vous dans un moment, ne vous ennuyez pas.</p>
+</sp>
+</div>
+<div n="28" type="scene">
+<head>SCÈNE XXVIII. Dorante, Thibaut.</head>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT, à part.</speaker>
+<p xml:lang="fra-dia">Il va leur jouer quelque tour de maître Gonin. Tudieu, via un futé manoeuvre. Il ne faut faire semblant de rien.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Cela est admirable. Comme mon père est changé d humeur depuis trois jours ! Thibaut, ne trouves-tu pas cela tout extraordinaire ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Oui, morgue, cela est tout-à-fait bouffon.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ne sais-tu point d'où vient un si prompt changement ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT, en riant.</speaker>
+<p xml:lang="fra-dia">C'est que...</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>À qui en a donc ce maroufle ?</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT, en riant.</speaker>
+<p xml:lang="fra-dia">Monsieur, c'est que... morgue, c'est un drôle de corps que votre père !</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Écoute, si tu me fais prendre un bâton.</p>
+</sp>
+<sp who="THIBAUT" xml:lang="fra-dia">
+<speaker>THIBAUT.</speaker>
+<p xml:lang="fra-dia">Ne vous fâchez donc point, vlà vos Houberiaux qui arrivent.</p>
+</sp>
+</div>
+<div n="29" type="scene">
+<head>SCÈNE XXIX. Dorante, Trois houbereaux, Thibaut.</head>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Soyez les bienvenus, messieurs. Qu'on mette les chevaux de ces messieurs à l'écurie.</p>
+</sp>
+<sp who="PREMIER-HOUBEREAU">
+<speaker>PREMIER HOUBEREAU.</speaker>
+<p>Savez-vous que vous êtes bien logé ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>La maison est assez agréable.</p>
+</sp>
+<sp who="DEUXIÈME-HOUBEREAU">
+<speaker>DEUXIÈME HOUBEREAU.</speaker>
+<p>Et le fief est bien noble, qui plus est.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, la terre est fort belle.</p>
+</sp>
+<sp who="DEUXIÈME-HOUBEREAU">
+<speaker>DEUXIÈME HOUBEREAU.</speaker>
+<p>Eh ! À qui le dites-vous ? Cette maison-ci devrait être à moi ; et c'est feu mon grand-père qui l'avait vendue au père de celui qui l'a vendue à monsieur votre père.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je le crois bien. Cà, messieurs, ne parlons point aujourd'hui d'affaires, et ne songeons ce soir qu'à nous divertir. Où sont donc ces autres messieurs ?</p>
+</sp>
+<sp who="TROISIÈME-HOUBEREAU">
+<speaker>TROISIÈME HOUBEREAU.</speaker>
+<p>Ils n'arriveront d'une bonne heure ; et comme leurs juments sont pleines, ils n'ont jamais voulu les faire galoper.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ne voulez-vous point vous débotter ?</p>
+</sp>
+<sp who="PREMIER-HOUBEREAU">
+<speaker>PREMIER HOUBEREAU.</speaker>
+<p>Non, s'il vous plait, ma botte me tient la jambe fraîche.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Est-ce que vous êtes botté à cru ?</p>
+</sp>
+<sp who="PREMIER-HOUBEREAU">
+<speaker>PREMIER HOUBEREAU.</speaker>
+<p>Savez-vous bien qu'en été il n'y a rien de meilleur ?</p>
+</sp>
+<sp who="DEUXIÈME-HOUBEREAU">
+<speaker>DEUXIÈME HOUBEREAU.</speaker>
+<p>Moi, je trouve qu'il n'y a rien de si commode que de ne se botter qu'avec des guêtres.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vous avez raison. Mais, mon père, quel équipage est-ce là ?</p>
+</sp>
+</div>
+<div n="30" type="scene">
+<head>SCÈNE XXX. Monsieur Bernard, habillé en cuisinier, Dorante, Les trois houbereaux, Monsieur Griffard</head>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>C'est un déshabillé pour la cuisine.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Comment, mon père...</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Sont-ce là ces messieurs ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, mon père.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Çà, vitement, dépêchons-nous, une chanihre pour ces messieurs. Voulez-vous descendre dans la cuisine, pour voir ce que vous mangerez ?</p>
+</sp>
+<sp who="PREMIER-HOUBEREAU">
+<speaker>PREMIER HOUBEREAU.</speaker>
+<p>Vous vous moquez de nous, monsieur, et votre ordinaire nous suffit.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>À table d'hôte ? Je vous entends, tant par tète. Combien êtes-vous, s'il vous plaît ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Mon père, que dites-vous là ? Que faites-vous ? Quel est votre dessein ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Paix, mon fils, vous êtes une bête.</p>
+</sp>
+<sp who="DEUXIÈME-HOUBEREAU">
+<speaker>DEUXIÈME HOUBEREAU.</speaker>
+<p>Dans quelle chienne de maison nous a-t-on amenés.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>C'est l'Épée royale, à votre service.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Mon père !</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Il y a de bon vin, mais je le fais bien payer.</p>
+</sp>
+<sp who="TROISIÈME-HOUBEREAU">
+<speaker>TROISIÈME HOUBEREAU.</speaker>
+<p>C'est une pièce qu'on nous fait.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ah ! Je crève.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Vous pouvez voir ailleurs, messieurs, on vous accommodera peut-être mieux ; mais pour moi je suis cher, je vous l'avoue.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je suis dans le dernier désespoir.</p>
+</sp>
+<sp who="DEUXIÈME-HOUBEREAU">
+<speaker>DEUXIÈME HOUBEREAU.</speaker>
+<p>La raillerie est un peu forte.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Messieurs, ne prenez point, je vous conjure, pour...</p>
+</sp>
+<sp who="DEUXIÈME-HOUBEREAU">
+<speaker>DEUXIÈME HOUBEREAU.</speaker>
+<p>Mon petit gentilhomme cabaretier, je ne vous dis pas adieu..</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Mon cher monsieur de la Garannière !</p>
+</sp>
+<sp who="DEUXIÈME-HOUBEREAU">
+<speaker>DEUXIÈME HOUBEREAU.</speaker>
+<p>Qu'on bride mon cheval.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>En voilà déjà un de parti.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Monsieur de Trofignac, empêchez de grâce...</p>
+</sp>
+<sp who="TROISIÈME-HOUBEREAU">
+<speaker>TROISIÈME HOUBEREAU.</speaker>
+<p>Touchez là.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Mon cher ami !</p>
+</sp>
+<sp who="TROISIÈME-HOUBEREAU">
+<speaker>TROISIÈME HOUBEREAU.</speaker>
+<p>Je vous assommerai avant qu'il soit peu.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ils sont en droit de me dire cent fois pis encore.</p>
+</sp>
+<sp who="PREMIER-HOUBEREAU">
+<speaker>PREMIER HOUBEREAU.</speaker>
+<note>Etrivières : Courroie à laquelle est suspendu l'étrier. Au plur. Coups d'étrivières. Recevoir les étrivières. Fig. Tout mauvais traitement qui humilie ou déshonore. [L]</note>
+<p>Monsieur de l'Épée royale, vous aurez, au premier jour, les étrivières de ma façon.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ah ! Je n'ai plus de mesures à garder ; me voilà déshonoré pour toute ma vie, et je ne dois songer qu'à mourir.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Monsieur mon fils, cela vous apprendra à vivre.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Moi, votre fils ! À vos manières, je ne reconnais point mon père, et je vais publier moi-même l'indignité d'un tel procédé.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Les voilà pourtant partis, et l'Epée royale fait ces merveilles.</p>
+</sp>
+</div>
+<div n="31" type="scene">
+<head>SCÈNE XXXI. Monsieur Bernard, Monsieur Griffard.</head>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Il n'y avait point d'autre remède pour vous défaire de tous ces gens-là.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Je voudrais bien savoir ce que dira madame ma femme de tout ceci.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Oh ! Vous le saurez, elle vous le dira à vous-même ; elle ne se contraint pas avec vous.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Oui ; mais je serais ravi d'entendre ce qu'ils disent entre eux de l'invention que j'ai trouvée.</p>
+</sp>
+<sp who="MONSIEUR GRIFFARD">
+<speaker>MONSIEUR GRIFFARD.</speaker>
+<p>Cela n'est pas bien difficile. Mais voici quelqu'un.</p>
+</sp>
+</div>
+<div n="32" type="scene">
+<head>SCÈNE XXXII. Lisette, La Flèche, Monsieur Bernard, Monsieur Griffard.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Quoi ! Ce grand monsieur qui nous a trouvées dans le jardin ?</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Oui, te dis-je, c'est l'oncle de mon maître, qui est capitaine des chasses de tout ce pays-ci. Il aime son neveu à la folie.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment diable, voilà le valet d'Éraste ; est-ce qu'Éraste serait chez moi ?</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Oh, par ma foi, voilà monsieur Bernard !</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Que fais-tu ici, coquin ?</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Rien, monsieur : je demandais une chambre à cette fille pour mon maître.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Une chambre pour ton maître !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, monsieur : Éraste est là-haut avec madame et mademoiselle votre fille.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Éraste est avec ma fille !</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Oui, monsieur ; mais je voudrais bien savoir où il couchera, pour y mettre nos hardes.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment, coquin!</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Savez-vous bien que vous tenez le plus beau cabaret de toute la route ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Attends, attends, je m'en vais t'apprendre.</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<note>Chopine : petite mesure de liqueur qui contient la moitié d'une pinte. [F]</note>
+<p>Faites-moi toujours tirer chopine, je vous prie.</p>
+</sp>
+</div>
+<div n="33" type="scene">
+<head>SCÈNE XXXIII. Monsieur et Madame Bernard, La Flèche.;</head>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Eh bon dieu, monsieur ! Qu'est-ce que tout ceci ? Ne rougissez-vous point de vouloir faire un cabaret de votre logis, et trouvez-vous que l'équipage où vous êtes convienne fort à un homme de votre caractère ?</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Pourquoi non, madame ? Ne vaut-il pas autant vendre mon vin à la campagne que de le faire vendre à pot dans Paris, comme la plupart de mes confrères ?</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Eh fi, monsieur!</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Je me moque de cela, et je ne veux point être ruiné.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Oh bien, monsieur, vous êtes plus près de l'être que vous ne vous l'imaginez : je n'entends point du tout les affaires ; mais il y a là-haut des gens en disposition de vous en faire une très mauvaise.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Comment donc, madame, une mauvaise affaire !</p>
+</sp>
+</div>
+<div n="34" type="scene">
+<head>SCÈNE XXXIV. Monsieur et Madmame Bernard, Éraste, La Flèche, Monsieur Griffard.</head>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Nos, monsieur, n'appréhendez rien.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Ah, ah, monsieur ! Que venez-vous faire chez moi ? Ne vous ai-je pas fait dire...</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Écoutez-moi, s'il vous plait, et vous ne vous plaindrez pas que je sois chez vous, assurément. La sottise qu'a faite un de vos valets de tuer un cerf qui s'était sauvé chez vous, et qu'on a trouvé caché dans votre écurie, suffirait pour renverser une fortune encore mieux établie que la vôtre ; et je ne sais même si mon oncle ne risquera pas la sienne en ne poussant pas la chose. Cependant, monsieur, si vous voulez bien que j'aie l'honneur d'être votre gendre, il n'en sera jamais parlé.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Non, monsieur, et je ne donnerai ma fille qu'à un homme qui achètera ma maison ; car je m'en veux défaire.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Qu'à cela ne tienne, monsieur ; je vous rendrai tout ce qu'elle vous a coûté, et vous y serez toujours le maître.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Non, s'il vous plaît, et vous commencerez, dès aujourd'hui même, à en faire les honneurs et la dépense.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>De tout mon coeur.</p>
+</sp>
+<sp who="MONSIEUR BERNARD">
+<speaker>MONSIEUR BERNARD.</speaker>
+<p>Eh bien ! Je vous donne donc ma fille pour être défait de ma maison.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Allons rejoindre la compagnie ; je voudrais bien qu'elle fût plus nombreuse.</p>
+</sp>
+<sp who="MADAME-BERNARD">
+<speaker>MADAME BERNARD.</speaker>
+<p>Mais le pauvre Dorante a sur les bras une fort mauvaise affaire.</p>
+</sp>
+<sp who="ÉRASTE">
+<speaker>ÉRASTE.</speaker>
+<p>Nous accommoderons tout, madame, et ces messieurs qu'il avait amenés ne refuseront pas d'être des noces.</p>
+</sp>
+<sp who="LA FLÈCHE">
+<speaker>LA FLÈCHE.</speaker>
+<p>Mon maître n'est pas mal dans ses affaires : avec une jolie femme et une maison de bouteille, il aura plus d'amis qu'il ne voudra.</p>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

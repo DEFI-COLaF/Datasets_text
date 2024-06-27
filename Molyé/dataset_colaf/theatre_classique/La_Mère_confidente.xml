@@ -1,0 +1,3221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<idno>CRE_TC_033</idno>
+<title type="main">LA MÈRE CONFIDENTE, COMÉDIE</title>
+<title type="collection">Moliyé</title>
+<author>MARIVAUX, Pierre de (1688-1763)</author>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="RDENT">
+<surname>Dent</surname>
+<forename>Rasul</forename>
+<idno type="orcid">0009-0004-1032-1745</idno>
+</persName>
+</respStmt>
+<respStmt>
+<resp>Encoding</resp>
+<persName xml:id="JJANES">
+<surname>Janès</surname>
+<forename>Juliette</forename>
+<idno type="orcid">0000-0002-8971-6173</idno>
+</persName>
+</respStmt>
+<principal>
+<persName xml:id="BSAGOT">
+<surname>Sagot</surname>
+<forename>Benoît</forename>
+<idno type="orcid">0000-0001-8957-9503</idno>
+</persName>
+</principal>
+<funder>Inria</funder>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k5602548m"/>
+<title>LA MÈRE CONFIDENTE, COMÉDIE</title>
+<author>MARIVAUX, Pierre de (1688-1763)</author>
+<publisher>Gallica</publisher>
+<date when="1735"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target="http://gallica.bnf.fr/ark:/12148/bpt6k5602548m"/>
+<title>LA MÈRE CONFIDENTE, COMÉDIE</title>
+<author>MARIVAUX, Pierre de (1688-1763)</author>
+<publisher>Theatre Classique</publisher>
+<date when="2024-05-30"/>
+</bibl>
+</sourceDesc>
+<extent>TO BE DEFINED</extent>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-dia">
+<idno type="langue">fra-dia</idno>
+<idno type="script">Latin</idno>
+<name>Early Modern Dialectal French</name>
+</language>
+</langUsage>
+<textClass>
+<keywords>
+<term rend="spoken" type="supergenre">Fiction</term>
+<term rend="spoken-script" type="genre">fiction-drama</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="MADAME_ARGANTE">
+<persName>MADAME ARGANTE</persName>
+</person>
+<person xml:id="ANGÉLIQUE">
+<persName>ANGÉLIQUE</persName>
+</person>
+<person xml:id="LISETTE">
+<persName>LISETTE</persName>
+</person>
+<person xml:id="DORANTE">
+<persName>DORANTE</persName>
+</person>
+<person xml:id="ERGASTE">
+<persName>ERGASTE</persName>
+</person>
+<person xml:id="LUBIN">
+<persName>LUBIN</persName>
+</person>
+</listPerson>
+</particDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2024-05-30" who="#RDENT">Génération du document</change>
+</revisionDesc>
+</teiHeader>
+<text xmlns:tei="http://www.tei-c.org/ns/1.0">
+<body>
+<div type="liminal">
+<div type="titlepage">
+<div type="liminal">
+<p>LA MÈRE CONFIDENTE</p>
+</div>
+<div type="liminal">
+<p>COMÉDIE en TROIS ACTES et en PROSE.</p>
+</div>
+</div>
+<div type="liminal">
+<p>M. DCC. XXXV.</p>
+</div>
+<div type="liminal">
+<p>par M. de M...[arivaux]</p>
+</div>
+<div type="liminal">
+<p>représentée pour la première fois par les comédiens Italiens le 9 mai 1735.</p>
+</div>
+<list>
+<head>ACTEURS</head>
+<item>MADAME ARGANTE.</item>
+<item>ANGÉLIQUE, sa fille.</item>
+<item>LISETTE, sa suivante.</item>
+<item>DORANTE, amant d'Angélique.</item>
+<item>ERGASTE, son oncle.</item>
+<item>LUBIN, paysan valet de Madame Argante.</item>
+</list>
+<p>La scène se passe à la campagne, chez Madame Argante.</p>
+</div>
+<div n="1" type="act">
+<head>ACTE I</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Dorante, Lisette.</head>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quoi ! Vous venez sans Angélique, Lisette ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Elle arrivera bientôt, elle est avec sa mère, je lui ai dit que j'allais toujours devant, et je ne me suis hâtée que pour avoir avec vous un moment d'entretien, sans qu'elle le sache.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Que me veux-tu, Lisette ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ah ça, Monsieur, nous ne vous connaissons, Angélique et moi, que par une aventure de promenade dans cette campagne.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il est vrai.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous êtes tous deux aimables, l'amour s'est mis de la partie, cela est naturel ; voilà sept ou huit entrevues que nous avons avec vous, à l'insu de tout le monde ; la mère, à qui vous êtes inconnu, pourrait à la fin en apprendre quelque chose, toute l'intrigue retomberait sur moi : terminons ; Angélique est riche, vous êtes tous deux d'une égale condition, à ce que vous dites ; engagez vos parents à la demander pour vous en mariage ; il n'y a pas même de temps à perdre.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>C'est ici où gît la difficulté.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous auriez de la peine à trouver un meilleur parti, au moins.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Eh ! Il n'est que trop bon.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je ne vous entends pas.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ma famille vaut la sienne, sans contredit, mais je n'ai pas de bien, Lisette.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, étonnée.</speaker>
+<p>Comment ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je dis les choses comme elles sont ; je n'ai qu'une très petite légitime.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, brusquement.</speaker>
+<p>Vous ? Tant pis ; je ne suis point contente de cela, qui est-ce qui le devinerait à votre air ? Quand on n'a rien, faut-il être de si bonne mine ? Vous m'avez trompée, Monsieur.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ce n'était pas mon dessein.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Cela ne se fait pas, vous dis-je, que diantre voulez-vous qu'on fasse de vous ? Vraiment Angélique vous épouserait volontiers, mais nous avons une mère qui ne sera pas tentée de votre légitime, et votre amour ne nous donnerait que du chagrin.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Eh ! Lisette, laisse aller les choses, je t'en conjure ; il peut arriver tant d'accidents ! Si je l'épouse, je te jure d'honneur que je te ferai ta fortune ; tu n'en peux espérer autant de personne, et je tiendrai parole.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ma fortune ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, je te le promets. Ce n'est pas le bien d'Angélique qui me fait envie : si je ne l'avais pas rencontrée ici, j'allais, à mon retour à Paris, épouser une veuve très riche et peut-être plus riche qu'elle, tout le monde le sait, mais il n'y a plus moyen : j'aime Angélique ; et si jamais tes soins m'unissaient à elle, je me charge de ton établissement.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, rêvant un peu.</speaker>
+<p>Vous êtes séduisant ; voilà une façon d'aimer qui commence à m'intéresser, je me persuade qu'Angélique serait bien avec vous.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je n'aimerai jamais qu'elle.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous lui ferez donc sa fortune aussi bien qu'à moi, mais, Monsieur, vous n'avez rien, dites-vous ? Cela est dur, n'héritez-vous de personne, tous vos parents sont-ils ruinés ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je suis le neveu d'un homme qui a de très grands biens, qui m'aime beaucoup, et qui me traite comme un fils.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh ! que ne parlez-vous donc ? d'où vient me faire peur avec vos tristes récits, pendant que vous en avez de si consolants à faire ? Un oncle riche, voilà qui est excellent ; et il est vieux, sans doute, car ces Messieurs-là ont coutume de l'être.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, mais le mien ne suit pas la coutume, il est jeune.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Jeune ! Et de quelle jeunesse encore ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il n'a que trente-cinq ans.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Miséricorde ! Trente-cinq ans ! Cet homme-là n'est bon qu'à être le neveu d'un autre.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il est vrai.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Mais du moins, est-il un peu infirme ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Point du tout, il se porte à merveille, il est, grâce au ciel, de la meilleure santé du monde, car il m'est cher.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Trente-cinq ans et de la santé, avec un degré de parenté comme celui-là ! Le joli parent ! Et quelle est l'humeur de ce galant homme ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il est froid, sérieux et philosophe.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Encore passe, voilà une humeur qui peut nous dédommager de la vieillesse et des infirmités qu'il n'a pas : il n'a qu'à nous assurer son bien.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il ne faut pas s'y attendre ; on parle de quelque mariage en campagne pour lui.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, s'écriant.</speaker>
+<p>Pour ce philosophe ! Il veut donc avoir des héritiers en propre personne ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Le bruit en court.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oh ! Monsieur, vous m'impatientez avec votre situation ; en vérité, vous êtes insupportable, tout est désolant avec vous, de quelque côté qu'on se tourne.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Te voilà donc dégoûtée de me servir ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, vivement.</speaker>
+<p>Non, vous avez un malheur qui me pique et que je veux vaincre ; mais retirez-vous, voici Angélique qui arrive, je ne lui ai pas dit que vous viendriez ici, quoiqu'elle s'attende bien de vous y voir ; vous reparaîtrez dans un instant et ferez comme si vous arriviez, donnez-moi le temps de l'instruire de tout, j'ai à lui rendre compte de votre personne, elle m'a chargée de savoir un peu de vos nouvelles, laissez-moi faire.</p>
+<stage>Dorante sort.</stage>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Angélique, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je désespérais que vous vinssiez, Madame.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>C'est qu'il est arrivé du monde à qui j'ai tenu compagnie. Eh bien ! Lisette, as-tu quelque chose à me dire de Dorante ? As-tu parlé de lui à la concierge du château où il est ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, je suis parfaitement informée. Dorante est un homme charmant, un homme aimé, estimé de tout le monde, en un mot, le plus honnête homme qu'on puisse connaître.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Hélas ! Lisette, je n'en doutais pas, cela ne m'apprend rien, je l'avais deviné.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui ; il n'y a qu'à le voir pour avoir bonne opinion de lui. Il faut pourtant le quitter, car il ne vous convient pas.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Le quitter ! Quoi ! Après cet éloge !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, Madame, il n'est pas votre fait.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ou vous plaisantez, ou la tête vous tourne.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ni l'un ni l'autre. Il a un défaut terrible.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Tu m'effrayes.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Il est sans bien.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ah ! je respire ! N'est-ce que cela ? Explique-toi donc mieux, Lisette : ce n'est pas un défaut, c'est un malheur, je le regarde comme une bagatelle, moi.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous parlez juste ; mais nous avons une mère, allez la consulter sur cette bagatelle-là, pour voir un peu ce qu'elle vous répondra ; demandez-lui si elle sera d'avis de vous donner Dorante.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Et quel est le tien là-dessus, Lisette ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oh ! Le mien, c'est une autre affaire ; sans vanité, je penserais un peu plus noblement que cela, ce serait une fort belle action que d'épouser Dorante.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Va, va, ne ménage pas mon coeur, il n'est pas au-dessous du tien, conseille-moi hardiment une belle action.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non pas, s'il vous plaît. Dorante est un cadet et l'usage veut qu'on le laisse là.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je l'enrichirais donc ? Quel plaisir !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oh ! vous en direz tant que vous me tenterez.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Plus il me devrait, et plus il me serait cher.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous êtes tous deux les plus aimables enfants du monde, car il refuse aussi, à cause de vous, une veuve très riche, à ce qu'on dit.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Lui ? Eh bien ! Il a eu la modestie de s'en taire, c'est toujours de nouvelles qualités que je lui découvre.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Allons, Madame, il faut que vous épousiez cet homme-là, le ciel vous destine l'un à l'autre, cela est visible. Rappelez-vous votre aventure : nous nous promenons toutes deux dans les allées de ce bois. Il y a mille autres endroits pour se promener ; point du tout, cet homme, qui nous est inconnu, ne vient qu'à celui-ci, parce qu'il faut qu'il nous rencontre. Qu'y faisiez-vous ? Vous lisiez. Qu'y faisait-il ? Il lisait. Y a-t-il rien de plus marqué ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Effectivement.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Il vous salue, nous le saluons, le lendemain, même promenade, mêmes allées, même rencontre, même inclination des deux côtés, et plus de livres de part et d'autre ; cela est admirable !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ajoute que j'ai voulu m'empêcher de l'aimer, et que je n'ai pu en venir à bout.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je vous en défierais.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il n'y a plus que ma mère qui m'inquiète, cette mère qui m'idolâtre, qui ne m'a jamais fait sentir que son amour, qui ne veut jamais que ce que je veux.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Bon ! C'est que vous ne voulez jamais que ce qui lui plaît.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Mais si elle fait si bien que ce qui lui plaît me plaise aussi, n'est-ce pas comme si je faisais toujours mes volontés ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Est-ce que vous tremblez déjà ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, tu m'encourages, mais c'est ce misérable bien que j'ai et qui me nuira : ah ! Que je suis fâchée d'être si riche !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ah ! Le plaisant chagrin ! Eh ! Ne l'êtes-vous pas pour vous deux ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il est vrai. Ne le verrons-nous pas aujourd'hui ? Quand reviendra-t-il ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, regarde sa montre.</speaker>
+<p>Attendez, je vais vous le dire.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Comment ! Est-ce que tu lui as donné rendez-vous ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, il va venir, il ne tardera pas deux minutes, il est exact.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous n'y songez pas, Lisette ; il croira que c'est moi qui le lui ai fait donner.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non, non, c'est toujours avec moi qu'il les prend, et c'est vous qui les tenez sans le savoir.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il a fort bien fait de ne m'en rien dire, car je n'en aurais pas tenu un seul ; et comme vous m'avertissez de celui-ci, je ne sais pas trop si je puis rester avec bienséance, j'ai presque envie de m'en aller.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je crois que vous avez raison. Allons, partons, Madame.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Une autre fois, quand vous lui direz de venir, du moins ne m'avertissez pas, voilà tout ce que je vous demande.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ne nous fâchons pas, le voici.</p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Dorante, Angélique, Lisette, Lubin, éloigné.</head>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je ne vous attendais pas, au moins, Dorante.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je ne sais que trop que c'est à Lisette que j'ai l'obligation de vous voir ici, Madame.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, sans regarder.</speaker>
+<p>Je lui ai pourtant dit que vous viendriez.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, elle vient de me l'apprendre tout à l'heure.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Pas tant tout à l'heure.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Taisez-vous, Lisette.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Me voyez-vous à regret, Madame ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, Dorante, si j'étais fâchée de vous voir, je fuirais les lieux où je vous trouve, et où je pourrais soupçonner de vous rencontrer.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oh ! Pour cela, Monsieur, ne vous plaignez pas ; il faut rendre justice à Madame : il n'y a rien de si obligeant que les discours qu'elle vient de me tenir sur votre compte.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Mais, en vérité, Lisette !...</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Eh ! Madame, ne m'enviez pas la joie qu'elle me donne.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Où est l'inconvénient de répéter des choses qui ne sont que louables ? Pourquoi ne saurait-il pas que vous êtes charmée que tout le monde l'aime et l'estime ? Y a-t-il du mal à lui dire le plaisir que vous vous proposez à le venger de la fortune, à lui apprendre que la sienne vous le rend encore plus cher ? Il n'y a point à rougir d'une pareille façon de penser, elle fait l'éloge de votre coeur.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quoi ! Charmante Angélique, mon bonheur irait-il jusque-là ? Oserais-je ajouter foi à ce qu'elle me dit ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je vous avoue qu'elle est bien étourdie.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je n'ai que mon coeur à vous offrir, il est vrai, mais du moins n'en fut-il jamais de plus pénétré ni de plus tendre.</p>
+<stage>Lubin paraît dans l'éloignement.</stage>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Doucement, ne parlez pas si haut, il me semble que je vois le neveu de notre fermier qui nous observe ; ce grand benêt-là, que fait-il ici ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>C'est lui-même. Ah ! Que je suis inquiète ! Il dira tout à ma mère. Adieu, Dorante, nous nous reverrons, je me sauve, retirez-vous aussi.</p>
+<stage>Elle sort. Dorante veut s'en aller.</stage>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, l'arrêtant.</speaker>
+<p>Non, Monsieur, arrêtez, il me vient une idée : il faut tâcher de le mettre dans nos intérêts, il ne me hait pas.</p>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker><p>Puisqu'il nous a vus, c'est le meilleur parti.</p>  
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Dorante, Lisette, Lubin.</head>
+<sp who="LISETTE">
+<speaker>LISETTE, à Dorante.</speaker>
+<p>Laissez-moi faire. Ah ! Te voilà, Lubin ? À quoi t'amuses-tu là ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Moi ? D'abord je faisais une promenade, à présent je regarde.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et que regardes-tu ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Des oisiaux, deux qui restont, et un qui viant de prenre sa volée, et qui est le plus joli de tous. </p>
+<stage>Regardant Dorante.</stage>
+<p xml:lang="fra-dia">En velà un qui est bian joli itou, et jarnigué ! Ils profiteront bian avec vous, car vous les sifflez comme un charme, Mademoiselle Lisette.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>C'est-à-dire que tu nous as vu, Angélique et moi, parler à Monsieur ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Oh ! Oui, j'ons tout vu à mon aise, j'ons mêmement entendu leur petit ramage.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>C'est le hasard qui nous a fait rencontrer Monsieur, et voilà la première fois que nous le voyons.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Morgué ! qu'alle a bonne meine cette première fois-là, alle ressemble à la vingtième !</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>On ne saurait se dispenser de saluer une dame quand on la rencontre, je pense.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, riant.</speaker>
+<p xml:lang="fra-dia">Ah ! Ah ! Ah ! Vous tirez donc voute révérence en paroles, vous convarsez depuis un quart_d_heure, appelez-vous ça un coup de chapiau ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Venons au fait, serais-tu d'humeur d'entrer dans nos intérêts ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Peut-être qu'oui, peut-être que non, ce sera suivant les magnières du monde ; il gnia que ça qui règle, car j'aime les magnières, moi.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh bien ! Lubin, je te prie instamment de nous servir.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE, lui donne de l'argent.</speaker>
+<p>Et moi, je te paye pour cela.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Je vous baille donc la parfarence ; redites voute chance, alle sera pu bonne ce coup-ci que l'autre, d'abord c'est une rencontre, n'est-ce pas ? Ça se pratique, il n'y a pas de malhonnêteté à rencontrer les parsonnes.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et puis on se salue.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Et pis queuque bredouille au bout de la révérence, c'est itou ma coutume ; toujours je bredouille en saluant, et quand ça se passe avec des femmes, faut bian qu'alles répondent deux paroles pour une ; les hommes parlent, les femmes babillent, allez voute chemin ; velà qui est fort bon, fort raisonnable et fort civil. Oh çà ! La rencontre, la salutation, la demande, et la réponse, tout ça est payé ! Il n'y a pus qu'à nous accommoder pour le courant.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Voilà pour le courant.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Courez donc tant que vous pourrez, ce que vous attraperez, c'est pour vous ; je n'y prétends rin, pourvu que j'attrape itou. Sarviteur, il n'y a, morgué ! parsonne de si agriable à rencontrer que vous.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Tu seras donc de nos amis à présent.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Tatigué ! Oui, ne m'épargnez pas, toute mon amiquié est à voute sarvice au même prix.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Puisque nous pouvons compter sur toi, veux-tu bien actuellement faire le guet pour nous avertir, en cas que quelqu'un vienne, et surtout Madame ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Que vos parsonnes se tiennent en paix, je vous garantis des passants une lieue à la ronde.</p>
+<stage>Il sort.</stage>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Dorante, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Puisque nous voici seuls un moment, parlons encore de votre amour, Monsieur. Vous m'avez fait de grandes promesses en cas que les choses réussissent ; mais comment réussiront-elles ? Angélique est une héritière, et je sais les intentions de la mère, quelque tendresse qu'elle ait pour sa fille, qui vous aime, ce ne sera pas à vous à qui elle la donnera, c'est de quoi vous devez être bien convaincu ; or, cela supposé, que vous passe-t-il dans l'esprit là-dessus ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Rien encore, Lisette. Je n'ai jusqu'ici songé qu'au plaisir d'aimer Angélique.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Mais ne pourriez-vous pas en même temps songer à faire durer ce plaisir ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>C'est bien mon dessein ; mais comment s'y prendre ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je vous le demande.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>J'y rêverai, Lisette.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ah ! vous y rêverez ! Il n'y a qu'un petit inconvénient à craindre, c'est qu'on ne marie votre maîtresse pendant que vous rêverez à la conserver.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Que me dis-tu, Lisette ? J'en mourrais de douleur.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je vous tiens donc pour mort.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE, vivement.</speaker>
+<p>Est-ce qu'on la veut marier ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>La partie est toute liée avec la mère, il y a déjà un époux d'arrêté, je le sais de bonne part.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Eh ! Lisette, tu me désespères, il faut absolument éviter ce malheur-là.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ah ! ce ne sera pas en disant j'aime, et toujours j'aime... N'imaginez-vous rien ?</p>
+</sp>
+<sp who="DORANTE"><speaker>DORANTE.</speaker><p>Tu m'accables.</p>  
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Lubin, Lisette, Dorante.</head>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, accourant.</speaker>
+<p xml:lang="fra-dia">Gagnez pays, mes bons amis, sauvez-vous, velà l'ennemi qui s'avance.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Quel ennemi ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Morgué ! Le plus méchant, c'est la mère d'Angélique.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à Dorante.</speaker>
+<p>Eh ! Vite, cachez-vous dans le bois, je me retire.</p>
+<stage>Elle sort.</stage>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Et moi je ferai semblant d'être sans malice.</p>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Lubin, Madame Argante.</head>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ah ! C'est toi, Lubin, tu es tout seul ? Il me semblait avoir entendu du monde.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Non, noute maîtresse ; ce n'est que moi qui me parle et qui me repart, à celle fin de me tenir compagnie, ça amuse.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ne me trompes-tu point ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Pargué ! Je serais donc un fripon ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je te crois, et je suis bien aise de te trouver, car je te cherchais ; j'ai une commission à te donner, que je ne veux confier à aucun de mes gens ; c'est d'observer Angélique dans ses promenades, et de me rendre compte de ce qui s'y passe ; je remarque que depuis quelque temps elle sort souvent à la même heure avec Lisette, et j'en voudrais savoir la raison.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Ça est fort raisonnable. Vous me baillez donc une charge d'espion ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>À peu près.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Je savons bian ce que c'est ; j'ons la pareille.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Toi ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Oui, ça est fort lucratif ; mais c'est qu'ou venez un peu tard, noute maîtresse, car je sis retenu pour vous espionner vous-même.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, à part.</speaker>
+<p>Qu'entends-je ? Moi, Lubin ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Vraiment oui. Quand Mademoiselle Angélique parle en cachette à son amoureux, c'est moi qui regarde si vous ne venez pas.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ceci est sérieux ; mais vous êtes bien hardi, Lubin, de vous charger d'une pareille commission.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Pardi, y a-t-il du mal à dire à cette jeunesse : Velà Madame qui viant, la velà qui ne viant pas ? Ça empêche-t-il que vous ne veniez, ou non ? Je n'y entends pas de finesse.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je te pardonne, puisque tu n'as pas cru mal faire, à condition que tu m'instruiras de tout ce que tu verras et de tout ce que tu entendras.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Faura donc que j'acoute et que je regarde ? Ce sera moiquié plus de besogne avec vous qu'avec eux.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je consens même que tu les avertisses quand j'arriverai, pourvu que tu me rapportes tout fidèlement, et il ne te sera pas difficile de le faire, puisque tu ne t'éloignes pas beaucoup d'eux.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Eh ! sans doute, je serai tout porté pour les nouvelles, ça me sera commode, aussitôt pris, aussitôt rendu.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je te défends surtout de les informer de l'emploi que je te donne, comme tu m'as informé de celui qu'ils t'ont donné ; garde-moi le secret.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Drès qu'ou voulez qu'an le garde, an le gardera ; s'ils me l'aviont commandé, j'aurions fait de même, ils n'aviont qu'à dire.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>N'y manque pas à mon égard, et puisqu'ils ne se soucient point que tu gardes le leur, achève de m'instruire, tu n'y perdras pas.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Premièrement, au lieu de pardre avec eux, j'y gagne.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>C'est-à-dire qu'ils te payent ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Tout juste.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je te promets de faire comme eux, quand je serai rentrée chez moi.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Ce que j'en dis n'est pas pour porter exemple, mais ce qu'ou ferez sera toujours bian fait.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ma fille a donc un amant ? Quel est-il ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Un biau jeune homme fait comme une marveille, qui est libéral, qui a un air, une présentation, une philosomie ! Dame ! C'est ma meine à moi, ce sera la vôtre itou ; il n'y a pas de garçon pu gracieux à contempler, et qui fait l'amour avec des paroles si douces ! C'est un plaisir que de l'entendre débiter sa petite marchandise ! Il ne dit pas un mot qu'il n'adore.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Et ma fille, que lui répond-elle ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Voute fille ? Mais je pense que bientôt ils s'adoreront tous deux.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>N'as-tu rien retenu de leurs discours ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Non, qu'une petite miette. Je n'ai pas de moyen, ce li fait-il. Et moi, j'en ai trop, ce li fait-elle. Mais, li dit-il, j'ai le coeur si tendre ! Mais, li dit-elle, qu'est-ce que ma mère s'en souciera ? Et pis là-dessus ils se lamentont sur le plus, sur le moins, sur la pauvreté de l'un, sur la richesse de l'autre, ça fait des regrets bian touchants.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Quel est ce jeune homme ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Attendez, il m'est avis que c'est Dorante, et comme c'est un voisin, on peut l'appeler le voisin Dorante.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Dorante ! ce nom-là ne m'est pas inconnu, comment se sont-ils vus ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Ils se sont vus en se rencontrant ; mais ils ne se rencontrent pus, ils se treuvent.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Et Lisette, est-elle de la partie ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Morgué ! oui, c'est leur capitaine, alle a le gouvarnement des rencontres, c'est un trésor pour des amoureux que cette fille-là.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Voici, ce me semble, ma fille, qui feint de se promener et qui vient à nous ; retire-toi, Lubin, continue d'observer et de m'instruire avec fidélité, je te récompenserai.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Oh ! Que oui, Madame, ce sera au logis, il n'y a pas loin.</p>
+<stage>Il sort.</stage>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Madame Argante, Angélique.</head>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je vous demandais à Lubin, ma fille.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Avez-vous à me parler, Madame ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Oui ; vous connaissez Ergaste, Angélique, vous l'avez vu souvent à Paris, il vous demande en mariage.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Lui, ma mère, Ergaste, cet homme si sombre si sérieux, il n'est pas fait pour être un mari, ce me semble.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Il n'y a rien à redire à sa figure.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Pour sa figure, je la lui passe, c'est à quoi je ne regarde guère.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Il est froid.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Dites glacé, taciturne, mélancolique, rêveur et triste.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Vous le verrez bientôt, il doit venir ici, et s'il ne vous accommode pas, vous ne l'épouserez pas malgré vous, ma chère enfant, vous savez bien comme nous vivons ensemble.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ah ! Ma mère, je ne crains point de violence de votre part, ce n'est pas là ce qui m'inquiète.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Es-tu bien persuadée que je t'aime ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il n'y a point de jour qui ne m'en donne des preuves.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Et toi, ma fille, m'aimes-tu autant ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je me flatte que vous n'en doutez pas, assurément.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Non, mais pour m'en rendre encore plus sûre, il faut que tu m'accordes une grâce.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Une grâce, ma mère ! Voilà un mot qui ne me convient point, ordonnez, et je vous obéirai.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Oh ! Si tu le prends sur ce ton-là, tu ne m'aimes pas tant que je croyais. Je n'ai point d'ordre à vous donner, ma fille ; je suis votre amie, et vous êtes la mienne, et si vous me traitez autrement, je n'ai plus rien à vous dire.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Allons, ma mère, je me rends, vous me charmez, j'en pleure de tendresse, voyons, quelle est cette grâce que vous me demandez ? Je vous l'accorde d'avance.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Viens donc que je t'embrasse : te voici dans un âge raisonnable, mais où tu auras besoin de mes conseils et de mon expérience ; te rappelles-tu l'entretien que nous eûmes l'autre jour ; et cette douceur que nous nous figurions toutes deux à vivre ensemble dans la plus intime confiance, sans avoir de secrets l'une pour l'autre ; t'en souviens-tu ? Nous fûmes interrompues, mais cette idée-là te réjouit beaucoup, exécutons-la, parle-moi à coeur ouvert ; fais-moi ta confidente.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous, la confidente de votre fille ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Oh ! Votre fille ; et qui te parle d'elle ? Ce n'est point ta mère qui veut être ta confidente, c'est ton amie, encore une fois.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, riant.</speaker>
+<p>D'accord, mais mon amie redira tout à ma mère, l'un est inséparable de l'autre.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Eh bien ! Je les sépare, moi, je t'en fais serment ; oui, mets-toi dans l'esprit que ce que tu me confieras sur ce pied-là, c'est comme si ta mère ne l'entendait pas ; eh ! mais cela se doit, il y aurait même de la mauvaise foi à faire autrement.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il est difficile d'espérer ce que vous dites là.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ah ! Que tu m'affliges ; je ne mérite pas ta résistance.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Eh bien ! Soit, vous l'exigez de trop bonne grâce, j'y consens, je vous dirai tout.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Si tu veux, ne m'appelle pas ta mère, donne-moi un autre nom.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oh ! Ce n'est pas la peine, ce nom-là m'est cher, quand je le changerais, il n'en serait ni plus ni moins, ce ne serait qu'une finesse inutile, laissez-le-moi, il ne m'effraye plus.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Comme tu voudras, ma chère Angélique. Ah çà ! Je suis donc ta confidente, n'as-tu rien à me confier dès à présent ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, que je sache, mais ce sera pour l'avenir.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Comment va ton coeur ? Personne ne l'a-t-il attaqué jusqu'ici ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Pas encore.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Hum ! Tu ne te fies pas à moi, j'ai peur que ce ne soit encore à ta mère à qui tu réponds.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>C'est que vous commencez par une furieuse question.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>La question convient à ton âge.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ah !</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu soupires ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il est vrai.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Que t'est-il arrivé ? Je t'offre de la consolation et des conseils, parle.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous ne me le pardonnerez pas.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu rêves encore, avec tes pardons, tu me prends pour ta mère.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il est assez permis de s'y tromper, mais c'est du moins pour la plus digne de l'être, pour la plus tendre et la plus chérie de sa fille qu'il y ait au monde.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ces sentiments-là sont dignes de toi, et je les dirai ; mais il ne s'agit pas d'elle, elle est absente : revenons, qu'est-ce qui te chagrine ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous m'avez demandé si on avait attaqué mon coeur ? Que trop, puisque j'aime !</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, d'un air sérieux.</speaker>
+<p>Vous aimez ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, riant.</speaker>
+<p>Eh bien ! Ne voilà-t-il pas cette mère qui est absente ? C'est pourtant elle qui me répond ; mais rassurez-vous, car je badine.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Non, tu ne badines point, tu me dis la vérité, et il n'y a rien là qui me surprenne ; de mon côté, je n'ai répondu sérieusement que parce que tu me parlais de même ; ainsi point d'inquiétude, tu me confies donc que tu aimes.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je suis presque tentée de m'en dédire.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ah ! Ma chère Angélique, tu ne me rends pas tendresse pour tendresse.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous m'excuserez, c'est l'air que vous avez pris qui m'a alarmée ; mais je n'ai plus peur ; oui, j'aime, c'est un penchant qui m'a surpris.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu n'es pas la première, cela peut arriver à tout le monde : et quel homme est-ce ? Est-il à Paris ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, je ne le connais que d'ici ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, riant.</speaker>
+<p>D'ici, ma chère ? Conte-moi donc cette histoire-là, je la trouve plus plaisante que sérieuse, ce ne peut être qu'une aventure de campagne, une rencontre ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Justement.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Quelque jeune homme galant, qui t'a salué, et qui a su adroitement engager une conversation ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>C'est cela même.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Sa hardiesse m'étonne, car tu es d'une figure qui devait lui en imposer : ne trouves-tu pas qu'il a un peu manqué de respect ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, le hasard a tout fait, et c'est Lisette qui en est cause, quoique fort innocemment ; elle tenait un livre, elle le laissa tomber, il le ramassa, et on se parla, cela est tout naturel.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, riant.</speaker>
+<p>Va, ma chère enfant, tu es folle de t'imaginer que tu aimes cet homme-là, c'est Lisette qui te le fait accroire, tu es si fort au-dessus de pareille chose ! Tu en riras toi-même au premier jour.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, je n'en crois rien, je ne m'y attends pas, en vérité.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Bagatelle, te dis-je, c'est qu'il y a là dedans un air de roman qui te gagne.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Moi, je n'en lis jamais, et puis notre aventure est toute des plus simples.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu verras ; te dis-je ; tu es raisonnable, et c'est assez ; mais l'as-tu vu souvent ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Dix ou douze fois.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Le verras-tu encore ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Franchement, j'aurais bien de la peine à m'en empêcher.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je t'offre, si tu le veux, de reprendre ma qualité de mère pour te le défendre.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non vraiment, ne reprenez rien, je vous prie, ceci doit être un secret pour vous en cette qualité-là, et je compte que vous ne savez rien, au moins, vous me l'avez promis.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Oh ! Je te tiendrai parole, mais puisque cela est si sérieux, peu s'en faut que je ne verse des larmes sur le danger où je te vois, de perdre l'estime qu'on a pour toi dans le monde.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Comment donc ? L'estime qu'on a pour moi ! Vous me faites trembler. Est-ce que vous me croyez capable de manquer de sagesse ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Hélas ! Ma fille, vois ce que tu as fait, te serais-tu crue capable de tromper ta mère, de voir à son insu un jeune étourdi, de courir les risques de son indiscrétion et de sa vanité, de t'exposer à tout ce qu'il voudra dire, et de te livrer à l'indécence de tant d'entrevues secrètes, ménagées par une misérable suivante sans coeur, qui ne s'embarrasse guère des conséquences, pourvu qu'elle y trouve son intérêt, comme elle l'y trouve sans doute ? Qui t'aurait dit, il y a un mois, que tu t'égarerais jusque-là, l'aurais-tu cru ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, triste.</speaker>
+<p>Je pourrais bien avoir tort, voilà des réflexions que je n'ai jamais faites.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Eh ! Ma chère enfant, qui est-ce qui te les ferait faire ? Ce n'est pas un domestique payé pour te trahir, non plus qu'un amant qui met tout son bonheur à te séduire ; tu ne consultes que tes ennemis ; ton coeur même est de leur parti, tu n'as pour tout secours que ta vertu qui ne doit pas être contente, et qu'une véritable amie comme moi, dont tu te défies : que ne risques-tu pas ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ah ! Ma chère mère, ma chère amie, vous avez raison, vous m'ouvrez les yeux, vous me couvrez de confusion ; Lisette m'a trahie, et je romps avec le jeune homme ; que je vous suis obligée de vos conseils !</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, à Madame Argante.</speaker>
+<p xml:lang="fra-dia">Madame, il vient d'arriver un homme qui demande à vous parler.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, à Angélique.</speaker>
+<p>En qualité de simple confidente, je te laisse libre ; je te conseille pourtant de me suivre, car le jeune homme est peut-être ici.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Permettez-moi de rêver un instant, et ne vous embarrassez point ; s'il y est, et qu'il ose paraître, je le congédierai, je vous assure.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Soit, mais songe à ce que je t'ai dit.</p>
+<stage>Elle sort.</stage>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. Angélique, un moment seule, Lubin survient.</head>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Voilà qui est fait, je ne le verrai plus. </p>
+<stage>Lubin, sans s'arrêter, lui remet une lettre dans la main.</stage>
+<p>Arrêtez, de qui est-elle ? </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, en s'en allant, de loin.</speaker>
+<note>Poulet : petit billet amoureux qu'on envoie aux dames galantes, ainsi nommé parce qu'en la pliant on y faisait deux pointes qui représentaient les ailes d'un poulet. [F]</note>
+<p xml:lang="fra-dia">De ce cher poulet. C'est voute galant qui vous la mande. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE la rejette loin.</speaker>
+<p>Je n'ai point de galant, rapportez-la.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Elle est faite pour rester.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Reprenez-la, encore une fois, et retirez-vous.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Eh morgué ! Queu fantaisie ! Je vous dis qu'il faut qu'alle demeure, à celle fin que vous la lisiais, ça m'est enjoint, et à vous aussi ; il y a dedans un entretien pour tantôt, à l'heure qui vous fera plaisir, et je sis enchargé d'apporter l'heure à Lisette, et non pas la lettre. Ramassez-la, car je n'ose, de peur qu'en ne me voie, et pis vous me crierez la réponse tout bas.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ramasse-la toi-même, et va-t'en, je te l'ordonne.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Mais voyez ce rat qui lui prend ! Non, morgué ! Je ne la ramasserai pas, il ne sera pas dit que j'aie fait ma commission tout de travars. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, s'en allant.</speaker>
+<p>Cet impertinent ! </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, la regarde s'en aller.</speaker>
+<p xml:lang="fra-dia">Faut qu'alle ai de l'avarsion pour l'écriture. </p>
+</sp>
+</div>
+</div>
+<div n="2" type="act">
+<head>ACTE II</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Dorante, Lubin.</head>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN entre le premier et dit.</speaker>
+<p xml:lang="fra-dia">Parsonne ne viant. </p>
+<stage>Dorante entre.</stage>
+<p xml:lang="fra-dia">Eh palsangué ! Arrivez donc, il y a pu d'une heure que je sis à l'affût de vous.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Eh bien ! Qu'as-tu à me dire ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Que vous ne bougiais d'ici, Lisette m'a dit de vous le commander.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>T'a-t-elle dit l'heure qu'Angélique a prise pour notre rendez-vous ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Non, alle vous contera ça.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Est-ce là tout ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">C'est tout par rapport à vous, mais il y a un restant par rapport à moi.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>De quoi est-il question ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">C'est que je me repens...</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Qu'appelles-tu te repentir ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">J'entends qu'il y a des scrupules qui me tourmentont sur vos rendez-vous que je protège, j'ons queuquefois la tentation de vous torner casaque sur tout ceci, et d'aller nous accuser tretous.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Tu rêves, et où est le mal de ces rendez-vous ? Que crains-tu ? Ne suis-je pas honnête homme ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Morgué ! Moi itou, et tellement honnête, qu'il n'y aura pas moyen d'être un fripon, si on ne me soutient le coeur, par rapport à ce que j'ons toujours maille à partie avec ma conscience ; il y a toujours queuque chose qui cloche dans mon courage ; à chaque pas que je fais, j'ai le défaut de m'arrêter, à moins qu'on ne me pousse, et c'est à vous à pousser. </p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE, tirant une bague qu'il lui donne.</speaker>
+<p>Eh ! Morbleu ! Prends encore cela, et continue.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Ça me ravigote.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Dis-moi, Angélique viendra-t-elle bientôt ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Peut-être biantôt, peut-être bian tard, peut-être point du tout.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Point du tout, qu'est-ce que tu veux dire ? Comment a-t-elle reçu ma lettre ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Ah ! Comment ? Est-ce que vous me faites itou voute rapporteux auprès d'elle ? Pargué ! je serons donc l'espion à tout le monde ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Toi ? Eh ! De qui l'es-tu encore ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Eh ! Pardi ! De la mère, qui m'a bian enchargé de n'en rian dire.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Misérable ! Tu parles donc contre nous ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Contre vous, Monsieur ? Pas le mot, ni pour ni contre, je fais ma main, et velà tout, faut pas mêmement que vous sachiez ça.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Explique-toi donc ; c'est-à-dire que ce que tu en fais, n'est que pour obtenir quelque argent d'elle sans nous nuire ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Velà cen que c'est, je tire d'ici, je tire d'ilà, et j'attrape.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Achève, que t'a dit Angélique quand tu lui as porté ma lettre ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Parlez-li toujours, mais ne li écrivez pas, voute griffonnage n'a pas fait forteune.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quoi ! Ma lettre l'a fâchée ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Alle n'en a jamais voulu tâter, le papier la courrouce.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Elle te l'a donc rendue ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Alle me l'a rendue à tarre, car je l'ons ramassée ; et Lisette la tient.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je n'y comprends rien, d'où cela peut-il provenir ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Velà Lisette, intarrogez-la, je retorne à ma place pour vous garder. </p>
+<stage>Il sort. </stage>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Lisette, Dorante.</head>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Que viens-je d'apprendre, Lisette ? Angélique a rebuté ma lettre !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, la voici, Lubin me l'a rendue, j'ignore quelle fantaisie lui a pris, mais il est vrai qu'elle est de fort mauvaise humeur, je n'ai pu m'expliquer avec elle à cause du monde qu'il y avait au logis, mais elle est triste, elle m'a battu froid, et je l'ai trouvée toute changée ; je viens pourtant de l'apercevoir là-bas, et j'arrive pour vous en avertir ; attendons-la, sa rêverie pourrait bien tout doucement la conduire ici.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Non, Lisette, ma vue ne ferait que l'irriter peut-être ; il faut respecter ses dégoûts pour moi, je ne les soutiendrais pas, et je me retire.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Que les amants sont quelquefois risibles ! Qu'ils disent de fadeurs ! Tenez, fuyez-la, Monsieur, car elle arrive, fuyez-la, pour la respecter. </p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Angélique, Dorante, Lisette.</head>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Quoi ! Monsieur est ici ! Je ne m'attendais pas à l'y trouver.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>J'allais me retirer, Madame, Lisette vous le dira : je n'avais garde de me montrer ; le mépris que vous avez fait de ma lettre m'apprend combien je vous suis odieux.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Odieux ! Ah ! j'en suis quitte à moins ; pour indifférent, passe, et très indifférent ; quant à votre lettre, je l'ai reçue comme elle le méritait, et je ne croyais pas qu'on eût droit d'écrire aux gens qu'on a vus par hasard ; j'ai trouvé cela fort singulier, surtout avec une personne de mon sexe : m'écrire, à moi, Monsieur, d'où vous est venue cette idée, je n'ai pas donné lieu à votre hardiesse, ce me semble, de quoi s'agit-il entre vous et moi ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>De rien pour vous, Madame, mais de tout pour un malheureux que vous accablez.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Voilà des expressions aussi déplacées qu'inutiles, et je vous avertis que je ne les écoute point.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Eh ! De grâce, Madame, n'ajoutez point la raillerie aux discours cruels que vous me tenez, méprisez ma douleur, mais ne vous en moquez pas, je ne vous exagère point ce que je souffre.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous m'empêchez de parler à Lisette, Monsieur, ne m'interrompez point.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Peut-on, sans être trop curieuse, vous demander à qui vous en avez ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>A vous, et je ne suis venue ici que parce que je vous cherchais, voilà ce qui m'amène.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Voulez-vous que je me retire, Madame ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Comme vous voudrez, Monsieur.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ciel !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Attendez pourtant ; puisque vous êtes là, je serai bien aise que vous sachiez ce que j'ai à vous dire : vous m'avez écrit, vous avez lié conversation avec moi, vous pourriez vous en vanter, cela n'arrive que trop souvent, et je serais charmée que vous appreniez ce que j'en pense.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Me vanter, moi, Madame, de quel affreux caractère me faites-vous là ? Je ne réponds rien pour ma défense, je n'en ai pas la force ; si ma lettre vous a déplu, je vous en demande pardon, n'en présumez rien contre mon respect, celui que j'ai pour vous m'est plus cher que la vie, et je vous le prouverai en me condamnant à ne vous plus revoir, puisque je vous déplais.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je vous ai déjà dit que je m'en tenais à l'indifférence. Revenons à Lisette.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Voyons, puisque c'est mon tour pour être grondée ; je ne saurais me vanter de rien, moi, je ne vous ai écrit ni rencontré, quel est mon crime ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Dites-moi, il n'a pas tenu à vous que je n'eusse des dispositions favorables pour Monsieur, c'est par vos soins qu'il a eu avec moi toutes les entrevues où vous m'avez amenée sans me le dire, car c'est sans me le dire, en avez-vous senti les conséquences ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non, je n'ai pas eu cet esprit-là.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Si Monsieur, comme je l'ai déjà dit, et à l'exemple de presque tous les jeunes gens, était homme à faire trophée d'une aventure dont je suis tout à fait innocente, où en serais-je ? </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à Dorante.</speaker>
+<p>Remerciez, Monsieur.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je ne saurais parler.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Si, de votre côté, vous êtes de ces filles intéressées qui ne se soucient pas de faire tort à leurs maîtresses pourvu qu'elles y trouvent leur avantage, que ne risquerais-je pas ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oh ! Je répondrai, moi, je n'ai pas perdu la parole : si Monsieur est un homme d'honneur à qui vous faites injure, si je suis une fille généreuse, qui ne gagne à tout cela que le joli compliment dont vous m'honorez, où en est avec moi votre reconnaissance, hem ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>D'où vient donc que vous avez si bien servi Dorante, quel peut avoir été le motif d'un zèle si vif, quels moyens a-t-il employés pour vous faire agir ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je crois vous entendre : vous gageriez, j'en suis sûre, que j'ai été séduite par des présents ? Gagez, Madame, faites-moi cette galanterie-là, vous perdrez, et ce sera une manière de donner tout à fait noble.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Des présents, Madame ! Que pourrais-je lui donner qui fût digne de ce que je lui dois ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Attendez, Monsieur, disons pourtant la vérité. Dans vos transports, vous m'avez promis d'être extrêmement reconnaissant, si jamais vous aviez le bonheur d'être à Madame, il faut convenir de cela.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Eh ! Je serais la première à vous donner moi-même.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Que je suis à plaindre d'avoir livré mon coeur à tant d'amour !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>J'entre dans votre douleur, Monsieur, mais faites comme moi, je n'avais que de bonnes intentions : j'aime ma maîtresse, tout injuste qu'elle est, je voulais unir son sort à celui d'un homme qui lui aurait rendu la vie heureuse et tranquille, mes motifs lui sont suspects, et j'y renonce ; imitez-moi, privez-vous de votre côté du plaisir de voir Angélique, sacrifiez votre amour à ses inquiétudes, vous êtes capable de cet effort-là.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Soit. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à Dorante, à part.</speaker>
+<p>Retirez-vous pour un moment.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Adieu, Madame ; je vous quitte, puisque vous le voulez ; dans l'état où vous me jetez, la vie m'est à charge, je pars pénétré d'une affliction mortelle, et je n'y résisterai point, jamais on n'eut tant d'amour, tant de respect que j'en ai pour vous, jamais on n'osa espérer moins de retour ; ce n'est pas votre indifférence qui m'accable, elle me rend justice, j'en aurais soupiré toute ma vie sans m'en plaindre, et ce n'était point à moi, ce n'est peut-être à personne à prétendre à votre coeur ; mais je pouvais espérer votre estime, je me croyais à l'abri du mépris, et ni ma passion ni mon caractère n'ont mérité les outrages que vous leur faites. </p>
+<stage>Il sort. </stage>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Angélique, Lisette, Lubin survient.</head>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il est parti ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, Madame. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, un moment sans parler, et à part.</speaker>
+<p>J'ai été trop vite, ma mère, avec toute son expérience, en a mal jugé ; Dorante est un honnête homme. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à part.</speaker>
+<p>Elle rêve, elle est triste : cette querelle-ci ne nous fera point de tort. </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, à Angélique.</speaker>
+<p xml:lang="fra-dia">J'aperçois par là-bas un passant qui viant envars nous, voulez-vous qu'il vous regarde ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Eh ! Que m'importe ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Qu'il passe, qu'est-ce que cela nous fait ? </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, à part.</speaker>
+<p xml:lang="fra-dia">Il y a du brit dans le ménage, je m'en retorne donc, je vas me mettre pus près par rapport à ce que je m'ennuie d'être si loin, j'aime à voir le monde, vous me sarvirez de récriation, n'est-ce pas ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Comme tu voudras, reste à dix pas.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Je les compterai en conscience. </p>
+<stage>À part.</stage>
+<p xml:lang="fra-dia">Je sis pus fin qu'eux, j'allons faire ma forniture de nouvelles pour la bonne mère. </p>
+<stage>Il s'éloigne. </stage>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Angélique, Lisette, Lubin, éloigné.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous avez furieusement maltraité Dorante !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, vous avez raison, j'en suis fâchée, mais laissez-moi, car je suis outrée contre vous.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous savez si je le mérite.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>C'est vous qui êtes cause que je me suis accoutumée à le voir.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Je n'avais pas dessein de vous rendre un mauvais service, et cette aventure-ci n'est triste que pour lui ; avez-vous pris garde à l'état où il est ? C'est un homme au désespoir.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je n'y saurais que faire, pourquoi s'en va-t-il ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Cela est aisé à dire à qui ne se soucie pas de lui, mais vous savez avec quelle tendresse il vous aime.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Et vous prétendez que je ne m'en soucie pas, moi ? Que vous êtes méchante !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Que voulez-vous que j'en croie ? Je vous vois tranquille, et il versait des larmes en s'en allant.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Comme alle l'enjole !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Lui ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh ! Sans doute !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Et malgré cela, il part !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh ! vous l'avez congédié. Quelle perte vous faites ! </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, après avoir rêvé.</speaker>
+<p>Qu'il revienne donc, s'il y est encore, qu'on lui parle, puisqu'il est si affligé.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Il ne peut être qu'à l'écart dans ce bois il n'a pu aller loin, accablé comme il l'était. Monsieur Dorante, Monsieur Dorante ! </p>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Dorante, Angélique, Lisette, Lubin, éloigné.</head>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Est-ce Angélique qui m'appelle ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Oui, c'est moi qui parle, mais c'est elle qui vous demande.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Voilà de ces faiblesses que je voudrais bien qu'on m'épargnât.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>A quoi dois-je m'attendre, Angélique ? Que souhaitez-vous d'un homme dont vous ne pouvez plus supporter la vue ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il y a une grande apparence que vous vous trompez.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Hélas ! Vous ne m'estimez plus.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Plaignez-vous, je vous laisse dire, car je suis un peu dans mon tort.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Angélique a pu douter de mon amour !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Elle en a douté pour en être plus sûre, cela est-il si désobligeant ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quoi ! J'aurais le bonheur de n'être point haï ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>J'ai bien peur que ce ne soit tout le contraire.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vous me rendez la vie.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Où est cette lettre que j'ai refusé de recevoir ? S'il ne tient qu'à la lire, on le veut bien.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>J'aime mieux vous entendre.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous n'y perdez pas.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ne vous défiez donc jamais d'un coeur qui vous adore.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, Dorante, je vous le promets, voilà qui est fini ; excusez tous deux l'embarras où se trouve une fille de mon âge, timide et vertueuse ; il y a tant de pièges dans la vie ! J'ai si peu d'expérience ! Serait-il difficile de me tromper si on voulait ? Je n'ai que ma sagesse et mon innocence pour toute ressource, et quand on n'a que cela, on peut avoir peur ; mais me voilà bien rassurée. Il ne me reste plus qu'un chagrin : Que deviendra cet amour ? Je n'y vois que des sujets d'affliction ! Savez-vous bien que ma mère me propose un époux que je verrai peut-être dans un quart_d_heure ? Je ne vous disais pas tout ce qui m'agitait, il m'était bien permis d'être fâcheuse, comme vous voyez.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Angélique, vous êtes toute mon espérance.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Mais si vous avouiez votre amour à cette mère qui vous aime tant, serait-elle inexorable ? Il n'y a qu'à supposer que vous avez connu Monsieur à Paris, et qu'il y est.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Cela ne mènerait à rien, Lisette, à rien du tout, je sais bien ce que je dis.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vous consentirez donc d'être à un autre ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous me faites trembler.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je m'égare à la seule idée de vous perdre, et il n'est point d'extrémité pardonnable que je ne sois tenté de vous proposer.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>D'extrémité pardonnable !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>J'entrevois ce qu'il veut dire.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Quoi ! Me jeter à ses genoux ? C'est bien mon dessein de lui résister, j'aurai bien de la peine, surtout avec une mère aussi tendre.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Bon ! Tendre, si elle l'était tant, vous gênerait-elle là-dessus ? Avec le bien que vous avez, vous n'avez besoin que d'un honnête homme, encore une fois.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Tu as raison, c'est une tendresse fort mal entendue, j'en conviens.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ah ! Belle Angélique, si vous avez tout l'amour que j'ai, vous auriez bientôt pris votre parti, ne me demandez point ce que je pense, je me trouble, je ne sais où je suis. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, à Lisette.</speaker>
+<p>Que de peines ! Tâche donc de lui remettre l'esprit ; que veut-il dire ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh bien ! Monsieur, parlez, quelle est votre idée ? </p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE, se jetant à ses genoux.</speaker>
+<p>Angélique, voulez-vous que je meure ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, levez-vous et parlez, je vous l'ordonne.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>J'obéis ; votre mère sera inflexible, et dans le cas où nous sommes...</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Que faire ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Si j'avais des trésors à vous offrir, je vous le dirais plus hardiment.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Votre coeur en est un, achevez, je le veux.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>À notre place, on se fait son sort à soi-même.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Et comment ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>On s'échappe... </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, de loin.</speaker>
+<p xml:lang="fra-dia">Au voleur !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Après ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Une mère s'emporte, à la fin elle consent, on se réconcilie avec elle, et on se trouve uni avec ce qu'on aime.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Mais ou j'entends mal, ou cela ressemble à un enlèvement ; en est-ce un, Dorante ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je n'ai plus rien à dire. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, le regardant.</speaker>
+<p>Je vous ai forcé de parler, et je n'ai que ce que je mérite ;</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Pardonnez quelque chose au trouble où il est : le moyen est dur, et il est fâcheux qu'il n'y en ait point d'autre.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Est-ce là un moyen, est-ce un remède qu'une extravagance ! Ah ! Je ne vous reconnais pas à cela, Dorante, je me passerai mieux de bonheur que de vertus, me proposer d'être insensée, d'être méprisable ? Je ne vous aime plus.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vous ne m'aimez plus ! Ce mot m'accable, il m'arrache le coeur.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>En vérité, son état me touche.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Adieu, belle Angélique, je ne survivrai pas à la menace que vous m'avez faite.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Mais, Dorante, êtes-vous raisonnable ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ce qu'il vous propose est hardi, mais ce n'est pas un crime.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Un enlèvement, Lisette !</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ma chère Angélique, je vous perds. Concevez-vous ce que c'est que vous perdre ? Et si vous m'aimez un peu, n'êtes-vous pas effrayée vous-même de l'idée de n'être jamais à moi ? Et parce que vous êtes vertueuse, en avez-vous moins de droit d'éviter un malheur ? Nous aurions le secours d'une dame qui n'est heureusement qu'à un quart de lieue d'ici, et chez qui je vous mènerais. </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, de loin.</speaker>
+<p xml:lang="fra-dia">Haye ! Haye !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, Dorante, laissons là votre dame, je parlerai à ma mère ; elle est bonne, je la toucherai peut-être, je la toucherai, je l'espère. Ah ! </p>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Lubin, Lisette, Angélique, Dorante.</head>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Et vite, et vite, qu'on s'éparpille ; velà ce grand monsieur que j'ons vu une fois à Paris, cheux vous, et qui ne parle point. </p>
+<stage>Il s'écarte.</stage>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>C'est peut-être celui à qui ma mère me destine, fuyez, Dorante, nous nous reverrons tantôt, ne vous inquiétez point. </p>
+<stage>Dorante sort. </stage>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Angélique, Lisette, Ergaste.</head>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, en le voyant.</speaker>
+<p>C'est lui-même. Ah ! Quel homme !</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Il n'a pas l'air éveillé. </p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE, marchant lentement.</speaker>
+<p>Je suis votre serviteur, Madame ; je devance Madame votre mère, qui est embarrassée, elle m'a dit que vous vous promeniez.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous le voyez, Monsieur.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Et je me suis hâté de venir vous faire la révérence. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à part.</speaker>
+<p>Appelle-t-il cela se hâter ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Ne suis-je pas importun ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, Monsieur. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à part.</speaker>
+<p>Ah ! Cela vous plaît à dire.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Vous êtes plus belle que jamais.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je ne l'ai jamais été.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Vous êtes bien modeste. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à part.</speaker>
+<p>Il parle comme il marche.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Ce pays-ci est fort beau.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il est passable. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à part.</speaker>
+<p>Quand il a dit un mot, il est si fatigué qu'il faut qu'il se repose.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Et solitaire.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>On n'y voit pas grand monde.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Quelque importun par-ci par-là.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Il y en a partout. </p>
+<stage>On est du temps sans parler. </stage>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à part.</speaker>
+<p>Voilà la conversation tombée, ce ne sera pas moi qui la relèverai.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Ah ! Bonjour, Lisette.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Bonsoir, Monsieur ; je vous dis bonsoir, parce que je m'endors, ne trouvez-vous pas qu'il fait un temps pesant ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Oui, ce me semble.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Vous vous en retournez sans doute ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Rien que demain. Madame Argante m'a retenu.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Et Monsieur se promène-t-il ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Je vais d'abord à ce château voisin, pour y porter une lettre qu'on m'a prié de rendre en main propre, et je reviens ensuite.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Faites, Monsieur, ne vous gênez pas.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Vous me le permettez donc ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, Monsieur.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ne vous pressez point, quand on a des commissions, il faut y mettre tout le temps nécessaire, n'avez-vous que celle-là ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Non, c'est l'unique.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Quoi ! Pas le moindre petit compliment à faire ailleurs ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Non.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Monsieur y soupera peut-être ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et à la campagne, on couche où l'on soupe.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Point du tout, je reviens incessamment, Madame. </p>
+<stage>À part, en s'en allant.</stage>
+<p>Je ne sais que dire aux femmes, même à celles qui me plaisent. </p>
+<stage>Il sort. </stage>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. Angélique, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ce garçon-là a de grands talents pour le silence ; quelle abstinence de paroles ! Il ne parlera bientôt plus que par signes.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il a dit que ma mère allait venir, et je m'éloigne : je ne saurais lui parler dans le désordre d'esprit où je suis ; j'ai pourtant dessein de l'attendrir sur le chapitre de Dorante.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Et moi, je ne vous conseille pas de lui en parler, vous ne ferez que la révolter davantage, et elle se hâterait de conclure.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oh ! Doucement ! Je me révolterais à mon tour. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, riant.</speaker>
+<p>Vous, contre cette mère qui dit qu'elle vous aime tant ? </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, s'en allant.</speaker>
+<p>Eh bien ! Qu'elle aime donc mieux, car je ne suis point contente d'elle.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Retirez-vous, je crois qu'elle vient. </p>
+<stage>Angélique sort.</stage>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X. Madame Argante, Lisette, qui veut s'en aller.</head>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, l'arrêtant.</speaker>
+<p>Voici cette fourbe de suivante. Un moment, où est ma fille ? J'ai cru la trouver ici avec Monsieur Ergaste.</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Ils y étaient tous deux tout à l'heure, Madame, mais Monsieur Ergaste est allé à cette maison d'ici près, remettre une lettre à quelqu'un, et Mademoiselle est là-bas, je pense.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Allez lui dire que je serais bien aise de la voir. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, les premiers mots à part.</speaker>
+<p>Elle me parle bien sèchement. J'y vais, Madame, mais vous me paraissez triste, j'ai eu peur que vous ne fussiez fâchée contre moi.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Contre vous ? Est-ce que vous le méritez, Lisette ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Non, Madame.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Il est vrai que j'ai l'air plus occupé qu'à l'ordinaire. Je veux marier ma fille à Ergaste, vous le savez, et je crains souvent qu'elle n'ait quelque chose dans le coeur ; mais vous me le diriez, n'est-il pas vrai ?</p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE.</speaker>
+<p>Eh mais ! Je le saurais.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je n'en doute pas ; allez, je connais votre fidélité, Lisette, je ne m'y trompe pas, et je compte bien vous en récompenser comme il faut ; dites à ma fille que je l'attends. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, à part.</speaker>
+<p>Elle prend bien son temps pour me louer ! </p>
+<stage>Elle sort.</stage>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Toute fourbe qu'elle est, je l'ai embarrassée. </p>
+</sp>
+</div>
+<div n="11" type="scene">
+<head>SCÈNE XI. Lubin, Madame Argante.</head>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ah ! Tu viens à propos. As-tu quelque chose à me dire ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Jarnigoi ! Si jons queuque chose ! J'avons vu des pardons, j'avons vu des offenses, des allées, des venues, et pis des moyens pour avoir un mari.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Hâte-toi de m'instruire, parce que j'attends Angélique. Que sais-tu ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Pisque vous êtes pressée, je mettrons tout en un tas.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Parle donc.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Je sais une accusation, je sais une innocence, et pis un autre grand stratagème, attendez, comment appelont-ils cela ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je ne t'entends pas mais va-t'en, Lubin, j'aperçois ma fille, tu me diras ce que c'est tantôt, il ne faut pas qu'elle nous voie ensemble.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Je m'en retorne donc à la provision. </p>
+<stage>Il sort. </stage>
+</sp>
+</div>
+<div n="12" type="scene">
+<head>SCÈNE XII. Madame Argante, Angélique.</head>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, à part.</speaker>
+<p>Voyons de quoi il sera question. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, les premiers mots à part.</speaker>
+<p>Plus de confidence, Lisette a raison, c'est le plus sûr. Lisette m'a dit que vous me demandiez, ma mère.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Oui, je sais que tu as vu Ergaste, ton éloignement pour lui dure-t-il toujours ? </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, souriant.</speaker>
+<p>Ergaste n'a pas changé.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Te souvient-il qu'avant que nous vinssions ici, tu m'en disais du bien ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je vous en dirai volontiers encore, car je l'estime, mais je ne l'aime point, et l'estime et l'indifférence vont fort bien ensemble.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Parlons d'autre chose, n'as-tu rien à dire à ta confidente ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, il n'y a plus rien de nouveau.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu n'as pas revu le jeune homme ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, je l'ai retrouvé, je lui ai dit ce qu'il fallait, et voilà qui est fini. </p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, souriant.</speaker>
+<p>Quoi ! Absolument fini ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, tout à fait.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu me charmes, je ne saurais t'exprimer la satisfaction que tu me donnes ; il n'y a rien de si estimable que toi, Angélique, ni rien aussi d'égal au plaisir que j'ai à te le dire, car je compte que tu me dis vrai, je me livre hardiment à ma joie, tu ne voudrais pas m'y abandonner, si elle était fausse : ce serait une cruauté dont tu n'es pas capable. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, d'un ton timide.</speaker>
+<p>Assurément</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Va, tu n'as pas besoin de me rassurer, ma fille, tu me ferais injure, si tu croyais que j'en doute ; non, ma chère Angélique, tu ne verras plus Dorante, tu l'as renvoyé, j'en suis sûre, ce n'est pas avec un caractère comme le tien qu'on est exposé à la douleur d'être trop crédule ; n'ajoute donc rien à ce que tu m'as dit : tu ne le verras plus, tu m'en assures, et cela suffit ; parlons de la raison, du courage et de la vertu que tu viens de montrer. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, d'un air interdit.</speaker>
+<p>Que je suis confuse !</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Grâce au ciel, te voilà donc encore plus respectable, plus digne d'être aimée, plus digne que jamais de faire mes délices ; que tu me rends glorieuse, Angélique ! </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, pleurant.</speaker>
+<p>Ah ! Ma mère, arrêtez, de grâce.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Que vois-je ? Tu pleures, ma fille, tu viens de triompher de toi-même, tu me vois enchantée, et tu pleures ! </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, se jetant à ses genoux.</speaker>
+<p>Non, ma mère, je ne triomphe point, votre joie et vos tendresses me confondent, je ne les mérite point. </p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE la relève.</speaker>
+<p>Relève-toi, ma chère enfant, d'où te viennent ces mouvements où je te reconnais toujours ? Que veulent-ils dire ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Hélas ! C'est que je vous trompe.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Toi ? </p>
+<stage>Un moment sans rien dire.</stage>
+<p>Non, tu ne me trompes point, puisque tu me l'avoues. Achève ; voyons de quoi il est question.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous allez frémir : on m'a parlé d'enlèvement.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je n'en suis point surprise, je te l'ai dit : il n'y a rien dont ces étourdis-là ne soient capables ; et je suis persuadée que tu en as plus frémi que moi.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>J'en ai tremblé, il est vrai ; j'ai pourtant eu la faiblesse de lui pardonner, pourvu qu'il ne m'en parle plus.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>N'importe, je m'en fie à tes réflexions, elles te donneront bien du mépris pour lui.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Eh ! Voilà encore ce qui m'afflige dans l'aveu que je vous fais, c'est que vous allez le mépriser vous-même, il est perdu : vous n'étiez déjà que trop prévenue contre lui, et cependant il n'est point si méprisable ; permettez que je le justifie : je suis peut-être prévenue moi-même ; mais vous m'aimez, daignez m'entendre, portez vos bontés jusque-là. Vous croyez que c'est un jeune homme sans caractère, qui a plus de vanité que d'amour, qui ne cherche qu'à me séduire, et ce n'est point cela, je vous assure. Il a tort de m'avoir proposé ce que je vous ai dit ; mais il faut regarder que c'est le tort d'un homme au désespoir, que j'ai vu fondre en larmes quand j'ai paru irritée, d'un homme à qui la crainte de me perdre a tourné la tête ; il n'a point de bien, il ne s'en est point caché, il me l'a dit, il ne lui restait donc point d'autre ressource que celle dont je vous parle, ressource que je condamne comme vous, mais qu'il ne m'a proposée que dans la seule vue d'être à moi, c'est tout ce qu'il y a compris ; car il m'adore, on n'en peut douter.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Eh ! Ma fille ! Il y en aura tant d'autres qui t'aimeront encore plus que lui.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, mais je ne les aimerai pas, moi, m'aimassent-ils davantage, et cela n'est pas possible.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>D'ailleurs, il sait que tu es riche.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il l'ignorait quand il m'a vue, et c'est ce qui devrait l'empêcher de m'aimer, il sait bien que quand une fille est riche, on ne la donne qu'à un homme qui a d'autres richesses, toutes inutiles qu'elles sont ; c'est, du moins, l'usage, le mérite n'est compté pour rien.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu le défends d'une manière qui m'alarme. Que penses-tu donc de cet enlèvement, dis-moi ? tu es la franchise même, ne serais-tu point en danger d'y consentir ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ah ! Je ne crois pas, ma mère.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ta mère ! Ah ! Le ciel la préserve de savoir seulement qu'on te le propose ! Ne te sers plus de ce nom, elle ne saurait le soutenir dans cette occasion-ci. Mais pourrais-tu la fuir, te sentirais-tu la force de l'affliger jusque-là, de lui donner la mort, de lui porter le poignard dans le sein ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>J'aimerais mieux mourir moi-même.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Survivrait-elle à l'affront que tu te ferais ? Souffre à ton tour que mon amitié te parle pour elle ; lequel aimes-tu le mieux, ou de cette mère qui t'a inspiré mille vertus, ou d'un amant qui veut te les ôter toutes ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous m'accablez. Dites-lui qu'elle ne craigne rien de sa fille, dites-lui que rien ne m'est plus cher qu'elle, et que je ne verrai plus Dorante, si elle me condamne à le perdre.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Eh ! Que perdras-tu dans un inconnu qui n'a rien ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Tout le bonheur de ma vie ; ayez la bonté de lui dire aussi que ce n'est point la quantité de biens qui rend heureuse, que j'en ai plus qu'il n'en faudrait avec Dorante, que je languirais avec un autre : rapportez-lui ce que je vous dis là, et que je me soumets à ce qu'elle en décidera.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Si tu pouvais seulement passer quelque temps sans le voir, le veux-tu bien ? Tu ne me réponds pas, à quoi songes-tu ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Vous le dirai-je ? Je me repens d'avoir tout dit ; mon amour m'est cher, je viens de m'ôter la liberté d'y céder, et peu s'en faut que je ne la regrette ; je suis même fâchée d'être éclairée ; je ne voyais rien de tout ce qui m'effraye, et me voilà plus triste que je ne l'étais.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Dorante me connaît-il ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non, à ce qu'il m'a dit.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Eh bien ! Laisse-moi le voir, je lui parlerai sous le nom d'une tante à qui tu auras tout confié, et qui veut te servir ; viens, ma fille, et laisse à mon coeur le soin de conduire le tien.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je ne sais, mais ce que vous inspire votre tendresse m'est d'un bon augure. </p>
+</sp>
+</div>
+</div>
+<div n="3" type="act">
+<head>ACTE III</head>
+<div n="1" type="scene">
+<head>SCÈNE PREMIÈRE. Madame Argante, Lubin.</head>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Personne ne nous voit-il ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">On ne peut pas nous voir, drès que nous ne voyons parsonne.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>C'est qu'il me semble avoir aperçu là-bas Monsieur Ergaste qui se promène.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Qui, ce nouviau venu ? Il n'y a pas de danger avec li, ça ne regarde rin, ça dort en marchant.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>N'importe, il faut l'éviter. Voyons ce que tu avais à me dire tantôt et que tu n'as pas eu le temps de m'achever. Est-ce quelque chose de conséquence ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Jarni, si c'est de conséquence ! Il s'agit tant seulement que cet amoureux veut détourner voute fille.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Qu'appelles-tu la détourner ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">La loger ailleurs, la changer de chambre : velà cen que c'est.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Qu'a-t-elle répondu ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Il n'y a encore rien de décidé ; car voute fille a dit : Comment, ventregué ! Un enlèvement, Monsieur, avec une mère qui m'aime tant ! Bon ! Belle amiquié ! A dit Lisette. Voute fille a reparti que c'était une honte, qu'alle vous parlerait, vous émouverait, vous embrasserait les jambes ; et pis chacun a tiré de son côté, et moi du mian.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je saurai y mettre ordre. Dorante va-t-il se rendre ici ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Tatigué, s'il viendra ! Je li ons donné l'ordre de la part de noute damoiselle, il ne peut pas manquer d'être obéissant, et la chaise de poste est au bout de l'allée.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>La chaise !</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Eh voirement oui ! Avec une dame entre deux âges, qu'il a mêmement descendue dans l'hôtellerie du village.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Et pourquoi l'a-t-il amenée ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Pour à celle fin qu'alle fasse compagnie à noute damoiselle si alle veut faire un tour dans la chaise, et pis de là aller souper en ville, à ce qui m'est avis, selon queuques paroles que j'avons attrapées et qu'ils disiont tout bas.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Voilà de furieux desseins ; adieu, je m'éloigne ; et surtout ne dis point à Lisette que je suis ici.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Je vas donc courir après elle, mais faut que chacun soit content, je sis leur commissionnaire itou à ces enfants, quand vous arriverez, leur dirai-je que vous venez ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Tu ne leur diras pas que c'est moi, à cause de Dorante qui ne m'attendrait pas, mais seulement que c'est quelqu'un qui approche. </p>
+<stage>À part.</stage>
+<p>Je ne veux pas le mettre entièrement au fait.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Je vous entends, rien que queuqu'un, sans nommer parsonne, je ferai voute affaire, noute maîtresse : enfilez le taillis stanpendant que je reste pour la manigance. </p>
+</sp>
+</div>
+<div n="2" type="scene">
+<head>SCÈNE II. Lubin, Ergaste.</head>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Morgué ! Je gaigne bien ma vie avec l'amour de cette jeunesse. Bon ! À l'autre, qu'est-ce qu'il viant rôder ici, stila ? </p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE, rêveur.</speaker>
+<p>Interrogeons ce paysan, il est de la maison. </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, chantant en se promenant.</speaker>
+<p xml:lang="fra-dia">La, la, la.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Bonjour, l'ami.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Serviteur. La, la.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Y a-t-il longtemps que vous êtes ici ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Il n'y a que l'horloge qui en sait le compte, moi, je n'y regarde pas.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Il est brusque.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Les gens de Paris passont-ils leur chemin queuquefois ? Restez-vous là, Monsieur ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Peut-être.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Oh ! Que nanni ! La civilité ne vous le parmet pas.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Et d'où vient ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">C'est que vous me portez de l'incommodité, j'ons besoin de ce chemin-ci pour une confarence en cachette.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Je te laisserai libre, je n'aime à gêner personne ; mais dis-moi, connais-tu un nommé Monsieur Dorante ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Dorante ? Oui-da.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Il vient quelquefois ici, je pense, et connaît Mademoiselle Angélique ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Pourquoi non ? Je la connais bian, moi.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>N'est-ce pas lui que tu attends ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">C'est à moi à savoir ça tout seul, si je vous disais oui, nous le saurions tous deux.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>C'est que j'ai vu de loin un homme qui lui ressemblait.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Eh bien ! Cette ressemblance, ne faut pas que vous l'aperceviez de près, si vous êtes honnête.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Sans doute, mais j'ai compris d'abord qu'il était amoureux d'Angélique, et je ne me suis approché de toi que pour en être mieux instruit.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Mieux ! Eh ! Par la sambille, allez donc oublier ce que vous savez déjà, comment instruire un homme qui est aussi savant que moi ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Je ne te demande plus rien.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Voyez qu'il a de peine ! Gageons que vous savez itou qu'alle est amoureuse de li ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Non, mais je l'apprends.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Oui, parce que vous le saviez ; mais transportez-vous plus loin, faites-li place, et gardez le secret, Monsieur, ça est de conséquence.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Volontiers, je te laisse. </p>
+<stage>Il sort. </stage>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, le voyant partir.</speaker>
+<p xml:lang="fra-dia">Queu sorcier d'homme ! Dame, s'il n'ignore de rin, ce n'est pas ma faute. </p>
+</sp>
+</div>
+<div n="3" type="scene">
+<head>SCÈNE III. Dorante, Lubin.</head>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Bon, vous êtes homme de parole, mais dites-moi, avez-vous souvenance de connaître un certain Monsieur Ergaste, qui a l'air d'être gelé, et qu'on dirait qu'il ne va ni ne grouille, quand il marche ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Un homme sérieux ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Oh ! Si sérieux que j'en sis tout triste.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vraiment oui ! Je le connais, s'il s'appelle Ergaste ; est-ce qu'il est ici ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Il y était tout présentement ; mais je li avons finement persuadé d'aller être ailleurs.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Explique-toi, Lubin, que fait-il ici ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Oh ! Jarniguienne, ne m'amusez pas, je n'ons pas le temps de vous acouter dire, je sis pressé d'aller avartir Angélique, ne démarrez pas.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Mais, dis-moi auparavant... </p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, en colère.</speaker>
+<p xml:lang="fra-dia">Tantôt je ferai le récit de ça. Pargué, allez, j'ons bian le temps de lantarner de la manière. </p>
+<stage>Il sort. </stage>
+</sp>
+</div>
+<div n="4" type="scene">
+<head>SCÈNE IV. Dorante, Ergaste.</head>
+<sp who="DORANTE">
+<speaker>DORANTE, un moment seul.</speaker>
+<p>Ergaste, dit-il ; connaît-il Angélique dans ce pays-ci ? </p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE, rêvant.</speaker>
+<p>C'est Dorante lui-même.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Le voici. Me trompé-je, est-ce vous, Monsieur ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Oui, mon neveu.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Par quelle aventure vous trouvé-je dans ce pays-ci ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>J'y ai quelques amis que j'y suis venu voir ; mais qu'y venez-vous faire vous-même ? Vous m'avez tout l'air d'y être en bonne fortune ; je viens de vous y voir parler à un domestique qui vous apporte quelque réponse, ou qui vous y ménage quelque entrevue.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je ferais scrupule de vous rien déguiser, il y est question d'amour, Monsieur, j'en conviens.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Je m'en doutais, on parle ici d'une très aimable fille, qui s'appelle Angélique ; est-ce à elle à qui s'adressent vos voeux ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>C'est à elle-même.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Vous avez donc accès chez la mère ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Point du tout, je ne la connais pas, et c'est par hasard que j'ai vu sa fille.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Cet engagement-là ne vous réussira pas, Dorante, vous y perdez votre temps, car Angélique est extrêmement riche, on ne la donnera pas à un homme sans bien.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Aussi la quitterais-je, s'il n'y avait que son bien qui m'arrêtât, mais je l'aime et j'ai le bonheur d'en être aimé.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Vous l'a-t-elle dit positivement ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, je suis sûr de son coeur.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>C'est beaucoup, mais il vous reste encore un autre inconvénient : c'est qu'on dit que sa mère a pour elle actuellement un riche parti en vue.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je ne le sais que trop, Angélique m'en a instruit.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Et dans quelle disposition est-elle là-dessus ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Elle est au désespoir ; et dit-on quel homme est ce rival ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Je le connais ; c'est un honnête homme.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il faut du moins qu'il soit bien peu délicat s'il épouse une fille qui ne pourra le souffrir ; et puisque vous le connaissez, Monsieur, ce serait en vérité lui rendre service, aussi bien qu'à moi, que de lui apprendre combien on le hait d'avance.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Mais on prétend qu'il s'en doute un peu.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il s'en doute et ne se retire pas ! Ce n'est pas là un homme estimable.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Vous ne savez pas encore le parti qu'il prendra.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Si Angélique veut m'en croire, je ne le craindrai plus ; mais quoi qu'il arrive, il ne peut l'épouser qu'en m'ôtant la vie.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Du caractère dont je le connais, je ne crois pas qu'il voulût vous ôter la vôtre, ni que vous fussiez d'humeur à attaquer la sienne ; et si vous lui disiez poliment vos raisons, je suis persuadé qu'il y aurait égard ; voulez-vous le voir ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>C'est risquer beaucoup, peut-être avez-vous meilleure opinion de lui qu'il ne le mérite. S'il allait me trahir ? Et d'ailleurs, où le trouver ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Oh ! Rien de plus aisé, car le voilà tout porté pour vous entendre.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quoi ! C'est vous, Monsieur ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Vous l'avez dit, mon neveu.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je suis confus de ce qui m'est échappé, et vous avez raison, votre vie est bien en sûreté.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>La vôtre ne court pas plus de hasard, comme vous voyez.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Elle est plus à vous qu'à moi, je vous dois tout, et je ne dispute plus Angélique.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>L'attendez-vous ici ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, Monsieur, elle doit y venir ; mais je ne la verrai que pour lui apprendre l'impossibilité où je suis de la revoir davantage.</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Point du tout, allez votre chemin, ma façon d'aimer est plus tranquille que la vôtre, j'en suis plus le maître, et je me sens touché de ce que vous me dites.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quoi ! Vous me laissez la liberté de poursuivre ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Liberté tout entière, continuez, vous dis-je, faites comme si vous ne m'aviez pas vu, et ne dites ici à personne qui je suis, je vous le défends bien. Voici Angélique, elle ne m'aperçoit pas encore, je vais lui dire un mot en passant, ne vous alarmez point. </p>
+</sp>
+</div>
+<div n="5" type="scene">
+<head>SCÈNE V. Dorante, Ergaste, Angélique, qui s'est approchée, mais qui, apercevant Ergaste, veut se retirer.</head>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Ce n'est pas la peine de vous retirer, Madame ; je suis instruit, je sais que Monsieur vous aime, qu'il n'est qu'un cadet, Lubin m'a tout dit, et mon parti est pris. Adieu, Madame. </p>
+<stage>Il sort. </stage>
+</sp>
+</div>
+<div n="6" type="scene">
+<head>SCÈNE VI. Dorante, Angélique.</head>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Voilà notre secret découvert, cet homme-là, pour se venger, va tout dire à votre mère.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Et malheureusement il a du crédit sur son esprit.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il y a apparence que nous nous voyons ici pour la dernière fois, Angélique.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je n'en sais rien, pourquoi Ergaste se trouve-t-il ici ? </p>
+<stage>À part.</stage>
+<p>Ma mère aurait-elle quelque dessein ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Tout est désespéré, le temps nous presse. Je finis par un mot, m'aimez-vous ? M'estimez-vous ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Si je vous aime ! Vous dites que le temps presse, et vous faites des questions inutiles !</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Achevez de m'en convaincre ; j'ai une chaise au bout de la grande allée, la dame dont je vous ai parlé, et dont la maison est à un quart de lieue d'ici, nous attend dans le village, hâtons-nous de l'aller trouver, et vous rendre chez elle.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Dorante, ne songez plus à cela, je vous le défends.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vous voulez donc me dire un éternel adieu ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Encore une fois je vous le défends ; mettez-vous dans l'esprit que, si vous aviez le malheur de me persuader, je serais inconsolable ; je dis le malheur, car n'en serait-ce pas un pour vous de me voir dans cet état ? Je crois qu'oui. Ainsi, qu'il n'en soit plus question ; ne nous effrayons point, nous avons une ressource.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Et quelle est-elle ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Savez-vous à quoi je me suis engagée ? À vous montrer à une dame de mes parentes.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>De vos parentes ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, je suis sa nièce, et elle va venir ici.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Et vous lui avez confié notre amour ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Et jusqu'où l'avez-vous instruite ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je lui ai tout conté pour avoir son avis.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quoi ! La fuite même que je vous ai proposée ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Quand on ouvre son coeur aux gens, leur cache-t-on quelque chose ? Tout ce que j'ai mal fait, c'est que je ne lui ai pas paru effrayée de votre proposition autant qu'il le fallait ; voilà ce qui m'inquiète.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Et vous appelez cela une ressource ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Pas trop, cela est équivoque, je ne sais plus que penser.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Et vous hésitez encore de me suivre ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Non seulement j'hésite, mais je ne le veux point.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Non, je n'écoute plus rien. Venez, Angélique, au nom de notre amour ; venez, ne nous quittons plus, sauvez-moi ce que j'aime, conservez-vous un homme qui vous adore.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>De grâce, laissez-moi, Dorante ; épargnez-moi cette démarche, c'est abuser de ma tendresse : en vérité, respectez ce que je vous dis.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vous nous avez trahis ; il ne nous reste qu'un moment à nous voir, et ce moment décide de tout. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, combattue.</speaker>
+<p>Dorante, je ne saurais m'y résoudre.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il faut donc vous quitter pour jamais.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Quelle persécution ! Je n'ai point Lisette, et je suis sans conseil.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ah ! Vous ne m'aimez point.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Pouvez-vous le dire ? </p>
+</sp>
+</div>
+<div n="7" type="scene">
+<head>SCÈNE VII. Dorante, Angélique, Lubin.</head>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, passant au milieu d'eux sans s'arrêter.</speaker>
+<p xml:lang="fra-dia">Prenez garde, reboutez le propos à une autre fois, voici queuqu'un.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Et qui ?</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Queuqu'un qui est fait comme une mère. </p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE, fuyant avec Lubin. </speaker>
+<p>Votre mère ! Adieu, Angélique, je l'avais prévu, il n'y a plus d'espérance. </p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, voulant le retenir.</speaker>
+<p>Non, je crois qu'il se trompe, c'est ma parente. Il ne m'écoute point, que ferai-je ? Je ne sais où j'en suis. </p>
+</sp>
+</div>
+<div n="8" type="scene">
+<head>SCÈNE VIII. Madame Argante, Angélique.</head>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, allant à sa mère.</speaker>
+<p>Ah ! Ma mère.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Qu'as-tu donc, ma fille ? D'où vient que tu es si troublée ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Ne me quittez point, secourez-moi, je ne me reconnais plus.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Te secourir, et contre qui, ma chère fille ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Hélas ! Contre moi, contre Dorante et contre vous, qui nous séparerez peut-être. Lubin est venu dire que c'était vous. Dorante s'est sauvé, il se meurt, et je vous conjure qu'on le rappelle, puisque vous voulez lui parler.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Sa franchise me pénètre. Oui, je te l'ai promis, et j'y consens, qu'on le rappelle, je veux devant toi le forcer lui-même à convenir de l'indignité qu'il te proposait. </p>
+<stage>Elle appelle Lubin.</stage>
+<p>Lubin, cherche Dorante, et dis-lui que je l'attends ici avec ma nièce.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Voute nièce ! Est-ce que vous êtes itou la tante de voute fille ? </p>
+<stage>Il sort.</stage>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Va, ne t'embarrasse point. Mais j'aperçois Lisette, c'est un inconvénient ; renvoie-la comme tu pourras, avant que Dorante arrive, elle ne me reconnaîtra pas sous cet habit, et je me cache avec ma coiffe. </p>
+</sp>
+</div>
+<div n="9" type="scene">
+<head>SCÈNE IX. Madame Argante, Angélique, Lisette.</head>
+<sp who="LISETTE">
+<speaker>LISETTE, à Angélique.</speaker>
+<p>Apparemment que Dorante attend plus loin. </p>
+<stage>À Madame Argante.</stage>
+<p>Que je ne vous sois point suspecte, Madame ; je suis du secret, et vous allez tirer ma maîtresse d'une dépendance bien dure et bien gênante, sa mère aurait infailliblement forcé son inclination. </p>
+<stage>À Angélique.</stage>
+<p>Pour vous, Madame, ne vous faites pas un monstre de votre fuite. Que peut-on vous reprocher, dès que vous fuyez avec Madame ? </p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, se découvrant.</speaker>
+<p>Retirez-vous. </p>
+</sp>
+<sp who="LISETTE">
+<speaker>LISETTE, fuyant.</speaker>
+<p>Oh !</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>C'était le plus court pour nous en défaire.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Voici Dorante, je frissonne. Ah ! Ma mère, songez que je me suis ôté tous les moyens de vous déplaire, et que cette pensée vous attendrisse un peu pour nous.</p>
+</sp>
+</div>
+<div n="10" type="scene">
+<head>SCÈNE X. Dorante, Madame Argante, Angélique, Lubin.</head>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Approchez, Dorante, Madame n'a que de bonnes intentions, je vous ai dit que j'étais sa nièce.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE, saluant.</speaker>
+<p>Je vous croyais avec Madame votre mère.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>C'est Lubin qui s'est mal expliqué d'abord.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Mais ne viendra-t-elle pas ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Lubin y prendra garde. Retire-toi, et nous avertis si Madame Argante arrive.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN, riant par intervalles.</speaker>
+<p xml:lang="fra-dia">Madame Argante ? Allez, allez, n'appréhendez rin pus, je la défie de vous surprendre ; alle pourra arriver, si le guiable s'en mêle.</p>
+<stage>Il sort en riant.</stage>
+</sp>
+</div>
+<div n="11" type="scene">
+<head>SCÈNE XI. Madame Argante, Angélique, Dorante.</head>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Eh bien ! Monsieur, ma nièce m'a tout conté, rassurez-vous : il me paraît que vous êtes inquiet.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>J'avoue, Madame, que votre présence m'a d'abord un peu troublé.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, à part.</speaker>
+<p>Comment le trouvez-vous, ma mère ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, à part le premier mot.</speaker>
+<p>Doucement. Je ne viens ici que pour écouter vos raisons sur l'enlèvement dont vous parlez à ma nièce.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Un enlèvement est effrayant, Madame, mais le désespoir de perdre ce qu'on aime rend bien des choses pardonnables.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il n'a pas trop insisté, je suis obligée de le dire.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Il est certain qu'on ne consentira pas à nous unir. Ma naissance est égale à celle d'Angélique, mais la différence de nos fortunes ne me laisse rien à espérer de sa mère.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Prenez garde, Monsieur ; votre désespoir de la perdre pourrait être suspect d'intérêt ; et quand vous dites que non, faut-il vous en croire sur votre parole ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Ah ! Madame, qu'on retienne tout son bien, qu'on me mette hors d'état de l'avoir jamais ; le ciel me punisse si j'y songe !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Il m'a toujours parlé de même.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Ne nous interrompez point, ma nièce. </p>
+<stage>À Dorante.</stage>
+<p>L'amour seul vous fait agir, soit ; mais vous êtes, m'a-t-on dit, un honnête homme, et un honnête homme aime autrement qu'un autre ; le plus violent amour ne lui conseille jamais rien qui puisse tourner à la honte de sa maîtresse, vous voyez, reconnaissez-vous ce que je dis là, vous qui voulez engager Angélique à une démarche aussi déshonorante ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, à part.</speaker>
+<p>Ceci commence mal.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Pouvez-vous être content de votre coeur ; et supposons qu'elle vous aime, le méritez-vous ? Je ne viens point ici pour me fâcher, et vous avez la liberté de me répondre, mais n'est-elle pas bien à plaindre d'aimer un homme aussi peu jaloux de sa gloire, aussi peu touché des intérêts de sa vertu, qui ne se sert de sa tendresse que pour égarer sa raison, que pour lui fermer les yeux sur tout ce qu'elle se doit à elle-même, que pour l'étourdir sur l'affront irréparable qu'elle va se faire ? Appelez-vous cela de l'amour, et la puniriez-vous plus cruellement du sien, si vous étiez son ennemi mortel ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Madame, permettez-moi de vous le dire, je ne vois rien dans mon coeur qui ressemble à ce que je viens d'entendre. Un amour infini, un respect qui m'est peut-être encore plus cher et plus précieux que cet amour même, voilà tout ce que je sens pour Angélique ; je suis d'ailleurs incapable de manquer d'honneur, mais il y a des réflexions austères qu'on n'est point en état de faire quand on aime, un enlèvement n'est pas un crime, c'est une irrégularité que le mariage efface ; nous nous serions donné notre foi mutuelle, et Angélique, en me suivant, n'aurait fui qu'avec son époux.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, à part.</speaker>
+<p>Elle ne se payera pas de ces raisons-là.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Son époux, Monsieur, suffit-il d'en prendre le nom pour l'être ? Et de quel poids, s'il vous plaît, serait cette foi mutuelle dont vous parlez ? Vous vous croiriez donc mariés, parce que, dans l'étourderie d'un transport amoureux, il vous aurait plu de vous dire : Nous le somme ? Les passions seraient bien à leur aise, si leur emportement rendait tout légitime.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Juste ciel !</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Songez-vous que de pareils engagements déshonorent une fille ! que sa réputation en demeure ternie, qu'elle en perd l'estime publique, que son époux peut réfléchir un jour qu'elle a manqué de vertu, que la faiblesse honteuse où elle est tombée doit la flétrir à ses yeux mêmes, et la lui rendre méprisable ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, vivement.</speaker>
+<p>Ah ! Dorante, que vous étiez coupable ! Madame, je me livre à vous, à vos conseils, conduisez-moi, ordonnez, que faut-il que je devienne, vous êtes la maîtresse, je fais moins cas de la vie que des lumières que vous venez de me donner ; et vous, Dorante, tout ce que je puis à présent pour vous, c'est de vous pardonner une proposition qui doit vous paraître affreuse.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>N'en doutez pas, chère Angélique ; oui, je me rends, je la désavoue ; ce n'est pas la crainte de voir diminuer mon estime pour vous qui me frappe, je suis sûr que cela n'est pas possible ; c'est l'horreur de penser que les autres ne vous estimeraient plus, qui m'effraye ; oui, je le comprends, le danger est sûr, Madame vient de m'éclairer à mon tour : je vous perdrais, et qu'est-ce que c'est que mon amour et ses intérêts, auprès d'un malheur aussi terrible ?</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Et d'un malheur qui aurait entraîné la mort d'Angélique, parce que sa mère n'aurait pu le supporter.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Hélas ! Jugez combien je dois l'aimer, cette mère, rien ne nous a gênés dans nos entrevues ; eh bien ! Dorante, apprenez qu'elle les savait toutes, que je l'ai instruite de votre amour, du mien, de vos desseins, de mes irrésolutions.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Qu'entends-je ?</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Oui, je l'avais instruite, ses bontés, ses tendresses m'y avaient obligée, elle a été ma confidente, mon amie, elle n'a jamais gardé que le droit de me conseiller, elle ne s'est reposée de ma conduite que sur ma tendresse pour elle, et m'a laissée la maîtresse de tout, il n'a tenu qu'à moi de vous suivre, d'être une ingrate envers elle, de l'affliger impunément, parce qu'elle avait promis que je serais libre.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Quel respectable portrait me faites-vous d'elle ! Tout amant que je suis, vous me mettez dans ses intérêts même, je me range de son parti, et me regarderais comme le plus indigne des hommes, si j'avais pu détruire une aussi belle, aussi vertueuse union que la vôtre.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, à part.</speaker>
+<p>Ah ! Ma mère, lui dirai-je qui vous êtes ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Oui, belle Angélique, vous avez raison. Abandonnez-vous toujours à ces mêmes bontés qui m'étonnent, et que j'admire ; continuez de les mériter, je vous y exhorte, que mon amour y perde ou non, vous le devez, je serais au désespoir, si je l'avais emporté sur elle.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE, après avoir rêvé quelque temps.</speaker>
+<p>Ma fille, je vous permets d'aimer Dorante.</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Vous, Madame, la mère d'Angélique !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>C'est elle-même ; en connaissez-vous qui lui ressemble ?</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Je suis si pénétré de respect...</p>
+</sp>
+<sp who="MADAME-ARGANTE"><speaker>MADAME ARGANTE.</speaker><p>Arrêtez, voici Monsieur Ergaste.</p>  
+</sp>
+</div>
+<div n="12" type="scene">
+<head>SCÈNE XII. Ergaste, acteurs susdits.</head>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Madame, quelques affaires pressantes me rappellent à Paris. Mon mariage avec Angélique était comme arrêté, mais j'ai fait quelques réflexions, je craindrais qu'elle ne m'épousât par pure obéissance, et je vous remets votre parole. Ce n'est pas tout, j'ai un époux à vous proposer pour Angélique, un jeune homme riche et estimé : elle peut avoir le coeur prévenu, mais n'importe.</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE.</speaker>
+<p>Je vous suis obligée, Monsieur ; ma mère n'est pas pressée de me marier.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Mon parti est pris, Monsieur, j'accorde ma fille à Dorante que vous voyez. Il n'est pas riche, mais il vient de me montrer un caractère qui me charme, et qui fera le bonheur d'Angélique ; Dorante, je ne veux que le temps de savoir qui vous êtes. </p>
+<stage>Dorante veut se jeter aux genoux de Madame Argante qui le relève.</stage>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Je vais vous le dire, Madame, c'est mon neveu, le jeune homme dont je vous parle, et à qui j'assure tout mon bien.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Votre neveu !</p>
+</sp>
+<sp who="ANGÉLIQUE">
+<speaker>ANGÉLIQUE, à Dorante, à part.</speaker>
+<p>Ah ! Que nous avons d'excuses à lui faire !</p>
+</sp>
+<sp who="DORANTE">
+<speaker>DORANTE.</speaker>
+<p>Eh ! Monsieur, comment payer vos bienfaits ?</p>
+</sp>
+<sp who="ERGASTE">
+<speaker>ERGASTE.</speaker>
+<p>Point de remerciements. Ne vous avais-je pas promis qu'Angélique n'épouserait pas un homme sans bien ? Je n'ai plus qu'une chose à dire : j'intercède pour Lisette, et je demande sa grâce.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je lui pardonne ; que nos jeunes gens la récompensent, mais qu'ils s'en défassent.</p>
+</sp>
+<sp who="LUBIN" xml:lang="fra-dia">
+<speaker>LUBIN.</speaker>
+<p xml:lang="fra-dia">Et moi, pour bian faire, faut qu'an me récompense, et qu'an me garde.</p>
+</sp>
+<sp who="MADAME-ARGANTE">
+<speaker>MADAME ARGANTE.</speaker>
+<p>Je t'accorde les deux.</p>
+</sp>
+</div>
+</div>
+</body>
+</text>
+</TEI>

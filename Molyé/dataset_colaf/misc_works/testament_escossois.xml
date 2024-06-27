@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_ANG_002</idno>
+            <title type="main"> Testament d'vn Escossois</title>
+            <title type="collection">Moliyé</title>
+            <author>Anonymous</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="JJANES">
+                  <surname>Janès</surname>
+                  <forename>Juliette</forename>
+                  <idno type="orcid">0000-0002-8971-6173</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="https://www.google.fr/books/edition/_/ksvql72IXpAC"/>
+               <title>Le cabinet satyrique ou recueil parfaict, des vers piquants &amp; gaillards de ce temps</title>
+               <author>Charles-Timoléon de Beauxoncles, sieur de Sigogne</author>
+               <publisher>Billaine</publisher>
+               <date when="1620"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://www.google.fr/books/edition/_/ksvql72IXpAC"/>
+               <title>Le cabinet satyrique ou recueil parfaict, des vers piquants &amp; gaillards de ce temps</title>
+               <author>Charles-Timoléon de Beauxoncles, sieur de Sigogne</author>
+               <publisher>Bavarian State Library</publisher>
+               <date when="2017-09-01"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fra-ang">
+               <idno type="langue">fra-deu</idno>
+               <idno type="script">Latin</idno>
+               <name>Anglo-French Baragouin</name>
+            </language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="supergenre" rend="fiction">Fiction</term>
+               <term type="genre" rend="fiction-prose">Drama</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-05-30" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+      <lg >
+         <l xml:lang="fra-ang">La mort qui d'vn point de repit</l>
+         <l xml:lang="fra-ang">Est venu prendre soudainemen</l>
+         <l xml:lang="fra-ang">Vn cossois qui va pur depit.</l>
+         <l xml:lang="fra-ang">Mouri dans son lit hardemen</l>
+         <l xml:lang="fra-ang">Cest grand piti que vous oyra</l>
+         <l xml:lang="fra-ang">Com il fera son testamen,</l>
+         <l xml:lang="fra-ang">Et voy bien que vous en rira</l>
+         <l xml:lang="fra-ang">Moque vou de la gehenhen</l>
+      </lg>
+      <lg n="1">
+         <l xml:lang="fra-ang">Escriui premieremen</l>
+         <l xml:lang="fra-ang">Parquoy le Roy rompi pointemen</l>
+         <l xml:lang="fra-ang">Moury ie ven bien voy le consequas</l>
+         <l xml:lang="fra-ang">Tou foy premir faire vn bel testamen</l>
+         <l xml:lang="fra-ang">Tento moy mesm  auan mon trepa</l>
+         <l xml:lang="fra-ang">Ally vaten pineti haut  ba</l>
+         <l xml:lang="fra-ang">Vien sa curi ie prie que mon am</l>
+         <l xml:lang="fra-ang">Me l’ordonni car i esti gran malad</l>
+         <l xml:lang="fra-ang">Comme il me sembl  monstoma ce fad</l>
+      </lg>
+      <lg n="2">
+         <l xml:lang="fra-ang">Iten premy adi  nostre Dam</l>
+         <l xml:lang="fra-ang">Saint Michel lang  S. Trignande coss</l>
+         <l xml:lang="fra-ang">Ie ly donny tout entier mon pauure am</l>
+         <l xml:lang="fra-ang">Si la futi encor vne foy pru gro</l>
+         <l xml:lang="fra-ang">Quand mor fu moy fité lon vn grand fos</l>
+         <l xml:lang="fra-ang">Au Cimetir rasibu de l’Eglise</l>
+         <l xml:lang="fra-ang">Mette me ly tout du lon de ma do</l>
+         <l xml:lang="fra-ang">Bien à mon aise ainsi qu’il est la gise</l>
+      </lg>
+      <lg n="3">
+         <l xml:lang="fra-ang">Ma seruiteur est pour vou vn gran per</l>
+         <l xml:lang="fra-ang">Cham de mon arm crian vou hardemen</l>
+         <l xml:lang="fra-ang">Si quelque chos de bon courag me pret</l>
+         <l xml:lang="fra-ang">Moy rendi tout au iour de Iuiemen</l>
+         <l xml:lang="fra-ang">Mon gran curas cheual  billement</l>
+         <l xml:lang="fra-ang">Pour vostre corps guardi bien de laron</l>
+         <l xml:lang="fra-ang">Quatre cen cu y vali bien vramen</l>
+         <l xml:lang="fra-ang">Moy donne a vou aue mes deu espron</l>
+      </lg>
+      <lg n="4">
+         <l xml:lang="fra-ang">Mon brigaudi sarabra  salad</l>
+         <l xml:lang="fra-ang">Dag Iddelin halebard gorgeri</l>
+         <l xml:lang="fra-ang">Donne à ma page qui ma serui mala</l>
+         <l xml:lang="fra-ang">Bien counoy li que futi bien mary</l>
+         <l xml:lang="fra-ang">Ma guiledin qui neti pa gueri</l>
+         <l xml:lang="fra-ang">Moy donne à ly monte comme vn S. Georg</l>
+         <l xml:lang="fra-ang">Ma serati vn gran dommag à ly</l>
+         <l xml:lang="fra-ang">Farcin mangi se poil iusqu'à son gorge</l>
+      </lg>
+      <lg n="6">
+         <l xml:lang="fra-ang">Iten iordon i’auray de la torche desir</l>
+         <l xml:lang="fra-ang">Douse chandelle a cusson de mon Arm</l>
+         <l xml:lang="fra-ang">C'est pour l'amour du grand Roy nostre si</l>
+         <l xml:lang="fra-ang">Que i'ameray grandemen sur mon am</l>
+         <l xml:lang="fra-ang">Vn escusson de geul tout semé de grand larm</l>
+         <l xml:lang="fra-ang">Et pour montri que futi moy gendarm</l>
+         <l xml:lang="fra-ang">Dessus mon fos planty vou vn tendar</l> 
+      </lg>
+      <lg n="10">
+         <l xml:lang="fra-ang">Moy veu encor à vou fair vn bea_ don</l>
+         <l xml:lang="fra-ang">D'vn pot de vin  deu cuel do potag</l>
+         <l xml:lang="fra-ang">A cour ouuer mon maison habandon</l>
+         <l xml:lang="fra-ang">Pui emporty mon chauss  mon bagag</l>
+         <l xml:lang="fra-ang">Iten iordon moy rien donne a cognin</l>
+         <l xml:lang="fra-ang">Moy laiss encor ou cham un heritag</l>
+         <l xml:lang="fra-ang">A mon parant qui fu vieu  nouueaux</l>
+         <l xml:lang="fra-ang">Firent entre eux comme vieux tu partag</l>
+      </lg>
+      <lg>
+         <l xml:lang="fra-ang">La gard coissi croy se trouueri</l>
+         <l xml:lang="fra-ang">A la meni mon corps en sepuliur.</l>
+         <l xml:lang="fra-ang">Sa baqueton couuer d'or faueri</l>
+         <l xml:lang="fra-ang">Tou deu a deu com  bien la droitus</l>
+         <l xml:lang="fra-ang">Et pui apré qu'il auront pri patur:</l>
+         <l xml:lang="fra-ang">Ie ne sçay ou dy le deprofondi</l>
+         <l xml:lang="fra-ang">Et moy quan sui preé Dieu paraavnantur!</l>
+         <l xml:lang="fra-ang">Priray que ton alli en Paradi</l>
+      </lg>
+      <lg>
+         <l xml:lang="fra-ang">Et curi diti bel oraison</l>
+         <l xml:lang="fra-ang">Incontinent que moy vien à l'Eglise</l>
+         <l xml:lang="fra-ang">Y espere  vigil il le grand querelison</l>
+         <l xml:lang="fra-ang">Ma chanti haut ne me si point feintise</l>
+         <l xml:lang="fra-ang">Chantre de Roy firent music aussi</l>
+         <l xml:lang="fra-ang">Tanto ie croy ainsi qui leur plaira</l>
+         <l xml:lang="fra-ang">Et moy iordon qui le toin tou, assi</l>
+         <l xml:lang="fra-ang">Sur beau careau si non a libera</l>
+      </lg>
+      <lg n="12">
+         <l xml:lang="fra-ang">Ma testamen fati bien ie l’ordon</l>
+         <l xml:lang="fra-ang">Moy ne veu plu viur an monde iur ne beur</l>
+         <l xml:lang="fra-ang">Puus que fortun ainsi tu m’abandon</l>
+         <l xml:lang="fra-ang">Ha ieu de coss cest bien for parti mur</l>
+         <l xml:lang="fra-ang">Ne parli plumy: fi plu de demeur</l>
+         <l xml:lang="fra-ang">Tu las perdu _ou pointiment est dam</l>
+         <l xml:lang="fra-ang">Ie croy ma foy qu’il eſt meilleur</l>
+         <l xml:lang="fra-ang">De rend à Dy mon esprit de corp  d’am</l>
+      </lg>
+      <lg n="13">
+         <l xml:lang="fra-ang">Ady le Prince, Gouuerneur, compagnons</l>
+         <l xml:lang="fra-ang">Ady mon dam, ady mon marmouset,</l>
+         <l xml:lang="fra-ang">Ady Archers qui la piq empougués,</l>
+         <l xml:lang="fra-ang">Ady hauber, ady celi  cel,</l>
+         <l xml:lang="fra-ang">Qui nouri moy quan futi à la guerre,</l>
+         <l xml:lang="fra-ang">Ady à moy assi deſſu mon sel,</l>
+         <l xml:lang="fra-ang">Ady fouri mon logi  parierre,</l>
+      </lg>
+      <lg n="14">
+         <l xml:lang="fra-ang">Ady par tout le Royaume de France</l>
+         <l xml:lang="fra-ang">Premierement ady le pay de Coss</l>
+         <l xml:lang="fra-ang">Mon parant Roy fu mary à outranss</l>
+         <l xml:lang="fra-ang">Quand ly serra que do, mi en vn fos</l>
+         <l xml:lang="fra-ang">San play, blessurr, cater, goutte ne bos</l>
+         <l xml:lang="fra-ang">Mariret ly si sauoit mon vaillance,</l>
+         <l xml:lang="fra-ang">Vous en pri don faire de su mes os,</l>
+         <l xml:lang="fra-ang">Vn bel Pitaphe sans faire defaillance.</l>
+      </lg>
+      </body>
+   </text>
+</TEI>

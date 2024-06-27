@@ -1,0 +1,1159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>CRE_RCF_002</idno>
+        <title type="main">Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses africaines (Nouvelle édition)</title>
+        <title type="collection">Moliyé</title>
+        <author>Héry, Louis</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k5470315c/f21.item"/>
+          <title>Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses africaines (Nouvelle édition)</title>
+          <author>Héry, Louis</author>
+          <publisher>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LK11-2249</publisher>
+          <date when="1833"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k5470315c/f21.item"/>
+          <title>Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses africaines (Nouvelle édition)</title>
+          <author>Héry, Louis</author>
+          <publisher>Wikisource</publisher>
+          <date when="2008"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rcf">
+          <idno type="langue">rcf</idno>
+          <idno type="script">Latin</idno>
+          <name>Réunion Creole</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-prose">Drama</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="rcf">
+    <body>
+      <div n="1" type="part">
+        <head>L'AIGRETTE TROP VANTARD</head>
+        <lg>
+        <l xml:lang="rcf">Approç moussié la Gourgu' dans n'lit haut bras d'civrette, </l>
+        <l xml:lang="rcf">L'avait ein trop vantard z'aigrette, </l>
+        <l xml:lang="rcf">Çà l'était fier tout comme ein Paon </l>
+        <l xml:lang="rcf">Pour li n'a point quinq'çôs plaisant ; </l>
+        <l xml:lang="rcf">Quand qu'li voit di l'eau claire et belle </l>
+        <l xml:lang="rcf">Li mir' di dans, li fair' çinill' brinzelle, </l>
+        <l xml:lang="rcf">Li març en tortillant, li navigue au roulis </l>
+        <l xml:lang="rcf">Comment plis d'ein manzell' dans la vill' Saint-Denis. </l>
+        <l xml:lang="rcf">Ein matin li descend, pour fair' voir son visaze, </l>
+        <l xml:lang="rcf">Li s'en va l'étang Saint-André </l>
+        <l xml:lang="rcf">Li' mazin' côté la trouver son badinaze, </l>
+        <l xml:lang="rcf">Qu'li f'ra son l'embarras quand mêm' bon gré, mal gré. </l>
+        <l xml:lang="rcf">Quand qu'li l'approç li bord, bel milets y promène </l>
+        <l xml:lang="rcf">Comm' pour dire à li : bon manzer ! </l>
+        <l xml:lang="rcf">Mais nout' vantard z'aigrett' dit : "çà n'a pas la peine </l>
+        <l xml:lang="rcf">N'a pas encor' l'hèr dézéner." </l>
+        <l xml:lang="rcf">Li pique ein cours' di côté di Bois-Rouze, </l>
+        <l xml:lang="rcf">Son l'appétit y commence gratte à li, </l>
+        <l xml:lang="rcf">La çaler la rend' son patt' rouze, </l>
+        <l xml:lang="rcf">Li l'a r'grett' milets li la vi. </l>
+        <l xml:lang="rcf">Mais n'a plis là. Li voit des loç bien grasse </l>
+        <l xml:lang="rcf">Qui dort tout au bord dans di l'eau. </l>
+        <l xml:lang="rcf">Li l'a commenç fait la grimace : </l>
+        <l xml:lang="rcf">" — Des loç ! manzer canaill' ; moi vé poisson plis beau."</l>
+        <l xml:lang="rcf">Li sorte encor'… son l'estomac cacaille </l>
+        <l xml:lang="rcf">Qu'l'a 'blizé dir : "Courons vite à l'Étang, </l>
+        <l xml:lang="rcf">Manzons, si n'a pas d'aut' ; ça failli loç canaille ; </l>
+        <l xml:lang="rcf">Mon la faim commenç l'est trop grand." </l>
+        <l xml:lang="rcf">Mais loç l'a plonze au fond ; cabots s'il y rencontre </l>
+        <l xml:lang="rcf">Encor' n'a pas beaucoup qui montre. </l>
+        <l xml:lang="rcf">Z'aigrette y prend colèr : "A qu'faire à moi cabot </l>
+        <l xml:lang="rcf">Avec ça gros-ball' là moi bourrer mon zabot ? </l>
+        <l xml:lang="rcf">Autant vaut grinouitt' la rigole, </l>
+        <l xml:lang="rcf">Ou biçiq' à trois sous la bole. </l>
+        <l xml:lang="rcf">Moi r'tourn mon cas'…" Arriv' mitant d'cimin </l>
+        <l xml:lang="rcf">Li n'en pé plis, l'est enrazé la faim ! </l>
+        <l xml:lang="rcf">Devin' quouqu' la manz' nout' z'aigrette </l>
+        <l xml:lang="rcf">Qu'son vantard dans n'son coer y pète ? </l>
+        <l xml:lang="rcf">Li la trouve ein gros l'escargot </l>
+        <l xml:lang="rcf">Et l'aval' comm' ein citt', pour plein-ventre son zabot. </l>
+        <l xml:lang="rcf">Moi razist' là li zouli fille </l>
+        <l xml:lang="rcf">Li mamzell' z'aut' y dit d'famille ; </l>
+        <l xml:lang="rcf">Quand qu' la saison vient pour marier, </l>
+        <l xml:lang="rcf">Z'aut vantard y commence babier. </l>
+        <l xml:lang="rcf">"Moi vé pas zène' homme là son gros nez l'est trop longue, </l>
+        <l xml:lang="rcf">Moi vé pas cé l'aut là, son bouç comment bouç'rongue, </l>
+        <l xml:lang="rcf">Moi vé pas z'aut voisin, avar' comment banian, </l>
+        <l xml:lang="rcf">Li donn'ra pas calèç ni des rob' à volant." </l>
+        <l xml:lang="rcf">Mais qui r'fis' mis' comm' li blancs y raconte </l>
+        <l xml:lang="rcf">Et z'aut' parol' vient parfinir mon conte. </l>
+        <l xml:lang="rcf">Z'aigrett' trop fier finit par souque ein escargot </l>
+        <l xml:lang="rcf">Et mamzell' trop çipéq' épous'ra vié magot.</l>
+        </lg>
+      </div>
+      <div n="2" type="part">
+        <head>L'ANE ET LE PETIT CHIEN </head>
+        <lg>
+          <l xml:lang="rcf"> Saint' Sizann' çez Bonhomm' Zozet, </l>
+          <l xml:lang="rcf">L'avait ein vié-vié bourriquet, </l>
+          <l xml:lang="rcf">Son dos l'était plein carapate, </l>
+          <l xml:lang="rcf">L'était lourd comm' criol' batate, </l>
+          <l xml:lang="rcf">Tou' son la peau l'était flatri </l>
+          <l xml:lang="rcf">Comment li cou d' maman-Torti. </l>
+          <l xml:lang="rcf">Quand qu'li tir' son mine allonzée </l>
+          <l xml:lang="rcf">Z'aut y moque à li la zournée. </l>
+          <l xml:lang="rcf">"Quoi diab', l'a dit, ça n'a pas bon! </l>
+          <l xml:lang="rcf">"Moi gagn' misèr pays Bourbon, </l>
+          <l xml:lang="rcf">"E! hé, moi va çanz' mon manière </l>
+          <l xml:lang="rcf">"A c'thèr' moi connaît quoiqu' moi faire. </l>
+          <l xml:lang="rcf">"Moi fair' comm' pitit çien zizi, </l>
+          <l xml:lang="rcf">"Li gagn' manzer, n'en a kary, </l>
+          <l xml:lang="rcf">"Avec son pitit badinaze </l>
+          <l xml:lang="rcf">"Li hall' la viande ensemb' fromaze. </l>
+          <l xml:lang="rcf">"Allons flatt' not' maitr'…" Pa Zozet </l>
+          <l xml:lang="rcf">L'était didans son cabinet, </l>
+          <l xml:lang="rcf">Li n'avait son pipe allimée, </l>
+          <l xml:lang="rcf">Li hallait douc'ment son fimée, </l>
+          <l xml:lang="rcf">Mazinant pas pour d'être camis, </l>
+          <l xml:lang="rcf">Li causait ensemb' son z'amis. </l>
+          <l xml:lang="rcf">Avlà qu'dans n'mitant d'son boutique, </l>
+          <l xml:lang="rcf">Zoreill' haut, arriv' li bourrique. </l>
+          <l xml:lang="rcf">Hi! han! hi! Han! L'a mât' dibout, </l>
+          <l xml:lang="rcf">Li calbit la pip' par li bout,</l>
+          <l xml:lang="rcf">Dret dans la bouç li bourr' son patte, </l>
+          <l xml:lang="rcf">Brital comm' caffr' qui hall' la gratte… </l>
+          <l xml:lang="rcf">Li maîtr' timb' , son bouç tout en sang… </l>
+          <l xml:lang="rcf">Dimand' voir si l'était content, </l>
+          <l xml:lang="rcf">"Hola, mon noir! Otoi 'Tanase, </l>
+          <l xml:lang="rcf">"Aq' fair' bourriq' rentr' dans mon case? </l>
+          <l xml:lang="rcf">"Dipis quand ça qu'bourriq' malin… </l>
+          <l xml:lang="rcf">"Pique à li cinquant' coups d'rotin." </l>
+          <l xml:lang="rcf"> Ein quéq'çôs' vous l'accoutim' faire </l>
+          <l xml:lang="rcf">Fais ça mêm', çanz' pas vout' manière ; </l>
+          <l xml:lang="rcf">Bourriq' la contrefait Zizi, </l>
+          <l xml:lang="rcf">Mais rotin la coumagne à li.</l>
+        </lg>
+      </div>
+      <div n="3" type="part">
+        <head>LES ANIMAUX MALADES DE LA PESTE </head>
+        <lg>
+          <l xml:lang="rcf"> Ein bien mauvais malad' l'était 'friç' tout bébête, </l>
+          <l xml:lang="rcf">Ein bien mauvais malad' z'aut' y nomm' choléra ; </l>
+          <l xml:lang="rcf">Dans tout' 'plaç'ment où qu' çà malad' y pète, </l>
+          <l xml:lang="rcf">Tout' li bébêt' flambés comm' z'allimette </l>
+          <l xml:lang="rcf">Dipis l'alphant zisqu'à li rat. </l>
+          <l xml:lang="rcf">Li roi lion l'a rôd' dans n'çaque espèce </l>
+          <l xml:lang="rcf">Çà qu'plis gross' têt' pour fair' son conseil colonial ; </l>
+          <l xml:lang="rcf">Li 'mazin' ein kabar pour envoie à confesse, </l>
+          <l xml:lang="rcf">Çà qu'là resté vivants parmi tout' z'animal. </l>
+          <l xml:lang="rcf">Li mêm' tout' li premier li vid' son tent' malgace : </l>
+          <l xml:lang="rcf">"Z'amis, l'a dit, 'coute à vous mon pécé! </l>
+          <l xml:lang="rcf">" Çà qu'moi l'a fait, moi bien facé, </l>
+          <l xml:lang="rcf">"Moi l'a pèr qu'dans n'l'enfer moi va bril' comm' bagasse… </l>
+          <l xml:lang="rcf">"Quand qu'moi l'a trouv' dimond', li boef, ou bien mouton, </l>
+          <l xml:lang="rcf">"Souvent, quand qu'mon bouç' y démanze, </l>
+          <l xml:lang="rcf">"Au lié manzer marmit' di canze, </l>
+          <l xml:lang="rcf">"Moi la trové z'aut' viand' plis bon. </l>
+          <l xml:lang="rcf">"Moi la touill' z'aut'! à qu'faire à moi caciète? </l>
+          <l xml:lang="rcf">"Moi 'blizé dir' la vérité." </l>
+          <l xml:lang="rcf">A c'thèr' pitit renard fité </l>
+          <l xml:lang="rcf">L'a r'pond : "Vous pouvait bien mett' z'aut' dans vout' l'assiette, </l>
+          <l xml:lang="rcf">"Ein fois qu'vous roi, çà mêm' pour fait vout' volonté ; </l>
+          <l xml:lang="rcf">"Li z'homme, d'ailleurs, la mérité, </l>
+          <l xml:lang="rcf">"Pisqu' z'aut' y donne à nous la çasse, </l>
+          <l xml:lang="rcf">"Tout' z'animal z'aut' y tracasse…" </l>
+          <l xml:lang="rcf">Tigres, loulous, tout' z'aut' faut' acquisait</l>
+          <l xml:lang="rcf">Et renard touzours séquisait, </l>
+          <l xml:lang="rcf">Car z'aut' l'était besoin pour nourrir z'aut' marmaille, </l>
+          <l xml:lang="rcf">Et çà n'a pas bébêt' qui manz' di riz en paille. </l>
+          <l xml:lang="rcf">Enfin vié bourriquet, tout ladre et tout pelé, </l>
+          <l xml:lang="rcf">Qui çarriait ball' çarbon pour z'habitans d'brilé, </l>
+          <l xml:lang="rcf">En baissant son li zié comm' pour dire son rosaire, </l>
+          <l xml:lang="rcf">Tout comment vié dévot' la racont' son z'affaire ; </l>
+          <l xml:lang="rcf">"Z'amis l'a dit, pisqu'n'a rien pou cacé, </l>
+          <l xml:lang="rcf">"Moi dir' dans n'vout' l'oreille çà qu'mon plis gros pécé. </l>
+          <l xml:lang="rcf">"La honte y 'touffe à moi!…Ein zour, sous ein voitire, </l>
+          <l xml:lang="rcf">"Dans li coin d'l'équiri de la quire, </l>
+          <l xml:lang="rcf">"Moi l'a trouv' paquet d'herb' tout frais, </l>
+          <l xml:lang="rcf">"Bon fataq', ma foi dié! va dir' la mett' exprès </l>
+          <l xml:lang="rcf">"Pour voir si mon li dents l'est longue! </l>
+          <l xml:lang="rcf">"Moi la gliss' sous n'hangar vacoi, </l>
+          <l xml:lang="rcf">"(Li diable aussi çatouille à moi), </l>
+          <l xml:lang="rcf">"Et moi saut' sis l'fataq' comm' z'anguille sis bouç'rongue. </l>
+          <l xml:lang="rcf">"Moi, malahél' , l'a dévoré </l>
+          <l xml:lang="rcf">"Tout' li fourraz' d'moussié l'quiré. </l>
+          <l xml:lang="rcf">"Ah! qu'fataq' l'était bon! doux comment confitire!" </l>
+          <l xml:lang="rcf">Tout' bébêt' l'a guélé : "manzer fataq' la quire!!!… </l>
+          <l xml:lang="rcf">" Çà mêm' bon Dié l'envoyer choléra ; </l>
+          <l xml:lang="rcf">"Pour nous tout' li-mêm' qui paîra. </l>
+          <l xml:lang="rcf">"Prendre ein quéq'çôs' li prêtre! Ça n'a pas badinaze…" </l>
+          <l xml:lang="rcf">Z'aut' la coup' son collet sans tarder davantaze. </l>
+          <l xml:lang="rcf"> Ein fois qu'vous pauvr' diabl' , si vous n'en a kabar, </l>
+          <l xml:lang="rcf">Ensemb' man-la zistiç' , fait pas trop vout' vantard ; </l>
+          <l xml:lang="rcf">Vous n'aura beau fignoler vout' parole, </l>
+          <l xml:lang="rcf"> Vous l'est trop sir vous va passe à la zeole.</l>          
+        </lg>
+
+      </div>
+      <div n="4" type="part">
+        <head>LA PECHE DES BICHIQUES </head>
+        <lg>
+          <l xml:lang="rcf">Bourbon ein bon payés quand même. </l>
+          <l xml:lang="rcf">Oui, l'est bon comm' batate en crème. </l>
+          <l xml:lang="rcf">Ça qu'plis pauv' n'a pas pèr la faim, </l>
+          <l xml:lang="rcf">Li n'en a Bengal' dans n'son main ; </l>
+          <l xml:lang="rcf">La fraid l'est pour li badinaze </l>
+          <l xml:lang="rcf">Qui sacoué li pour faire l'ouvraze. </l>
+          <l xml:lang="rcf">Quand qu'moi dit qu'Bourbon l'est vanté, </l>
+          <l xml:lang="rcf">Guêtt' si n'a pas la vérité ? </l>
+          <l xml:lang="rcf">Bon Dié mêm' donn' bon vivr' bien saine </l>
+          <l xml:lang="rcf">Sans qu'n'en a besoin prend la peine ; </l>
+          <l xml:lang="rcf">Nourritir' là, nous criol' nous connais… </l>
+          <l xml:lang="rcf">Dire ein pé si pour nous n'a pas envoye exprès, </l>
+          <l xml:lang="rcf">Ein' fois qu'moi n'aura nomm' biçique </l>
+          <l xml:lang="rcf">N'a pas besoin qu'ein quéquein' y siplique, </l>
+          <l xml:lang="rcf">Biçique çà cadeau di bon Dié </l>
+          <l xml:lang="rcf">Pour nous souque, empare et çarrié. </l>
+          <l xml:lang="rcf">Quand qu'nouvell' lun' la cacièt' son figuire </l>
+          <l xml:lang="rcf">Ça pitit poisson là rentr' dans çaque emboucire. </l>
+          <l xml:lang="rcf">Biçique y monte!!!…Quand qu'nouvell' la fané, </l>
+          <l xml:lang="rcf">Tout li criol' z'aut' y dépêc' branné ; </l>
+          <l xml:lang="rcf">Çaquein y d'send ensemb' son vouve ; </l>
+          <l xml:lang="rcf">Çaquein y prend tout ça qui trouve ; </l>
+          <l xml:lang="rcf">Li nigress' apport' z'aut' zipon </l>
+          <l xml:lang="rcf">Pour fait barraz' pitit poisson. </l>
+          <l xml:lang="rcf">Quand qu'l'arriv' la Rivièr, c'est là qu'n'en a tapaze, </l>
+          <l xml:lang="rcf">C'est là qu'çaquein brouill' dans n'l'ouvraze, </l>
+          <l xml:lang="rcf">Qu'z'aut' y sipit' pour bien placer, </l>
+          <l xml:lang="rcf">Et pour z'aut' rigol' bien tracer. </l>
+          <l xml:lang="rcf">Çi zour là n'a point camarade, </l>
+          <l xml:lang="rcf">Li poings y roule, n'en a croçade ; </l>
+          <l xml:lang="rcf">Et bataill' y' gomente entre çaq' travaillèr</l>
+          <l xml:lang="rcf">Si li rhum y ferment' dans n' la têt' li pécèr' , </l>
+          <l xml:lang="rcf">Car tout li zens qui fait rigole </l>
+          <l xml:lang="rcf">Dans n' bertell' n'en a son p'tit fiole, </l>
+          <l xml:lang="rcf">" Allons toué, sort' d'ici, çà la plaç là pour moi! </l>
+          <l xml:lang="rcf">"Pour toué…N'avait li çien…moi n'donn'rait pas li roi." </l>
+          <l xml:lang="rcf">"Est-ce que n'en a la plaç gardée" </l>
+          <l xml:lang="rcf">"Ti crois donc qui louait à l'année ?" </l>
+          <l xml:lang="rcf">" Si toi fair' l'embarras, toi va gagner li z'ain," </l>
+          <l xml:lang="rcf">"Çauff pas trop mon la tête, et fil' dret ton cimin." </l>
+          <l xml:lang="rcf">Li z'aut' côtés n'en a sipit' pareille, </l>
+          <l xml:lang="rcf">Tant et tant qui çass' li z'oreille. </l>
+          <l xml:lang="rcf">Pendant tout çà mic-mac ça qu'en a l'ambition, </l>
+          <l xml:lang="rcf">Plonz' dans di l'eau zisqu'au menton, </l>
+          <l xml:lang="rcf">A çaque instant y r'tir' son vouve, </l>
+          <l xml:lang="rcf">Souvent à moitié pleine y trouve ; </l>
+          <l xml:lang="rcf">Y souq' biçiq' qui bouille autant épais, </l>
+          <l xml:lang="rcf">Qu'la sabl' quand qui couvr' les galets. </l>
+          <l xml:lang="rcf">Y remplit tout son sacs, son paniers à la ronde, </l>
+          <l xml:lang="rcf">Li tellement pleins qu'tout y débonde. </l>
+          <l xml:lang="rcf">A c'thèr, fil' rondement nos zens sis Saint-Dinis, </l>
+          <l xml:lang="rcf">Avlà l'moment qu'nous va faire nout' profits. </l>
+          <l xml:lang="rcf">Et çaquin à la course, y galope sis la route </l>
+          <l xml:lang="rcf">Et n'arrête ein minite rien qu'pour prend son la goutte. </l>
+          <l xml:lang="rcf">Arrivés Saint-Dinis l'ensive y ronfl' trois coups. </l>
+          <l xml:lang="rcf"> Biçique! à vlà biçiq!!! prend vite! La bol six sous. </l>
+          <l xml:lang="rcf">Çaquin y timb' dissis, çaquin y vé son bole, </l>
+          <l xml:lang="rcf">Autour çaqu' vendeur ein tas d'aç'teurs y colle. </l>
+          <l xml:lang="rcf">N'a pas li temps dir : ouaye! …Biçiqu' la partazé, </l>
+          <l xml:lang="rcf">Et li z'épaul' pêcer l'est vit' soulazé ; </l>
+          <l xml:lang="rcf">Car tout di mond' St-Dinis y vé goûté çà manzaille, </l>
+          <l xml:lang="rcf">Li zens riç pour biçiq' troque ein zour z'aut' volaille, </l>
+          <l xml:lang="rcf">Et li puvr' qui n'a point l'embarras troq' li plats </l>
+          <l xml:lang="rcf">L'est content qu'pour six sous, li pé faire ein bon r'pas. </l>
+          <l xml:lang="rcf">Merci donc mon bon Dié, merci la nourritire, </l>
+          <l xml:lang="rcf">Qu'nous donn' dans Mascarin pour tout' vout' criatire. </l>
+          <l xml:lang="rcf">Çaq' fois qu'biçique y monte' , nous doit bénir à vous, </l>
+          <l xml:lang="rcf">Pisque vout' Providençe' sonze à nourrir à nous.</l>          
+        </lg>
+
+      </div>
+      <div n="5" type="part">
+        <head>LA CAILLE ENSEMBL' SON PETITS </head>
+        <lg>
+          <l xml:lang="rcf"> Ein maman caill' dans n' foutac Saint' Sizanne </l>
+          <l xml:lang="rcf">Proç li coin d'ein çamp d'riz l'était cacièt' son nid. </l>
+          <l xml:lang="rcf">L'était tout au bord la savanne, </l>
+          <l xml:lang="rcf">Mais di riz dépass' mir. Par malhèr, çaq' pitit </l>
+          <l xml:lang="rcf">L'était encore et tout tendre et tout ni. </l>
+          <l xml:lang="rcf">Pa Zozoq' li maîtr' di plantaze, </l>
+          <l xml:lang="rcf">Vient guett' son riz, li soir après l'ouvraze. </l>
+          <l xml:lang="rcf">"Ah! soupelet! bon Dié! mon di riz l'est perdi, </l>
+          <l xml:lang="rcf">"Si li vent va souffler, trop sir va grain' à li. </l>
+          <l xml:lang="rcf">"Ein récolt si zouli, si plein ; </l>
+          <l xml:lang="rcf">"Cours z'enfant vitement dimain çez tout' voisin </l>
+          <l xml:lang="rcf">"Dire à z'aut' rondement viens donne à nous la main. </l>
+          <l xml:lang="rcf">Li maman caill' dire à son p'tit famille </l>
+          <l xml:lang="rcf">Qui pouvait pas bouzer : –"Brann' pas dans vout' couquille ; </l>
+          <l xml:lang="rcf">N'a pas dimain zour d'embarras, </l>
+          <l xml:lang="rcf">Masquein voisin n'y viendra pas. </l>
+          <l xml:lang="rcf">Pendant trois jours n'entendre pas tapaze ; </l>
+          <l xml:lang="rcf">Auquein voisin vé quitter son l'ouvraze, </l>
+          <l xml:lang="rcf">Pa Zozoq' vient encore : "Di riz moi n'aura pas. " </l>
+          <l xml:lang="rcf">"N'en a dézà qu'la timbe en bas… </l>
+          <l xml:lang="rcf">"Cours z'enfans dir' z'amis : viens vitement sans faute, </l>
+          <l xml:lang="rcf">"Manqu' pas vini, qu'moi compter sis tout' z'aute. </l>
+          <l xml:lang="rcf">Caq' z'ami rest' mavouz' , aussi bien comm' voisin, </l>
+          <l xml:lang="rcf">Masquein' vient pas serrer li grain.</l>
+          <l xml:lang="rcf">Pendant tout' ci temps là, li p'tit caill' y proufite </l>
+          <l xml:lang="rcf">La plim' dans n'son z'aile y pouss' vite, </l>
+          <l xml:lang="rcf">Pa Zozoq' y vient voir ein troisièm' fois son çamp </l>
+          <l xml:lang="rcf">A force colèr li pliç son dent : </l>
+          <l xml:lang="rcf">Li dir son garçon : "D'main, grand matin prends faucille, </l>
+          <l xml:lang="rcf">"Moi fier pas davantaz' li voisins, la famille, </l>
+          <l xml:lang="rcf">"Nous va commenç dès qu'nous voudra, </l>
+          <l xml:lang="rcf">"Nous va finir quand qu'nous pourra. </l>
+          <l xml:lang="rcf">Li maman calle y dit : "Allons lèv' nout' bagaze, </l>
+          <l xml:lang="rcf">"Partons, dépéçons nous, sans tarder davantaze, </l>
+          <l xml:lang="rcf">"Li p'tit caill' capé cap la train' son patt' dehors, </l>
+          <l xml:lang="rcf">"L'endimain dans la plain' l’était cacièt z'aut' corps. </l>
+          <l xml:lang="rcf">Vous n'a quéq'çôs' pressé pour faire? </l>
+          <l xml:lang="rcf">Fais vit'ment vous-mêm' vout' z'affaire. </l>
+          <l xml:lang="rcf">Si vous y rôd' parens, si vous y fier z'amis, </l>
+          <l xml:lang="rcf">Vous va s'trouve enguézé, vous va rester camis.</l>          
+        </lg>
+
+      </div>
+      <div n="6" type="part">
+        <head>LA CHUTE D'ICARE </head>
+        <lg>
+          <l xml:lang="rcf"> Moi dir' z'histoir'… N'avait in' fois, </l>
+          <l xml:lang="rcf">(Çà li cont' grand' mond l'autrefois,) </l>
+          <l xml:lang="rcf">Z'ouvrier z'aut' l'appell' Dédale, </l>
+          <l xml:lang="rcf">Fort comment noir qui port' la malle, </l>
+          <l xml:lang="rcf">Maliç tout comment bengali, </l>
+          <l xml:lang="rcf">Ein roi l'était renferme à li </l>
+          <l xml:lang="rcf">Ensemb' son z'enfant Icare ; </l>
+          <l xml:lang="rcf">L'était misèr. Z'aut' manz' cambâre, </l>
+          <l xml:lang="rcf">Touzours gros-ball, zamais kary… </l>
+          <l xml:lang="rcf">Dédal' là lizèr' comm' cabri, </l>
+          <l xml:lang="rcf">Car blanc n'a pas 'tait bourrique, </l>
+          <l xml:lang="rcf">L'était fin comment Pacifique, </l>
+          <l xml:lang="rcf">La commenç' dit : "Moi sauv' d'ici! </l>
+          <l xml:lang="rcf">"Moi n'a pas zens bêt' Dié merci. </l>
+          <l xml:lang="rcf">"Moi la maziné bon montire </l>
+          <l xml:lang="rcf">"Pour nous s'en va…"L'a prend la cire </l>
+          <l xml:lang="rcf">Dipis la têt' zisqu'à li dos, </l>
+          <l xml:lang="rcf">Li la coll' la plim' z'albatros. </l>
+          <l xml:lang="rcf">L'a razist' la z'ail' son z'épaule, </l>
+          <l xml:lang="rcf">Pour grimp' rempart comment criole. </l>
+          <l xml:lang="rcf">Quand tout son quéq' çôs' la fini, </l>
+          <l xml:lang="rcf">Li dit son garçon : "Men ami, </l>
+          <l xml:lang="rcf">"Quand qu'moi fini mett' vout' la z'aile, </l>
+          <l xml:lang="rcf">"Fais pas faraud comm' z'hirondelle ; </l>
+          <l xml:lang="rcf">"Ma foi Dié, si vous grand tourdi, </l>
+          <l xml:lang="rcf">"Prend gard' vout' la z'ail' va fondi. </l>
+          <l xml:lang="rcf">"Voler là n'a pas badinaze, </l>
+          <l xml:lang="rcf">"Mont' pas comment s'en va Salaze. </l>
+          <l xml:lang="rcf">"Moi dire à vous mont' pas trop haut </l>
+          <l xml:lang="rcf">"Prends garde, à caus' soleil l'est çaud. </l>
+          <l xml:lang="rcf">"Si vous y fait comm' vout' manière </l>
+          <l xml:lang="rcf">"Vous va gagner mauvais z'affaire." </l>
+          <l xml:lang="rcf">(Li babiait pour grond' son garçon, </l>
+          <l xml:lang="rcf">A caus' ça z'enfant polisson.) </l>
+          <l xml:lang="rcf">Icar' fronté comm' l'ordinaire, </l>
+          <l xml:lang="rcf">L'a répond : "N'avait mauvais z'affaire! </l>
+          <l xml:lang="rcf">"Vous dir' à moi mont' pas trop haut, </l>
+          <l xml:lang="rcf">"Vous m'azin' donc moi noir nouveau, </l>
+          <l xml:lang="rcf">"Voler là n'a pas grand mystère, </l>
+          <l xml:lang="rcf">"Moi v'nir à bout, quitte à moi faire, </l>
+          <l xml:lang="rcf">N'a pas dit à caus' moi vanter </l>
+          <l xml:lang="rcf">"Mais mon siprit vous va guetter." </l>
+          <l xml:lang="rcf">Z'aut' dé s'en va, z'aut' dé mont' monte, </l>
+          <l xml:lang="rcf">Icar' là : "A moi gagner la honte </l>
+          <l xml:lang="rcf">"Si moi lourd comm' pigeon patti, </l>
+          <l xml:lang="rcf">"Ou comm' caffr' qui port' sombouli, </l>
+          <l xml:lang="rcf">"Moi vé monter plis davantaze </l>
+          <l xml:lang="rcf">"Pour moi voir mié fait mon voyaze." </l>
+          <l xml:lang="rcf">L'a dit, l'a fait ; arrive en haut, </l>
+          <l xml:lang="rcf">Soleil tout di bon l'était çaud, </l>
+          <l xml:lang="rcf">Son la z'ail' commenç' vini molle, </l>
+          <l xml:lang="rcf">La plim tout' en caniqui vole, </l>
+          <l xml:lang="rcf">La cir' l'a fondr'…poc! poc! v'là pas </l>
+          <l xml:lang="rcf">Mon z'Icar' li timbe en bas! </l>
+          <l xml:lang="rcf">Dans la mer l'a touff'à forç' boire, </l>
+          <l xml:lang="rcf">L'a néyé…çà mêm' mon z'histoire. </l>
+          <l xml:lang="rcf"> Li cont' là li fait pour z'enfants </l>
+          <l xml:lang="rcf">Çà qui n'acout' pas z'aut' parents.</l>          
+        </lg>
+
+      </div>
+      <div n="7" type="part">
+        <l xml:lang="rcf">LE JUGEMENT DE PARIS </l>
+        <lg>
+          <l xml:lang="rcf"> D'aut' fois, rois n'a pas 'tait faraud, </l>
+          <l xml:lang="rcf">Z'aut' fill' l'avait linz' dans n'risseau, </l>
+          <l xml:lang="rcf">Quand qu'l'eine à l'aut' y rend visite </l>
+          <l xml:lang="rcf">Z'aut' mêm' mette au fé z'aut' marmite, </l>
+          <l xml:lang="rcf">Ein zèn princ' donc dans ci temps là </l>
+          <l xml:lang="rcf">L'était gardien boefs son papa, </l>
+          <l xml:lang="rcf">Ein zour li l'était dans n' savane, </l>
+          <l xml:lang="rcf">Assis sous ein gros pied d'banane ; </l>
+          <l xml:lang="rcf">Pendant qu'tout' son boefs reposer </l>
+          <l xml:lang="rcf">Li zouer di bobr' pour s'amiser. </l>
+          <l xml:lang="rcf">V'là trois femmes' çaquèn' la plis belle, </l>
+          <l xml:lang="rcf">Déess'! (comm' cà qu'blancs z'aut' appelle) </l>
+          <l xml:lang="rcf">En sipitant l'entoure à li, </l>
+          <l xml:lang="rcf">Cataq'!! li la rest' tout cami… </l>
+          <l xml:lang="rcf">Eine i commenc': "Pâris, acoute, </l>
+          <l xml:lang="rcf">"Après nous va payer la goutte ; </l>
+          <l xml:lang="rcf">"N'en a grand cabâr à zizer ; </l>
+          <l xml:lang="rcf">"Vous tout sèl capab' arranzer. </l>
+          <l xml:lang="rcf">"Moi va sipliquer nout' z'histoire : </l>
+          <l xml:lang="rcf">"Si vous n'a pas perd' vout' mémoire, </l>
+          <l xml:lang="rcf">"Vous souviens la noç' ma-Thétis! </l>
+          <l xml:lang="rcf">"– Oui, moi souviens, l'a r'pond' Pâris.– </l>
+          <l xml:lang="rcf">Zinon plis vif çà qu'trois déesses </l>
+          <l xml:lang="rcf">Coup'divant…"N'a pas cont' nigresses ; </l>
+          <l xml:lang="rcf">"Moi dire à vous la vérité. </l>
+          <l xml:lang="rcf">" Ça qu'ein noç' ! Z'aut'i pé vanté! </l>
+          <l xml:lang="rcf">"La tié coçons, n'avait biciques </l>
+          <l xml:lang="rcf">"Vin d'provenc' y boir' par barriques. </l>
+          <l xml:lang="rcf">"Trois noirs 'tendis, cefs couisiniers, </l>
+          <l xml:lang="rcf">"La couit manzersous n'badamiers. </l>
+          <l xml:lang="rcf">"N'a point la zèn' , çà qui vé rentre, </l>
+          <l xml:lang="rcf">"Caquên' y manzer son plein ventre ; </l>
+          <l xml:lang="rcf">"A v'là pas' quand qu'larriv' dessert </l>
+          <l xml:lang="rcf">"Ein pomm' timb' dret n'mitant d'couvert. </l>
+          <l xml:lang="rcf">"Ein vié femm' maman la Discorde, </l>
+          <l xml:lang="rcf">"(Son zip l'amarr' morceau la corde), </l>
+          <l xml:lang="rcf">"Capé-cap l'arrive en misouk, </l>
+          <l xml:lang="rcf">"Li tir' son bras long' comm' bibouk, </l>
+          <l xml:lang="rcf">"Li fris' son zou' flatrie et maigre </l>
+          <l xml:lang="rcf">"Comm' z'ouritt' trempé dans n'vinaigre, </l>
+          <l xml:lang="rcf">"Son voix sec comm' li cri d'taill' vents </l>
+          <l xml:lang="rcf">"L'a guélé : Çà pour vous nos zens! </l>
+          <l xml:lang="rcf">"Li pomm' là , moi donn' la plis belle, </l>
+          <l xml:lang="rcf">"Sipite à l'entor vout' gamelle." </l>
+          <l xml:lang="rcf">Sitôt qu'li la tir' son français </l>
+          <l xml:lang="rcf">Milef, li! Salam, cours après! </l>
+          <l xml:lang="rcf">Pa-zipiter dans n'haut d'la table </l>
+          <l xml:lang="rcf">Li dit : "Na qu'trois pour gagner cacable </l>
+          <l xml:lang="rcf">"A c'thèr Pallas, Viniss et moi, </l>
+          <l xml:lang="rcf">"Nous la vient trouve a vous, ma foi! </l>
+          <l xml:lang="rcf">"Nous l'a quitt' sambrocal' , saucisse, </l>
+          <l xml:lang="rcf">"Pour vous vient rôder la zistice. </l>
+          <l xml:lang="rcf">"Nous connaît vous gaillard fité! </l>
+          <l xml:lang="rcf">" Çà qu'na pas droit s'ra dégoté." </l>
+          <l xml:lang="rcf"> –Pallas coup' Zinon son parole : </l>
+          <l xml:lang="rcf">"Assez, l'a dit, vous fair' l'école </l>
+          <l xml:lang="rcf">"Qu'vous babié-babié rondement </l>
+          <l xml:lang="rcf">"Comm' professèr ensemb' z'enfant, </l>
+          <l xml:lang="rcf">"Maman vous n'gagn'ra pas la pomme </l>
+          <l xml:lang="rcf">"En flattant vout' ziz' comm' vout' n'homme. </l>
+          <l xml:lang="rcf">"Vié nénen' quand qu'la grain' li dents </l>
+          <l xml:lang="rcf">"N'a pas cacab' pour gagn' galants. </l>
+          <l xml:lang="rcf">"Guette ein pé! ça dézà grand' mère </l>
+          <l xml:lang="rcf">"Et li vé rôde encor' mystère ; </l>
+          <l xml:lang="rcf">"Caciète ein pé vout' civé blancs, </l>
+          <l xml:lang="rcf">"La pomm' trop dir' pour vout' vié dents." </l>
+          <l xml:lang="rcf">Pallas l'enraz' dans son colère. </l>
+          <l xml:lang="rcf">"Ma cèr' mèr…mêl' pas mon z'affaire! </l>
+          <l xml:lang="rcf">"Avec moi vous va pliç' vout' dents </l>
+          <l xml:lang="rcf">"Pointi comm' à qu'vié caïmans, </l>
+          <l xml:lang="rcf">"A caus' çà qu'vout' fangouni monte, </l>
+          <l xml:lang="rcf">"Vous voudra qu'moi gagner la honte? </l>
+          <l xml:lang="rcf">"Si moi vié, quel âz' vous n'en a? </l>
+          <l xml:lang="rcf">"Dimand' à vout' cousin' Vesta, </l>
+          <l xml:lang="rcf">"Dimand' à vout' tantin' Cybèle, </l>
+          <l xml:lang="rcf">"Fais pas tant vout' cinill' brinzelle, </l>
+          <l xml:lang="rcf">"Vout' zéness' là n'a pas tout frais, </l>
+          <l xml:lang="rcf">"L'a r'mont' li temps Labourdonnais. </l>
+          <l xml:lang="rcf">"Mon pauvr' ! moi n'a pas vout' yambane ; </l>
+          <l xml:lang="rcf">"Vous n'aura ni pomm' ni banane. </l>
+          <l xml:lang="rcf">"Mais vaut mié moi va frèm li bec ; </l>
+          <l xml:lang="rcf">"A tou vié' mond' moi doit respect." </l>
+          <l xml:lang="rcf">Viniss y riait tout comme ein folle. </l>
+          <l xml:lang="rcf">A son tour li prend la parole : </l>
+          <l xml:lang="rcf">"Pâris, li dit, si moi lé mié, </l>
+          <l xml:lang="rcf">"Toi pé guetter, toi n'a bons zié ; </l>
+          <l xml:lang="rcf">"Pisq' nous la prend à toi pour zize, </l>
+          <l xml:lang="rcf">"Faut déballer la marçandise, </l>
+          <l xml:lang="rcf">"Sèl'ment si la pomm' l'est pour moi, </l>
+          <l xml:lang="rcf">"M'a donn' ein zouli femme à toi." </l>
+          <l xml:lang="rcf">Pâris Mâca comment li diabe, </l>
+          <l xml:lang="rcf">(Pour flatt' femm' tout' fair' li cacabe) </l>
+          <l xml:lang="rcf">L'a r'vir' : "N'a pas besoin plis long, </l>
+          <l xml:lang="rcf">"Quand mêm' Pallas, quand mêm' Zinon, </l>
+          <l xml:lang="rcf">"N'a point visaze comment la vôtre ; </l>
+          <l xml:lang="rcf">"A vous la pomm' ! n'a point pour d'autre." </l>
+          <l xml:lang="rcf">Comm' çà mêm' li ziz'ment d'Pâris ; </l>
+          <l xml:lang="rcf">Qui çà content? l'était Viniss. </l>
+          <l xml:lang="rcf"> Quand mêm' li cont' là vié z'histoire, </l>
+          <l xml:lang="rcf">Li mond' n'a pas çanzé 'faut croire ; </l>
+          <l xml:lang="rcf">Azourd'hi, pour vant' z'aut' beauté, </l>
+          <l xml:lang="rcf">Li femm's rôde encor sipité.</l>
+        </lg>
+      </div>
+      <div n="8" type="part">
+        <head>LA LAITIERE ET LE POT AU LAIT </head>
+        <lg>
+          <l xml:lang="rcf"> La vaç mon voisin Nicolas, </l>
+          <l xml:lang="rcf">Dans n'haut d'Bitor, (vous pé bien croire,) </l>
+          <l xml:lang="rcf">Li mois passé l'était mett' bas… </l>
+          <l xml:lang="rcf">" Ç'a bon l'arzent pour mon l'armoire", </l>
+          <l xml:lang="rcf">Bonhomm' y dit : "moi vendr' mon lait. </l>
+          <l xml:lang="rcf">"Dépéç à vous, mon femm' Toinette, </l>
+          <l xml:lang="rcf">"D'çarrier bazar dès que vous s'ra prêt." </l>
+          <l xml:lang="rcf">Man-Toinette souq' son gargoulette, </l>
+          <l xml:lang="rcf">Lav' visaz', trapp' zipon d'patna, </l>
+          <l xml:lang="rcf">Rond'ment li fignol' son toilette, </l>
+          <l xml:lang="rcf">Ensemb' son corsaz' zacona. </l>
+          <l xml:lang="rcf">Palliacat env'lopp' son z'oreilles, </l>
+          <l xml:lang="rcf">Sis son têt' li mett' sombouli, </l>
+          <l xml:lang="rcf">Car, pour porter quatorz' bouteilles, </l>
+          <l xml:lang="rcf">Faut faire attention, mon ami! </l>
+          <l xml:lang="rcf">En mordant di pain gros la croûte, </l>
+          <l xml:lang="rcf">Li l'allonz li pas rondement, </l>
+          <l xml:lang="rcf">Son coer zoyès tout l'long de la route, </l>
+          <l xml:lang="rcf">Li çante à forç qu'li l'est content. </l>
+          <l xml:lang="rcf">"Ho! Ho! li dit, moi va bien vendre! </l>
+          <l xml:lang="rcf">"A c'thère di mond' gourmand di lait. </l>
+          <l xml:lang="rcf">"Ensemb' l'arzent quoi ça quoi ça qu'moi prendre? </l>
+          <l xml:lang="rcf">"Long temps qu'moi rôde élèv' poulet ; </l>
+          <l xml:lang="rcf">"Aç'tons li zoefs, oh! Oui, ça même, </l>
+          <l xml:lang="rcf">"Qui meillèr çôs moi pé cercer? </l>
+          <l xml:lang="rcf">"Nous n'a plis dans li temps d'carême, </l>
+          <l xml:lang="rcf">"Li zoefs y bouille à bon marçé, </l>
+          <l xml:lang="rcf">"C'à qui vaut mié pour nout' ménaze ; </l>
+          <l xml:lang="rcf">"Ma foi Dié moi là bien trouvé! </l>
+          <l xml:lang="rcf">"Mon poul' noir cacaill' pour couvé. </l>
+          <l xml:lang="rcf">"Moi va rapporte à li l'ouvraze. </l>
+          <l xml:lang="rcf">"Moi gagner vingt zoulis poulets, </l>
+          <l xml:lang="rcf">"Va profit' sans donner la peine ; </l>
+          <l xml:lang="rcf">"A c'thèr que l'a fini volaill' faits, </l>
+          <l xml:lang="rcf">"Moi larguer tou't la mêm' simaine. </l>
+          <l xml:lang="rcf">"Li volaill' comm' l'à va si bien! </l>
+          <l xml:lang="rcf">"C'àq mèr poule y vaut son roupie, </l>
+          <l xml:lang="rcf">"Moi va rapport' mon bours' tout plein, </l>
+          <l xml:lang="rcf">"Pour moi content' mon l'aut' l'envie, </l>
+          <l xml:lang="rcf">"Ensemb' monnai' moi prend coçon, </l>
+          <l xml:lang="rcf">"L'espèç mangous la plis meillère, </l>
+          <l xml:lang="rcf">"Moi va soigner proç la maison… </l>
+          <l xml:lang="rcf">"Ah! vous aut', çà qu'ein bonne affaire! </l>
+          <l xml:lang="rcf">"Mon coçon quand qu'lacète à li, </l>
+          <l xml:lang="rcf">" L'était dézà pas mal en viande, </l>
+          <l xml:lang="rcf">"A c'thèr qu'manioc l'a bourre à li, </l>
+          <l xml:lang="rcf">"Pour gras n'a pas ein qui commande. </l>
+          <l xml:lang="rcf">"Qué bel coçon dans n'son l'enclos! </l>
+          <l xml:lang="rcf">" Ç'à qui pé vanter pour la graisse! </l>
+          <l xml:lang="rcf">"Li souris lozer dans'n son dos, </l>
+          <l xml:lang="rcf">"Va touffer! Allons vend' , dépèce. </l>
+          <l xml:lang="rcf">"C'coup là qu'moi fair' ein bon marcé! </l>
+          <l xml:lang="rcf">"Mon pauv' vaç tout sèl y s'ennuie. </l>
+          <l xml:lang="rcf">"L'arzent d'coçon va déboursé </l>
+          <l xml:lang="rcf">"Pour donne à li la compagnie ; </l>
+          <l xml:lang="rcf">"Moi va mett' dé, trois dans'n troupeau, </l>
+          <l xml:lang="rcf"> "Par bonhèr n'en a ein' li pleine, </l>
+          <l xml:lang="rcf">"Dès que l'arrivé, li fait son veau… </l>
+          <l xml:lang="rcf">"Pour rien moi n'a pas donn' la peine. </l>
+          <l xml:lang="rcf">"Vous aut', dire ein pé qué bonhèr </l>
+          <l xml:lang="rcf">"Quand qu'dans'n parc moi va zett' fataque, </l>
+          <l xml:lang="rcf">"Comm' cabri dans son bonne himèr, </l>
+          <l xml:lang="rcf">"D'voir sauter mon p'tit veau cataque! </l>
+          <l xml:lang="rcf">"Mon coer, mon zambe y saute aussi." </l>
+          <l xml:lang="rcf">Toinett' prend z'élan, brann' son tête… </l>
+          <l xml:lang="rcf">Couh !!!…panier ç'app' di sombouli… </l>
+          <l xml:lang="rcf">(Toinett', maman, vous l'était bête!) </l>
+          <l xml:lang="rcf">Dans'n cimin tout' lait l'a fané, </l>
+          <l xml:lang="rcf">L'a fait ein rigol' dans'n la route ;</l>
+          <l xml:lang="rcf">Di mond' qui pass' tout étonné, </l>
+          <l xml:lang="rcf">Dimand' si ça di l'eau d'rouroute? </l>
+          <l xml:lang="rcf">Pauv' ma Toinett' gagn' camiça, </l>
+          <l xml:lang="rcf">Tout' hontès' li cacièt' visaze. </l>
+          <l xml:lang="rcf">Quoi qu'va dir' son gross talinga, </l>
+          <l xml:lang="rcf">Quand qu'li va rentr' dans son ménaze? </l>
+          <l xml:lang="rcf">Toinett' l'a pèr, l'a bien raison. </l>
+          <l xml:lang="rcf">Prends gard', voisin' , li coups de bâton, </l>
+          <l xml:lang="rcf">Vout' n'homm' quand qu'son fangouni monte, </l>
+          <l xml:lang="rcf">N'accout' pas ça qui rôd'li conte.</l>          
+        </lg>
+
+      </div>
+      <div n="9" type="part">
+        <head>LI LIEVRE ENSEMB' MAN-TORTI </head>
+        <lg>
+          <l xml:lang="rcf"> Ein zour maman Torti demande à Lièvr' faraud </l>
+          <l xml:lang="rcf">Pour z'aut' parier ein cours' çà qu'arriv'ra plis tôt. </l>
+          <l xml:lang="rcf">Lièvr' commenç' moque à li. –"Comment, mon gros commère, </l>
+          <l xml:lang="rcf">"Vous' mazin' tout di bon va quitte à moi derrière! </l>
+          <l xml:lang="rcf">"Mais vous la dépass' fou!…Vout' n'âm' vous va hallé, </l>
+          <l xml:lang="rcf">"Comm' çarrett' di Géni' dans n'cimin di brilé. </l>
+          <l xml:lang="rcf">Torti la r'poud : "Assez, 'stin' pas moi davantaze, </l>
+          <l xml:lang="rcf">"Gros pied di bois là-bas va serve à nous bittaze. </l>
+          <l xml:lang="rcf">"Lièvre y révir! Arranz' vous, pis q'vous y vé bitté, </l>
+          <l xml:lang="rcf">"Tant mié pour moi…Bien sir, vous y s'ra dégoté. </l>
+          <l xml:lang="rcf">L'a partis, man-torti hall' son gros carapace </l>
+          <l xml:lang="rcf">Et li lièvre en misouk faire à li la grimace. </l>
+          <l xml:lang="rcf">"Hall' li dit, gros commèr, hall' tout ton l'emplacement </l>
+          <l xml:lang="rcf">"Comm' milets embourbés quand la rivièr' descend : </l>
+          <l xml:lang="rcf">"Moi va març' à mon ais' ; quand qu'li trouve ein z'herbaze </l>
+          <l xml:lang="rcf">Li mord' ein pé didans comm' pour fait badinaze. </l>
+          <l xml:lang="rcf">Temps en temps sis son fess' li debout en fiçant </l>
+          <l xml:lang="rcf">Comm' pour dire : "Man-torti, ah bon dié qu'vous l'est lent! </l>
+          <l xml:lang="rcf">Pour moque encor' plis fort li dit dans n'son langaze : </l>
+          <l xml:lang="rcf">"Gros commèr, moi n'a l'temps nettoyer mon visaze." </l>
+          <l xml:lang="rcf">Avec son patt' di d'vant li gratter son miseau, </l>
+          <l xml:lang="rcf">Comm' si va fair' son barb', ou comme ein vié zacquot. </l>
+          <l xml:lang="rcf">Enfin pour mié fait voir tout son vantard cataque, </l>
+          <l xml:lang="rcf">Li l'allonz' tout son long dans n'mitant la fataque.</l>
+          <l xml:lang="rcf">Li guett' torti marçer qui débatt' et qui soué, </l>
+          <l xml:lang="rcf">Tout comm' ein gros soufflèr sis les récifs éçoué. </l>
+          <l xml:lang="rcf">Enfin l'i r'gard' di côté di bittaze… </l>
+          <l xml:lang="rcf">Li voit torti bien proç qui hallait son couraze. </l>
+          <l xml:lang="rcf">"Allons , l'est temps!" Li dit. Li la prend son z'élan, </l>
+          <l xml:lang="rcf">Li court comment cabri qui sauv' Villiers Adam. </l>
+          <l xml:lang="rcf">Mais li n'en a beau fair, l'a s'trouv' bien camiçatte, </l>
+          <l xml:lang="rcf">Quand qu'li voit qu'man-torti la touç' la born' son patte. </l>
+          <l xml:lang="rcf">Qui çà qu'Lièvr'? – Z'écoliers ça qui gaspill' z'aut' temps. </l>
+          <l xml:lang="rcf">Qui çà qu'Torti ? – Z'élèv' çà qu'l'est bien travaillans. </l>
+          <l xml:lang="rcf">Moi raziss' çà tout li z'enfans collèze, </l>
+          <l xml:lang="rcf">N'en a qu'la têt légèr comment bouçon di lièze. </l>
+          <l xml:lang="rcf">Comm' z'aut' n'en a bon têt' , z'aut' y fait z'aut' vantard, </l>
+          <l xml:lang="rcf">Au z' é z'aut' y mett' vit' , y mett' au travail tard. </l>
+          <l xml:lang="rcf">Mais laquell va gaigner ? Tout mavouz' sans cervelle, </l>
+          <l xml:lang="rcf">Ç'à mêm' va gaign' couronn' ? N'a point, va gagn' miguèle </l>
+          <l xml:lang="rcf">Zécoliers raisonnab' çà qu'blancs y nomm' piocèrs, </l>
+          <l xml:lang="rcf">Va racler tout li prix…Couraze aux travaillèrs.</l>          
+        </lg>
+
+      </div>
+      <div n="10" type="part">
+        <head>LE MEUNIER, SON FILS ET L'ANE </head>
+        <lg>
+          <l xml:lang="rcf"> Moin l'entendi conté (sait pas trop qué l'endroit, </l>
+          <l xml:lang="rcf">Sais pas côté Saint-Paul, ou côté Saint-Bénoit), </l>
+          <l xml:lang="rcf">Zens libr' l'était condir' au bazar z'aut' bourrique, </l>
+          <l xml:lang="rcf">Pour z'aut' payé vingt piast' z'aut' y doit man Mounique. </l>
+          <l xml:lang="rcf">Z'aut' l'était parti dé, li papa, son z'enfant. </l>
+          <l xml:lang="rcf">Pour fair' faraud z'aut' bêt', pour nana l'air fringant, </l>
+          <l xml:lang="rcf">Z'aut' l'amarr' son quat' patt' , la pass' gros bois gaulette. </l>
+          <l xml:lang="rcf">A c'thèr' li papa, son garçon, </l>
+          <l xml:lang="rcf">L'a souq' pardé bouts z'aut' tacon, </l>
+          <l xml:lang="rcf">Et z'aut y çarriait li com' mamzell' qu'en toilette. </l>
+          <l xml:lang="rcf">A peine bourriq' en l'ai y pendiait dan'cimin, </l>
+          <l xml:lang="rcf">Comment battant la cloç' , à v'là qu'ein noir malin : </l>
+          <l xml:lang="rcf">"Compèr' , dire à moi vous, ça la mod' mozambique </l>
+          <l xml:lang="rcf">"Qu'di mond' comment volaill' y taconn' z'aut' bourrique, </l>
+          <l xml:lang="rcf">" Çà qu'ein zouli madam' pour va rôd' palaquin, </l>
+          <l xml:lang="rcf">"Allons fait rigaga, oui va, n'avait!!!…li cien… </l>
+          <l xml:lang="rcf">"Adié, moi press' li pas, moi quitte à vous darrière, </l>
+          <l xml:lang="rcf">"Vous va fait moque à vous dan' tout' cimin entière." </l>
+          <l xml:lang="rcf">Z'enfant dit : "Tout di bon, ça l'est pour crâs' mon z'os. </l>
+          <l xml:lang="rcf">"Bourriq' la lass' mon reins, moi s'en va lass' son dos." </l>
+          <l xml:lang="rcf">Saut' dissis. Li papa tout lambin par darrière, </l>
+          <l xml:lang="rcf">Li train' son zambe. A v'là qu'ein maman bazadière. </l>
+          <l xml:lang="rcf">(vous connaît bazardiér' , ça l'est touzours 'fronté, </l>
+          <l xml:lang="rcf">Çà n'a point d'aut' travail qu'fair' z'aut' lang' trotté.) </l>
+          <l xml:lang="rcf">La commenç' moque à li : " Çà la façon nouvelle! </l>
+          <l xml:lang="rcf">"Ton papa 'touff' di çaud, comment vié haridelle, </l>
+          <l xml:lang="rcf">"Et toi z'enfant lou-lou, toi fais ton sais pas quoi, </l>
+          <l xml:lang="rcf">"Toi fais comment li blancs qui promèn' baraçoi. </l>
+          <l xml:lang="rcf">"Allons, descends, m'avouz'." Z'enfant n'a pas 'té bête, </l>
+          <l xml:lang="rcf">Li la r'lève à son tour : "Prends gard', maman, vout' tête, </l>
+          <l xml:lang="rcf">"Vous sacouill' vout' panier avec vout' l'embarras, </l>
+          <l xml:lang="rcf">"Sombli fini çappé, brinzell' va timbe en bas." </l>
+          <l xml:lang="rcf">Mais quand mêm' son raison, la gagné grand la honte; </l>
+          <l xml:lang="rcf">Arrive ein pé plis loin, li d'scend, li papa monte, </l>
+          <l xml:lang="rcf">Z'aut' la 'mazin' bien faire avec z'aut' l'arranz'ment, </l>
+          <l xml:lang="rcf">Mais fait tout ça qui vé di mond' zamais content ; </l>
+          <l xml:lang="rcf">Ça qui vé flatte à li nana trop fort l'ouvraze, </l>
+          <l xml:lang="rcf">Pour fait tout' volonté faut qu'nana bon couraze. </l>
+          <l xml:lang="rcf">A v'là pas qu'arrivé proç' ein pied tamarin, </l>
+          <l xml:lang="rcf">Z'aut' l'a r'zoindr' trois négress' après vend' flangourin. </l>
+          <l xml:lang="rcf">Acoute à vous li fill' : "Guett', ma cèr', vié papangue, </l>
+          <l xml:lang="rcf">"Son z'enfant 'touff' di çaud, li tiré son la langue, </l>
+          <l xml:lang="rcf">"Et çà verrat l'engrais li roulé son li rein, </l>
+          <l xml:lang="rcf">"Comment di mond' malad' s'a va rôd' cirizien ; </l>
+          <l xml:lang="rcf">"Vous n'a pas gouvernèr, visaz' coulèr' marmite, </l>
+          <l xml:lang="rcf">"Pour fait lèv' la poussièr' ensembl' li pion vout' souite." </l>
+          <l xml:lang="rcf">Li papa prend colèr' : "Dis, toi n'a pas bésoin </l>
+          <l xml:lang="rcf">"Zett' ton mauvais raison çà qu'di mond' dans n'cimin, </l>
+          <l xml:lang="rcf">"Ton la lang' l'est trop l'zèr' , mett' pas moin dans ton conte ; </l>
+          <l xml:lang="rcf">"Ha dié! bon dié, zourd'hi moi gagné trop la honte, </l>
+          <l xml:lang="rcf">"Mont' z'enfant vitement si la croup' mon z'ânon." </l>
+          <l xml:lang="rcf">Pauv' diab' ! Quand son dé maîtr' l'était califourçon, </l>
+          <l xml:lang="rcf">Li souait, li dos pliait comment bâton vié bobre. </l>
+          <l xml:lang="rcf">(Rié pas, z'histoir' li vrai, çà l'arriv' mois d'octobre), </l>
+          <l xml:lang="rcf">Son z'oreille y brannait comment la feill' bambou. </l>
+          <l xml:lang="rcf">Et pour chant' son manièr', ma foi! n'a point li goût ; </l>
+          <l xml:lang="rcf"> Li va quéti, quéti. Quand qu'l'arriv' Sainte-Marie, </l>
+          <l xml:lang="rcf">Z'aut' l'a r'zoindr' ein gros blanc, li la commenç qui crie : </l>
+          <l xml:lang="rcf">"Papa, si ton zân' mert, au moins garde la peau, </l>
+          <l xml:lang="rcf">"Z'en prendrai des souliers ; porte-là cez Rambeau." </l>
+          <l xml:lang="rcf">Ça mêm' l'acève à z'aut' : Pauvre papa maïoque! </l>
+          <l xml:lang="rcf">Quand li voit li blancs mêm' la commenç qui s'en moque ; </l>
+          <l xml:lang="rcf">A terr' z'aut' dé. A c'thèr' bourriquet, z'oreill' haut, </l>
+          <l xml:lang="rcf">Comment gros négociant, li promèn' en faraud. </l>
+          <l xml:lang="rcf">Mais n'a pas tout encor : arrive à proç' la Mare, </l>
+          <l xml:lang="rcf">La bande moussié Frion l'était fouillé cambâre. </l>
+          <l xml:lang="rcf">(Moin crois bien commandèr manièr' n'a pas té là), </l>
+          <l xml:lang="rcf">La commenç' pourgalé : "holà, z'amis, holà! </l>
+          <l xml:lang="rcf">"Dire ein pé ça z'ânon, cousin di roi Radame, </l>
+          <l xml:lang="rcf">"Quz'aut' y flatte à li comment mari son femme ; </l>
+          <l xml:lang="rcf">"Mais z'aut' l'a dépass' bêt' ! Quand qu'ein maîtr' l'est trop bon, </l>
+          <l xml:lang="rcf">"Bourriq' dit dans son coer : moi li maîtr' li qu'zânon!" </l>
+          <l xml:lang="rcf">Li papa la r'viré : "Oui, moi z'ânon z'arabe, </l>
+          <l xml:lang="rcf">"Moi milet la Plata, tout bourriq' qu'vous cacabe, </l>
+          <l xml:lang="rcf">"Appell' à moi bourriq', appell' à moi milet, </l>
+          <l xml:lang="rcf">"Bourriq' n'en a bon têt' , comm' mon famill' moi fait, </l>
+          <l xml:lang="rcf">"Z'aut' montre à moi siprit, avant moi l'était bête, </l>
+          <l xml:lang="rcf">"Azourd'hi qu'moi bourriq' moi va faire à mon tête."</l>          
+        </lg>
+
+      </div>
+      <div n="11" type="part">
+        <head>LES AVENTURES DE PHAETON </head>
+        <lg>
+          <l xml:lang="rcf"> Soleil l'était dans son maison, </l>
+          <l xml:lang="rcf">Quand ein zour son fils Phaéton </l>
+          <l xml:lang="rcf">Rentr' dans la çambr' tout en colère. </l>
+          <l xml:lang="rcf">Li morgrogn', li l'était qui plère, </l>
+          <l xml:lang="rcf">Visaz' l'était rouz' comm' piment</l>
+          <l xml:lang="rcf">A forç' son çagrin l'était grand. </l>
+          <l xml:lang="rcf">Li dit : " Ça n'a pas ein la honte! </l>
+          <l xml:lang="rcf">"Ça même li sang mon visaz' monte, </l>
+          <l xml:lang="rcf">"Di mond' , (comment qu'moi va dir' çà?) </l>
+          <l xml:lang="rcf">"L'a dit qu'vous n'a pas mon papa… </l>
+          <l xml:lang="rcf">"Ah ! Dié! Bon dié! Mon coer y saigne, </l>
+          <l xml:lang="rcf">" Ça même moi viens rôd' bon z'enseigne, </l>
+          <l xml:lang="rcf">"Et pour z'aut' la guèl' moi fermer, </l>
+          <l xml:lang="rcf">"Qui quéq'çôs' moi viens demander. </l>
+          <l xml:lang="rcf">"Faut qu'vous prêt' à moi vout' voitire, </l>
+          <l xml:lang="rcf">"Et vout' cival blanc pour montire, </l>
+          <l xml:lang="rcf">"A c'thèr' z'aut' va dir' : Phaéton, </l>
+          <l xml:lang="rcf">" Ça z'enfant soleil tout di bon. </l>
+          <l xml:lang="rcf">"Papa, prête à moi vout' carriole, </l>
+          <l xml:lang="rcf">"Vout' cival ça qui caracole, </l>
+          <l xml:lang="rcf">"Moi connais vous là l'est trop bon </l>
+          <l xml:lang="rcf">"Pour vous cacab' dire à moi non." </l>
+          <l xml:lang="rcf">Soleil, en branlant son la tête, </l>
+          <l xml:lang="rcf">La r'pond : " Ça qui trop bon li bête, </l>
+          <l xml:lang="rcf">"Vous y vient flatt' flatter mon coer, </l>
+          <l xml:lang="rcf">"Prend' gard' çà mêm' pour vou' malhèr, </l>
+          <l xml:lang="rcf">"Vous dimande à moi mon voitire, </l>
+          <l xml:lang="rcf">"Mais ça l'est malaisé condire, </l>
+          <l xml:lang="rcf">"Arranz' -vous! Pour pass' vout' çagrin, </l>
+          <l xml:lang="rcf">"Vous pé prend' sél'ment pour dimain." </l>
+          <l xml:lang="rcf">A c'thèr' Phaéton prend son botte, </l>
+          <l xml:lang="rcf">A forç' zoyès' son coer y saute; </l>
+          <l xml:lang="rcf">Li court, li vir', dans son plac'ment, </l>
+          <l xml:lang="rcf">Li vient fou à caus' trop content. </l>
+          <l xml:lang="rcf">Li dit son noir : "Allons, dépèce, </l>
+          <l xml:lang="rcf">"pour toi vient frotter mon calèce, </l>
+          <l xml:lang="rcf">"Coupe à moi li fouet là bien grand </l>
+          <l xml:lang="rcf">"Pour moi piq' cival rondement." </l>
+          <l xml:lang="rcf">L'a parti dans n'cimin ride, </l>
+          <l xml:lang="rcf">A droite à gauç' li hall' la bride ; </l>
+          <l xml:lang="rcf">Et pour li fair' voir son faraud, </l>
+          <l xml:lang="rcf">Li va, li vient, en bas, en haut. </l>
+          <l xml:lang="rcf">Cival qui trouv' son main lizère : </l>
+          <l xml:lang="rcf">"N'a pas ça mon maît' l'ordinaire! </l>
+          <l xml:lang="rcf">"Ah! pitit garçon vous 'tourdi, </l>
+          <l xml:lang="rcf">"Moi va fait mon farce azourdi. </l>
+          <l xml:lang="rcf">"Moi l'entendi, la s'maine dernière, </l>
+          <l xml:lang="rcf">"N'en a bel cival sis la terre, </l>
+          <l xml:lang="rcf">"Sais pas si l'est fait comme à nous, </l>
+          <l xml:lang="rcf">"Contr' cival là moi l'est zaloux </l>
+          <l xml:lang="rcf">"Allons voir si zouli montire </l>
+          <l xml:lang="rcf">"Si comm' moi n'en a l'encolire." </l>
+          <l xml:lang="rcf">A c'thèr' li l'a piq' dret en bas ; </l>
+          <l xml:lang="rcf">Phaéton li mett' son dé bras </l>
+          <l xml:lang="rcf"> Pour esseye arrêter la bride ; </l>
+          <l xml:lang="rcf">Mais v'là qu'li casse ein la guide! </l>
+          <l xml:lang="rcf">Cival, ein fois qu'brid' l'a pété, </l>
+          <l xml:lang="rcf">Li commence fait son volonté, </l>
+          <l xml:lang="rcf">L'est dézà rendi presqu'à terre, </l>
+          <l xml:lang="rcf">Di l'eau y bouill' dans la rivière, </l>
+          <l xml:lang="rcf">Forêts y broul', di monde maté </l>
+          <l xml:lang="rcf">A caus' voitir' trop proç l'a té. </l>
+          <l xml:lang="rcf">Pa Zipiter, dans n'coin d'z'olimpe, </l>
+          <l xml:lang="rcf">L'après ammar' d'Zinon la Guimpe, </l>
+          <l xml:lang="rcf">Quand qu'li la guett' tout çà mic-cac, </l>
+          <l xml:lang="rcf">Li dit pas rien mais…cra, cra, crac! </l>
+          <l xml:lang="rcf">Li fait ronfle ein coup son tonnerre, </l>
+          <l xml:lang="rcf">Ein coup qui fait trembler la terre, </l>
+          <l xml:lang="rcf">A peine ça grand coup l'a parti </l>
+          <l xml:lang="rcf">Qu'Phaéton l'a calbit' rôti. </l>
+          <l xml:lang="rcf">Son corps l’a timb' dans la rivière! </l>
+          <l xml:lang="rcf">Soleil çagrin mais…quoi qu'va faire ? </l>
+          <l xml:lang="rcf"> Moi razist' çà li z'habitans. </l>
+          <l xml:lang="rcf">N'en a qui fait li négocians, </l>
+          <l xml:lang="rcf">Mais comm' z'aut' connaît pas la route, </l>
+          <l xml:lang="rcf">Z'aut' y calbit' , y fait banq'route : </l>
+          <l xml:lang="rcf">Çà fait voir faut pas essayer </l>
+          <l xml:lang="rcf">Ein quéq'çôs' n'est pas not' métier.</l>          
+        </lg>
+
+      </div>
+      <div n="12" type="part">
+        <head>LE RAT DE VILLE ET LE RAT DES CHAMPS </head>
+        <lg>
+          <l xml:lang="rcf"> Salaz' , dans n'la grande Ilette, </l>
+          <l xml:lang="rcf">N'avait ein rat, vié zhabitant ; </l>
+          <l xml:lang="rcf">Sous ein gros roç, à proç ein bois d'gaulette, </l>
+          <l xml:lang="rcf">Li n'avait bâti son boucan. </l>
+          <l xml:lang="rcf">Dans n'son p'tit cas li vivr' tranquille ; </l>
+          <l xml:lang="rcf">Li content batat' , bred' lastron ; </l>
+          <l xml:lang="rcf">Li 'mazin' pas sèl'ment la ville, </l>
+          <l xml:lang="rcf">Son coer l'amarré 'bitation. </l>
+          <l xml:lang="rcf">Ein jour li l'entend grand tapaze, </l>
+          <l xml:lang="rcf">Ça l'était ein rat Saint-Dinis </l>
+          <l xml:lang="rcf">Qui gratt-grattait la port' son case ; </l>
+          <l xml:lang="rcf">Quand qu'li la rouvr' , la rest' camis. </l>
+          <l xml:lang="rcf">(Dans n'son grand-bois l'était hontèse </l>
+          <l xml:lang="rcf">Caq' fois qu'li guett' di mond' 'tranzer) ; </l>
+          <l xml:lang="rcf">Mais li rat Saint-Dinis dans ein n'son façon joyèze </l>
+          <l xml:lang="rcf">Dit : "Moi vient voir à vous, si n'a pas déranzer ; </l>
+          <l xml:lang="rcf">"A la vill' moi l'était malade, </l>
+          <l xml:lang="rcf">"Mon l'appétit n'a pas 'tait grand, </l>
+          <l xml:lang="rcf">(Zens trop riç souvent mal portant!) </l>
+          <l xml:lang="rcf">"Moi l'a vient prend' li-zeaux pour faire ein promenade, </l>
+          <l xml:lang="rcf">"Med'cin l'a dit qu'l'est bon pour mon tempérament ; </l>
+          <l xml:lang="rcf">"Comm' moi l'annoui' la sourç' , moi vir'vir la zournée, </l>
+          <l xml:lang="rcf">"Tout' li côtés, moi sauter comm' cabri; </l>
+          <l xml:lang="rcf">"Pendant qu'après rôder, moi l'avis vout' fimée, </l>
+          <l xml:lang="rcf">" Ça mêm' que moi la rentre ici </l>
+          <l xml:lang="rcf">–"Vous l’a bien fait l'a r'pond li maîtr' la case, </l>
+          <l xml:lang="rcf">"Moi l'est bien content voir à vous ; </l>
+          <l xml:lang="rcf">"Et nous va fait z'amis sans tarder davantaze ; </l>
+          <l xml:lang="rcf">"Vous va prend' ein coup d'sec et diz'ner ensenbl' nous." </l>
+          <l xml:lang="rcf">A c't'her, rat d'Salazi' li branner son ménaze,</l>
+          <l xml:lang="rcf">Pour li parpar son dizéner ; </l>
+          <l xml:lang="rcf">(Traite ein zens Saint-Dinis, ma foi! grand l'ouvraze.)</l>
+          <l xml:lang="rcf">Ça qu'li n'en a d'meillèr li pourgal' pour donner. </l>
+          <l xml:lang="rcf">Quand qu'li diz'ner l'est prêt, z'aut' dé l'assise à terre. </l>
+          <l xml:lang="rcf">Li rat d'vill' l'alonz' sis bersac, </l>
+          <l xml:lang="rcf">(L'était la plaç d'honnèr,) l'aut' li rat rest' darrière </l>
+          <l xml:lang="rcf">Pour règl' son politess' prend gard' va fair' mic-mac; </l>
+          <l xml:lang="rcf">Li serv' sis feill' banan' li sonz' ensembl' batate, </l>
+          <l xml:lang="rcf">Mais li rat Saint-Dinis goût' ça li bout d'son dent. </l>
+          <l xml:lang="rcf">Li pé pas envaler, li trouv' qu'li sonze y gratte, </l>
+          <l xml:lang="rcf">Et pour manzer batat' , ma foi! n'a pas gourmand. </l>
+          <l xml:lang="rcf">Li pauvr' rat 'bitation (li la 'mazin' bien faire), </l>
+          <l xml:lang="rcf">L'a vouli mett' à tabl'morceau tang' boucané </l>
+          <l xml:lang="rcf">Qu'li l'était gard' l'année entière, </l>
+          <l xml:lang="rcf">L'était dir comm' di couir tanné. </l>
+          <l xml:lang="rcf">A pein' li rat gros-têt' la senti l'odèr tangue, </l>
+          <l xml:lang="rcf">La lève ein coup, la sauv' dihors boucan, </l>
+          <l xml:lang="rcf">Son l'estomac la r'mont zisqu'à son langue : </l>
+          <l xml:lang="rcf">"Moi mal au coer, li dit ça prendre à moi souvent ; </l>
+          <l xml:lang="rcf">"Mon cer ami, bien grand merci vout' tangue, </l>
+          <l xml:lang="rcf">"Mon tour aussi moi va régale à vous ; </l>
+          <l xml:lang="rcf">"Sivre à moi Saint-Dinis, quitte ein pé vout' zang-zangue, </l>
+          <l xml:lang="rcf">"N'a pas zist' vous rester comment vié toulouroux </l>
+          <l xml:lang="rcf">"Dans n'mitant vout' grand bois ; allons nous fair' bombance, </l>
+          <l xml:lang="rcf">"Sivre à moi Saint-Dinis, voir tout' quéq'çôs' nouveaux ; </l>
+          <l xml:lang="rcf">"Allons nous prend' la dilizence ; </l>
+          <l xml:lang="rcf"> "Moi fair' manze à vous bon morceaux. </l>
+          <l xml:lang="rcf">Zab! zab! zab! z'aut y court, z'aut arriv' la grand'route, </l>
+          <l xml:lang="rcf">Z'aut' cacièt' proç la case à Prosper Valentin. </l>
+          <l xml:lang="rcf">Li rat d'Saint-Dinis y dit : "La voitire vient! Acoute… </l>
+          <l xml:lang="rcf">"Acout' sonnett' cival, acout' …drelin, drelin!…" </l>
+          <l xml:lang="rcf">Pendant qu'Moussié Zilien la d'scend boir son la goutte, </l>
+          <l xml:lang="rcf">Li dé z'amis la coul' sous l'paquets vitement… </l>
+          <l xml:lang="rcf">Fouett' cocer, rondement comm' l'armée en déroute ; </l>
+          <l xml:lang="rcf">Z'aut' l'arriv' Saint-Dinis à proç soleil couçant. </l>
+          <l xml:lang="rcf">A terr' z'aut' dé …z'aut y gliss' sous la paille </l>
+          <l xml:lang="rcf">Pour laisser timber la clarté. </l>
+          <l xml:lang="rcf">Dès qui fait noir : "Allons nous fair' ripaille," </l>
+          <l xml:lang="rcf">Commenç dir' li rat d'vill' fité. </l>
+          <l xml:lang="rcf">"L'Hôtel Zoinvill' nous pé vanté. </l>
+          <l xml:lang="rcf">"Zistement tout li capitaines </l>
+          <l xml:lang="rcf">"Azourd'hi l'a donn' grand diner ; </l>
+          <l xml:lang="rcf">Nous va trouver li tabl' tout' pleines,</l>
+          <l xml:lang="rcf">Nout' dents n'aura pour travailler. </l>
+          <l xml:lang="rcf">Comm' ça qu'li rat d'la vill' li l'arranz' son z'affaire. </l>
+          <l xml:lang="rcf">Son camarad' sivre à li doucement, </l>
+          <l xml:lang="rcf">Son coer y fait tic-tac, li guett' souvent darrière, </l>
+          <l xml:lang="rcf">Li la pèr, Saint-Dinis si grand! </l>
+          <l xml:lang="rcf">Z'aut' dé la passé dissous la porte, </l>
+          <l xml:lang="rcf">Z'aut la rentr' dans n'mitant d'salon, </l>
+          <l xml:lang="rcf">Bon manzer z'aut' y trouv' tout' sorte, </l>
+          <l xml:lang="rcf">Volaill', pâté, censerv', zambon. </l>
+          <l xml:lang="rcf">Faut voir comment z'aut dé grignotte! </l>
+          <l xml:lang="rcf">Croc, croc, z'aut' y friç, hardiment, </l>
+          <l xml:lang="rcf">M'assir' à vous, n'a pas besoin piment. </l>
+          <l xml:lang="rcf">Mais vlà qu'ein domestique y rentre… </l>
+          <l xml:lang="rcf">Couh'…nout' dé rats la saute en bas. </l>
+          <l xml:lang="rcf">Z'aut n'a pas 'tait moitié plein ventre </l>
+          <l xml:lang="rcf">Qu'z'aut' l'est dézà dans l'embarras. </l>
+          <l xml:lang="rcf">Li domestique y sort…à c'thèr li rat d'la ville </l>
+          <l xml:lang="rcf">L'a dit : "Allons nous manze encor ; </l>
+          <l xml:lang="rcf">Mais li rat'bitation rest' bêt', n'a pas tranquille, </l>
+          <l xml:lang="rcf">Di pèr l'est dézà moitié mort. </l>
+          <l xml:lang="rcf">Li r'commenç' pourtant son boucée, </l>
+          <l xml:lang="rcf">Li bourr' pâté dans n'son zabot… </l>
+          <l xml:lang="rcf">Miaou! Vlà, qu'ein gros matou la saut' par la croisée, </l>
+          <l xml:lang="rcf">Li vé gaigner son part d'fricot. </l>
+          <l xml:lang="rcf">Li dé z'amis lance ein coup par la f'nêtre ; </l>
+          <l xml:lang="rcf">(L'étail rest' ouvert' par bonhèr.) </l>
+          <l xml:lang="rcf">Li rat d'vill' dit : "Tal'hèr, pét-être, </l>
+          <l xml:lang="rcf">"Nous pourra rentrer. –Moi la pèr, </l>
+          <l xml:lang="rcf">"Moi la pèr trop ; salam, compère, </l>
+          <l xml:lang="rcf">La r'viré li rat'bitation. </l>
+          <l xml:lang="rcf">"Grand merci vout’l’invitation </l>
+          <l xml:lang="rcf">"Moi n'embrass' plis vout' bonn' çère, </l>
+          <l xml:lang="rcf">"Saint-Dinis troubl' mon dizestion ; </l>
+          <l xml:lang="rcf">"Pour moi manz' tranquill' mon ration, </l>
+          <l xml:lang="rcf">"La grande Ilette l'est plis meillère ; </l>
+          <l xml:lang="rcf">"Moi s'en va r'zoindre' mon brèd' lastron, </l>
+          <l xml:lang="rcf">"Moi n'acout'ra plis l'ambition, </l>
+          <l xml:lang="rcf">"Vaut mié manzer gros balle et dort la nouit entière.</l>          
+        </lg>
+
+      </div>
+      <div n="13" type="part">
+        <head>LE RENARD ET LA CIGOGNE </head>
+        <lg>
+          <l xml:lang="rcf">(Li cien ensemb' z'aigrette) </l>
+          <l xml:lang="rcf"> Li cien noir d'François Magallon </l>
+          <l xml:lang="rcf">L'était invit' commér' z'aigrette </l>
+          <l xml:lang="rcf">Pour vient manzer rougaill' civrette, </l>
+          <l xml:lang="rcf">Kary brinzell' et brèd' cresson. </l>
+          <l xml:lang="rcf">Li dit tout bas : "(Guett' son mal faire!) </l>
+          <l xml:lang="rcf">"Vous n'manz'ra pas tout mon commére ; </l>
+          <l xml:lang="rcf">"Li grain manzer piti piti morceau." </l>
+          <l xml:lang="rcf">Li fait soso di riz, soso clair comm' di l'eau. </l>
+          <l xml:lang="rcf">Quand qu'manzer finit couit, z'aut' dé l'assis' à table, </l>
+          <l xml:lang="rcf">Mais li tout sèl pour manzer l'est cacable, </l>
+          <l xml:lang="rcf">Li baliait li plat rondement </l>
+          <l xml:lang="rcf">Et man z'aigrett' y guett' sél'ment. </l>
+          <l xml:lang="rcf">Son la bec l'est trop long', li piq' piq' comm' çà même, </l>
+          <l xml:lang="rcf">Li pé pas manz' manzer l'est mou comment la crème, </l>
+          <l xml:lang="rcf">Mais li fait pas semblant li dit :"Merci, z'ami, </l>
+          <l xml:lang="rcf">"Vout' tour aussi mon cas' vous va vini, </l>
+          <l xml:lang="rcf">"Quand qu'moi n'a r'joind' di monde honnête, </l>
+          <l xml:lang="rcf">"Tout comment vous, moi coutim' rend' z'aut' fête. </l>
+          <l xml:lang="rcf">"Moi n'en a cousin' Bras-Panon, </l>
+          <l xml:lang="rcf">"Zédi va port' à moi la viande ensemb' graton… </l>
+          <l xml:lang="rcf">"-Va porte à vous la viande! soupelait, mon commère, </l>
+          <l xml:lang="rcf">"Ci zour là nous va fair' bonn' cère. </l>
+          <l xml:lang="rcf">"N'a point quéq'çôs' qui va fair' moi rester ; </l>
+          <l xml:lang="rcf">"Zédi matin vous pé compter." </l>
+          <l xml:lang="rcf">Zédi matin li l'arrive avant l'hère. </l>
+          <l xml:lang="rcf">Z'aigrett' visaz' çagrin l'a commence : "Ah! compère, </l>
+          <l xml:lang="rcf">"Vous là voudra bien séquiser, </l>
+          <l xml:lang="rcf">" Çat la saut' sis la tabl' , tout' li plats l'a brisé. </l>
+          <l xml:lang="rcf">"Moi l'était blizé mett' manzer dans n'gargoulette." </l>
+          <l xml:lang="rcf">(n'avait siprit commèr' z'aigrette!) </l>
+          <l xml:lang="rcf">"Allons-nous manz' touzours. " Son grand la bec pointi </l>
+          <l xml:lang="rcf">Plonz', quand même li trou l'est piti, </l>
+          <l xml:lang="rcf">Li hall' hardiment bon bouçée, </l>
+          <l xml:lang="rcf">Et li cien tant sél'ment li sentir la fimée. </l>
+          <l xml:lang="rcf">Faut voir vilain grimaç qu'li fait, </l>
+          <l xml:lang="rcf">Quand qu'li souq' gargoulett' pour avis' li collet. </l>
+          <l xml:lang="rcf">Ein’ fois qu'z'aigrette plein ventr', li dit : "Salam, compère, </l>
+          <l xml:lang="rcf">"Moi s'en va, moi n'en a z'affaire." </l>
+          <l xml:lang="rcf">Quand qu'z'aut' l'a séparé , n'a pas 'tait bons amis. </l>
+          <l xml:lang="rcf">Li cien, li ventr'plat, tout camis, </l>
+          <l xml:lang="rcf">La r'tourn' la cas' son maîtr' , son qué rentr' son patte." </l>
+          <l xml:lang="rcf"> Vous donne à moi manioc, moi rendre à vous batate.</l>          
+        </lg>
+
+      </div>
+      <div n="14" type="part">
+        <head>LE RENARD ENSEMBL' LI BOUC </head>
+        <lg>
+          <l xml:lang="rcf"> Pitit renard fité l'était faire ein voyage, </l>
+          <l xml:lang="rcf">Ensenble ein papa bouc gras comm' vié négociant ; </l>
+          <l xml:lang="rcf">Son li corn' l'était long' comment les dents z'alphant. </l>
+          <l xml:lang="rcf">Z'aut' dex amis' la route en contant badinaze. </l>
+          <l xml:lang="rcf">Mais, quand qu'la travers' Grand-Brûlé, </l>
+          <l xml:lang="rcf">Z'aut' la lang' dans' n'la gorz' v'là qu'la commenç collé. </l>
+          <l xml:lang="rcf">Li bouc commenç : "Moi tout en naze! </l>
+          <l xml:lang="rcf">"La soif y touffe, y 'trangle à moi ; </l>
+          <l xml:lang="rcf">"Moi n'a pas cacab' davantaze, </l>
+          <l xml:lang="rcf">"Mon la lang' vini sec comm' çà qu'milet d'çarroi. </l>
+          <l xml:lang="rcf">Enfin z'aut' l'arriv' Saint-Philippe, </l>
+          <l xml:lang="rcf">Li bouc la gué l’encor' : "Bon Dié! Moi l'est fini? </l>
+          <l xml:lang="rcf">"La soif y broulé mon la tripe, </l>
+          <l xml:lang="rcf">"Trouve ein pé di l'eau, mon z'ami. </l>
+          <l xml:lang="rcf">Li renard l'a r'viré! "Guette!…Ein puits!…Bon couraze, </l>
+          <l xml:lang="rcf">"N'en a beaucoup di l'eau dans n'fond, </l>
+          <l xml:lang="rcf">"Vous va rafraichir vout' visaze ; </l>
+          <l xml:lang="rcf">"Embarrass' pas si l'est profond. </l>
+          <l xml:lang="rcf">Tout' dé saut' en brital, sans casser z'aut' la patte; </l>
+          <l xml:lang="rcf">(Ma foi Dié! Z'aut' l'avait bonhèr), </l>
+          <l xml:lang="rcf">Z'aut' y détremp' gosier qui gratte ; </l>
+          <l xml:lang="rcf">Mas'sire à vous z'aut' y boir di bon coeer. </l>
+          <l xml:lang="rcf">Z'aut' y boire, y boire grand gorzée, </l>
+          <l xml:lang="rcf">Z'aut ventr' l'est gonflé comm' ballon, </l>
+          <l xml:lang="rcf">Faut voir z'aut' moustaç tout' frisée, </l>
+          <l xml:lang="rcf">Qui plonz' sous l'eau zisqu'au menton. </l>
+          <l xml:lang="rcf">Enfin li bouc la r'prendre haleine : </l>
+          <l xml:lang="rcf">"Ha!!! moi la bien boir', Dié merci, </l>
+          <l xml:lang="rcf">"Moi l'a rempli mon gros bedaine. </l>
+          <l xml:lang="rcf">"Mais comment qu'va sortir d'ici, </l>
+          <l xml:lang="rcf">Pitit renard fité la r'pond : "Dalon, acoute, </l>
+          <l xml:lang="rcf">"Çà qu'mon siprit t'à l'hèr' vient d'maziner. </l>
+          <l xml:lang="rcf">"Moi la trové moyen de r'tourn' dans la bonn' route, </l>
+          <l xml:lang="rcf">"En haut di puits moi l'est sir nous ram'ner. </l>
+          <l xml:lang="rcf">"Dibout' à vous contr' la miraille, </l>
+          <l xml:lang="rcf">"Moi grimper tout di long vout' dos ; </l>
+          <l xml:lang="rcf">"Moi n'a pas plis lourd qu'ein marmaille, </l>
+          <l xml:lang="rcf">"Vous n'sentira pas l'poids d'mon z'os. </l>
+          <l xml:lang="rcf">"Arrive en haut, moi tendre à vous la patte, </l>
+          <l xml:lang="rcf">"Pour bien halle à vous en montant… </l>
+          <l xml:lang="rcf">Li bouç bébêt' comment criol' batate, </l>
+          <l xml:lang="rcf">Laiss' fair' …Renard dehors, la commenç son fiçant : </l>
+          <l xml:lang="rcf">"Z'ami, siquise à moi, n'en a beaucoup z'affaire, </l>
+          <l xml:lang="rcf">"Salam, moi quitte à vous darrière ; </l>
+          <l xml:lang="rcf">"Mais commenç plis quéq'çôs' vous n'a pas sir finir, </l>
+          <l xml:lang="rcf">"Descends plis dans ein plaç vous n'a pas si sortir.</l>          
+        </lg>
+
+      </div>
+      <div n="15" type="part">
+        <head>LE REQUIN </head>
+        <lg>
+          <l xml:lang="rcf"> A proç' li cap bon l'Espérance, </l>
+          <l xml:lang="rcf">Ein jour ein gros papa réquin</l>
+          <l xml:lang="rcf">L'était rôdé pour remplir son la panse ; </l>
+          <l xml:lang="rcf">Çà bébêt nana toujours faim. </l>
+          <l xml:lang="rcf">A v'là qu'li la guette ein navire. </l>
+          <l xml:lang="rcf">"Ho! Ho! la dit , moi gagn' manzer." </l>
+          <l xml:lang="rcf">Li pliç' son dents, li tourn', li vire, </l>
+          <l xml:lang="rcf">Son la bouç' commenç' démanzer. </l>
+          <l xml:lang="rcf">Mais capitain' n'a pas té bête, </l>
+          <l xml:lang="rcf">La souque ein gros morceau di lard. </l>
+          <l xml:lang="rcf">"Réquin, li dit, ton viand' li prête, </l>
+          <l xml:lang="rcf">"T'al'hèr toi payé ton vantard." </l>
+          <l xml:lang="rcf">Li réquin l'appell' son pilote : </l>
+          <l xml:lang="rcf">"Pilot' , la dit, moi fair' ribotte." </l>
+          <l xml:lang="rcf">Piti pilot' l'était fité : </l>
+          <l xml:lang="rcf">"Manz' pas, réquin, quand mêm' pâté, </l>
+          <l xml:lang="rcf">"Quand mêm' zambon, quand mêm' saucisse, </l>
+          <l xml:lang="rcf">"Car li blancs là nana malice ; </l>
+          <l xml:lang="rcf">"Moi dire à vous manz' pas réquin </l>
+          <l xml:lang="rcf">"Car sous la viande nanali z'ain." </l>
+          <l xml:lang="rcf">Li réquin l'a répond tout en colère : </l>
+          <l xml:lang="rcf">"Pilot' vous nana trop mystère </l>
+          <l xml:lang="rcf">"Moi vois bien vous là laç' li coer, </l>
+          <l xml:lang="rcf">"Nous pé sauver si vous la pèr." </l>
+          <l xml:lang="rcf">Li lanç' ein coup! Li l'attrap' son bocée, </l>
+          <l xml:lang="rcf">Mais v'là son la guèle accrocée…</l>
+          <l xml:lang="rcf">Halle à bord! Tout' li matilot </l>
+          <l xml:lang="rcf">Bourr' gros di bois dans son zabot, </l>
+          <l xml:lang="rcf">Z'aut' zir' à li dan' tout' manière </l>
+          <l xml:lang="rcf">Z'aut' fait passe à li la misère. </l>
+          <l xml:lang="rcf">Quand tout matilot la bien ri, </l>
+          <l xml:lang="rcf">Z'aut' y fait couit' , pour faire cari ; </l>
+          <l xml:lang="rcf">Dans n'mât z'aut' y clout' son mâçoire. </l>
+          <l xml:lang="rcf">Ça même la finis mon z'histoire. </l>
+          <l xml:lang="rcf"> Fais pas comment réquin, z'ami, </l>
+          <l xml:lang="rcf">Son gourmand la fait mort à li.</l>          
+        </lg>
+
+      </div>
+      <div n="16" type="part">
+        <head>LA TORTUE ET LES DEUX CANARDS </head>
+        <lg>
+          <l xml:lang="rcf"> Moi tire ein cont' pays Bourbon. </l>
+          <l xml:lang="rcf">En bas d'rempart d'la Possession</l>
+          <l xml:lang="rcf">L'avait ein torti vié grand' mère, </l>
+          <l xml:lang="rcf">Mais quand mêm' vié son têt' l'était lizère ; </l>
+          <l xml:lang="rcf">Au lié rest' tranquill' dans son coin, </l>
+          <l xml:lang="rcf">Vlà pas la mazin' s'en va loin. </l>
+          <l xml:lang="rcf">Li dit dans n'fond d'son coer : "Zécoliers gagn'vacance, </l>
+          <l xml:lang="rcf">"Tout' blancs gros'têt' s'en va promène en France, </l>
+          <l xml:lang="rcf">"Moi tout sèl moi rest' dans mon trou! </l>
+          <l xml:lang="rcf">"N'a point! …moi va rôd' ein bambou, </l>
+          <l xml:lang="rcf">"Moi louer houit gros canards manille, </l>
+          <l xml:lang="rcf">"Va porte à moi St-Lé pour voir mon famille." </l>
+          <l xml:lang="rcf">(Quand qu'femm' n'en a son volonté </l>
+          <l xml:lang="rcf">N'a point li diab' qui va faire arrêté ; </l>
+          <l xml:lang="rcf">Çà qu'femme y vé l'est sir pour faire ; </l>
+          <l xml:lang="rcf">Çà qu'torti vé, moi crois bien mêm' z'affaire.) </l>
+          <l xml:lang="rcf">Li frem la port' son cas', li'va rôd' son portèr, </l>
+          <l xml:lang="rcf">Li prend namsim maïs pour donne à z'aut' di coer, </l>
+          <l xml:lang="rcf">Li mett' l'arrack dans n'son bretelle </l>
+          <l xml:lang="rcf">Pour bien mett' en train z'aut' la zaile. </l>
+          <l xml:lang="rcf">Quand qu'canatds fini boir', z'aut' y commenc' flatter, </l>
+          <l xml:lang="rcf">Son 'mazination z'aut' vanter ; </l>
+          <l xml:lang="rcf">Z'aut' y dit : "Man-torti, vous va fait bell' voyaze, </l>
+          <l xml:lang="rcf">"Vous va voir tout' sort' badinaze, </l>
+          <l xml:lang="rcf">"Vous va connaît' quoi çà qu'zens Saint-Lé dit, </l>
+          <l xml:lang="rcf">"Z'aut' façons, z'aut' mod', z'aut' z'habits, </l>
+          <l xml:lang="rcf">"Comm' çà qu'Ulyss' l'a fait…Guett' ein pé son parole! </l>
+          <l xml:lang="rcf">Canards y nomm' Ulyss' comm' blancs qui montr' l'école, </l>
+          <l xml:lang="rcf">Faut dir' aussi canards qui parl' latin, </l>
+          <l xml:lang="rcf">Qui suivr' z'enfants collèz' quand qu'après manz' z'aut' pain. </l>
+          <l xml:lang="rcf">Enfin z'aut' la cont' tant d'nouvelle, </l>
+          <l xml:lang="rcf">Qu'man-torti perd' net son cervelle </l>
+          <l xml:lang="rcf">Li dit : "Allons-nous vit'" , canards dit : "Tiens-vous bon, </l>
+          <l xml:lang="rcf">"Souqué bien ni mitant d'bâton, </l>
+          <l xml:lang="rcf">"Trap' li bambou par son traverse, </l>
+          <l xml:lang="rcf">"Prends gard' va timber la renverse. </l>
+          <l xml:lang="rcf">"Laç'pas maman, si vous çappé, </l>
+          <l xml:lang="rcf">"Vous va donn' marrons grand soupé." </l>
+          <l xml:lang="rcf">Li r'pond tout en faraud : "Allez, moi n'a pas bête; </l>
+          <l xml:lang="rcf">"Allez-vous!" Li l'allonz' son tête, </l>
+          <l xml:lang="rcf">Lir tir' son patte en bas, en haut, </l>
+          <l xml:lang="rcf">Comment grinouitt' qui dort sis l'eau. </l>
+          <l xml:lang="rcf">Quand qu'tout l'a fini prêt…frrr…canards y s'envole; </l>
+          <l xml:lang="rcf">Pique en l'air!…Noirs-commin' l'était qui fouill' rigole, </l>
+          <l xml:lang="rcf">Au d'sis d'Saint-Paul, dans n'cimin Bernica; </l>
+          <l xml:lang="rcf">Tout' la commenç' crier: "Guett', çà torti maca! </l>
+          <l xml:lang="rcf">"Où çà qu'torti bébêt' pour gagn' montire? </l>
+          <l xml:lang="rcf">"Çà la rein' qu'li n'en a voitire?… </l>
+          <l xml:lang="rcf">"Oui, moi la rein' , bande…" Ouah! N'a pas l'tems dir' plis long, </l>
+          <l xml:lang="rcf">Li la timbé lourd comm' di plomb ; </l>
+          <l xml:lang="rcf">Son z'écaill' la 'crâse en haut de roce, </l>
+          <l xml:lang="rcf">Gaspard, gros noir gourmand, l'était travaill' tout proce, </l>
+          <l xml:lang="rcf">La saut' dissis, la gagn' manzer, </l>
+          <l xml:lang="rcf">Encor' n'a point la pein' plicer. </l>
+          <l xml:lang="rcf"> Zens qui trop grand parler, acout' siprit mon conte ; </l>
+          <l xml:lang="rcf"> Nout' la langue y ramasse malhèr ensemb' la honte ; </l>
+          <l xml:lang="rcf">Çaud la langu' li zist' pour perdi ; </l>
+          <l xml:lang="rcf">Bli pas li cont' maman torti.</l>          
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

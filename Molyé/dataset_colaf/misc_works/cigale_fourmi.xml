@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <idno>MOL_LOU_001</idno>
+                <title type="main">La Cigale et la Fourmi</title>
+                <title type="collection">Moliyé</title>
+                <author>Anonymous</author>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="RDENT">
+                        <surname>Dent</surname>
+                        <forename>Rasul</forename>
+                        <idno type="orcid">0009-0004-1032-1745</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding</resp>
+                    <persName xml:id="JJANES">
+                        <surname>Janès</surname>
+                        <forename>Juliette</forename>
+                        <idno type="orcid">0000-0002-8971-6173</idno>
+                    </persName>
+                </respStmt>
+                <principal>
+                    <persName xml:id="BSAGOT">
+                        <surname>Sagot</surname>
+                        <forename>Benoît</forename>
+                        <idno type="orcid">0000-0001-8957-9503</idno>
+                    </persName>
+                </principal>
+                <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+                <date when="2024-05-30"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="PrintSource">
+                    <ptr target="https://www.google.fr/books/edition/Revue_Louisianaise/KdAqRw20ZzcC"/>
+                    <title>Revue Louisianaise, Vol. 1</title>
+                    <author>Anonymous</author>
+                    <publisher>Société littéraire et typographique de la Nouvelle Orléans</publisher>
+                    <date when="1846"/>
+                </bibl>
+                <bibl type="CorpusSource">
+                    <ptr target="https://www.google.fr/books/edition/Revue_Louisianaise/KdAqRw20ZzcC"/>
+                    <title>Revue Louisianaise</title>
+                    <author>Anonymous</author>
+                    <publisher>University of Texas</publisher>
+                    <date when="2019-09-26"/>
+                </bibl>
+            </sourceDesc>
+            <extent>TO BE DEFINED</extent>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="lou">
+                    <idno type="langue">lou</idno>
+                    <idno type="script">Latin</idno>
+                    <name>Louisiana Creole</name>
+                </language>
+                <language ident="met-fr">
+                    <idno type="langue">met-fr</idno>
+                    <idno type="script">Latin</idno>
+                    <name>French of Metropolitan France</name>
+                </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="supergenre" rend="fiction">Fiction</term>
+                    <term type="genre" rend="fiction-prose">Drama</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024-05-30" who="#RDENT">Génération du document</change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <body>
+    <head xml:lang="met-fr">
+        Fable de La Fontaine
+        Retenu par un jeune mulâtre charger de balayer une [école?]
+    </head>
+        <lg>
+            <l xml:lang="lou">Cigale là té chanté</l>
+            <l xml:lang="lou">Tout l’été :</l>
+            <l xml:lang="lou">«Ce qu’il me faut à moi!... Tu n’auras pas ma rose…»</l>
+            <l xml:lang="lou">Si tôt l’hiver vini, li pas gagné grand’chose :</l>
+            <l xml:lang="lou">Li fouillé partout, serché bien,</l>
+            <l xml:lang="lou">Dans là, pas trouvé arien.</l>
+            <l xml:lang="lou">Li couri crié la famine</l>
+            <l xml:lang="lou">Côté fourmi, femm’ là, voisine ;</l>
+            <l xml:lang="lou">Mandé li poliment, pour prêté li mangé,</l>
+            <l xml:lang="lou">Si li capab’ sans dérangé ;</l>
+        </lg>
+        
+        <lg>
+            <l xml:lang="lou">En haut la tête li porté marmite</l>
+            <l xml:lang="lou">«Mo payé vous, oui ! mais pas tout de suite</l>
+            <l xml:lang="lou">«Mo besoin dé trois mois crédit</l>
+            <l xml:lang="lou">«Juqu’à Pâques là, juqu`à les jours grandit</l>
+            <l xml:lang="lou">«Mo baillé vous in gage, in brillant la guitare.»</l>
+        </lg>
+        
+        <lg>
+            <l xml:lang="lou">Fourmi là, jist in vieu avare,</l>
+            <l xml:lang="lou">Pas l’aimé la musiq di tout.</l>
+            <l xml:lang="lou">«Ça vou té fait dans mois d’août?</l>
+            <l xml:lang="lou">«Ça mo té fé, mo chanté même,</l>
+            <l xml:lang="lou">«Je t’aime parce que je t’aime!</l>
+            <l xml:lang="lou">Martyrs-layé, pi Comte Ory,</l>
+            <l xml:lang="lou">Oh !, cher’, vous pas connai michié Garry!</l>
+            <l xml:lang="lou">«Vous té chanté, chanté, chère ?</l>
+            <l xml:lang="lou">«Vous ben capab’ dans[e] à cet heure</l>
+        </lg>
+    </body>
+</text>
+</TEI>

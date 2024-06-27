@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>MOL_FLA_000</idno>
+        <title type="main">Min petite Sisca</title>
+        <title type="collection">Moliyé</title>
+        <author>Jules Watteuw</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Min petite Sisca</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
+          <date when="1924-08-24"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Min petite Sisca</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France</publisher>
+          <date when="20/01/2019"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra-deu">
+          <idno type="langue">fra-deu</idno>
+          <idno type="script">Latin</idno>
+          <name>Germanic Baragouin</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-prose">Drama</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="fra-deu">
+    <body>
+      <div n="1" type="chapter">
+        <head>Min petite Sisca</head>
+        <p>Vous te connais pas mon petite fille</p>
+        <p>Sisca?... Ça c'est un maline! Te n'as za</p>
+        <p>mais connu de parelle.</p>
+        <p>Y' est copable min petite Sisca, y est</p>
+        <p>copable! y connait tout: de rismétique, d̀e</p>
+        <p>stoire de France, de zigraphie, de criture</p>
+        <p>de licture. de meusique. Tout, tout, tout</p>
+        <p>mais qui copable</p>
+        <p>Te vas parler lui de rismétique, et, tout</p>
+        <p>suite, y compter sur sin doigts : sept, déze-</p>
+        <p>huit, quatre ving mille,, deux et doux tait</p>
+        <p>huit. et vela de carcul y fénit, de temps</p>
+        <p>d'ouvrir et de serrer ton z'œil.</p>
+        <p>Te parler de zigraphie, te lui demande</p>
+        <p>Vous dire, ma petite Sisca, ous' qui est</p>
+        <p>Paris? -- Là,  y dire, et y montrer avec</p>
+        <p>sin doigt</p>
+        <p>D'ous' qu'il l'est de Mérique? -- Là,</p>
+        <p>là. et y montrer avec sin doigt. -- Oh!  qui</p>
+        <p>est copable, min petite Sisca</p>
+        <p>Et de criture!</p>
+        <p>Lui criver un lette à se grand-papa,</p>
+        <p>de nouvel an. et y nous tous pleurer quans</p>
+        <p>qui lire :  heu! heu! heu! Mais, ça trop</p>
+        <p>onstruit pour nous autes; y rien comprenne</p>
+        <p>de lette qui crire min petite Sisca:</p>
+        <p>Et y lire: Ouh!... quans qui liser, sin</p>
+        <p>lèfes y aller aussi vite comme un maçine</p>
+        <p>à coudre : blé, blé, blé, blé, ça y copable</p>
+        <p>min petite Sisca!</p>
+        <p>Et de stoire de France! Te povez lui man¬</p>
+        <p>der de réponse, y parler d'Henri Quaque, de</p>
+        <p>Louis Soixante, de Catherine Metsinsemise,</p>
+        <p>y connait tout, tout, tout, mais qui copable.</p>
+        <p>Et de meusique! ne pas pour dire mais y</p>
+        <p>connaite tout sin notes</p>
+        <p>A côté de mon meson y a un piéno, et</p>
+        <p>ben, te faut voir min petite Sisca! avec son</p>
+        <p>doigt y zouer et y canter</p>
+        <p>Petite papa c'l'est auzourd'hui ton fête</p>
+        <p>Maman l'a moi dit que vous te n’es pas la,</p>
+        <p>Z' l'avais de fleurs pour moi cronner ton tête</p>
+        <p>Et un belle baise pour moi dorer ta cœur</p>
+        <p>Petite papa !</p>
+        <p>Petite papa !</p>
+        <p>Et y ne zamais appris saite! Y çante zus¬</p>
+        <p>temont comme un rassignol. Et, pour zeuer</p>
+        <p>de piéno, y ne pas besoin de tous sin doigts</p>
+        <p>Savez, y zouer avec un doigt, et y faire de</p>
+        <p>roulates! Mais qui copable!</p>
+        <p>Et de broderie: y broder de fleurs, que te</p>
+        <p>vas prinne avec ton main et que te vas</p>
+        <p>aller mette à tin nez pour sintir, te penser</p>
+        <p>que c'est de fleurs vivantes</p>
+        <p>Et ben, te vas croire que min petite</p>
+        <p>Sisca y est peunie à d'école pour un bêtise,</p>
+        <p>un bahatelle de rien de tout.</p>
+        <p>vela que de Supérieure, y venir passer</p>
+        <p>l'exament à d'ecole.</p>
+        <p>Min petite Sisca, c'est de plus copable</p>
+        <p>ènan ? et c'est zustement à lui que de supé</p>
+        <p>périeure y demander de question à de suiet</p>
+        <p>de prière à min petite Sisca.</p>
+        <p>Dire un fois. à moi, mon petite fille,</p>
+        <p>quois que vous te faire de soir en te</p>
+        <p>couçant ?</p>
+        <p>--Bé, y réponde Sisca: de soit en moi</p>
+        <p>concant ze mette bien mon cemise desous</p>
+        <p>ma derrière</p>
+        <p>Et min petite Sisca y ête peunie pas' qui</p>
+        <p>réponde ca.</p>
+        <p>Ne pas zuste, Énon? Et ben, ze vas moi</p>
+        <p>tirer mon petite fille d'Ecole et ze vas mette</p>
+        <p>en Belzique, et là y lui apprener à parter</p>
+        <p>de francais en flamand.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

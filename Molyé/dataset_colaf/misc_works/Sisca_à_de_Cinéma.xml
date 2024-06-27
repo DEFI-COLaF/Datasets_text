@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>FRA_FLA_000</idno>
+        <title type="main">Sisca à de Cinéma</title>
+        <title type="collection">Moliyé</title>
+        <author>Jules Watteuw</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Sisca à de Cinéma</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
+          <date when="1925-08-23"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Sisca à de Cinéma</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France</publisher>
+          <date when="20/01/2019"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra-deu">
+          <idno type="langue">fra-deu</idno>
+          <idno type="script">Latin</idno>
+          <name>Germanic Baragouin</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-prose">Drama</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="fra-deu">
+    <body>
+      <div n="1" type="chapter">
+        <head>Sisca à de Cinéma</head>
+        <p>Ze l'attender toujours y parler de chinéma</p>
+        <p>et de chinéma, y moi dire ze vas prouver aller.</p>
+        <p>Ze prenne ma biet à de porte et ze moi entrer</p>
+        <p>à de théãte de Menher Chinéma.</p>
+        <p>Ze voyer dans de place tout de zens qui par¬</p>
+        <p>ler, y rier. Y manzer de couques, de l'oranzes</p>
+        <p>Ze l’attender crier : Hél Batisse! Hél Louise</p>
+        <p>Ze voyer Z'ézéphe de marcand d'oces qui</p>
+        <p>crier : Hé! Sisca! te buver un goutte? Eit</p>
+        <p>y montrer à moi un boutelle de zénéfe.</p>
+        <p>Vela que ze sentir qui tirer mon zupe, ze</p>
+        <p>moi tourne et ze voyer Euzène de peintrer, qui</p>
+        <p>dire à moi : « Tiens, vela Siscal » - Bon¬</p>
+        <p>zour, Euzène, que ze moi dire ; te sais c'est de</p>
+        <p>première fois que ze venir à de chinéma? »</p>
+        <p>« Alleie, y dire Euzène, assiez à côté de moi,</p>
+        <p>ze vas tout spliquer, moi ze l'a tout peintré</p>
+        <p>de théãte avec de couleur. Ze connaîtrer tout,</p>
+        <p>moi, ouh! iou iou ; ze vas tout splique. »</p>
+        <p>Et ze moi mettrer à de côté d'Euzène.</p>
+        <p>Vela que tout d'un coup y soufler de leu¬</p>
+        <p>mière et y faire brinl! Ze moi crier...</p>
+        <p>" Chut! y dire Euzène.. gardez, Sisca.. »</p>
+        <p>Et ze voyer sur de théãte tout de zens.. I</p>
+        <p>de femmes.. y de z'hommes.. y de soldates...</p>
+        <p>y aller.. y promener.</p>
+        <p>- Gardez, Sisca, y dire Euzène : te voyez</p>
+        <p>ce l'homme avec un bonnet à poils sur son</p>
+        <p>téte? - « Oui ze dire.» - « Et une grande</p>
+        <p>plumet? -- « Oui ze dire. » -- « Et de</p>
+        <p>grands moustaces ? » -- « Oui, ze dire. »</p>
+        <p>Eh bien ! y dire Euzene, c'est Lapoléon !</p>
+        <p>Bah! moi ze dire.. c'est Poléon? Ah !</p>
+        <p>c'est lui... Ze pense que ze l'a tendu parler de</p>
+        <p>Poléon.. Et quisque c'est ce Medame la?..</p>
+        <p>Ca, y dire Bugène, c'est la femme de</p>
+        <p>Lapoléon, le Reine de Zipe...</p>
+        <p>-- Ah! moi ze dire, y un belle femme Po¬</p>
+        <p>léon.. Tenez, gardez, Euzène, quisque c’est ce</p>
+        <p>femme qui tourner de caté?</p>
+        <p>Ca, y dire Euzène, c'est de Reine de</p>
+        <p>Gleterre.- c'être de belle sœur à Poléon.. Gar¬</p>
+        <p>dez, y dire Euzène, vous te aller voir un grand</p>
+        <p>despute.</p>
+        <p>De reine de Cique y prenne sa panier et y</p>
+        <p>parler à Poléon...</p>
+        <p>--Qu’est-ce qui faire? moi ze dis.</p>
+        <p>- Chut! y dire Buzène, y demander à Po¬</p>
+        <p>léon de chous pour aller faire de commission..</p>
+        <p>Poléon y veut pas donner... de belle-sœur de</p>
+        <p>Reine de Gleterre, y montrer de poing à sin</p>
+        <p>nez. y poigner Poléon par sin meustace..</p>
+        <p>Poléon y parler avec son bras et son zampes.</p>
+        <p>Moi ze lever et ze crier :- « Poléon, par¬</p>
+        <p>lez un fois plus haut; ze n'a pas encore com-¬</p>
+        <p>prenne un mot... n</p>
+        <p>Et vela que tout de monde y rier, y crier :</p>
+        <p>Bravo!</p>
+        <p>On allumer de gaz et tout de zens y faire :</p>
+        <p>« Ahl » Vela que de meusique y zeuer : « Viens</p>
+        <p>Poupoule » et moi ze çanter avec de musique :</p>
+        <p>Viens Popole, viens Popole,</p>
+        <p>Viens l</p>
+        <p>Ah! ca y bien demace</p>
+        <p>Vous toujours en veyace</p>
+        <p>Ia l</p>
+        <p>Viens Popole, viens Popole,</p>
+        <p>Viens !</p>
+        <p>Sur de trõne assier</p>
+        <p>Et ne plus veyazer.</p>
+        <p>Tous de zens y crier : « Bravol » On souffles</p>
+        <p>de gaz et y faire brin !</p>
+        <p>- Gardez, Sisca, y dire Euzène, on va aller</p>
+        <p>nouer une drame...</p>
+        <p>Ah! ne moi dire, et qu'est-ce que ca été</p>
+        <p>une drame?</p>
+        <p>Ca, y dire Euzène, ze vas vous splique,</p>
+        <p>une drame c’est de Cloces de Corneville, gar</p>
+        <p>dez.</p>
+        <p>Et ze voyer venir sur de théâte, un Meda-</p>
+        <p>me avec sa petite enfant qui est tenu par un</p>
+        <p>ficelle.. et une cien dans de petite veture...</p>
+        <p>Y rentrer dans de maison.. y de soir... y al</p>
+        <p>leumer de çandelle.. de petite cien y gratter</p>
+        <p>à de cour... Medame y lever... y ouvrir de por¬</p>
+        <p>te.. y mette son petite l'enfant à de cour et</p>
+        <p>y prenne sa cien à bras pour faire lui dodo..</p>
+        <p>Moi ze dire à Euzène  «  D'ous qui sont</p>
+        <p>les cloces de Querneville? mois ze la pas en-¬</p>
+        <p>core voyer... »</p>
+        <p>Chut ! y dire Euzène, gardez..</p>
+        <p>Vela que de Medame y monter en haut pour</p>
+        <p>porter son petite l’enfant dans sa lit..</p>
+        <p>Gardez, Sisca, y dire Euzène.</p>
+        <p>Zésusse, Christusse : ze voyer venir une bri¬</p>
+        <p>gand.. avec de méçantes z'yeux. qui tenir une</p>
+        <p>couteau dans son main... ouvrir de meubles..</p>
+        <p>y cercer après de l’argent, mais y entendu de</p>
+        <p>bruit.. y cacer lui dans l'armoire, de Medame</p>
+        <p>y descender, y garder tout rond...</p>
+        <p>Moi, ze lever et ze crie « Hé! Madame,</p>
+        <p>prends garde; de brigand est cacer dans</p>
+        <p>l'armoire.»</p>
+        <p>Et vela que de meusique y jeuer de Tonki</p>
+        <p>noise et moi y canter avec de meusique :</p>
+        <p>En est un petite beurzoise</p>
+        <p>De ta ki ki, de ta ki hi</p>
+        <p>De Ta kinoise.</p>
+        <p>On souffler de gaz et y faire brinl</p>
+        <p>Chutl gardez! y dire Euzène...</p>
+        <p>Ohl iou, iou, y belle cateaul... y de sol¬</p>
+        <p>ciates et de Medames promener à la badine.</p>
+        <p>Qu’'est-ce que c’est ça Euzene?..</p>
+        <p>--Ca? y mo dire, c'est un féerie...</p>
+        <p>Ah! un fait rire? moi ze aime bien rirer,</p>
+        <p>gardez Euzène, quisqui venir ?</p>
+        <p>Ça, y dire, c'est un fée avec son ba¬</p>
+        <p>guette. Ce fée y lever son baguette et tout</p>
+        <p>de zens de Medames et de soldates y s’envoler</p>
+        <p>et, à de place y venir de femmes avec de gran¬</p>
+        <p>des bas blancs et de petites zupes, y danser..</p>
+        <p>Ca y dire Euzène, c'est de ballet...</p>
+        <p>Vela que de femmes y lèvent son rampes en</p>
+        <p>l'air, y danser, y faire des baisses avec son</p>
+        <p>main.</p>
+        <p>Ze moi dire à Buzène :</p>
+        <p>--Ous qu'il est?</p>
+        <p>--Quoi?</p>
+        <p>--Bé de balai, ze l'a pas encore vu de</p>
+        <p>balai!...</p>
+        <p>Chut! y dire Euzène, gardez..</p>
+        <p>Ah! ze moi crier ; quisqui l'a moi pincé</p>
+        <p>à mon fesse. Ouhl iou iou.</p>
+        <p>Et ze moi lever tout haut et ze donner de</p>
+        <p>calottes à tout de côté.. tiens, vela l</p>
+        <p>Tout de monde y crier « CA la portel A la</p>
+        <p>portel.. Y venir une Mossieur qui prener ma</p>
+        <p>bras et faire moi sortir et moi dire : - « Allez</p>
+        <p>vous faire pincer ailleurs.</p>
+        <p>Ah! c'est vous, Mochieur Chinéma? Le</p>
+        <p>moi dire, bé, vous t'es une malhonnẽte.</p>
+        <p>Et voilà que de meusique y zeuer : « Au</p>
+        <p>z'voir et merci, merci, merci...</p>
+        <p>Tout de sens y sortir et moi ze suis été véro¬</p>
+        <p>blizé de sortir avec, te comprenne ?</p>
+        <p>Quansque ze l'a été sur de rue, ze moi crier :</p>
+        <p>« Ne pas de bon sens y pincer moi comme ca¬</p>
+        <p>Ze ne jamais, plus venir: ze aller faire de</p>
+        <p>théaate de chinéma à mon maison avec de bon</p>
+        <p>goutte de café. Et si ze vouler été moi pincé,</p>
+        <p>ze pincer moi-mẽme ; ze n'avoir pas besoin de</p>
+        <p>vous autes, sais-tu.. Zamais plus, Mochieur</p>
+        <p>Chinéma y verra moi. »</p>
+        <p>« Ouhl iou iou, qui pique à mon fesse, ze</p>
+        <p>vas moi aller mettre un compresse.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

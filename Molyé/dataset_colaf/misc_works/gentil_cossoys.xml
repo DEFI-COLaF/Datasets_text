@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>MOL_ANG_001</idno>
+        <title type="main"> Le Testament du Gentil Cossoys</title>
+        <title type="collection">Moliyé</title>
+        <author>Anonymous</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="https://www.jstor.org/stable/pdf/25519232.pdf?"/>
+          <title>The Scottish Historical Review, Vol. 17, No. 67</title>
+          <author>David Baird Smith</author>
+          <publisher>Edinburgh University Press</publisher>
+          <date when="1509 (1920)"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="https://www.jstor.org/stable/pdf/25519232.pdf?"/>
+          <title>Le Testament du Gentil Cossoys</title>
+          <author> David Baird Smith</author>
+          <publisher>JSTOR</publisher>
+          <date when="2014-06-05"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra-ang">
+          <idno type="langue">fra-deu</idno>
+          <idno type="script">Latin</idno>
+          <name>Anglo-French Baragouin</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-prose">Drama</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+<text>
+  <body>
+  <lg n="1">
+    <l xml:lang="fra-ang">Puisque mon gaich et tout mon pontement</l>
+    <l xml:lang="fra-ang">Laty rompre voy bin que ma col cas</l>
+    <l xml:lang="fra-ang">Moy l'aury fait ung belle testament</l>
+    <l xml:lang="fra-ang">Tantost moy mesm Dieu plaist que moy trespas</l>
+    <l xml:lang="fra-ang">Vin sa, couri, pry vous petit compas</l>
+    <l xml:lang="fra-ang">Ma l’ordonnas car l’esty grand malad</l>
+    <l xml:lang="fra-ang">Preny papier, crivy cela moy pas</l>
+    <l xml:lang="fra-ang">Ma cueur ja pens mory tant l’esty fad.</l>
+  </lg>
+  <lg n="2">
+    <l xml:lang="fra-ang">Item premier a Diou et Nostre Dam</l>
+    <l xml:lang="fra-ang">Sainct Michel l'Anch et Sainct Trignen de Cos</l>
+    <l xml:lang="fra-ang">Moy recommand tout entier mon povre am</l>
+    <l xml:lang="fra-ang">Et seroit y encor vingt foys plus gros</l>
+    <l xml:lang="fra-ang">Quand mort prent moy, faity ung bon grand fos</l>
+    <l xml:lang="fra-ang">El chimetier resabz de la glis</l>
+    <l xml:lang="fra-ang">Et la me couch tout du long de ma dos,</l>
+    <l xml:lang="fra-ang">Bin a mon ais comme sera de guis.</l>
+  </lg>
+  <lg n="3">
+    <l xml:lang="fra-ang">Mon secuteur vostre vous me bon prest</l>
+    <l xml:lang="fra-ang">Chanty de mes tout la jour hardement,</l>
+    <l xml:lang="fra-ang">Quand quelque chos de bon couraich me pres</l>
+    <l xml:lang="fra-ang">Moy tout vous rend la jour dil jugement.</l>
+    <l xml:lang="fra-ang">Mon grand courrach, sallad et billement,</l>
+    <l xml:lang="fra-ang">Pour vostra corps garde bin de larrons</l>
+    <l xml:lang="fra-ang">Quarante ens plus vault ung foys vraiement</l>
+    <l xml:lang="fra-ang">Moy donne vous avecque mon perons.</l>
+  </lg>
+  <lg n="4">
+    <l xml:lang="fra-ang">Mon brigandin, gratebras et sallad,</l>
+    <l xml:lang="fra-ang">Dag, javrelin, albard et gorgery,</l>
+    <l xml:lang="fra-ang">Donne a ma paich sert moy sain et malad</l>
+    <l xml:lang="fra-ang">Bin congny ly que laty grand marry</l>
+    <l xml:lang="fra-ang">Quand ma courtault de son morb la gary</l>
+    <l xml:lang="fra-ang">Moy monte luy comme ung petit Sainct Georch,</l>
+    <l xml:lang="fra-ang">Mais il a ty ung grand curagery</l>
+    <l xml:lang="fra-ang">Menge farsin par tout jusquez son gorch.</l>
+  </lg>
+  <lg n="5">
+    <l xml:lang="fra-ang">Moy les aussi une bell heritaich</l>
+    <l xml:lang="fra-ang">A mon parens, barbis, beuf, vach et veaulx</l>
+    <l xml:lang="fra-ang">Fait comme il veult entre luy ung partaich</l>
+    <l xml:lang="fra-ang">Tout pellemel preny pore et bouveaux</l>
+    <l xml:lang="fra-ang">L'erbe de prez pour menge la chevaulx,</l>
+    <l xml:lang="fra-ang">Gransch, massons, couvri tous de festus,</l>
+    <l xml:lang="fra-ang">Tappissery, vais d'argent et joiaulx,</l>
+    <l xml:lang="fra-ang">Moy donne tout, laty bin revestus.</l>
+  </lg>
+  <lg n="6">
+    <l xml:lang="fra-ang">Item j'ordon j'auri six torch de chir,</l>
+    <l xml:lang="fra-ang">Deux gros chandel acusson de mon arm,</l>
+    <l xml:lang="fra-ang">C'est par amour le bon roy nostre sir</l>
+    <l xml:lang="fra-ang">Que j amery grandement par mon arm</l>
+    <l xml:lang="fra-ang">Ung cu de gueul tout seme de gros larm</l>
+    <l xml:lang="fra-ang">Et une cueur navre de fleich ou dard</l>
+    <l xml:lang="fra-ang">Pour monstrere que j'aty bon gen d'arm</l>
+    <l xml:lang="fra-ang">Dessus mon fos planty une tandard.</l>
+  </lg>
+  <lg n="7">
+    <l xml:lang="fra-ang">Moy ne veult moy sonnery me tempest</l>
+    <l xml:lang="fra-ang">La choch il est in bones ung trop grant tail</l>
+    <l xml:lang="fra-ang">Mais je jorry sonner yn grand trompet</l>
+    <l xml:lang="fra-ang">L'est ad vis moy que j'entry en batail.</l>
+    <l xml:lang="fra-ang">Ma compaignon qui n'aury plus chinquail</l>
+    <l xml:lang="fra-ang">Qui l’et cassé de tout saich moy veul</l>
+    <l xml:lang="fra-ang">Ploury bin fort ou de tot ou de tail</l>
+    <l xml:lang="fra-ang">Ma paich et luy faity trestous la deul.</l>
+  </lg>
+  <lg n="8">
+    <l xml:lang="fra-ang">Tout bon Cossoys je cuid se trouvery</l>
+    <l xml:lang="fra-ang">Myner ma corps avec son sepultur ;</l>
+    <l xml:lang="fra-ang">Bel ocqueton carchy d'orfavery</l>
+    <l xml:lang="fra-ang">Vien deux et deux com Paty bon droictur ;</l>
+    <l xml:lang="fra-ang">Qui aury fam ni soif pren son pastur</l>
+    <l xml:lang="fra-ang">Maiz que pour moy dit ung beau profundis :</l>
+    <l xml:lang="fra-ang">Se my parly a Diou par avantur</l>
+    <l xml:lang="fra-ang">Moy pry qui vien trestout en paradis.</l>
+  </lg>
+  <lg n="9">
+    <l xml:lang="fra-ang">Couury dity une belle raison</l>
+    <l xml:lang="fra-ang">Tout continent que moy vient à lesglis</l>
+    <l xml:lang="fra-ang">Mess et vagil, psaultier et crie l’oyson</l>
+    <l xml:lang="fra-ang">Chanty bien ault dung bon voix sans faintis</l>
+    <l xml:lang="fra-ang">Le chantre a dit de music gros assis</l>
+    <l xml:lang="fra-ang">Ung mess à not tantost sy ly plaira</l>
+    <l xml:lang="fra-ang">Moy donne à eulx ung bouteil fort exquis</l>
+    <l xml:lang="fra-ang">Tout plain pocras pour chante labara.</l>
+  </lg>
+  <lg n="10">
+    <l xml:lang="fra-ang">Item moy veult qu'on fait ung beau donné</l>
+    <l xml:lang="fra-ang">Vin plain de pot a cule de potaich</l>
+    <l xml:lang="fra-ang">A court ouvert mason bin bandonneé</l>
+    <l xml:lang="fra-ang">Veult bin chacun tout vivre davantaich.</l>
+    <l xml:lang="fra-ang">Mon rob, pourpoint, chaus, ouseaulx</l>
+    <l xml:lang="fra-ang">Mon troussemen, arc, pantoufl, brodaquins,</l>
+    <l xml:lang="fra-ang">Tot la livre par la main de ma paich</l>
+    <l xml:lang="fra-ang">A l'ôpital pour vestir la coquins.</l>
+  </lg>
+  <lg n="11">
+    <l xml:lang="fra-ang">Ainsi moy pas mon testamen sans mocq,</l>
+    <l xml:lang="fra-ang">Et ne vouly qu'il a point de rabat;</l>
+    <l xml:lang="fra-ang">Tout testement d’ aultreffoys je révocq,</l>
+    <l xml:lang="fra-ang">Tendez-vous bin, que person n'a debat.</l>
+    <l xml:lang="fra-ang">Cryvry, brouyly, tout signy de mon pat</l>
+    <l xml:lang="fra-ang">Presens ma paich qui ne ‘est pas bin ais</l>
+    <l xml:lang="fra-ang">Quinz en fevrier quand y couri pour dat</l>
+    <l xml:lang="fra-ang">Mil quatre cens quatre vingt xvj* et traiz.</l>
+  </lg>
+  <lg n="12">
+    <l xml:lang="fra-ang">Mon terrement laty bin ordonné</l>
+    <l xml:lang="fra-ang">N'atendre plus vivre el mon, jour ny heur</l>
+    <l xml:lang="fra-ang">Puysque fortun tient moy pour bandonné</l>
+    <l xml:lang="fra-ang">Va Jehan de Cos, c'est bin fort que toy meur</l>
+    <l xml:lang="fra-ang">Ne parly plus, ne faity plus d' honneur</l>
+    <l xml:lang="fra-ang"> Vous est cassé et de gaich et de dam</l>
+    <l xml:lang="fra-ang">Ja prens vault mieulx pour pontement meilleur</l>
+    <l xml:lang="fra-ang">Te rens à Diou da bin, da corps et d’am</l>
+  </lg>
+  <lg n="13">
+    <l xml:lang="fra-ang">Adieu le prins gorrieux et mon mignon,</l>
+    <l xml:lang="fra-ang">Adieu mon dam, adiou mon marmouzel,</l>
+    <l xml:lang="fra-ang">Adieu l’archiez, capetain, compaignon,</l>
+    <l xml:lang="fra-ang">Adieu le paich, adieu fil et pucel,</l>
+    <l xml:lang="fra-ang">Adieu bon gens, adieu celuy et cel</l>
+    <l xml:lang="fra-ang">Qui nourrit moy quand laty en la guerr,</l>
+    <l xml:lang="fra-ang"> Adiou trestout le bon vii et castel,</l>
+    <l xml:lang="fra-ang">Adieau fourrieux, mon logeon est en terr.</l>
+  </lg>
+  <lg n="14">
+    <l xml:lang="fra-ang">Adiou par tout nobe royaulm de Frans</l>
+    <l xml:lang="fra-ang">Adiou comman le povre pals de Cos</l>
+    <l xml:lang="fra-ang">Moy vient tantost prendre ma corps par trans</l>
+    <l xml:lang="fra-ang">Et si n'aury horion, plaie ne bos,</l>
+    <l xml:lang="fra-ang">Et non pourtant ne fault porter l’endos</l>
+    <l xml:lang="fra-ang">Dont moy pry vous que une belle paraf</l>
+    <l xml:lang="fra-ang">Tout vis vif l’autre costé mon fos</l>
+    <l xml:lang="fra-ang">Contry ung mur crivoy moy cest pitaph :</l>
+  </lg>
+  <lg n="15">
+    <l xml:lang="fra-ang">L’Epitaph</l>
+    <l xml:lang="fra-ang">Le fleich de mort qui tout horn desnatur,</l>
+    <l xml:lang="fra-ang">Dont sa vivant une foys fait hommaich</l>
+    <l xml:lang="fra-ang">Et fault qu'il rend tribut à dam natur</l>
+    <l xml:lang="fra-ang">En despouillant tout sa dun et plumaich,</l>
+    <l xml:lang="fra-ang">Couchy davant tout plat, dont c'est damaich,</l>
+    <l xml:lang="fra-ang">Ung gentil horn Cossoys soubz ceste lam</l>
+    <l xml:lang="fra-ang">Dont ung chandel encontre quelque ymaich :</l>
+    <l xml:lang="fra-ang">Pry Dieu trestous pren mercy de son am.</l>
+  </lg>
+  <lg n="16">
+    <l xml:lang="fra-ang">Belle, plaisant, mignonne pourtraictur</l>
+    <l xml:lang="fra-ang">Ault il estoit, gorriere de corsaich</l>
+    <l xml:lang="fra-ang">Vous dit que e'est droit ymaich en painctur</l>
+    <l xml:lang="fra-ang">Cest grand ydeur comme fut il bin saich</l>
+    <l xml:lang="fra-ang">Pour garderi tousjours quelque passaich</l>
+    <l xml:lang="fra-ang">Fort ardement ou ne laity pas am</l>
+    <l xml:lang="fra-ang">Sur tot Cossoys ly saury bin Pusaich.</l>
+    <l xml:lang="fra-ang">Pry Dieu trestout pren mercy de son am.</l>
+  </lg>
+  <lg n="17">
+    <l xml:lang="fra-ang">Oncq son vivant fit tort à creatur</l>
+    <l xml:lang="fra-ang">Dessoubz la champs pour vivre davantaich</l>
+    <l xml:lang="fra-ang">Tant seulement s'il trouvry davantur</l>
+    <l xml:lang="fra-ang">Poul ou chappon que Paury pris son paich</l>
+    <l xml:lang="fra-ang">Gard corps la rayson temps non pas grand aaich</l>
+    <l xml:lang="fra-ang">Laty devot a Dieu le Nostre Dam</l>
+    <l xml:lang="fra-ang">Sept piedz de terr Pa choisy pour partaich</l>
+    <l xml:lang="fra-ang">Pry Dieu trestout pren mercy de son am.</l>
+  </lg>
+  <lg n="18">
+    <l xml:lang="fra-ang">Prins, Jehan de Cos demory pour hostaich</l>
+    <l xml:lang="fra-ang">Vaquez la vers que tout son corps entam</l>
+    <l xml:lang="fra-ang">A fin qu'il ait à sa propre heritaich</l>
+    <l xml:lang="fra-ang">Pry Dieu trestout pren mercy de son am.</l>
+  </lg>
+  </body>
+</text>
+</TEI>

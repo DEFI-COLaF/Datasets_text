@@ -1,0 +1,651 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>CRE_RCF_001</idno>
+        <title type="main">Profession de Foy, en jargon des Esclaves Nêgres » et « Petit Catechisme de l’Isle de Bourbon</title>
+        <title type="collection">Moliyé</title>
+        <author>Philippe Caulier</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="https://creolica.net/Edition-de-deux-textes-religieux"/>
+          <title>Profession de Foy, en jargon des Esclaves Nêgres » et « Petit Catechisme de l’Isle de Bourbon</title>
+          <author>Philippe Caulier</author>
+          <publisher>Philip Baker and Annegret Bollée</publisher>
+          <date when="1760~"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="https://creolica.net/Edition-de-deux-textes-religieux"/>
+          <title>Profession de Foy, en jargon des Esclaves Nêgres » et « Petit Catechisme de l’Isle de Bourbon</title>
+          <author>Philippe Caulier</author>
+          <publisher>Philip Baker and Annegret Bollée</publisher>
+          <date when="2004"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rcf">
+          <idno type="langue">rcf</idno>
+          <idno type="script">Latin</idno>
+          <name>Réunion Creole</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-prose">Drama</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter" n="1"> <p>[ms 24]</p>
+<head>Profession de Foy, en jargon des Esclaves Nêgres</head>
+<p>Moi i crois vrai, bien vrai dans mon cœur n’en a bon Dieu, li qui fini</p>
+<p>faire là longtems, longtems, tout ça que nou-i voit, Ciel, terre, Soleil, &amp;c</p>
+<p>Bon Dieu Li même, qui fini faire à nous trétous;; li connoit tout;; tout ça qui a</p>
+<p>[ms 25]</p>
+<p>dans note cœur ne peut pas cacher à li;; nous ne peut pas mentir à li;: Tout</p>
+<p>ça que bon Dieu dire à nous, bien vrai;; tout ça que li promêt, tenir.</p>
+<p>Bon Dieu l’a donné à nous tretous un corps, une ame;; corps pour travail,</p>
+<p>pour souffrir et à la fin mourir;: Li a donné à nous notre ame, ça qui</p>
+<p>fait penser à nous, notre ame, moi i dis, pour connoitre à Li, servir</p>
+<p>à Li, apprendre prières, catrecime, et gagner Paradis, quand nous</p>
+<p>fini mourir. Bon Dieu n’a pas metté à nou au monde, pou jurer,</p>
+<p>mentir, voler, courir, faire malice, pensé malice, &amp;c. Li mettre à</p>
+<p>[ms 26]</p>
+<p>nous autres icy même, pou vive bian comme i faut;; pas pensé à mal,</p>
+<p>pas faire mauvais peché, pas faire ça que Bon Dieu defend, mais faire</p>
+<p>tout ça que li commande à nous. Servir, aimer bon Dieu, ça même li</p>
+<p>i entend, ça même li i veut. Bon Dieu il est partout, li qui fait vivre</p>
+<p>à nous, qui donne à nous tout ça qui est note besoin, li qui sogne à</p>
+<p>nous la nouict, le jour. Moi croir itou dans mon cœur Bon Dieu n’ena</p>
+<p>Son fils, Son nom à li Jesuchrît, note Signeur. Li fini venir au monde</p>
+<p>dans li tems passé;; li fini prendé un corp et une ame, comme nous auttes</p>
+<p>même dans li ventre de Sa maman, Marie tres Ste Vierge. Car li n’étoit</p>
+<p>[ms 27]</p>
+<p>pas fini marier, mais tant seulement fiancée à St José, qui n’a jamais</p>
+<p>touché à li. St José et Vierge Marie, vivre comme ça même ensembe,</p>
+<p>manière frère et sœur. St José travailler metier charpentier, et la Ste Vierge</p>
+<p>sogner menage, ça que brave femme doit faire. Maski, ça qui faire devenir</p>
+<p>mere de Dieu, Ste Vierge Marie, St Espirit même, troisième Parsonne la Sainte</p>
+<p>Tarnité, pour l’amour nous autes, pou tout le monde. Car si J.C. n’a pas prendé</p>
+<p>corp et ame, si li n’a pas faire homme, nous tous pardus tous damnés;;</p>
+<p>Li fini venir au monde pou racheter à nous autres tous, pauvres Saclaves du</p>
+<p>Diabe, à cause peché que nou i apporte en venant au monde, et à cause tout ça</p>
+<p>[ms 28]</p>
+<p>que nou i fait mechans pechez, mauvais malices. Note Signeur J.C. fini</p>
+<p>passer age marmaïe, et commencé à gagner barbe, deja li travaïe, beaucoup</p>
+<p>beaucoup suïer, metier St José, stila qui estimé être son Papa;; à celle</p>
+<p>fin de condamner tous stila, qui aimé faire la cagne, faire grand paresse.</p>
+<p>Après ça, N. Signeur prêcher catrechime à tout lé [li;?] monde qui accourt</p>
+<p>après li, faire miraques, guéri maladies, faire reproche à ceux qui ne</p>
+<p>vivre pas bien, A cause ça même, les gens des son Pays, les Juîs - moi i dit,</p>
+<p>faire beaucoup rage contre li, eux autes n’a pas vouloir reconnoit à li,</p>
+<p>n’a pas vouloir acouter son bons paroles;; Li voulu montrér bon espirit,</p>
+<p>[ms 29]</p>
+<p>bon Service bon Dieu à tout li monde;; mais eux autes malins, beaucoup</p>
+<p>michans touzour mocque à li, touzour siputer contre li, touzour charcher</p>
+<p>à tuÿer à li. Enfin quand Bon Dieu fini permette à eux autes grand</p>
+<p>canaïe là, de faire mourir son Fils à li;; michantes gens-la, par grand</p>
+<p>et terrible malice, courir vîte prende J.C. dans un jardin, la nouît, où</p>
+<p>ça que li acoutumé faire bonne et long prière;; amarer à li, trainer</p>
+<p>à li par les chemins et dedans les bouës,  accuser à li grandes menteriës,</p>
+<p>à devant les Prêtres et Conseïers de leur Pays, dire que note Signeur faire</p>
+<p>mauvais complot, que li montrer mauvais cabale à tout ça qui vient acouter à li.</p>
+<p>[ms 30]</p>
+<p>Eux autes-même, michans Juges et Sacabirs-la, souffler étout ces vilains</p>
+<p>menteries, crier rage contre li, mener à li devant le Gouverneur, li Payen, et</p>
+<p>ne pas connoite bon Dieu. Quand J.C. N. Signeur fini rendre devant li, son nom</p>
+<p>à li Ponce Pilate, gouverneur payen-là, première, li avoir envie délivrer J.C.,</p>
+<p>mais son zoréïes beaucoup lasses, à la fin, li rendre mauvais jistice contre bon</p>
+<p>Dieu. Pilate, moi i dis, faire amarer à li à un piquet comme mauvais Saclave,</p>
+<p>fouëtter à li, dechirer à li zusqu’aux os. Fini fouëtter, corcher longtems longtems,</p>
+<p>Soldats donner à li grands coups de soufflets, coups de poings, coups de piés, tant</p>
+<p>[ms 31]</p>
+<p>que li pover porter, cracher sus li, mocquer à li;: Puis bander Son zieux,</p>
+<p>mette sus Son tête couronne d’Esquines et longs picans;; puis enfoncer dans</p>
+<p>Son tête à coups de triques, et ça tant que la nouïct durer. Fini faire soufrir</p>
+<p>à note Signeur, tous ces michans malices là, eux autes tretous, Pilate li même,</p>
+<p>tenir encor conseïe, et condamner tou ensembe note Sauveur Fils de Dieu, à</p>
+<p>mouri clouté sur une Croix. Michans Juif-là beaucoup bien aises, à cause</p>
+<p>li Gouverneur Pilate fini consenti leu michant l’envie. Eux autes après ça</p>
+<p>conduire à li au haut d’un Piton, là même clouter Son piés Son mains su la croix,</p>
+<p>et quitter mourir à li cõe ça même, après que li fini repandre tout son Sang.</p>
+<p>[ms 32]</p>
+<p>Ça même note Signeur J.C. l’a fait pou racheter à nous autes, pou gagner grace à</p>
+<p>tout li monde, pou tous les pechez que nou i fait conte bon Dieu. Après tout ça</p>
+<p>note Sauveur fini rassissiter 3e jour, li monter au Ciel, et à la fin du monde</p>
+<p>revenir encore pou juger les vivans les morts. Moi i crois encor le St Espirit &amp;c &amp;c</p>
+<p>[ms 33]</p>
+</div>
+      <div type="chapter" n="2"> <h3>Petit Catechisme de l’Isle de Bourbon 
+tourné au Style des Esclaves Nêgres.</h3>
+<p><head>Leçon 1re </head>
+</p>
+<p>Demande. Toi l’est Chretien;? Reponse. Ouï, moi l’est Chrétien par la grace bon Dieu. 
+(ou bien) Non, moi n’a pas encor Chrétien, moi content gagner Baptême et servir bon Dieu. 
+</p>
+<p>D. Toi connois bonDieu;?  </p>
+<p>R. Moi connois.  </p>
+<p>D. Quoi ça bonDieu;?  </p>
+<p>R. Li qui
+fini faire le Ciel la terre tout ça qu’y en a dans li monde.  </p>
+<p>D. Comment Dieu l’a fait
+le monde;?  </p>
+<p>R. L’a fait d’à rien par son grand, son seul puissance. 
+</p>
+<p>D. N’en a plusieurs Dieux, deux trois, quatre;?  </p>
+<p>R. N’en a bonDieu tout seul, n’a pas
+deux, n’a pas trois, n’a pas quatre;; maski;[8] un bon Dieu tant seulment, li ne peut pas
+avoir camarade.;[9]  </p>
+<p>D. Où qu’il est bonDieu;?  </p>
+<p>R. Bon Dieu l’est partout, au Ciel, 
+icy même, li voir à nous la nouïct cõe lé [li;?] jour.  </p>
+<p>D. A cause donc nous y ne voit pas
+Bon Dieu;?  </p>
+<p>R. à cause qu’ili [qui li] etre un espirit, ça que note zieux ne peut pas voir. 
+</p>
+<p>D. Bon Dieu n’en a un corps;?  </p>
+<p>R. Non va.  </p>
+<p>D. Nous y peut cacher nous autes
+au bon-Dieu;?  </p>
+<p>R. Non va. Li est partout, li voir tout, tout ça que nou i pense, 
+tout ça que nou i fait, li entend li acoute tout ça que nou i dit.  </p>
+<p>D. Bon Dieu
+l’a toujour été;?  </p>
+<p>R. Ouï, li n’a pas eû commencement, li pas jamais finir. 
+</p>
+<p>D. Qui ça qui finit faire à nous aute tretous et metté au monde;?  </p>
+<p>R. Bon Dieu même.</p>
+<p>[ms 34]</p>
+<p>Dem. A cause l’a metté à nous dans li [lé;?] monde;?  Rep. Pour que nous connoitr’ a li, 
+aimer, servi à li bian cõe i faut.  </p>
+<p>D. Bon Dieu n’a pas metté à nous dans le
+monde pour touzou vivre, touzou boire, manger, dormir, faire travail;?  </p>
+<p>R. Non va;: 
+note corps mourir un jour et aller pourrir dans la terre quand que bon Dieu voudra. 
+</p>
+<p>D. Notre ame mourir et pourrir etout;?  </p>
+<p>R. Non va;: quand li monde finir, notre
+ame veni charcher note corps.  </p>
+<p>D. Comment ça notre ame treuver notre corps, fini 
+pourrir;?  </p>
+<p>R. Bon Dieu fera treuver.  </p>
+<p>D. Fini treuver, où ça qu’ira note corps;? 
+</p>
+<p>R. Si notre ame aller en Paradis, note corps itout;: Si notre ame aller au Diabe en Enfer, 
+li étout.  </p>
+<p>D. Note corps donc arvenir en vie quéque jour;?  </p>
+<p>R. Ouï. Li revenir, et
+après ça notre ame et note corps touzour ensemble, jamais pus quitter l’in l’autre.</p>
+<p><head>Leçon 2me   </head>
+Demande. Combien n’en a Personnes en Dieu;?  </p>
+<p>R. N’en a trois, Pere, Fils, St Espirit. 
+</p>
+<p>D. Le Pere est Dieu;? Le Fils est Dieu , le St Espirit est Dieu;?  </p>
+<p>R. Ouï va.  </p>
+<p>D. Ça même
+trois bonDieux;?  </p>
+<p>R. Non va;: Ça même trois Parsonnes-là qui appellé S. Tarnité. 
+</p>
+<p>D. Quoi ça la Ste Tarnité;?  </p>
+<p>R. Maski, un Dieu qui faire trois Parsonnes, 
+et trois Parsonnes-là même, un Bon-Dieu tant seulement.  </p>
+<p>D. La Ste Tarnité et
+Dieu, tout de même donc;?  </p>
+<p>R. Même chose.  </p>
+<p>D. N’en a quequ’une trois Parsonnes-
+-là, plus beaucoup grand, plus beaucoup fort, plus beaucoup vieille que l’aute;?  </p>
+<p>R. Non va, 
+à cause tou-trois même Dieu.  </p>
+<p>D. Parsonne qui appellé Père, stella qui appellé Fils,</p>
+<p>[ms 35]</p>
+<p>stella qui appellé St Espirit, ça même Parsonne étout;?  </p>
+<p>R. Non va;: Eux autes
+trois Parsonnes differances.  </p>
+<p>D. A cause nou i croit, trois Parsonnes differances
+ne faire qu’un Bon-Dieu tant seulement;?  </p>
+<p>R. Nous i croit, à cause bonDieu et
+l’Eghilise dire à nous ça l’est bien beaucoup vrai.</p>
+<p><head>Leçon 3e </head>
+</p>
+<p>D. N’en a quequ’une trois Parsonnes la Ste Tarnité, qui faire homme cõe nous autes;? 
+</p>
+<p>R. Ouï, n’en a une.  </p>
+<p>D. Laquelle;?  </p>
+<p>R. La 2de Parsonne. Dieu li Fils.  </p>
+<p>D. Dieu
+le Pere n’a pas faire homme;?  </p>
+<p>R. Non, li n’a pas faire homme.  </p>
+<p>D. Dieu le St Espirit
+n’a pas faire homme;?  </p>
+<p>R. Li non pretre.  </p>
+<p>D. Qui donc ça qui se faire homme;?  </p>
+<p>R. 
+Dieu le Fils seulement.  </p>
+<p>D. Comment qui nomme à li;?  </p>
+<p>R. Li appellé Notre Sgr Jesus-Christ. 
+</p>
+<p>D. J.C. note Signeur, Dieu et homme tout ensembe;?  </p>
+<p>R. Ouï Li Dieu, tout Etarnité, 
+comme le Pere, le St Espirit, et homme dans li tems.  </p>
+<p>D. Quoi ça faire homme, devenir
+homme;?  </p>
+<p>R. Sta dire que li a prendé corp et ame pareïe à nous comm’ à nous. 
+</p>
+<p>D. Où ça que Fils de Dieu a prandé corp et ame.  </p>
+<p>R. Dans li Sein de la Ste Vierge
+Marie, son maman, par grand marveïe St Espirit.  </p>
+<p>D. A cause Fils de Dieu se faire 
+homme;?  </p>
+<p>R. Pou rachiter à nous tretous pauves Saclaves du peché, pou empêcher que
+nous aller en Enfer, et pou gagner à nous Paradis.  </p>
+<p>D. Est’ce [Est-ce] que nous tertous venir
+au monde, Saclaves du Diabe et du Peché;?  </p>
+<p>R. Ouï, nous venir au monde Saclaves
+ça même, à cause grand Peché d’adam [sic], premier Pere à nous.  </p>
+<p>D. Comment que N. Sgr
+</p>
+<p>[ms 36]</p>
+<p>Jesus-Christ fini racheter à nous autres;? Li fini racheter avec Piastres;?  </p>
+<p>R. Non va. 
+Li racheter à nous par son sang, par la mort, li fini souffri et mouri pour nous.</p>
+<p><head>Leçon 4e</head> 
+</p>
+<p>D. Qué jour notre Signeur l’a été conçu;?  </p>
+<p>R. Li jour l’annonsation.  </p>
+<p>D. Qué
+jour li venir au monde;?  </p>
+<p>R. Jour Noël, stila même qui chanté Messe la nouïct, 
+premier coq chantant.  </p>
+<p>D. Qué nom l’a donné à li;?  </p>
+<p>R. Nom de Jésus.  </p>
+<p>D. Quoi ça
+veut dire, Jésus;?  </p>
+<p>R. Veut dire Sauveur.  </p>
+<p>D. A cause qui appellé li Sauveur.  </p>
+<p>R. à
+cause Li venir su la terre pou sauver tout li [lé;?] monde.  </p>
+<p>D. Qué jour Rois beaucoup
+savans, beaucoup bon l’esprit accouri loin loin, et veni metté à ginoux devant li dans
+son caze, proche son cabane;?  </p>
+<p>R. Jour Piphanie, jour des Rois.  </p>
+<p>D. Que jour lé
+commandé St Saquerment La Messe;?  </p>
+<p>R. Jeudy la semaine Sainte, jour avant, li fini
+mourir.  </p>
+<p>D. Qué jour l’est mort;?  </p>
+<p>R. Venderdi-Saint, jour que li monde baiser
+la Croix à l’Eghilize.  </p>
+<p>D. Où que li est mort;; su son cabane;?  R . Nanni;: Li est mort
+clouté à la Croix.  </p>
+<p>D. Qui ça qui faire mourir à li;?  </p>
+<p>R. Gouverneur qui appellé Ponce
+Pilate, condamner à li, comme ça même, par mauvais malice. Mais note Signeur fini
+mouri, à cause que li a bien voulu. </p>
+<p>D. A cause N. Sgr voulu mouri;?  </p>
+<p>R. A cause li
+resolu païer poutous li [lé;?] monde, grand-Peines nous merité par notte Pechéz. </p>
+<p>D.Maski,;[10]
+Si notte Signeur n’a pas mourir pou nous, quoi qui arrivé à nous;?  </p>
+<p>R. hébé;! nous
+autes tous pardu tous Damnés.  </p>
+<p>D. Ou ça que l’a metté corps notre Signr, après que li</p>
+<p>[ms 37]</p>
+<p>fini mouri;?  </p>
+<p>R. Braves gens metté son corps, didans grand l’auge de pierres. 
+</p>
+<p>D. Et son ame, où que li aller;?  </p>
+<p>R. Son ame été allé aux Limbes charcher les ames des
+justes, pour mener eux autes en Paradis.  </p>
+<p>D. Li corps N. Signeur quitté mort longtems;? 
+</p>
+<p>R. Nanni;; Jesuschrist arsuscité 3e jour, après que li fini mourir.  </p>
+<p>D. Quoique vou
+i entend, quand vou idit [i dit], que N. Sgr arsuscité 3e jour.  </p>
+<p>R. Moi i entens, moi i dis, 
+que son ame fini prendé son corps, li sorti glorieux, hors gros roche, où qu’eux autes
+avoir metté son corps, et qu’ast’heure, n’a pas capable mourir davantage.  </p>
+<p>D. Qué
+jour Note Signeur arsuscité;?  </p>
+<p>R. Jour de Pâques.  </p>
+<p>D. Quoique Li a fait, après que
+fini arsusciter;?  </p>
+<p>R. Note Signeur faisé voir et montrer son Parsonne à tous sonz-
+apprentis, et y a resté sus terre avant monter au Ciel.  </p>
+<p>D. Qué jour fini monter au
+Ciel;?  </p>
+<p>R. Jour l’Ascension.  </p>
+<p>D. Qué jour l’anvoïé St Espirit à sonz-apotres.  </p>
+<p>R. 
+Jour la Penticote.  </p>
+<p>D. Puis ce tems-là, où ça qu’il est note Signeur.  </p>
+<p>R. Comme Dieu
+l’est partout;; cõe homme l’est au Ciel, au St Sakerment l’autel, là qui dire Messe.</p>
+<p><head>Leçon 5e </head> 
+</p>
+<p>D. Quéque jour Note Signeur J.C. revenir encor sus la terre;?  </p>
+<p>R. Ouï, li revenir encor
+à la fin du monde.  </p>
+<p>D. Quoi faire;?  </p>
+<p>R. Li venir juger les Bons, les michans.  </p>
+<p>D. 
+Quoi-ça que li donner aux Bons;?  </p>
+<p>R. Donnera Paradis.  </p>
+<p>D. Quoi ça Paradis;?  </p>
+<p>R. Paradis
+est un lieu où qu’i aura touti sorte de Biens, maski;[11] jamais de mal.  </p>
+<p>D. Qué bien i
+aura en Paradis;?  </p>
+<p>R. En Paradis touzou voir Bon-Dieu, touzour aimer B. Dieu, touzour
+bien avec B. Dieu, sans jamais craindé perde à li.  </p>
+<p>D. Qué faire pour aller en Paradis;?</p>
+<p>[ms 38]</p>
+<p/>
+<p>R. Garder Commandemens de Dieu, de l’Eghilise.  </p>
+<p>D. Combien Commandemens de 
+Dieu;?  </p>
+<p>R. N’en a dix.  </p>
+<p>D. Dire;?  </p>
+<p>R. Un seul Dieu tu adoreras…&amp;c;? 
+	Nota. – Comme tous les Nêgres, sans presque en excepter un seul, estropïent la
+    plupart des mots de cette antique Poësië française, sans même y rien
+		    comprendre de suivi, il est important de leur expliquer les Préceptes, de
+		    la manière et dans le Style qui suivent, et qu’ils entendent très-bien.</p>
+<table><row><cell>1er</cell><cell>Adorer, faire bons Prières au bon Dieu, aimer à li grand bon cœur, bien cõe i faut.</cell></row>
+<row><cell>2e</cell><cell>Pas jurer jamais, pas faire Sarment aucun.</cell></row>
+<row><cell>3e</cell><cell>Pas travaïer Dimanche, servi bon Dieu à l’Eghilise.</cell></row>
+<row><cell>4e</cell><cell>Porter raspect, obeïr à Pere et Mere, à Maitre, Maitresse, à tout ça </cell></row>
+<row><cell>;</cell><cell>qu’a droit commander à nous. Pas arzonner contre eux autes.</cell></row>
+<row><cell>5e</cell><cell>Pas tuïer jamais Parsonne, ni vouloir mal à li dans nôte cœur;; jamais.</cell></row>
+<row><cell>;</cell><cell>battre à li, jamais rendre, coups de bâtons, coups de piés, coups de soufflet;; </cell></row>
+<row><cell>;</cell><cell>jamais garde rancune, ni que li cœur i brûle contre stila qui fâche à nous, </cell></row>
+<row><cell>;</cell><cell>qui mocque à nous, qui buche à nous;: touzou bon camarade avec stila,</cell></row>
+<row><cell>;</cell><cell>qui tourmente à nous, qui haïe à nous, qui argarde ànous de travers.</cell></row>
+<row><cell>6e</cell><cell>Pas courir, pas faire auquin malice avec les fïës, les femmes des autes;:</cell></row>
+<row><cell>;</cell><cell>Pas garder auquêne dans son caze;: pas gâter menage des autes, ni</cell></row>
+<row><cell>;</cell><cell>note corps. Pas parler malice, pas penser malice, pas prende mauvais</cell></row> 
+</table>
+<p>[ms 39]</p>
+<table>
+<row><cell>;</cell><cell>pelaisir, que le Diabe i souffle dans li cœur. Tout ça grand grand Peché.</cell></row>
+<row><cell>7e</cell><cell>Pas vôler à rien;: pas garder ça qui est à un aute, malgré li;: rendre tout </cell></row> 
+<row><cell>;</cell><cell>à l’heure même.</cell></row>
+<row><cell>8e</cell><cell>Pas mentir jamais, pas couter, ni inventer menteries contre un aute.</cell></row>
+<row><cell>9 et 10e</cell><cell>Pas avoir jam’envië pour ça qui est à un aute, qui n’a pas à nous.</cell></row> 
+</table>
+<p>Commandemens de l’Eglise.</p>
+<table>
+<row><cell>1er et 2e</cell><cell>Jour qui l’est Fête, garder cõe Dimanche même, venir à la Messe,</cell></row>
+<row><cell>;</cell><cell> acouter catchîme, bon parole du Prêtre, qui montre à nous l’espirit,.</cell></row> 
+<row><cell>;</cell><cell>bon service bonDieu.</cell></row>
+<row><cell>3e</cell><cell>Veni faire confesse dans li carême, dire tout sons Pechés au Prêtre;;</cell></row>	
+<row><cell>;</cell><cell>demande grace, grand pardon bon Dieu, promette à li pulu faire jamais.</cell></row>
+<row><cell> 4e</cell><cell>Avoir envie communier à la Ste Tabe, si le Prêtre y consent.</cell></row>
+<row><cell>5e et 6e</cell><cell>Pas manger la viande Venderdi, Samidi;; pas manger plein ventre,</cell></row> 
+<row><cell>;</cell><cell>jours les jeûnes, et le carême. </cell></row>
+</table>
+
+<p>Il est bon d’observer icy en passant, qu’outre le jeûne et l’abstinence, auxquels
+les Esclaves ne peuvent être rigoureusement tenus, ils sont encore dispensés, par
+une Lettre expresse de feû Mgr de Vintimille, de la prohibition du travail, aux
+jours chômés, exceptéz les plus solennels, pourvû néanmoins, qu’ils aïent assisté à
+la Messe et aux Instructions Paroissiales, et qu’ils aïent soin, en offrant à Dieu</p>
+<p>[ms 40]</p>
+<p>leur Travail, ils recitent l’oraison Dominicale et la Salutation angelique.  Et c’est
+de quoi il est bon de les réavertir Souvent, soit en confession, soit au catechisme, 
+leur faisant observer encore, que ces travaux s’entendent principalement de la culture 
+des terres, et autres les moins bruïans, surtout dans les Quartiers, et durant les offices. 
+</p>
+<p><head>Suite du Catechisme</head>
+</p>
+<p>D. Quoi ça Note Signeur donner aux Michans;?  </p>
+<p>R. Donnera l’Enfer.
+</p>
+<p>D. Quoi ça l’Enfer;?	</p>
+<p>R. L’Enfer est un Lieu où qui aura touti sorte
+de mal, et jamais auquin bien.  </p>
+<p>D. Qui mal y aura en Enfer;?  </p>
+<p>R. En
+Enfer touzou bruler avec li Diabe, touzou sparé de Dieu, touzou tourmenté
+par chagrin d’avoir perdi Dieu par sa faute.	</p>
+<p>D. Quoi qui faire aller li
+monde en Enfer;?  </p>
+<p>R. Peché moritel.  </p>
+<p>D. Quoi-ça Peché moritel;?  </p>
+<p>R. Stila
+qui tuïez notre ame, qui faire perde à nous grace, l’amitié bon Dieu. 
+</p>
+<p>D. Faut beaucoup Pechez Moritels pour tomber en Enfer;?  </p>
+<p>R. Maski, n’en faut
+qu’un, si nou i meurt avec mauvais peché là.	 </p>
+<p>D. Maski, Peché moritel donc
+beaucoup grand mal;?	 </p>
+<p>R. Ouï va;: n’a pas pulu grand mal qu’estila dans li monde. 
+</p>
+<p>D. Ça qui encore Paÿen peut gagner grace li, pour tous son Pechés devant B. Dieu;? 
+</p>
+<p>R. Nanni.  Faut que li gagner son Baptême.</p>
+<p><head>Leçon 6e</head>
+</p>
+<p>D. Toi l’est Kertien;?	La Reponse cõe au commencement.	</p>
+<p>D. Grand grace
+bon Dieu toi l’est Kertien;?	 </p>
+<p>R. ouï va. Plus grand grace qué li pouvé faire à moi</p>
+<p>[ms 41]</p>
+<p>dans li monde.  </p>
+<p>D. Quoi ça être Kertien;?  </p>
+<p>R. Stila qui fini gagne son Baptême
+qui croire [et;?] faire ça que note Signeur montré ànous autes.  </p>
+<p>D. Tout ça qu’est Kertien
+aller en Paradis;?  R . Non va. Bon Kertiens tant seulement aller en Paradis.  </p>
+<p>D. 
+Quoi ça bon Kertien;?  </p>
+<p>R. Stila qu’a bon croïance, qui faire tout ça que bonDieu
+commande à nous.  </p>
+<p>D. Qui ça michant Kertien;?  </p>
+<p>R. Stila qui ne vêquir pas
+bian cõe i faut.  </p>
+<p>D. Qué marque pour montrer toi l’est Kertien;?  </p>
+<p>R. 
+Signe la Croix.  </p>
+<p>D. Faire signe la croix, bian comme i faut.  </p>
+<p>R. Au nom &amp;c
+</p>
+<p>D. Quand qui faut faire signe la Croix;?  </p>
+<p>R. Bon matin quanqui lève, li fair
+quan i couche, quand commence travaïe, et fini à li;: quanqui prend bouché manger
+quand li Diabe i tente à nous;: quand qui trouve danger.  </p>
+<p>D. A cause faut faire
+souvent signe la croix;?  </p>
+<p>R. Afin que BonDieu la Sainte Tarnité faire grace ànous, 
+et que nou i pense touzou, Note Signeur l’est mort sus l’arbre la Croix.</p>
+<p><head>Lecon 7e</head>
+</p>
+<p>D. Combien n’en a Saquerment;?  </p>
+<p>R. N’en a Sept. Baptême, Confirmation, &amp;c. 
+</p>
+<p>D. Quoi ça Baptême;?  </p>
+<p>R. Ça même qui lave tout note pechés, qui faire à nou, 
+Enfans bon Dieu, de l’Eghilise.  </p>
+<p>D. Après que fini baptiser petit l’enfant, li n’a pas
+peché davantage dans son ame;?  </p>
+<p>R. Non va. Si li fini mourir encor petit marmaïe, 
+avant que li commence arzonne, son ame aller tout droit en Paradis.  </p>
+<p>D. Stilà qui</p>
+<p>[ms 42]</p>
+<p>arzonne deja, ou qui fini deveni grand-monde, aller itout, droit en Paradis, 
+après que li fini gagné Baptême;?  </p>
+<p>R. N’a pas touzours.  </p>
+<p>D. Quant-ça que
+li gagne Paradis tout droit;?  </p>
+<p>R. Quand que li  i apporte bonnes dicipocions. 
+</p>
+<p>D. Qué dicipocions qui faut que li apporte;?  </p>
+<p>R. i faut qué li croire
+bien vrai dans son cœur, tout ça que li Prêtre montré à li catchîme;; i faut
+que li arnonce vertablement lé Diabe et tout son Pechez;; i faut que li avoir
+bonne envië bien garder commandemens de Dieu, de l’Eghilise.  </p>
+<p>D. Stila
+qui conté menterië au Prêtre, pou gagner Baptême, quoi que li i gagne;? 
+</p>
+<p>R. Bien vrai que li devient Kertien;; mais li ne gagne pas grace bonDieu;; 
+Li rester comme Payen même, devant bonDieu, qui connoit son vilains menteriës. 
+</p>
+<p>D. Une fois fini Baptizer, peut gagner Baptême encor;?  </p>
+<p>R. Non va. ja-
+mais Baptizer qu’enne fois seulement.  </p>
+<p>D. Si après que fini Baptizer, toi
+i fai encor mauvais peché, comment faire;?  </p>
+<p>R. Faut que moi aller à
+confesse.</p>
+<p><head>De la Penitence. </head>
+</p>
+<p>D. Comment qui appellé Sakerment Confesse;?  </p>
+<p>R. Ça même Sakerment
+Pénetence, manière deuxième Baptême, qui face peché que nou i fait, après</p>
+<p>[ms 43]</p>
+<p>que fini être Kertiens.  </p>
+<p>R. Quoi qui doit faire stila qui va à Confesse;? 
+</p>
+<p>R. Faire cinq choses. Première, zaminer son consçience. – Deuxième –
+beaucoup fâcher dans son coeur, tout ça qui offense BonDieu.  Troisieme –
+Pormette à li pas faire mal davantage. Quatrième, Dire au Prêtre tous
+les Pechez. Cinquième, pormette paÿer tout son Dettes au BonDieu et à
+camarades, et à tous stila qui a faisé tort.  </p>
+<p>D. Quoi ça zaminer
+Consçience;?  </p>
+<p>R. Charcher, fouïer dans note cœur tout ça qui a mauvais
+pensées, mechans malices, mauvais paroles, mauvai oubliances.  </p>
+<p>D. Faut
+zaminer consçience tant seulement jour là même que nou i va pour Confesse;? 
+</p>
+<p>R. Jour-la même pinrcipal [sic], et tous les soirs avant d’aller dormir. 
+</p>
+<p>D. Quoi ça veut dire, faché avoir offensé BonDieu;?  </p>
+<p>R. Stadire, note
+cœur beaucoup chagrin de tous notes pechez;: chagrin là même, qui appellé
+Contirtion.  </p>
+<p>D. Sans Contirtion là, Bondieu pardonne pa à nous;? 
+</p>
+<p>R. Non va;: Bondieu pardonne pas jamais.  </p>
+<p>D. Qui qui metté chagrin-là
+dans note cœur;?  </p>
+<p>R. Bon-Dieu Li même donne à nous contirtion-là, 
+quand nou i pense, Peché beaucoup grand mal devant bonDieu;: Péché-même
+là fait mourir Note Signeur J.C. – Peché y empêche à nou aller en Paradis, 
+et li envoïe note ame au Diabe en Enfer.  </p>
+<p>D. Quoi ça faire bon Porpos;?</p>
+<p>[ms 44]</p>
+<p/>
+<p>R. Stadire, mette bian comme i faut dans note cœur arzolution pas faire
+peché davantage, moïennant la grace bonDieu.  </p>
+<p>D. BonDieu i donne grace là
+à nous;?  </p>
+<p>R. Ouï, bon Dieu i aide à nous, si nou i demande à li par bons Prières. 
+</p>
+<p>D. Qué marque i fait connoite bon Porpos;?  </p>
+<p>R. N’en a trois. Première, 
+sanger la vie. Deuzième, travaïer à corriger mauvais vices. Troisième, pa
+aller en mauvais compagné, pou conter, ni acouter mauvais porpos.  </p>
+<p>D. Quoi-ça
+sanger la vie;?  </p>
+<p>R. Stadire faire li bien que nous ni faire pas, viter li mal
+que nous n’evite pas auparavant.  </p>
+<p>D. Qu’est ce à dire satisfaire à Dieu;?  </p>
+<p>R. Stadire
+faire penitence, prières, tout ça que li Prêtre commandé faire, à nous;; donner note
+travaïe à Dieu, prende la peine en patience pour l’amour de li, quitter même quequifois
+ça qui est permis jouër, divertir, faire badinage, poû punir note mauvais pechez.</p>
+<p><head>De la Communion. </head>
+</p>
+<p>D. Les Noirs, Nêgresses, stila surtout qui fini marier, n’a pa obligé aller la Ste Tabe, 
+gagner la Communion;?  </p>
+<p>R. Eux autes obligés, cõe les Blancs-même, tacher faire son
+Pâques et recevoir li Bon Dieu, quand qui est proche mourir.  </p>
+<p>D. La faute note Signeur
+la faute du Prêtre, ou la faute Saclaves même, si eux-autes ne recevoir pas li bonDieu
+jamais, pas même quand que bientôt fini mourir;?  </p>
+<p>R. La faute même, grand faute –
+Saclaves-même, à cause eux ne vouloir pas ranger la vie bian cõe i faut;; ni ne
+sogne pas que Maite, Maitresse, ou li Prêtre même, montre à eux bon l’esprit pour ça. 
+	Nota. Quil [sic] faut beaucoup de discrétion, de prudence, et d’expérience au Local des
+Isles, pour admettre les Esclaves à la participation de la Ste Eucaristie, même à la mort, 
+</p>
+<p>[ms 45]</p>
+<p>et l’on trouve aux Isles, quelque règlement ou Directoire à ce sujet, qu’il faut consulter, 
+ainsi que sur quantité d’autres poincts interessans du ministère, qu’on a à y éxercer.</p>
+<p><head>De l’Extrême Onction et du Mariage. </head>
+</p>
+<p>D. Après que malade fini confesse, qué Sakerment li Prêtre y donne au Kertien;? 
+</p>
+<p>R. Li donner l’extrême onction, les Stes Huiles.  </p>
+<p>D. Quoi ça l’Extrême Onction;? 
+</p>
+<p>R. Un Sakerment, manière dernier medecine, pour que l’ame sipporte avec bien
+beaucoup patience maladie, peines du corps;; pou effacer ça qui reste pechez;; gagner
+grace bon Dieu, pour bien mourir en bon Kertien.  </p>
+<p>D. Nous donc tertous mourir;? 
+</p>
+<p>R. Ouï va. Nous ne sait pas qué jour, comment, à quel endroit;; mais quand plaira
+Bon Dieu. Touzour tenir prêt, quitter peché, avoir bon consçience, mener vie sage
+en bon Kertien.  – </p>
+<p>D. Quoi ça li mariage;?  </p>
+<p>R. Un Sakerment qui heûnit [reûnit] 
+saintement l’homme et la femme.  </p>
+<p>D. Mariage des Kertiens comme mariages des
+Payens, qui quitte ensembe cõe ça même;?  </p>
+<p>R. Non va. Fini marier, quitte pas
+jamais, zusqu’à la mort.  </p>
+<p>D. Que devoir i a pou gens mariés;?  </p>
+<p>R. Gens mariés, 
+homme et femme touzou ensembe vive en paix, bonne amitié dans li cœur, acouter
+la raison l’in l’aute, zamai siputer, battre, charché querelle. Zamais courir, 
+l’homme son bord, femme l’autre bord;: garder grand fidelité zusqu’à la mort. 
+Le mari travaïer bon courage pou son famïe, la femme sogner ménage;; tous deux
+ensemble, montrer beaucoup bon l’espirit, prières catchîme, bon service bonDieu, à tous
+sonz enfans, si bon Dieu i donne à eux autes.</p>
+</div>
+    </body>
+  </text>
+</TEI>
